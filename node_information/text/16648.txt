@@ -1,0 +1,343 @@
+   #alternate
+
+   All About Cookies
+     * [spain.png]
+     * [german.jpg]
+     * [France.png]
+     * Home
+     * FAQs
+     * Security
+
+     * Navigation
+     * Home
+     * FAQ
+          + What is an IP address?
+          + What is a Cookie File/Folder?
+          + What is Protocol?
+          + What are Pop Up ads?
+          + What are Web Beacons
+          + What is a Clear GIF?
+          + I have heard that cookies are bad for privacy - is that true?
+          + What else can I do to protect myself when online?
+     * Anti-virus Protection
+          + Anti-virus Protection
+          + Anti-virus Programs
+          + Anatomy of a Virus
+          + Infected By A Virus
+          + Security Basics
+          + Social Network Concerns
+          + Avoiding Viruses
+          + Windows Security
+          + Email And Spam
+          + Safe Downloads
+          + Keeping PCs Virus-Free
+          + Identity Protection
+          + Malware and Virus Prevention
+          + Best Anti-Virus And Anti-Malware Tools
+          + How To Remove Viruses And Malware
+          + Malware Guide
+          + Malware Detection
+          + Malware Removal
+          + Malware Removal Tools
+          + Anti Malware Programs
+     * Paid Anti-virus Programs
+          + Avast Internet Security 2015
+          + Bitedefender Total Security 2015
+          + BullGuard Internet Security 2015
+          + ESET Smart Security 8
+          + F-Secure Internet Security 2015
+          + Kaspersky Internet Security 2015
+          + McAfee Internet Security 2014
+          + Norton Internet Security 2014
+          + Panda Internet Security 2015
+          + Eset NOD32 3.0
+          + Panda Internet Security
+          + McAfee VirusScan
+          + Norton AntiVirus 2009
+          + Avast Pro AntiVirus
+          + Avira AntiVirus Premium
+          + Bitdefender AntiVirus Plus
+          + Bullguard AntiVirus
+          + F-Secure AntiVirus
+          + G Data AntiVirus
+          + ZoneAlarm AntiVirus + Firewall
+     * Free Anti-virus Programs
+          + Avira AntiVir
+          + AVG Anti-Virus
+          + ClamWin Antivirus
+          + Avast 4! Home Edition
+          + BitDefender Free Edition
+          + HouseCall Virus Scan 7.1
+          + Immunet Protect 3.0
+     * Privacy Concerns
+          + Privacy Concerns
+          + New European laws
+     * What is Adserver
+          + What is a 3rd party adserver
+     * What is a Cookie
+          + What is a cookie
+          + Are all cookies the same?
+          + What is a cookie file?
+          + What are session cookies used for?
+          + What are persistent cookies used for?
+          + What can't cookies do?
+          + So how do cookies get onto my browser?
+          + Cookie profiling
+          + What information is in a cookie?
+     * Manage Cookies
+          + Manage Cookies
+          + What can I do to manage cookies stored on my computer?
+          + What can I do to stop cookies being installed on my browser?
+          + How to I clear cookies that are installed on my browser?
+          + I like to control which cookies are being set on my browser,
+            but the alerts are rather annoying - is there anyway that I
+            can stop them?
+          + What is an Opt-Out cookie?
+          + Remove Flash Cookies
+          + Netscape Navigator 3.0
+          + Netscape 4.0+
+          + Netscape 6.0+
+          + Firefox 2.0+ / 3.0+ / 4.0+/8.0+
+          + Internet Explorer 3.0
+          + Internet Explorer 4.0
+          + Internet Explorer 5.0+
+          + Internet Explorer (IE) 7.0+
+          + Internet Explorer (IE) 8.0+
+          + Internet Explorer (IE) 9.0+
+          + Internet Explorer (IE) 11.0+
+          + Google Chrome
+          + Safari
+          + Opera
+     * Mobile Cookies
+          + Mobile Cookies
+          + What can I do to manage cookies stored on my mobile devices?
+          + Different Tracking methods on Mobile Devices
+          + How to manage cookies on Blackberry Torch?
+          + How to manage cookies on Blackberry Z10?
+          + Security concerns of Mobile Technology
+          + Manage Cookies on Nokia Lumia 625
+          + Manage Cookies on Lumia 820
+          + Manage Cookies on Nokia 301
+          + Manage Cookies on Nokia E63
+          + Manage Cookies on Samsung Galaxy Note 3
+          + Manage Cookies on Samsung Galaxy Note 10
+          + Manage Cookies on Samsung Galaxy Note 10 2014
+          + Manage Cookies on Samsung Galaxy Note 11 LTE
+          + Manage Cookies on Samsung Galaxy S 11
+          + Manage Cookies on Samsung Galaxy S 111
+          + Manage Cookies on Samsung Galaxy S 4
+          + Manage Cookies on Samsung Galaxy S 4 mini
+          + Manage Cookies Galaxy S 5
+     * Web browser
+          + What is a browser?
+          + What does my browser do?
+          + So how is a web page created for me?
+          + What information needs to be shared in order for a web page to
+            be created for me?
+          + So how do cookies get onto my browser?
+     * Privacy Policy
+          + How to write a Privacy Policy
+          + Privacy Policy
+          + Privacy Alliance
+     * [INS: :INS]
+     * -Your Ad Here-
+
+   Sidebar
+   Welcome To All About Cookies.org
+
+   What are cookies in computers?
+
+   Also known as browser cookies or tracking cookies, cookies are small,
+   often encrypted text files, located in browser directories. They are
+   used by web developers to help users navigate their websites
+   efficiently and perform certain functions. Due to their core role of
+   enhancing/enabling usability or site processes, disabling cookies may
+   prevent users from using certain websites.
+
+   Cookies are created when a user's browser loads a particular website.
+   The website sends information to the browser which then creates a text
+   file. Every time the user goes back to the same website, the browser
+   retrieves and sends this file to the website's server. Computer Cookies
+   are created not just by the website the user is browsing but also by
+   other websites that run ads, widgets, or other elements on the page
+   being loaded. These cookies regulate how the ads appear or how the
+   widgets and other elements function on the page.For Managing cookies
+   for different browsers see here
+   [INS: :INS]
+
+   Standard uses for browser cookies
+
+   Website servers set cookies to help authenticate the user if the user
+   logs in to a secure area of the website. Login information is stored in
+   a cookie so the user can enter and leave the website without having to
+   re-enter the same authentication information over and over. More
+   information
+
+   Session Cookies are also used by the server to store information about
+   user page activities so users can easily pick up where they left off on
+   the server's pages. By default, web pages really don't have any
+   'memory'. Cookies tell the server what pages to show the user so the
+   user doesn't have to remember or start navigating the site all over
+   again. Cookies act as a sort of “bookmark” within the site. Similarly,
+   cookies can store ordering information needed to make shopping carts
+   work instead of forcing the user to remember all the items the user put
+   in the shopping cart.
+
+   Persistent or tracking Cookies are also employed to store user
+   preferences. Many websites allow the user to customize how information
+   is presented through site layouts or themes. These changes make the
+   site easier to navigate and/or lets user leave a part of the user's
+   “personality” at the site. For Information on session and persistent
+   and tracking cookies, see here
+
+   Cookie security and privacy issues
+
+   Cookies are NOT viruses. Cookies use a plain text format. They are not
+   compiled pieces of code so they cannot be executed nor are they
+   self-executing. Accordingly, they cannot make copies of themselves and
+   spread to other networks to execute and replicate again. Since they
+   cannot perform these functions, they fall outside the standard virus
+   definition.
+
+   Cookies CAN be used for malicious purposes though. Since they store
+   information about a user's browsing preferences and history, both on a
+   specific site and browsing among several sites, cookies can be used to
+   act as a form of spyware. Many anti-spyware products are well aware of
+   this problem and routinely flag cookies as candidates for deletion
+   after standard virus and/or spyware scans.See here for some privacy
+   issues and concerns.
+
+   The way responsible and ethical web developers deal with privacy issues
+   caused by cookie tracking is by including clear descriptions of how
+   cookies are deployed on their site. If you are a web developer and need
+   advice on implementation of cookies and a privacy policy, you can
+   contact us by the enquiry form at the bottom of the page. These privacy
+   policies should explain what kind of information is collected and how
+   the information is used. Organizations utilising and displaying a
+   proper and useful cookie's policy and privacy policy include: LinkedIn
+   Networkadvertising.org and Dealspotr
+
+   Most browsers have built in privacy settings that provide differing
+   levels of cookie acceptance, expiration time, and disposal after a user
+   has visited a particular site. Backing up your computer can give you
+   the peace of mind that your files are safe.
+   [INS: :INS]
+
+   Other cookie-based threats
+
+   Since identity protection is highly valued and is every internet users
+   right , it pays to be aware of what threat cookies can pose.
+
+   As cookies are transmitted back and forth between a browser and
+   website, if an attacker or unauthorized person gets in between the data
+   transmission, the sensitive cookie information can be intercepted.
+   Although relatively rare, this can happen if the browser is connecting
+   to the server using an unencrypted network like an non-secured WiFi
+   channel.Internet security is only attainable if you regualrly use a
+   anti-virus protection programme.See our anti virus protection section.
+
+   Other cookie-based attacks involve exploiting faulty cookie-setting
+   systems on servers. If a website doesn't require browsers to use
+   encrypted channels only, attackers can use this vulnerability to trick
+   browsers into sending sensitive information over insecure channels. The
+   attackers then siphon off the sensitive data for unauthorized access
+   purposes.
+
+   New Laws for the use of cookies and other technologies that store
+   online user information.
+
+   On May 26th 2011, new rules governing the use of cookies by websites
+   comes into force in Europe.
+
+   Rather than the "Opt out" option for website visitors, websites will
+   need to specifically gain the consent of their visitor and they must
+   "Opt In" to be able to store cookies on their computer or other
+   devices.This is expected to be difficult to manage and enforcement will
+   more than likely be done subtlely and with encouragement rather than
+   with the threat of fines and penalties.
+
+   Businesses in the EU have some great resources that can help them with
+   their cookie compliance. The European Union has a internet
+   handbook that explains to businesses their requirements under the
+   legislation and has a 'cookie kit" to help them comply.
+
+What does the new law say?
+
+   The new requirement is essentially that cookies can only be placed on
+   machines where the user or subscriber has given their consent.
+   6 (1) Subject to paragraph (4), a person shall not store or gain access
+   to information stored, in the terminal equipment of a subscriber or
+   user unless the requirements of paragraph (2) are met.
+   (2) The requirements are that the subscriber or user of that terminal
+   equipment--
+   (a) is provided with clear and comprehensive information about the
+   purposes of the storage of, or access to, that information; and
+   (b) has given his or her consent.
+   (3) Where an electronic communications network is used by the same
+   person to store or access information in the terminal equipment of a
+   subscriber or user on more than one occasion, it is sufficient for the
+   purposes of this regulation that the requirements of paragraph (2) are
+   met in respect of the initial use.
+   “(3A) For the purposes of paragraph (2), consent may be signified by a
+   subscriber who amends or sets controls on the internet browser which
+   the subscriber uses or by using another application or programme to
+   signify consent.
+   (4) Paragraph (1) shall not apply to the technical storage of, or
+   access to, information--
+   (a) for the sole purpose of carrying out the transmission of a
+   communication over an electronic communications network; or
+   (b) where such storage or access is strictly necessary for the
+   provision of an information society service requested by the subscriber
+   or user.
+
+   More information on the new changes can be found here.
+   [INS: :INS]
+
+Key tips for safe and responsible cookie-based Web browsing
+
+   Due to their flexibility and the fact that many of the largest and
+   most-visited websites use cookies by default, cookies are almost
+   unavoidable. Disabling cookies will lock a user out of many of the most
+   widely-used sites on the Internet like Youtube, Gmail, Yahoo mail, and
+   others. Even search settings require cookies for language settings.
+   Here are some tips you can use to ensure worry-free cookie-based
+   browsing:
+
+   Customize your browser's cookie settings to reflect your comfort level
+   with cookie security or use our guide to delete cookies.
+
+   If you are very comfortable with cookies and you are the only person
+   using your computer, you may want to set long expiration time frames
+   for storing your personal access information and browsing history.
+
+   If you share access on your computer, you may want to set your browser
+   to clear private browsing data every time you close your browser. While
+   not as secure as rejecting cookies outright, this option lets you
+   access cookie-based websites while deleting any sensitive information
+   after your browsing session.
+
+   Install and keep antispyware applications updated
+
+   Many spyware detection, cleanup applications, and spyware removers
+   include attack site detection. They block your browser from accessing
+   websites designed to exploit browser vulnerabilities or download
+   malicious software.
+
+   Make sure your browser is updated
+
+   If you haven't already, set your browser to update automatically. This
+   eliminates security vulnerabilities caused by outdated browsers. Many
+   cookie-based exploits are based on exploiting older browsers' security
+   shortcomings.
+
+   Cookies are everywhere and can't really be avoided if you wish to enjoy
+   the biggest and best websites out there. With a clear understanding of
+   how they operate and how they help your browsing experience, you can
+   take the necessary security measures to ensure that you browse the Net
+   confidently.
+
+   allaboutcookies.org
+
+   Privacy and cookie policy*
+
+   © 2019 allaboutcookies.org

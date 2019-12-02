@@ -1,0 +1,737 @@
+   #alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W9GJ5DL
+
+   BT
+
+   (BUTTON) Toggle Navigation
+
+   Facilitating the spread of knowledge and innovation in professional
+   software development
+   (BUTTON) More
+     * About InfoQ
+     * InfoQ Writers
+     * Contribute
+     * About C4Media
+     * Media Kit
+
+   Search ____________________
+   Search
+   (BUTTON) Sign Up / Login
+   Email ____________________
+   Password ____________________
+
+   Login
+   (BUTTON) Forgot password ?
+   InfoQ Account Email ____________________
+
+   Send Recovery Email
+
+   (BUTTON) Back to login
+   Resend Activation ____________________
+
+   Resend
+
+   (BUTTON) Back to login
+
+Login with:
+
+   Google Microsoft Twitter Facebook
+
+Don't have an InfoQ account?
+
+   Sign Up
+   (BUTTON) Notifications
+   1
+
+Login to unlock InfoQ's new features
+
+     * Stay up to date and get notified
+     * Like your favorite content
+     * Follow your favorite editors and peers
+
+   (BUTTON) Sign Up / Login Don't have an account? Register Here
+   Logo - Back to homepage
+     * En
+     * 中文
+     * 日本
+     * Fr
+     * Br
+
+   1,557,098 Oct unique visitors
+   News Articles Presentations Podcasts Guides
+
+Topics
+
+     Development
+     * Java
+     * Kotlin
+     * .Net
+     * C#
+     * Swift
+     * Go
+     * Rust
+     * JavaScript
+
+Featured in Development
+
+     *
+
+Book Review: A Leader's Guide to Cybersecurity
+       A Leader's Guide to Cybersecurity educates readers about how to
+       prevent a crisis and/or take leadership when one occurs. With a
+       focus on clear communication, the book provides details, examples,
+       and guidance of mapping security against what a business actually
+       does. The book describes ways to align security with the motivation
+       of others who may be security-agnostic against their own goals.
+       Book Review: A Leader's Guide to Cybersecurity
+
+   All in development
+
+     Architecture & Design
+     * Architecture
+     * Enterprise Architecture
+     * Scalability/Performance
+     * Design
+     * Case Studies
+     * Microservices
+     * Patterns
+     * Security
+
+Featured in Architecture & Design
+
+     *
+
+Bryan Liles on Making Kubernetes Easier for Developers, the CNCF, and
+“Serverless”
+       In this podcast, Daniel Bryant sat down with Bryan Liles, senior
+       staff engineer at VMware. Topics covered included: the challenges
+       with deploying applications into Kubernetes, using the open source
+       Octant tool to increase a user’s understanding of Kubernetes
+       clusters, and how “serverless” technologies may influence the
+       future approaches to building software.
+       Bryan Liles on Making Kubernetes Easier for Developers, the CNCF,
+       and “Serverless”
+
+   All in architecture-design
+
+     AI, ML and Data Engineering
+     * Big Data
+     * Machine Learning
+     * NoSQL
+     * Database
+     * Data Analytics
+     * Streaming
+
+Featured in AI, ML & Data Engineering
+
+     *
+
+How to Use Redis TimeSeries with Grafana for Real-Time Analytics
+       In this article, author Roshan Kumar discusses how a purpose-built
+       database like RedisTimeSeries can be used to manage time-series
+       data. He also shows how to visualize this data in a Grafana
+       dashboard.
+       How to Use Redis TimeSeries with Grafana for Real-Time Analytics
+
+   All in ai-ml-data-eng
+
+     Culture & Methods
+     * Agile
+     * Diversity
+     * Leadership
+     * Lean/Kanban
+     * Personal Growth
+     * Scrum
+     * Sociocracy
+     * Software Craftmanship
+     * Team Collaboration
+     * Testing
+     * UX
+
+Featured in Culture & Methods
+
+     *
+
+13 Practices for Better Code Reviews
+       When done incorrectly, code review can be irritating, excessively
+       time consuming, and have little or no impact on code quality.
+       However, if done well, it can improve the quality of code and
+       reduce the overall time spent delivering features. This article
+       provides several good practices regarding both technical and
+       cultural aspects of code review.
+       13 Practices for Better Code Reviews
+
+   All in culture-methods
+
+     DevOps
+     * Infrastructure
+     * Continuous Delivery
+     * Automation
+     * Containers
+     * Cloud
+     * Observability
+
+Featured in DevOps
+
+     *
+
+The Unicorn Project and the Five Ideals: Interview with Gene Kim
+       The Unicorn Project is a fictionalized story about a DevOps
+       transformation. Gene Kim introduces the five ideals of Locality and
+       Simplicity; Focus, Flow and Joy; Improvement of Daily Work;
+       Psychological Safety; and Customer Focus. The book confirms the
+       importance of the DevOps movement as a better way of working and
+       addresses the importance of architecture and developers’
+       productivity.
+       The Unicorn Project and the Five Ideals: Interview with Gene Kim
+
+   All in devops
+
+     Videos with TranscriptsNew
+
+Helpful links
+
+     * About InfoQ
+     * InfoQ Writers
+     * Contribute
+     * About C4Media
+
+QCons from around the world
+
+   QCon
+       Software Dev Conference
+     * LondonMar 2-6, 2020
+     * New YorkJun 15-19, 2020
+     * MunichOct 19-21, 2020
+
+Choose your language
+
+     * En
+     * 中文
+     * 日本
+     * Fr
+     * Br
+
+   Featured:
+
+   (BUTTON) More
+     * Streaming
+     * Machine Learning
+     * Reactive
+     * Microservices
+     * Containers
+     * Observability
+     * Security
+
+   DevOps: Increase Operational Efficiencies
+
+News
+
+     *
+
+How Engagement Models Support Agile Adoption: Q&A With Karl Scotland
+       Ben Linders
+       on Nov 19
+     *
+
+Low Latency Profiling Now Available in Java 8
+       Erik Costlow
+       on Nov 19
+     *
+
+The Future of Data Engineering: Chris Riccomini at QCon San Francisco
+       Steef-Jan Wiggers
+       on Nov 18
+     *
+
+Unlocking Market Data, Amazon Introduces AWS Data Exchange
+       Kent Weare
+       on Nov 18
+     *
+
+Docker Enterprise Business and Team Go to Mirantis While Docker Gets New
+Funding
+       Sergio De Simone
+       on Nov 18
+     *
+
+Automated Testing for Terraform, Docker, Packer, Kubernetes, and More:
+Yevgeniy Brikman at QCon SF
+       Steef-Jan Wiggers
+       on Nov 17
+     *
+
+Dart 2.6 Goes Native on Linux, Windows, and MacOS
+       Sergio De Simone
+       on Nov 15
+     *
+
+Stateful Programming Models in Serverless Functions: Chris Gillum at QCon San
+Francisco
+       Steef-Jan Wiggers
+       on Nov 15
+
+   MORE NEWS
+
+Trending
+
+    1.
+
+Automated Testing for Terraform, Docker, Packer, Kubernetes, and More:
+Yevgeniy Brikman at QCon SF
+    2. Icon
+
+Dave Farley on Taking Back Software Engineering
+    3.
+
+Rust Gets Zero-Cost Async/Await Support in Rust 1.39 2
+    4.
+
+Web Components Reaching Mainstream Maturity
+    5.
+
+How to Use Redis TimeSeries with Grafana for Real-Time Analytics
+    6.
+
+Dart 2.6 Goes Native on Linux, Windows, and MacOS
+    7.
+
+Delta – a Data Synchronization and Enrichment Platform by Netflix
+    8.
+
+Stateful Programming Models in Serverless Functions: Chris Gillum at QCon San
+Francisco
+    9.
+
+Amazon Introduces Saving Plans for AWS Compute Services
+   10.
+
+GitHub Launches Mobile App, Notifications Beta, and Code Navigation Features
+   11.
+
+Azure Functions Premium Plan Goes GA, Brings Pre-Warmed Instances, VNET
+Integration
+   12.
+
+TypeScript 3.7 Adds Optional Chaining and Coalescing 1
+
+    1.
+
+Blazor: Client-Side Web UI with .NET Core 3.0 3
+    2.
+
+Recent Study Estimates That 50% of Websites Using WebAssembly Apply It for
+Malicious Purposes
+    3.
+
+Microsoft Concludes the .NET Framework API Porting Project
+    4.
+
+Containers in 2019: They're Calling it a [Hypervisor] Comeback
+    5.
+
+A First Look at Java Inline Classes 18
+    6.
+
+Angular & ASP.NET Core 3.0 - Deep Dive
+    7.
+
+Automated Testing for Terraform, Docker, Packer, Kubernetes, and More:
+Yevgeniy Brikman at QCon SF
+    8.
+
+Introducing Microsoft.Data.SqlClient
+    9.
+
+Largest Transport Provider in Norway Rewrites Its Website with 83,000 Lines
+of Elm 2
+   10.
+
+SLOs Are the API for Your Engineering Team
+   11.
+
+GRIT Protocol Enables Distributed Transactions across Multi-Database
+Microservices 2
+   12. Icon
+
+Michelle Krejci on Moving to Microservices: Visualising Technical Debt,
+Kubernetes, and GraphQL
+
+    1.
+
+Programming Languages InfoQ Trends Report - October 2019 4
+    2.
+
+Maybe Agile Is the Problem 15
+    3.
+
+Google Announces TensorFlow Graphics Library for Unsupervised Deep Learning
+of Computer Vision Model
+    4. Icon
+
+Why Continuations are Coming to Java
+    5.
+
+Single Page Applications and ASP.NET Core 3.0 1
+    6.
+
+.NET Core: Past, Present, and Future 5
+    7.
+
+Blazor: Client-Side Web UI with .NET Core 3.0 3
+    8.
+
+Java InfoQ Trends Report - July 2019 2
+    9.
+
+Recent Study Estimates That 50% of Websites Using WebAssembly Apply It for
+Malicious Purposes
+   10.
+
+WebAssembly and Blazor: A Decades Old Problem Solved 1
+   11.
+
+Microsoft Concludes the .NET Framework API Porting Project
+   12. Icon
+
+Johnny Xmas on Web Security & the Anatomy of a Hack
+
+Articles
+
+     * 13 Practices for Better Code Reviews
+
+13 Practices for Better Code Reviews
+       Mohammad Ali Bozorgzadeh
+       on Nov 19
+     * Book Review: A Leader's Guide to Cybersecurity
+
+Book Review: A Leader's Guide to Cybersecurity
+       Erik Costlow
+       on Nov 18
+     * The Unicorn Project and the Five Ideals: Interview with Gene Kim
+
+The Unicorn Project and the Five Ideals: Interview with Gene Kim
+       Shaaron A Alvares Gene Kim
+       on Nov 17
+     * How to Use Redis TimeSeries with Grafana for Real-Time Analytics
+
+How to Use Redis TimeSeries with Grafana for Real-Time Analytics
+       Roshan Kumar
+       on Nov 13
+
+   MORE ARTICLES
+
+Sponsored Content
+
+Presentations
+
+     *
+
+Remote Working in an Agile World
+       Raji Bhamidipati
+       on Nov 18
+       Icon
+       47:58
+     *
+
+NUDGE – Role of Economics in Architecture and Design
+       Raghavendra Mithare
+       on Nov 18
+       Icon
+       36:23
+     *
+
+The Complexity Toolkit: Techniques for Navigating Uncertainty
+       Marcus Williams Simon Lawrence
+       on Nov 16
+       Icon
+       45:37
+     *
+
+Chaos Engineering for People Systems
+       Dave Rensin
+       on Nov 16
+       Icon
+       31:12
+     *
+
+Coding the Future Coders
+       Angie Jones
+       on Nov 15
+       Icon
+       28:14
+     *
+
+How I Tried Holacracy and Lived to Tell the Tale
+       Sandy Mamoli
+       on Nov 14
+       Icon
+       42:07
+     *
+
+Chicken Breeding & The Core Design Principles
+       Craig Larman
+       on Nov 13
+       Icon
+       15:52
+     *
+
+Innovation at Scale: A Community of Purpose
+       Jacob Singh
+       on Nov 12
+       Icon
+       40:51
+     *
+
+Dynamic Reteaming: Acknowledge Reality, Chart Your Path
+       Heidi Helfand
+       on Nov 10
+       Icon
+       01:01:52
+
+   MORE PRESENTATIONS
+
+Podcasts
+
+     *
+
+Bryan Liles on Making Kubernetes Easier for Developers, the CNCF, and
+“Serverless”
+       Bryan Liles
+       on Nov 15
+       Bryan Liles on Making Kubernetes Easier for Developers, the CNCF,
+       and “Serverless”
+       Icon
+       29:38
+     *
+
+Dave Farley on Taking Back Software Engineering
+       Dave Farley
+       on Nov 11
+       Dave Farley on Taking Back Software Engineering
+       Icon
+       21:43
+     *
+
+Victor Dibia on TensorFlow.js and Building Machine Learning Models with
+JavaScript
+       Victor Dibia
+       on Nov 08
+       Victor Dibia on TensorFlow.js and Building Machine Learning Models
+       with JavaScript
+       Icon
+       28:00
+
+   MORE PODCASTS
+
+Guides
+
+     *
+
+The InfoQ eMag: Mastering Remote Meetings
+       InfoQ
+       The InfoQ eMag: Mastering Remote Meetings
+     *
+
+The InfoQ eMag - Taming Complex Systems in Production
+       InfoQ
+       The InfoQ eMag - Taming Complex Systems in Production
+     *
+
+The InfoQ eMag - Becoming a Technical Leader
+       InfoQ
+       The InfoQ eMag - Becoming a Technical Leader
+     *
+
+The InfoQ eMag - Service Mesh: Past, Present, and Future
+       InfoQ
+       The InfoQ eMag - Service Mesh: Past, Present, and Future
+     *
+
+The InfoQ eMag: DevOps for the Database
+       InfoQ
+       The InfoQ eMag: DevOps for the Database
+     *
+
+The Organisational Dynamics Review
+       Douglas Talbot
+       The Organisational Dynamics Review
+     *
+
+The InfoQ eMag: Operationalizing Microservices
+       InfoQ
+       The InfoQ eMag: Operationalizing Microservices
+     *
+
+The InfoQ eMag: Holacracy Sociocracy
+       InfoQ
+       The InfoQ eMag: Holacracy Sociocracy
+
+   MORE GUIDES
+
+Related Vendor Content
+
+
+Sponsored Content
+
+     * Development
+          + Book Review: A Leader's Guide to Cybersecurity
+          + Docker Enterprise Business and Team Go to Mirantis While
+            Docker Gets New Funding
+          + Coding the Future Coders
+     * Architecture & Design
+          + Bryan Liles on Making Kubernetes Easier for Developers, the
+            CNCF, and “Serverless”
+          + Delta – a Data Synchronization and Enrichment Platform by
+            Netflix
+          + Victor Dibia on TensorFlow.js and Building Machine Learning
+            Models with JavaScript
+     * Culture & Methods
+          + 13 Practices for Better Code Reviews
+          + How Engagement Models Support Agile Adoption: Q&A With Karl
+            Scotland
+          + Remote Working in an Agile World
+     * AI, ML & Data Engineering
+          + The Future of Data Engineering: Chris Riccomini at QCon San
+            Francisco
+          + How to Use Redis TimeSeries with Grafana for Real-Time
+            Analytics
+          + PyTorch 1.3 Release Adds Support for Mobile, Privacy, and
+            Transparency
+     * DevOps
+          + The Unicorn Project and the Five Ideals: Interview with Gene
+            Kim
+          + logz.io Releases Feature to Automatically Identify Patterns
+            within Log Data
+          + Heroku's Journey to Automated Continuous Deployment
+
+The Architectsʼ Newsletter
+
+   A monthly overview of things you need to know as an architect or
+   aspiring architects. View an example
+     * Stay informed on emerging trends, peer-validated early adoption of
+       technologies, and architectural best practices
+     * Get a curated summary of what you need to know by expert
+       practitioners
+     * Won’t clutter your inbox since it’s a monthly email
+
+   Enter your e-mail address ____________________ ____________________
+   Select your country [Select a country]
+
+   [ ] I consent to InfoQ.com handling my data as explained in this
+   Privacy Notice.
+   Subscribe
+
+   We protect your privacy.
+   [nlframe-mobile.jpg]
+
+   IFRAME:
+   https://assets.infoq.com/newsletter/architect/en/newsletter_sample/18Ar
+   chitects_NL-January_2019.html
+
+   Home Create account (BUTTON) Login QCon Conferences Contribute InfoQ
+   Writers About InfoQ About C4Media Media Kit
+
+QCons Worldwide
+
+     *
+
+London
+       Mar 2-6, 2020
+     *
+
+Beijing
+       2020
+     *
+
+QCon São Paulo
+       May 4–6, 2020
+     *
+
+New York
+       Jun 15-19, 2020
+     *
+
+QCon Guangzhou
+       2020
+     *
+
+Munich
+       Oct 19-21, 2020
+     *
+
+San Francisco
+       Nov 16-20, 2020
+
+Follow us on
+
+   145kFollowers 9kFollowers 19kReaders 38kFollowers 18kLikes AlexaNew
+
+   1% for a Better World
+
+   We care about the world in which we live and we want to make it a
+   better place.
+
+   We are doing so by fulfilling our mission to accelerate the human side
+   of software development.
+
+   We also donate 1% of our profit to different causes, which we as a
+   company, as well as our employees, strongly believe in.
+
+   General Feedback feedback@infoq.com Advertising sales@infoq.com
+   Editorial editors@infoq.com Marketing marketing@infoq.com
+
+   InfoQ.com and all content copyright © 2006-2019 C4Media Inc. InfoQ.com
+   hosted at Contegix, the best ISP we've ever worked with.
+   Privacy Notice, Terms And Conditions, Cookie Policy
+
+   BT
+
+   Is your profile up-to-date? Please take a moment to review and update.
+   Email Address*
+   ____________________
+
+   Note: If updating/changing your email, a validation request will be
+   sent
+
+   Company name:
+   [ ]
+   Keep current company name
+   Update Company name to:*
+   ____________________
+   Company role:
+   [ ]
+   Keep current company role
+   Update company role to:*
+   [____________________________________________________]
+   Company size:
+   [ ]
+   Keep current company Size
+   Update company size to:*
+   [___________]
+   Country/Zone:
+   [ ]
+   Keep current country/zone
+   Update country/zone to:*
+   [--- Select a country ---____________________]
+   State/Province/Region:
+   [ ]
+   Keep current state/province/region
+   Update state/province/region to:
+   [ ]
+   Subscribe to our newsletter?
+   [ ]
+   Subscribe to our architect newsletter?
+   [ ]
+   Subscribe to our industry email notices?
+   [ ]
+   By subscribing to this email, we may send you content based on your
+   previous topic interests. See our privacy notice for details.
+   [ ]
+   Subscribe to our Special Reports newsletter?
+   Submit
+   You will be sent an email to validate the new email address. This
+   pop-up will close itself in a few moments.
+
+   [tr?id=842388869148196&ev=PageView&noscript=1]

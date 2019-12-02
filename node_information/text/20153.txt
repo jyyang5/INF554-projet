@@ -1,0 +1,1862 @@
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * 메뉴 열기 메뉴 닫기
+     * Apple Developer
+
+   검색
+   검색 닫기
+     * Apple Developer
+     * 둘러보기
+     * 디자인
+     * 개발
+     * 배포
+     * 지원
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 검색 닫기
+
+   (BUTTON)
+
+오늘 앱을 제출하십시오.
+
+   Xcode 11로 빌드한 앱을 최신 OS를 실행하는 기기에서 테스트한 후 심사를 위해 제출하십시오.
+
+   더 알아보기
+
+     *
+
+Apple 플랫폼
+       iOS iPadOS macOS watchOS tvOS
+     *
+
+Xcode 11 + SwiftUI
+
+모든 Apple 플랫폼에서 사용자 인터페이스를 구축할 수 있는 이 혁신적인 새로운 방법을
+사용하면 적은 코드로 더 뛰어난 앱을 만들 수 있습니다.
+     *
+
+iPad에서 Mac으로
+
+현재 iPad 앱에서 기본 Mac 앱을 제작하는 것이
+이제 매우 간단합니다.
+
+     *
+
+증강 현실
+
+ARKit 3, 새로운 RealityKit 프레임워크 및 Reality Composer 앱의 놀라운 기능을 활용하여 최첨단 AR 경험을
+쉽게 프로토타이핑하고 제작할 수 있습니다.
+     *
+
+머신 러닝
+
+머신 러닝 전문 지식이 필요 없는 Core ML 3 및 새로운 ML 앱을 사용하여 머신 러닝 모델을 구축하고 교육하고 배포하십시오.
+     *
+
+Siri
+
+후속 질문이 있는 대화식 음성 경험을 제공하고, Siri가 사용자 예약을 알게 하여 미리 알림을 얻을 수 있도록 하는 등의 작업을
+수행합니다.
+     *
+
+Apple로 로그인
+
+앱과 웹 사이트로 로그인하는 빠르고 쉬운 방법.
+     *
+
+watchOS 6
+
+독립적인 watchOS 앱 또는 iOS를 동반하지 않는 watchOS 전용 앱을 제작해 보십시오.(영문)
+     *
+
+iPadOS
+
+iPad의 특별한 능력과 기능을 활용하십시오.
+
+     * WWDC19
+
+WWDC19
+
+Write code. Blow minds.
+
+   뉴스 및 업데이트
+
+   Apple 개발자를 위한 최신 소식과 추천 사항을 살펴보십시오.
+
+   뉴스 및 업데이트 보기
+
+   문서
+
+   API 참고 자료, 기사 및 샘플 코드를 비롯한 다양한 자료를 확인해 보십시오.
+
+   문서 읽기(영문)
+
+   소프트웨어 다운로드
+
+   Xcode, macOS, iOS, watchOS 및 tvOS 등 최신 소프트웨어를 만나 보십시오.
+
+   리소스 다운로드(영문)
+
+   Developer Program
+
+   Developer Program의 회원이 되어 Apple 플랫폼 배포용 리소스를 활용해 보십시오.
+
+   Developer Program 보기
+
+Developer Footer
+
+   [ ]
+
+둘러보기
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari 및 Web(영문)
+     * 게임(영문)
+     * 엔터프라이즈(영문)
+     * 교육(영문)
+     * WWDC(영문)
+
+   [ ]
+
+디자인
+
+   Open Menu Close Menu
+     * Human Interface Guidelines(영문)
+     * 리소스(영문)
+     * 비디오(영문)
+     * Apple 디자인 어워드(영문)
+     * 글꼴(영문)
+     * 접근성
+     * 국제화
+     * 액세서리 디자인
+
+   [ ]
+
+개발
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * 문서(영문)
+     * 비디오(영문)
+     * 다운로드(영문)
+
+   [ ]
+
+배포
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac 소프트웨어
+     * 비즈니스용 앱(영문)
+     * Safari 확장 프로그램(영문)
+     * 마케팅 지침
+     * 상표 사용권(영문)
+
+   [ ]
+
+지원
+
+   Open Menu Close Menu
+     * 문서
+     * 개발자 포럼(영문)
+     * 피드백 & 버그 리포트(영문)
+     * 시스템 상태(영문)
+     * 문의하기
+
+   [ ]
+
+Account(영문)
+
+   Open Menu Close Menu
+     * 인증서, 식별자 및 프로파일(영문)
+     * App Store Connect
+
+   최신 개발자 소식을 보려면 뉴스 및 업데이트를 방문하십시오.
+   Copyright © 2019 Apple Inc. 모든 권리 보유.
+   약관(영문) 개인정보 취급방침 사용권 계약(영문)
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+   (BUTTON)
+
+   [ ]
+
+Human Interface Guidelines
+
+   Open Menu Close Menu
+     * iOS
+          + Themes
+          + Mac Catalyst
+          + Interface Essentials
+     * App Architecture
+          + Loading
+          + Modality
+          + Navigation
+          + Onboarding
+          + Requesting Permission
+          + Settings
+     * User Interaction
+          + 3D Touch
+          + Apple Pencil
+          + Audio
+          + Authentication
+          + Data Entry
+          + Drag and Drop
+          + Feedback
+          + File Handling
+          + Gestures
+          + Haptics
+          + Near Field Communication
+          + Undo and Redo
+     * System Capabilities
+          + Augmented Reality
+          + Multitasking
+          + Multiple Windows
+          + Notifications
+          + Printing
+          + Quick Look
+          + Ratings and Reviews
+          + Screenshots
+          + TV Providers
+     * Visual Design
+          + Adaptivity and Layout
+          + Animation
+          + Branding
+          + Color
+          + Dark Mode
+          + Materials
+          + Terminology
+          + Typography
+          + Video
+     * Icons and Images
+          + Image Size and Resolution
+          + App Icon
+          + Custom Icons
+          + Launch Screen
+          + System Icons
+     * Bars
+          + Navigation Bars
+          + Search Bars
+          + Status Bars
+          + Tab Bars
+          + Toolbars
+     * Views
+          + Action Sheets
+          + Activity Views
+          + Alerts
+          + Collections
+          + Image Views
+          + Pages
+          + Popovers
+          + Scroll Views
+          + Split Views
+          + Tables
+          + Text Views
+          + Web Views
+     * Controls
+          + Buttons
+          + Context Menus
+          + Edit Menus
+          + Labels
+          + Page Controls
+          + Pickers
+          + Progress Indicators
+          + Refresh Content Controls
+          + Segmented Controls
+          + Sliders
+          + Steppers
+          + Switches
+          + Text Fields
+     * Extensions
+          + Custom Keyboards
+          + File Providers
+          + Home Screen Actions
+          + Messaging
+          + Photo Editing
+          + Sharing and Actions
+          + Widgets
+         ______________________________________________________________
+
+     * macOS
+     * tvOS
+     * watchOS
+     * Technologies
+          + Accessibility
+          + AirPlay
+          + Apple Pay
+          + Augmented Reality
+          + Business Chat
+          + CareKit
+          + CarPlay
+          + GameKit
+          + HealthKit
+          + HomeKit
+          + iCloud
+          + In-App Purchase
+          + Live Photos
+          + Machine Learning
+          + Maps
+          + ResearchKit
+          + Sign in with Apple
+          + SiriKit
+          + Social Media
+          + Subscriptions
+          + SF Symbols
+          + Wallet
+
+     * Overview
+     * Resources
+     * Videos
+     * What's New
+
+     * iOS
+          + Themes
+          + Mac Catalyst
+          + Interface Essentials
+     * App Architecture
+          + Loading
+          + Modality
+          + Navigation
+          + Onboarding
+          + Requesting Permission
+          + Settings
+     * User Interaction
+          + 3D Touch
+          + Apple Pencil
+          + Audio
+          + Authentication
+          + Data Entry
+          + Drag and Drop
+          + Feedback
+          + File Handling
+          + Gestures
+          + Haptics
+          + Near Field Communication
+          + Undo and Redo
+     * System Capabilities
+          + Augmented Reality
+          + Multitasking
+          + Multiple Windows
+          + Notifications
+          + Printing
+          + Quick Look
+          + Ratings and Reviews
+          + Screenshots
+          + TV Providers
+     * Visual Design
+          + Adaptivity and Layout
+          + Animation
+          + Branding
+          + Color
+          + Dark Mode
+          + Materials
+          + Terminology
+          + Typography
+          + Video
+     * Icons and Images
+          + Image Size and Resolution
+          + App Icon
+          + Custom Icons
+          + Launch Screen
+          + System Icons
+     * Bars
+          + Navigation Bars
+          + Search Bars
+          + Status Bars
+          + Tab Bars
+          + Toolbars
+     * Views
+          + Action Sheets
+          + Activity Views
+          + Alerts
+          + Collections
+          + Image Views
+          + Pages
+          + Popovers
+          + Scroll Views
+          + Split Views
+          + Tables
+          + Text Views
+          + Web Views
+     * Controls
+          + Buttons
+          + Context Menus
+          + Edit Menus
+          + Labels
+          + Page Controls
+          + Pickers
+          + Progress Indicators
+          + Refresh Content Controls
+          + Segmented Controls
+          + Sliders
+          + Steppers
+          + Switches
+          + Text Fields
+     * Extensions
+          + Custom Keyboards
+          + File Providers
+          + Home Screen Actions
+          + Messaging
+          + Photo Editing
+          + Sharing and Actions
+          + Widgets
+         ______________________________________________________________
+
+     * macOS
+     * tvOS
+     * watchOS
+     * Technologies
+          + Accessibility
+          + AirPlay
+          + Apple Pay
+          + Augmented Reality
+          + Business Chat
+          + CareKit
+          + CarPlay
+          + GameKit
+          + HealthKit
+          + HomeKit
+          + iCloud
+          + In-App Purchase
+          + Live Photos
+          + Machine Learning
+          + Maps
+          + ResearchKit
+          + Sign in with Apple
+          + SiriKit
+          + Social Media
+          + Subscriptions
+          + SF Symbols
+          + Wallet
+
+Custom Icons (iOS 12 and Earlier)
+
+   In iOS 13 or later, prefer using SF Symbols to represent tasks and
+   modes in your app. If your app is running in iOS 12 or earlier, or if
+   you need to create custom bitmap icons, follow the guidance below.
+
+   Create recognizable, highly-simplified designs. Too many details can
+   make an icon confusing or unreadable. Strive for a simple, universal
+   design that most people will recognize quickly and won’t find
+   offensive. The best icons use familiar visual metaphors that are
+   directly related to the actions they initiate or content they reveal.
+
+   Full-color image of the Wallet app icon.
+
+   App icon
+
+   Image of the black and clear glyph used in the Wallet app icon.
+
+   Glyph
+
+   Image of the Wallet glyph with only green color applied.
+
+   Glyph (color applied)
+
+   Design icons as glyphs. A glyph, also known as a template image, is a
+   monochromatic image with transparency, anti-aliasing, and no drop
+   shadow that uses a mask to define its shape. Glyphs automatically
+   receive the appropriate appearance—including coloring, highlighting,
+   and vibrancy—based on the context and user interactions. A variety of
+   standard interface elements support glyphs, including navigation bars,
+   tab bars, toolbars, and Home screen quick actions.
+
+   Prepare glyphs with a scale factor of @2x and save them as PDFs.
+   Because PDF is a vector format that allows for high-resolution scaling,
+   it's typically sufficient to provide a single @2x version in your app
+   and allow it to scale for other resolutions.
+
+   Keep your icons consistent. Whether you use only custom icons or mix
+   custom and system icons, all icons in your app should be the same in
+   terms of level of detail, optical weight, stroke weight, position, and
+   perspective.
+
+   Images of six glyphs, representing a video camera, a still camera, an
+   alarm clock, a heart, an envelope, and a conversation bubble. All six
+   glyphs are solid gray; some include interior detail lines, all of which
+   use the same weight.
+
+   Make sure icons are legible. In general, solid icons tend to be clearer
+   than outlined icons. If an icon must includes lines, coordinate the
+   weight with other icons and your app's typography.
+
+   Two images of a clock face icon. The icon on the left is solid blue to
+   indicate active and the icon on the right is solid gray to indicate
+   inactive. A green checkmark shows that this is the recommended
+   approach.
+
+   Two images of a clock face icon. The icon on the left is outlined in
+   blue to indicate active and the icon on the right is solid gray to
+   indicate inactive. A red Ex shows that this is not the recommended
+   approach.
+
+   Use color to communicate selected and deselected states. Avoid toggling
+   between two different icon designs, like a solid version and an
+   outlined version.
+
+   Avoid including text in an icon. If you need text, display a label
+   beneath the icon and adjust its placement accordingly.
+
+   Don’t use replicas of Apple hardware products. Apple products are
+   copyrighted and can’t be reproduced in your icons or images. In
+   general, avoid displaying replicas of devices because hardware designs
+   tend to change frequently and can make your icon look dated.
+
+   Provide alternative text labels for icons. Alternative text labels
+   aren’t visible onscreen, but they let VoiceOver audibly describe what's
+   onscreen, making navigation easier for people with visual impairments.
+
+Custom Icon Sizes
+
+   Above all, your app's icon family should be visually consistent in
+   size. If individual icon designs vary in weight, some icons may need to
+   be slightly larger than others to achieve this effect.
+
+   Images of six glyphs, representing a video camera, a still camera, an
+   alarm clock, a heart, an envelope, and a conversation bubble. Three
+   horizontal dashed lines show that the alarm clock and bubble glpyhs are
+   the tallest glyphs because of their greater weight.
+
+Home Screen Quick Action Icon Size
+
+   A Home screen quick action icon appears next to the title. If you need
+   to create a custom icon for your Home screen quick action, use the
+   following sizes for guidance.
+
+   Image of a solid blue square, which represents the maximum size, with
+   the outline of a smaller square centered inside it. A vertical line,
+   extending to the top and bottom edges of the outer square, represents
+   the maximum height. A horizontal line, extending to the left and right
+   edges of the outer square, represents the maximum width.
+         Maximum width and height
+   104px × 104px (34.67pt × 34.67pt @3x)
+   70px × 70px (35pt × 35pt @2x)
+
+   Image of a solid blue square, which represents the target, centered
+   inside a larger, white square. A vertical line, extending to the top
+   and bottom edges of the inner square, represents the target's height. A
+   horizontal line, extending to left and right edges of the inner square,
+   represents the target's width.
+         Target width and height
+   80px × 80px (26.67pt × 26.67pt @3x)
+   54px × 54px (27pt × 27pt @2x)
+
+   Image of a solid blue rectangle, which represents the target, inside
+   the outline of a larger square. The width of the rectangle is slightly
+   larger than its height. A horizontal line, extending to the left and
+   right edges of the rectangle, indicates the target's width.
+   Target width (wide glyphs)
+   88px (29.33pt @3x)
+   60px (30pt @2x)
+
+   Image of a solid blue rectangle, which represents the target, inside
+   the outline of a larger square. The height of the rectangle is slightly
+   larger than its width. A vertical line, extending to the top and bottom
+   edges of the rectangle, indicates the target's height.
+   Target height (tall glyphs)
+   88px (29.33pt @3x)
+   60px (30pt @2x)
+
+Navigation Bar and Toolbar Icon Size
+
+   Use the following sizes for guidance when preparing custom navigation
+   bar and toolbar icons, but adjust as needed to create balance.
+           Target sizes                  Maximum sizes
+   72px × 72px (24pt × 24pt @3x) 84px × 84px (28pt × 28pt @3x)
+   48px × 48px (24pt × 24pt @2x) 56px × 56px (28pt × 28pt @2x)
+
+Tab Bar Icon Size
+
+   In portrait orientation, tab bar icons appear above tab titles. In
+   landscape orientation, the icons and titles appear side-by-side.
+   Depending on the device and orientation, the system displays either a
+   regular or compact tab bar. Your app should include custom tab bar
+   icons for both sizes.
+
+   Target width and height (circular glyphs)
+
+   Image of a solid blue circle, which represents the target, centered
+   inside the outlines of two squares. All three shapes are contained
+   within the outline of a rectangle. The width of the inner square is
+   slightly smaller than the diameter of the circle. The width of the
+   outer square is the same as the diameter of the circle. The width of
+   the rectangle is slightly larger than its height. A vertical line,
+   extending to the top and bottom edges of the outer square, indicates
+   the target's height. A horizontal line, extending to left and right
+   edges of the outer square, represents the target's width.
+         Regular tab bars              Compact tab bars
+   75px × 75px (25pt × 25pt @3x) 54px × 54px (18pt × 18pt @3x)
+   50px × 50px (25pt × 25pt @2x) 36px × 36px (18pt × 18pt @2x)
+
+   Target width and height (square glyphs)
+
+   Image of a solid blue square, which represents the target, centered
+   inside the outline of a slightly larger square. Both shapes are
+   contained within the outline of a rectangle. The solid blue square is
+   slightly smaller than the outlined square. The width of the rectangle
+   is slightly larger than its height. A vertical line, extending to the
+   top and bottom edges of the blue square, represents the square's
+   height. A horizontal line, extending to left and right edges of the
+   blue square, indicates the target's width.
+         Regular tab bars              Compact tab bars
+   69px × 69px (23pt × 23pt @3x) 51px × 51px (17pt × 17pt @3x)
+   46px × 46px (23pt × 23pt @2x) 34px × 34px (17pt × 17pt @2x)
+
+   Target width (wide glyphs)
+
+   Image of a solid blue rectangle, which represents the target,
+   vertically centered inside the outline of a larger rectangle. The
+   height of the blue rectangle is approximately half the height of the
+   outlined rectangle. The outlines of two squares are horizontally
+   centered within the outlined rectangle. The width of the outlined
+   rectangle is slightly larger than its height. A horizontal line,
+   extending to left and right edges of the outlined rectangle, represents
+   the target's width.
+   Regular tab bars Compact tab bars
+   93px (31pt @3x)  69px (23pt @3x)
+   62px (31pt @2x)  46px (23pt @2x)
+
+   Target height (tall glyphs)
+
+   Image of a solid blue rectangle, which represents the target,
+   horizontally centered inside the outline of a larger rectangle. The
+   width of the blue rectangle is approximately half the width of the
+   outlined rectangle. The outlines of two squares are horizontally
+   centered within the outlined rectangle. The width of the outlined
+   rectangle is slightly larger than its height. A vertical line,
+   extending to top and bottom edges of the outlined rectangle, represents
+   the target's height.
+   Regular tab bars Compact tab bars
+   84px (28pt @3x)  60px (20pt @3x)
+   56px (28pt @2x)  40px (20pt @2x)
+
+Previous App Icon
+
+Next Launch Screen
+
+Developer Footer
+
+   Developer
+    1. Design
+    2. Human Interface Guidelines
+    3. iOS
+    4. Icons and Images
+    5. Custom Icons
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #What's New in macOS Next Prev
+
+   Documentation Archive Developer
+   Search
+   Search Documentation Archive ____________________
+
+What's New in macOS
+
+   PDF Companion File
+
+     * (BUTTON) Table of Contents
+     * [Jump To�]
+     * (BUTTON) Download Sample Code
+
+   NextPrevious
+
+                                OS X Lion v10.7
+
+   This article summarizes the key technology changes and improvements
+   that are available beginning with OS X Lion v10.7. The information
+   about these changes is organized into sections by technology area:
+     * Major Features describes overarching changes that span multiple
+       technology areas or are otherwise of particular importance.
+     * Framework-Level Features describes changes to system frameworks.
+     * BSD And Kernel Features describes changes to the UNIX/POSIX
+       portions of OS X and to the OS X kernel, device drivers, and kernel
+       extensions.
+     * App Features describes changes in the behavior of built-in apps
+       such as Safari.
+     * OS X Server describes changes to OS X Server.
+
+   For a complete, detailed list of API changes, read OS X v10.7 API
+   Diffs.
+
+   Please file any bug reports about this seed or this documentation using
+   http://bugreport.apple.com/.
+
+Major Features
+
+   The following sections highlight features that span multiple technology
+   areas or that are otherwise of particular importance in OS X v10.7.
+
+  iCloud Storage APIs
+
+   When you use the iCloud storage APIs, your app writes user documents
+   and data to a central location. A user can view or edit those documents
+   from any device without having to sync or transfer files explicitly.
+   Storing documents in a user’s iCloud account also provides a layer of
+   security for that user. Even if a user loses a device, the documents on
+   that device are not lost if they are in iCloud storage.
+   ../Art/syncing_intro.jpg ../Art/syncing_intro.jpg
+
+   There are two types of iCloud storage that your app can take advantage
+   of:
+     * Use iCloud document storage to store user documents and data in a
+       user’s iCloud account.
+     * Use iCloud key-value data storage to share small amounts of data
+       among instances of your app.
+
+   To learn more about adding iCloud storage to your app, read iCloud
+   Storage in Mac App Programming Guide.
+
+  Automatic Reference Counting
+
+   Automatic Reference Counting (ARC) is a compiler-level feature that
+   simplifies the process of managing the lifetimes of Objective-C
+   objects. Instead of you having to remember when to retain or release an
+   object, ARC evaluates the lifetime requirements of your objects and
+   automatically inserts the appropriate method calls at compile time.
+   ../Art/ARC_design_final.gif
+
+   ARC replaces the traditional managed-memory-model style of programming
+   found in earlier versions of OS X. Any new projects you create
+   automatically use ARC. And Xcode provides migration tools to help
+   convert existing projects to use ARC. For more information about how to
+   perform this migration, see What’s New in Xcode. For more information
+   about ARC itself, see Transitioning to ARC Release Notes.
+
+  Resume
+
+   Resume is a systemwide enhancement of the user experience, introduced
+   in OS X v10.7, that supports app persistence. A user can log out or
+   shut down the operating system, and on next login or startup, OS X
+   automatically relaunches the apps that were last running and restores
+   the windows that were last opened. If your app provides the necessary
+   support, reopened windows have the same size and location as before; in
+   addition, window contents are scrolled to the previous position and
+   selections are restored.
+
+   When an app that supports sudden termination goes unused or has no open
+   windows, OS X may terminate it behind the scenes. When a user wants to
+   use the app again, it usually relaunches instantly. Users who want to
+   quit apps manually can still do so, but it is no longer necessary.
+
+   App persistence requires you to implement the ancillary programmatic
+   features of automatic and sudden app termination, user interface
+   preservation, and automatic data saving.
+
+   To learn more about the elements of Resume, read Support the Key
+   Runtime Behaviors in Your Apps in Mac App Programming Guide.
+
+  Cocoa Auto Layout
+
+   Cocoa Auto Layout, a feature introduced in OS X v10.7, improves upon
+   the “springs and struts” model previously used to lay out the elements
+   of a user interface. Auto Layout is a rule-based system designed to
+   implement the layout guidelines described in OS X Human Interface
+   Guidelines. It expresses a larger class of relationships and is more
+   intuitive to use than springs and struts.
+
+   The entities used in Auto Layout are Objective-C objects called
+   constraints. This approach brings you a number of benefits:
+     * Localization through swapping of strings alone, instead of also
+       revamping layouts
+     * Mirroring of user-interface elements for right-to-left languages
+       like Hebrew and Arabic
+     * Better layering of responsibility between objects in the view and
+       controller layers
+       A view object usually knows best about its standard size and its
+       positioning within its superview and relative to its sibling views.
+       A controller can override these values if something nonstandard is
+       required.
+
+   For information about this feature, see Auto Layout Guide.
+
+  File Coordination
+
+   File coordination, introduced in OS X v10.7, eliminates file-system
+   inconsistencies due to overlapping read and write operations from
+   competing processes. When you use the NSDocument class from the AppKit
+   framework, you get file coordination with very little effort. To use
+   file coordination explicitly, you employ the NSFileCoordinator class
+   and the NSFilePresenter protocol, both from the Foundation framework.
+
+   Use file coordination only with files that you think users might share
+   with other users, not (for example) with files written to cache or
+   temporary locations. File coordination is an enabling technology for
+   automatic document saving, App Sandbox, and other features introduced
+   in OS X v10.7. For more information on file coordination, see
+   Coordinating File Access with Other Processes in Mac App Programming
+   Guide.
+
+  Full-Screen Mode
+
+   Starting in OS X v10.7, you can enable full-screen mode for your app by
+   calling a single method. Enabling full-screen mode adds an Enter Full
+   Screen menu item to the View menu or, if there is no View menu, to the
+   Window menu. When a user chooses this menu item, the frontmost app or
+   document window fills the entire screen.
+
+   You enable and manage full-screen support through methods of the
+   NSApplication and NSWindow classes and the NSWindowDelegate Protocol.
+   To find out more about this feature, read Implementing the Full-Screen
+   Experience in Mac App Programming Guide.
+
+  Popovers
+
+   Starting in OS X v10.7, AppKit provides support for popovers by way of
+   the NSPopover class. A popover provides a means to display additional
+   content related to existing content on the screen. The view containing
+   the existing content—from which the popover arises—is referred to in
+   this context as a positioning view. You use an anchor to express the
+   relation between a popover and its positioning view.
+
+   You configure a popover in terms of appearance and behavior. One
+   important part of this task is to specify which user interactions cause
+   the popover to close. By implementing the appropriate delegate method,
+   you can configure a popover to detach itself and become a separate
+   window when a user drags it.
+
+   For more information, see NSPopover Class Reference and
+   NSPopoverDelegate Protocol Reference. For guidelines on using popovers,
+   see Popovers in OS X Human Interface Guidelines.
+
+  App Sandbox
+
+   Introduced in OS X v10.7, App Sandbox provides a last line of defense
+   against stolen, corrupted, or deleted user data if malicious code
+   exploits your app. App Sandbox also minimizes the damage from coding
+   errors. Its strategy is twofold:
+    1. App Sandbox enables you to describe how your app interacts with the
+       system. The system then grants your app the access it needs to get
+       its job done, and no more.
+    2. App Sandbox allows the user to transparently grant your app
+       additional access by using Open and Save dialogs, drag and drop,
+       and other familiar user interactions.
+
+   You describe your app’s interaction with the system by setting
+   entitlements in Xcode. For details on all the entitlements available in
+   OS X, see Entitlement Key Reference.
+
+   Some app operations are more likely to be targets of malicious
+   exploitation. Examples are the parsing of data received over a network
+   and the decoding of video frames. You can improve the effectiveness of
+   the damage containment offered by App Sandbox by separating such
+   potentially dangerous activities into their own address spaces.
+
+   For a complete explanation of App Sandbox and how to use it, read App
+   Sandbox Design Guide.
+
+Framework-Level Features
+
+   The following sections highlight changes to frameworks and technologies
+   in OS X v10.7.
+
+  AV Foundation
+
+   Introduced in OS X v10.7, the AV Foundation framework
+   (AVFoundation.framework) provides services for capturing, playing,
+   inspecting, editing, and reencoding time-based audiovisual media. The
+   framework includes many Objective-C classes, with the core class being
+   AVAsset; this class presents a uniform model and inspection interface
+   for all forms and sources of audiovisual media.
+
+   For most audio recording and playback requirements, you can use the
+   AVAudioPlayer and AVAudioRecorder classes.
+
+   AV Foundation is the recommended API for all new development involving
+   time-based audiovisual media. AV Foundation is also recommended for
+   transitioning existing apps that were based on QuickTime or QTKit.
+
+   Note: The AV Foundation frameworks for OS X and iOS are almost
+   identical.
+
+   For more information about the classes of the AV Foundation framework
+   and how to use them, see AVFoundation Programming Guide.
+
+  AppKit
+
+    Font Collections
+
+   Starting in OS X v10.7, the NSFontCollection class provides all of the
+   functionality provided by the CTFontCollectionRef opaque type, plus a
+   few higher-level features to support font user interfaces. The two APIs
+   are toll-free bridged.
+
+   For more information, see NSFontCollection Class Reference.
+
+    Multi-Image Drag and Drop
+
+   OS X v.10.7 introduces new classes and protocols to support multi-image
+   drag and drop in your app. This feature allows fine-grained control
+   over the appearance of multiple dragged icons as a drag proceeds.
+
+   When multiple items are dragged, they “flock” together. The source and
+   destination apps can each influence the appearance of the icons at
+   appropriate points during a drag.
+
+   For more information, see AppKit Release Notes for macOS 10.13, the
+   NSDraggingSession, NSDraggingItem, and NSDraggingImageComponent
+   classes, and the NSDraggingSource and NSDraggingDestination formal
+   protocols.
+
+    Overlay Scrollbars
+
+   OS X v10.7 introduces overlay scrollbars similar to those in iOS.
+   Unless the user overrides scrollbar appearance using System
+   Preferences, the following behavior occurs:
+     * If all of a user’s pointing devices support both horizontal and
+       vertical touch scrolling, the scrollbars are hidden during normal
+       use. They appear as an overlay on top of the window’s content while
+       the user is scrolling and remain visible briefly to allow scrollbar
+       dragging.
+     * If a user has at least one external pointing device that does not
+       support scrolling, the scrollbar is displayed at all times and the
+       usable space in the window is reduced, as in previous versions of
+       OS X. (These permanent scrollbars are referred to as legacy
+       scrollbars.)
+     * If a user has no external pointing devices attached, the trackpad
+       settings control the scrollbar behavior; if a user has disabled
+       scrolling for the trackpad in System Preferences, legacy scrollbars
+       are used.
+
+   Compatibility Note: There are three situations in which legacy
+   scrollbars are used regardless of hardware or preferences:
+
+     * An NSScrollView with accessory views inside its scroll track
+     * Any subclass of NSScroller that does not declare itself to be
+       overlay-scroller compatible
+     * Any NSScroller that is not managed by an NSScrollView
+
+   In addition, the scrollbars no longer contain scroll arrows (in overlay
+   mode or in legacy mode).
+
+   Because these changes may affect your app layout, you should test your
+   apps with both standard and scrolling pointing devices.
+
+   For more information, see AppKit Release Notes for macOS 10.13.
+
+    Scrolling Behavior
+
+   The scroll views in OS X v10.7 allow developers additional control over
+   scrolling behavior with respect to the Magic Mouse device and
+   trackpads. Specifically, new methods allow the developer to control the
+   stretching behavior of NSScrollView objects (auto or on/off in
+   horizontal and vertical axes) and provide content hints to prevent
+   unintentional scrolling drifts.
+
+   Additionally, new NSEvent events have been added to support mouse
+   momentum in scroll views.
+
+   For more information, see AppKit Framework Reference.
+
+    Text Autocorrection
+
+   OS X v10.7 provides expanded UI for text autocorrection, similar to the
+   functionality in iOS, with the opportunity for the user to accept or
+   reject a proposed correction. As in iOS, the spell checker learns from
+   the user’s responses, such as whether a correction was explicitly
+   rejected, implicitly accepted, accepted at first and then revised, and
+   so on.
+
+   For more information, see AppKit Framework Reference.
+
+    View-Based Tables and Outlines
+
+   NSTableView and NSOutlineView in OS X v10.7 now support the use of
+   NSView objects instead of NSCell objects for content. This extension
+   allows apps to easily provide a much richer interface for the content
+   of cells within a table view.
+
+   OS X v10.7 also adds new functionality to provide animation of rows as
+   they are added and deleted from the table view, providing a more
+   context-based user experience.
+
+   For more information, see AppKit Framework Reference.
+
+    Window Support
+
+   Safari, Xcode, and other apps support an in-window find. In OS X v10.7,
+   this functionality has been extended to allow it to be used in views
+   other than NSTextView.
+
+   In addition, user-editable window titles allow the developer to
+   programmatically begin editing the window title, typically in response
+   to a user interaction.
+
+   For more information, see AppKit Framework Reference.
+
+  Core Data
+
+   OS X v10.7 adds the following enhancements:
+     * Core Data formalizes the concurrency model for managed object
+       contexts by taking advantage of Grand Central Dispatch. When you
+       create a context, you specify the dispatch queue association option
+       it should adopt: confinement, private queue, or main queue.
+       Contexts should always use the confinement pattern, just as they
+       have prior to OS X v10.7. (In other words, you must not use the
+       context on any thread other than the one on which you created it.)
+       When sending messages to a context associated with a different
+       queue (or thread), you must dispatch your block using the new
+       performBlock: or performBlockAndWait: method.
+     * You can create nested managed object contexts, in which the parent
+       object store of a context is another managed object context rather
+       than the persistent store coordinator. This means that fetch and
+       save operations are mediated by the parent context instead of by a
+       coordinator. This pattern has a number of usage scenarios,
+       including:
+          + Performing background operations on a second thread or queue
+          + Managing discardable edits, such as in an inspector window or
+            view
+     * Managed objects support two significant new features: ordered
+       relationships, and external storage for attribute values. If you
+       specify that the value of a managed object attribute may be stored
+       as an external record, Core Data heuristically decides on a
+       per-value basis whether it should save the data directly in the
+       database or store a URI to a separate file that it manages for you.
+     * There are two new classes, NSIncrementalStore and
+       NSIncrementalStoreNode, that you can use to implement support for
+       nonatomic persistent stores. The store does not have to be a
+       relational database—for example, you could use a web service as the
+       back end.
+
+   For more information, see Core Data Framework Reference.
+
+  Foundation
+
+    Index Set Range Enumeration
+
+   OS X v10.7 adds support for enumerating ranges within an index set.
+
+   NSIndexSet is an abstraction of a set of indexes. Developers often also
+   view it as a set of noncontiguous ranges, which is a natural extension
+   of this abstraction. As a result, developers often want to be able to
+   enumerate the contents of an NSIndexSet object in terms of ranges,
+   instead of individual indexes. Beginning in OS X v10.7, NSIndexSet
+   includes convenience methods to provide this enumeration functionality.
+
+   For more information, see NSIndexSet Class Reference.
+
+    JSON Serialization
+
+   In OS X 10.7, the Foundation framework adds a new class,
+   NSJSONSerialization, to support conversion of JSON data
+   (http://www.json.org/) into Foundation types and vice versa.
+
+   For more information, see NSJSONSerialization and Foundation Framework
+   Reference.
+
+    Linguistic Tagging
+
+   OS X v10.7 introduces a linguistic tagging class, NSLinguisticTagger,
+   that lets you break down a sentence into its grammatical components,
+   allowing the determination of nouns, verbs, adverbs, and so on. This
+   tagging works fully for the English language. The API provides a method
+   to find out what capabilities are currently available in other
+   languages as well.
+
+   For more information, see NSLinguisticTagger Class Reference.
+
+    NSFileWrapper Now In Foundation
+
+   In OS X v10.7, the NSFileWrapper class is in the Foundation framework
+   instead of the AppKit framework.
+
+   For more information, see Foundation Framework Reference and AppKit
+   Framework Reference.
+
+    Ordered Sets Support
+
+   OS X v10.7 now provides support for ordered sets. An NSOrderedSet
+   object contains each element at most once, and the elements can be
+   accessed by a compact integer index space, numbered 0 .. (N-1). It thus
+   combines two of the most salient features of the NSSet and NSArray
+   classes.
+
+   The NSOrderedSet class similarly borrows a lot from both NSArray and
+   NSSet (and the mutable subclasses of each), but it is closer to NSArray
+   than NSSet.
+
+   The main client for NSOrderedSet is Core Data.
+
+   For more information, see NSOrderedSet Class Reference.
+
+    Regular Expressions
+
+   OS X v10.7 adds a Unicode-compatible regular expression class,
+   NSRegularExpression, along with related data detectors. This class is
+   used to represent and apply regular expressions to Unicode strings. An
+   instance of this class is an immutable representation of a compiled
+   regular expression pattern and various option flags. The pattern syntax
+   currently supported is that specified by International Components for
+   Unicode (ICU).
+
+   The fundamental matching method for NSRegularExpression is a block
+   iterator. This method allows clients to supply a block object, which
+   will be invoked each time the regular expression matches a portion of
+   the target string. There are additional convenience methods for
+   returning all the matches as an array, the total number of matches, the
+   first match, and the range of the first match.
+
+   For more information, see NSRegularExpression Class Reference.
+
+    XML Streaming Parser
+
+   Prior to OS X v.10.7, NSXMLParser always read the entire XML document
+   into memory. Beginning in OS X v10.7, the class allows you to stream
+   the data into memory as required.
+
+   For more information, see NSXMLParser Class Reference.
+
+  OpenGL 3.2
+
+   OS X v10.7 now provides OpenGL 3.2 on hardware capable of supporting
+   its feature set. Read OpenGL Programming Guide for Mac to learn about
+   selecting the OpenGL 3.2 Core profile.
+
+  Quick Look Thumbnails
+
+   Beginning in OS X v10.7, Quick Look provides a simple synchronous
+   public method to create a Quick Look thumbnail or icon for a file.
+
+   Quick Look also now provides a public API for the Quick Look Preview
+   panel, allowing the developer to display the panel.
+
+   For more information see Quick Look Framework Reference for Mac.
+
+  Store Kit
+
+   The Store Kit framework, previously available in iOS, is now also part
+   of OS X. Classes of the Store Kit framework allow you to request
+   payment from a user to purchase additional functionality or content
+   from the Mac App Store. For more information about Store Kit, read
+   In-App Purchase Programming Guide and Store Kit Framework Reference.
+
+BSD And Kernel Features
+
+   The following sections highlight changes to the UNIX/POSIX portions of
+   OS X, including command-line functionality and libSystem. They also
+   highlight changes to the kernel, device drivers, and kernel extensions.
+
+  64-Bit Kernel Support
+
+   The list of computers that boot K64 by default has grown to include the
+   following hardware:
+     * Mac Mini (early 2009 and later)
+     * MacBook (Aluminum; late 2008 and later)
+     * MacBook Air (late 2008 and later)
+     * MacBook Pro (mid 2007 and later)
+     * iMac (mid 2007 and later)
+     * XServe (early 2008 and later)
+
+  Folder Permissions and Ownership
+
+   A number of folders in the System and Local file system domains now
+   have different ownership and permissions. Specifically:
+     * Many folders in the System domain that were previously owned by the
+       admin group are now owned by the wheel group.
+     * Permissions for the root directory (/) are now mode 755 (writable
+       only by root) instead of mode 775 (writable by the admin group).
+     * Permissions for /Applications/Utilities are now mode 755 (writable
+       only by root) instead of mode 775 (writable by the admin group).
+     * Permissions for /Library are now mode 755 (writable only by root)
+       instead of mode 775 (writable by the admin group), and are no
+       longer sticky.
+       All subdirectories within /Library now have mode 755 (writable only
+       by root) permissions instead of mode 775 (writable by the admin
+       group) except:
+          + /Library/Caches
+          + /Library/Fonts
+          + /Library/Java
+          + /Library/QuickTimeStreaming
+          + /Library/Receipts
+          + /Library/Tomcat
+       The subdirectories listed above have the same permissions as in
+       previous versions of OS X (usually mode 775, sometimes with the
+       sticky bit set).
+     * Permissions for /Network/Applications and /Network/Library are now
+       mode 555 (unwritable even by root) instead of mode 755 (writable
+       only by root).
+     * Permissions for /var/log/DiagnosticMessages are slightly more lax,
+       with mode 770 (writable by the admin group, unreadable by non-admin
+       users) instead of mode 750 (writable only by root, unreadable by
+       non-admin users).
+
+  FileVault
+
+   In OS X v10.7, FileVault provides built-in support for encrypted root
+   volumes. When you enable encryption, the system’s root volume is
+   encrypted in the background and you can continue to use the system
+   normally. Once encryption is enabled, on reboot or wake from sleep, you
+   must log in before you can access any data on the drive.
+
+   Although this feature has limited developer impact (there is no public
+   API for the underlying storage system), there are two things to notice:
+     * Assumptions that “boot = root” are much more likely to be wrong.
+       (You should be allowing OS X to handle KEXT caches, so in general,
+       this change should not cause problems.)
+     * The OS X UI may disallow enabling encryption if you have a
+       particularly exotic driver stack. For example, if it is not
+       possible to map a volume-relative block number to a physical block
+       number.
+
+   IT developers should also be aware that the FileVault UI is disabled.
+
+   In general, if your driver worked correctly with AppleRAID in previous
+   versions of OS X, it should also work correctly with Core Storage.
+
+  I/O Kit–launchd Integration
+
+   Beginning in OS X v10.7, you can use launchd to automatically launch an
+   app whenever a specific device is detected by I/O Kit.
+
+   To use this feature, add a property list file to the
+   /Library/LaunchAgents folder. The property list has the standard
+   structure of a launchd property list file (see launchd.plist), with one
+   additional item: an I/O Kit matching dictionary.
+   ../Art/matchingpluginplist.png
+
+   The I/O Kit matching dictionary contains a separate dictionary for each
+   distinct device that you want associated with your app. Each of these
+   device dictionaries should provide the product number, vendor number,
+   and provider class for its device.
+
+   The I/O Kit matching plug-in watches for IOService objects that match
+   any of the device dictionaries you provide and launches your app when
+   at least one is detected. If your app terminates when there is at least
+   one matching IOService object, the I/O Kit matching plug-in relaunches
+   it automatically.
+
+   Although your app is automatically launched when a corresponding device
+   is detected, it is not automatically terminated when a device is
+   removed. Therefore, you should configure your app to listen for
+   notifications and respond appropriately when a device is removed. See
+   the USBPrivateDataSample sample code for more information.
+
+   If your app is already running when a corresponding device is attached,
+   no action is taken.
+
+  In-Kernel Video Capture
+
+   OS X v10.7 provides a new kernel-level programming interface for
+   writing video capture device drivers, I/O Video, that is intended to
+   replace the QuickTime sequence grabber API as the primary means of
+   getting video into OS X.
+
+   I/O Video consists of (1) the IOVideoDevice class on the kernel side
+   (along with various related minor classes) that your actual driver
+   should subclass and (2) a user space device interface for communicating
+   with the driver.
+
+   For more information, see the header file in the Kernel framework.
+
+App Features
+
+   The following sections highlight changes to the behavior of built-in
+   apps such as the Finder and Safari.
+
+  Safari
+
+    New Process Architecture
+
+   Beginning in OS X v10.7, Safari includes a new process architecture
+   that separates its rendering process from its app process. As a result,
+   Safari is more responsive, stable, and secure.
+
+    Plug-in Support in Safari
+
+   In Safari on OS X v10.7, all browser plug-ins run in their own process,
+   improving browser stability and security. Netscape plug-ins continue to
+   work in Safari with no modification. However, Safari does not support
+   WebKit plug-ins. The WebKit plug-in API is not compatible with this new
+   process architecture and is being deprecated. Plug-in developers
+   currently using the WebKit plug-in API should adopt the Netscape
+   plug-in API in order to be compatible with Safari on OS X v10.7. You
+   can find the documentation at WebKit Plug-In Programming Topics.
+
+   Note: Some WebKit plug-ins can also be replaced by Safari Extensions.
+   To learn about Safari Extensions, read Safari Extensions Development
+   Guide in the Safari Reference Library.
+
+    Full Screen API
+
+   The WebKit framework’s Element and Document classes now provide methods
+   to enable full-screen mode for web content and to control keyboard
+   behavior while in full-screen mode.
+
+  The Finder
+
+   In OS X v10.7, the following files and folders are now hidden:
+     * /lost+found
+     * $HOME/Library
+
+OS X Server
+
+   The following sections highlight changes to OS X Server.
+
+  Database Server Replacement
+
+   Beginning in OS X v10.7, OS X Server ships with PostgreSQL as its
+   database server instead of MySQL. If you are using other software that
+   requires MySQL, you must install it yourself.
+
+   You can find downloads and installation instructions for MySQL at the
+   MySQL Community Edition site, http://www.mysql.com/downloads/mysql/.
+
+   In addition to the directions linked to above, you must manually
+   reconfigure PHP if you use it to work with MySQL databases. Previous
+   versions of PHP obtained their default values for mysql.default_port
+   and mysql.default_socket from the mysql-config command-line tool.
+   Because this tool is no longer available, you must explicitly define
+   these values in /etc/php.ini.
+
+   The default port for MySQL is traditionally 3306, and the traditional
+   socket on OS X was /var/mysql/mysql.sock. For more information about
+   the available directives, see
+   http://us3.php.net/manual/en/mysql.configuration.php.
+
+  Profile Management
+
+   OS X now supports configuration profiles similar to those on iOS-based
+   devices. As part of this functionality, OS X Server provides a full
+   mobile-device-management (MDM) server. This configuration service
+   provides you with the ability to administer both OS X clients and iOS
+   clients.
+
+   To enable the MDM server, launch Server Center and enable the Device
+   Config service. Then manage devices using the device-configuration web
+   interface. There is no need to use the iPhone Configuration Utility
+   when working with this service.
+
+   Although iOS configuration profiles are mostly compatible with OS X
+   clients, there are some minor differences. Specifically, Exchange
+   accounts behave differently because iOS uses ActiveSync whereas OS X
+   uses Exchange Web Services. Also, the following features are not
+   currently supported in OS X:
+     * Certain advanced network settings, such as GPRS
+     * Passcode policies
+     * Calendar subscriptions (iCal)
+     * The Clear Passcode command
+     * Find My Mac
+
+   As with iOS mobile device management, all managed computers must be
+   able to reach the Apple Push Notification servers in order to receive
+   push notifications.
+
+   NextPrevious
+     __________________________________________________________________
+
+   Copyright © 2005, 2017 Apple Inc. All Rights Reserved. Terms of Use |
+                    Privacy Policy | Updated: 2017-09-19
+
+Sending feedback…
+
+We’re sorry, an error has occurred.
+
+   Please try submitting your feedback later.
+
+Thank you for providing feedback!
+
+   Your input helps improve our developer documentation.
+
+How helpful is this document?
+
+   ^*
+   (*) Very helpful ( ) Somewhat helpful ( ) Not helpful
+
+How can we improve this document?
+
+   [ ] Fix typos or links [ ] Fix incorrect information [ ] Add or update
+   code samples [ ] Add or update illustrations [ ] Add information
+   about...
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ^*
+
+   * Required information
+   [BUTTON Input] (not implemented)____
+
+   To submit a product bug or enhancement request, please visit the Bug
+   Reporter page.
+
+   Please read Apple's Unsolicited Idea Submission Policy before you send
+   us your feedback.
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+   (BUTTON)
+
+   [ ]
+
+Safari
+
+   Open Menu Close Menu
+     * Overview
+     * Tools
+     * Features
+     * Extensions
+     * Preview
+     * Resources
+     * What’s New
+
+   Download Safari Technology Preview
+
+Reference, Videos, and Forums
+
+Guides and Sample Code
+
+   Get details on implementing web technologies with guides, reference,
+   and sample code.
+     * What’s New in Safari
+     * Safari App Extensions
+     * Apple Pay on the Web
+     * More Safari Documentation
+
+Discussion Forums
+
+   Ask questions and discuss a variety of web development topics with
+   Apple engineers and other developers.
+     * Apple Developer Forums
+
+Videos
+
+   Watch and learn from our engineers as they show how to bring the latest
+   web technologies to your websites on Safari.
+     * Watch Safari and Web Videos
+
+Featured Web Technologies
+
+Universal Links
+
+   Seamlessly link to content inside your app, or on your website in iOS
+   9. With universal links, you can always give users the most integrated
+   mobile experience, even when your app isn’t installed on their device.
+     * Universal Links
+
+Safari Extensions
+
+   Safari extensions are a powerful way to add new features to Safari.
+   They are built in Xcode with powerful native APIs and web technologies,
+   such as HTML5, CSS3, and JavaScript. Now you can distribute and sell
+   them through the Mac App Store.
+     * Safari App Extension Programming Guide
+     * Safari Extensions Development Guide
+     * Submit Your Extension
+     * Safari Extensions Gallery
+
+Smart App Banners
+
+   Make it easy for users to discover and download your app from a website
+   on iOS. With Safari’s Smart App Banner you can display a banner that
+   provides a direct link to your app on the App Store, or opens the app
+   if the user already has it installed. Smart App Banners integrate
+   seamlessly, have the same look and feel users know from the App Store,
+   and are easy to implement.
+     * Safari Web Content Guide
+
+Safari Push Notifications
+
+   Use the Apple Push Notifications Service to send notifications to your
+   website users, right on their Mac desktop — even when Safari isn’t
+   running. They display your website icon and notification text, which
+   users can click to go right to your website.
+     * Safari Push Notifications
+     * Certificates, Identifiers & Profiles
+
+WebKit
+
+   Introduced by Apple, WebKit is the most advanced rendering engine,
+   drawing the webpages you see in Safari on macOS and iOS.
+     * WebKit Open Source Project
+
+HTTP Live Streaming (HLS)
+
+   Deliver streaming media to an iOS app or HTML5-based website using an
+   ordinary web server.
+     * HTTP Live Streaming
+
+Next Download Safari Technology Preview
+
+Developer Footer
+
+   Developer
+    1. Safari
+    2. Resources
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * 메뉴 열기 메뉴 닫기
+     * Apple Developer
+
+   검색
+   검색 닫기
+     * Apple Developer
+     * 둘러보기
+     * 디자인
+     * 개발
+     * 배포
+     * 지원
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 검색 닫기
+
+   (BUTTON)
+
+사용자 인터페이스 디자인 정보
+
+   iOS는 우수한 사용자 인터페이스 디자인에 대한 기대치를 높이는 한편 개발자가 독특하고 멋진 사용자 경험을 사용자에게 선사할 수
+   있는 기회를 제공합니다. 앱의 사용성을 강화하고 매력을 높이기 위해 코딩을 시작하기 전에 다음과 같은 공통된 디자인 개념을
+   고려해 보십시오. 멋진 인터페이스 디자인을 위한 권장 사항을 더 확인하려면 iOS Human Interface
+   Guidelines를 읽어 보십시오.
+
+     * 상호 작용성
+     * 가독성
+     * 그래픽
+     * 명확성
+
+콘텐츠 형식 지정
+
+   iOS 장비 화면에 맞는 레이아웃을 생성하십시오. 사용자는 기본 콘텐츠를 확대/축소 또는 가로로 스크롤하지 않고 보아야 합니다.
+   더 알아보기
+
+터치 제어기
+
+   앱과의 상호 작용이 쉽고 자연스럽게 느껴지도록 터치 동작을 위해 설계된 UI 요소를 사용하십시오.
+   더 알아보기
+
+대상 탭하기
+
+   손가락으로 정확하게 탭할 수 있도록 크기가 최소 44x44포인트인 제어기를 생성하십시오.
+   더 알아보기
+
+텍스트 크기
+
+   텍스트 크기는 최소 11포인트 이상이어야 일반적으로 보는 거리에서 확대하지 않고 선명하게 보입니다.
+   더 알아보기
+
+대비
+
+   텍스트가 선명하게 보이도록 서체 색상과 배경 간에 대비가 충분해야 합니다.
+   더 알아보기
+
+간격
+
+   텍스트가 겹치지 않도록 하십시오. 행 높이와 문자 간격을 늘려 가독성을 향상할 수 있습니다.
+   더 알아보기
+
+고해상도
+
+   모든 이미지 자산의 고해상도(@2x) 버전을 제공하십시오. 두 배 크기가 아닌 이미지는 Retina 디스플레이에 흐릿하게
+   나타납니다.
+   더 알아보기
+
+왜곡
+
+   왜곡을 방지하기 위하여 항상 의도한 가로 세로 비율로 이미지를 표시하십시오.
+   더 알아보기
+
+구성
+
+   제어기로 수정하는 콘텐츠 가까이에 제어기를 배치하여 읽기 쉬운 레이아웃을 생성하십시오.
+   더 알아보기
+
+정렬
+
+   사용자에게 정보가 어떻게 관련되어 있는지 보여 주도록 텍스트, 이미지 및 단추를 정렬하십시오.
+   더 알아보기
+
+추가 디자인 리소스
+
+   비디오 프레젠테이션 및 멋진 App을 디자인하는 것에 대한 설명서를 볼 수 있습니다.
+   더 알아보기
+
+Developer Footer
+
+   Developer
+    1. 멋진 App 디자인하기
+    2. 사용자 인터페이스 디자인 정보
+
+   [ ]
+
+둘러보기
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari 및 Web(영문)
+     * 게임(영문)
+     * 엔터프라이즈(영문)
+     * 교육(영문)
+     * WWDC(영문)
+
+   [ ]
+
+디자인
+
+   Open Menu Close Menu
+     * Human Interface Guidelines(영문)
+     * 리소스(영문)
+     * 비디오(영문)
+     * Apple 디자인 어워드(영문)
+     * 글꼴(영문)
+     * 접근성
+     * 국제화
+     * 액세서리 디자인
+
+   [ ]
+
+개발
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * 문서(영문)
+     * 비디오(영문)
+     * 다운로드(영문)
+
+   [ ]
+
+배포
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac 소프트웨어
+     * 비즈니스용 앱(영문)
+     * Safari 확장 프로그램(영문)
+     * 마케팅 지침
+     * 상표 사용권(영문)
+
+   [ ]
+
+지원
+
+   Open Menu Close Menu
+     * 문서
+     * 개발자 포럼(영문)
+     * 피드백 & 버그 리포트(영문)
+     * 시스템 상태(영문)
+     * 문의하기
+
+   [ ]
+
+Account(영문)
+
+   Open Menu Close Menu
+     * 인증서, 식별자 및 프로파일(영문)
+     * App Store Connect
+
+   최신 개발자 소식을 보려면 뉴스 및 업데이트를 방문하십시오.
+   Copyright © 2019 Apple Inc. 모든 권리 보유.
+   약관(영문) 개인정보 취급방침 사용권 계약(영문)

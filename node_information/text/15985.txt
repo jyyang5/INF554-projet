@@ -1,0 +1,303 @@
+   (BUTTON) Toggle navigation The Khronos Group
+     * Developers
+          + Active Standards
+               o 3D Commerce
+               o COLLADA
+               o Data Format
+               o EGL
+               o glTF
+               o NNEF
+               o OpenCL
+               o OpenGL
+               o OpenGL ES
+               o OpenGL SC
+               o OpenVG
+               o OpenVX
+               o OpenXR
+               o Safety Critical
+               o SPIR
+               o SYCL
+               o Vulkan
+               o Vulkan SC
+               o WebGL
+          + Exploratory Groups
+               o Overview
+               o Analytic Rendering
+               o Heterogeneous Communication
+          + Inactive Standards
+               o OpenKCAM
+               o OpenKODE
+               o OpenMAX
+               o OpenML
+               o OpenSL ES
+               o OpenWF
+               o StreamInput
+               o WebCL
+          +
+          + Registry
+          + Advisors
+          + Github
+          + Khronos Forums
+          + Khronos Slack
+          +
+          + Khronos Blog
+          + Videos & Presentations
+          + Reference Guides
+          + Books
+          + Training & Courses
+          +
+          + Jobs
+          + Request for Quotes
+          + Merchandise
+     * Conformance
+          + Adopter program
+          + File Format Adopter Program
+          + Conformant Companies
+          + Conformant Products
+          + Trademark Guidelines
+          + IP Framework
+          +
+          + Adopter Login
+     * Membership
+          + Join the Khronos Group
+          + Khronos Members
+          + IP Framework
+          +
+          + Create an account
+          + Member Login
+     * News & Events
+          + Newsroom
+          + Press Releases
+          + Khronos Logos
+          + Subscribe to our newsletter
+          + Share your news
+          +
+          + Upcoming Events
+          + Conference Code of Conduct
+          + Share your events
+          +
+          + Marketing with Khronos
+     * About
+          + Overview
+          + Contact Us
+          + Directors & Officers
+          + Working Group Chairs
+          + Technical Support
+          + Khronie Awards
+     * Member Login
+     * Search
+          +
+
+Khronos royalty-free open standards for 3D graphics, Virtual and Augmented
+Reality, Parallel Computing, Neural Networks, and Vision Processing.
+
+     * 3D Commerce
+     * EGL
+     * glTF
+     * NNEF
+     * OpenCL
+     * OpenGL
+     * OpenGL ES
+     * OpenGL SC
+     * OpenVG
+     * OpenVX
+     * OpenXR
+     * SPIR
+     * SYCL
+     * Vulkan
+     * Vulkan SC
+     * WebGL
+     * KSCAF
+     * Expl Analytic Rendering
+     * All Standards
+
+Khronos News
+
+ComputeCpp v1.1.6: Changes to Work-item Mapping Optimization
+
+       November 18, 2019 opencl, sycl    Codeplay Software Limited
+
+   ComputeCpp v1.1.6: Changes to Work-item Mapping Optimization
+
+   In ComputeCpp v1.1.6–Codeplay’s implementation of the open standard
+   SYCL–Codeplay introduces an optimization to the way SYCL work-items map
+   to OpenCL processing elements in order to improve performance in the
+   most common use cases. This blog post will start by providing an
+   overview of what has changed and if and how you may need to update your
+   SYCL code.
+
+   Read More...
+
+Codeplay announces Acoran, with SYCL, OpenCL and Vulkan at the core of the
+platform
+
+       November 18, 2019 vulkan, opencl, sycl    Codeplay Software Limited
+
+   Codeplay announces Acoran, with SYCL, OpenCL and Vulkan at the core of
+   the platform
+
+   Codeplay Software announces Acoran, the standards based platform for AI
+   programmers. Acoran is compatible with Khronos compute standards and
+   Intel’s oneAPI platform, enabling AI processor solutions to align with
+   application developers by taking advantage of established standards and
+   libraries. Codeplay has developed the Acoran platform based on the most
+   relevant and preferred standards, with a comprehensive set of libraries
+   that give AI developers an assured feature set for their applications.
+   With strong momentum in Khronos standards in the industry, SYCL, OpenCL
+   and Vulkan are at the core of the platform, with further support that
+   includes these open source projects.
+
+   Read More...
+
+Vulkan Releases Extension to Expose Cross-Vendor Performance Metrics
+
+       November 18, 2019 vulkan, specification
+
+   Vulkan Releases Extension to Expose Cross-Vendor Performance Metrics
+
+   The Vulkan Working Group has just released the VK_KHR_performance_query
+   extension, which provides a cross-vendor common mechanism to expose
+   performance metrics. These may be used to obtain data from a Vulkan
+   device, typically a graphics card or SoC, to measure the workload
+   demand and assess the impact of application modifications and
+   optimizations.
+
+   Read More...
+
+Intel Fact Sheet: oneAPI with SYCL from Khronos
+
+       November 18, 2019 sycl    Intel
+
+   Intel Fact Sheet: oneAPI with SYCL from Khronos
+
+   ​Back in June 2019 Intel launched oneAPI - a single, unified
+   programming model that aims to simplify development across multiple
+   architectures – such as CPUs, GPUs, FPGAs and accelerators. This
+   weekend, Intel posted a fact sheet on oneAPI. Learn more about Intel’s
+   oneAPI, why oneAPI is an open specification, what is included in the
+   specification, what Data Parallel C++ is, and how does SYCL fit in, in
+   the fact sheet.
+
+   Read More...
+
+SYCL Takes Center Stage at SC19
+
+       November 16, 2019 opencl, sycl
+
+   SYCL Takes Center Stage at SC19
+
+   SuperComputing (SC19) is the largest gathering of high performance
+   computing experts in the world and it kicks off this weekend, Sunday,
+   November 17 in Denver, CO. To kick off the conference, the Fifth
+   International Workshop on Heterogeneous High-Performance Reconfigurable
+   Computing (H2RC 2019) will host two presentations on Sunday
+   solely-focused on SYCL, the Khronos open standard language for C++
+   single-source heterogeneous programming for OpenCL. The keynote
+   delivered by Ronan Keryell from Khronos member, Xilinx and will outline
+   the benefits of using SYCL for FPGA programming in a talk entitled
+   “SYCL: A Single-Source C++ Standard for Heterogeneous Computing.” Later
+   in the morning at 11:00am Michael Kinsner and John Freeman from Intel
+   will present “Data Flow Pipes: A SYCL Extension for Spatial
+   Architectures,” describing the pipes extension that enables a more
+   usable and flexible interface.
+
+   Read More...
+
+The Khronos Group forms Analytic Rendering Exploratory Group – Call for
+Participation
+
+       November 13, 2019 exploratory, analyticrendering
+
+   The Khronos Group has issued a call for participation in the newly
+   formed Analytic Rendering Exploratory Group. The group has been formed
+   to discuss the standardization of an Analytic Rendering API for data
+   visualization. All interested parties are invited to participate, with
+   no cost or IP obligations, to share perspectives, requirements and use
+   cases to help determine whether there is an industry need for such an
+   API and to help set the direction for any standardization activities.
+   Learn more about what Analytic Rendering is why a new analytic
+   rendering API is needed and what the goals of such a group might look
+   like. If your company, or a company you know is interested in learning
+   more and joining the Exploratory Group, you are invited to contact us.
+
+   Read More...
+   all news
+   tell us your news subscribe
+
+TWITTER
+
+   Tweets by thekhronosgroup FOLLOW US
+
+Members
+
+   Khronos members are individuals, companies and academic institutes from
+   around the world shaping the standards that are driving the world.
+   Membership About Khronos
+
+Conformance
+
+   See which companies and products have implemented Khronos standards and
+   have passed the conformance tests.
+   conformant products conformant companies
+
+Khronos Blog
+
+     * Vulkan Releases Extension to Expose Cross-Vendor Performance
+       Metrics
+     * Visualizing data — analytic rendering via Khronos
+     * SYCL Takes Center Stage at SC19
+
+   Visit Khronos Blog
+
+Presentations and Videos
+
+     * SC19
+     * 2019 SIGGRAPH Asia
+     * 2019 IFC Summit
+     * 2019 Embedded Vision Europe
+     * 2019 WCVRI
+     * 2019 XDC – Montreal
+     * 2019 AutoSens
+     * 2019 CppCon
+     * 2019 CEDEC
+     * 2019 SIGGRAPH
+
+   All presentations
+
+Upcoming Events
+
+     * Learn more about 2019 SIGGRAPH Asia
+     * Learn more about SC19
+     * Learn more about Webinar: glTF Tools from Khronos
+     * Learn more about Machine Learning Summit 2019
+     * Learn more about Embedded World Conference 2020
+     * Learn more about SXSW 2020
+
+   All events Tell us about your event
+     * Khronos on Github
+     * Khronos Blog
+     * Khronos Reference Cards
+     * Khronos Bookstore
+     * Khronos Merchandise Store
+
+   Khronos Logo
+
+   9450 SW Gemini Drive #45043
+   Beaverton, OR 97008-6018 USA
+   Office: +1 (415) 869-8627
+   sign up for our newsletter
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Legal Notices
+     * Privacy Policy
+     * Trademark Usage
+
+   Language: EN CN JP KR
+   © The Khronos^® Group Inc. 2019. All rights reserved.
+   Hosting provided by DigitalOcean

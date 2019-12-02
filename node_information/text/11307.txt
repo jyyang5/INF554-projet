@@ -1,0 +1,767 @@
+   We and our partners use cookies to understand how you use our site,
+   improve your experience and serve you personalized content and
+   advertising. Read about how we use cookies in our cookie policy and how
+   you can control them by clicking Manage Settings. By continuing to use
+   this site, you accept these cookies.
+   (BUTTON) Accept (BUTTON) Reject
+
+   (BUTTON) Update Consent
+
+     * ZDNet
+     * PCs
+     * Microsoft
+     * ____________________ (BUTTON) Go
+
+   must read Amazon expands Alexa: Meet its new devices and and services
+   just announced
+
+Microsoft issues 'save the date' for expected October hardware event
+
+   Microsoft is holding a fall hardware launch in New York City and an
+   ARM-based Surface with LTE and an AMD-based Surface Laptop could be
+   among the devices debuting there.
+
+   By Mary Jo Foley for All About Microsoft | August 27, 2019 -- 16:43 GMT
+   (17:43 BST) | Topic: PCs
+
+   Credit: Microsoft
+
+Windows 10
+
+     * Windows 10 Your Phone app can now be used to make calls from
+       Android phones
+     * FAQ: How to manage Windows 10 updates
+     * Buying a Windows laptop? Five must-have features for my next
+       notebook
+     * The Best Antivirus of 2019 to Protect Windows 10 (CNET)
+     * Windows 10 Start menu problems? Microsoft investigates if latest
+       fix breaks search (TechRepublic)
+
+   We Microsoft watchers have been hearing for a while now that Microsoft
+   would hold some kind of hardware event in October in New York City.
+   Today, August 27, Microsoft sent out "save the date" placeholders for
+   the October 2, 2019 event.
+   For the past couple of years, Microsoft has held a separate hardware
+   launch event in the fall in New York. This year, I'm hearing that we
+   will see and hear about some new Surface devices, including a Qualcomm
+   8cx-based Surface ARM device at the event. That device, which some of
+   my contacts say could be priced around $999, will be an
+   Always-Connected PC with built-in LTE support.
+   There also has been talk about Microsoft introducing an AMD-based
+   Surface Laptop at this fall hardware event. A refreshed Surface Pro
+   device, possibly with USB-C support, could debut at this event, as
+   well, some tipsters have said. I've heard some talk that Microsoft
+   won't be adding built-in LTE support to new Intel-based Surface Pro
+   devices, moving forward, but instead will make built-in LTE a feature
+   of ARM-based devices only.
+
+   Microsoft could potentially use the October event to announce a ship
+   date for its HoloLens 2 device. Microsoft provided the specs and
+   pricing for HoloLens 2 earlier this year.
+
+   I don't think Microsoft will introduce its dual-screen, Courier-like
+   Centaurus device at this event, however. Even though Microsoft
+   officials showed off advanced renders of the device internally this
+   summer, I don't think it's ready for introduction yet, based on tips
+   I've gotten. It sounds like if it does end up coming to market,
+   Centaurus could be a 2020 thing. Both Centaurus and HoloLens 2 are
+   expected to be running Windows Core OS inside.
+
+   Microsoft is not commenting on what to expect at the October event or
+   with its future Surface line-up at this time.
+
+   At Microsoft's last year's fall hardware event -- also on October 2 --
+   the company introduced Surface Pro 6, Surface Laptop 2, Surface Studio
+   2 and Surface headphones.
+
+Microsoft
+
+     * Microsoft Authenticator on Android gets cloud backup and recovery
+     * iPad Pro vs Surface Pro 6: Can a tablet-laptop hybrid really
+       replace your PC?
+     * Microsoft's October 2 event will be about more than just new
+       Surface devices
+     * Best 2-in-1 PCs in 2019 (CNET)
+     * How to sign into your Microsoft Account website without a password
+       (TechRepublic)
+
+Related Topics
+
+   Hardware
+   Laptops
+   Reviews
+
+Related Stories
+
+     * Amazon
+       Amazon asks: Where do you want to take Alexa next?
+     * Security
+       Google removes Android apps caught grossly overcharging users for
+       basic features
+     * Amazon
+       Amazon's Echo devices and prices: How much they cost, when and
+       where to buy them
+     * Artificial Intelligence
+       Futurist Tim O'Reilly Sees a Human-Computer Symbiosis Bigger Than
+       AI
+
+   Visit ZDNET
+
+   ZDNet
+   Connect with us
+
+   © 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies |
+   Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+     * Topics
+     * All Authors
+     * Galleries
+     * Videos
+     * Sponsored Narratives
+
+     * About ZDNet
+     * Meet The Team
+     * Site Map
+     * RSS Feeds
+     * Reprint Policy
+
+     * Join | Log In | Membership
+     * Newsletters
+     * Site Assistance
+     * ZDNet Academy
+     * TechRepublic Forums
+   We and our partners use cookies to understand how you use our site,
+   improve your experience and serve you personalized content and
+   advertising. Read about how we use cookies in our cookie policy and how
+   you can control them by clicking Manage Settings. By continuing to use
+   this site, you accept these cookies.
+   (BUTTON) Accept (BUTTON) Reject
+
+   (BUTTON) Update Consent
+
+     * ZDNet
+     * Security
+     * Hardware
+     * ____________________ (BUTTON) Go
+
+   must read Amazon expands Alexa: Meet its new devices and and services
+   just announced
+
+Researchers find security flaws in 40 kernel drivers from 20 vendors
+
+   Affected vendors include the likes of Intel, AMD, NVIDIA, ASRock, AMI,
+   Gigabyte, Realtek, Huawei, and more.
+
+   By Catalin Cimpanu for Zero Day | August 10, 2019 -- 22:45 GMT (23:45
+   BST) | Topic: Security
+
+TechRepublic
+
+   Raspberry Pi: A cheat sheet
+     * Read More
+
+   At the DEF CON 27 security conference today in Las Vegas, security
+   researchers from Eclypsium gave a talk about common design flaws they
+   found in more than 40 kernel drivers from 20 different hardware
+   vendors.
+
+   The common design flaws is that low-privileged applications can use
+   legitimate driver functions to execute malicious actions in the most
+   sensitive areas of the Windows operating system, such as the Windows
+   kernel.
+
+   "There are a number of hardware resources that are normally only
+   accessible by privileged software such as the Windows kernel and need
+   to be protected from malicious read/write from userspace applications,"
+   Mickey Shkatov, Principal Researcher at Eclypsium told ZDNet in an
+   email earlier this week.
+
+   "The design flaw surfaces when signed drivers provide functionality
+   which can be misused by userspace applications to perform arbitrary
+   read/write of these sensitive resources without any restriction or
+   checks from Microsoft," he added.
+
+   Shkatov blames the issues he discovered on bad coding practices, which
+   don't take security into account.
+
+   "This is a common software design anti-pattern where, rather than
+   making the driver only perform specific tasks, it's written in a
+   flexible way to just perform arbitrary actions on behalf of userspace,"
+   he told ZDNet.
+
+   "It's easier to develop software by structuring drivers and
+   applications this way, but it opens the system up for exploitation."
+
+Impacted vendors
+
+   Shkatov said his company has notified each of the hardware vendors that
+   were shipping drivers that allow userspace apps to run kernel code.
+   Vendors who issued updates are listed below.
+
+   ● American Megatrends International (AMI)
+   ● ASRock
+   ● ASUSTeK Computer
+   ● ATI Technologies (AMD)
+   ● Biostar
+   ● EVGA
+   ● Getac
+   ● GIGABYTE
+   ● Huawei
+   ● Insyde
+   ● Intel
+   ● Micro-Star International (MSI)
+   ● NVIDIA
+   ● Phoenix Technologies
+   ● Realtek Semiconductor
+   ● SuperMicro
+   ● Toshiba
+
+   "Some vendors, like Intel and Huawei, have already issued updates. Some
+   which are IBVs [independent BIOS vendors] like Phoenix and Insyde are
+   releasing their updates to their customer OEMs," Shkatov told ZDNet.
+
+   The Eclypsium researcher said he did not name all the impacted vendors,
+   though, as some "needed extra time due to special circumstances" and
+   future fixes and advisories will be released in the future.
+
+   The Eclypsium researcher said he plans to publish the list of affected
+   drivers and their hashes on GitHub, after the talk so users and
+   administrators can block the affected drivers.
+
+   In addition, Shaktov said Microsoft will be using its HVCI
+   (Hypervisor-enforced Code Integrity) capability to blacklist drivers
+   that are reported to them.
+
+   However, Shaktov said that the HVCI feature is only supported on 7th
+   gen Intel CPUs and onwards. Manual intervention will be needed on older
+   systems, and even on newer Intel CPUs where HVCI can't be enabled.
+
+   "In order to exploit vulnerable drivers, an attacker would need to have
+   already compromised the computer," Microsoft said in a statement. "To
+   help mitigate this class of issues, Microsoft recommends that customers
+   use Windows Defender Application Control to block known vulnerable
+   software and drivers. Customers can further protect themselves by
+   turning on memory integrity for capable devices in Windows
+   Security.Microsoft works diligently with industry partners to address
+   to privately disclose vulnerabilities and work together to help protect
+   customers."
+
+   More details will be available on the Eclypsium blog later today.
+
+HackerOne's top 20 public bug bounty programs
+
+   20 Photos
+   See Full Gallery
+
+More vulnerability reports:
+
+     * Microsoft names top security researchers, zero-day contributors
+     * Apple expands bug bounty to macOS, raises bug rewards
+     * Google: 95.8% of all bug reports are fixed before deadline expires
+     * New Dragonblood vulnerabilities found in WiFi WPA3 standard
+     * Unpatched KDE vulnerability disclosed on Twitter
+     * Security bugs in popular Cisco switch brand allow hackers to take
+       over devices
+     * Google will now pay up to $30,000 for reporting a Chrome bug CNET
+     * Top 10 app vulnerabilities: Unpatched plugins and extensions
+       dominate TechRepublic
+
+Related Topics
+
+   Security TV
+   Data Management
+   CXO
+   Data Centers
+
+Related Stories
+
+     * Amazon
+       Amazon asks: Where do you want to take Alexa next?
+     * Security
+       Google removes Android apps caught grossly overcharging users for
+       basic features
+     * Amazon
+       Amazon's Echo devices and prices: How much they cost, when and
+       where to buy them
+     * Artificial Intelligence
+       Futurist Tim O'Reilly Sees a Human-Computer Symbiosis Bigger Than
+       AI
+
+   Visit ZDNET
+
+   ZDNet
+   Connect with us
+
+   © 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies |
+   Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+     * Topics
+     * All Authors
+     * Galleries
+     * Videos
+     * Sponsored Narratives
+
+     * About ZDNet
+     * Meet The Team
+     * Site Map
+     * RSS Feeds
+     * Reprint Policy
+
+     * Join | Log In | Membership
+     * Newsletters
+     * Site Assistance
+     * ZDNet Academy
+     * TechRepublic Forums
+   We and our partners use cookies to understand how you use our site,
+   improve your experience and serve you personalized content and
+   advertising. Read about how we use cookies in our cookie policy and how
+   you can control them by clicking Manage Settings. By continuing to use
+   this site, you accept these cookies.
+   (BUTTON) Accept (BUTTON) Reject
+
+   (BUTTON) Update Consent
+
+     * ZDNet
+     * Innovation
+     * Blockchain
+     * ____________________ (BUTTON) Go
+
+   must read Amazon expands Alexa: Meet its new devices and and services
+   just announced
+
+Facebook debuts Libra cryptocurrency: a Bitcoin killer?
+
+   The social network’s rumored cryptocurrency has landed, but how it will
+   be received remains to be seen.
+
+   By Charlie Osborne for Between the Lines | June 18, 2019 -- 10:36 GMT
+   (11:36 BST) | Topic: Innovation
+   Facebook offers peek into its future Libra cryptocurrency
+
+   Facebook has announced Libra, a new cryptocurrency which will launch in
+   2020 and which will integrate with the firm's apps and services.
+
+   The social networking giant's interest in the cryptocurrency space and
+   blockchain technologies has been rumored for months and was recently
+   claimed that Facebook was on the verge of announcing its own virtual
+   currency.
+
+   Only last week, reports suggested that the coin was in development with
+   the backing of major financial institutions including Visa, Mastercard,
+   and PayPal, as well as firms including Uber, Lyft, and eBay.
+
+Featured
+
+     * Amazon's new devices: How much they cost and when you can buy them
+     * Google wins "right to be forgotten" case in Europe
+     * Microsoft: We want you to learn Python programming language for
+       free
+     * Best Peloton alternatives: Top smart exercise bikes
+     * Super Pumped: Mike Isaac on the evolution and struggles of Uber
+       (ZDNet YouTube)
+
+   A number of these companies are now believed to have joined a
+   consortium backing Facebook's foray into the cryptocurrency space, but
+   one thing is certain: Libra is on its way to the social networking
+   platform.
+
+   On Tuesday, Facebook revealed the "early stage" project in a blog post.
+   One of Facebook's subsidiaries, Calibra, is managing the Libra network,
+   which will include the blockchain infrastructure required to facilitate
+   the exchange of the Libra cryptocurrency.
+
+   Calibra will introduce a digital wallet for Libra and the storage
+   system will be integrated with Messenger and WhatsApp, as well as
+   become available as a standalone iOS and Android app potentially for
+   use with third-party vendors and e-commerce platforms.
+
+   Expected to debut in 2020, Libra seems to be Facebook's punt into the
+   mobile payments space. The company says that the cryptocurrency will be
+   tradable with "almost anyone with a smartphone," and will fit use cases
+   such as paying bills, buying coffee, or using public transit.
+
+   See also: Facebook seals cryptocurrency deal with Visa, Mastercard,
+   PayPal: report
+
+   These lofty goals will require partnerships with a wide variety of
+   organizations willing to accept the cryptocurrency in lieu of
+   traditional, fiat currency, and so developing the "early stage" project
+   for mainstream use is likely to be an uphill battle.
+
+   However, there are cases in which Facebook's coin might be more widely
+   accepted, such in areas where obtaining a bank account is difficult, or
+   as an alternative to cash for growing small businesses in developing
+   countries.
+
+   Facebook is keen to emphasize that the wallets used to store Libra will
+   have "all the same verification and anti-fraud processes that banks and
+   credit cards use, and we'll have automated systems that will
+   proactively monitor activity to detect and prevent fraudulent
+   behavior."
+
+   The social networking giant says that "Calibra customers' account
+   information and financial data will not be used to improve ad targeting
+   on the Facebook family of products" and only in "limited cases" will
+   information be shared to "reflect our need to keep people safe, comply
+   with the law and provide basic functionality to the people who use
+   Calibra."
+
+   TechRepublic: Why cryptocurrency needs to get more user-friendly to
+   achieve mainstream success
+
+   It's up to the potential future Calibra customers to decide whether or
+   not they trust Facebook enough to enter their financial affairs.
+   However, given Facebook's track record of privacy scandals and customer
+   data mishandling, it is unsurprising that the firm wants to try and
+   distance itself from data misuse when it comes to the Calibra project.
+
+Facebook's worst privacy scandals and data disasters
+
+   12 Photos
+   See Full Gallery
+
+   At first glance, it appears that Calibra is intended to be the backbone
+   of a new financial ecosystem, rather than a challenger to
+   cryptocurrencies already entrenched in the space, such as Bitcoin or
+   Ethereum.
+
+   CNET: Blockchain explained: It builds trust when you need it most
+
+   While Bitcoin has slowly gained acceptance with some retailers as a
+   method of payment, the BTC market's volatility has made Bitcoin more of
+   an investment punt and speculative investment rather than a standard
+   method of paying for goods and services.
+
+   Libra is unlikely to touch the popularity of other major
+   cryptocurrencies, but given the coin's backing by traditional financial
+   organizations, it will be interesting to see whether Libra is adopted
+   enthusiastically or dismissed by individuals already happy enough with
+   current mobile payment systems and cryptocurrency offerings.
+
+2018's worst cryptocurrency scams, cyberattacks (in pictures)
+
+   11 Photos
+   See Full Gallery
+
+Previous and related coverage
+
+     * Facebook set to launch own brand of cryptocurrency in 2020
+     * Facebook to stop Huawei pre-installing apps on smartphones
+     * Outlaw hackers return with cryptocurrency mining botnet
+     __________________________________________________________________
+
+   Have a tip? Get in touch securely via WhatsApp | Signal at +447713 025
+   499, or over at Keybase: charlie0
+     __________________________________________________________________
+
+Related Topics
+
+   CXO
+   Digital Transformation
+   Tech Industry
+   Smart Cities
+   Cloud
+
+Related Stories
+
+     * Amazon
+       Amazon asks: Where do you want to take Alexa next?
+     * Security
+       Google removes Android apps caught grossly overcharging users for
+       basic features
+     * Amazon
+       Amazon's Echo devices and prices: How much they cost, when and
+       where to buy them
+     * Artificial Intelligence
+       Futurist Tim O'Reilly Sees a Human-Computer Symbiosis Bigger Than
+       AI
+
+   Visit ZDNET
+
+   ZDNet
+   Connect with us
+
+   © 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies |
+   Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+     * Topics
+     * All Authors
+     * Galleries
+     * Videos
+     * Sponsored Narratives
+
+     * About ZDNet
+     * Meet The Team
+     * Site Map
+     * RSS Feeds
+     * Reprint Policy
+
+     * Join | Log In | Membership
+     * Newsletters
+     * Site Assistance
+     * ZDNet Academy
+     * TechRepublic Forums
+   #Latest Videos for ZDNet
+
+   Facebook offers peek into its future Libra cryptocurrency The social
+   network’s rumored cryptocurrency has landed, but how it will be
+   received remains to be seen.
+   #Latest Videos for ZDNet
+
+     * Edition:
+          + Asia
+          + Australia
+          + Europe
+          + India
+          + United Kingdom
+          + United States
+          + ZDNet around the globe:
+          + ZDNet China
+          + ZDNet France
+          + ZDNet Germany
+          + ZDNet Korea
+          + ZDNet Japan
+
+   Search
+   ____________________ (BUTTON) Go
+
+     * Central Europe
+     * Middle East
+     * Scandinavia
+     * Africa
+     * UK
+     * Italy
+     * Spain
+     * more
+          + Estonia
+          + European Union
+          + Mobility
+          + Hardware
+          + Innovation
+          + See All Topics
+          + White Papers
+          + Downloads
+          + Reviews
+          + Galleries
+          + Videos
+          + TechRepublic Forums
+     * Newsletters
+     * All Writers
+     *
+          + Preferences
+          + Community
+          + Newsletters
+          + Log Out
+
+     *
+     *
+          + ____________________ (BUTTON) Go
+     * Menu
+          + Central Europe
+          + Middle East
+          + Scandinavia
+          + Africa
+          + UK
+          + Italy
+          + Spain
+          + Estonia
+          + European Union
+          + Mobility
+          + Hardware
+          + Innovation
+          + See All Topics
+          + White Papers
+          + Downloads
+          + Reviews
+          + Galleries
+          + Videos
+          + TechRepublic Forums
+     *
+     *
+          +
+               o Preferences
+               o Community
+               o Newsletters
+               o Log Out
+     * eu
+          + Asia
+          + Australia
+          + Europe
+          + India
+          + United Kingdom
+          + United States
+          + ZDNet around the globe:
+          + ZDNet China
+          + ZDNet France
+          + ZDNet Germany
+          + ZDNet Korea
+          + ZDNet Japan
+
+     * ZDNet
+     * ZDNet Video
+
+   Three-quarters of databases will move to the cloud in the next three
+   years Your database is going to the cloud and it's not coming back,
+   says tech analyst.
+
+Three-quarters of databases will move to the cloud in the next three years
+
+   About
+   Three-quarters of databases will move to the cloud in the next three
+   years
+   0:52 / July 4, 2019
+
+   Your database is going to the cloud and it's not coming back, says tech
+   analyst.
+   Share
+     *
+     *
+     *
+
+   Contact
+   Read full article: Your database is going to the cloud and it's not
+   coming back
+
+Related
+
+   Amazon's Echo, Alexa parade: What it all means
+   MuleSoft strategy sets up an example for the whole industry to follow
+   The tech industry embraces sustainability
+   Why one Java developer jumped to Salesforce and hasn't looked back
+   Oracle takes another step toward goal of building world's first
+   autonomous cloud
+   Australian Department of Health wants to reduce paperwork with SaaS
+   solution
+   LG and Microsoft showcase cloud-linked infotainment solution
+   IBM opens a new Quantum Computation Center
+   Microsoft and Telstra team up for business data sharing platform
+   Adobe's cloud pivot: What we've learned
+   Xero boosts data flow with machine learning capabilities
+   Baidu swaps DRAM for Optane to power in-memory database
+   Cloud rescue: ‘Digital twin’ program helping save endangered New
+   Zealand bird
+   What is the Confidential Computing Consortium?
+   Digital exams to help Monash University save AU$7 million
+
+Most Recent
+
+What does it take to make Alexa family-friendly?
+
+   3:24 / September 25, 2019
+
+Amazon
+
+Is Amazon‘s Day 1 Edition initiative for testing new Alexa hardware the right
+move? (Spoiler: Yes)
+
+   15:35 / September 25, 2019
+
+Amazon
+
+How Amazon chooses new form factors for Alexa
+
+   4:22 / September 25, 2019
+
+Amazon
+
+Amazon's Echo, Alexa parade: What it all means
+
+   10:28 / September 25, 2019
+
+Hardware
+
+Overkill encryption: New ransomware strain makes it impossible to decrypt
+infected PCs
+
+   0:51 / September 25, 2019
+
+Security
+
+Customized 3D-printed fabrics hit fashion runways
+
+   0:47 / September 25, 2019
+
+3D Printing
+
+Nothing but trouble for global 5G
+
+   15:38 / September 25, 2019
+
+5G
+
+Super Pumped: Mike Isaac on the evolution and struggles of Uber
+
+   19:14 / September 25, 2019
+
+Innovation
+
+How a top down approach to innovation produces results
+
+   1:09 / September 25, 2019
+
+CXO
+
+LG Display changes boss amid LCD and OLED market squeezes
+
+   1:02 / September 25, 2019
+
+Hardware
+
+HTC appoints former Orange executive as new CEO
+
+   1:18 / September 25, 2019
+
+CXO
+
+Telstra bringing eSIM support to iPhones
+
+   1:20 / September 25, 2019
+
+Mobility
+
+Digital transformation of the wine industry
+
+   11:37 / September 24, 2019
+
+Digital Transformation
+
+Smartphone fully charged in 30 minutes: Chinese firm redefines what
+fast-charging means
+
+   0:46 / September 24, 2019
+
+Mobility
+
+Six new sports watches for the casual athlete to the ultrarunner
+
+   13:17 / September 24, 2019
+
+Digital Health and Wellness
+
+Germany's federal government is too dependent on Microsoft software, report
+
+   1:07 / September 24, 2019
+
+Enterprise Software
+
+   ZDNet
+   Connect with us
+
+   © 2019 CBS Interactive. All rights reserved. Privacy Policy | Cookies |
+   Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+   Visit other CBS Interactive sites: [Select Site_____]
+     * Topics
+     * All Authors
+     * Galleries
+     * Videos
+     * Sponsored Narratives
+
+     * About ZDNet
+     * Meet The Team
+     * Site Map
+     * RSS Feeds
+     * Reprint Policy
+
+     * Manage | Log Out
+     * Join | Log In | Membership
+     * Newsletters
+     * Site Assistance
+     * ZDNet Academy
+     * TechRepublic Forums

@@ -1,0 +1,2940 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Aller au contenu
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Extensions
+
+   (BUTTON)
+     * Mes favoris
+     * Bêta test
+     * Développeurs
+     * Rechercher : ____________________ (BUTTON) Recherche d’extensions
+
+   Télécharger
+
+WP-Members Membership Plugin
+
+   Par Chad Butler
+     * Détails
+     * Avis
+     * Installation
+     * Support
+     * Développement
+
+Description
+
+   The WP-Members membership plugin turns your WordPress site into a
+   membership site. Restrict premium content, create custom registration
+   fields, and more.
+
+Membership Sites. Simplified.
+
+   You need a membership site, but you want to focus on your business, not
+   mastering a plugin. WP-Members is simple to use, easy to set up, yet
+   flexible in every way imaginable.
+
+   The plugin restricts selected WordPress content to registered site
+   members. WP-Members puts the registration process on the site front end
+   so it is part of your content instead of the native WP login page.
+   WP-Members requires no modifications to your theme while remaining
+   scalable for users who want to customize the look and feel, or want to
+   restrict only some content. It is a great tool for sites offering
+   premium content to subscribers and is adaptable to a variety of
+   applications.
+
+   Simple to install and configure – yet customizable and scalable!
+
+Fonctionnalités :
+
+     * Restrict or hide posts, pages, and custom post types
+     * User login, registration, and profile integrated into your theme
+     * Login widget
+     * Create custom registration and profile fields
+     * Notifier l’administrateur d’une nouvelle inscription
+     * Hold new registrations for admin approval
+     * Create post excerpt teaser content automatically
+     * Shortcodes for login, registration, content restriction, and more
+     * Create powerful customizations with more than 120 action and filter
+       hooks
+     * A library of API functions for extensibility
+
+   WP-Members allows you to restrict content as restricted or hidden,
+   limiting access to registered users.
+
+   A full Users Guide is available here. The guide outlines the
+   installation process, and also documents how to use all of the
+   settings.
+
+   Get support along with all of the plugin’s premium extensions in one
+   cost saving Pro Bundle!
+
+Premium Support
+
+   Premium support subscribers have access to priority email support,
+   examples, tutorials, and code snippets that will help you extend and
+   customize the base plugin using the plugin’s framework. Visit the site
+   for more info.
+
+Premium Extensions
+
+   The plugin has several premium extensions for additional functionality.
+   You can purchase any of them individually, or get them all for a
+   significant discount in the Pro Bundle.
+     * Advanced Options – adds additional settings to WP-Members for
+       redirecting core WP created URLs, redirecting restricted content,
+       hiding the WP toolbar, and more! Also includes integrations with
+       popular plugins like WooCommerce, BuddyPress, bbPress, ADF, Easy
+       Digital Downloads, and The Events Calendar.
+     * Download Protect – Allows you to restrict access to specific files,
+       requiring the user to be logged in to access.
+     * Invite Codes – set up invitation codes to restrict registration to
+       only those with a valide invite code.
+     * MailChimp Integration – add MailChimp list subscription to your
+       registation form.
+     * Memberships for WooCommerce – Sell memberships through WooCommerce.
+     * PayPal Subscriptions – Sell restricted content access through
+       PayPal.
+     * Security – adds a number of security features to the plugin such as
+       preventing concurrent logins, registration form honey pot (spam
+       blocker), require passwords be changed on first use, require
+       passwords to be changed after defined period of time, require
+       strong passwords, block registration by IP and email, restrict
+       specified usernames from being registered.
+     * Text Editor – Adds an editor to the WP-Members admin panel to
+       easily customize all user facing strings in the plugin.
+     * User List – Display lists of users on your site. Great for creating
+       user directories with detailed and customizable profiles.
+     * User Tracking – Track what pages logged in users are visting and
+       when.
+     * WordPass Pro – Change your random password generator from gibberish
+       to word-based passwords (can be used with or without WP-Members).
+
+   Get support along with all of the plugin’s premium extensions in one
+   cost saving Pro Bundle!
+
+Captures d’écran
+
+     * The default when viewing a blocked post - the plugin will deliver a
+       login screen and registration form in place of blocked content
+       (this default can be changed to other options).
+     * Admin Panel - Options Tab - the various option settings for the
+       plugin.
+     * Admin Panel - Fields Tab - the plugin field manager allows you to
+       manage (or delete) the installed extra fields and field order, and
+       also add your own custom fields.
+     * Admin Panel - Dialogs Tab - the major dialogs that the plugin uses
+       for error and other messages can be edited in the plugin's admin
+       panel.
+     * Admin Panel - Emails Tab - all of the emails that are sent by the
+       plugin can be edited in the admin panel.
+     * Posts > All Posts - The plugin adds a column to the list of posts
+       and pages to display if a post or page is unblocked or blocked (the
+       opposite of whatver you have set for the plugin's default in the
+       options tab).
+     * Posts > Edit Post - The plugin adds a meta box to the post/page
+       editor allowing you to set an individual post to be blocked or
+       unblocked (the opposite of whatver your default setting is).
+     * Responsive forms.
+
+Installation
+
+   WP-Members is designed to run « out-of-the-box » with no modifications
+   to your WP installation necessary. Please follow the installation
+   instructions below. Most of the support issues that arise are a result
+   of improper installation or simply not reading/following directions.
+
+Basic Install:
+
+   The best way to begin is to review the Initial Setup Video. There is
+   also a complete Users Guide available that covers all of the plugin’s
+   features in depth.
+    1. Upload the /wp-members/ directory and its contents to the
+       /wp-content/plugins/ directory
+    2. Activate the plugin through the ‘Plugins’ menu in WordPress®
+
+   You are ready to begin using WP-Members. Now follow the instructions
+   titled « Locking down your site » below.
+
+Locking down your site:
+
+     * To restrict posts, you will need to use the <!--more--> link in
+       your posts. Content above to the « more » split will display on
+       summary pages (home, archive, category) but the user will be
+       required to login to view the entire post. You may also use the
+       plugin’s auto excerpt setting to create post excerpts
+       automatically. If you do not use the « more » tag or the auto
+       excerpt setting, full post content is going to show on archive
+       templates, unless the post is marked as hidden.
+     * To begin restricting pages, change the plugin default setting for
+       pages to be blocked. Unlike posts, the <!--more--> link is not
+       necessary in the blocking of pages, but must be used if you have
+       the « show excerpts » setting turned on for pages.
+     * To protect comments, we recommend setting « Users must be
+       registered and logged in to comment » under Settings > Discussion.
+     * On the Settings > General page, it is recommended that you uncheck
+       « Anyone can register ». While not required, this will prevent WP’s
+       native registration from colliding with WP-Members, especially if
+       you are using any of the WP-Members additional registration fields.
+     * Under Settings > Reading, « For each article in a feed, show » is
+       recommended to be set to « Summary. » WordPress installs with full
+       feed settings by default. If you don’t change this, your feeds will
+       show full content.
+
+Additional Setup Information
+
+   There are also some special pages that can be created with simple
+   shortcodes:
+     * A User Profile page where registered members can edit their
+       information and change/reset their password: [wpmem_profile]
+     * A Registration page available for those that need a specific URL
+       for registrations (such as email marketing or banner ad landing
+       pages). Note: this is strictly optional as a registration form can
+       also be included by default on blocked content pages: [wpmem_form
+       register]
+     * A Login page. This is also an optional page as the login form is
+       included by default on blocked content. But if you need a specific
+       login page, this can be created with a simple shortcode:
+       [wpmem_form login]
+     * And more shortcodes are available!
+
+   Powerful cusotmizations can be constructed with over 120 action and
+   filter hooks, as well as user accessible functions.
+
+FAQ
+
+   The FAQs are maintained at
+   https://rocketgeek.com/plugins/wp-members/docs/faqs/
+
+Avis
+
+Excellent plugin, excellent support.
+
+   ihopethiswillfi 15 août 2019
+   Excellent plugin, excellent support.
+
+Chrome plus this plugin disabled site…
+
+   ralphw 23 août 2019
+   In Firefox, all is well. In Chrome, however, (both on laptop and phone
+   browser), all menu links led to just one page, and a second-level page,
+   at that. It also blew apart the formatting of the Contact 7 Form on
+   that page. I disabled all plugins, changed themes, and this plugin was
+   the culprit. Cheers! ----8/23/19 Follow-Up---- Point taken, Chad...! As
+   said initially, despite changing themes for troubleshooting, and by
+   this I mean using the plain vanilla WP "Twenty Sixteen" theme, your
+   plugin was not playing well with my site when viewed with Chrome. As I
+   found another plugin to suit me for those needs, and as I did not have
+   the time or interest to experiment to see if one of my 16 other
+   activated plugins was the cause of making your plugin not work in
+   Chrome, I wrote the above review from a sense of frustration. I did not
+   intend to nuke your stats! So, adjustment made, and hopefully I am the
+   only one that this issue ever happens to. Cheers, Ralph
+
+Very good plugin and awesome support
+
+   faycan 12 juin 2019
+   Very good plugin, that satisfied all our needs for membership handling.
+   Awesome and fast support by Chad. In one word Excelent !
+
+Excellent!
+
+   burkharde 29 mai 2019
+   Just a great plugin.
+
+Great plugin and incredible support
+
+   profoundworks 23 mai 2019
+   This plugin works very nicely, but the best part is the support. Chad
+   is one of the most helpful plugin developers we have ever come across,
+   and is always happy to help us even with customisations to certain
+   features. Highly recommended.
+
+Excellent
+
+   djiinn 15 mai 2019
+   Excellent Plugin. Just sad that we cannot manually edit languages files
+   Lire les 197 avis
+
+Contributeurs & développeurs
+
+   « WP-Members Membership Plugin » est un logiciel libre. Les personnes
+   suivantes ont contribué à cette extension.
+   Contributeurs
+     * Chad Butler
+
+   “WP-Members Membership Plugin” a été traduit dans 13 locales. Remerciez
+   l’équipe de traduction pour ses contributions.
+
+   Traduisez « WP-Members Membership Plugin » dans votre langue.
+
+Le développement vous intéresse ?
+
+   Parcourir le code, consulter le SVN dépôt, ou s’inscrire au journal de
+   développement par RSS.
+
+Journal
+
+3.2.9.3
+
+     * Data input/output improvements.
+
+3.2.9.2
+
+     * Fixes a bug with file extension validation in image and file upload
+       fields.
+
+3.2.9.1
+
+     * Fixes an issue with loading the select2 and jQuery UI libraries
+       locally. This problem primarily affects users who run WP-Members
+       with WooCommerce.
+
+3.2.9
+
+     * Load jQuery UI and Select2 libraries locally (if they have not
+       already been enqueued).
+     * Use (local) template file for default tos field link (can be
+       customized and saved in theme folder).
+     * Added new sanitization functions to API: wpmem_sanitize_class() and
+       wpmem_sanitize_array().
+     * Review and cleanup of form data sanitization.
+     * Improved file/image field upload file type validation.
+     * Fixed issue with loading legacy translation files.
+     * Added « membership » attribute to [wpmem_logged_in] shortcode (same
+       as « product » attribute, they are interchangeable).
+     * Added datepicker for setting user expiration (when membership
+       products are used).
+
+3.2.8
+
+     * Include jQuery UI CSS and Select2 library locally.
+     * Updated default TOS to a template file.
+     * Added additional data sanitization.
+     * Fixed potential security issues to prevent CSRF (Cross Site Request
+       Forgery).
+
+3.2.7
+
+     * Fix console error from nonce by implementing different nonce names.
+     * Updated packaged POT file for legacy lanaguage files. Updated
+       legacy language files to use new POT.
+     * Full removal of legacy language files that are available as
+       language packs from
+       https://translate.wordpress.org/projects/wp-plugins/wp-members/
+     * Added jQuery UI stylesheet (fixes issue with main options tab
+       settings modal).
+     * Added wpmem_default_text filter.
+     * Deprecated wpmem_default_text_strings filter, use
+       wpmem_default_text instead.
+     * Added translation capability to field placeholders and title
+       attributes.
+     * Updated Customizer setting slug to avoid namespace collisions
+       (added « wpmem_ » stem).
+     * Updated instances of wp_redirect() to use wp_safe_redirect().
+     * Updated install for multisite to use wp_insert_site (wpmu_new_blog
+       deprecated in WP 5.1).
+     * Added user screen filter to show activated users.
+
+3.2.6
+
+     * Update to evaluate required fields as not null (instead of false).
+     * Added wpmem_tos_link_tag filter.
+     * Added $button_html parameter to wpmem_register_form_buttons filter.
+     * Added wpmem_serve_menu filter.
+     * Added nonce to short form (long form was added in 3.2.5).
+     * Password change function only can be fired if user is logged in.
+     * Added « all » argument to wpmem_user_data() to retrieve either all
+       user meta or WP-Members fields only.
+     * Added $date argument to wpmem_set_user_product(). Allows specific
+       date to be set using API.
+     * Added wpmem_admin_after_profile_table and
+       wpmem_user_after_profile_table actions.
+     * get_user_products() returns empty array if no products (previously
+       boolean).
+     * Rebuild of [wpmem_field] logic for field type. Combined multiple
+       conditions into a single switch.
+     * Update password reset form – password field should be « text »
+       class.
+     * Added membership field type for allowing selection of a membership
+       at registration.
+     * Login form updated from « Username » to « Username or Email ».
+     * Added $arr parameter to wpmem_login_form_rows filter.
+     * Added file’s post ID to post_data array.
+
+3.2.5
+
+     * Fix user profile (admin/user) issue with tos field not displaying.
+     * Fix [wpmem_logged_in] shortcode to pass product attribute.
+     * Fix [wpmem_field] shortcode, checks if field is set to avoid
+       undefined index error.
+     * Fix do_excerpt() if post object is not set as an object.
+     * Fix logic for displaying hidden posts based on product access.
+     * Added message dialog to display in Customizer.
+     * Added HTML5 « required » attribute to TOS checkbox.
+     * Added redirect_to attribute to logout link.
+     * Added $tag parameter to wpmem_{$tag}link and wpmem{$tag}_link_str
+       filters.
+     * Added id parameter to wpmem_register_form_args filter.
+     * Added wpmem_email_send_args filter.
+     * Added wpmem_is_user() function to API.
+     * Added wpmem_do_shortcode() utility function in API.
+     * Added wpmem_export_fields filter to user export function.
+     * Added label attribute to field shortcode.
+     * Added user profile tabs (jquery ui tabs).
+     * Updated wpmem_form_date() API function.
+     * Updated check product access to handle product as an array.
+     * Updated to make a nonce a default for the registration form
+       (reduces possibility of spam registrations).
+     * Updated form field creation, $value is now optional.
+     * Moved textdomain to load in main class file.
+     * Removed possibility of using reCAPTCHA v1 which is totally
+       obsolete.
+     * Removed widget status message (« you are not logged in ») for
+       logged out state.
+
+3.2.4
+
+     * Added deactivate users both bulk and single in Users > All Users.
+     * Added id attribute for form labels.
+     * Added wpmem_format_date() API function.
+     * Added label tags to multipe checkbox and radio group items.
+     * Added assigned product(s) column to users and posts screens.
+     * Updated membership product object structure.
+     * Updated load priority to run later for jquery loginout script.
+     * Removed query_vars filter.
+     * Deprecated wpmem_a_activate_user(), use wpmem_activate_user()
+       instead.
+     * Deprecated wpmem_a_deactivate_user(), use wpmem_deactivate_user()
+       instead.
+     * Relocated install file to /inc/ directory.
+     * Moved methods out of core.php, deprecated file.
+     * Fixed issue with default stylesheet setting caused by moving
+       install file.
+
+3.2.3
+
+     * Bug fix in user export that caused usernames to be dropped.
+     * Bug fix to allow admins to edit their own profile.
+     * Bug fix for jquery with regards to select2, only load if products
+       are enabled.
+     * Added email API.
+     * Added product attribute to [wpmem_logged_in] shortcode.
+     * Added wpmem_force_ssl() API function.
+     * Added wpmem_set_as_logged_in() API function.
+     * Added filters to remove posts marked hidden from previous/next
+       links.
+     * Updated user login function to use WP script, facilitates login
+       with username OR email, removes wpmem_login_fields filter, changes
+       to wp_safe_redirect().
+     * Updated password change for maintaining login state.
+     * Moved wpmem_fields(), wpmem_form_label(), and wpmem_form_field() to
+       api-forms.php.
+     * Moved wpmem_user_has_role(), wpmem_user_has_meta(),
+       wpmem_is_user_activated(), wpmem_user_data(),
+       wpmem_update_user_role(), and wpmem_user_has_access() to
+       api-users.php.
+     * Moved wpmem_do_excerpt(), wpmem_texturize(),
+       wpmem_get_excluded_meta(), wpmem_use_ssl(), wpmem_write_log(),
+       wpmem_load_dropins(), wpmem_array_insert(), and wpmem_get_sub_str()
+       to api-utilities.php.
+     * Moved wpmem_wp_reserved_terms() to admin API.
+     * Deprecated wpmem_check_activated() and wpmem_use_ssl().
+     * Removed obsolete functions wpmem_enqueue_style(),
+       wpmem_convert_tag(), wpmem_no_reset(), and
+       wpmem_user_profile_multipart().
+     * Applied wpmem_force_ssl() to stylesheet in case it needs to load
+       securely (even if the setting is saved as http://).
+     * Implemented change in the native WP registration form processing to
+       allow values of « 0 » to be interpreted as string literals.
+       Previously could be interpreted as boolean when being saved.
+
+3.2.2
+
+     * Fixed bug in 3.2.1/3.2.2 for user activation when user creates
+       password at registration and is activated from the user profile.
+     * Fixed a 3.2 upgrade issue, verifies username field is properly
+       added to field settings array.
+     * Fixed issue with user product verification where only expiration
+       products were validated.
+     * Fixed logic in form field builder so multiselect will accept a
+       custom class.
+     * Added select2 support for setting product access in the post
+       editor.
+     * Removed duplicate API function wpmem_current_postid() (use
+       wpmem_current_post_id()).
+     * Replaced sanitize_html_class() with
+       WP_Members_Forms::sanitize_class() so variables may contain
+       multiple classes.
+
+3.2.1
+
+     * Fixed duplicate ID in login form.
+     * Fixed user profile update for excluded fields.
+     * Fixed native WP registration, excluded WP-Members username field in
+       form validation.
+     * Fixed update post when block status is not changed.
+     * Rebuilt user interface for post restriction metabox to make it more
+       intuitive.
+     * Changed status column in All Posts to show all block statuses, not
+       just those opposite the default.
+     * Changed « clickable » attribute for field shortcode default to
+       false.
+     * Added wpmem_user_export_header and wpmem_user_export_row filter for
+       export.
+
+3.2.0
+
+     * Tested and compatible with Gutenberg.
+     * Changed default address meta fields to WooCommerce billing meta
+       keys.
+     * Removed language packs that install from wordpress.org (de_DE,
+       hu_HU, ja, nl_NL, pt_BR, ru_RU, and sv_SE).
+     * All remaining user facing strings in get_text() added wp-members
+       textdomain.
+     * Added locale as a parameter for localization filters.
+     * Added wpmem_register_hidden_rows filter.
+     * Added « post_to » key for wpmem_register_form_args.
+     * Rebuild of user export function. User export now uses fputcsv.
+     * Updates/code improvement for enqueueing styles.
+     * Updated widget, added widget_title filter before
+       wpmem_widget_title, documented wpmem_widget_id filter, added
+       instance and id_base parameters.
+     * Updated empty $fields check to not rewrite fields.
+     * Deprecated wpmem_inc_status().
+     * Deprecated wpmem_do_sidebar().
+     * Deprecated wpmem_create_formfield(), use wpmem_form_field()
+       instead.
+     * Deprecated a number of non-user callable functions.
+     * Eliminated capability-based load for admin files.
+     * Maintain user login state when password is changed.
+     * Added wpmem_get_sub_str() string manipulation utility.
+     * Updated login form redirect_to to account for query vars.
+     * Fixes issue with login status if logout url is encoded (sprintf()
+       has too few arguments).
+     * Added Membership Products Custom Post Type.
+     * Added « Hide Post » option for blocking content (currently only by
+       post meta _wpmem_block).
+     * Removed several outdated stylesheets from selection (still packaged
+       with download for users who may use them).
+     * Added wpmem_update_user_role() API function.
+     * Added wpmem_display_message() API function.
+     * Added wpmem_user_has_access() API function.
+     * HTML5 update – form anchor tags changed from « name » to « id ».
+     * HTML5 update – form id tags set default value (can still be
+       filtered).
+     * HTML5 update – removed « align » attribute (captcha, link-text).
+     * HTML5 update – added placeholder, pattern, and title attribute
+       support for password fields.
+     * Improved the add a field dialog to adjust required inputs depending
+       on field type.
+     * Added placeholder, rows, and cols attribute support for textarea
+       field settings.
+     * Moved remaining core functions to appropriate object classes, left
+       wrappers for most.
+     * Added new email class and shortcode class to replace previous
+       functions/files.
+     * Added link_span_before/link_span_after wrapper for login link text.
+     * Updated « TOS » text to accept a custom label (priority to filtered
+       label with wpmem_tos_link_txt).
+     * Updated all processing involving « TOS » to better exclude the
+       field on profile update (if saved value equals the field’s checked
+       value).
+     * Fixed a bug that caused WP native fields to be set as non-native
+       when labels were updated in the fields tab.
+     * Added Customizer control to display login, register, and widget
+       forms when using the Customizer (easier to work on custom CSS).
+     * Added login/out menu item.
+
+Méta
+
+     * Version : 3.2.9.3
+     * Dernière mise à jour : il y a 2 mois
+     * Installations actives : 80 000+
+     * Version de WordPress : 4.0 ou plus
+     * Compatible jusqu’à : 5.2.3
+     * Langues :
+       (BUTTON) Voir les 14
+       (BUTTON) Fermer
+       Chinese (Hong Kong), Chinese (Taiwan), Czech, Dutch, English (US),
+       French (France), German, Hungarian, Italian, Japanese, Portuguese
+       (Brazil), Russian, Spanish (Spain), et Swedish.
+       Traduisez la dans votre langue
+     *
+     * Vue avancée
+
+Notes
+
+   Tout voir
+     * 5 étoiles 170
+     * 4 étoiles 9
+     * 3 étoiles 4
+     * 2 étoiles 3
+     * 1 étoile 11
+
+Contributeurs
+
+     * Chad Butler
+
+Support
+
+   Demandes résolues ces deux derniers mois :
+
+   5 sur 28
+
+   Voir le forum de support
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   Aller à la barre d’outils
+     * À propos de WordPress
+          + À propos de WordPress
+          + Site de WordPress-FR
+          + Documentation
+          + Forums de support
+          + Remarque
+
+     * ____________________Recherche Recherche
+     * Se connecter
+     * Inscription
+   NinjaFirewall (WP Edition) – Advanced Security Par The Ninja
+   Technologies Network
+   (129 notes en tout)
+
+   Un véritable pare-feu applicatif pour sécuriser et protéger WordPress.
+   (BUTTON)
+   Testé avec 5.2.3
+   Obtenir cette extension
+
+     * (BUTTON) Contenu embarqué WordPress
+     * (BUTTON) Contenu embarqué HTML
+
+   https://fr.wordpress
+
+   Copiez-collez cette URL dans votre site WordPress pour l’inclure
+
+   <blockquote class="wp-embedded-content"><a href="https://fr.
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copiez-collez ce code sur votre site pour l’y intégrer
+   (BUTTON)
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate next
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Aller au contenu
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Extensions
+
+   (BUTTON)
+     * Mes favoris
+     * Bêta test
+     * Développeurs
+     * Rechercher : WordPress.org/WordPr (BUTTON) Recherche d’extensions
+
+Affichage des résultats pour : WordPress.org/WordPress.org
+
+SEOPress
+
+   (438 notes en tout)
+
+   SEOPress est une extension SEO simple, rapide et puissante pour
+   WordPress.
+     __________________________________________________________________
+
+   Benjamin Denis 70 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 2 semaines
+
+Easy Plugin Stats
+
+   (3 notes en tout)
+
+   Easily display stats about plugins that reside in the WordPress.org
+   repository.
+     __________________________________________________________________
+
+   Nick Diego 60+ installations actives Testé avec 5.2.3 Mise à jour il y
+   a 5 mois
+
+Simple Demo Importer Plugin
+
+   (3 notes en tout)
+
+   Simple Theme Demo Importer plugin will help to import the theme demo
+   content based on the Demos are available. Easily customizable for the
+   Theme Devel …
+     __________________________________________________________________
+
+   Tristup Ghosh 40+ installations actives Testé avec 5.2.3 Mise à jour il
+   y a 5 mois
+
+Custom Meta Widget
+
+   (23 notes en tout)
+
+   Clone of the standard Meta widget plus options to hide log in/out,
+   admin, feed and WordPress.org/custom links.
+     __________________________________________________________________
+
+   bitacre 20 000+ installations actives Testé avec 4.9.11 Mise à jour il
+   y a 2 ans
+
+Upload Resume
+
+   (3 notes en tout)
+
+   It's a platform for new application regarding vacant role and user
+   simply submit after filling out the necessary information along (doc,
+   docx, pd …
+     __________________________________________________________________
+
+   mbbhatti 900+ installations actives Testé avec 4.8.10 Mise à jour il y
+   a 1 an
+
+Plugin Check
+
+   (12 notes en tout)
+
+   Plugin Check is a validation tool for PHP developers (and a quality
+   checker for end users) to locate undefined functions and methods.
+     __________________________________________________________________
+
+   Manoj Thulasidas 200+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Better Follow Button for Jetpack
+
+   (6 notes en tout)
+
+   Adds a floating subscription button (like on WordPress.com sites) to
+   Jetpack-powered WordPress.org sites.
+     __________________________________________________________________
+
+   Anton Pugachevsky 1 000+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Simple Widget Factory Plugin
+
+   (0 notes en tout)
+
+   SIMPLE WIDGET FACTORY is a plugin which is been able to create custom
+   widget areas according to the column position value given to the input
+   field.
+     __________________________________________________________________
+
+   Tridib Dawn Moins de 10 installations actives Testé avec 5.2.3 Mise à
+   jour il y a 3 mois
+
+I'm A Plugin Developer
+
+   (0 notes en tout)
+
+   Showcase the plugins you have in the WordPress.org Plugin Directory on
+   your own site.
+     __________________________________________________________________
+
+   Daniel Llewellyn Moins de 10 installations actives Testé avec 4.9.11
+   Mise à jour il y a 1 an
+
+WPAlerts
+
+   (2 notes en tout)
+
+   WPAlerts is a web-based software (http://wp-alerts.com/) that allows
+   one person to update multiple WordPress web sites from one dashboard.
+     __________________________________________________________________
+
+   OC Web Logic 100+ installations actives Testé avec 4.7.14 Mise à jour
+   il y a 2 ans
+
+Gallery Made Easy
+
+   (1 notes en tout)
+
+   Instantly create responsive image galleries within a simple and
+   customizable interface. Just upload, add, organise and publish.
+     __________________________________________________________________
+
+   Earl Evan Amante 30+ installations actives Testé avec 4.5.13 Mise à
+   jour il y a 3 ans
+
+CampusPress Code Check
+
+   (0 notes en tout)
+
+   A simple and easy way to test your theme or plugin for all the latest
+   WordPress standards and practices. A great theme development tool!
+     __________________________________________________________________
+
+   CampusPress Moins de 10 installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Simple Constant Contact
+
+   (3 notes en tout)
+
+   Simple WordPress Constant Contact Plugin to take name and email and
+   allow to send that information straight to Constant Contact
+     __________________________________________________________________
+
+   Ashton Paul 90+ installations actives Testé avec 4.4.19 Mise à jour il
+   y a 3 ans
+
+Plugin Cards
+
+   (8 notes en tout)
+
+   Display plugin cards that match the style introduced in WordPress 4.0.
+   Uses the wordpress.org API and supports custom queries.
+     __________________________________________________________________
+
+   Braad Martin 30+ installations actives Testé avec 4.4.19 Mise à jour il
+   y a 4 ans
+
+Simple Posts Generator
+
+   (1 notes en tout)
+
+   A straight forward Posts Generator for Developers and Testers.
+     __________________________________________________________________
+
+   Earl Evan Amante 40+ installations actives Testé avec 4.2.24 Mise à
+   jour il y a 4 ans
+
+Contact Form 7
+
+   (1 658 notes en tout)
+
+   Une autre extension de formulaire de contact. Simple mais flexible.
+     __________________________________________________________________
+
+   Takayuki Miyoshi 5+ million installations actives Testé avec 5.2.3 Mise
+   à jour il y a 2 mois
+
+Yoast SEO
+
+   (26 833 notes en tout)
+
+   Améliorez votre SEO avec WordPress : rédigez de meilleurs contenus et
+   utilisez un site WordPress optimisé en utilisant l’extension Yoast SEO.
+     __________________________________________________________________
+
+   Team Yoast 5+ million installations actives Testé avec 5.2.3 Mise à
+   jour il y a 1 semaine
+
+Simple Taxonomy WYSIWYG
+
+   (2 notes en tout)
+
+   A very simple plugin that will convert the taxonomy/category
+   description textarea to a WYSIWYG (TinyMCE) form.
+     __________________________________________________________________
+
+   Earl Evan Amante 100+ installations actives Testé avec 4.2.24 Mise à
+   jour il y a 4 ans
+
+Translation Stats
+
+   (4 notes en tout)
+
+   Show plugins translation stats on your WordPress install.
+     __________________________________________________________________
+
+   Pedro Mendonça Moins de 10 installations actives Testé avec 5.2.3 Mise
+   à jour il y a 3 semaines
+
+Lightweight Social Icons
+
+   (51 notes en tout)
+
+   Looking to add simple social icons to your widget areas? Choose the
+   size and color of your icons, and then choose from 47 different social
+   profiles.
+     __________________________________________________________________
+
+   Thomas Usborne 50 000+ installations actives Testé avec 5.1.2 Mise à
+   jour il y a 6 mois
+
+Navigation des articles
+
+   1 2 … 49 Suivant
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   Aller à la barre d’outils
+     * À propos de WordPress
+          + À propos de WordPress
+          + Site de WordPress-FR
+          + Documentation
+          + Forums de support
+          + Remarque
+
+     * ____________________Recherche Recherche
+     * Se connecter
+     * Inscription
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate next
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Aller au contenu
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Extensions
+
+   (BUTTON)
+     * Mes favoris
+     * Bêta test
+     * Développeurs
+     * Rechercher : WordPress.org/page/2 (BUTTON) Recherche d’extensions
+
+Affichage des résultats pour : WordPress.org/page/2/WordPress.org
+
+Bold Page Builder
+
+   (20 notes en tout)
+
+   Free Page Builder and Visual Composer – Build stunning responsive post
+   and page layouts with easy to use drag and drop builder – no coding
+   required.
+     __________________________________________________________________
+
+   BoldThemes 20 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 21 heures
+
+Asset CleanUp: Page Speed Booster
+
+   (289 notes en tout)
+
+   Make your website load FASTER by preventing specific scripts (.JS) &
+   styles (.CSS) from loading on pages/posts and home page.
+     __________________________________________________________________
+
+   Gabriel Livan 40 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 4 jours
+
+Coming Soon Page – Responsive Coming Soon & Maintenance Mode
+
+   (10 notes en tout)
+
+   Coming Soon Page, Maintenance Mode Page, Landing Page, Under
+   Construction, Under Maintenance Plugin – The top notch solution when
+   your website is unde …
+     __________________________________________________________________
+
+   Weblizar 5 000+ installations actives Testé avec 5.2.3 Mise à jour il y
+   a 2 semaines
+
+Page View Count
+
+   (38 notes en tout)
+
+   Places an icon, all time views count and views today count at the
+   bottom of posts, pages and custom post types on any WordPress website.
+     __________________________________________________________________
+
+   a3rev Software 10 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 2 semaines
+
+Nimble Page Builder
+
+   (31 notes en tout)
+
+   Constructeur de pages puissant par glisser-déposer à l’aide de l’outil
+   de personnalisation natif de WordPress.
+     __________________________________________________________________
+
+   Press Customizr 40 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 3 semaines
+
+Google Authenticator – WordPress Two Factor Authentication (2FA)
+
+   (194 notes en tout)
+
+   Simple & Easy 2FA setup with any App supporting TOTP algorithm like
+   Google, Authy, LastPass Authenticator & other 2FA methods.
+     __________________________________________________________________
+
+   miniOrange 20 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 6 jours
+
+ACF Options Page Admin
+
+   (3 notes en tout)
+
+   Allows easy creation of options pages using Advanced Custom Fields Pro
+   without needing to do any PHP coding. Requires that ACF5 Pro is
+   installed (or A …
+     __________________________________________________________________
+
+   John A. Huebner II 2 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 5 mois
+
+Page Builder Sandwich – Front-End Page Builder
+
+   (95 notes en tout)
+
+   Page Builder Sandwich is the friendliest drag and drop landing page
+   builder for front-end editing.
+     __________________________________________________________________
+
+   The Page Builder Sandwich Team 4 000+ installations actives Testé avec
+   5.1.2 Mise à jour il y a 7 mois
+
+Hummingbird – Speed up, Cache, Optimize Your CSS and JS
+
+   (501 notes en tout)
+
+   Make your website load blazing fast and speed up WordPress with minify,
+   caching, defer critical CSS and JavaScript, Smush lazy load
+   integration, and m …
+     __________________________________________________________________
+
+   WPMU DEV 70 000+ installations actives Testé avec 5.2.3 Mise à jour il
+   y a 2 semaines
+
+Genesis Featured Page Extras
+
+   (9 notes en tout)
+
+   Extra advanced version of Genesis Featured Page Widget: Custom Content,
+   Images, URLs etc. — Only for (premium) Genesis Framework 2.0+!
+     __________________________________________________________________
+
+   David Decker - DECKERWEB 2 000+ installations actives Testé avec 5.1.2
+   Mise à jour il y a 7 mois
+
+Showeblogin Like Share Box Plugin
+
+   (41 notes en tout)
+
+   Brings the power of simplicity to display or embed Facebook Page Plugin
+   (Like Box) widget into your WordPress website by using latest Graph API
+   v3.2.
+     __________________________________________________________________
+
+   Suresh Prasad 3 000+ installations actives Testé avec 5.1.2 Mise à jour
+   il y a 5 mois
+
+Mega Addons For WPBakery Page Builder (formerly Visual Composer)
+
+   (41 notes en tout)
+
+   28 Addons visual composer extension, Beautifully designed unique
+   elements, Includes Premium quality addons For WPBakery Page Builder.
+     __________________________________________________________________
+
+   Nasir 70 000+ installations actives Testé avec 5.2.3 Mise à jour il y a
+   5 jours
+
+CMS Tree Page View
+
+   (322 notes en tout)
+
+   Adds a tree view of all pages & custom posts. Get a great overview +
+   options to drag & drop to reorder & option to add multiple pages.
+     __________________________________________________________________
+
+   Pär Thernström 80 000+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 11 mois
+
+Void Elementor Post Grid Addon for Elementor Page builder
+
+   (53 notes en tout)
+
+   Adds post-grid element to Elementor page builder for generating post
+   grid/list from your blog posts.
+     __________________________________________________________________
+
+   VOID CODERS 10 000+ installations actives Testé avec 5.1.2 Mise à jour
+   il y a 19 heures
+
+Formidable PRO2PDF
+
+   (15 notes en tout)
+
+   Map web forms to PDF forms then with one simple shortcode – display a
+   link on any post, page, form, or view the merged PDF on a PC or mobile
+   device.
+     __________________________________________________________________
+
+   Alexandre S. 2 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 1 semaine
+
+Lucky Wheel for WooCommerce – Spin a Sale
+
+   (8 notes en tout)
+
+   Lucky Wheel for WooCommerce helps you convert your traffic into
+   customers or at least, an email subscriber. It takes you a lot of work
+   and money to ha …
+     __________________________________________________________________
+
+   VillaTheme 1 000+ installations actives Testé avec 5.2.3 Mise à jour il
+   y a 1 mois
+
+Elementor Custom Skin
+
+   (47 notes en tout)
+
+   Créez de nouveaux habillages pour le constructeur de page Elementor PRO
+   2.x. Concevez vos propres habillages pour les widgets de publications
+   et d’archive de publications à l’aide des modèles de boucle Elementor.
+     __________________________________________________________________
+
+   Dudaster.com 10 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 7 heures
+
+IntelliWidget Per Page Custom Menus and Dynamic Content
+
+   (20 notes en tout)
+
+   Display custom menus, featured posts, custom post types and other
+   dynamic content on a per page, per post or site-wide basis.
+     __________________________________________________________________
+
+   Lilaea Media 2 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 4 semaines
+
+Shop Page WP
+
+   (16 notes en tout)
+
+   Create an affiliate shop page on your website. Simple to setup and add
+   products to start making money from affiliate links on your blog.
+     __________________________________________________________________
+
+   Leon Magee, Justin McChesney-Wachs 3 000+ installations actives Testé
+   avec 5.0.6 Mise à jour il y a 9 mois
+
+Onepage Builder – Easiest Landing Page Builder For WordPress
+
+   (41 notes en tout)
+
+   Beginner Friendly Landing Page, Sales page, Onepage, Coming Soon Page
+   Builder. You can create Under Construction Page, Service page, App
+   landing page …
+     __________________________________________________________________
+
+   Themesgrove 3 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 1 semaine
+
+Navigation des articles
+
+   1 2 … 49 Suivant
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   Aller à la barre d’outils
+     * À propos de WordPress
+          + À propos de WordPress
+          + Site de WordPress-FR
+          + Documentation
+          + Forums de support
+          + Remarque
+
+     * ____________________Recherche Recherche
+     * Se connecter
+     * Inscription
+   #Français » Flux Français » Flux des commentaires alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Découvrez WordPress
+
+   WordPress est un logiciel libre utilisé pour créer de superbes sites,
+   blogs ou applications.
+
+   De beaux designs, des fonctionnalités puissantes et la liberté de
+   construire ce que vous voulez. WordPress est à la fois gratuit et
+   inestimable.
+   [screen-themes.png?3] [iphone-themes.png?3]
+
+Les meilleurs nous font confiance
+
+   34% du web est propulsé par WordPress, des blogs personnels aux plus
+   gros sites d’actualités en ligne.
+
+   Découvrez plus de sites construits avec WordPress
+
+Des fonctionnalités puissantes
+
+   Des possibilités illimitées. Qu’allez-vous créer ?
+     * Designs
+       personnalisables
+     * Optimisé pour
+       le SEO
+     * Sites mobiles
+       responsive
+     * Hautes
+       performances
+     * [icon-run-blue.svg] Une gestion
+       prête à l’emploi
+     * Haute
+       sécurité
+     * Puissante
+       gestion des médias
+     * Facile et
+       accessible
+
+   Améliorez WordPress avec plus de 54 000 extensions pour aider votre
+   site à répondre à vos besoins. Ajoutez une boutique en ligne, des
+   galeries, des listes de diffusion, des forums, des statistiques de
+   visites et plus encore.
+
+Communauté
+
+   Des centaines de milliers de développeur·ses, de créateur·ices de
+   contenu et de propriétaires de sites se rassemblent lors de rencontres
+   mensuelles dans 436 villes dans le monde.
+   Trouvez une communauté WordPress locale
+
+Commencer avec WordPress
+
+   Plus de 60 millions de personnes ont choisi WordPress pour prendre
+   place sur le web – Rejoignez cette grande famille.
+   Obtenir WordPress
+
+Nouvelles de notre blog
+
+WordPress et la documentation
+
+   Voici un article complet sur la documentation de WordPress et surtout
+   sur les changements en cours : le Codex WordPress est maintenant
+   obsolète et remplacé par DevHub ! Nous vous expliquons tout cela dans
+   cet article complet sur la documentation de WordPress, avec un guide
+   complet pour bien lire les pages de documentation proposée sur la […]
+
+C’est simple comme…
+
+    1. Trouvez un hébergeur de confiance et peut-être supportez WordPress
+       en même temps.
+    2. avec notre célèbre installation en 5 minutes. La publication n'a
+       jamais été plus facile.
+    3. Passez un peu de temps à lire notre documentation, apprendre à
+       mieux connaître WordPress chaque jour et commencer aussi à aider
+       les autres.
+
+Accessoires
+
+   Accessoires
+
+WordPress c’est...
+
+   Panzani
+   La Nef
+   2Houses
+   La Villette
+   … et des centaines d’autres
+
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Aller au contenu
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Extensions
+
+   (BUTTON)
+     * Mes favoris
+     * Bêta test
+     * Développeurs
+     * Rechercher : ____________________ (BUTTON) Recherche d’extensions
+
+   Télécharger
+
+WP-Members Membership Plugin
+
+   Par Chad Butler
+     * Détails
+     * Avis
+     * Installation
+     * Support
+     * Développement
+
+Description
+
+   The WP-Members membership plugin turns your WordPress site into a
+   membership site. Restrict premium content, create custom registration
+   fields, and more.
+
+Membership Sites. Simplified.
+
+   You need a membership site, but you want to focus on your business, not
+   mastering a plugin. WP-Members is simple to use, easy to set up, yet
+   flexible in every way imaginable.
+
+   The plugin restricts selected WordPress content to registered site
+   members. WP-Members puts the registration process on the site front end
+   so it is part of your content instead of the native WP login page.
+   WP-Members requires no modifications to your theme while remaining
+   scalable for users who want to customize the look and feel, or want to
+   restrict only some content. It is a great tool for sites offering
+   premium content to subscribers and is adaptable to a variety of
+   applications.
+
+   Simple to install and configure – yet customizable and scalable!
+
+Fonctionnalités :
+
+     * Restrict or hide posts, pages, and custom post types
+     * User login, registration, and profile integrated into your theme
+     * Login widget
+     * Create custom registration and profile fields
+     * Notifier l’administrateur d’une nouvelle inscription
+     * Hold new registrations for admin approval
+     * Create post excerpt teaser content automatically
+     * Shortcodes for login, registration, content restriction, and more
+     * Create powerful customizations with more than 120 action and filter
+       hooks
+     * A library of API functions for extensibility
+
+   WP-Members allows you to restrict content as restricted or hidden,
+   limiting access to registered users.
+
+   A full Users Guide is available here. The guide outlines the
+   installation process, and also documents how to use all of the
+   settings.
+
+   Get support along with all of the plugin’s premium extensions in one
+   cost saving Pro Bundle!
+
+Premium Support
+
+   Premium support subscribers have access to priority email support,
+   examples, tutorials, and code snippets that will help you extend and
+   customize the base plugin using the plugin’s framework. Visit the site
+   for more info.
+
+Premium Extensions
+
+   The plugin has several premium extensions for additional functionality.
+   You can purchase any of them individually, or get them all for a
+   significant discount in the Pro Bundle.
+     * Advanced Options – adds additional settings to WP-Members for
+       redirecting core WP created URLs, redirecting restricted content,
+       hiding the WP toolbar, and more! Also includes integrations with
+       popular plugins like WooCommerce, BuddyPress, bbPress, ADF, Easy
+       Digital Downloads, and The Events Calendar.
+     * Download Protect – Allows you to restrict access to specific files,
+       requiring the user to be logged in to access.
+     * Invite Codes – set up invitation codes to restrict registration to
+       only those with a valide invite code.
+     * MailChimp Integration – add MailChimp list subscription to your
+       registation form.
+     * Memberships for WooCommerce – Sell memberships through WooCommerce.
+     * PayPal Subscriptions – Sell restricted content access through
+       PayPal.
+     * Security – adds a number of security features to the plugin such as
+       preventing concurrent logins, registration form honey pot (spam
+       blocker), require passwords be changed on first use, require
+       passwords to be changed after defined period of time, require
+       strong passwords, block registration by IP and email, restrict
+       specified usernames from being registered.
+     * Text Editor – Adds an editor to the WP-Members admin panel to
+       easily customize all user facing strings in the plugin.
+     * User List – Display lists of users on your site. Great for creating
+       user directories with detailed and customizable profiles.
+     * User Tracking – Track what pages logged in users are visting and
+       when.
+     * WordPass Pro – Change your random password generator from gibberish
+       to word-based passwords (can be used with or without WP-Members).
+
+   Get support along with all of the plugin’s premium extensions in one
+   cost saving Pro Bundle!
+
+Captures d’écran
+
+     * The default when viewing a blocked post - the plugin will deliver a
+       login screen and registration form in place of blocked content
+       (this default can be changed to other options).
+     * Admin Panel - Options Tab - the various option settings for the
+       plugin.
+     * Admin Panel - Fields Tab - the plugin field manager allows you to
+       manage (or delete) the installed extra fields and field order, and
+       also add your own custom fields.
+     * Admin Panel - Dialogs Tab - the major dialogs that the plugin uses
+       for error and other messages can be edited in the plugin's admin
+       panel.
+     * Admin Panel - Emails Tab - all of the emails that are sent by the
+       plugin can be edited in the admin panel.
+     * Posts > All Posts - The plugin adds a column to the list of posts
+       and pages to display if a post or page is unblocked or blocked (the
+       opposite of whatver you have set for the plugin's default in the
+       options tab).
+     * Posts > Edit Post - The plugin adds a meta box to the post/page
+       editor allowing you to set an individual post to be blocked or
+       unblocked (the opposite of whatver your default setting is).
+     * Responsive forms.
+
+Installation
+
+   WP-Members is designed to run « out-of-the-box » with no modifications
+   to your WP installation necessary. Please follow the installation
+   instructions below. Most of the support issues that arise are a result
+   of improper installation or simply not reading/following directions.
+
+Basic Install:
+
+   The best way to begin is to review the Initial Setup Video. There is
+   also a complete Users Guide available that covers all of the plugin’s
+   features in depth.
+    1. Upload the /wp-members/ directory and its contents to the
+       /wp-content/plugins/ directory
+    2. Activate the plugin through the ‘Plugins’ menu in WordPress®
+
+   You are ready to begin using WP-Members. Now follow the instructions
+   titled « Locking down your site » below.
+
+Locking down your site:
+
+     * To restrict posts, you will need to use the <!--more--> link in
+       your posts. Content above to the « more » split will display on
+       summary pages (home, archive, category) but the user will be
+       required to login to view the entire post. You may also use the
+       plugin’s auto excerpt setting to create post excerpts
+       automatically. If you do not use the « more » tag or the auto
+       excerpt setting, full post content is going to show on archive
+       templates, unless the post is marked as hidden.
+     * To begin restricting pages, change the plugin default setting for
+       pages to be blocked. Unlike posts, the <!--more--> link is not
+       necessary in the blocking of pages, but must be used if you have
+       the « show excerpts » setting turned on for pages.
+     * To protect comments, we recommend setting « Users must be
+       registered and logged in to comment » under Settings > Discussion.
+     * On the Settings > General page, it is recommended that you uncheck
+       « Anyone can register ». While not required, this will prevent WP’s
+       native registration from colliding with WP-Members, especially if
+       you are using any of the WP-Members additional registration fields.
+     * Under Settings > Reading, « For each article in a feed, show » is
+       recommended to be set to « Summary. » WordPress installs with full
+       feed settings by default. If you don’t change this, your feeds will
+       show full content.
+
+Additional Setup Information
+
+   There are also some special pages that can be created with simple
+   shortcodes:
+     * A User Profile page where registered members can edit their
+       information and change/reset their password: [wpmem_profile]
+     * A Registration page available for those that need a specific URL
+       for registrations (such as email marketing or banner ad landing
+       pages). Note: this is strictly optional as a registration form can
+       also be included by default on blocked content pages: [wpmem_form
+       register]
+     * A Login page. This is also an optional page as the login form is
+       included by default on blocked content. But if you need a specific
+       login page, this can be created with a simple shortcode:
+       [wpmem_form login]
+     * And more shortcodes are available!
+
+   Powerful cusotmizations can be constructed with over 120 action and
+   filter hooks, as well as user accessible functions.
+
+FAQ
+
+   The FAQs are maintained at
+   https://rocketgeek.com/plugins/wp-members/docs/faqs/
+
+Avis
+
+Excellent plugin, excellent support.
+
+   ihopethiswillfi 15 août 2019
+   Excellent plugin, excellent support.
+
+Chrome plus this plugin disabled site…
+
+   ralphw 23 août 2019
+   In Firefox, all is well. In Chrome, however, (both on laptop and phone
+   browser), all menu links led to just one page, and a second-level page,
+   at that. It also blew apart the formatting of the Contact 7 Form on
+   that page. I disabled all plugins, changed themes, and this plugin was
+   the culprit. Cheers! ----8/23/19 Follow-Up---- Point taken, Chad...! As
+   said initially, despite changing themes for troubleshooting, and by
+   this I mean using the plain vanilla WP "Twenty Sixteen" theme, your
+   plugin was not playing well with my site when viewed with Chrome. As I
+   found another plugin to suit me for those needs, and as I did not have
+   the time or interest to experiment to see if one of my 16 other
+   activated plugins was the cause of making your plugin not work in
+   Chrome, I wrote the above review from a sense of frustration. I did not
+   intend to nuke your stats! So, adjustment made, and hopefully I am the
+   only one that this issue ever happens to. Cheers, Ralph
+
+Very good plugin and awesome support
+
+   faycan 12 juin 2019
+   Very good plugin, that satisfied all our needs for membership handling.
+   Awesome and fast support by Chad. In one word Excelent !
+
+Excellent!
+
+   burkharde 29 mai 2019
+   Just a great plugin.
+
+Great plugin and incredible support
+
+   profoundworks 23 mai 2019
+   This plugin works very nicely, but the best part is the support. Chad
+   is one of the most helpful plugin developers we have ever come across,
+   and is always happy to help us even with customisations to certain
+   features. Highly recommended.
+
+Excellent
+
+   djiinn 15 mai 2019
+   Excellent Plugin. Just sad that we cannot manually edit languages files
+   Lire les 197 avis
+
+Contributeurs & développeurs
+
+   « WP-Members Membership Plugin » est un logiciel libre. Les personnes
+   suivantes ont contribué à cette extension.
+   Contributeurs
+     * Chad Butler
+
+   “WP-Members Membership Plugin” a été traduit dans 13 locales. Remerciez
+   l’équipe de traduction pour ses contributions.
+
+   Traduisez « WP-Members Membership Plugin » dans votre langue.
+
+Le développement vous intéresse ?
+
+   Parcourir le code, consulter le SVN dépôt, ou s’inscrire au journal de
+   développement par RSS.
+
+Journal
+
+3.2.9.3
+
+     * Data input/output improvements.
+
+3.2.9.2
+
+     * Fixes a bug with file extension validation in image and file upload
+       fields.
+
+3.2.9.1
+
+     * Fixes an issue with loading the select2 and jQuery UI libraries
+       locally. This problem primarily affects users who run WP-Members
+       with WooCommerce.
+
+3.2.9
+
+     * Load jQuery UI and Select2 libraries locally (if they have not
+       already been enqueued).
+     * Use (local) template file for default tos field link (can be
+       customized and saved in theme folder).
+     * Added new sanitization functions to API: wpmem_sanitize_class() and
+       wpmem_sanitize_array().
+     * Review and cleanup of form data sanitization.
+     * Improved file/image field upload file type validation.
+     * Fixed issue with loading legacy translation files.
+     * Added « membership » attribute to [wpmem_logged_in] shortcode (same
+       as « product » attribute, they are interchangeable).
+     * Added datepicker for setting user expiration (when membership
+       products are used).
+
+3.2.8
+
+     * Include jQuery UI CSS and Select2 library locally.
+     * Updated default TOS to a template file.
+     * Added additional data sanitization.
+     * Fixed potential security issues to prevent CSRF (Cross Site Request
+       Forgery).
+
+3.2.7
+
+     * Fix console error from nonce by implementing different nonce names.
+     * Updated packaged POT file for legacy lanaguage files. Updated
+       legacy language files to use new POT.
+     * Full removal of legacy language files that are available as
+       language packs from
+       https://translate.wordpress.org/projects/wp-plugins/wp-members/
+     * Added jQuery UI stylesheet (fixes issue with main options tab
+       settings modal).
+     * Added wpmem_default_text filter.
+     * Deprecated wpmem_default_text_strings filter, use
+       wpmem_default_text instead.
+     * Added translation capability to field placeholders and title
+       attributes.
+     * Updated Customizer setting slug to avoid namespace collisions
+       (added « wpmem_ » stem).
+     * Updated instances of wp_redirect() to use wp_safe_redirect().
+     * Updated install for multisite to use wp_insert_site (wpmu_new_blog
+       deprecated in WP 5.1).
+     * Added user screen filter to show activated users.
+
+3.2.6
+
+     * Update to evaluate required fields as not null (instead of false).
+     * Added wpmem_tos_link_tag filter.
+     * Added $button_html parameter to wpmem_register_form_buttons filter.
+     * Added wpmem_serve_menu filter.
+     * Added nonce to short form (long form was added in 3.2.5).
+     * Password change function only can be fired if user is logged in.
+     * Added « all » argument to wpmem_user_data() to retrieve either all
+       user meta or WP-Members fields only.
+     * Added $date argument to wpmem_set_user_product(). Allows specific
+       date to be set using API.
+     * Added wpmem_admin_after_profile_table and
+       wpmem_user_after_profile_table actions.
+     * get_user_products() returns empty array if no products (previously
+       boolean).
+     * Rebuild of [wpmem_field] logic for field type. Combined multiple
+       conditions into a single switch.
+     * Update password reset form – password field should be « text »
+       class.
+     * Added membership field type for allowing selection of a membership
+       at registration.
+     * Login form updated from « Username » to « Username or Email ».
+     * Added $arr parameter to wpmem_login_form_rows filter.
+     * Added file’s post ID to post_data array.
+
+3.2.5
+
+     * Fix user profile (admin/user) issue with tos field not displaying.
+     * Fix [wpmem_logged_in] shortcode to pass product attribute.
+     * Fix [wpmem_field] shortcode, checks if field is set to avoid
+       undefined index error.
+     * Fix do_excerpt() if post object is not set as an object.
+     * Fix logic for displaying hidden posts based on product access.
+     * Added message dialog to display in Customizer.
+     * Added HTML5 « required » attribute to TOS checkbox.
+     * Added redirect_to attribute to logout link.
+     * Added $tag parameter to wpmem_{$tag}link and wpmem{$tag}_link_str
+       filters.
+     * Added id parameter to wpmem_register_form_args filter.
+     * Added wpmem_email_send_args filter.
+     * Added wpmem_is_user() function to API.
+     * Added wpmem_do_shortcode() utility function in API.
+     * Added wpmem_export_fields filter to user export function.
+     * Added label attribute to field shortcode.
+     * Added user profile tabs (jquery ui tabs).
+     * Updated wpmem_form_date() API function.
+     * Updated check product access to handle product as an array.
+     * Updated to make a nonce a default for the registration form
+       (reduces possibility of spam registrations).
+     * Updated form field creation, $value is now optional.
+     * Moved textdomain to load in main class file.
+     * Removed possibility of using reCAPTCHA v1 which is totally
+       obsolete.
+     * Removed widget status message (« you are not logged in ») for
+       logged out state.
+
+3.2.4
+
+     * Added deactivate users both bulk and single in Users > All Users.
+     * Added id attribute for form labels.
+     * Added wpmem_format_date() API function.
+     * Added label tags to multipe checkbox and radio group items.
+     * Added assigned product(s) column to users and posts screens.
+     * Updated membership product object structure.
+     * Updated load priority to run later for jquery loginout script.
+     * Removed query_vars filter.
+     * Deprecated wpmem_a_activate_user(), use wpmem_activate_user()
+       instead.
+     * Deprecated wpmem_a_deactivate_user(), use wpmem_deactivate_user()
+       instead.
+     * Relocated install file to /inc/ directory.
+     * Moved methods out of core.php, deprecated file.
+     * Fixed issue with default stylesheet setting caused by moving
+       install file.
+
+3.2.3
+
+     * Bug fix in user export that caused usernames to be dropped.
+     * Bug fix to allow admins to edit their own profile.
+     * Bug fix for jquery with regards to select2, only load if products
+       are enabled.
+     * Added email API.
+     * Added product attribute to [wpmem_logged_in] shortcode.
+     * Added wpmem_force_ssl() API function.
+     * Added wpmem_set_as_logged_in() API function.
+     * Added filters to remove posts marked hidden from previous/next
+       links.
+     * Updated user login function to use WP script, facilitates login
+       with username OR email, removes wpmem_login_fields filter, changes
+       to wp_safe_redirect().
+     * Updated password change for maintaining login state.
+     * Moved wpmem_fields(), wpmem_form_label(), and wpmem_form_field() to
+       api-forms.php.
+     * Moved wpmem_user_has_role(), wpmem_user_has_meta(),
+       wpmem_is_user_activated(), wpmem_user_data(),
+       wpmem_update_user_role(), and wpmem_user_has_access() to
+       api-users.php.
+     * Moved wpmem_do_excerpt(), wpmem_texturize(),
+       wpmem_get_excluded_meta(), wpmem_use_ssl(), wpmem_write_log(),
+       wpmem_load_dropins(), wpmem_array_insert(), and wpmem_get_sub_str()
+       to api-utilities.php.
+     * Moved wpmem_wp_reserved_terms() to admin API.
+     * Deprecated wpmem_check_activated() and wpmem_use_ssl().
+     * Removed obsolete functions wpmem_enqueue_style(),
+       wpmem_convert_tag(), wpmem_no_reset(), and
+       wpmem_user_profile_multipart().
+     * Applied wpmem_force_ssl() to stylesheet in case it needs to load
+       securely (even if the setting is saved as http://).
+     * Implemented change in the native WP registration form processing to
+       allow values of « 0 » to be interpreted as string literals.
+       Previously could be interpreted as boolean when being saved.
+
+3.2.2
+
+     * Fixed bug in 3.2.1/3.2.2 for user activation when user creates
+       password at registration and is activated from the user profile.
+     * Fixed a 3.2 upgrade issue, verifies username field is properly
+       added to field settings array.
+     * Fixed issue with user product verification where only expiration
+       products were validated.
+     * Fixed logic in form field builder so multiselect will accept a
+       custom class.
+     * Added select2 support for setting product access in the post
+       editor.
+     * Removed duplicate API function wpmem_current_postid() (use
+       wpmem_current_post_id()).
+     * Replaced sanitize_html_class() with
+       WP_Members_Forms::sanitize_class() so variables may contain
+       multiple classes.
+
+3.2.1
+
+     * Fixed duplicate ID in login form.
+     * Fixed user profile update for excluded fields.
+     * Fixed native WP registration, excluded WP-Members username field in
+       form validation.
+     * Fixed update post when block status is not changed.
+     * Rebuilt user interface for post restriction metabox to make it more
+       intuitive.
+     * Changed status column in All Posts to show all block statuses, not
+       just those opposite the default.
+     * Changed « clickable » attribute for field shortcode default to
+       false.
+     * Added wpmem_user_export_header and wpmem_user_export_row filter for
+       export.
+
+3.2.0
+
+     * Tested and compatible with Gutenberg.
+     * Changed default address meta fields to WooCommerce billing meta
+       keys.
+     * Removed language packs that install from wordpress.org (de_DE,
+       hu_HU, ja, nl_NL, pt_BR, ru_RU, and sv_SE).
+     * All remaining user facing strings in get_text() added wp-members
+       textdomain.
+     * Added locale as a parameter for localization filters.
+     * Added wpmem_register_hidden_rows filter.
+     * Added « post_to » key for wpmem_register_form_args.
+     * Rebuild of user export function. User export now uses fputcsv.
+     * Updates/code improvement for enqueueing styles.
+     * Updated widget, added widget_title filter before
+       wpmem_widget_title, documented wpmem_widget_id filter, added
+       instance and id_base parameters.
+     * Updated empty $fields check to not rewrite fields.
+     * Deprecated wpmem_inc_status().
+     * Deprecated wpmem_do_sidebar().
+     * Deprecated wpmem_create_formfield(), use wpmem_form_field()
+       instead.
+     * Deprecated a number of non-user callable functions.
+     * Eliminated capability-based load for admin files.
+     * Maintain user login state when password is changed.
+     * Added wpmem_get_sub_str() string manipulation utility.
+     * Updated login form redirect_to to account for query vars.
+     * Fixes issue with login status if logout url is encoded (sprintf()
+       has too few arguments).
+     * Added Membership Products Custom Post Type.
+     * Added « Hide Post » option for blocking content (currently only by
+       post meta _wpmem_block).
+     * Removed several outdated stylesheets from selection (still packaged
+       with download for users who may use them).
+     * Added wpmem_update_user_role() API function.
+     * Added wpmem_display_message() API function.
+     * Added wpmem_user_has_access() API function.
+     * HTML5 update – form anchor tags changed from « name » to « id ».
+     * HTML5 update – form id tags set default value (can still be
+       filtered).
+     * HTML5 update – removed « align » attribute (captcha, link-text).
+     * HTML5 update – added placeholder, pattern, and title attribute
+       support for password fields.
+     * Improved the add a field dialog to adjust required inputs depending
+       on field type.
+     * Added placeholder, rows, and cols attribute support for textarea
+       field settings.
+     * Moved remaining core functions to appropriate object classes, left
+       wrappers for most.
+     * Added new email class and shortcode class to replace previous
+       functions/files.
+     * Added link_span_before/link_span_after wrapper for login link text.
+     * Updated « TOS » text to accept a custom label (priority to filtered
+       label with wpmem_tos_link_txt).
+     * Updated all processing involving « TOS » to better exclude the
+       field on profile update (if saved value equals the field’s checked
+       value).
+     * Fixed a bug that caused WP native fields to be set as non-native
+       when labels were updated in the fields tab.
+     * Added Customizer control to display login, register, and widget
+       forms when using the Customizer (easier to work on custom CSS).
+     * Added login/out menu item.
+
+Méta
+
+     * Version : 3.2.9.3
+     * Dernière mise à jour : il y a 2 mois
+     * Installations actives : 80 000+
+     * Version de WordPress : 4.0 ou plus
+     * Compatible jusqu’à : 5.2.3
+     * Langues :
+       (BUTTON) Voir les 14
+       (BUTTON) Fermer
+       Chinese (Hong Kong), Chinese (Taiwan), Czech, Dutch, English (US),
+       French (France), German, Hungarian, Italian, Japanese, Portuguese
+       (Brazil), Russian, Spanish (Spain), et Swedish.
+       Traduisez la dans votre langue
+     *
+     * Vue avancée
+
+Notes
+
+   Tout voir
+     * 5 étoiles 170
+     * 4 étoiles 9
+     * 3 étoiles 4
+     * 2 étoiles 3
+     * 1 étoile 11
+
+Contributeurs
+
+     * Chad Butler
+
+Support
+
+   Demandes résolues ces deux derniers mois :
+
+   5 sur 28
+
+   Voir le forum de support
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   Aller à la barre d’outils
+     * À propos de WordPress
+          + À propos de WordPress
+          + Site de WordPress-FR
+          + Documentation
+          + Forums de support
+          + Remarque
+
+     * ____________________Recherche Recherche
+     * Se connecter
+     * Inscription
+   NinjaFirewall (WP Edition) – Advanced Security Par The Ninja
+   Technologies Network
+   (129 notes en tout)
+
+   Un véritable pare-feu applicatif pour sécuriser et protéger WordPress.
+   (BUTTON)
+   Testé avec 5.2.3
+   Obtenir cette extension
+
+     * (BUTTON) Contenu embarqué WordPress
+     * (BUTTON) Contenu embarqué HTML
+
+   https://fr.wordpress
+
+   Copiez-collez cette URL dans votre site WordPress pour l’inclure
+
+   <blockquote class="wp-embedded-content"><a href="https://fr.
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copiez-collez ce code sur votre site pour l’y intégrer
+   (BUTTON)
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate next
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Aller au contenu
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Extensions
+
+   (BUTTON)
+     * Mes favoris
+     * Bêta test
+     * Développeurs
+     * Rechercher : WordPress.org/WordPr (BUTTON) Recherche d’extensions
+
+Affichage des résultats pour : WordPress.org/WordPress.org
+
+SEOPress
+
+   (438 notes en tout)
+
+   SEOPress est une extension SEO simple, rapide et puissante pour
+   WordPress.
+     __________________________________________________________________
+
+   Benjamin Denis 70 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 2 semaines
+
+Easy Plugin Stats
+
+   (3 notes en tout)
+
+   Easily display stats about plugins that reside in the WordPress.org
+   repository.
+     __________________________________________________________________
+
+   Nick Diego 60+ installations actives Testé avec 5.2.3 Mise à jour il y
+   a 5 mois
+
+Simple Demo Importer Plugin
+
+   (3 notes en tout)
+
+   Simple Theme Demo Importer plugin will help to import the theme demo
+   content based on the Demos are available. Easily customizable for the
+   Theme Devel …
+     __________________________________________________________________
+
+   Tristup Ghosh 40+ installations actives Testé avec 5.2.3 Mise à jour il
+   y a 5 mois
+
+Custom Meta Widget
+
+   (23 notes en tout)
+
+   Clone of the standard Meta widget plus options to hide log in/out,
+   admin, feed and WordPress.org/custom links.
+     __________________________________________________________________
+
+   bitacre 20 000+ installations actives Testé avec 4.9.11 Mise à jour il
+   y a 2 ans
+
+Upload Resume
+
+   (3 notes en tout)
+
+   It's a platform for new application regarding vacant role and user
+   simply submit after filling out the necessary information along (doc,
+   docx, pd …
+     __________________________________________________________________
+
+   mbbhatti 900+ installations actives Testé avec 4.8.10 Mise à jour il y
+   a 1 an
+
+Plugin Check
+
+   (12 notes en tout)
+
+   Plugin Check is a validation tool for PHP developers (and a quality
+   checker for end users) to locate undefined functions and methods.
+     __________________________________________________________________
+
+   Manoj Thulasidas 200+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Better Follow Button for Jetpack
+
+   (6 notes en tout)
+
+   Adds a floating subscription button (like on WordPress.com sites) to
+   Jetpack-powered WordPress.org sites.
+     __________________________________________________________________
+
+   Anton Pugachevsky 1 000+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Simple Widget Factory Plugin
+
+   (0 notes en tout)
+
+   SIMPLE WIDGET FACTORY is a plugin which is been able to create custom
+   widget areas according to the column position value given to the input
+   field.
+     __________________________________________________________________
+
+   Tridib Dawn Moins de 10 installations actives Testé avec 5.2.3 Mise à
+   jour il y a 3 mois
+
+I'm A Plugin Developer
+
+   (0 notes en tout)
+
+   Showcase the plugins you have in the WordPress.org Plugin Directory on
+   your own site.
+     __________________________________________________________________
+
+   Daniel Llewellyn Moins de 10 installations actives Testé avec 4.9.11
+   Mise à jour il y a 1 an
+
+WPAlerts
+
+   (2 notes en tout)
+
+   WPAlerts is a web-based software (http://wp-alerts.com/) that allows
+   one person to update multiple WordPress web sites from one dashboard.
+     __________________________________________________________________
+
+   OC Web Logic 100+ installations actives Testé avec 4.7.14 Mise à jour
+   il y a 2 ans
+
+Gallery Made Easy
+
+   (1 notes en tout)
+
+   Instantly create responsive image galleries within a simple and
+   customizable interface. Just upload, add, organise and publish.
+     __________________________________________________________________
+
+   Earl Evan Amante 30+ installations actives Testé avec 4.5.13 Mise à
+   jour il y a 3 ans
+
+CampusPress Code Check
+
+   (0 notes en tout)
+
+   A simple and easy way to test your theme or plugin for all the latest
+   WordPress standards and practices. A great theme development tool!
+     __________________________________________________________________
+
+   CampusPress Moins de 10 installations actives Testé avec 4.8.10 Mise à
+   jour il y a 2 ans
+
+Simple Constant Contact
+
+   (3 notes en tout)
+
+   Simple WordPress Constant Contact Plugin to take name and email and
+   allow to send that information straight to Constant Contact
+     __________________________________________________________________
+
+   Ashton Paul 90+ installations actives Testé avec 4.4.19 Mise à jour il
+   y a 3 ans
+
+Plugin Cards
+
+   (8 notes en tout)
+
+   Display plugin cards that match the style introduced in WordPress 4.0.
+   Uses the wordpress.org API and supports custom queries.
+     __________________________________________________________________
+
+   Braad Martin 30+ installations actives Testé avec 4.4.19 Mise à jour il
+   y a 4 ans
+
+Simple Posts Generator
+
+   (1 notes en tout)
+
+   A straight forward Posts Generator for Developers and Testers.
+     __________________________________________________________________
+
+   Earl Evan Amante 40+ installations actives Testé avec 4.2.24 Mise à
+   jour il y a 4 ans
+
+Contact Form 7
+
+   (1 658 notes en tout)
+
+   Une autre extension de formulaire de contact. Simple mais flexible.
+     __________________________________________________________________
+
+   Takayuki Miyoshi 5+ million installations actives Testé avec 5.2.3 Mise
+   à jour il y a 2 mois
+
+Yoast SEO
+
+   (26 833 notes en tout)
+
+   Améliorez votre SEO avec WordPress : rédigez de meilleurs contenus et
+   utilisez un site WordPress optimisé en utilisant l’extension Yoast SEO.
+     __________________________________________________________________
+
+   Team Yoast 5+ million installations actives Testé avec 5.2.3 Mise à
+   jour il y a 1 semaine
+
+Simple Taxonomy WYSIWYG
+
+   (2 notes en tout)
+
+   A very simple plugin that will convert the taxonomy/category
+   description textarea to a WYSIWYG (TinyMCE) form.
+     __________________________________________________________________
+
+   Earl Evan Amante 100+ installations actives Testé avec 4.2.24 Mise à
+   jour il y a 4 ans
+
+Translation Stats
+
+   (4 notes en tout)
+
+   Show plugins translation stats on your WordPress install.
+     __________________________________________________________________
+
+   Pedro Mendonça Moins de 10 installations actives Testé avec 5.2.3 Mise
+   à jour il y a 3 semaines
+
+Lightweight Social Icons
+
+   (51 notes en tout)
+
+   Looking to add simple social icons to your widget areas? Choose the
+   size and color of your icons, and then choose from 47 different social
+   profiles.
+     __________________________________________________________________
+
+   Thomas Usborne 50 000+ installations actives Testé avec 5.1.2 Mise à
+   jour il y a 6 mois
+
+Navigation des articles
+
+   1 2 … 49 Suivant
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   Aller à la barre d’outils
+     * À propos de WordPress
+          + À propos de WordPress
+          + Site de WordPress-FR
+          + Documentation
+          + Forums de support
+          + Remarque
+
+     * ____________________Recherche Recherche
+     * Se connecter
+     * Inscription
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate next
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Aller au contenu
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Extensions
+
+   (BUTTON)
+     * Mes favoris
+     * Bêta test
+     * Développeurs
+     * Rechercher : WordPress.org/page/2 (BUTTON) Recherche d’extensions
+
+Affichage des résultats pour : WordPress.org/page/2/WordPress.org
+
+Bold Page Builder
+
+   (20 notes en tout)
+
+   Free Page Builder and Visual Composer – Build stunning responsive post
+   and page layouts with easy to use drag and drop builder – no coding
+   required.
+     __________________________________________________________________
+
+   BoldThemes 20 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 21 heures
+
+Asset CleanUp: Page Speed Booster
+
+   (289 notes en tout)
+
+   Make your website load FASTER by preventing specific scripts (.JS) &
+   styles (.CSS) from loading on pages/posts and home page.
+     __________________________________________________________________
+
+   Gabriel Livan 40 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 4 jours
+
+Coming Soon Page – Responsive Coming Soon & Maintenance Mode
+
+   (10 notes en tout)
+
+   Coming Soon Page, Maintenance Mode Page, Landing Page, Under
+   Construction, Under Maintenance Plugin – The top notch solution when
+   your website is unde …
+     __________________________________________________________________
+
+   Weblizar 5 000+ installations actives Testé avec 5.2.3 Mise à jour il y
+   a 2 semaines
+
+Page View Count
+
+   (38 notes en tout)
+
+   Places an icon, all time views count and views today count at the
+   bottom of posts, pages and custom post types on any WordPress website.
+     __________________________________________________________________
+
+   a3rev Software 10 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 2 semaines
+
+Nimble Page Builder
+
+   (31 notes en tout)
+
+   Constructeur de pages puissant par glisser-déposer à l’aide de l’outil
+   de personnalisation natif de WordPress.
+     __________________________________________________________________
+
+   Press Customizr 40 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 3 semaines
+
+Google Authenticator – WordPress Two Factor Authentication (2FA)
+
+   (194 notes en tout)
+
+   Simple & Easy 2FA setup with any App supporting TOTP algorithm like
+   Google, Authy, LastPass Authenticator & other 2FA methods.
+     __________________________________________________________________
+
+   miniOrange 20 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 6 jours
+
+ACF Options Page Admin
+
+   (3 notes en tout)
+
+   Allows easy creation of options pages using Advanced Custom Fields Pro
+   without needing to do any PHP coding. Requires that ACF5 Pro is
+   installed (or A …
+     __________________________________________________________________
+
+   John A. Huebner II 2 000+ installations actives Testé avec 5.2.3 Mise à
+   jour il y a 5 mois
+
+Page Builder Sandwich – Front-End Page Builder
+
+   (95 notes en tout)
+
+   Page Builder Sandwich is the friendliest drag and drop landing page
+   builder for front-end editing.
+     __________________________________________________________________
+
+   The Page Builder Sandwich Team 4 000+ installations actives Testé avec
+   5.1.2 Mise à jour il y a 7 mois
+
+Hummingbird – Speed up, Cache, Optimize Your CSS and JS
+
+   (501 notes en tout)
+
+   Make your website load blazing fast and speed up WordPress with minify,
+   caching, defer critical CSS and JavaScript, Smush lazy load
+   integration, and m …
+     __________________________________________________________________
+
+   WPMU DEV 70 000+ installations actives Testé avec 5.2.3 Mise à jour il
+   y a 2 semaines
+
+Genesis Featured Page Extras
+
+   (9 notes en tout)
+
+   Extra advanced version of Genesis Featured Page Widget: Custom Content,
+   Images, URLs etc. — Only for (premium) Genesis Framework 2.0+!
+     __________________________________________________________________
+
+   David Decker - DECKERWEB 2 000+ installations actives Testé avec 5.1.2
+   Mise à jour il y a 7 mois
+
+Showeblogin Like Share Box Plugin
+
+   (41 notes en tout)
+
+   Brings the power of simplicity to display or embed Facebook Page Plugin
+   (Like Box) widget into your WordPress website by using latest Graph API
+   v3.2.
+     __________________________________________________________________
+
+   Suresh Prasad 3 000+ installations actives Testé avec 5.1.2 Mise à jour
+   il y a 5 mois
+
+Mega Addons For WPBakery Page Builder (formerly Visual Composer)
+
+   (41 notes en tout)
+
+   28 Addons visual composer extension, Beautifully designed unique
+   elements, Includes Premium quality addons For WPBakery Page Builder.
+     __________________________________________________________________
+
+   Nasir 70 000+ installations actives Testé avec 5.2.3 Mise à jour il y a
+   5 jours
+
+CMS Tree Page View
+
+   (322 notes en tout)
+
+   Adds a tree view of all pages & custom posts. Get a great overview +
+   options to drag & drop to reorder & option to add multiple pages.
+     __________________________________________________________________
+
+   Pär Thernström 80 000+ installations actives Testé avec 4.8.10 Mise à
+   jour il y a 11 mois
+
+Void Elementor Post Grid Addon for Elementor Page builder
+
+   (53 notes en tout)
+
+   Adds post-grid element to Elementor page builder for generating post
+   grid/list from your blog posts.
+     __________________________________________________________________
+
+   VOID CODERS 10 000+ installations actives Testé avec 5.1.2 Mise à jour
+   il y a 19 heures
+
+Formidable PRO2PDF
+
+   (15 notes en tout)
+
+   Map web forms to PDF forms then with one simple shortcode – display a
+   link on any post, page, form, or view the merged PDF on a PC or mobile
+   device.
+     __________________________________________________________________
+
+   Alexandre S. 2 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 1 semaine
+
+Lucky Wheel for WooCommerce – Spin a Sale
+
+   (8 notes en tout)
+
+   Lucky Wheel for WooCommerce helps you convert your traffic into
+   customers or at least, an email subscriber. It takes you a lot of work
+   and money to ha …
+     __________________________________________________________________
+
+   VillaTheme 1 000+ installations actives Testé avec 5.2.3 Mise à jour il
+   y a 1 mois
+
+Elementor Custom Skin
+
+   (47 notes en tout)
+
+   Créez de nouveaux habillages pour le constructeur de page Elementor PRO
+   2.x. Concevez vos propres habillages pour les widgets de publications
+   et d’archive de publications à l’aide des modèles de boucle Elementor.
+     __________________________________________________________________
+
+   Dudaster.com 10 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 7 heures
+
+IntelliWidget Per Page Custom Menus and Dynamic Content
+
+   (20 notes en tout)
+
+   Display custom menus, featured posts, custom post types and other
+   dynamic content on a per page, per post or site-wide basis.
+     __________________________________________________________________
+
+   Lilaea Media 2 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 4 semaines
+
+Shop Page WP
+
+   (16 notes en tout)
+
+   Create an affiliate shop page on your website. Simple to setup and add
+   products to start making money from affiliate links on your blog.
+     __________________________________________________________________
+
+   Leon Magee, Justin McChesney-Wachs 3 000+ installations actives Testé
+   avec 5.0.6 Mise à jour il y a 9 mois
+
+Onepage Builder – Easiest Landing Page Builder For WordPress
+
+   (41 notes en tout)
+
+   Beginner Friendly Landing Page, Sales page, Onepage, Coming Soon Page
+   Builder. You can create Under Construction Page, Service page, App
+   landing page …
+     __________________________________________________________________
+
+   Themesgrove 3 000+ installations actives Testé avec 5.2.3 Mise à jour
+   il y a 1 semaine
+
+Navigation des articles
+
+   1 2 … 49 Suivant
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.
+   Aller à la barre d’outils
+     * À propos de WordPress
+          + À propos de WordPress
+          + Site de WordPress-FR
+          + Documentation
+          + Forums de support
+          + Remarque
+
+     * ____________________Recherche Recherche
+     * Se connecter
+     * Inscription
+   #Français » Flux Français » Flux des commentaires alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+WordPress.org
+
+Français
+
+   (BUTTON) Toggle Menu
+     * Accueil
+     * À propos
+     * Thèmes
+     * Extensions
+     * Installation
+     * Traduire WordPress
+     * Blog
+     * Obtenir WordPress
+
+   Découvrez WordPress
+
+   WordPress est un logiciel libre utilisé pour créer de superbes sites,
+   blogs ou applications.
+
+   De beaux designs, des fonctionnalités puissantes et la liberté de
+   construire ce que vous voulez. WordPress est à la fois gratuit et
+   inestimable.
+   [screen-themes.png?3] [iphone-themes.png?3]
+
+Les meilleurs nous font confiance
+
+   34% du web est propulsé par WordPress, des blogs personnels aux plus
+   gros sites d’actualités en ligne.
+
+   Découvrez plus de sites construits avec WordPress
+
+Des fonctionnalités puissantes
+
+   Des possibilités illimitées. Qu’allez-vous créer ?
+     * Designs
+       personnalisables
+     * Optimisé pour
+       le SEO
+     * Sites mobiles
+       responsive
+     * Hautes
+       performances
+     * [icon-run-blue.svg] Une gestion
+       prête à l’emploi
+     * Haute
+       sécurité
+     * Puissante
+       gestion des médias
+     * Facile et
+       accessible
+
+   Améliorez WordPress avec plus de 54 000 extensions pour aider votre
+   site à répondre à vos besoins. Ajoutez une boutique en ligne, des
+   galeries, des listes de diffusion, des forums, des statistiques de
+   visites et plus encore.
+
+Communauté
+
+   Des centaines de milliers de développeur·ses, de créateur·ices de
+   contenu et de propriétaires de sites se rassemblent lors de rencontres
+   mensuelles dans 436 villes dans le monde.
+   Trouvez une communauté WordPress locale
+
+Commencer avec WordPress
+
+   Plus de 60 millions de personnes ont choisi WordPress pour prendre
+   place sur le web – Rejoignez cette grande famille.
+   Obtenir WordPress
+
+Nouvelles de notre blog
+
+WordPress et la documentation
+
+   Voici un article complet sur la documentation de WordPress et surtout
+   sur les changements en cours : le Codex WordPress est maintenant
+   obsolète et remplacé par DevHub ! Nous vous expliquons tout cela dans
+   cet article complet sur la documentation de WordPress, avec un guide
+   complet pour bien lire les pages de documentation proposée sur la […]
+
+C’est simple comme…
+
+    1. Trouvez un hébergeur de confiance et peut-être supportez WordPress
+       en même temps.
+    2. avec notre célèbre installation en 5 minutes. La publication n'a
+       jamais été plus facile.
+    3. Passez un peu de temps à lire notre documentation, apprendre à
+       mieux connaître WordPress chaque jour et commencer aussi à aider
+       les autres.
+
+Accessoires
+
+   Accessoires
+
+WordPress c’est...
+
+   Panzani
+   La Nef
+   2Houses
+   La Villette
+   … et des centaines d’autres
+
+     * À propos
+     * Blog
+     * Hébergement
+     * Don
+
+     * Support
+     * Développeurs
+     * S’investir
+
+     * Vitrine
+     * Extensions
+     * Thèmes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Vie privée
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Le code est une poésie.

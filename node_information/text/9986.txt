@@ -1,0 +1,841 @@
+   #Actualités Airparif Qualité de l'air Alertes de Pollution
+
+   Accueil du site Airparif
+   Pollution Qualité de l'air
+   Aujourd'hui
+   33
+   Demain
+   Indice
+   Nous contacter | Recrutement | Nos liens | Airparif Services
+   English version  English version
+   ____________________
+   Submit
+
+Association de surveillance de la qualité de l'air
+
+     * Etat de l'air
+          + › Résultats du jour
+          + › Cartes temps réel
+          + › Par station
+          + › Par polluant
+          + › Cartes interrégionales
+          + › Bilans annuels
+          + › Émissions : air et climat
+          + › Page de téléchargement
+          + › Historique des indices et des épisodes
+     * Méthodes de surveillance
+          + › Modèles
+          + › Prévision
+          + › Émissions : air et climat
+          + › Réseau de mesure
+          + › Campagnes de mesure
+          + › Laboratoire de métrologie
+          + › Laboratoire de chimie
+     * Pollution
+          + › Les différents polluants et leur évolution
+          + › Air et climat, des sources de pollution communes
+          + › Émissions ou concentrations
+          + › Les effets de la pollution
+          + › Les actions d'amélioration
+          + › Air intérieur
+          + › Calculateur d'émissions
+     * Réglementation
+          + › Normes françaises
+          + › Normes européennes
+          + › Recommandations de l'OMS
+          + › Épisodes de pollution
+          + › Indices de pollution
+     * Publications
+          + › Nos publications
+     * Qui sommes-nous ?
+          + › Airparif et ses membres
+          + › Enquête de notoriété
+          + › Qualité
+          + › Développement durable
+
+   Cet indice de pollution est un indicateur du niveau de pollution
+   attendu pour trois polluants dans l'agglomération parisienne. Il est
+   calculé et utilisé de manière identique dans une centaine de villes
+   européennes (airqualitynow.eu) mais ce n'est pas une concentration.
+     * Open Data
+     * API
+     * RSS
+     * Widget
+
+Titre  Portail Open Data
+
+   Différents jeux de données, produites par Airparif, sont disponibles
+   sur le portail https://data-airparif-asso.opendata.arcgis.com et
+   présentés ci-dessous :
+   Ces jeux de données (et métadonnées associées) sont mises à disposition
+   via des flux open data afin de faciliter leur appropriation, leur
+   réutilisation par des tiers et notamment pour alimenter des nouveaux
+   services web de manière automatisée.
+   Les données, sous licence ODbL, représentent :
+     * Les quantités de polluants présents dans l’air relevées aux
+       stations de mesure (concentration observées) ou spatialisées sur
+       les territoires (Concentrations cartographiées)
+     * Les quantités de polluants atmosphériques et de gaz à effet de
+       serre rejetés dans l’air par les différentes sources de pollutions
+       (Emissions)
+     * Les populations et superficie de territoire soumises à des
+       dépassements de valeur réglementaire (Exposition)
+     * Les informations agrégées pour qualifier la qualité de l’air
+       observé et prévu (indice de qualité de l’air)
+     * Le déclenchement d’alerte épisode de pollution (épisode de
+       pollution)
+
+   Les notices d’utilisation des flux sont disponibles sous format pdf et
+   sous postman Ces données sont aussi disponibles sur la plateforme
+   data.gouv.fr
+
+Focus Focus
+
+   26/07/2019
+   Bilan du second épisode de pollution à l’Ozone
+   Situation au 26/07/2019 ...
+   24/07/2019
+   Bulletin de situation lié à l’épisode de pollution à l’ozone —
+   Situation au 24 juillet
+   Après la canicule de fin juin, ...
+   03/07/2019
+   Comprendre les zones à faibles émissions Métropole du Grand Paris &
+   Ville de Paris
+   La source principale d’émissions ...
+   02/07/2019
+   Fin du premier épisode de pollution à l’Ozone - Situation au 01/07/2019
+   L’Île-de-France a connu un ...
+   26/06/2019
+   Canicule et ozone - Situation au 27/06/2019
+   L’Île-de-France subit actuellement ...
+   17/06/2019
+   Lancement du Parcours Santé du dispositif de formations AIRDUCATION
+   Lundi 17 juin 2019, l’Université ...
+   11/06/2019
+   Surveillance de l’air suite à l’incendie de Notre Dame #3
+   Sur la période du 15 au 22 avril, ...
+   05/06/2019
+   24Air
+   Le premier calculateur qui permet ...
+   06/05/2019
+   Surveillance de l’air suite à l’incendie de Notre-Dame #2
+   Les résultats des analyses de plomb ...
+   19/04/2019
+   Inventaire des émissions 2015
+   Airparif publie l’inventaire des ...
+
+IntAIRactif IntAIRactif
+
+   Quel air est-il ?
+   Open data
+   Effet de serre, pollution au quotidien, à proximité du trafic...
+   Questions fréquentes
+   Questions fréquentes
+   24Air
+
+Restez informé :
+
+   Mailing-list d'Airparif
+   Airparif sur Facebook Airparif sur Twitter Flux RSS Airparif
+   Application Airparif sur Apple store Application Airparif sur Google
+   play Site optimisé pour smartphone
+   Mentions légales | Plan du site
+   © 2010 Airparif - Design Clair et Net.
+   #Actualités Airparif Qualité de l'air Alertes de Pollution
+
+   Accueil du site Airparif
+   Pollution Qualité de l'air
+   Aujourd'hui
+   33
+   Demain
+   Indice
+   Nous contacter | Recrutement | Nos liens | Airparif Services
+   English version  English version
+   ____________________
+   Submit
+
+Association de surveillance de la qualité de l'air
+
+     * Etat de l'air
+          + › Résultats du jour
+          + › Cartes temps réel
+          + › Par station
+          + › Par polluant
+          + › Cartes interrégionales
+          + › Bilans annuels
+          + › Émissions : air et climat
+          + › Page de téléchargement
+          + › Historique des indices et des épisodes
+     * Méthodes de surveillance
+          + › Modèles
+          + › Prévision
+          + › Émissions : air et climat
+          + › Réseau de mesure
+          + › Campagnes de mesure
+          + › Laboratoire de métrologie
+          + › Laboratoire de chimie
+     * Pollution
+          + › Les différents polluants et leur évolution
+          + › Air et climat, des sources de pollution communes
+          + › Émissions ou concentrations
+          + › Les effets de la pollution
+          + › Les actions d'amélioration
+          + › Air intérieur
+          + › Calculateur d'émissions
+     * Réglementation
+          + › Normes françaises
+          + › Normes européennes
+          + › Recommandations de l'OMS
+          + › Épisodes de pollution
+          + › Indices de pollution
+     * Publications
+          + › Nos publications
+     * Qui sommes-nous ?
+          + › Airparif et ses membres
+          + › Enquête de notoriété
+          + › Qualité
+          + › Développement durable
+
+   Cet indice de pollution est un indicateur du niveau de pollution
+   attendu pour trois polluants dans l'agglomération parisienne. Il est
+   calculé et utilisé de manière identique dans une centaine de villes
+   européennes (airqualitynow.eu) mais ce n'est pas une concentration.
+
+Titre  Questions d'avenir
+
+Pollution et effet de serre : vrais liens et fausses idées
+
+     * Des problématiques a priori différentes...
+     * ... et pourtant étroitement liées
+     * D'où la nécessité d'une gestion intégrée
+     * Vers des politiques intégrées pour un bénéfice sur les deux fronts
+     * Airparif surveille les polluants atmosphériques et les gaz à effet
+       de serre en Île-de-France
+
+Quelle pollution tout au long de la journée ?
+
+     * La pollution au quotidien : chez soi, en voiture, à l'école, au
+       bureau, dans la rue, à vélo, en transports...
+
+Pollution à proximité du trafic
+
+     * Les cartes Hor'AIR d'Île-de-France et de ses départements
+     * L'enjeu
+     * La méthode de calcul
+     * Les perspectives
+
+   remonter imprimer
+
+Focus Focus
+
+   26/07/2019
+   Bilan du second épisode de pollution à l’Ozone
+   Situation au 26/07/2019 ...
+   24/07/2019
+   Bulletin de situation lié à l’épisode de pollution à l’ozone —
+   Situation au 24 juillet
+   Après la canicule de fin juin, ...
+   03/07/2019
+   Comprendre les zones à faibles émissions Métropole du Grand Paris &
+   Ville de Paris
+   La source principale d’émissions ...
+   02/07/2019
+   Fin du premier épisode de pollution à l’Ozone - Situation au 01/07/2019
+   L’Île-de-France a connu un ...
+   26/06/2019
+   Canicule et ozone - Situation au 27/06/2019
+   L’Île-de-France subit actuellement ...
+   17/06/2019
+   Lancement du Parcours Santé du dispositif de formations AIRDUCATION
+   Lundi 17 juin 2019, l’Université ...
+   11/06/2019
+   Surveillance de l’air suite à l’incendie de Notre Dame #3
+   Sur la période du 15 au 22 avril, ...
+   05/06/2019
+   24Air
+   Le premier calculateur qui permet ...
+   06/05/2019
+   Surveillance de l’air suite à l’incendie de Notre-Dame #2
+   Les résultats des analyses de plomb ...
+   19/04/2019
+   Inventaire des émissions 2015
+   Airparif publie l’inventaire des ...
+
+IntAIRactif IntAIRactif
+
+   Quel air est-il ?
+   Open data
+   Effet de serre, pollution au quotidien, à proximité du trafic...
+   Questions fréquentes
+   Questions fréquentes
+   24Air
+
+Restez informé :
+
+   Mailing-list d'Airparif
+   Airparif sur Facebook Airparif sur Twitter Flux RSS Airparif
+   Application Airparif sur Apple store Application Airparif sur Google
+   play Site optimisé pour smartphone
+   Mentions légales | Plan du site
+   © 2010 Airparif - Design Clair et Net.
+   #Actualités Airparif Qualité de l'air Alertes de Pollution
+
+   Accueil du site Airparif
+   Pollution Qualité de l'air
+   Aujourd'hui
+   33
+   Demain
+   Indice
+   Nous contacter | Recrutement | Nos liens | Airparif Services
+   English version  English version
+   ____________________
+   Submit
+
+Association de surveillance de la qualité de l'air
+
+     * Etat de l'air
+          + › Résultats du jour
+          + › Cartes temps réel
+          + › Par station
+          + › Par polluant
+          + › Cartes interrégionales
+          + › Bilans annuels
+          + › Émissions : air et climat
+          + › Page de téléchargement
+          + › Historique des indices et des épisodes
+     * Méthodes de surveillance
+          + › Modèles
+          + › Prévision
+          + › Émissions : air et climat
+          + › Réseau de mesure
+          + › Campagnes de mesure
+          + › Laboratoire de métrologie
+          + › Laboratoire de chimie
+     * Pollution
+          + › Les différents polluants et leur évolution
+          + › Air et climat, des sources de pollution communes
+          + › Émissions ou concentrations
+          + › Les effets de la pollution
+          + › Les actions d'amélioration
+          + › Air intérieur
+          + › Calculateur d'émissions
+     * Réglementation
+          + › Normes françaises
+          + › Normes européennes
+          + › Recommandations de l'OMS
+          + › Épisodes de pollution
+          + › Indices de pollution
+     * Publications
+          + › Nos publications
+     * Qui sommes-nous ?
+          + › Airparif et ses membres
+          + › Enquête de notoriété
+          + › Qualité
+          + › Développement durable
+
+   Cet indice de pollution est un indicateur du niveau de pollution
+   attendu pour trois polluants dans l'agglomération parisienne. Il est
+   calculé et utilisé de manière identique dans une centaine de villes
+   européennes (airqualitynow.eu) mais ce n'est pas une concentration.
+
+Titre Questions fréquentes
+
+   Connaissez-vous vraiment la qualité de l'air en Île-de-France ? Testez
+   vos connaissances avec notre petit quizz !
+     * Le Quizz d'Airparif
+
+L'association Airparif
+
+     * Qui sommes nous ?
+
+Quelques données générales sur la pollution atmosphérique
+
+     * Qu'est ce que la pollution de l'air ?
+     * Quelles sont les principales sources de pollution et de gaz à effet
+       de serre en Île-de-France ?
+     * Quel dispositif de surveillance de la qualité de l'air en France ?
+     * Comment surveille-t-on la qualité de l'air en Île-de-France ?
+     * Quelle est la situation de Paris par rapport à d'autres capitales
+       européennes en matière de pollution atmosphérique ?
+     * Quelle différence entre l'indice de qualité de l'air français et
+       l'indice européen ?
+     * La pollution reste-t-elle localisée là où elle a été émise ?
+     * Le "bon" et le "mauvais" ozone : quel rapport avec le trou dans la
+       couche d'ozone ?
+     * Comment se forme l'ozone que nous respirons ?
+     * L'ozone et le smog photochimique, c'est la même chose ?
+
+La pollution atmosphérique et la santé
+
+     * En quoi la pollution de l'air nuit-elle à notre santé ?
+     * Quelles sont les personnes les plus fragiles face à la pollution
+       atmosphérique ?
+
+Les épisodes de pollution
+
+     * Comment se définit un épisode de pollution et que fait-on dans
+       cette situation ?
+     * Quelles sont les conditions qui conduisent à des épisodes de
+       pollution ?
+     * L'absence d'épisode de pollution signifie-t-elle une amélioration
+       de la qualité de l'air ?
+     * A quel moment de la journée se produisent les épisodes de pollution
+       ?
+     * Quelles sont les zones de l'Île-de-France touchées par les épisodes
+       de pollution ?
+     * Les épisodes de pollution sont-ils fréquents en Île-de-France ?
+     * Quand met-on en place la circulation alternée et quel en est
+       l'effet ?
+     * Quelles ont été les concentrations records enregistrées en
+       Île-de-France ?
+
+Exposition à la pollution atmosphérique
+
+     * Comment limiter mon exposition en cas de pic de pollution ?
+     * Pourquoi vaut-il mieux éviter les activités physiques importantes
+       en cas d'épisode de pollution ?
+     * Où suis-je le plus exposé à la pollution ?
+     * Où et quand vaut-il mieux éviter de faire mon footing ?
+     * Quelle est l'efficacité des masques pour se protéger de la
+       pollution ?
+     * Que puis-je faire au quotidien pour améliorer la qualité de l'air ?
+
+   remonter imprimer
+
+Focus Focus
+
+   26/07/2019
+   Bilan du second épisode de pollution à l’Ozone
+   Situation au 26/07/2019 ...
+   24/07/2019
+   Bulletin de situation lié à l’épisode de pollution à l’ozone —
+   Situation au 24 juillet
+   Après la canicule de fin juin, ...
+   03/07/2019
+   Comprendre les zones à faibles émissions Métropole du Grand Paris &
+   Ville de Paris
+   La source principale d’émissions ...
+   02/07/2019
+   Fin du premier épisode de pollution à l’Ozone - Situation au 01/07/2019
+   L’Île-de-France a connu un ...
+   26/06/2019
+   Canicule et ozone - Situation au 27/06/2019
+   L’Île-de-France subit actuellement ...
+   17/06/2019
+   Lancement du Parcours Santé du dispositif de formations AIRDUCATION
+   Lundi 17 juin 2019, l’Université ...
+   11/06/2019
+   Surveillance de l’air suite à l’incendie de Notre Dame #3
+   Sur la période du 15 au 22 avril, ...
+   05/06/2019
+   24Air
+   Le premier calculateur qui permet ...
+   06/05/2019
+   Surveillance de l’air suite à l’incendie de Notre-Dame #2
+   Les résultats des analyses de plomb ...
+   19/04/2019
+   Inventaire des émissions 2015
+   Airparif publie l’inventaire des ...
+
+IntAIRactif IntAIRactif
+
+   Quel air est-il ?
+   Open data
+   Effet de serre, pollution au quotidien, à proximité du trafic...
+   Questions fréquentes
+   Questions fréquentes
+   24Air
+
+Restez informé :
+
+   Mailing-list d'Airparif
+   Airparif sur Facebook Airparif sur Twitter Flux RSS Airparif
+   Application Airparif sur Apple store Application Airparif sur Google
+   play Site optimisé pour smartphone
+   Mentions légales | Plan du site
+   © 2010 Airparif - Design Clair et Net.
+   #Actualités Airparif Qualité de l'air Alertes de Pollution
+
+   Accueil du site Airparif
+   Pollution Qualité de l'air
+   Aujourd'hui
+   33
+   Demain
+   Indice
+   Nous contacter | Recrutement | Nos liens | Airparif Services
+   English version  English version
+   ____________________
+   Submit
+
+Association de surveillance de la qualité de l'air
+
+     * Etat de l'air
+          + › Résultats du jour
+          + › Cartes temps réel
+          + › Par station
+          + › Par polluant
+          + › Cartes interrégionales
+          + › Bilans annuels
+          + › Émissions : air et climat
+          + › Page de téléchargement
+          + › Historique des indices et des épisodes
+     * Méthodes de surveillance
+          + › Modèles
+          + › Prévision
+          + › Émissions : air et climat
+          + › Réseau de mesure
+          + › Campagnes de mesure
+          + › Laboratoire de métrologie
+          + › Laboratoire de chimie
+     * Pollution
+          + › Les différents polluants et leur évolution
+          + › Air et climat, des sources de pollution communes
+          + › Émissions ou concentrations
+          + › Les effets de la pollution
+          + › Les actions d'amélioration
+          + › Air intérieur
+          + › Calculateur d'émissions
+     * Réglementation
+          + › Normes françaises
+          + › Normes européennes
+          + › Recommandations de l'OMS
+          + › Épisodes de pollution
+          + › Indices de pollution
+     * Publications
+          + › Nos publications
+     * Qui sommes-nous ?
+          + › Airparif et ses membres
+          + › Enquête de notoriété
+          + › Qualité
+          + › Développement durable
+
+   Cet indice de pollution est un indicateur du niveau de pollution
+   attendu pour trois polluants dans l'agglomération parisienne. Il est
+   calculé et utilisé de manière identique dans une centaine de villes
+   européennes (airqualitynow.eu) mais ce n'est pas une concentration.
+
+Titre  En voiture !
+
+Contexte
+
+   [summary_expovoiture.gif]
+
+   La voiture n'est pas un cocon, un bouclier anti-pollution. Au
+   contraire, les prises d'air sont proches des pots d'échappement. Situé
+   au cœur de la circulation, l'automobiliste est ainsi la première
+   victime de la pollution liée au trafic routier.
+
+   Le questionnaire ci-dessous se concentre sur les trajets des
+   Franciliens qui se rendent tous les jours en voiture à leur travail
+   pendant les heures de pointe du trafic routier (7h-10h le matin OU
+   17h-20h le soir). Le nombre de questions varie selon le type de
+   parcours. En fonction de vos réponses, on peut estimer les niveaux
+   moyens de dioxyde d'azote (NO2) dans l'habitacle, pour les trajets
+   effectués avec les mêmes caractéristiques que le vôtre. Ces estimations
+   sont le fruit d'une analyse statistique des mesures réalisées par
+   Airparif en 2008 et 2011. La finesse des résultats et des informations
+   fournies peut varier d'un trajet à l'autre.
+
+   Plus de précisions ici.
+
+Questionnaire
+
+   Commune où vous habitez ?
+   ___________________________________
+   Commune où vous travaillez ?
+   ___________________________________
+   Quel trajet voulez-vous évaluer ?
+   (*)   Aller  ( )   Retour
+   Empruntez-vous le boulevard périphérique lors de votre trajet
+   "domicile-travail" ?
+   (*) oui  ( ) non
+   Temps de votre trajet ?
+   (en minutes)
+   ____________________
+    Attention, votre temps de trajet doit être compris entre 1 et 180
+   minutes !
+   Passez-vous plus de minute(s) au sein d'un tunnel ?
+   (ou zones couvertes)
+   Passez-vous au sein d'un tunnel ?
+   (ou zones couvertes )
+   (*)  oui  ( )  non
+   Quelles est votre heure de départ ?
+
+Résultat d'un trajet moyen
+
+   Les trajets empruntant le Boulevard Périphérique et ayant pour origine
+   et destination une commune de la Grande-Couronne n’ont pas été évalués
+   dans le cadre de cette étude.
+   Compte tenu de la très faible proportion des trajets "Domicile-Travail"
+   réalisés en voiture de Paris en direction de la Grande-Couronne
+   (seulement 1% des trajets "Domicile-Travail" réalisés en voiture) cette
+   typologie de trajet n'a pas fait l'objet de mesure.
+     * NO2 :  µg/m³
+
+     * Parmi les trajets effectués lors de l'étude avec les mêmes
+       caractéristiques que le votre :
+
+   [voiturebornedep.png]  36% présentent un dépassement de la valeur guide
+   OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  90% présentent des teneurs comprises entre
+   200 et 260 µg/m³.
+   [voiturebornedep.png]  28% présentent un dépassement de la valeur guide
+   OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   170 et 220 µg/m³.
+   [voiturembouteillage.png]   90% présentent des teneurs supérieures à
+   150 µg/m³.
+   [voiturebornedep.png]   25% moins de 1% moins de 5% présentent un
+   dépassement de la valeur guide OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   140 et 200 µg/m³.
+   [voiturebornedep.png]  5% présentent un dépassement de la valeur guide
+   OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   130 et 190 µg/m³.
+   [voiturebornedep.png]  3% présentent un dépassement de la valeur guide
+   OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   100 et 170 µg/m³.
+   [voiturebornedep.png]  Moins de 5% présentent un dépassement de la
+   valeur guide OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   85 et 150 µg/m³.
+   [voiturembouteillage.png]   90% présentent des teneurs inférieures à
+   160 µg/m³.
+   [voiturebornedep.png]  Moins de 1% présentent un dépassement de la
+   valeur guide OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   95 et 130 µg/m³.
+   [voiturembouteillage.png]   90% présentent des teneurs inférieures à
+   145 µg/m³.
+   [voiturebornedep.png]  Moins de 1% présentent un dépassement de la
+   valeur guide OMS extrapolée par l'ANSES.
+   [voiturezonecompteur.png]  60% présentent des teneurs comprises entre
+   75 et 125 µg/m³.
+   [voiturembouteillage.png]   95% présentent des teneurs inférieures à
+   145 µg/m³.
+
+     [voituremin-zone-rurale-big.png] [voituremax-zone-urbaine-big.png]
+
+     * La moyenne obtenue selon l'état du trafic (vitesse moyenne) :
+
+   [voiture3.png]  255 µg/m³ en cas de trafic globalement congestionné
+   (vitesse inférieure à 25 km/h en moyenne).
+   [voiture2.png]  214 µg/m³ en cas de trafic moins dense (vitesse
+   comprise entre 25 km/h et 40 km/h en moyenne).
+   [voiture1.png]  140 µg/m³ en cas de trafic plus fluide (vitesse
+   comprise supérieure 40 km/h en moyenne).
+
+                                  En savoir plus sur les effets sanitaires
+
+   Facteurs d'influence pour le MIN :
+     * Zone rurale
+     * Axes secondaires
+     * Peu de trafic routier, circulation très fluide
+     * Pas de zone couverte (type tunnel)
+
+   Facteurs d'influence pour le MAX :
+     * Zone urbaine
+     * Axes majeurs (type Bd Périphérique)
+     * Densité de trafic importante, circulation congestionnée
+     * Présence de zones couvertes (type tunnels)
+
+   remonter imprimer
+
+Focus Focus
+
+   26/07/2019
+   Bilan du second épisode de pollution à l’Ozone
+   Situation au 26/07/2019 ...
+   24/07/2019
+   Bulletin de situation lié à l’épisode de pollution à l’ozone —
+   Situation au 24 juillet
+   Après la canicule de fin juin, ...
+   03/07/2019
+   Comprendre les zones à faibles émissions Métropole du Grand Paris &
+   Ville de Paris
+   La source principale d’émissions ...
+   02/07/2019
+   Fin du premier épisode de pollution à l’Ozone - Situation au 01/07/2019
+   L’Île-de-France a connu un ...
+   26/06/2019
+   Canicule et ozone - Situation au 27/06/2019
+   L’Île-de-France subit actuellement ...
+   17/06/2019
+   Lancement du Parcours Santé du dispositif de formations AIRDUCATION
+   Lundi 17 juin 2019, l’Université ...
+   11/06/2019
+   Surveillance de l’air suite à l’incendie de Notre Dame #3
+   Sur la période du 15 au 22 avril, ...
+   05/06/2019
+   24Air
+   Le premier calculateur qui permet ...
+   06/05/2019
+   Surveillance de l’air suite à l’incendie de Notre-Dame #2
+   Les résultats des analyses de plomb ...
+   19/04/2019
+   Inventaire des émissions 2015
+   Airparif publie l’inventaire des ...
+
+IntAIRactif IntAIRactif
+
+   Quel air est-il ?
+   Open data
+   Effet de serre, pollution au quotidien, à proximité du trafic...
+   Questions fréquentes
+   Questions fréquentes
+   24Air
+
+Restez informé :
+
+   Mailing-list d'Airparif
+   Airparif sur Facebook Airparif sur Twitter Flux RSS Airparif
+   Application Airparif sur Apple store Application Airparif sur Google
+   play Site optimisé pour smartphone
+   Mentions légales | Plan du site
+   © 2010 Airparif - Design Clair et Net.
+   #Actualités Airparif Qualité de l'air Alertes de Pollution
+
+   Accueil du site Airparif
+   Pollution Qualité de l'air
+   Aujourd'hui
+   33
+   Demain
+   Indice
+   Nous contacter | Recrutement | Nos liens | Airparif Services
+   English version  English version
+   ____________________
+   Submit
+
+Association de surveillance de la qualité de l'air
+
+     * Etat de l'air
+          + › Résultats du jour
+          + › Cartes temps réel
+          + › Par station
+          + › Par polluant
+          + › Cartes interrégionales
+          + › Bilans annuels
+          + › Émissions : air et climat
+          + › Page de téléchargement
+          + › Historique des indices et des épisodes
+     * Méthodes de surveillance
+          + › Modèles
+          + › Prévision
+          + › Émissions : air et climat
+          + › Réseau de mesure
+          + › Campagnes de mesure
+          + › Laboratoire de métrologie
+          + › Laboratoire de chimie
+     * Pollution
+          + › Les différents polluants et leur évolution
+          + › Air et climat, des sources de pollution communes
+          + › Émissions ou concentrations
+          + › Les effets de la pollution
+          + › Les actions d'amélioration
+          + › Air intérieur
+          + › Calculateur d'émissions
+     * Réglementation
+          + › Normes françaises
+          + › Normes européennes
+          + › Recommandations de l'OMS
+          + › Épisodes de pollution
+          + › Indices de pollution
+     * Publications
+          + › Nos publications
+     * Qui sommes-nous ?
+          + › Airparif et ses membres
+          + › Enquête de notoriété
+          + › Qualité
+          + › Développement durable
+
+   Cet indice de pollution est un indicateur du niveau de pollution
+   attendu pour trois polluants dans l'agglomération parisienne. Il est
+   calculé et utilisé de manière identique dans une centaine de villes
+   européennes (airqualitynow.eu) mais ce n'est pas une concentration.
+
+Titre Soyez informé en temps réel
+
+Si vous souhaitez vous inscrire à notre mailing-list, nous vous invitons à
+nous laisser vos coordonnées :
+
+   Nom
+   ____________________
+   Prénom
+   ____________________
+   Courriel
+   ____________________
+   Courriel (confirmation)
+   ____________________
+
+Souhaitez-vous être prévenu pour :
+
+   [ ]   Bulletin quotidien de l'air
+   [ ]   De la sortie d'un nouveau document
+   [ ]   D'un épisode de pollution
+   [envoyer_of.png]-Submit
+
+Pour vous désabonner ou gérer votre abonnement :
+
+   Si vous souhaitez vous désabonner ou modifier votre abonnement, cliquez
+   ici
+
+   Les informations qui vous concernent sont destinées uniquement à
+   Airparif. Vous disposez d'un droit d'accès, de modification, de
+   rectification et de suppression de ces données (art. 34 de la loi
+   «Informatique et Libertés»). Pour l'exercer, contactez nous à l'adresse
+   suivante : Nous écrire
+
+Focus Focus
+
+   26/07/2019
+   Bilan du second épisode de pollution à l’Ozone
+   Situation au 26/07/2019 ...
+   24/07/2019
+   Bulletin de situation lié à l’épisode de pollution à l’ozone —
+   Situation au 24 juillet
+   Après la canicule de fin juin, ...
+   03/07/2019
+   Comprendre les zones à faibles émissions Métropole du Grand Paris &
+   Ville de Paris
+   La source principale d’émissions ...
+   02/07/2019
+   Fin du premier épisode de pollution à l’Ozone - Situation au 01/07/2019
+   L’Île-de-France a connu un ...
+   26/06/2019
+   Canicule et ozone - Situation au 27/06/2019
+   L’Île-de-France subit actuellement ...
+   17/06/2019
+   Lancement du Parcours Santé du dispositif de formations AIRDUCATION
+   Lundi 17 juin 2019, l’Université ...
+   11/06/2019
+   Surveillance de l’air suite à l’incendie de Notre Dame #3
+   Sur la période du 15 au 22 avril, ...
+   05/06/2019
+   24Air
+   Le premier calculateur qui permet ...
+   06/05/2019
+   Surveillance de l’air suite à l’incendie de Notre-Dame #2
+   Les résultats des analyses de plomb ...
+   19/04/2019
+   Inventaire des émissions 2015
+   Airparif publie l’inventaire des ...
+
+IntAIRactif IntAIRactif
+
+   Quel air est-il ?
+   Open data
+   Effet de serre, pollution au quotidien, à proximité du trafic...
+   Questions fréquentes
+   Questions fréquentes
+   24Air
+
+Restez informé :
+
+   Mailing-list d'Airparif
+   Airparif sur Facebook Airparif sur Twitter Flux RSS Airparif
+   Application Airparif sur Apple store Application Airparif sur Google
+   play Site optimisé pour smartphone
+   Mentions légales | Plan du site
+   © 2010 Airparif - Design Clair et Net.

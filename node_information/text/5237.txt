@@ -1,0 +1,255 @@
+   Logo ministère Logo DGDDI Logo institut de la stat Logo site
+     *  Flux RSS
+     *  Aide et contact
+     *  Tweeter
+
+     * [maison.png]
+     * Synthèse & indicateurs
+
+          + ** Données CSV-CJO **
+          + L'indicateur économique FAB-FAB
+          + Synthèse mensuelle
+          + Synthèse annuelle - Structure
+          + Analyse produits
+          + Analyse pays
+          + Palmares
+     * Données Produits
+       ventilées par pays
+          + ** Données brutes **
+          + En Nomenclature agrégée
+          + En CPF
+          + En Nomenclature détaillée NC8
+     * Données Pays
+       ventilées par produits
+          + ** Données brutes **
+          + Selon la Nomenclature agrégée
+          + Selon la CPF
+          + Selon la NC8 (téléchargement)
+     * Données Régions
+
+          + ** Données brutes **
+          + Analyse régionale
+          + Comparaisons
+          + Cartographie
+     * Etudes et bilans
+
+          + Etudes et Eclairages
+          + Bilans périodiques
+          + Fiches thématiques
+          + Bilans opérateurs
+     * Méthodes
+
+          + Concepts et méthodes
+          + Traitements statistiques
+          + Glossaire
+          + Nomenclatures
+          + Normes de qualité
+          + Comparaisons internationales
+          + Données Eurostat
+     * Téléchargement
+
+          + des données agrégées
+          + des données produits
+          + des données pays
+          + des données régions
+          + des nomenclatures
+          + Bases complètes
+
+Autres publications
+
+     * Analyse trimestrielle  2ème trimestre 2019 [PDF]
+     * Analyse annuelle  Année 2018 [PDF]
+     *  Les échanges commerciaux avec le Japon et le traité de libre
+       échange (Jefta) [PDF]
+     *  Les opérateurs en 2018 : résultats provisoires [PDF]
+     *  Les brochures régionales du 2ème trimestre 2019 actualisées  [PDF]
+
+Accès direct
+
+     * Résultats FAB-FAB du mois
+     * Télécharger les séries essentielles (indicateurs) [CSV : <100 Ko]
+     * Les livraisons d'airbus
+     * Vous souhaitez des données pour un produit particulier ?
+        Accéder aux données de la nomenclature détaillée (NC8)
+
+   Analyse mensuelle - juillet 2019
+
+   Le solde du commerce extérieur de marchandises de la France s'établit à
+   :
+   -4,607 milliards d'euros
+
+   Version imprimable
+
+   Données complémentaires
+
+   En tendance, le solde du commerce extérieur se dégrade en juillet,
+   après avoir connu trois mois de stabilité. C’est le résultat d’un repli
+   des exportations, alors que les importations restent stables.
+   Cette dégradation du solde concerne les biens d’investissement et de
+   consommation, la tendance restant stable pour les produits énergétiques
+   et les biens intermédiaires.
+   Solde commercial de la France (Biens) Données FAB/FAB
+
+   LE SOLDE FLÉCHIT EN MOYENNE SUR TROIS MOIS
+
+   En tendance (moyenne mobile centrée sur 3 mois), le solde fléchit en
+   juillet de 0,6 milliard après trois mois de stabilité. La dégradation
+   observée en tendance ramène le déficit à son niveau de mi-2018,
+   achevant d’effacer l’embellie observée depuis le troisième trimestre
+   2018.
+
+   Ce sont les exportations qui se replient en juillet, après avoir
+   précédemment bénéficié d’importantes exportations de matériel
+   militaire, de produits de la construction aéronautique et spatiale et
+   de produits pharmaceutiques. De leur côté les importations demeurent
+   stables.
+
+   En cumul sur les 12 derniers mois, le solde reste stable depuis mai. Il
+   atteint –54,6 milliards d’euros d’août 2018 à juillet 2019, contre
+   –57,7 milliards d’euros d’août 2017 à juillet 2018.
+
+   1-  Montants mensuels des échanges et solde FAB/FAB ^(1)
+   En Md€  Données mensuelles Moyennes mobiles centrées trois mois ^(2)
+   07.2019 06.2019 05.2019 04.2019 MM 07.2019 MM 06.2019 MM 05.2019 MM
+   04.2019
+   Ensemble FAB/FAB ^(1), y compris matériel militaire et données sous le
+   seuil
+   Solde -4,6 -5,3 -3,3 -4,8 -5,0 -4,4 -4,4 -4,4
+   Exportations 42,2 41,8 44,0 42,2 42,0 42,7 42,6 43,1
+   Importations 46,8 47,0 47,3 47,0 47,0 47,0 47,1 47,5
+   [IMG1P1.JPG]
+
+
+   [IMG2P1.JPG]
+
+
+   Echanges par produits Données CAF/FAB
+
+   LE SOLDE HORS ENERGIE DIMINUE EN JUILLET
+
+   En tendance, le solde énergétique CAF/FAB^(3), qui progressait
+   légèrement ces trois derniers mois se stabilise, dans un contexte de
+   fléchissement tendanciel des deux flux d’échanges.
+
+   Hors énergie, le solde des échanges est en revanche en repli de 0,6 Md€
+   en tendance, pour s’établir en juillet à –2,8 Mds€. Cette évolution
+   assez marquée est due à une contraction des exportations alors que les
+   importations se stabilisent.
+
+   2-  Soldes mensuels des échanges CAF/FAB ^(3): énergie et hors énergie
+   En Md€  Données mensuelles Moyennes mobiles centrées trois mois ^(2)
+   07.2019 06.2019 05.2019 04.2019 MM 07.2019 MM 06.2019 MM 05.2019 MM
+   04.2019
+   Ensemble CAF/FAB ^(1), y compris matériel militaire et données sous le
+   seuil
+   Solde -6,2 -6,9 -4,9 -6,4 -6,6 -6,0 -6,0 -6,1
+   Énergie -3,7 -3,8 -3,9 -4,1 -3,8 -3,8 -3,9 -4,1
+   CAF/FAB hors énergie -2,5 -3,1 -1,0 -2,3 -2,8 -2,2 -2,1 -2,0
+
+
+   [IMG3P2.JPG]
+
+
+   LE SOLDE EN BIENS D’INVESTISSEMENT RESTE ORIENTÉ À LA BAISSE
+
+   La tendance demeure à la diminution pour le solde en biens
+   d’investissement. En moins d’un an, le déficit moyen s’est ainsi creusé
+   de près de 1 Md€, après s’être réduit d’un montant similaire aux second
+   et troisième trimestres 2018.
+
+   Depuis le début de l’année, la hausse des importations ne se dément
+   pas, tandis que les exportations ont interrompu leur progression de
+   2018, notamment pour les matériels de transport et, plus récemment,
+   pour les équipements électroniques.
+
+   3-  Soldes mensuels des échanges CAF/FAB ^(3) de biens d'investissement
+   ^(4)
+     [IMG4P2.JPG]
+
+   LE SOLDE DIMINUE ÉGALEMENT POUR LES BIENS DE CONSOMMATION
+
+   En juillet 2019, le solde en biens de consommation s’effrite de
+   0,1 Md€, tout en restant plus élevé qu’en début d’année. L’évolution à
+   mettre en exergue est le dynamisme des exportations et, tout
+   particulièrement, de celles des produits pharmaceutiques.
+
+   À l’importation, la tendance se raffermit depuis deux mois, avec
+   également une contribution déterminante de l’industrie pharmaceutique
+   dont les approvisionnements rebondissent après avoir chuté depuis le
+   début d’année. Cette évolution limite actuellement la progression du
+   solde, qui a néanmoins augmenté de 0,5 Md€ depuis début 2018.
+
+   4-  Soldes mensuels des échanges CAF/FAB ^(3) de biens de consommation
+   ^(4)
+     [IMG5P3.JPG]
+
+
+   LE SOLDE EN BIENS INTERMÉDIAIRES EST STABLE
+
+   En tendance, le solde en biens intermédiaires demeure parfaitement
+   stable.
+
+   Les exportations et les importations s’atténuent conjointement mais
+   toutefois pour des produits différents : à l’exportation la diminution
+   affecte surtout les produits métallurgiques et métalliques, tandis qu’à
+   l’importation, ce sont les produits chimiques qui s’avèrent les
+   premiers concernés.
+
+   5-  Soldes mensuels des échanges CAF/FAB ^(3) de biens intermédiaires
+   ^(4)
+     [IMG6P3.JPG]
+
+   6-  Évolution des échanges CAF/FAB ^(3) de produits manufacturés par
+   usage final ^(4)
+   En Md€  Données mensuelles Moyennes mobiles centrées trois mois ^(2)
+   07.2019 06.2019 05.2019 04.2019 MM 07.2019 MM 06.2019 MM 05.2019 MM
+   04.2019
+   Solde
+   Biens d'investissement -0,9 -1,0 -0,3 -0,7 -1,0 -0,8 -0,7 -0,6
+   Biens intermédiaires -1,5 -1,5 -1,2 -1,4 -1,4 -1,4 -1,4 -1,4
+   Biens de consommation -0,5 -0,7 -0,3 -0,6 -0,6 -0,5 -0,5 -0,5
+   Exportations
+   Biens d'investissement 15,4 15,3 16,0 15,2 15,3 15,5 15,5 15,6
+   Biens intermédiaires 10,9 11,0 11,3 11,1 11,0 11,1 11,2 11,2
+   Biens de consommation 12,0 11,7 12,1 11,6 11,9 11,9 11,8 11,9
+   Importations
+   Biens d'investissement 16,3 16,3 16,3 15,9 16,3 16,3 16,2 16,2
+   Biens intermédiaires 12,4 12,5 12,6 12,6 12,4 12,5 12,5 12,6
+   Biens de consommation 12,4 12,4 12,4 12,2 12,5 12,4 12,3 12,5
+
+
+
+   ^(1)  Échanges FAF/FAB en Md€ corrigés des variations saisonnières et
+   des effets des jours ouvrables (CVS-CJO)
+   ^(2)  NB : Le dernier point de la moyenne centrée sur 3 mois est
+   estimé.
+   ^(3)  Échanges CAF/FAB en Md€ corrigés des variations saisonnières et
+   des effets des jours ouvrables (CVS-CJO)
+   ^(4)  Les produits manufacturés peuvent être structurés par usage final
+   à l’aide de la nomenclature des principaux regroupements industriels,
+   ce qui est  particulièrement adaptée à l'analyse économique.
+
+
+   Pour plus de précisions sur les concepts et la méthodologie utilisés,
+   se reporter au glossaire
+
+
+   Logo ministère  service-public.fr     Logo légifrance
+   legifrance.gouv.fr     Logo gouvernement  gouvernement.fr     Logo
+   France  france.fr
+
+     * Qui sommes nous
+     * Calendrier
+     * FAQ
+     * Contacts
+     * Liens partenaires
+     * Votre avis
+     * Mentions légales
+
+
+
+
+
+
+
+

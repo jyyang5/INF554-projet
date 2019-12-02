@@ -1,0 +1,505 @@
+   #alternate alternate
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Publié le 4 septembre 2019
+
+Ne plus envoyer le mot de passe par email
+
+   Photo by CMDR Shane on Unsplash
+
+   Si vous utilisez une "vieille" version de PrestaShop; avant la branche
+   1.7; vous avez certainement remarqué que le mot de passe saisie par vos
+   clients est envoyé en claire dans l'email de confirmation
+   d'inscription.
+
+   C'est une fonctionnalité qui peut faciliter le piratage du compte
+   client, si quelqu'un de mal attentionné tombe dessus, mais ce n'est pas
+   une grosse faille de sécurité puisque les mots de passes sont cryptés
+   dans la base de données.
+
+   Néanmoins, vous pouvez améliorer cela en n'envoyant plus cette donnée
+   sensible par email.
+
+   Je vous propose une méthode très simple pour corriger cela.
+
+Modification de template
+
+   à l'aide de votre client FTP préféré, vous devez intervenir sur les
+   fichiers //mails/code langue/account.html et //mails/code
+   langue/account.txt; code langue correspondant au code iso de la langue
+   à modifier, il est évident que si vous avez plusieurs langues, vous
+   devez intervenir dans les fichiers de chaque langue.
+   Il est préférable de les copier dans le répertoire de votre template
+   pour conserver cette modification malgrè les mises à jour de
+   PrestaShop.
+   Donc, il faut les enregistrer dans le répertoire //themes/votre
+   template/mails/code langue/account.html et .txt; votre template
+   correspond au nom du répertoire du thème actif dans le backoffice de
+   votre boutique PrestaShop.
+
+   Dans ces 2 fichiers vous devez les éditer et modifier ces lignes :
+
+   account.html
+   <td align="left"><strong>Thank you for creating a customer account at
+   {shop_name}.</strong><br /><br /> Here are your login details:<br /><br
+   /> E-mail address: <strong><span style="color:
+   {color};">{email}</span></strong> <br />Password:
+   <strong>{passwd}</strong></td>
+   à remplacer par
+   <td align="left"><strong>Thank you for creating a customer account at
+   {shop_name}.</strong><br /><br /> Here are your login details:<br /><br
+   /> E-mail address: <strong><span style="color:
+   {color};">{email}</span></strong> <br />Password:
+   <strong>******</strong></td>
+
+   account.txt
+   Password: {passwd}
+   à remplacer par
+   Password: ******
+
+   Vous devez faire de même pour les fichiers guest_to_customer.html et
+   .txt. qui est envoyé lorsque un compte invité est transformé en compte
+   client et même password.html et .txt qui sont envoyés lorsque le client
+   change de mot de passe.
+
+
+
+     * Astuces
+     * PrestaShop
+     * Sécurité
+     * Tutoriel
+
+   Article précédent
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   Tanguy JACQUET
+
+Tanguy JACQUET
+
+   Freelance depuis 2008, Expert PrestaShop depuis 2008, spécialiste du
+   e-commerce depuis 1999, tombé dans Internet en 1994 et dans
+   l'informatique depuis 1981 et un ZX81 rapporté à la maison.
+
+Commentaires
+
+   Veuillez activer JavaScript pour voir les commentaires générés par
+   Disqus.
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #alternate alternate
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Publié le 7 août 2019
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   Photo by Denny Müller on Unsplash
+
+   Suite au Topic posté par flyman30 sur le forum officiel francophone de
+   PrestaShop, j'ai pris le temps de tester et de constater que sur la
+   version 1.7.6.0 de PrestaShop il était impossible d'effacer tous les
+   Logs qui se cumulent rapidement lorsque l'on utilise sa boutique et
+   donc, à terme, ralentissent le traitement de la base de données.
+
+   En suivant la procédure habituelle en place depuis le passage sur
+   Github, j'ai pris le temps de créer une Issue et d'informer PrestaShop.
+   La prise en charge fut rapide et surtout, le soucis fut déjà constaté
+   par un autre membre de la communauté et une solution corrective est
+   proposée.
+     * Topic intial
+       : https://github.com/PrestaShop/PrestaShop/issues/15014
+     * Topic relatif
+       : https://github.com/PrestaShop/PrestaShop/issues/14686
+     * Correctif proposé
+       : https://github.com/PrestaShop/PrestaShop/pull/14701
+
+   Le correctif comporte 9 fichiers à corriger, si vous ne savez pas
+   mettre en place cette correction sur votre boutique PrestaShop, je peux
+   m'en charger pour vous pour un simple ticket d'intervention à commander
+   sur PrestaToolBox.
+
+     * Astuces
+     * PrestaShop
+     * Tutoriel
+
+   Article précédent
+
+Afficher images après migration
+
+   Article suivant
+
+Ne plus envoyer le mot de passe par email
+
+Mediacom87
+
+Articles similaires
+
+Enregistrement produit impossible
+
+   15 avril 2019
+
+Commentaires
+
+   Veuillez activer JavaScript pour voir les commentaires générés par
+   Disqus.
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #alternate alternate
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Publié le 28 juin 2019
+
+Afficher images après migration
+
+   Photo by Samuel Zeller on Unsplash
+
+   Que vous fassiez une migration de serveur ou que vous mettez en ligne
+   votre installation local (ou inversement), vous pouvez avoir le soucis
+   que vos images ne s'affichent pas sur votre site PrestaShop.
+
+   Cela est totalement normal et est très simple à corriger en quelques
+   cliques.
+    1. Rendez-vous dans la section SEO&URLs de votre backoffice.
+       PS1.6 : Préférences >> SEO&URLs
+       PS1.7 : Paramètres de la boutique >> Trafic et SEO > Onglet
+       SEO&URLs
+    2. Désactiver l'option : URL simplifiée
+    3. Enregistrer
+    4. Activer l'option : URL simplifiée
+    5. Enregistrer
+
+   Et normalement vos images apparaissent de nouveau sur votre site.
+
+   Si tel n'est pas le cas, vous pouvez aussi générer une nouvelle fois
+   vos miniatures.
+
+     * Astuces
+     * PrestaShop
+     * Tutoriel
+
+   Article précédent
+
+Mon nouveau site se dévoile enfin
+
+   Article suivant
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   Tanguy JACQUET
+
+Tanguy JACQUET
+
+   Freelance depuis 2008, Expert PrestaShop depuis 2008, spécialiste du
+   e-commerce depuis 1999, tombé dans Internet en 1994 et dans
+   l'informatique depuis 1981 et un ZX81 rapporté à la maison.
+
+Articles similaires
+
+   Photo by Paul Bence on Unsplash
+
+Dpi or not Dpi pour mes images web
+
+   17 juin 2019
+
+Optimisez le poids de vos images
+
+   12 octobre 2015
+
+Interdire la copie des textes et images de votre e-commerce
+
+   13 juin 2013
+
+Commentaires
+
+   Veuillez activer JavaScript pour voir les commentaires générés par
+   Disqus.
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #alternate alternate
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Publié le 18 juin 2019
+
+Mon nouveau site se dévoile enfin
+
+   Photo by Michal Bar Haim on Unsplash
+
+   Depuis des années, mon site n'avait pas vraiment évolué, comme nous le
+   disons tous souvent, ce sont les cordonniers les plus mal chaussés.
+
+   Tout freelance connait cette difficulté de dégager du temps pour sa
+   propre image et sa communication. Pourtant, un point essentiel dans
+   notre monde numérique si  l'on souhaite conserver ou développer sa
+   notoriété.
+
+   Notoriété, quel mot étrange lorsque l'on fait le choix de devenir
+   freelance. Qui veut réellement se mettre autant en avant alors que nos
+   compétences devraient parler d'elles-même.
+
+   C'est simplement un soucis d'échelle. Si vous êtes employé dans une
+   entreprise, alors, vous pouvez prouver quotidiennement votre valeur
+   aurpès de vos collègues et de votre direction. Mais pour un freelance
+   sur Internet, il devient primordiale de communiquer pour faire
+   connaître ses compétences au reste du monde.
+
+   D'où, la refonte complète de mon site en essayant de changer les
+   choses, pour les améliorer.
+
+   La première version de mon site était basé sur une solution noDB en XML
+   qu'est Get Simple. C'est un cms assez bien fait, mais qui n'évolue plus
+   assez pour suivre les structures techniques et les nouvelles
+   recommendations du Web. Mais je vous conseille vivement de découvrir
+   cette solution et peut-être y participer pour dynamiser tout cela.
+
+   Pour cette nouvelle version, je fus encore plus radical et j'ai décidé
+   de partir sur une solution statique afin de proposer une expérience
+   utilisateur meilleur avec des temps de changement réduits au maximum.
+
+   Après plusieurs tests, je me suis tourné vers la solution GetPublii que
+   j'ai expérimenté en premier pour faire la documentation de module de
+   synchronisation entre PrestaShop et Mailchimp.
+
+   Cette solution est une bonne base, même si elle comporte
+   certains écueils comme l'absence de gestion de formulaires (contourné
+   grâce à des solutions externes comme typeform) ou encore un système
+   permettant d'afficher les images en taille originale au clic.
+
+   En tout cas, j'ai fait un grand ménage sur des articles vieux et
+   obsolètes pour ne conserver que les sujets importants et mon objectif
+   de 2019 est clairement de proposer plus d'articles pour aider les
+   Internautes à appréhender plus facilement le e-commerce et tout
+   particulièrement PrestaShop.
+
+   Autre objectif de l'année, assumer mon statut et ma personne en axant
+   ma communication sur une personnalisation au lieu de me cacher derrière
+   un ton plus journaliste et neutre que le mien.
+
+     * Tout public
+
+   Article précédent
+
+Dpi or not Dpi pour mes images web
+
+   Article suivant
+
+Afficher images après migration
+
+   Tanguy JACQUET
+
+Tanguy JACQUET
+
+   Freelance depuis 2008, Expert PrestaShop depuis 2008, spécialiste du
+   e-commerce depuis 1999, tombé dans Internet en 1994 et dans
+   l'informatique depuis 1981 et un ZX81 rapporté à la maison.
+
+Articles similaires
+
+   La rochelle Coworking - WorkingShare
+
+Site institutionnel - Workingshare
+
+   18 avril 2014
+
+Lancement du nouveau site de l'ANTAB / AFTLM
+
+   25 septembre 2012
+
+Protégez vos données en sauvegardant automatiquement votre site
+
+   22 mai 2012
+
+Commentaires
+
+   Veuillez activer JavaScript pour voir les commentaires générés par
+   Disqus.
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #alternate alternate
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Publié le 17 juin 2019
+
+Dpi or not Dpi pour mes images web
+
+   Photo by Paul Bence on Unsplash
+
+   Cela fait des années, maintenant, qu'Internet existe, des années que le
+   monde du print essaye de venir faire des incusions dans cette bulle et
+   que cela provoque des incompréhensions entre nos deux mondes.
+
+Qu'est ce que le Dpi d'une image ?
+
+   Le Dpi (Points par pouces) est une valeur définissant la qualité
+   d'impression d'un document, en indiquant le nombre de points à imprimer
+   par pouce. On peut donc en déduire que plus cette valeur est importante
+   plus l'image imprimée sera de qualité. Ce point n'est pas taoelement
+   vrai pusique cela dépendra de la technique d'impression utilisée, c'est
+   pour cela, que depuis l'avenement de l'impression jnumérique et des
+   appareil photos numlériques, on considère que la "résolution" parfaite
+   pour une image sera de 300 Dpi.
+
+   Je ne vais pas extrapoler sur le sujet qui concerne les photographes et
+   les imprimeurs, qui, je l'espère, possèdent toutes les connaissances
+   nécessaires sur ce point.
+
+   Vous trouver une approche plus profonde de la définition du Dpi sur
+   wikipedia.
+
+Quel Dpi pour les images de mon site ?
+
+   En partant de l'approche définie précédement on peut légitimement se
+   demander qu'el Dpi nous devons appliquer à nos images porésentes sur
+   nos site Internet.
+
+   Si vous vous êtes renseignez, vous devez savoir que l'on considère
+   qu'un écran d'ordinateur a un affichage à 72 Dpi. Donc, on peut se dire
+   que nos images, pour être affichées convenablement, doivent toutes
+   avoir un Dpi de 72 dans leur définition. Logique impmarable et que nous
+   appliquions tous dans les années 90 à modifier toutes nos images pour
+   avoir cette résolution.
+
+   Sauf que tout cela est tiotalement inutile puisque cette valeur de Dpi
+   n'est utilisée que pour imprimer un document.
+
+   Ainsi, si votre images est définie en pixel, comme ccela est le cas sur
+   Internet lors du développement de votre site, vous pouvez changer à
+   n'improte quelle valeur les Dpi, l'image aura toujours le même poids et
+   les même dimension sur l'écran de votre ordinateur.
+
+   Une image de 640x480 pixels qu'elle soit en 72 Dpi ou en 300 Dpi fera
+   toujours 640x480 pixels. Par contre, si vous souhaitez l'imprimer, la
+   première, à 72 Dpi mesurera 22,578x16,933 cm alors que la seconde
+   mesurera seulement 5,419x4,064 cm puisque la concentration de points
+   sera plus important.
+
+Conclusion
+
+   Ce qui ressort de tout cela c'ets qu'il faut absoluement bannir la
+   notion de Dpi de toute vos productions web et ne vous concentrer que
+   sur les dimensions en pixels de vos images.
+
+   Une image de 640x480 pixel ne changera jamais avec le Dpi sur vos
+   écrans qui sont eux, définie en pixels.
+
+     * Astuces
+     * Design
+
+   Article précédent
+
+Remplacer directement en SQL
+
+   Article suivant
+
+Mon nouveau site se dévoile enfin
+
+   Tanguy JACQUET
+
+Tanguy JACQUET
+
+   Freelance depuis 2008, Expert PrestaShop depuis 2008, spécialiste du
+   e-commerce depuis 1999, tombé dans Internet en 1994 et dans
+   l'informatique depuis 1981 et un ZX81 rapporté à la maison.
+
+Articles similaires
+
+   Photo by Samuel Zeller on Unsplash
+
+Afficher images après migration
+
+   28 juin 2019
+
+Optimisez le poids de vos images
+
+   12 octobre 2015
+
+Interdire la copie des textes et images de votre e-commerce
+
+   13 juin 2013
+
+Commentaires
+
+   Veuillez activer JavaScript pour voir les commentaires générés par
+   Disqus.
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking

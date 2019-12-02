@@ -1,0 +1,544 @@
+   Accueil Fonctionnalités Historique Faire un don Foire aux questions
+   Aspect juridique
+   Captvty
+   Faire un don
+
+   ANNONCES
+
+   17/09 La liste des émissions de Canal+, C8 et CStar n’est plus
+   disponible actuellement.
+
+   DERNIÈRE VERSION
+   Version 2.8.2 publiée le 17 septembre 2019. Afficher les détails des
+   fichiers.
+   Télécharger (archive ZIP)   Télécharger (auto-extractible)
+
+   Découvrir Captvty 3 (version alpha publiée il y a 1 mois et demi)
+   Comment faire pour mettre à jour Captvty ?
+   Nom du fichier captvty-2.8.2.zip captvty-2.8.2-autoextract.exe
+   Taille 15,1 Mo 9,99 Mo
+   SHA-1 9b9fcd8e516d10b85096166535a31b0fe9124d13
+   562bffdbf9c1fcb5598405ef9e4822d5843fd6a4 ?
+
+
+   SHA-1 (Secure Hash Algorithm) est une fonction de hachage
+   cryptographique produisant un résultat appelé hash, condensat,
+   empreinte ou encore signature. De la même manière qu’une empreinte
+   digitale est propre à chaque individu, un hash est théoriquement propre
+   à chaque fichier pouvant exister. La présence de la signature SHA-1 sur
+   captvty.fr permet donc de vérifier si le fichier téléchargé correspond
+   bien au fichier proposé sur captvty.fr.
+
+   Si le fichier est endommagé à cause d’une erreur pendant le
+   téléchargement, ou si vous possédez un fichier qui porte le même nom
+   mais dont le contenu aurait été modifié, alors la signature SHA-1 sera
+   différente. Dit autrement, le fichier que vous possédez n’est pas le
+   bon.
+
+   Pour obtenir la signature SHA-1 du fichier téléchargé (ou de n’importe
+   quel autre), vous pouvez installer 7-Zip. La signature sera affichée
+   après avoir choisi la commande CRC SHA dans le menu contextuel de
+   n’importe quel fichier.
+
+   Accédez, depuis un point unique grâce à Captvty, aux directs et à une
+   multitude d’émissions proposées au rattrapage par différentes chaînes
+   de télévision.
+
+   Captvty est gratuit et espère satisfaire de nombreux utilisateurs.
+
+Modifications apportées par la dernière version
+
+     * Correction d’un défaut spécifique dans la prise en charge du direct
+       de France Télévisions qui peut se manifester par une interruption
+       définitive de l’image ou du son à un instant donné.
+     * Mise à jour de l’accès à la liste des émissions disponibles ou non
+       d’ICI TOU.TV.
+     * Mise à jour de l’accès à la liste des émissions de NRJ 12, CNews,
+       RMC Story et Chérie 25.
+     * Ajout de l’accès à la liste des rencontres de la Coupe du monde de
+       rugby à XV 2019.
+
+Problèmes connus
+
+     * L’accès à certains contenus n’est pas garanti sous Windows XP en
+       raison de l’absence de prise en charge par ce système
+       d’exploitation des protocoles TLS 1.1 et TLS 1.2 devenus
+       obligatoires sur certains sites Web.
+
+Modifications précédemment apportées par la version 2.8.1
+
+     * Correction de la prise en charge du direct multilingue diffusé par
+       France Télévisions.
+     * La conversion au format MPEG-4 des fichiers MPEG-2 TS multilingues
+       n’est pas conseillée actuellement (cela peut entraîner une perte de
+       synchronisation audio) ; il est recommandé de conserver le fichier
+       d’origine ou bien de choisir le format Matroska.
+     * Amélioration globale de la fiabilité des enregistrements.
+     * Mise à jour de l’accès au direct de C8 et CStar.
+     * Rétrogradation de la version 35 à la version 29 des outils
+       mkvextract et mkvmerge pour bénéficier de la compatibilité avec les
+       fichiers MPEG-2 TS multilingues tout en s’assurant de leur
+       fonctionnement sous Windows XP.
+
+Modifications précédemment apportées par la version 2.8
+
+     * Introduction de la prise en charge des pistes audio multiples
+       pouvant être disponibles sur le direct. Cela comprend la piste
+       audio de commentaires lorsque le programme est disponible en
+       audiodescription, la piste audio de la version originale lorsque le
+       programme est proposé en version multilingue, et d’autres pistes
+       audio le cas échéant. Ces pistes audio sont incluses dans les
+       fichiers MPEG-2 TS des enregistrements et sont conservées lors de
+       la conversion au format Matroska ou MPEG-4. Ces pistes audio sont
+       identifiées selon la norme ISO 639-2, qui associe un code à une
+       langue soit connue soit propre à la diffusion, par exemple :
+
+     * « fra » ou « fre » correspond au français ;
+     * « qad » correspond généralement à l’audiodescription ;
+     * « qaa » correspond généralement à la langue d’origine ;
+     * « und » correspond à une langue indéterminée.
+
+     Ajout d’un menu contextuel dans la liste des enregistrements
+   permettant d’ouvrir l’emplacement du fichier, d’arrêter
+   l’enregistrement ou de le supprimer de la liste ou du disque dur.
+
+     Mise à jour de l’accès aux contenus en 720p des chaînes du groupe M6.
+
+     Mise à jour de l’accès à la liste des émissions de RMC Découverte et
+   de France 24.
+
+     Mise à jour de l’accès à certains contenus de France Télévisions.
+
+     Mise à jour des outils mkvextract et mkvmerge.
+
+   Logiciel gratuit. Nécessite Microsoft Windows avec Microsoft .NET
+   Framework 4. Peut également fonctionner sous Linux et macOS.
+
+   contact arobase captvty point fr
+
+   © 2011-2019, Guillaume
+
+   Les contenus proposés sont ceux mis à disposition du public par les
+   services de télévision. Logiciel gratuit, mais pas libre. Vous n’êtes
+   pas autorisé à distribuer, réutiliser, modifier ou décompiler, tout ou
+   partie du logiciel. Le logiciel est susceptible d’être distribué
+   accompagné d’autres logiciels qui restent la propriété de leurs auteurs
+   respectifs et qui sont soumis à leur licence d’utilisation respective,
+   et dont la fonction se limite exclusivement au téléchargement et au
+   traitement des contenus vidéo. En dehors de ces contenus vidéo et des
+   paramètres de configuration, aucune modification n’est apportée au
+   système et aucune information n’est à aucun moment stockée sur ou
+   récupérée du système sur lequel sont exécutés le logiciel et ses
+   composantes. L’auteur du programme attire aussi l’attention de
+   l’utilisateur sur le fait que le bon fonctionnement du logiciel ne peut
+   en aucun cas être garanti et que l’accès aux émissions peut échouer
+   sans préavis et pour une durée indéterminée. Captvty.fr est hébergé par
+   la société OVH (2 rue Kellermann, 59100 Roubaix, France).
+   Accueil Fonctionnalités Historique Faire un don Foire aux questions
+   Aspect juridique
+   Captvty
+   Faire un don
+
+   ANNONCES
+
+   17/09 La liste des émissions de Canal+, C8 et CStar n’est plus
+   disponible actuellement.
+
+   DERNIÈRE VERSION
+   Version 2.8.2 publiée le 17 septembre 2019. Afficher les détails des
+   fichiers.
+   Télécharger (archive ZIP)   Télécharger (auto-extractible)
+
+   Découvrir Captvty 3 (version alpha publiée il y a 1 mois et demi)
+   Comment faire pour mettre à jour Captvty ?
+   Nom du fichier captvty-2.8.2.zip captvty-2.8.2-autoextract.exe
+   Taille 15,1 Mo 9,99 Mo
+   SHA-1 9b9fcd8e516d10b85096166535a31b0fe9124d13
+   562bffdbf9c1fcb5598405ef9e4822d5843fd6a4 ?
+
+
+   SHA-1 (Secure Hash Algorithm) est une fonction de hachage
+   cryptographique produisant un résultat appelé hash, condensat,
+   empreinte ou encore signature. De la même manière qu’une empreinte
+   digitale est propre à chaque individu, un hash est théoriquement propre
+   à chaque fichier pouvant exister. La présence de la signature SHA-1 sur
+   captvty.fr permet donc de vérifier si le fichier téléchargé correspond
+   bien au fichier proposé sur captvty.fr.
+
+   Si le fichier est endommagé à cause d’une erreur pendant le
+   téléchargement, ou si vous possédez un fichier qui porte le même nom
+   mais dont le contenu aurait été modifié, alors la signature SHA-1 sera
+   différente. Dit autrement, le fichier que vous possédez n’est pas le
+   bon.
+
+   Pour obtenir la signature SHA-1 du fichier téléchargé (ou de n’importe
+   quel autre), vous pouvez installer 7-Zip. La signature sera affichée
+   après avoir choisi la commande CRC SHA dans le menu contextuel de
+   n’importe quel fichier.
+
+   Accédez, depuis un point unique grâce à Captvty, aux directs et à une
+   multitude d’émissions proposées au rattrapage par différentes chaînes
+   de télévision.
+
+   Captvty est gratuit et espère satisfaire de nombreux utilisateurs.
+
+Modifications apportées par la dernière version
+
+     * Correction d’un défaut spécifique dans la prise en charge du direct
+       de France Télévisions qui peut se manifester par une interruption
+       définitive de l’image ou du son à un instant donné.
+     * Mise à jour de l’accès à la liste des émissions disponibles ou non
+       d’ICI TOU.TV.
+     * Mise à jour de l’accès à la liste des émissions de NRJ 12, CNews,
+       RMC Story et Chérie 25.
+     * Ajout de l’accès à la liste des rencontres de la Coupe du monde de
+       rugby à XV 2019.
+
+Problèmes connus
+
+     * L’accès à certains contenus n’est pas garanti sous Windows XP en
+       raison de l’absence de prise en charge par ce système
+       d’exploitation des protocoles TLS 1.1 et TLS 1.2 devenus
+       obligatoires sur certains sites Web.
+
+Modifications précédemment apportées par la version 2.8.1
+
+     * Correction de la prise en charge du direct multilingue diffusé par
+       France Télévisions.
+     * La conversion au format MPEG-4 des fichiers MPEG-2 TS multilingues
+       n’est pas conseillée actuellement (cela peut entraîner une perte de
+       synchronisation audio) ; il est recommandé de conserver le fichier
+       d’origine ou bien de choisir le format Matroska.
+     * Amélioration globale de la fiabilité des enregistrements.
+     * Mise à jour de l’accès au direct de C8 et CStar.
+     * Rétrogradation de la version 35 à la version 29 des outils
+       mkvextract et mkvmerge pour bénéficier de la compatibilité avec les
+       fichiers MPEG-2 TS multilingues tout en s’assurant de leur
+       fonctionnement sous Windows XP.
+
+Modifications précédemment apportées par la version 2.8
+
+     * Introduction de la prise en charge des pistes audio multiples
+       pouvant être disponibles sur le direct. Cela comprend la piste
+       audio de commentaires lorsque le programme est disponible en
+       audiodescription, la piste audio de la version originale lorsque le
+       programme est proposé en version multilingue, et d’autres pistes
+       audio le cas échéant. Ces pistes audio sont incluses dans les
+       fichiers MPEG-2 TS des enregistrements et sont conservées lors de
+       la conversion au format Matroska ou MPEG-4. Ces pistes audio sont
+       identifiées selon la norme ISO 639-2, qui associe un code à une
+       langue soit connue soit propre à la diffusion, par exemple :
+
+     * « fra » ou « fre » correspond au français ;
+     * « qad » correspond généralement à l’audiodescription ;
+     * « qaa » correspond généralement à la langue d’origine ;
+     * « und » correspond à une langue indéterminée.
+
+     Ajout d’un menu contextuel dans la liste des enregistrements
+   permettant d’ouvrir l’emplacement du fichier, d’arrêter
+   l’enregistrement ou de le supprimer de la liste ou du disque dur.
+
+     Mise à jour de l’accès aux contenus en 720p des chaînes du groupe M6.
+
+     Mise à jour de l’accès à la liste des émissions de RMC Découverte et
+   de France 24.
+
+     Mise à jour de l’accès à certains contenus de France Télévisions.
+
+     Mise à jour des outils mkvextract et mkvmerge.
+
+   Logiciel gratuit. Nécessite Microsoft Windows avec Microsoft .NET
+   Framework 4. Peut également fonctionner sous Linux et macOS.
+
+   contact arobase captvty point fr
+
+   © 2011-2019, Guillaume
+
+   Les contenus proposés sont ceux mis à disposition du public par les
+   services de télévision. Logiciel gratuit, mais pas libre. Vous n’êtes
+   pas autorisé à distribuer, réutiliser, modifier ou décompiler, tout ou
+   partie du logiciel. Le logiciel est susceptible d’être distribué
+   accompagné d’autres logiciels qui restent la propriété de leurs auteurs
+   respectifs et qui sont soumis à leur licence d’utilisation respective,
+   et dont la fonction se limite exclusivement au téléchargement et au
+   traitement des contenus vidéo. En dehors de ces contenus vidéo et des
+   paramètres de configuration, aucune modification n’est apportée au
+   système et aucune information n’est à aucun moment stockée sur ou
+   récupérée du système sur lequel sont exécutés le logiciel et ses
+   composantes. L’auteur du programme attire aussi l’attention de
+   l’utilisateur sur le fait que le bon fonctionnement du logiciel ne peut
+   en aucun cas être garanti et que l’accès aux émissions peut échouer
+   sans préavis et pour une durée indéterminée. Captvty.fr est hébergé par
+   la société OVH (2 rue Kellermann, 59100 Roubaix, France).
+   Accueil Fonctionnalités Historique Faire un don Foire aux questions
+   Aspect juridique
+   Captvty
+   Faire un don
+
+   ANNONCES
+
+   17/09 La liste des émissions de Canal+, C8 et CStar n’est plus
+   disponible actuellement.
+
+   DERNIÈRE VERSION
+   Version 2.8.2 publiée le 17 septembre 2019. Afficher les détails des
+   fichiers.
+   Télécharger (archive ZIP)   Télécharger (auto-extractible)
+
+   Découvrir Captvty 3 (version alpha publiée il y a 1 mois et demi)
+   Comment faire pour mettre à jour Captvty ?
+   Nom du fichier captvty-2.8.2.zip captvty-2.8.2-autoextract.exe
+   Taille 15,1 Mo 9,99 Mo
+   SHA-1 9b9fcd8e516d10b85096166535a31b0fe9124d13
+   562bffdbf9c1fcb5598405ef9e4822d5843fd6a4 ?
+
+
+   SHA-1 (Secure Hash Algorithm) est une fonction de hachage
+   cryptographique produisant un résultat appelé hash, condensat,
+   empreinte ou encore signature. De la même manière qu’une empreinte
+   digitale est propre à chaque individu, un hash est théoriquement propre
+   à chaque fichier pouvant exister. La présence de la signature SHA-1 sur
+   captvty.fr permet donc de vérifier si le fichier téléchargé correspond
+   bien au fichier proposé sur captvty.fr.
+
+   Si le fichier est endommagé à cause d’une erreur pendant le
+   téléchargement, ou si vous possédez un fichier qui porte le même nom
+   mais dont le contenu aurait été modifié, alors la signature SHA-1 sera
+   différente. Dit autrement, le fichier que vous possédez n’est pas le
+   bon.
+
+   Pour obtenir la signature SHA-1 du fichier téléchargé (ou de n’importe
+   quel autre), vous pouvez installer 7-Zip. La signature sera affichée
+   après avoir choisi la commande CRC SHA dans le menu contextuel de
+   n’importe quel fichier.
+
+   Accédez, depuis un point unique grâce à Captvty, aux directs et à une
+   multitude d’émissions proposées au rattrapage par différentes chaînes
+   de télévision.
+
+   Captvty est gratuit et espère satisfaire de nombreux utilisateurs.
+
+Modifications apportées par la dernière version
+
+     * Correction d’un défaut spécifique dans la prise en charge du direct
+       de France Télévisions qui peut se manifester par une interruption
+       définitive de l’image ou du son à un instant donné.
+     * Mise à jour de l’accès à la liste des émissions disponibles ou non
+       d’ICI TOU.TV.
+     * Mise à jour de l’accès à la liste des émissions de NRJ 12, CNews,
+       RMC Story et Chérie 25.
+     * Ajout de l’accès à la liste des rencontres de la Coupe du monde de
+       rugby à XV 2019.
+
+Problèmes connus
+
+     * L’accès à certains contenus n’est pas garanti sous Windows XP en
+       raison de l’absence de prise en charge par ce système
+       d’exploitation des protocoles TLS 1.1 et TLS 1.2 devenus
+       obligatoires sur certains sites Web.
+
+Modifications précédemment apportées par la version 2.8.1
+
+     * Correction de la prise en charge du direct multilingue diffusé par
+       France Télévisions.
+     * La conversion au format MPEG-4 des fichiers MPEG-2 TS multilingues
+       n’est pas conseillée actuellement (cela peut entraîner une perte de
+       synchronisation audio) ; il est recommandé de conserver le fichier
+       d’origine ou bien de choisir le format Matroska.
+     * Amélioration globale de la fiabilité des enregistrements.
+     * Mise à jour de l’accès au direct de C8 et CStar.
+     * Rétrogradation de la version 35 à la version 29 des outils
+       mkvextract et mkvmerge pour bénéficier de la compatibilité avec les
+       fichiers MPEG-2 TS multilingues tout en s’assurant de leur
+       fonctionnement sous Windows XP.
+
+Modifications précédemment apportées par la version 2.8
+
+     * Introduction de la prise en charge des pistes audio multiples
+       pouvant être disponibles sur le direct. Cela comprend la piste
+       audio de commentaires lorsque le programme est disponible en
+       audiodescription, la piste audio de la version originale lorsque le
+       programme est proposé en version multilingue, et d’autres pistes
+       audio le cas échéant. Ces pistes audio sont incluses dans les
+       fichiers MPEG-2 TS des enregistrements et sont conservées lors de
+       la conversion au format Matroska ou MPEG-4. Ces pistes audio sont
+       identifiées selon la norme ISO 639-2, qui associe un code à une
+       langue soit connue soit propre à la diffusion, par exemple :
+
+     * « fra » ou « fre » correspond au français ;
+     * « qad » correspond généralement à l’audiodescription ;
+     * « qaa » correspond généralement à la langue d’origine ;
+     * « und » correspond à une langue indéterminée.
+
+     Ajout d’un menu contextuel dans la liste des enregistrements
+   permettant d’ouvrir l’emplacement du fichier, d’arrêter
+   l’enregistrement ou de le supprimer de la liste ou du disque dur.
+
+     Mise à jour de l’accès aux contenus en 720p des chaînes du groupe M6.
+
+     Mise à jour de l’accès à la liste des émissions de RMC Découverte et
+   de France 24.
+
+     Mise à jour de l’accès à certains contenus de France Télévisions.
+
+     Mise à jour des outils mkvextract et mkvmerge.
+
+   Logiciel gratuit. Nécessite Microsoft Windows avec Microsoft .NET
+   Framework 4. Peut également fonctionner sous Linux et macOS.
+
+   contact arobase captvty point fr
+
+   © 2011-2019, Guillaume
+
+   Les contenus proposés sont ceux mis à disposition du public par les
+   services de télévision. Logiciel gratuit, mais pas libre. Vous n’êtes
+   pas autorisé à distribuer, réutiliser, modifier ou décompiler, tout ou
+   partie du logiciel. Le logiciel est susceptible d’être distribué
+   accompagné d’autres logiciels qui restent la propriété de leurs auteurs
+   respectifs et qui sont soumis à leur licence d’utilisation respective,
+   et dont la fonction se limite exclusivement au téléchargement et au
+   traitement des contenus vidéo. En dehors de ces contenus vidéo et des
+   paramètres de configuration, aucune modification n’est apportée au
+   système et aucune information n’est à aucun moment stockée sur ou
+   récupérée du système sur lequel sont exécutés le logiciel et ses
+   composantes. L’auteur du programme attire aussi l’attention de
+   l’utilisateur sur le fait que le bon fonctionnement du logiciel ne peut
+   en aucun cas être garanti et que l’accès aux émissions peut échouer
+   sans préavis et pour une durée indéterminée. Captvty.fr est hébergé par
+   la société OVH (2 rue Kellermann, 59100 Roubaix, France).
+   Accueil Fonctionnalités Historique Faire un don Foire aux questions
+   Aspect juridique
+   Captvty
+   Faire un don
+
+   ANNONCES
+
+   17/09 La liste des émissions de Canal+, C8 et CStar n’est plus
+   disponible actuellement.
+
+   DERNIÈRE VERSION
+   Version 2.8.2 publiée le 17 septembre 2019. Afficher les détails des
+   fichiers.
+   Télécharger (archive ZIP)   Télécharger (auto-extractible)
+
+   Découvrir Captvty 3 (version alpha publiée il y a 1 mois et demi)
+   Comment faire pour mettre à jour Captvty ?
+   Nom du fichier captvty-2.8.2.zip captvty-2.8.2-autoextract.exe
+   Taille 15,1 Mo 9,99 Mo
+   SHA-1 9b9fcd8e516d10b85096166535a31b0fe9124d13
+   562bffdbf9c1fcb5598405ef9e4822d5843fd6a4 ?
+
+
+   SHA-1 (Secure Hash Algorithm) est une fonction de hachage
+   cryptographique produisant un résultat appelé hash, condensat,
+   empreinte ou encore signature. De la même manière qu’une empreinte
+   digitale est propre à chaque individu, un hash est théoriquement propre
+   à chaque fichier pouvant exister. La présence de la signature SHA-1 sur
+   captvty.fr permet donc de vérifier si le fichier téléchargé correspond
+   bien au fichier proposé sur captvty.fr.
+
+   Si le fichier est endommagé à cause d’une erreur pendant le
+   téléchargement, ou si vous possédez un fichier qui porte le même nom
+   mais dont le contenu aurait été modifié, alors la signature SHA-1 sera
+   différente. Dit autrement, le fichier que vous possédez n’est pas le
+   bon.
+
+   Pour obtenir la signature SHA-1 du fichier téléchargé (ou de n’importe
+   quel autre), vous pouvez installer 7-Zip. La signature sera affichée
+   après avoir choisi la commande CRC SHA dans le menu contextuel de
+   n’importe quel fichier.
+
+   Accédez, depuis un point unique grâce à Captvty, aux directs et à une
+   multitude d’émissions proposées au rattrapage par différentes chaînes
+   de télévision.
+
+   Captvty est gratuit et espère satisfaire de nombreux utilisateurs.
+
+Modifications apportées par la dernière version
+
+     * Correction d’un défaut spécifique dans la prise en charge du direct
+       de France Télévisions qui peut se manifester par une interruption
+       définitive de l’image ou du son à un instant donné.
+     * Mise à jour de l’accès à la liste des émissions disponibles ou non
+       d’ICI TOU.TV.
+     * Mise à jour de l’accès à la liste des émissions de NRJ 12, CNews,
+       RMC Story et Chérie 25.
+     * Ajout de l’accès à la liste des rencontres de la Coupe du monde de
+       rugby à XV 2019.
+
+Problèmes connus
+
+     * L’accès à certains contenus n’est pas garanti sous Windows XP en
+       raison de l’absence de prise en charge par ce système
+       d’exploitation des protocoles TLS 1.1 et TLS 1.2 devenus
+       obligatoires sur certains sites Web.
+
+Modifications précédemment apportées par la version 2.8.1
+
+     * Correction de la prise en charge du direct multilingue diffusé par
+       France Télévisions.
+     * La conversion au format MPEG-4 des fichiers MPEG-2 TS multilingues
+       n’est pas conseillée actuellement (cela peut entraîner une perte de
+       synchronisation audio) ; il est recommandé de conserver le fichier
+       d’origine ou bien de choisir le format Matroska.
+     * Amélioration globale de la fiabilité des enregistrements.
+     * Mise à jour de l’accès au direct de C8 et CStar.
+     * Rétrogradation de la version 35 à la version 29 des outils
+       mkvextract et mkvmerge pour bénéficier de la compatibilité avec les
+       fichiers MPEG-2 TS multilingues tout en s’assurant de leur
+       fonctionnement sous Windows XP.
+
+Modifications précédemment apportées par la version 2.8
+
+     * Introduction de la prise en charge des pistes audio multiples
+       pouvant être disponibles sur le direct. Cela comprend la piste
+       audio de commentaires lorsque le programme est disponible en
+       audiodescription, la piste audio de la version originale lorsque le
+       programme est proposé en version multilingue, et d’autres pistes
+       audio le cas échéant. Ces pistes audio sont incluses dans les
+       fichiers MPEG-2 TS des enregistrements et sont conservées lors de
+       la conversion au format Matroska ou MPEG-4. Ces pistes audio sont
+       identifiées selon la norme ISO 639-2, qui associe un code à une
+       langue soit connue soit propre à la diffusion, par exemple :
+
+     * « fra » ou « fre » correspond au français ;
+     * « qad » correspond généralement à l’audiodescription ;
+     * « qaa » correspond généralement à la langue d’origine ;
+     * « und » correspond à une langue indéterminée.
+
+     Ajout d’un menu contextuel dans la liste des enregistrements
+   permettant d’ouvrir l’emplacement du fichier, d’arrêter
+   l’enregistrement ou de le supprimer de la liste ou du disque dur.
+
+     Mise à jour de l’accès aux contenus en 720p des chaînes du groupe M6.
+
+     Mise à jour de l’accès à la liste des émissions de RMC Découverte et
+   de France 24.
+
+     Mise à jour de l’accès à certains contenus de France Télévisions.
+
+     Mise à jour des outils mkvextract et mkvmerge.
+
+   Logiciel gratuit. Nécessite Microsoft Windows avec Microsoft .NET
+   Framework 4. Peut également fonctionner sous Linux et macOS.
+
+   contact arobase captvty point fr
+
+   © 2011-2019, Guillaume
+
+   Les contenus proposés sont ceux mis à disposition du public par les
+   services de télévision. Logiciel gratuit, mais pas libre. Vous n’êtes
+   pas autorisé à distribuer, réutiliser, modifier ou décompiler, tout ou
+   partie du logiciel. Le logiciel est susceptible d’être distribué
+   accompagné d’autres logiciels qui restent la propriété de leurs auteurs
+   respectifs et qui sont soumis à leur licence d’utilisation respective,
+   et dont la fonction se limite exclusivement au téléchargement et au
+   traitement des contenus vidéo. En dehors de ces contenus vidéo et des
+   paramètres de configuration, aucune modification n’est apportée au
+   système et aucune information n’est à aucun moment stockée sur ou
+   récupérée du système sur lequel sont exécutés le logiciel et ses
+   composantes. L’auteur du programme attire aussi l’attention de
+   l’utilisateur sur le fait que le bon fonctionnement du logiciel ne peut
+   en aucun cas être garanti et que l’accès aux émissions peut échouer
+   sans préavis et pour une durée indéterminée. Captvty.fr est hébergé par
+   la société OVH (2 rue Kellermann, 59100 Roubaix, France).

@@ -1,0 +1,2308 @@
+   VentureBeat
+
+Alibaba’s Aliyun cloud launches DT PAI, an artificial intelligence service
+
+     Jordan Novet
+   4 years ago
+
+   Alibaba's headquarters in the Chinese city of Hangzhou.
+   Image Credit: Alibaba
+
+   Alibaba today announced the launch of DT PAI, a new service in its
+   Aliyun public cloud that will be able to handle machine learning
+   processes.
+
+   Aliyun will launch a free public trial of the service for a select
+   group of early users in the next few weeks, DT PAI product manager Xiao
+   Wei told VentureBeat in an email.
+
+   “DTPAI contains matured and advanced ML algorithms whose effectiveness
+   are verified by Alibaba’s profound data scenarios in Taobao, Tmall or
+   Alipay business,” Wei wrote. The service can deal with workloads such
+   as classification, clustering, feature abstraction, and large-scale
+   statistics, he wrote. The service will even be able to perform an
+   increasingly popular type of artificial intelligence known as deep
+   learning.
+
+   When it comes to logistic regression, a type of statistical model, DT
+   PAI “can process data with 10 billion plus dimensions of features and
+   100 billion plus of records,” Wei wrote.
+
+   It’s not surprising to see Alibaba expand its cloud like this. Amazon
+   Web Services and Microsoft Azure have both released cloud services for
+   machine learning in the past year. And Alibaba is quickly revving up to
+   match the capabilities of those public clouds. Last month, Aliyun
+   announced plans to add graphic processing units (GPUs) and solid state
+   drives (SSDs), and Alibaba also committed to spending $1 billion to
+   expand Aliyun in Japan, Europe and the Middle East.
+
+   Alibaba is indeed based in the Chinese city of Hangzhou, far from the
+   West Coast, where Amazon, Google, and Microsoft are based. But the
+   company is obviously looking to expand its business outside of China.
+
+   “We are happy to serve users worldwide and we support English,” Wei
+   wrote.
+
+Top Stories from VentureBeat
+
+{{title}}
+
+   {{author}}
+   {{date}}
+
+     * About
+     * Careers
+
+     * Contact
+     * Advertise
+
+   Terms of Service Privacy Policy
+   ©2019 VentureBeat. All rights reserved.
+   VentureBeat
+
+Facebook has more than 5 million advertisers, with 75% from outside the U.S.
+
+     Ken Yeung
+   2 years ago
+
+   Mark Zuckerberg speaks at Facebook's F8 developer conference in San
+   Francisco on April 12, 2016.
+   Image Credit: Jordan Novet/VentureBeat
+
+   Facebook marks another milestone in helping businesses reach new
+   customers. The social media company announced today that it now counts
+   more than 5 million active advertisers, a 1 million increase in the
+   past seven months. Three quarters of these advertisers are outside the
+   U.S., and the biggest verticals are ecommerce, entertainment and media,
+   and retail.
+
+   To further adoption by small and medium-sized businesses, Facebook is
+   launching new tools and resources, including providing one-click
+   options to reinstate high-performing ads within Ads Manager, opening
+   a single inbox to the desktop, creating a “studio” to help businesses
+   build ads using a mobile device, and expanding its small business
+   council.
+
+Helping small businesses navigate mobile
+
+   While Facebook is celebrating its 5 million advertiser milestone, that
+   still only accounts for around 8 percent of the 65 million businesses
+   that have a presence on the social network. Katherine Shappley, the
+   company’s director overseeing SMBs in North America, acknowledged that
+   there’s a delta between these figures, but said that there’s a “big
+   opportunity for Facebook to put out the right solutions to help
+   advertisers find that their investment works on the platform and
+   they’re growing their business.” She believes that when small
+   businesses are able to succeed, communities will thrive — which is a
+   core focus of Facebook.
+
+   Shappley cited the founder letter recently penned by company chief
+   executive Mark Zuckerberg, highlighting Facebook’s commitment to
+   supporting infrastructure to build global communities and further
+   positive impact around the world. “Small businesses are a vital part of
+   those communities,” she said. “With 65 million business Pages on
+   Facebook and 8 million profiles on Instagram, we have the privilege of
+   connecting the largest online small business community globally.”
+
+   However, she didn’t deny that more needed to be done to help businesses
+   on the platform. “Privileges comes with responsibility. If you think
+   about it, technology has created amazing opportunities for people and
+   small businesses, but it can also be challenging for small businesses
+   when you think about limited time and resources when trying to reach
+   new customers when every consumer is reaching for their phone,”
+   Shappley said. “We really want to empower those small businesses to
+   embrace the mobile world.”
+
+Nearly half of all Facebook advertisers use mobile
+
+   Nearly 50 percent of Facebook’s 5 million advertisers are creating ads
+   on mobile devices. And in order for the company to increase adoption,
+   and in the process shore up additional revenue opportunities, it has to
+   provide marketers with the tools and resources needed to switch over.
+
+   For those already creating ads on mobile, the company has updated its
+   Ads Manager app to speed up the process. “We heard from small
+   businesses that they want robust ad management capabilities on mobile,”
+   Shappley said. Among the newest features is the addition of a one-click
+   option allowing marketers to reinstate high-performing ads. Facebook
+   has also expanded the interest types that can be targeted and given
+   businesses the ability to compare ads. The company is also now going to
+   suggest actions that can be taken to improve ad performance.
+
+   In November, Facebook launched a new inbox experience for businesses
+   that consolidated messages across the social network, Instagram, and
+   Messenger. The feature was initially constrained to mobile devices, but
+   now Single Inbox is being expanded to the desktop so marketers can
+   manage their relationship with customers on a laptop, tablet, or
+   smartphone.
+
+   Facebook has also launched a way for businesses to target globally,
+   instead of just thinking locally. Now there are cross-border tools that
+   can be used to connect a business with people in other countries. The
+   first is “international lookalikes,” which matches marketers with
+   people in new countries who resemble the company’s best customers. The
+   second is worldwide region targeting that pairs campaigns with the most
+   efficient conversions. Lastly, businesses can create customized
+   campaigns in each country through country snapshots and an insights
+   playbook.
+
+   “As a small business, you’re worried about starting from scratch, and
+   it’s time-intensive, especially for the one that has 1 to 2 hours
+   dedicated to marketing,” Shappley explained. “Facebook will show you
+   the optimal people to target in those countries.”
+
+   Above: Facebook’s Mobile Studio
+   Image Credit: Screenshot
+
+   Some small businesses may be more interested in education, which is why
+   the social media company is launching Mobile Studio, a place for
+   marketers to discover ways to create ads using a mobile device. The
+   site has tips on remixing, shooting from scratch, and more. Shappley
+   described this service as a “celebration of how to make great creative
+   on mobile. Not only is it showcasing what we have natively, [it is
+   sharing] how to use the apps that are free or relatively inexpensive to
+   create something very compelling.” She believes Mobile Studio will be
+   inspirational for small businesses.
+
+   To help connect small businesses with one another while also keeping
+   each other apprised of issues they go through, Facebook set up several
+   small business councils. Currently, there are four around the world —
+   in the United States, India, Brazil, and Germany — but to expand the
+   reach of these groups, Facebook is launching websites to tell their
+   stories. Today, the company launched the first one for the U.S. This
+   will highlight 40 small businesses and look at how they used Facebook
+   to reach their communities and customers.
+
+   There are plans to expand the small business councils to other
+   countries later this year.
+
+   Finally, Facebook has released numbers around its Blueprint online
+   courses, which provide education around advertising on the social
+   network and related properties. More than 2.5 million courses have been
+   taken from more than 1 million people across 150 countries, half of
+   them small businesses. Shappley stated that new courses are going to be
+   added soon, including courses around how to monetize video, make
+   copyright correction on the platform, and more.
+
+   “We couldn’t be more excited about small businesses. The company is
+   rallying around to make sure we have the solutions for this segment.
+   We’re highly motivated about the stories coming from small businesses,”
+   Shappley said. “The biggest part of the announcement is that we’re
+   continuing to create solutions for [them]. This will certainly not be
+   the last announcement in that ongoing commitment.”
+
+Top Stories from VentureBeat
+
+{{title}}
+
+   {{author}}
+   {{date}}
+
+     * About
+     * Careers
+
+     * Contact
+     * Advertise
+
+   Terms of Service Privacy Policy
+   ©2019 VentureBeat. All rights reserved.
+   VentureBeat
+
+Google is building YouTube Connect, a livestreaming app to take on Periscope
+
+     Ken Yeung
+   4 years ago
+   Image Credit: Ken Yeung/VentureBeat
+
+   Google has quietly been building a new livestreaming app called YouTube
+   Connect, VentureBeat has learned. This service highlights the company’s
+   efforts to double down on live video while also placing it in a
+   position to compete directly against Twitter’s Periscope and Facebook
+   Live. YouTube Connect will be available on both iOS and Android
+   devices.
+
+   Google did not immediately respond for comment.
+
+   YouTube Connect has much of the same functionality that you’d already
+   find with Periscope and Facebook Live, according to a source close to
+   the matter. You can log into the app using your Google or YouTube
+   account and immediately begin streaming from your mobile phone. There
+   are chat and tagging features, and a “news feed” that features the
+   latest clips from your friends or those that you’ve subscribed to on
+   YouTube.
+
+   Videos will be viewable live within the app, as well as on the YouTube
+   site in their respective channels. It will also be possible to store
+   previous broadcasts in the app, quite possibly as something you can opt
+   into after you’ve completed the live stream. This will make it possible
+   for you and your friends to watch the replays. The app does not yet
+   have the integrations with Facebook or Twitter that would make it easy
+   for users to share live streams on other social networks.
+
+   YouTube Connect comes at a time when Google has fallen behind in the
+   livestreaming space, having lost ground to apps like Periscope, Meerkat
+   — which recently pivoted — and Facebook Live. YouTube does offer
+   livestreaming, through its Creator Studio offering, but it’s limited in
+   terms of access. Now this new app could open the capability to a much
+   larger audience.
+   Live streaming from YouTube's Creator Studio
+
+   Above: The livestreaming feature on YouTube’s Creator Studio.
+   Image Credit: Screenshot
+
+   In an interview with Wired, Manual Bronstein, the company’s head of
+   product for consumers, said that “Broadly speaking, we think about
+   YouTube being synonymous with video…live has always been a part of
+   video, and it’s actually always a very exciting part.”
+
+   A livestreaming app makes sense when thinking about future directions
+   for YouTube, a platform that houses the world’s collection of
+   user-generated videos. Giving content creators the ability to interact
+   with their fans in real time while on the red carpet or at a major
+   event is valuable — why ask them to slink off to create videos that are
+   posted on Facebook or on Twitter?
+
+   Both Twitter and Facebook have invested quite a bit in livestreaming
+   events. During Twitter’s Q4 2015 earnings call, as CEO Jack Dorsey
+   highlighted his vision for the company, he indicated Periscope’s
+   importance — he’s even added the service’s CEO to his executive team.
+   Dorsey: “Twitter is live, live commentary, live conversations, and live
+   connections, whether it’s breaking news, entertainment, sports, or
+   everyday topics, hearing about and watching a live event unfold is the
+   fastest way to understand the power of Twitter.”
+
+   Mark Zuckerberg also shared that Facebook’s livestreaming option is
+   something he’s “excited about.” It’ll likely grow in popularity as more
+   people gain access to it.
+
+   YouTube has been losing a bit of its luster against these growing
+   services, particularly Facebook and Snapchat — both of which have been
+   in the news over the past few months as their video-viewing numbers
+   continue to expand. In February, Snapchat reached 8 billion videos
+   viewed, bringing it nearly equal to Facebook. If YouTube wants to pick
+   up its viewership, a livestreaming app is a logical way to go.
+
+   YouTube Connect would be the latest standalone app in the YouTube
+   family, joining not only the core service, but also YouTube Capture —
+   which allows you to record and edit footage right on the mobile device
+   — and YouTube Gaming.
+
+   Although timing for the release has not been divulged, a launch before
+   Google’s I/O developer conference in May seems likely. It also wouldn’t
+   be farfetched to think that the company might unveil the app with its
+   YouTube stars, just like Facebook did with its livestreaming option —
+   getting the biggest names on board to lead the way.
+
+   Updated: YouTube launched its livestreaming service right from its app
+   in June
+
+Top Stories from VentureBeat
+
+{{title}}
+
+   {{author}}
+   {{date}}
+
+     * About
+     * Careers
+
+     * Contact
+     * Advertise
+
+   Terms of Service Privacy Policy
+   ©2019 VentureBeat. All rights reserved.
+    #VentureBeat Feed prev next
+
+   [Icon_Sprites_03.png]
+     * CHANNELS l l
+
+CHANNELS
+          + GamesBeat
+          + AI
+          + AR/VR
+          + Big Data
+          + Business
+          + Cloud
+          + Commerce
+          + Dev
+          + Enterprise
+          + Entrepreneur
+          + Esports
+          + Marketing
+          + Media
+          + Mobile
+          + PC Gaming
+          + Security
+          + Social
+          + Transportation
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * EVENTS l l
+
+VB EVENTS
+          + Upcoming Events
+
+GET INVOLVED
+          + Sponsor
+          + Media Partner
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * NEWSLETTERS
+     * JOB BOARD
+
+     *
+
+   ____________________
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+
+   ____________________ (BUTTON)
+     * ‹ CHANNELS ›
+
+CHANNELS
+       GamesBeat
+       Entrepreneur
+       AI
+       Esports
+       AR/VR
+       Marketing
+       Big Data
+       Media
+       Business
+       Mobile
+       Cloud
+       PC Gaming
+       Commerce
+       Security
+       Dev
+       Social
+       Enterprise
+       Transportation
+     * ‹ EVENTS ›
+
+VB EVENTS
+       Upcoming Events
+
+GET INVOLVED
+       Sponsor
+       Media Partner
+     * NEWSLETTERS
+     * JOB BOARD
+     * ‹ VENTUREBEAT ›
+       About
+       Advertise
+       Careers
+       Contact
+
+     * Got a news tip?
+     * Press Releases
+     * VB Lab
+
+     * Webinars
+     * Privacy Policy
+
+Uber's push into on-demand recruitment is a natural progression for the gig
+economy
+
+   Naborly
+
+Naborly raises $7.5 million to protect landlords from insolvent tenants
+
+   Kyle Wiggers October 1, 2019 7:04 AM
+
+   Waze for Cities Data dashboard
+
+Waze integrates city data-sharing program with Google Cloud
+
+   Paul Sawers October 1, 2019 7:01 AM
+
+   The Mainframe Industries team.
+
+New MMO studio from CCP and Remedy vets will use cloud gaming
+
+   Mike Minotti October 1, 2019 7:00 AM
+
+GamesBeat Decides 127: Nintendo has Doug Bowser, Sony has Nick Knack
+
+   Jeff Grubb October 1, 2019 6:33 AM
+
+   Press Release
+
+ADAM 3D Bone Printing Project Promises to Change How We Think About Our
+Bodies
+
+   Business Wire October 1, 2019 6:26 AM
+
+   Legionfarm Group
+
+   Exclusive
+
+Legionfarm Group raises $1.5 million to coach gamers to get better
+
+   Dean Takahashi October 1, 2019 6:15 AM
+
+   6Wunderkinder and Pitch cofounder / CEO Christian Reber
+
+Pitch launches in private beta and raises $30 million to be the presentation
+tool for ‘generation Slack’
+
+   Paul Sawers October 1, 2019 6:00 AM
+
+   Call of Duty: Mobile
+
+Call of Duty: Mobile debuts as free-to-play game on Android and iOS
+
+   Dean Takahashi October 1, 2019 6:00 AM
+
+   Rapyd
+
+Rapyd raises $100 million for mobile and web payment services
+
+   Kyle Wiggers October 1, 2019 5:38 AM
+
+   PlayStation Now gets a deluge of new games.
+
+PlayStation Now gets price cut to $10 as xCloud looms
+
+   Jeff Grubb October 1, 2019 5:38 AM
+
+   Logitech G Pro X with swappable switches.
+
+Logitech G’s Pro X gaming keyboard has swappable mechanical switches
+
+   Jeff Grubb October 1, 2019 5:09 AM
+
+   Words With Hope is a Zynga campaign to fight breast cancer.
+
+Zynga launches Breast Cancer Awareness Month campaign in Words With Friends
+
+   Dean Takahashi October 1, 2019 5:00 AM
+
+Xseed names cofounder Ken Berry its new president and CEO
+
+   Jason Wilson October 1, 2019 5:00 AM
+
+   Sponsored
+
+Conquering chatbots: How an artist gets people to love using them
+
+   GameOn October 1, 2019 4:10 AM
+
+   SenSat's Mapp platform
+
+Tencent leads $10 million investment in SenSat to create real-time ‘simulated
+realities’
+
+   Paul Sawers October 1, 2019 1:04 AM
+
+   Subway Surfers Airtime
+
+Snapchat’s latest mobile game is Subway Surfers Airtime from Sybo Games
+
+   Dean Takahashi October 1, 2019 1:00 AM
+
+   My.Games' Warface title.
+
+   Exclusive
+
+Warface scores 13 million users on PS4 and Xbox One in a year
+
+   Dean Takahashi September 30, 2019 10:00 PM
+
+   July 11, 2017. WeWork Offices Herzliya, Israel.
+
+WeWork withdraws its ill-fated IPO
+
+   Reuters September 30, 2019 9:42 PM
+
+   Shawn Layden was one of the major faces of Sony Interactive
+   Entertainment's executive team.
+
+PlayStation studios boss Shawn Layden is latest exec to leave Sony
+
+   Jeff Grubb September 30, 2019 4:51 PM
+
+   Dragalia Lost is coming to mobile on September 27.
+
+Sensor Tower: Dragalia Lost earned $106 Million in its first year
+
+   Mike Minotti September 30, 2019 3:34 PM
+
+   IBM
+
+IBM’s AI generates high-quality voices from 5 minutes of talking
+
+   Kyle Wiggers September 30, 2019 2:31 PM
+
+   Words With Friends
+
+Words With Friends player data allegedly stolen for 218 million users
+
+   Dean Takahashi September 30, 2019 1:10 PM
+
+   TensorFlow and Keras
+
+Google launches TensorFlow 2.0 with tighter Keras integration
+
+   Khari Johnson September 30, 2019 12:49 PM
+
+Google researchers train AI to distinguish 9 Indian languages
+
+   Kyle Wiggers September 30, 2019 11:29 AM
+
+   Toy Story was among the top performing downloads on Minecraft
+   Marketplace last month.
+
+Minecraft Marketplace August 2019: Lucky Blocks tops the charts
+
+   Jeff Grubb September 30, 2019 10:48 AM
+
+   I like the duck a lot.
+
+Tencent will become Funcom’s largest shareholder
+
+   Mike Minotti September 30, 2019 9:43 AM
+
+Google’s highly scalable AI can generate convincingly humanlike speech
+
+   Kyle Wiggers September 30, 2019 9:25 AM
+
+PayPal to be the first foreign online payment platform in China after
+acquiring 70% stake in GoPay
+
+   Paul Sawers September 30, 2019 9:18 AM
+
+   Windows Virtual Desktop example
+
+Microsoft’s Windows Virtual Desktop hits general availability
+
+   Emil Protalinski September 30, 2019 9:00 AM
+
+   Jaunt's AR avatars can be streamed to mobile devices.
+
+Verizon acquires Jaunt XR’s software and technology
+
+   Jeremy Horwitz September 30, 2019 8:41 AM
+
+Google’s VersaillesVR is a hyper-real tour of the famous French palace
+
+   Jeremy Horwitz September 30, 2019 8:04 AM
+
+Instagram’s launch notifier alerts you the moment a product drops
+
+   Kyle Wiggers September 30, 2019 7:58 AM
+
+   Press Release
+
+Ocugen and CanSinoBIO Enter Strategic Partnership for Gene Therapy
+Co-Development and...
+
+   Business Wire September 30, 2019 6:26 AM
+
+   The Tokaido Shinkansen passes by Mount Fuji on its way to Shin-Fuji
+   station.
+
+NTT Docomo’s bullet train mmWave 5G test speeds past 1Gbps
+
+   Jeremy Horwitz September 30, 2019 6:15 AM
+
+   HP Spectre
+
+HP Spectre x360 13: 2.8-pound laptop with double the performance of previous
+model
+
+   Dean Takahashi September 30, 2019 6:00 AM
+
+   Exclusive
+
+DataRobot launches AI Catalog to enable enterprise team collaboration
+
+   Khari Johnson September 30, 2019 5:52 AM
+
+Cuphead surpasses 5 million copies sold
+
+   Jeff Grubb September 30, 2019 5:43 AM
+
+   A new Brain Age for the Nintendo Switch.
+
+Nintendo resurrects Brain Age on Switch
+
+   Jeff Grubb September 30, 2019 5:10 AM
+
+   A photo from the BlackBerry Network Operations Center in Waterloo,
+   Canada.
+
+   Feature
+
+Cylance is golden: BlackBerry’s new cybersecurity R&D lab is all about AI and
+IoT
+
+   Paul Sawers September 30, 2019 5:00 AM
+
+   Nintendo Switch Lite
+
+   Review
+
+Switch Lite review — The best handheld since Game Boy Advance SP
+
+   Jeff Grubb September 30, 2019 4:31 AM
+
+MOST READ
+
+     * Pokémon Go Gen 5.
+       AR is big — 5G will make it huge
+     * Apple’s Deep Fusion hands-on: AI sharpens photos like HDR fixes
+       colors
+     * Bird Two escooter
+       Bird raises $275 million at a $2.5 billion valuation
+     * Microsoft's Surface Pro X eye gaze tech
+       Microsoft’s AI-powered eye gaze tech is exclusive to the Surface
+       Pro X
+     * The Oculus Quest (left) and the Oculus Rift launch May 21.
+       The problem with PC VR is the PC
+
+UPCOMING EVENTS
+
+     * BLUEPRINT March 3-5, 2020
+     * GamesBeat Summit 2020 April 28-29, 2020
+     * Transform July 15-16, 2020
+
+     *
+          + 2019
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+     *
+          + 2018
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2017
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2016
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2015
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2014
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2013
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2012
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2011
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2010
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2009
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2008
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2007
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2006
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2005
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2004
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+
+   ABOUT
+   CONTACT
+   CAREERS
+   ADVERTISE
+   Terms of Service Privacy Policy © 2019 VentureBeat. All rights
+   reserved.
+
+   Quantcast [p?c1=2&c2=6035753&cv=2.0&cj=1]
+
+   VentureBeat
+   Take me to the footer ↓ Back to stories ↑
+     * Home
+     * About
+     * Contact
+     * Careers
+     * Advertise
+    #VentureBeat Feed VentureBeat » A 10-year-old designs Gunman Taco
+   Truck with help from legendary gaming parents Comments Feed alternate
+   alternate
+
+   [Icon_Sprites_03.png]
+     * CHANNELS l l
+
+CHANNELS
+          + GamesBeat
+          + AI
+          + AR/VR
+          + Big Data
+          + Business
+          + Cloud
+          + Commerce
+          + Dev
+          + Enterprise
+          + Entrepreneur
+          + Esports
+          + Marketing
+          + Media
+          + Mobile
+          + PC Gaming
+          + Security
+          + Social
+          + Transportation
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * EVENTS l l
+
+VB EVENTS
+          + Upcoming Events
+
+GET INVOLVED
+          + Sponsor
+          + Media Partner
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * NEWSLETTERS
+     * JOB BOARD
+
+     *
+
+   ____________________
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+
+   ____________________ (BUTTON)
+     * ‹ CHANNELS ›
+
+CHANNELS
+       GamesBeat
+       Entrepreneur
+       AI
+       Esports
+       AR/VR
+       Marketing
+       Big Data
+       Media
+       Business
+       Mobile
+       Cloud
+       PC Gaming
+       Commerce
+       Security
+       Dev
+       Social
+       Enterprise
+       Transportation
+     * ‹ EVENTS ›
+
+VB EVENTS
+       Upcoming Events
+
+GET INVOLVED
+       Sponsor
+       Media Partner
+     * NEWSLETTERS
+     * JOB BOARD
+     * ‹ VENTUREBEAT ›
+       About
+       Advertise
+       Careers
+       Contact
+
+     * Got a news tip?
+     * Press Releases
+     * VB Lab
+
+     * Webinars
+     * Privacy Policy
+
+   GAMES
+
+A 10-year-old designs Gunman Taco Truck with help from legendary gaming
+parents
+
+   Dean Takahashi@deantak March 23, 2015 7:00 AM
+
+   Above: Donovan Romero-Brathwaite designed Gunman Taco Truck.
+   Image Credit: Brenda Romero
+
+MOST READ
+
+     * GeForce Now is coming to Android soon.
+       GeForce Now expands cloud gaming into new territories
+     * Playable Worlds logo
+       Raph Koster’s Playable Worlds raises $2.7 million for sandbox
+       MMORPG
+     * We need more games about geese.
+       Untitled Goose Game will harass PlayStation 4 and Xbox One
+       eventually
+     * The Oculus Quest (left) and the Oculus Rift launch May 21.
+       The problem with PC VR is the PC
+     * Oculus Quest gets Go apps, Passthrough+, and easier firmware
+       updates
+
+UPCOMING EVENTS
+
+     * GamesBeat Summit 2020 April 28-29, 2020
+
+   Ten-year-old Donovan Romero-Brathwaite has quite an imagination, and he
+   has applied it to designing his first video game, a whimsical title
+   called Gunman Taco Truck.
+
+   If he was like most kids, his vision might have ended with a pat on the
+   back after he told his parents his idea. But his folks are legendary
+   game designers Brenda Romero, who worked on Wizardry, and John Romero,
+   one of the people behind Doom. Games are the family business.
+   Gunman Taco Truck was designed by 10-year-old Donovan
+   Brathwaite-Romero.
+
+   Above: Ten-year-old Donovan Romero-Brathwaite designed Gunman Taco
+   Truck.
+   Image Credit: Brenda Romero
+
+   Donovan came up with the idea during a coding lesson with his
+   stepfather, John. His mother, Brenda, used her smartphone to record
+   Donovan describing his idea. Then, she posted the video on Facebook, in
+   which Donovan rocks back and forth with excitement as he talks about
+   the plot of Gunman Taco Truck, which involves a heavily armored and
+   weaponized taco truck.
+
+   Brenda said in an interview with GamesBeat, “Within a short matter of
+   time, a bunch of game developers were saying, ‘Well, you’re going to
+   make it aren’t you?'”
+
+   They decided to do it and assembled a team of six people, made up
+   of family and friends. Donovan’s sisters are testing the game. His
+   brother Michael is helping, as are his parents. A few friends — Paul
+   Conway, Dren McDonald, and Ian Dunbar — are rounding out the work on
+   the art and other details.
+   Romero family and friends: Michael, John, Brenda, and Donovan.
+
+   Above: Left to right: Paul Conway, John Romero, Ian Dunbar, Brenda
+   Romero, Donovan Romero-Brathwaite, and Michael Romero.
+
+   “We’ve got more people on this than most indie games,” John said in an
+   interview.
+
+   They’ve made enough progress to put the game up for pre-order on the
+   Humble Store, which devotes 10 percent of proceeds to charity.
+
+   The title’s story is set after an apocalypse, where a scientist
+   accidentally set off seven atomic bombs and wiped out most of the
+   population. The “last Mexican in the U.S.” is one of the people left
+   standing. A bunch of mutant creatures have emerged and are attacking
+   the survivors. The taco truck driver tries to feed those who are still
+   alive, but he has to heavily arm his taco truck in order to deal with
+   the mutants.
+
+   “Your goal is to get the taco truck to Canada,” Donovan told me.
+   A page from the design doc for Gunman Taco Truck.
+
+   Above: A page from the design doc for Gunman Taco Truck.
+   Image Credit: Brenda Romero
+
+   Donovan got the idea last summer. With help from his stepdad, he
+   created a design document. It described the plot and had drawings of
+   the artwork. It also outlined weapons, creatures, and locations. He
+   completed the document in November, and development began in December
+   using the Corona software development kit.
+
+   “We’re fortunate that we have family and friends to take advantage of
+   his idea and make it a reality,” Brenda said. “He has a good
+   environment. He [is surrounded] by games all of the time. He’s probably
+   at a stage of skill now where I was in my early 20s.”
+   Gunman Taco Truck design doc
+
+   Above: More from the Gunman Taco Truck design doc.
+   Image Credit: Brenda Romero
+
+   The Romeros got an artist to start working on the imagery. While all of
+   the design is Donovan’s, Brenda is working on balancing the game.
+   Players will experience 40 locations and a bunch of monsters, including
+   a devil chicken (who clearly doesn’t want to be part of a taco). The
+   chicken shoots “dark matter” from its beak and lasers from its eyes.
+
+   “The final draft of the design is absolutely ridiculous,” Brenda said.
+   Gunman Taco Truck
+
+   Above: Fight mutants in Gunman Taco Truck.
+   Image Credit: Brenda Romero
+
+   The team completed an alpha version, which is ready for testing.
+   Donovan did the coding for the introduction screens. He’s learning
+   about game-development milestones and how to work with the family as a
+   team.
+
+   They are hoping for a June release on iOS. John said he met with Apple,
+   and the company was excited about it. Any proceeds will go toward
+   Donovan’s college fund, and the title will ship with his hand-drawn
+   design doc.
+
+   Donovan said his creative side comes from the games he plays or
+   watches. He was inspired to see his mother win an award at the recent
+   Game Developers Conference (GDC) in San Francisco. In front of a crowd
+   of thousands, she accepted the honors for the Ambassador Award. Donovan
+   wants to return to the GDC and win an award himself one day.
+
+   “He wanted to be a game developer since he was maybe seven,” Brenda
+   said. “But we thought he had to master reading first. We thought it
+   would be a great exercise to learn coding and design a game while doing
+   that.”
+
+
+   Donovan Brathwaite-Romero and step dad John Romero.
+
+   Above: Donovan Romero-Brathwaite and stepdad John Romero.
+   Image Credit: Brenda Romero
+
+
+   Quantcast [p?c1=2&c2=6035753&cv=2.0&cj=1]
+   VentureBeat
+
+Alibaba’s Aliyun cloud launches DT PAI, an artificial intelligence service
+
+     Jordan Novet
+   4 years ago
+
+   Alibaba's headquarters in the Chinese city of Hangzhou.
+   Image Credit: Alibaba
+
+   Alibaba today announced the launch of DT PAI, a new service in its
+   Aliyun public cloud that will be able to handle machine learning
+   processes.
+
+   Aliyun will launch a free public trial of the service for a select
+   group of early users in the next few weeks, DT PAI product manager Xiao
+   Wei told VentureBeat in an email.
+
+   “DTPAI contains matured and advanced ML algorithms whose effectiveness
+   are verified by Alibaba’s profound data scenarios in Taobao, Tmall or
+   Alipay business,” Wei wrote. The service can deal with workloads such
+   as classification, clustering, feature abstraction, and large-scale
+   statistics, he wrote. The service will even be able to perform an
+   increasingly popular type of artificial intelligence known as deep
+   learning.
+
+   When it comes to logistic regression, a type of statistical model, DT
+   PAI “can process data with 10 billion plus dimensions of features and
+   100 billion plus of records,” Wei wrote.
+
+   It’s not surprising to see Alibaba expand its cloud like this. Amazon
+   Web Services and Microsoft Azure have both released cloud services for
+   machine learning in the past year. And Alibaba is quickly revving up to
+   match the capabilities of those public clouds. Last month, Aliyun
+   announced plans to add graphic processing units (GPUs) and solid state
+   drives (SSDs), and Alibaba also committed to spending $1 billion to
+   expand Aliyun in Japan, Europe and the Middle East.
+
+   Alibaba is indeed based in the Chinese city of Hangzhou, far from the
+   West Coast, where Amazon, Google, and Microsoft are based. But the
+   company is obviously looking to expand its business outside of China.
+
+   “We are happy to serve users worldwide and we support English,” Wei
+   wrote.
+
+Top Stories from VentureBeat
+
+{{title}}
+
+   {{author}}
+   {{date}}
+
+     * About
+     * Careers
+
+     * Contact
+     * Advertise
+
+   Terms of Service Privacy Policy
+   ©2019 VentureBeat. All rights reserved.
+   VentureBeat
+
+Facebook has more than 5 million advertisers, with 75% from outside the U.S.
+
+     Ken Yeung
+   2 years ago
+
+   Mark Zuckerberg speaks at Facebook's F8 developer conference in San
+   Francisco on April 12, 2016.
+   Image Credit: Jordan Novet/VentureBeat
+
+   Facebook marks another milestone in helping businesses reach new
+   customers. The social media company announced today that it now counts
+   more than 5 million active advertisers, a 1 million increase in the
+   past seven months. Three quarters of these advertisers are outside the
+   U.S., and the biggest verticals are ecommerce, entertainment and media,
+   and retail.
+
+   To further adoption by small and medium-sized businesses, Facebook is
+   launching new tools and resources, including providing one-click
+   options to reinstate high-performing ads within Ads Manager, opening
+   a single inbox to the desktop, creating a “studio” to help businesses
+   build ads using a mobile device, and expanding its small business
+   council.
+
+Helping small businesses navigate mobile
+
+   While Facebook is celebrating its 5 million advertiser milestone, that
+   still only accounts for around 8 percent of the 65 million businesses
+   that have a presence on the social network. Katherine Shappley, the
+   company’s director overseeing SMBs in North America, acknowledged that
+   there’s a delta between these figures, but said that there’s a “big
+   opportunity for Facebook to put out the right solutions to help
+   advertisers find that their investment works on the platform and
+   they’re growing their business.” She believes that when small
+   businesses are able to succeed, communities will thrive — which is a
+   core focus of Facebook.
+
+   Shappley cited the founder letter recently penned by company chief
+   executive Mark Zuckerberg, highlighting Facebook’s commitment to
+   supporting infrastructure to build global communities and further
+   positive impact around the world. “Small businesses are a vital part of
+   those communities,” she said. “With 65 million business Pages on
+   Facebook and 8 million profiles on Instagram, we have the privilege of
+   connecting the largest online small business community globally.”
+
+   However, she didn’t deny that more needed to be done to help businesses
+   on the platform. “Privileges comes with responsibility. If you think
+   about it, technology has created amazing opportunities for people and
+   small businesses, but it can also be challenging for small businesses
+   when you think about limited time and resources when trying to reach
+   new customers when every consumer is reaching for their phone,”
+   Shappley said. “We really want to empower those small businesses to
+   embrace the mobile world.”
+
+Nearly half of all Facebook advertisers use mobile
+
+   Nearly 50 percent of Facebook’s 5 million advertisers are creating ads
+   on mobile devices. And in order for the company to increase adoption,
+   and in the process shore up additional revenue opportunities, it has to
+   provide marketers with the tools and resources needed to switch over.
+
+   For those already creating ads on mobile, the company has updated its
+   Ads Manager app to speed up the process. “We heard from small
+   businesses that they want robust ad management capabilities on mobile,”
+   Shappley said. Among the newest features is the addition of a one-click
+   option allowing marketers to reinstate high-performing ads. Facebook
+   has also expanded the interest types that can be targeted and given
+   businesses the ability to compare ads. The company is also now going to
+   suggest actions that can be taken to improve ad performance.
+
+   In November, Facebook launched a new inbox experience for businesses
+   that consolidated messages across the social network, Instagram, and
+   Messenger. The feature was initially constrained to mobile devices, but
+   now Single Inbox is being expanded to the desktop so marketers can
+   manage their relationship with customers on a laptop, tablet, or
+   smartphone.
+
+   Facebook has also launched a way for businesses to target globally,
+   instead of just thinking locally. Now there are cross-border tools that
+   can be used to connect a business with people in other countries. The
+   first is “international lookalikes,” which matches marketers with
+   people in new countries who resemble the company’s best customers. The
+   second is worldwide region targeting that pairs campaigns with the most
+   efficient conversions. Lastly, businesses can create customized
+   campaigns in each country through country snapshots and an insights
+   playbook.
+
+   “As a small business, you’re worried about starting from scratch, and
+   it’s time-intensive, especially for the one that has 1 to 2 hours
+   dedicated to marketing,” Shappley explained. “Facebook will show you
+   the optimal people to target in those countries.”
+
+   Above: Facebook’s Mobile Studio
+   Image Credit: Screenshot
+
+   Some small businesses may be more interested in education, which is why
+   the social media company is launching Mobile Studio, a place for
+   marketers to discover ways to create ads using a mobile device. The
+   site has tips on remixing, shooting from scratch, and more. Shappley
+   described this service as a “celebration of how to make great creative
+   on mobile. Not only is it showcasing what we have natively, [it is
+   sharing] how to use the apps that are free or relatively inexpensive to
+   create something very compelling.” She believes Mobile Studio will be
+   inspirational for small businesses.
+
+   To help connect small businesses with one another while also keeping
+   each other apprised of issues they go through, Facebook set up several
+   small business councils. Currently, there are four around the world —
+   in the United States, India, Brazil, and Germany — but to expand the
+   reach of these groups, Facebook is launching websites to tell their
+   stories. Today, the company launched the first one for the U.S. This
+   will highlight 40 small businesses and look at how they used Facebook
+   to reach their communities and customers.
+
+   There are plans to expand the small business councils to other
+   countries later this year.
+
+   Finally, Facebook has released numbers around its Blueprint online
+   courses, which provide education around advertising on the social
+   network and related properties. More than 2.5 million courses have been
+   taken from more than 1 million people across 150 countries, half of
+   them small businesses. Shappley stated that new courses are going to be
+   added soon, including courses around how to monetize video, make
+   copyright correction on the platform, and more.
+
+   “We couldn’t be more excited about small businesses. The company is
+   rallying around to make sure we have the solutions for this segment.
+   We’re highly motivated about the stories coming from small businesses,”
+   Shappley said. “The biggest part of the announcement is that we’re
+   continuing to create solutions for [them]. This will certainly not be
+   the last announcement in that ongoing commitment.”
+
+Top Stories from VentureBeat
+
+{{title}}
+
+   {{author}}
+   {{date}}
+
+     * About
+     * Careers
+
+     * Contact
+     * Advertise
+
+   Terms of Service Privacy Policy
+   ©2019 VentureBeat. All rights reserved.
+   VentureBeat
+
+Google is building YouTube Connect, a livestreaming app to take on Periscope
+
+     Ken Yeung
+   4 years ago
+   Image Credit: Ken Yeung/VentureBeat
+
+   Google has quietly been building a new livestreaming app called YouTube
+   Connect, VentureBeat has learned. This service highlights the company’s
+   efforts to double down on live video while also placing it in a
+   position to compete directly against Twitter’s Periscope and Facebook
+   Live. YouTube Connect will be available on both iOS and Android
+   devices.
+
+   Google did not immediately respond for comment.
+
+   YouTube Connect has much of the same functionality that you’d already
+   find with Periscope and Facebook Live, according to a source close to
+   the matter. You can log into the app using your Google or YouTube
+   account and immediately begin streaming from your mobile phone. There
+   are chat and tagging features, and a “news feed” that features the
+   latest clips from your friends or those that you’ve subscribed to on
+   YouTube.
+
+   Videos will be viewable live within the app, as well as on the YouTube
+   site in their respective channels. It will also be possible to store
+   previous broadcasts in the app, quite possibly as something you can opt
+   into after you’ve completed the live stream. This will make it possible
+   for you and your friends to watch the replays. The app does not yet
+   have the integrations with Facebook or Twitter that would make it easy
+   for users to share live streams on other social networks.
+
+   YouTube Connect comes at a time when Google has fallen behind in the
+   livestreaming space, having lost ground to apps like Periscope, Meerkat
+   — which recently pivoted — and Facebook Live. YouTube does offer
+   livestreaming, through its Creator Studio offering, but it’s limited in
+   terms of access. Now this new app could open the capability to a much
+   larger audience.
+   Live streaming from YouTube's Creator Studio
+
+   Above: The livestreaming feature on YouTube’s Creator Studio.
+   Image Credit: Screenshot
+
+   In an interview with Wired, Manual Bronstein, the company’s head of
+   product for consumers, said that “Broadly speaking, we think about
+   YouTube being synonymous with video…live has always been a part of
+   video, and it’s actually always a very exciting part.”
+
+   A livestreaming app makes sense when thinking about future directions
+   for YouTube, a platform that houses the world’s collection of
+   user-generated videos. Giving content creators the ability to interact
+   with their fans in real time while on the red carpet or at a major
+   event is valuable — why ask them to slink off to create videos that are
+   posted on Facebook or on Twitter?
+
+   Both Twitter and Facebook have invested quite a bit in livestreaming
+   events. During Twitter’s Q4 2015 earnings call, as CEO Jack Dorsey
+   highlighted his vision for the company, he indicated Periscope’s
+   importance — he’s even added the service’s CEO to his executive team.
+   Dorsey: “Twitter is live, live commentary, live conversations, and live
+   connections, whether it’s breaking news, entertainment, sports, or
+   everyday topics, hearing about and watching a live event unfold is the
+   fastest way to understand the power of Twitter.”
+
+   Mark Zuckerberg also shared that Facebook’s livestreaming option is
+   something he’s “excited about.” It’ll likely grow in popularity as more
+   people gain access to it.
+
+   YouTube has been losing a bit of its luster against these growing
+   services, particularly Facebook and Snapchat — both of which have been
+   in the news over the past few months as their video-viewing numbers
+   continue to expand. In February, Snapchat reached 8 billion videos
+   viewed, bringing it nearly equal to Facebook. If YouTube wants to pick
+   up its viewership, a livestreaming app is a logical way to go.
+
+   YouTube Connect would be the latest standalone app in the YouTube
+   family, joining not only the core service, but also YouTube Capture —
+   which allows you to record and edit footage right on the mobile device
+   — and YouTube Gaming.
+
+   Although timing for the release has not been divulged, a launch before
+   Google’s I/O developer conference in May seems likely. It also wouldn’t
+   be farfetched to think that the company might unveil the app with its
+   YouTube stars, just like Facebook did with its livestreaming option —
+   getting the biggest names on board to lead the way.
+
+   Updated: YouTube launched its livestreaming service right from its app
+   in June
+
+Top Stories from VentureBeat
+
+{{title}}
+
+   {{author}}
+   {{date}}
+
+     * About
+     * Careers
+
+     * Contact
+     * Advertise
+
+   Terms of Service Privacy Policy
+   ©2019 VentureBeat. All rights reserved.
+    #VentureBeat Feed prev next
+
+   [Icon_Sprites_03.png]
+     * CHANNELS l l
+
+CHANNELS
+          + GamesBeat
+          + AI
+          + AR/VR
+          + Big Data
+          + Business
+          + Cloud
+          + Commerce
+          + Dev
+          + Enterprise
+          + Entrepreneur
+          + Esports
+          + Marketing
+          + Media
+          + Mobile
+          + PC Gaming
+          + Security
+          + Social
+          + Transportation
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * EVENTS l l
+
+VB EVENTS
+          + Upcoming Events
+
+GET INVOLVED
+          + Sponsor
+          + Media Partner
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * NEWSLETTERS
+     * JOB BOARD
+
+     *
+
+   ____________________
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+
+   ____________________ (BUTTON)
+     * ‹ CHANNELS ›
+
+CHANNELS
+       GamesBeat
+       Entrepreneur
+       AI
+       Esports
+       AR/VR
+       Marketing
+       Big Data
+       Media
+       Business
+       Mobile
+       Cloud
+       PC Gaming
+       Commerce
+       Security
+       Dev
+       Social
+       Enterprise
+       Transportation
+     * ‹ EVENTS ›
+
+VB EVENTS
+       Upcoming Events
+
+GET INVOLVED
+       Sponsor
+       Media Partner
+     * NEWSLETTERS
+     * JOB BOARD
+     * ‹ VENTUREBEAT ›
+       About
+       Advertise
+       Careers
+       Contact
+
+     * Got a news tip?
+     * Press Releases
+     * VB Lab
+
+     * Webinars
+     * Privacy Policy
+
+Uber's push into on-demand recruitment is a natural progression for the gig
+economy
+
+   Naborly
+
+Naborly raises $7.5 million to protect landlords from insolvent tenants
+
+   Kyle Wiggers October 1, 2019 7:04 AM
+
+   Waze for Cities Data dashboard
+
+Waze integrates city data-sharing program with Google Cloud
+
+   Paul Sawers October 1, 2019 7:01 AM
+
+   The Mainframe Industries team.
+
+New MMO studio from CCP and Remedy vets will use cloud gaming
+
+   Mike Minotti October 1, 2019 7:00 AM
+
+GamesBeat Decides 127: Nintendo has Doug Bowser, Sony has Nick Knack
+
+   Jeff Grubb October 1, 2019 6:33 AM
+
+   Press Release
+
+ADAM 3D Bone Printing Project Promises to Change How We Think About Our
+Bodies
+
+   Business Wire October 1, 2019 6:26 AM
+
+   Legionfarm Group
+
+   Exclusive
+
+Legionfarm Group raises $1.5 million to coach gamers to get better
+
+   Dean Takahashi October 1, 2019 6:15 AM
+
+   6Wunderkinder and Pitch cofounder / CEO Christian Reber
+
+Pitch launches in private beta and raises $30 million to be the presentation
+tool for ‘generation Slack’
+
+   Paul Sawers October 1, 2019 6:00 AM
+
+   Call of Duty: Mobile
+
+Call of Duty: Mobile debuts as free-to-play game on Android and iOS
+
+   Dean Takahashi October 1, 2019 6:00 AM
+
+   Rapyd
+
+Rapyd raises $100 million for mobile and web payment services
+
+   Kyle Wiggers October 1, 2019 5:38 AM
+
+   PlayStation Now gets a deluge of new games.
+
+PlayStation Now gets price cut to $10 as xCloud looms
+
+   Jeff Grubb October 1, 2019 5:38 AM
+
+   Logitech G Pro X with swappable switches.
+
+Logitech G’s Pro X gaming keyboard has swappable mechanical switches
+
+   Jeff Grubb October 1, 2019 5:09 AM
+
+   Words With Hope is a Zynga campaign to fight breast cancer.
+
+Zynga launches Breast Cancer Awareness Month campaign in Words With Friends
+
+   Dean Takahashi October 1, 2019 5:00 AM
+
+Xseed names cofounder Ken Berry its new president and CEO
+
+   Jason Wilson October 1, 2019 5:00 AM
+
+   Sponsored
+
+Conquering chatbots: How an artist gets people to love using them
+
+   GameOn October 1, 2019 4:10 AM
+
+   SenSat's Mapp platform
+
+Tencent leads $10 million investment in SenSat to create real-time ‘simulated
+realities’
+
+   Paul Sawers October 1, 2019 1:04 AM
+
+   Subway Surfers Airtime
+
+Snapchat’s latest mobile game is Subway Surfers Airtime from Sybo Games
+
+   Dean Takahashi October 1, 2019 1:00 AM
+
+   My.Games' Warface title.
+
+   Exclusive
+
+Warface scores 13 million users on PS4 and Xbox One in a year
+
+   Dean Takahashi September 30, 2019 10:00 PM
+
+   July 11, 2017. WeWork Offices Herzliya, Israel.
+
+WeWork withdraws its ill-fated IPO
+
+   Reuters September 30, 2019 9:42 PM
+
+   Shawn Layden was one of the major faces of Sony Interactive
+   Entertainment's executive team.
+
+PlayStation studios boss Shawn Layden is latest exec to leave Sony
+
+   Jeff Grubb September 30, 2019 4:51 PM
+
+   Dragalia Lost is coming to mobile on September 27.
+
+Sensor Tower: Dragalia Lost earned $106 Million in its first year
+
+   Mike Minotti September 30, 2019 3:34 PM
+
+   IBM
+
+IBM’s AI generates high-quality voices from 5 minutes of talking
+
+   Kyle Wiggers September 30, 2019 2:31 PM
+
+   Words With Friends
+
+Words With Friends player data allegedly stolen for 218 million users
+
+   Dean Takahashi September 30, 2019 1:10 PM
+
+   TensorFlow and Keras
+
+Google launches TensorFlow 2.0 with tighter Keras integration
+
+   Khari Johnson September 30, 2019 12:49 PM
+
+Google researchers train AI to distinguish 9 Indian languages
+
+   Kyle Wiggers September 30, 2019 11:29 AM
+
+   Toy Story was among the top performing downloads on Minecraft
+   Marketplace last month.
+
+Minecraft Marketplace August 2019: Lucky Blocks tops the charts
+
+   Jeff Grubb September 30, 2019 10:48 AM
+
+   I like the duck a lot.
+
+Tencent will become Funcom’s largest shareholder
+
+   Mike Minotti September 30, 2019 9:43 AM
+
+Google’s highly scalable AI can generate convincingly humanlike speech
+
+   Kyle Wiggers September 30, 2019 9:25 AM
+
+PayPal to be the first foreign online payment platform in China after
+acquiring 70% stake in GoPay
+
+   Paul Sawers September 30, 2019 9:18 AM
+
+   Windows Virtual Desktop example
+
+Microsoft’s Windows Virtual Desktop hits general availability
+
+   Emil Protalinski September 30, 2019 9:00 AM
+
+   Jaunt's AR avatars can be streamed to mobile devices.
+
+Verizon acquires Jaunt XR’s software and technology
+
+   Jeremy Horwitz September 30, 2019 8:41 AM
+
+Google’s VersaillesVR is a hyper-real tour of the famous French palace
+
+   Jeremy Horwitz September 30, 2019 8:04 AM
+
+Instagram’s launch notifier alerts you the moment a product drops
+
+   Kyle Wiggers September 30, 2019 7:58 AM
+
+   Press Release
+
+Ocugen and CanSinoBIO Enter Strategic Partnership for Gene Therapy
+Co-Development and...
+
+   Business Wire September 30, 2019 6:26 AM
+
+   The Tokaido Shinkansen passes by Mount Fuji on its way to Shin-Fuji
+   station.
+
+NTT Docomo’s bullet train mmWave 5G test speeds past 1Gbps
+
+   Jeremy Horwitz September 30, 2019 6:15 AM
+
+   HP Spectre
+
+HP Spectre x360 13: 2.8-pound laptop with double the performance of previous
+model
+
+   Dean Takahashi September 30, 2019 6:00 AM
+
+   Exclusive
+
+DataRobot launches AI Catalog to enable enterprise team collaboration
+
+   Khari Johnson September 30, 2019 5:52 AM
+
+Cuphead surpasses 5 million copies sold
+
+   Jeff Grubb September 30, 2019 5:43 AM
+
+   A new Brain Age for the Nintendo Switch.
+
+Nintendo resurrects Brain Age on Switch
+
+   Jeff Grubb September 30, 2019 5:10 AM
+
+   A photo from the BlackBerry Network Operations Center in Waterloo,
+   Canada.
+
+   Feature
+
+Cylance is golden: BlackBerry’s new cybersecurity R&D lab is all about AI and
+IoT
+
+   Paul Sawers September 30, 2019 5:00 AM
+
+   Nintendo Switch Lite
+
+   Review
+
+Switch Lite review — The best handheld since Game Boy Advance SP
+
+   Jeff Grubb September 30, 2019 4:31 AM
+
+MOST READ
+
+     * Pokémon Go Gen 5.
+       AR is big — 5G will make it huge
+     * Apple’s Deep Fusion hands-on: AI sharpens photos like HDR fixes
+       colors
+     * Bird Two escooter
+       Bird raises $275 million at a $2.5 billion valuation
+     * Microsoft's Surface Pro X eye gaze tech
+       Microsoft’s AI-powered eye gaze tech is exclusive to the Surface
+       Pro X
+     * The Oculus Quest (left) and the Oculus Rift launch May 21.
+       The problem with PC VR is the PC
+
+UPCOMING EVENTS
+
+     * BLUEPRINT March 3-5, 2020
+     * GamesBeat Summit 2020 April 28-29, 2020
+     * Transform July 15-16, 2020
+
+     *
+          + 2019
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+     *
+          + 2018
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2017
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2016
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2015
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2014
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2013
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2012
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2011
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2010
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2009
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2008
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2007
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2006
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2005
+          + Jan
+          + Feb
+          + Mar
+          + Apr
+          + May
+          + Jun
+          + Jul
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+     *
+          + 2004
+          + Aug
+          + Sep
+          + Oct
+          + Nov
+          + Dec
+
+   ABOUT
+   CONTACT
+   CAREERS
+   ADVERTISE
+   Terms of Service Privacy Policy © 2019 VentureBeat. All rights
+   reserved.
+
+   Quantcast [p?c1=2&c2=6035753&cv=2.0&cj=1]
+
+   VentureBeat
+   Take me to the footer ↓ Back to stories ↑
+     * Home
+     * About
+     * Contact
+     * Careers
+     * Advertise
+    #VentureBeat Feed VentureBeat » A 10-year-old designs Gunman Taco
+   Truck with help from legendary gaming parents Comments Feed alternate
+   alternate
+
+   [Icon_Sprites_03.png]
+     * CHANNELS l l
+
+CHANNELS
+          + GamesBeat
+          + AI
+          + AR/VR
+          + Big Data
+          + Business
+          + Cloud
+          + Commerce
+          + Dev
+          + Enterprise
+          + Entrepreneur
+          + Esports
+          + Marketing
+          + Media
+          + Mobile
+          + PC Gaming
+          + Security
+          + Social
+          + Transportation
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * EVENTS l l
+
+VB EVENTS
+          + Upcoming Events
+
+GET INVOLVED
+          + Sponsor
+          + Media Partner
+          + Got a news tip?
+          + Press Releases
+          + Webinars
+          + Advertise
+          + VB Lab
+     * NEWSLETTERS
+     * JOB BOARD
+
+     *
+
+   ____________________
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+     * [Icon_Sprites_03.png]
+
+   ____________________ (BUTTON)
+     * ‹ CHANNELS ›
+
+CHANNELS
+       GamesBeat
+       Entrepreneur
+       AI
+       Esports
+       AR/VR
+       Marketing
+       Big Data
+       Media
+       Business
+       Mobile
+       Cloud
+       PC Gaming
+       Commerce
+       Security
+       Dev
+       Social
+       Enterprise
+       Transportation
+     * ‹ EVENTS ›
+
+VB EVENTS
+       Upcoming Events
+
+GET INVOLVED
+       Sponsor
+       Media Partner
+     * NEWSLETTERS
+     * JOB BOARD
+     * ‹ VENTUREBEAT ›
+       About
+       Advertise
+       Careers
+       Contact
+
+     * Got a news tip?
+     * Press Releases
+     * VB Lab
+
+     * Webinars
+     * Privacy Policy
+
+   GAMES
+
+A 10-year-old designs Gunman Taco Truck with help from legendary gaming
+parents
+
+   Dean Takahashi@deantak March 23, 2015 7:00 AM
+
+   Above: Donovan Romero-Brathwaite designed Gunman Taco Truck.
+   Image Credit: Brenda Romero
+
+MOST READ
+
+     * GeForce Now is coming to Android soon.
+       GeForce Now expands cloud gaming into new territories
+     * Playable Worlds logo
+       Raph Koster’s Playable Worlds raises $2.7 million for sandbox
+       MMORPG
+     * We need more games about geese.
+       Untitled Goose Game will harass PlayStation 4 and Xbox One
+       eventually
+     * The Oculus Quest (left) and the Oculus Rift launch May 21.
+       The problem with PC VR is the PC
+     * Oculus Quest gets Go apps, Passthrough+, and easier firmware
+       updates
+
+UPCOMING EVENTS
+
+     * GamesBeat Summit 2020 April 28-29, 2020
+
+   Ten-year-old Donovan Romero-Brathwaite has quite an imagination, and he
+   has applied it to designing his first video game, a whimsical title
+   called Gunman Taco Truck.
+
+   If he was like most kids, his vision might have ended with a pat on the
+   back after he told his parents his idea. But his folks are legendary
+   game designers Brenda Romero, who worked on Wizardry, and John Romero,
+   one of the people behind Doom. Games are the family business.
+   Gunman Taco Truck was designed by 10-year-old Donovan
+   Brathwaite-Romero.
+
+   Above: Ten-year-old Donovan Romero-Brathwaite designed Gunman Taco
+   Truck.
+   Image Credit: Brenda Romero
+
+   Donovan came up with the idea during a coding lesson with his
+   stepfather, John. His mother, Brenda, used her smartphone to record
+   Donovan describing his idea. Then, she posted the video on Facebook, in
+   which Donovan rocks back and forth with excitement as he talks about
+   the plot of Gunman Taco Truck, which involves a heavily armored and
+   weaponized taco truck.
+
+   Brenda said in an interview with GamesBeat, “Within a short matter of
+   time, a bunch of game developers were saying, ‘Well, you’re going to
+   make it aren’t you?'”
+
+   They decided to do it and assembled a team of six people, made up
+   of family and friends. Donovan’s sisters are testing the game. His
+   brother Michael is helping, as are his parents. A few friends — Paul
+   Conway, Dren McDonald, and Ian Dunbar — are rounding out the work on
+   the art and other details.
+   Romero family and friends: Michael, John, Brenda, and Donovan.
+
+   Above: Left to right: Paul Conway, John Romero, Ian Dunbar, Brenda
+   Romero, Donovan Romero-Brathwaite, and Michael Romero.
+
+   “We’ve got more people on this than most indie games,” John said in an
+   interview.
+
+   They’ve made enough progress to put the game up for pre-order on the
+   Humble Store, which devotes 10 percent of proceeds to charity.
+
+   The title’s story is set after an apocalypse, where a scientist
+   accidentally set off seven atomic bombs and wiped out most of the
+   population. The “last Mexican in the U.S.” is one of the people left
+   standing. A bunch of mutant creatures have emerged and are attacking
+   the survivors. The taco truck driver tries to feed those who are still
+   alive, but he has to heavily arm his taco truck in order to deal with
+   the mutants.
+
+   “Your goal is to get the taco truck to Canada,” Donovan told me.
+   A page from the design doc for Gunman Taco Truck.
+
+   Above: A page from the design doc for Gunman Taco Truck.
+   Image Credit: Brenda Romero
+
+   Donovan got the idea last summer. With help from his stepdad, he
+   created a design document. It described the plot and had drawings of
+   the artwork. It also outlined weapons, creatures, and locations. He
+   completed the document in November, and development began in December
+   using the Corona software development kit.
+
+   “We’re fortunate that we have family and friends to take advantage of
+   his idea and make it a reality,” Brenda said. “He has a good
+   environment. He [is surrounded] by games all of the time. He’s probably
+   at a stage of skill now where I was in my early 20s.”
+   Gunman Taco Truck design doc
+
+   Above: More from the Gunman Taco Truck design doc.
+   Image Credit: Brenda Romero
+
+   The Romeros got an artist to start working on the imagery. While all of
+   the design is Donovan’s, Brenda is working on balancing the game.
+   Players will experience 40 locations and a bunch of monsters, including
+   a devil chicken (who clearly doesn’t want to be part of a taco). The
+   chicken shoots “dark matter” from its beak and lasers from its eyes.
+
+   “The final draft of the design is absolutely ridiculous,” Brenda said.
+   Gunman Taco Truck
+
+   Above: Fight mutants in Gunman Taco Truck.
+   Image Credit: Brenda Romero
+
+   The team completed an alpha version, which is ready for testing.
+   Donovan did the coding for the introduction screens. He’s learning
+   about game-development milestones and how to work with the family as a
+   team.
+
+   They are hoping for a June release on iOS. John said he met with Apple,
+   and the company was excited about it. Any proceeds will go toward
+   Donovan’s college fund, and the title will ship with his hand-drawn
+   design doc.
+
+   Donovan said his creative side comes from the games he plays or
+   watches. He was inspired to see his mother win an award at the recent
+   Game Developers Conference (GDC) in San Francisco. In front of a crowd
+   of thousands, she accepted the honors for the Ambassador Award. Donovan
+   wants to return to the GDC and win an award himself one day.
+
+   “He wanted to be a game developer since he was maybe seven,” Brenda
+   said. “But we thought he had to master reading first. We thought it
+   would be a great exercise to learn coding and design a game while doing
+   that.”
+
+
+   Donovan Brathwaite-Romero and step dad John Romero.
+
+   Above: Donovan Romero-Brathwaite and stepdad John Romero.
+   Image Credit: Brenda Romero
+
+
+   Quantcast [p?c1=2&c2=6035753&cv=2.0&cj=1]

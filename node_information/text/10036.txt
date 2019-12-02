@@ -1,0 +1,1414 @@
+   var css_style=document.createElement("link");
+   css_style.setAttribute("rel", "stylesheet");
+   css_style.setAttribute("type", "text/css");
+   css_style.setAttribute("href",
+   'https://www.planetoscope.com/css/widget.css');
+   css_style.setAttribute("media", "screen");
+   document.getElementsByTagName("head")[0].appendChild(css_style);
+   document.writeln(' '); document.writeln(' '); document.writeln(' ');
+   document.writeln('
+
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   Yaourts jetés à la poubelle avant d\'être consommés
+   '); document.writeln('
+   '); document.writeln('
+   Depuis le 1er janvier
+   '); document.writeln('
+   Chargement ...
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   Depuis que vous êtes connecté
+   '); document.writeln('
+   Chargement ...
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   Plus de stats avec
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+
+   '); var TimeConnecte = new Date(); var newyears = new
+   Date(TimeConnecte.getFullYear(), 0, 1, 0, 0, 0).getTime(); TimeConnecte
+   = new Date().getTime(); var secsSinceNewYears = TimeConnecte -
+   newyears; document.getElementById('planeto_TimeConnecte_1580').value =
+   TimeConnecte;
+   document.getElementById('planeto_secsSinceNewYears_1580').value =
+   secsSinceNewYears; timeRemaining(1580); function
+   timeRemaining(id_planeto) { var tps =
+   parseFloat(document.getElementById('planeto_tps_'+id_planeto).value);
+   var TimeConnecte =
+   parseInt(document.getElementById('planeto_TimeConnecte_'+id_planeto).va
+   lue); var secsSinceNewYears =
+   parseInt(document.getElementById('planeto_secsSinceNewYears_'+id_planet
+   o).value); var NbSecondesConnecte = new Date().getTime() -
+   TimeConnecte; var secsSince = secsSinceNewYears + NbSecondesConnecte;
+   document.getElementById('afficherStat'+id_planeto).innerHTML =
+   string(secsSince * tps /1000);
+   document.getElementById('Connecte'+id_planeto).innerHTML =
+   string(NbSecondesConnecte * tps /1000);
+   setTimeout("timeRemaining("+id_planeto+")", 100); } function
+   string(number) { var tempnum; tempnum= Math.round(number)+""; if
+   (tempnum.length >3) { tempnum = tempnum.substring(0,tempnum.length-3) +
+   " " + tempnum.substring(tempnum.length-3, 99); } if (tempnum.length >7)
+   { tempnum = tempnum.substring(0,tempnum.length-7) + " " +
+   tempnum.substring(tempnum.length-7, 99); } if (tempnum.length >11) {
+   tempnum = tempnum.substring(0,tempnum.length-11) + " " +
+   tempnum.substring(tempnum.length-11, 99); } switch (tempnum.length) {
+   case 11 : tempnum = " " + tempnum; break; case 10 : tempnum = " " +
+   tempnum; break; case 9 : tempnum = " " + tempnum; break; case 8 :
+   tempnum = " " + tempnum; break; case 6 : tempnum = " " + tempnum;
+   break; case 5 : tempnum = " " + tempnum; break; case 3 : tempnum = " "
+   + tempnum; break; case 2 : tempnum = " " + tempnum; break; case 1 :
+   tempnum = " " + tempnum; break; } return tempnum; }
+   var css_style=document.createElement("link");
+   css_style.setAttribute("rel", "stylesheet");
+   css_style.setAttribute("type", "text/css");
+   css_style.setAttribute("href",
+   'https://www.planetoscope.com/css/widget.css');
+   css_style.setAttribute("media", "screen");
+   document.getElementsByTagName("head")[0].appendChild(css_style);
+   document.writeln(' '); document.writeln(' '); document.writeln(' ');
+   document.writeln('
+
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   Nombre de cambriolages en France
+   '); document.writeln('
+   '); document.writeln('
+   Depuis le 1er janvier
+   '); document.writeln('
+   Chargement ...
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   Depuis que vous êtes connecté
+   '); document.writeln('
+   Chargement ...
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+   Plus de stats avec
+   '); document.writeln('
+   '); document.writeln('
+   '); document.writeln('
+
+   '); var TimeConnecte = new Date(); var newyears = new
+   Date(TimeConnecte.getFullYear(), 0, 1, 0, 0, 0).getTime(); TimeConnecte
+   = new Date().getTime(); var secsSinceNewYears = TimeConnecte -
+   newyears; document.getElementById('planeto_TimeConnecte_1174').value =
+   TimeConnecte;
+   document.getElementById('planeto_secsSinceNewYears_1174').value =
+   secsSinceNewYears; timeRemaining(1174); function
+   timeRemaining(id_planeto) { var tps =
+   parseFloat(document.getElementById('planeto_tps_'+id_planeto).value);
+   var TimeConnecte =
+   parseInt(document.getElementById('planeto_TimeConnecte_'+id_planeto).va
+   lue); var secsSinceNewYears =
+   parseInt(document.getElementById('planeto_secsSinceNewYears_'+id_planet
+   o).value); var NbSecondesConnecte = new Date().getTime() -
+   TimeConnecte; var secsSince = secsSinceNewYears + NbSecondesConnecte;
+   document.getElementById('afficherStat'+id_planeto).innerHTML =
+   string(secsSince * tps /1000);
+   document.getElementById('Connecte'+id_planeto).innerHTML =
+   string(NbSecondesConnecte * tps /1000);
+   setTimeout("timeRemaining("+id_planeto+")", 100); } function
+   string(number) { var tempnum; tempnum= Math.round(number)+""; if
+   (tempnum.length >3) { tempnum = tempnum.substring(0,tempnum.length-3) +
+   " " + tempnum.substring(tempnum.length-3, 99); } if (tempnum.length >7)
+   { tempnum = tempnum.substring(0,tempnum.length-7) + " " +
+   tempnum.substring(tempnum.length-7, 99); } if (tempnum.length >11) {
+   tempnum = tempnum.substring(0,tempnum.length-11) + " " +
+   tempnum.substring(tempnum.length-11, 99); } switch (tempnum.length) {
+   case 11 : tempnum = " " + tempnum; break; case 10 : tempnum = " " +
+   tempnum; break; case 9 : tempnum = " " + tempnum; break; case 8 :
+   tempnum = " " + tempnum; break; case 6 : tempnum = " " + tempnum;
+   break; case 5 : tempnum = " " + tempnum; break; case 3 : tempnum = " "
+   + tempnum; break; case 2 : tempnum = " " + tempnum; break; case 1 :
+   tempnum = " " + tempnum; break; } return tempnum; }
+   #Flux RSS Planetoscope
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KX4ZT9
+
+   Planetoscope, statistiques mondiales écologiques en temps réel
+
+Statistiques mondiales écologiques en temps réel*
+
+   Consoglobe Recherchez une stati Submit
+
+Le Planetoscope permet de mesurer les ordres de grandeurs essentiels du
+développement durable et de l'écologie, rapportés à la seconde
+
+     * Agriculture
+       et alimentation
+          + Elevage et viande
+          + Céréales
+          + Sucre et cacao
+          + Pêche et poissons
+          + Boissons
+          + Fruits et légumes
+          + Restauration
+          + Vin et viticulture
+          + Produits laitiers
+          + Bio
+          + Noix & Epices
+          + Alimentation et nutrition
+     * Biodiversité
+          + Faune
+          + Flore
+     * Climat
+          + CO2 et gaz à effet de serre
+          + Le réchauffement climatique
+          + Catastrophes naturelles
+     * Conso
+          + Matières premières
+          + Le papier
+          + Commerce equitable
+          + Hygiène et beauté
+          + Consommation d'eau
+          + Electronique et informatique
+          + Electroménager
+          + Internet
+          + Commerce
+     * Démographie
+       et urbanisme
+          + La mortalité
+          + L'habitat
+          + La natalité
+          + Paris
+          + Crimes et délits
+          + Immigration
+          + Education et Emploi
+          + Lille
+     * Energies
+          + Biocarburants
+          + Energie solaire
+          + Energie nucléaire
+          + Le pétrole
+          + Energie éolienne
+          + Stats Energies
+          + Energie hydraulique
+     * Environnement
+          + L'eau et les océans
+          + Les sols
+          + Les forêts
+          + L'atmosphère
+          + L'Astronomie
+          + Les Pollutions
+          + Fondation Maud Fontenoy
+     * Insolite
+          + L'amour !
+          + Animaux
+          + Etonnant
+          + Noël Noël !
+          + Comptes publics
+     * Loisirs
+          + Tourisme
+          + Jardinage
+          + Sport
+          + Culture
+          + Jeux et Jouets
+          + Education
+     * Recyclage
+       et déchets
+          + Les déchets
+          + Recyclage et collecte
+     * Santé
+          + Drogues
+          + Le corps humain
+          + Maladies
+          + Statistiques Santé
+     * Transports
+          + Automobile
+          + Vélo et deux-roues
+          + Aviation
+          + Statistiques Transports
+     * Entreprises
+          + Michelin
+          + Véolia
+          + Total
+          + McDonald's
+          + BNP Paribas
+          + Tetra Pak
+          + Bic
+          + Alter Eco
+          + Heineken
+          + Yves Rocher
+          + General Motors
+          + Henkel
+          + SNCF
+          + Nokia
+          + La Poste
+          + Puressentiel
+          + consoGlobe
+
+   [puce_fleche.gif] 24h dans le monde
+   [puce_fleche.gif] 24h en France
+   [puce_fleche.gif] Les cartes
+   [puce_fleche.gif] Positive attitude
+   Noël Noël !
+
+Consommation de chocolat en France
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fnoel-noel-%2F1011-consommation-de-chocolat-en-france.html&l
+   ayout=button_count&show_faces=true&width=95&action=like&colorscheme=lig
+   ht&height=21
+
+   Envoyer à un ami
+   J'affiche cette stat sur mon site !
+
+Consommation de chocolat en France
+
+   FR
+   Infos complementaires
+   Le chiffre d'affaires des produits chocolat "finis" (tablettes, pâte à
+   tartiner...) est évalué en 2014 à 3,1 Mds d'euros
+
+   405.000 tonnes de chocolat ont été consommées par les Français en 2015,
+   soit environ plus de 12 kilos par seconde (compteur). En 2014, 33.290
+   tonnes avaient été écoulées pour la période de Noël (9%).
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+   < Statistique précédente Statistique suivante >
+
+Consommation et production de chocolat
+
+Les ventes de chocolat en France
+
+
+   312.309.000 tonnes
+
+   Selon le syndicat du chocolat, 312.309 tonnes ont été vendues en 2014
+   et 476.061 tonnes de ventes à l'export en 2014.
+
+
+   Les Français consacrent en moyenne 110 euros par an au chocolat.
+
+
+   Le chocolat s'est toujours bien porté en temps de crise car même s'il
+   n'appartient pas aux produits de première nécessité, il reste un petit
+   plaisir abordable.
+
+
+   La France est le 7ème pays consommateur de la fève de cacao en Europe
+   (avec 6,7kg par an et par habitant). Il y a en France 97% de gourmands
+   qui consomment du chocolat au moins une fois par semaine.
+
+
+   Le chocolat se vend surtout en tablettes (132.100 tonnes en 2014) mais
+   aussi sous la forme de gâteaux, de bouchées fourrées, de mousses, de
+   boissons, de poudres, de biscuits, etc.
+
+   Selon un sondage LH2 de septembre 2013, 90% des Français déclarent
+   aimer le chocolat et l’associer à la notion de plaisir. 83% des
+   Français mangent du chocolat au moins une fois par semaine.
+
+   Pour la moitié des Français le chocolat est source de réconfort.
+
+   Les femmes « accros »  au chocolat sont plus nombreuses que les hommes
+   (13 vs. 6%), les femmes s’en  sentant plus coupables que les hommes (7
+   vs. 4%).
+
+
+
+La consommation de chocolat en France
+
+
+   405.000.000 kg
+
+
+   405.000 tonnes de chocolat avaient été consommées par les Français en
+   2014 et 2015
+
+
+   Noël représente 9% des ventes annuelles, soit 33.290 tonnes en 2014 et
+   Pâques représente 4% des ventes annuelles.
+
+
+
+Conséquences sur l'environnement et la santé
+
+   Environnement : L'industrie du chocolat est un poids lourd de
+   l'industrie agroalimentaire, mais n'est pourtant pas un exemple en
+   matière d'éthique et de respect de l'environnement. En effet, la
+   culture et la récolte du cacao nécessitent encore très souvent le
+   travail des enfants notamment en Côte d'Ivoire. De plus, pour protéger
+   leurs cultures des maladies, les planteurs utilisent régulièrement des
+   produits chimiques polluants ou des techniques manuelles
+   contraignantes.
+
+   Fabrication : Lors de la production de chocolat classique, les
+   industriels ne sont pas obligés de mentionner la présence de lécithine
+   de soja, un arôme de synthèse, dans la liste des ingrédients si
+   celle-ci n’atteint pas 1% du total des ingrédients.
+
+
+   Par ailleurs, depuis 2003, la Communauté Européenne autorise l'emploi
+   d'autres matières grasses végétales que le beurre de cacao dans le
+   chocolat (jusqu'à 5% du produit fini). On peut ainsi y trouver des
+   ingrédients comme de l'huile de palme, de l'illipé, du karité mais
+   aussi de la lecithine de soja OGM pour lier les ingrédients à la masse
+   grasse, et de la vanille de synthèse (vanilline) adjuvant aromatique,
+   ainsi que du sucre blanc raffiné. (voir Chocolat et chocolat bio dans
+   l'Encyclo ecolo pour plus de détails).
+
+
+   Chargé en vitamines et en polyphénols, aux effets positifs sur le
+   système cardio-vasculaire, le chocolat est également riche en
+   antioxydants.
+
+
+   L’Europe consomme 40% du cacao mondial, devant les Etats-Unis.
+
+
+   L’Asie ,quant à elle, s’ouvre, depuis quelques années au marché du
+   chocolat : le Japon, par exemple, voit sa consommation en forte
+   progression depuis ces dix dernières années.
+
+
+   Le cacao a beau avoir le profil idéal pour les filières équitables, ces
+   modes de culture ne représentent qu’à peine 1% du marché mondial. Selon
+   Philippe Bastide "Pour espérer créer des filières équitables et
+   commercer avec les chocolatiers, les producteurs doivent apprendre à
+   négocier".
+
+
+
+   Le chocolat ne souffre visiblement pas de la crise, il joue plutôt un
+   rôle d'antidépresseur :
+
+
+     * Il existe un grand nombre de déclinaisons de chocolat en tablette
+       sur le marché dans le monde. En France, près de 4 millions de
+       tablettes de chocolat sont consommées chaque jour, soit environ 7
+       kg de chocolat par personne et par an. La consommation annuelle de
+       chocolat par habitant est passée de 4,6 kg en 1993 à 6,95 kg en
+       2008 soit une augmentation de 48% par personne. 30% du chocolat
+       consommé en France est noir contre 5% dans le monde entier.
+
+
+   L'offre de chocolat se diversifie avec de nombreux produits nouveaux,
+   comme les chocolats craquants, pralinés, fourrés à la noisette, etc.Les
+   chocolats de provenances exotiques, qui font rêver, plaisent de plus en
+   plus. La tendance, c’est aussi toujours plus de cacao : certaines
+   marques vont même jusqu’à 99% de cacao, ce qui donne un chocolat très
+   amer.
+
+
+   97 %
+
+
+     * Aujourd'hui 97% de la population française en mangent au moins une
+       fois par semaine ! Un enfant en consommerait en moyenne 11,9 g/
+       jour, un adulte 7,5 g/j. 20% des Français mangent du chocolat
+       chaque jour
+
+   Sources : Fou de chocolat.com - Le portail français du chocolat
+
+
+
+Les tablettes de chocolat, premières de la classe
+
+    32 %
+
+   Les Français sont avant tout adeptes du chocolat en tablette (32% des
+   ventes), avec 132 100 tonnes consommées en 2014, loin devant les autres
+   formes de chocolat que sont les bonbons de chocolat, bouchées et
+   rochers, le cacao en poudre, les barres et pâtes à tartiner.
+
+
+
+     * Après les pâtes alimentaires, l'huile et le sucre, le chocolat en
+       tablette est ainsi le quatrième plus gros marché alimentaire en
+       France avec 93% des foyers qui en achètent.
+
+
+     * Les confiseries de chocolat sont elles présentes dans 69% des
+       foyers, le chocolat en poudre l'est dans 63%, les barres dans 56%
+       et la pâte à tartiner dans 52%.
+
+
+   En 10 ans, la production a augmenté de 20 % avec la structure suivante
+   :
+
+   -  138 000 tonnes de confiserie chocolat
+   -  107 000 tonnes de tablettes
+   -  42 000 tonnes de pâtes à tartiner et autres produits
+   -  37 000 tonnes de cacao en poudre sucré.
+
+
+   85% des ventes de chocolat sont réalisées en grandes surfaces.
+
+
+   sources : Cirad, LSA, Syndicat du Chocolat, La Tribune
+
+
+     * Tout sur le chocolat
+     * Le chocolat et les enfants
+     * Cacao et chocolat équitables
+     * Le cacao, nourriture des Dieux
+     * Chocolat classique vs. chocolat bio, le duel
+
+
+   *
+
+   Statistiques mondiales alimentation
+   < Statistique précédente Statistique suivante >
+
+Commentaires / Ajouts
+
+   Le Planetoscope est alimenté par des bases de données du monde entier
+   et … par vous !
+   Ajoutez une information, un commentaire, des précisions ou d’autres
+   statistiques.
+   Nouvelles statistiques Une stat au hasard
+   Repères
+     * Accueil
+     * Les médias en parlent
+     * Statistique du mois
+     * À propos du Planetoscope
+     * Faire connaître à un ami
+     * Contact
+     * Partager sur Facebook
+
+Les Statistiques de Noël
+
+
+   Rendez-vous dans la boutique consoGlobe pour un Noël écolo !
+
+   pere noel vert
+   L'interview du Père Noël
+
+   chocolat noel
+   Le chocolat reste le cadeau le plus offert à Noël en France
+
+   sapin noel
+   Comment choisir son sapin de Noël ?
+
+
+   achat sapin noel
+   Que faire des cadeaux de Noel qui ne vous plaisent pas ?
+
+   48%
+
+   48% des Français avouent acheter les cadeaux par obligation mais
+   cependant Pour 79,8 % des Français internautes, préparer les cadeaux de
+   Noël reste un plaisir (selon le 6ème Baromètre « Noël d’occasion » de
+   PriceMinister)
+
+   Selon une étude TNS, les Français ont dépensé  270 € en cadeaux de Noel
+   en 2011.
+
+   605
+
+     Le budget moyen que les Français ont alloué aux dépenses de Noël en
+   2010 est de 605 €.
+   145 € pour les festivités, 339 euros pour les cadeaux, soit au total
+   484 € par foyer, c’est ce que prévoient de dépenser les Français pour
+   Noël 11, (baromètre Sofinscope)
+
+
+   1 700 000
+
+     1,7 millions d’Iphone, Galaxy et autres Blackberry ainsi que 650 000
+   téléviseurs LED ont été vendus à Noel 2011.
+
+    400 000 tablettes ont été vendues et figurent au onzième rang des
+   produits qui devraient être les plus vendus à Noël (source GFK)
+
+
+
+Les chiffres de Noël en France
+
+
+
+40 000 tonnes : chocolat consommé en France pendant les fêtes de fin d'année
+
+
+
+   Nos préférés sont les assortiments maison (34%), suivis des spécialités
+   pralinées (31,7%), des cerises griottes (7,1%), et des boules
+   (3,9%). Parmi les autres produits les plus consommés pendant les fêtes
+   de fin d'année : les huîtres, le foie gras, et le saumon fumé.  Source
+   : Rungis
+
+
+4% des  Français achètent tous les cadeaux avant décembre
+
+
+
+   20% font des achats à faire la veille de Noël. 11% des cadeaux sont
+   achetés… après le 25 décembre !
+
+
+
+1,26 million de  lettres au Père Noël
+
+
+
+   Papa Noël a aussi reçu 171 170 emails en 2010.
+
+   Ce sont majoritairement les enfants de 3 à 8 ans qui écrivent, et tous
+   ne sont pas seulement intéressés par les cadeaux : la moitié des
+   lettres correspond à des "commandes", les autres exprimant le plus
+   souvent un souhait ou une intention particulière.
+
+
+   Source : La Poste
+
+   Les statistiques mondiales et statistiques environnement sont sur le
+   Planetoscope
+
+   Consommation durable | Luminothérapie | Savon d'Alep | Huiles
+   essentielles | Encyclo-ecolo
+
+   Statistiques mondiales, statistiques européennes, statistiques
+   écologiques et statistiques françaises : consommation et production de
+   ressources naturelles, chiffres nationaux et chiffres mondiaux, données
+   sur l'environnement et sur l'écologie, ... le Planetoscope est le
+   premier site mondial de statistiques "en temps réel" : des milliers de
+   statistiques avec des explications détaillées et pédagogiques. Le
+   Planetoscope fait partie du portail consoGlobe.
+   © 2012 Planetoscope.com
+   #Flux RSS Planetoscope
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KX4ZT9
+
+   Planetoscope, statistiques mondiales écologiques en temps réel
+
+Statistiques mondiales écologiques en temps réel*
+
+   Consoglobe Recherchez une stati Submit
+
+Le Planetoscope permet de mesurer les ordres de grandeurs essentiels du
+développement durable et de l'écologie, rapportés à la seconde
+
+     * Agriculture
+       et alimentation
+          + Elevage et viande
+          + Céréales
+          + Sucre et cacao
+          + Pêche et poissons
+          + Boissons
+          + Fruits et légumes
+          + Restauration
+          + Vin et viticulture
+          + Produits laitiers
+          + Bio
+          + Noix & Epices
+          + Alimentation et nutrition
+     * Biodiversité
+          + Faune
+          + Flore
+     * Climat
+          + CO2 et gaz à effet de serre
+          + Le réchauffement climatique
+          + Catastrophes naturelles
+     * Conso
+          + Matières premières
+          + Le papier
+          + Commerce equitable
+          + Hygiène et beauté
+          + Consommation d'eau
+          + Electronique et informatique
+          + Electroménager
+          + Internet
+          + Commerce
+     * Démographie
+       et urbanisme
+          + La mortalité
+          + L'habitat
+          + La natalité
+          + Paris
+          + Crimes et délits
+          + Immigration
+          + Education et Emploi
+          + Lille
+     * Energies
+          + Biocarburants
+          + Energie solaire
+          + Energie nucléaire
+          + Le pétrole
+          + Energie éolienne
+          + Stats Energies
+          + Energie hydraulique
+     * Environnement
+          + L'eau et les océans
+          + Les sols
+          + Les forêts
+          + L'atmosphère
+          + L'Astronomie
+          + Les Pollutions
+          + Fondation Maud Fontenoy
+     * Insolite
+          + L'amour !
+          + Animaux
+          + Etonnant
+          + Noël Noël !
+          + Comptes publics
+     * Loisirs
+          + Tourisme
+          + Jardinage
+          + Sport
+          + Culture
+          + Jeux et Jouets
+          + Education
+     * Recyclage
+       et déchets
+          + Les déchets
+          + Recyclage et collecte
+     * Santé
+          + Drogues
+          + Le corps humain
+          + Maladies
+          + Statistiques Santé
+     * Transports
+          + Automobile
+          + Vélo et deux-roues
+          + Aviation
+          + Statistiques Transports
+     * Entreprises
+          + Michelin
+          + Véolia
+          + Total
+          + McDonald's
+          + BNP Paribas
+          + Tetra Pak
+          + Bic
+          + Alter Eco
+          + Heineken
+          + Yves Rocher
+          + General Motors
+          + Henkel
+          + SNCF
+          + Nokia
+          + La Poste
+          + Puressentiel
+          + consoGlobe
+
+   [puce_fleche.gif] 24h dans le monde
+   [puce_fleche.gif] 24h en France
+   [puce_fleche.gif] Les cartes
+   [puce_fleche.gif] Positive attitude
+   Noël Noël !
+   L'affichage des chiffres dynamiques requiert l'activation de Javascript
+   sur votre navigateur.
+   Etonnants, instructifs, inattendus
+
+   Le Planetoscope, c'est la vie de la planète vue à travers l'immensité
+   des statistiques mondiales et de leur évolution. La vie
+   est parfois angoissante, souvent enthousiasmante ... tout simplement
+   foisonnante. Explorez le premier site de statistiques écologiques
+   mondiales en temps réel... vous ne regarderez plus la planète du même
+   oeil !  > Si vous voulez participer au projet Planetoscope, actualiser
+   ou prendre en charge une statistique, rejoignez-nous !
+
+Elevage et viande
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Felevageetviande&layout=button_count&show_faces=true&width=9
+   5&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Consommation de viande en France
+
+   Monde
+
+   En France, on mange 50 kilos de viande de boeuf chaque seconde, soit
+   1,55 million de tonnes de viande par an, dont 18% sont importés, malgré
+   l'importance de l'élevage bovin en France. Cela représente 55 grammes
+   de viande de boeuf par jour par personne en France. La consommation de
+   produits carnés en France a néanmoins diminué de 12% en 10 ans.
+
+   > Lire la suite
+     * Le dossier Alimentation
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Animaux
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fanimaux&layout=button_count&show_faces=true&width=95&action
+   =like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Requins tués dans le monde
+
+   Monde
+
+   Les estimations indiquent que les requins tués chaque année seraient
+   100 millions, soit plus de 3 requins qui sont massacrés chaque seconde
+   en moyenne. Cependant, le même chiffre est utilisé depuis les années
+   1990, et il ne se base que sur des estimations.
+
+   > Lire la suite
+     * Le génocide silencieux des requins
+     * Sauvons les requins du massacre
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Matières premières
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fmatierespremieres&layout=button_count&show_faces=true&width
+   =95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Consommation mondiale de graphite
+
+   Monde
+
+   La consommation de graphite augmente avec la production croissante des
+   batteries électriques et représente 77,7 kilos par seconde, soit 2,45
+   millions de tonnes de graphite en 2016 (compteur en kg).
+
+   > Lire la suite
+     * L'épuisement des ressources naturelles
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+   [EMBED]
+
+Biodiversité
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fbiodiversite&layout=button_count&show_faces=true&width=95&a
+   ction=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Disparition d'espèces dans le monde
+
+   Monde
+   Infos complementaires
+   1,9 million d'espèces végétales et animales sont connues, c'est-à-dire
+   décrites et nommées, nombre sur lequel s'accordent les scientifiques.
+   Selon les estimations, il en resterait 10 ou 100 millions à découvrir.
+
+   Une espèce animale ou de plante disparaît toutes les 20 minutes soit
+   26280 espèces disparues chaque année (compteur). Près d'un quart des
+   espèces animales et végétales pourrait disparaître d'ici le milieu du
+   siècle en raison des activités humaines.
+
+   > Lire la suite
+     * La biodiversité en danger
+     *
+     *
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+La mortalité
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Flamortalite&layout=button_count&show_faces=true&width=95&ac
+   tion=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Noyades dans les piscines en France
+
+   FR
+   Infos complementaires
+   Les noyades se passent souvent à cause d'un manque d'attention des
+   parents ou de l'entourage.
+
+   Durant l'été 2018, l'enquêtes NOYADES (en collaboration avec le
+   ministère de l'Intérieur) a recensé 1649 noyades accidentelles, avec
+   une proportion de décès de 25%. Cela correspond à 4 ou 5 noyades par
+   jour en été.
+
+   > Lire la suite
+     * Piscine - Comment éviter les accidents ?
+     * Ces substances que nous cache... la piscine
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Recyclage et déchets
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Frecyclageetdechets&layout=button_count&show_faces=true&widt
+   h=95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Mégots de cigarettes jetés dans la rue
+
+   Monde
+   Infos complementaires
+   La fumée d'une cigarette pollue autant que 10 voitures diesel tournant
+   au ralenti pendant 30 minutes !
+
+   Dans le monde, 4 300 milliards de mégots de cigarettes sont jetés dans
+   les rues chaque année soit 137 000 mégots par seconde (compteur). En
+   moyenne, il faut 12 ans pour que ces mégots se dégradent complètement.
+   Une vraie plaie pour l'environnement et les budgets municipaux.
+
+   > Lire la suite
+     * Cigarette, pollution non-stop
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+L'eau et les océans
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fl-eauetlesoceans&layout=button_count&show_faces=true&width=
+   95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Déchets jetés dans les mers et les océans
+
+   Monde
+   Infos complementaires
+   Selon le forum économique mondial et la fondation Ellen MacArthur, 32 %
+   des déchets d'emballage plastiques finissent dans la nature en 2016.
+   Selon leur étude, l'utilisation du plastique a été multipliée par 20
+   depuis le milieu du XXe siècle et devrait encore doubler dans les 20
+   prochaines années. Selon cette étude, les déchets plastiques
+   représentent 8 millions de tonnes par an soient l'équivalent d'un
+   camion poubelle déversé dans la mer toutes les minutes.
+
+   634 000 kilos de déchets sont déversés dans les océans chaque seconde
+   (compteur), soit 20 milliards de tonnes de déchets par an, dont 80%
+   proviennent des terres ! En 2015, 192 pays déversent 9,1 millions de
+   tonnes de plastique dans les océans.
+
+   > Lire la suite
+     * Dossier Environnement
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Commerce
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fcommerce&layout=button_count&show_faces=true&width=95&actio
+   n=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Production mondiale d'acier
+
+   Monde
+   Infos complementaires
+   La Chine est le premier producteur mondial d'acier depuis 2008 avec un
+   demi milliard de tonnes produites par an.
+
+   Plus de 57,33 tonnes d'acier sont produites dans le monde chaque
+   seconde (compteur), soit environ 4,9 millions de tonnes par jour ou
+   encore 1,8 milliard de tonnes d'acier par an (2018). Chaque année, on
+   consomme dans le monde autant d'acier que durant la première décennie
+   suivant la Seconde Guerre mondiale !
+
+   > Lire la suite
+     * Pourquoi et comment recycler les métaux
+     * La fin des ressources naturelles
+     *
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Restauration
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Frestauration&layout=button_count&show_faces=true&width=95&a
+   ction=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Consommation de kebabs en France
+
+   Monde
+
+   En France, on consomme chaque année 350 millions de kebabs, soit 11
+   kebabs par seconde. Le kebab est un plat très à la mode et qui nous
+   vient d'Allemagne, d'où provient la majorité de la viande servie dans
+   les broches de kebab. En 2017, on comptait environ 10 000 restaurants à
+   kebab en France, surtout des indépendants issus de la communauté
+   turque.
+
+   > Lire la suite
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Noix & Epices
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fnoix%26epices&layout=button_count&show_faces=true&width=95&
+   action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Production française de lavande
+
+   FR
+
+   La culture de la lavande baisse régulièrement en France, notamment à
+   cause du dépérissement qui ravage les hectares cultivés. On estime que
+   84 tonnes d'huile essentielle de lavande sont produites annuellement
+   (compteur). Ainsi, la France n'est plus le premier producteur mondial
+   de lavande, dépassée par la Bulgarie.
+
+   > Lire la suite
+     * Le Guide des huiles essentielles bio
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Vélo et deux-roues
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fveloetdeux-roues&layout=button_count&show_faces=true&width=
+   95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Nombre de trajets parcourus à vélo en Vélib à Paris
+
+   FR
+
+   En moyenne, ce sont environ 70 millions de km qui sont parcourus
+   annuellement en Vélib' sur la période 2007-2017. Cela représente 2,2 km
+   par seconde (compteur). Ces chiffres ont ensuite baissé depuis que le
+   système a été repris par le consortium Smovengo.
+
+   > Lire la suite
+     * Vélo en ville(s) : l'explosion du vélo en libre service ou gratuit
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Boissons
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fboissons&layout=button_count&show_faces=true&width=95&actio
+   n=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Consommation mondiale de Coca-Cola
+
+   Monde
+
+   Chaque seconde dans le monde, ce sont environ 17360 bouteilles de
+   Coca-Cola qui sont vendues (compteur), soit 1,5 milliard de bouteilles
+   par jour, et 547,5 milliards par an !
+
+   > Lire la suite
+     * Cola : les alternatives au Coca-Cola
+     *
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Maladies
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fmaladies&layout=button_count&show_faces=true&width=95&actio
+   n=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Nouveaux cas de cancer de la peau en France
+
+   Monde
+
+   Chaque année, le nombre de nouveaux cancers de la peau se situe entre
+   80 000 et 100 000 cas en France, soit 246 personnes atteintes chaque
+   jour (compteur). Les femmes demeurent plus touchées par cette forme de
+   cancer de la peau que les hommes.
+
+   > Lire la suite
+     * Le dossier Santé
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+CO2 et gaz à effet de serre
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fco2etgazaeffetdeserre&layout=button_count&show_faces=true&w
+   idth=95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Emissions de CO2 par habitant en France
+
+   FR
+
+   Un Français émet en moyenne 11,9 tonnes d'équivalent CO2 par an, soit
+   environ 32,6 kilos de CO2 émis chaque jour (compteur en kg). A
+   l'origine de ces émissions : nos déplacements, le chauffage, l'eau
+   chaude et l'électricité.
+
+   > Lire la suite
+     * Climat : que faire pour émettre moins de CO2 ?
+     *
+     * Effet de serre. Compensez vos émissions
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Matières premières
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fmatierespremieres&layout=button_count&show_faces=true&width
+   =95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Extraction de sable marin dans le monde
+
+   Monde
+   Infos complementaires
+   Le commerce du sable et des granulats représente environ 70 milliards
+   de dollars par an.
+
+   La disparition du sable est un problème dont on commence à parler car
+   il menace les rivages et la biodiversité. Chaque seconde ce sont près
+   de 1,27 tonnes de sable marin qui sont extraites des fonds marins, soit
+   40 milliards de tonnes par an, essentiellement pour la construction
+   (compteur en tonnes). Le sable et les granulats sont la 3ème ressource
+   la plus utilisée après l'air et l'eau.
+
+   > Lire la suite
+     * Le sable, une ressource en voie de disparition
+     *
+     * La pénurie de sable, c'est pour bient
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+   J'affiche cette stat sur mon site !
+
+Production d'amiante dans le monde
+
+   Monde
+   Infos complementaires
+   Plus de 200 milliards de kilos d'amiante auraient été utilisées dans le
+   monde sur 150 ans depuis le milieu du 19ème siècle
+
+   35 kilos d'amiante sont produits dans le monde chaque seconde, soit 1,1
+   million de tonnes par an (compteur en tonnes). L'exploitation de
+   l'amiante avait atteint un sommet en 1975 avec 5 millions de tonnes
+   avant de baisser puis de repartir à la hausse avec la croissance forte
+   des pays en développement.
+
+   > Lire la suite
+     * Les laines minérale
+     * communauté de l'habitat durable
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+   J'affiche cette stat sur mon site !
+
+Production mondiale de Nickel
+
+   Monde
+
+   Au rythme de consommation actuelle de 63 kilos de nickel par seconde,
+   soit 1,98 million de tonnes (compteur), les réserves de nickel (une
+   ressource non renouvelable) devraient s'épuiser d'ici 2048.
+
+   > Lire la suite
+     * La disparition annoncée du Nickel
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Automobile
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fautomobile&layout=button_count&show_faces=true&width=95&act
+   ion=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Ventes de motos et scooters en France
+
+   FR
+
+   En 2018, 686 scooters, cyclomoteurs ou motos étaient vendus chaque jour
+   en France, soit 250 400 par an (compteur). Malgré une chute du marché
+   des cyclomoteurs, la France se maintient en première place du marché
+   européen des deux-roues motorisés.
+
+   > Lire la suite
+     * Encyclo écolo : le scooter électrique
+     * Tous les articles sur les scooters
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+
+Matières premières
+
+   Toutes les stats
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.planeto
+   scope.com%2Fmatierespremieres&layout=button_count&show_faces=true&width
+   =95&action=like&colorscheme=light&height=21
+
+   J'affiche cette stat sur mon site !
+
+Production mondiale de zinc
+
+   Monde
+
+   On produit 437,7 kilos de zinc par seconde soit 13,8 millions de tonnes
+   par an dans le monde (compteur). Au rythme de consommation actuelle, il
+   reste 15 années de réserves de zinc, qui est une ressource non
+   renouvelable. Les réserves connues sont surtout en Australie (24%), en
+   Chine (18%) et au Pérou (10%).
+
+   > Lire la suite
+     * Epuisement des ressources : le calendrier
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+   J'affiche cette stat sur mon site !
+
+Production mondiale de plomb
+
+   Monde
+
+   On produit plus de 150 kilos de plomb chaque seconde dans le monde,
+   soit plus de 4,7 millions de tonnes par an (compteur en kg). Au rythme
+   de la consommation actuelle, les réserves de plomb seront épuisées
+   d'ici 2030.
+
+   > Lire la suite
+     * Santé. Du plomb dans nos tuyaux
+     * Vélos électriques
+
+   Depuis le 1er janvier
+   Chargement ...
+   Depuis que vous êtes connecté
+   Chargement ...
+   Nouvelles statistiques Une stat au hasard
+   Repères
+     * Accueil
+     * Les médias en parlent
+     * Statistique du mois
+     * À propos du Planetoscope
+     * Faire connaître à un ami
+     * Contact
+     * Partager sur Facebook
+
+   Bienvenue sur le Planetoscope, base de statistiques mondiales, de
+   statistiques européennes ou françaises rapportées la seconde. Découvrez
+   la planète à travers les chiffres et son écologie.
+
+
+   Le PLANETO SUR ANDROID
+
+   statistiques smartphone
+
+
+
+   statistiques environnement
+
+    664 millions
+
+    C'est le nombre de tonnes de CO2 émis par le transport aérien en 2000.
+
+   statistiques environnement
+
+   15 à 37%
+   Environnement 15 à 37% de la biodiversité disparaitraient d'ici 2050.
+   statistiques mondiales
+
+   Chaque année entre 13 et 15 millions d'hectares de forêts disparaissent
+   ... la planète souffre !
+
+
+   Le dossier biodiversité et environnement.
+
+   deforestation
+
+   Habitat écologique. Le secteur du bâtiment rejette chaque année 25 % du
+   total des émissions de CO2 et représente 45,8 % du total des énergies
+   consommées.  Jardin écolo, lessive bio, économies d'énergie, eco
+   pret... Notre dossier pour un habitat écologique et durable.
+
+   gaz a effet de serre
+
+   Alimentation. Selon le WWF, un fruit importé hors saison par avion
+   consomme 10 à 20 fois plus de pétrole que le même fruit acheté
+   localement et en saison. Amap, recettes bio, calendrier de saison,
+   labels... nos bons plans pour manger sain et durable.
+
+
+   Agriculture BIO
+
+   Energies renouvelables. Le soleil offre à la terre 15 000 fois plus
+   d'énergie que l'homme n'en consomme. Mais le solaire et les autres
+   énergies renouvelables ne représentent que 0,4% de la production
+   énergétique mondiale. Les énergies renouvelables peuvent-elles
+   remplacer le pétrole, le charbon ou le nucléaire ? Notre dossier
+   Energies renouvelables
+
+   Recyclage. Environ 2/3 des piles jetables sont encore jetées dans les
+   poubelles ou dans la nature alors que la récupération des piles
+   jetables est une obligation légale en France depuis 1999. Découvrir nos
+   conseils et astuces "recyclage" pour réduire vos déchets.
+
+   recyclage
+
+   Transports. Le transport, c'est 20% des émissions de gaz à effet de
+   serre dans le monde. Infos biocarburant, voitures propres, covoiturage,
+   astuces économies d'esence,... notre dossier transport pour consommer
+   moins et se déplacer plus écolo
+
+   aviation C02
+
+   Baromètre éthique et environnement. Enquête Opinion Way pour LSA oct.
+   2007), 83 % des Français sont prêts à boycotter une marque si celle-ci
+   leur semble néfaste pour l'environnement.
+
+   Notez les entreprises et leurs actions pour l'environnement :
+
+                    Le Baromètre Ethique & Environnement
+
+
+   *
+
+
+   Découvrez l'Encylo Ecolo
+
+   Consommation durable | Luminothérapie | Savon d'Alep | Huiles
+   essentielles | Encyclo-ecolo
+
+   Statistiques mondiales, statistiques européennes, statistiques
+   écologiques et statistiques françaises : consommation et production de
+   ressources naturelles, chiffres nationaux et chiffres mondiaux, données
+   sur l'environnement et sur l'écologie, ... le Planetoscope est le
+   premier site mondial de statistiques "en temps réel" : des milliers de
+   statistiques avec des explications détaillées et pédagogiques. Le
+   Planetoscope fait partie du portail consoGlobe.
+   © 2012 Planetoscope.com
+
+   <
+
+   Mon e-mail__________
+   OK
+   Insérer une statistique
+
+   Gratuit pour un usage personnel ! Pour une utilisation commerciale,
+   contactez marion.orlita[at]consoglobe.com
+   Pour cela, il vous suffit de choisir un format et de copier le code
+   généré sur votre site :
+   (*) 1 [185 x 270] ( ) 2 [185 x 215] ( ) 3 [185 x 135] ( ) 4 [730 x 90]
+   ( ) 5 [300 x 250] ( ) 6 [480 x 90]  ( ) 7 [285 x 90]
+   Voir les exemples des différents formats proposés.
+
+   <script type="text/javascript" src="https://www.planetoscope.com/widge
+   ______________________________________________________________________
+   ______________________________________________________________________

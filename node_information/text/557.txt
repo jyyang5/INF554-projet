@@ -1,0 +1,2906 @@
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   Bureautique cloud : Google travaille sur l’accessibilité hors ligne
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Cloud > Bureautique cloud : Google travaille sur l’access...
+
+Bureautique cloud : Google travaille sur l’accessibilité hors ligne
+
+   Clément Bohic, 25 juin 2019, 12:06
+   Cloud
+   Facebook 1
+   Twitter
+   Linkedin
+
+   Google expérimente une extension du mode hors connexion intégré à
+   Drive. Objectif : s’ouvrir à davantage de formats de fichiers.
+
+   Travailler sans connexion Internet ? Pas forcément évident quand on
+   utilise une suite bureautique cloud.
+
+   Les principales offres du marché disposent d’un mode « hors ligne »
+   pour parer à cette éventualité.
+
+   Du côté de Google, on a intégré, depuis quelques semaines, une telle
+   option sur l’interface web du service Drive. Elle permet aux
+   utilisateurs de G Suite de travailler en local sur des fichiers au
+   format Docs, Sheets et Slides.
+
+   La prochaine étape consiste à s’ouvrir à d’autres fichiers que ceux
+   créés avec les logiciels du groupe américain. À commencer par les PDF,
+   les images et les documents Microsoft Office.
+
+   L’inscription à la bêta se fait par formulaire.
+
+   L’outil repose sur la technologie Drive File Stream. Celle-ci permet,
+   sur PC et Mac, d’accéder à des fichiers sans les télécharger.
+   Les administrateurs G Suite devront l’activer sur leur domaine, puis
+   autoriser le mode hors connexion. Par défaut, ce dernier s’applique à
+   tous les utilisateurs sur tous les appareils.
+
+   Côté utilisateur, il faut confirmer l’activation dans les paramètres de
+   Drive (ou de Docs), après s’être connecté à Chrome avec le compte
+   adéquat.
+
+   La mise hors ligne de documents peut se faire manuellement. Elle est
+   toutefois en partie automatisée si l’espace disque est suffisant.
+
+   google-drive-offline
+   Lire aussi :
+
+Stockage en ligne : 6 solutions pour une PME
+
+Google One prend ses marques en France
+
+Google One : une esquisse d’offre unifiée autour du stockage cloud
+
+   Recommander cet article :
+
+   1 0
+
+   ﻿
+
+   itespresso
+   Inscrivez-vous aux newsletters ITespresso
+   ____________________ ____________________ (BUTTON) Inscription
+
+   Clément Bohic
+   Auteur : Clément Bohic
+
+   Rédacteur pour ITespresso.fr (groupe NetMediaEurope).
+   Lire la biographie de l´auteur  Masquer la biographie de l´auteur
+
+   Avis d'experts de l'IT
+     * Sécurité
+     * Cloud
+
+   Cyberdéfense-Orange-renforce-assises-sécurité-Lexsi
+
+Du ransomware au cryptojacking : quelles conséquences pour la sécurité des
+systèmes d’information ?
+
+   Sécurité IBM
+
+La sécurité de l’IOT, ce n’est pas qu’une affaire de standards, c’est aussi
+une démarche d’adoption : le cas MQTT.
+
+   Sécurité IBM
+   gestionnaires-mots-passe-securite
+
+Cybernétique : quels moyens pour les entreprises de s’y préparer ?
+
+Avis d'Expert : Le rôle des API dans la transformation numérique
+
+   Cloud IBM
+
+Avis d'Expert IBM : La conteneurisation catalyseur du monde hybride
+
+   Cloud IBM
+
+Numérique : le temps de l'augmentation est venu
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   Looker : un atout BI dans l’escarcelle de Google Cloud
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Cloud > Looker : un atout BI dans l’escarcelle de Google ...
+
+Looker : un atout BI dans l’escarcelle de Google Cloud
+
+   Clément Bohic, 7 juin 2019, 10:20
+   CloudEntrepriseFusions-acquisitions
+   Facebook 14
+   Twitter
+   Linkedin
+
+   Google s’empare, pour 2,6 milliards de dollars, de l’entreprise
+   américaine Looker, à l’origine d’une plate-forme d’analyse de données.
+
+   Les liens se resserrent* entre Google et Looker.
+
+   Le premier débourse 2,6 milliards de dollars en cash pour s’offrir le
+   second, à l’origine d’une plate-forme d’analyse de données.
+
+   looker-offre Cette dernière sera intégrée au sein de l’offre Google
+   Cloud. Elle y apportera notamment une composante d’analytique embarquée
+   et des applications verticales (analytique web, marketing et
+   commerciale).
+
+   google-et-looker
+
+   Google affirme que la compatibilité multicloud sera maintenue. Et met
+   en avant les perspectives qu’offre la combinaison avec ses outils de
+   machine learning.
+
+   La dernière valorisation connue pour Looker était de 1,6 milliard de
+   dollars. L’estimation avait été communiquée fin 2018, au sortir d’un
+   tour de table de 103 millions de dollars. Le CEO Frank Bien affirmait
+   alors avoir passé les 1 600 clients et atteint les 100 millions de
+   dollars de revenus annuels.
+
+   La plate-forme exploite un langage de modélisation basé sur SQL. Il est
+   censé faciliter la création de modèles de données réutilisables.
+   Notamment en permettant la modification centralisée des indicateurs et
+   de la logique métier.
+
+   Avec Looker, Google se dote d’une offre transversale à destination des
+   grandes entreprises. Son offre Data Studio, qui vise un autre public
+   (analystes, développeurs et grand public), restera au catalogue.
+
+   * Google revendique « plus de 350 clients en commun » avec Looker.
+
+   Image d’illustration © Looker
+
+   Recommander cet article :
+
+   14 0
+
+   ﻿
+
+   itespresso
+   Inscrivez-vous aux newsletters ITespresso
+   ____________________ ____________________ (BUTTON) Inscription
+
+   Clément Bohic
+   Auteur : Clément Bohic
+
+   Rédacteur pour ITespresso.fr (groupe NetMediaEurope).
+   Lire la biographie de l´auteur  Masquer la biographie de l´auteur
+
+   Avis d'experts de l'IT
+     * Sécurité
+     * Cloud
+
+   Cyberdéfense-Orange-renforce-assises-sécurité-Lexsi
+
+Du ransomware au cryptojacking : quelles conséquences pour la sécurité des
+systèmes d’information ?
+
+   Sécurité IBM
+
+La sécurité de l’IOT, ce n’est pas qu’une affaire de standards, c’est aussi
+une démarche d’adoption : le cas MQTT.
+
+   Sécurité IBM
+   gestionnaires-mots-passe-securite
+
+Cybernétique : quels moyens pour les entreprises de s’y préparer ?
+
+Avis d'Expert : Le rôle des API dans la transformation numérique
+
+   Cloud IBM
+
+Avis d'Expert IBM : La conteneurisation catalyseur du monde hybride
+
+   Cloud IBM
+
+Numérique : le temps de l'augmentation est venu
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   Assistant vocal : Alexa améliore la suppression des requêtes
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Sécurité > Assistant vocal : Alexa améliore la suppression
+   des req...
+
+Assistant vocal : Alexa améliore la suppression des requêtes
+
+   La Rédaction, 31 mai 2019, 16:17
+   CloudSécurité
+   Facebook 1
+   Twitter
+   Linkedin
+
+   Alexa s’enrichit d’une nouvelle fonctionnalité pour supprimer les
+   requêtes vocales d’une journée. En attendant la suppression en temps
+   réel.
+
+   A l’occasion du lancement de sa nouvel écran connecté – Echo Show 5 -,
+   Amazon annonce de nouvelles fonctionnalités pour supprimer les requêtes
+   vocales effectuées via son assistant vocal Alexa.
+
+    » Pour supprimer vos enregistrements vocaux sur tous les appareils
+   compatibles avec Alexa: dites simplement «Alexa, supprimez tout ce que
+   j’ai dit aujourd’hui» et les enregistrements correspondants seront
+   supprimés.  » explique le groupe de Seattle.
+   Echo Show 5
+
+   Et de poursuivre sans donner plus de prévision sur la date de mise en
+   service de la fonctionnalité :  » « Bientôt, les clients pourront
+   également supprimer leur dernière demande en disant: «Alexa, supprimez
+   ce que je viens de dire.»  »
+
+   Une initiative en réponse aux récentes mises en cause  de l’assistant
+   vocal qui ne peut pas  supprimer les traces des enregistrements de
+   commandes vocales collectés, avec les risques d’exposition sur la vie
+   privée qui pourrait en découler.
+
+   Une page « Alexa Privacy Hub » est maintenant disponible sur son site
+   internet pour rassembler toutes les informations sur les
+   fonctionnalités et les réglages relatifs à la confidentialité.
+
+Alexa aussi présent dans les entreprises
+
+   Ce renfort de la sécurité d’Alexa est aussi une exigence pour pénétrer
+   davantage au sein des entreprises où les applications vocales basées
+   sur les technologies des différents assistants – Alexa, Cortana ou
+   Google Assistant – se développent.
+
+   Fin mars, Amazon lançait son service Skill Blueprints, destiné à créer
+   des applications vocales Alexa sans avoir à coder, pour ses clients
+   Entreprise.
+
+   Baptisés « Business Q&A » et « Onboard Guide », les deux premiers
+   modèles prêts à l’emploi sont destinés à répondre aux questions des
+   collaborateurs. Le premier a une portée générale, tandis que le
+   deuxième se destine plus particulièrement aux nouvelles recrues.
+
+   Intégrée aux agendas des messageries Office 365, Microsoft Exchange et
+   G Suite, son offre Alexa for Business propose d’autres options comme la
+   possibilité de réserver une salle de réunion.
+
+   Lancée en 2017, elle est fournie par la division Cloud AWS.
+
+
+
+   Lire aussi :
+
+Windows 10 : Microsoft abolit progressivement les privilèges de Cortana
+
+Amazon fait dialoguer les applications vocales Alexa
+
+De Windows 10 à Skype : Alexa s’insinue un peu plus dans l’univers Microsoft
+
+   Recommander cet article :
+
+   1 0
+
+   ﻿
+
+   itespresso
+   Inscrivez-vous aux newsletters ITespresso
+   ____________________ ____________________ (BUTTON) Inscription
+
+   Auteur : La Rédaction
+
+   Avis d'experts de l'IT
+     * Sécurité
+     * Cloud
+
+   Cyberdéfense-Orange-renforce-assises-sécurité-Lexsi
+
+Du ransomware au cryptojacking : quelles conséquences pour la sécurité des
+systèmes d’information ?
+
+   Sécurité IBM
+
+La sécurité de l’IOT, ce n’est pas qu’une affaire de standards, c’est aussi
+une démarche d’adoption : le cas MQTT.
+
+   Sécurité IBM
+   gestionnaires-mots-passe-securite
+
+Cybernétique : quels moyens pour les entreprises de s’y préparer ?
+
+Avis d'Expert : Le rôle des API dans la transformation numérique
+
+   Cloud IBM
+
+Avis d'Expert IBM : La conteneurisation catalyseur du monde hybride
+
+   Cloud IBM
+
+Numérique : le temps de l'augmentation est venu
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   De l’intelligence embarquée pour une nouvelle ère
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Brandvoice Posts > De l’intelligence embarquée pour une
+   nouvelle ère
+
+De l’intelligence embarquée pour une nouvelle ère
+
+   Junto, 29 mai 2019, 15:01
+   Qu'est-ce que Brand Voice ?
+   CloudMarketing
+   Facebook
+   Twitter
+   Linkedin
+
+   Les grandes conférences annuelles de Google sont régulièrement riches
+   en innovations. Les nouveautés annoncées cette année confèrent
+   notamment au moteur de recherche des propriétés élargies, à l’origine
+   de nouvelles pratiques.
+
+   Où va s’arrêter le géant américain du numérique ? Poussé par des succès
+   et bénéfices en constante croissance, il n’en finit plus d’innover. Sa
+   grande conférence annuelle intitulée Google I/O , qui s’est tenue du 7
+   au 9 mai dernier, a été l’occasion de mettre en lumière des
+   fonctionnalités uniques dotées d’intelligence artificielle et
+   résolument tournées vers l’avenir.
+
+   Le moteur de recherche semble entrer dans une nouvelle phase de son
+   développement avec des usages élargis. Les nouvelles fonctionnalités de
+   recherche annoncées incluent l’indexation des podcasts, de sorte que
+   les utilisateurs puissent effectuer une requête dans les podcasts et
+   ainsi écouter directement les fichiers à partir de la page de
+   recherche. Les résultats fournis sont par ailleurs augmentés : certains
+   termes saisis feront apparaître des modèles 3D interactifs. Ces
+   derniers pourront ensuite être évoqués dans votre environnement à
+   l’aide de la caméra de votre téléphone. Dans le cas d’achat de nouveaux
+   meubles par exemple, ces informations additionnelles sont d’une grande
+   utilité car il représente une aide supplémentaire pour associer le bon
+   produit avec le bon papier peint.
+
+   Les innovations 2019 en la matière concernent également l’appareil
+   photo d’un smartphone. Des recherches approfondies peuvent ainsi
+   apporter un soutien aux populations peu alphabétisées, ou encore donner
+   des informations détaillées sur des recettes de cuisine. Le logiciel
+   permettant la transcription d’un texte à la parole et de la parole à un
+   texte a ainsi été amélioré de façon à mieux s’adapter aux catégories de
+   populations connaissant des difficultés. La solution prend également en
+   compte les problèmes d’élocution.
+
+   Les nouvelles fonctionnalités incluent la possibilité de photographier
+   du texte réel, de l’entendre en restitution vocale et même de le
+   traduire à la volée par le biais de Google Assistant. Un domaine où
+   l’entreprise américaine se montre particulièrement avant-gardiste, à
+   l’image de son système expérimental baptisé Translatotron . D’autres
+   innovations incluent des sous-titres en direct pour la transcription de
+   discours lors de vidéos diffusées en direct. Cette solution permet
+   aussi de visionner des séquences vidéo en sourdine ou de traiter des
+   appels téléphoniques sans perdre une miette de ce qui est dit.
+
+   Parmi les annonces officielles figurent également le lancement d’une
+   initiative visant à utiliser l’apprentissage automatique pour intégrer
+   les schémas de parole des victimes d’accident vasculaire cérébral, ou
+   des personnes souffrant de maladies dégénératives. A l’heure actuelle,
+   celles-ci s’efforcent de se faire comprendre par l’intermédiaire
+   d’assistants vocaux.
+
+   Google confirme par ailleurs la mise en application d’un nouvel
+   algorithme étendu pour les résultats de recherche. Celui-ci sera plus
+   intelligent et pertinent quant aux informations restituées à et leur
+   ordonnancement. A titre d’exemple, lorsqu’une recherche porte sur un
+   article d’actualité relatif à un thème récent comme le Brexit, le
+   moteur proposera une chronologie des événements ainsi que des
+   explications plus détaillées.
+
+   Ces innovations sont l’occasion pour les marques de réfléchir à de
+   nouvelles manières de mettre en avant des contenus sur le moteur de
+   recherche. L’accompagnement par des spécialistes du référencement tels
+   que Junto  s’avère dès lors précieux.
+
+   Les smartphones, leviers d’innovation
+
+   Android, et son potentiel sans limite, est au cœur des nouveaux
+   développements. Environ 2,5 milliards d’appareils dans le monde sont
+   basés sur ce système d’exploitation. Sa prochaine version, Android Q,
+   mettra notamment l’accent sur la sécurité, la confidentialité et le
+   bien-être numérique. Plus de 50 fonctionnalités de cette nouvelle
+   version sont directement en lien avec ces notions. Concrètement, elles
+   facilitent la modification des paramètres de localisation et d’autres
+   informations sensibles. Des contrôles plus précis sur le moment où les
+   applications peuvent utiliser les informations de localisation sont
+   désormais proposés aux utilisateurs. Google facilitera également
+   l’obtention automatique de mises à jour de sécurité sans avoir à
+   redémarrer le téléphone. Enfin, les évolutions notables concernent
+   aussi la prise en charge des appareils pliables qui devrait être
+   rapidement mis sur le marché par plusieurs constructeurs.
+
+   La problématique de conservation des données personnelles est également
+   amenée à évoluer avec le nouveau système d’exploitation. Les
+   utilisateurs qui ne souhaitent pas que leurs informations soient
+   stockées indéfiniment sur des serveurs du géant du numérique dont la
+   localisation est inconnue ont dorénavant la possibilité d’agir. Google
+   a lancé une fonctionnalité de suppression automatique sur Android Q qui
+   permet de définir une limite de temps de sauvegarde des données.
+   Lire aussi :
+
+Syntec Numérique : un bilan IT 2013 morne, un rebond l’an prochain ?
+
+Numérique : un marché français qui manque de souffle
+
+Service de tests : Cognizant avale le français Galileo Performance
+
+   Recommander cet article :
+
+   0 0
+
+   X
+
+Brand Voice
+
+   Brand Voice offre aux marques l'opportunité de s'adresser directement
+   aux internautes, grâce à un format s'intégrant parfaitement dans le
+   fond et la forme du site. Les internautes ont accès à du contenu
+   produit par les marques, en lien avec leurs problématiques
+   professionnelles. Ils peuvent facilement en identifier la provenance
+   grâce à la mention “Brand Voice“ Pour les marques, ce format permet de
+   valoriser leur expertise en partageant du contenu à forte valeur
+   ajoutée. Pour toute demande de renseignements complémentaires,
+   contactez-nous à l'adresse suivante : sleprat@editialis.fr
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   ITespresso.fr » Junto Author Feed
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   L'essentiel
+     * IoT
+     * Blockchain
+     * FinTech
+     * Windows 10
+     * Google
+     * Android
+     * Apple
+     * iphone
+     * Facebook
+     * Télécharger
+
+   Actus IT > Junto
+
+De l’intelligence embarquée pour une nouvelle ère
+
+   Les grandes conférences annuelles de Google sont régulièrement riches
+   en innovations. Les nouveautés annoncées cette année confèrent
+   notamment au moteur de recherche des propriétés élargies, à l’origine
+   de nouvelles pratiques.
+
+   Junto, 29 mai 2019, 15:01
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   Bureautique cloud : Google travaille sur l’accessibilité hors ligne
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Cloud > Bureautique cloud : Google travaille sur l’access...
+
+Bureautique cloud : Google travaille sur l’accessibilité hors ligne
+
+   Clément Bohic, 25 juin 2019, 12:06
+   Cloud
+   Facebook 1
+   Twitter
+   Linkedin
+
+   Google expérimente une extension du mode hors connexion intégré à
+   Drive. Objectif : s’ouvrir à davantage de formats de fichiers.
+
+   Travailler sans connexion Internet ? Pas forcément évident quand on
+   utilise une suite bureautique cloud.
+
+   Les principales offres du marché disposent d’un mode « hors ligne »
+   pour parer à cette éventualité.
+
+   Du côté de Google, on a intégré, depuis quelques semaines, une telle
+   option sur l’interface web du service Drive. Elle permet aux
+   utilisateurs de G Suite de travailler en local sur des fichiers au
+   format Docs, Sheets et Slides.
+
+   La prochaine étape consiste à s’ouvrir à d’autres fichiers que ceux
+   créés avec les logiciels du groupe américain. À commencer par les PDF,
+   les images et les documents Microsoft Office.
+
+   L’inscription à la bêta se fait par formulaire.
+
+   L’outil repose sur la technologie Drive File Stream. Celle-ci permet,
+   sur PC et Mac, d’accéder à des fichiers sans les télécharger.
+   Les administrateurs G Suite devront l’activer sur leur domaine, puis
+   autoriser le mode hors connexion. Par défaut, ce dernier s’applique à
+   tous les utilisateurs sur tous les appareils.
+
+   Côté utilisateur, il faut confirmer l’activation dans les paramètres de
+   Drive (ou de Docs), après s’être connecté à Chrome avec le compte
+   adéquat.
+
+   La mise hors ligne de documents peut se faire manuellement. Elle est
+   toutefois en partie automatisée si l’espace disque est suffisant.
+
+   google-drive-offline
+   Lire aussi :
+
+Stockage en ligne : 6 solutions pour une PME
+
+Google One prend ses marques en France
+
+Google One : une esquisse d’offre unifiée autour du stockage cloud
+
+   Recommander cet article :
+
+   1 0
+
+   ﻿
+
+   itespresso
+   Inscrivez-vous aux newsletters ITespresso
+   ____________________ ____________________ (BUTTON) Inscription
+
+   Clément Bohic
+   Auteur : Clément Bohic
+
+   Rédacteur pour ITespresso.fr (groupe NetMediaEurope).
+   Lire la biographie de l´auteur  Masquer la biographie de l´auteur
+
+   Avis d'experts de l'IT
+     * Sécurité
+     * Cloud
+
+   Cyberdéfense-Orange-renforce-assises-sécurité-Lexsi
+
+Du ransomware au cryptojacking : quelles conséquences pour la sécurité des
+systèmes d’information ?
+
+   Sécurité IBM
+
+La sécurité de l’IOT, ce n’est pas qu’une affaire de standards, c’est aussi
+une démarche d’adoption : le cas MQTT.
+
+   Sécurité IBM
+   gestionnaires-mots-passe-securite
+
+Cybernétique : quels moyens pour les entreprises de s’y préparer ?
+
+Avis d'Expert : Le rôle des API dans la transformation numérique
+
+   Cloud IBM
+
+Avis d'Expert IBM : La conteneurisation catalyseur du monde hybride
+
+   Cloud IBM
+
+Numérique : le temps de l'augmentation est venu
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   Looker : un atout BI dans l’escarcelle de Google Cloud
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Cloud > Looker : un atout BI dans l’escarcelle de Google ...
+
+Looker : un atout BI dans l’escarcelle de Google Cloud
+
+   Clément Bohic, 7 juin 2019, 10:20
+   CloudEntrepriseFusions-acquisitions
+   Facebook 14
+   Twitter
+   Linkedin
+
+   Google s’empare, pour 2,6 milliards de dollars, de l’entreprise
+   américaine Looker, à l’origine d’une plate-forme d’analyse de données.
+
+   Les liens se resserrent* entre Google et Looker.
+
+   Le premier débourse 2,6 milliards de dollars en cash pour s’offrir le
+   second, à l’origine d’une plate-forme d’analyse de données.
+
+   looker-offre Cette dernière sera intégrée au sein de l’offre Google
+   Cloud. Elle y apportera notamment une composante d’analytique embarquée
+   et des applications verticales (analytique web, marketing et
+   commerciale).
+
+   google-et-looker
+
+   Google affirme que la compatibilité multicloud sera maintenue. Et met
+   en avant les perspectives qu’offre la combinaison avec ses outils de
+   machine learning.
+
+   La dernière valorisation connue pour Looker était de 1,6 milliard de
+   dollars. L’estimation avait été communiquée fin 2018, au sortir d’un
+   tour de table de 103 millions de dollars. Le CEO Frank Bien affirmait
+   alors avoir passé les 1 600 clients et atteint les 100 millions de
+   dollars de revenus annuels.
+
+   La plate-forme exploite un langage de modélisation basé sur SQL. Il est
+   censé faciliter la création de modèles de données réutilisables.
+   Notamment en permettant la modification centralisée des indicateurs et
+   de la logique métier.
+
+   Avec Looker, Google se dote d’une offre transversale à destination des
+   grandes entreprises. Son offre Data Studio, qui vise un autre public
+   (analystes, développeurs et grand public), restera au catalogue.
+
+   * Google revendique « plus de 350 clients en commun » avec Looker.
+
+   Image d’illustration © Looker
+
+   Recommander cet article :
+
+   14 0
+
+   ﻿
+
+   itespresso
+   Inscrivez-vous aux newsletters ITespresso
+   ____________________ ____________________ (BUTTON) Inscription
+
+   Clément Bohic
+   Auteur : Clément Bohic
+
+   Rédacteur pour ITespresso.fr (groupe NetMediaEurope).
+   Lire la biographie de l´auteur  Masquer la biographie de l´auteur
+
+   Avis d'experts de l'IT
+     * Sécurité
+     * Cloud
+
+   Cyberdéfense-Orange-renforce-assises-sécurité-Lexsi
+
+Du ransomware au cryptojacking : quelles conséquences pour la sécurité des
+systèmes d’information ?
+
+   Sécurité IBM
+
+La sécurité de l’IOT, ce n’est pas qu’une affaire de standards, c’est aussi
+une démarche d’adoption : le cas MQTT.
+
+   Sécurité IBM
+   gestionnaires-mots-passe-securite
+
+Cybernétique : quels moyens pour les entreprises de s’y préparer ?
+
+Avis d'Expert : Le rôle des API dans la transformation numérique
+
+   Cloud IBM
+
+Avis d'Expert IBM : La conteneurisation catalyseur du monde hybride
+
+   Cloud IBM
+
+Numérique : le temps de l'augmentation est venu
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   Assistant vocal : Alexa améliore la suppression des requêtes
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Sécurité > Assistant vocal : Alexa améliore la suppression
+   des req...
+
+Assistant vocal : Alexa améliore la suppression des requêtes
+
+   La Rédaction, 31 mai 2019, 16:17
+   CloudSécurité
+   Facebook 1
+   Twitter
+   Linkedin
+
+   Alexa s’enrichit d’une nouvelle fonctionnalité pour supprimer les
+   requêtes vocales d’une journée. En attendant la suppression en temps
+   réel.
+
+   A l’occasion du lancement de sa nouvel écran connecté – Echo Show 5 -,
+   Amazon annonce de nouvelles fonctionnalités pour supprimer les requêtes
+   vocales effectuées via son assistant vocal Alexa.
+
+    » Pour supprimer vos enregistrements vocaux sur tous les appareils
+   compatibles avec Alexa: dites simplement «Alexa, supprimez tout ce que
+   j’ai dit aujourd’hui» et les enregistrements correspondants seront
+   supprimés.  » explique le groupe de Seattle.
+   Echo Show 5
+
+   Et de poursuivre sans donner plus de prévision sur la date de mise en
+   service de la fonctionnalité :  » « Bientôt, les clients pourront
+   également supprimer leur dernière demande en disant: «Alexa, supprimez
+   ce que je viens de dire.»  »
+
+   Une initiative en réponse aux récentes mises en cause  de l’assistant
+   vocal qui ne peut pas  supprimer les traces des enregistrements de
+   commandes vocales collectés, avec les risques d’exposition sur la vie
+   privée qui pourrait en découler.
+
+   Une page « Alexa Privacy Hub » est maintenant disponible sur son site
+   internet pour rassembler toutes les informations sur les
+   fonctionnalités et les réglages relatifs à la confidentialité.
+
+Alexa aussi présent dans les entreprises
+
+   Ce renfort de la sécurité d’Alexa est aussi une exigence pour pénétrer
+   davantage au sein des entreprises où les applications vocales basées
+   sur les technologies des différents assistants – Alexa, Cortana ou
+   Google Assistant – se développent.
+
+   Fin mars, Amazon lançait son service Skill Blueprints, destiné à créer
+   des applications vocales Alexa sans avoir à coder, pour ses clients
+   Entreprise.
+
+   Baptisés « Business Q&A » et « Onboard Guide », les deux premiers
+   modèles prêts à l’emploi sont destinés à répondre aux questions des
+   collaborateurs. Le premier a une portée générale, tandis que le
+   deuxième se destine plus particulièrement aux nouvelles recrues.
+
+   Intégrée aux agendas des messageries Office 365, Microsoft Exchange et
+   G Suite, son offre Alexa for Business propose d’autres options comme la
+   possibilité de réserver une salle de réunion.
+
+   Lancée en 2017, elle est fournie par la division Cloud AWS.
+
+
+
+   Lire aussi :
+
+Windows 10 : Microsoft abolit progressivement les privilèges de Cortana
+
+Amazon fait dialoguer les applications vocales Alexa
+
+De Windows 10 à Skype : Alexa s’insinue un peu plus dans l’univers Microsoft
+
+   Recommander cet article :
+
+   1 0
+
+   ﻿
+
+   itespresso
+   Inscrivez-vous aux newsletters ITespresso
+   ____________________ ____________________ (BUTTON) Inscription
+
+   Auteur : La Rédaction
+
+   Avis d'experts de l'IT
+     * Sécurité
+     * Cloud
+
+   Cyberdéfense-Orange-renforce-assises-sécurité-Lexsi
+
+Du ransomware au cryptojacking : quelles conséquences pour la sécurité des
+systèmes d’information ?
+
+   Sécurité IBM
+
+La sécurité de l’IOT, ce n’est pas qu’une affaire de standards, c’est aussi
+une démarche d’adoption : le cas MQTT.
+
+   Sécurité IBM
+   gestionnaires-mots-passe-securite
+
+Cybernétique : quels moyens pour les entreprises de s’y préparer ?
+
+Avis d'Expert : Le rôle des API dans la transformation numérique
+
+   Cloud IBM
+
+Avis d'Expert IBM : La conteneurisation catalyseur du monde hybride
+
+   Cloud IBM
+
+Numérique : le temps de l'augmentation est venu
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   De l’intelligence embarquée pour une nouvelle ère
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Actus IT > Brandvoice Posts > De l’intelligence embarquée pour une
+   nouvelle ère
+
+De l’intelligence embarquée pour une nouvelle ère
+
+   Junto, 29 mai 2019, 15:01
+   Qu'est-ce que Brand Voice ?
+   CloudMarketing
+   Facebook
+   Twitter
+   Linkedin
+
+   Les grandes conférences annuelles de Google sont régulièrement riches
+   en innovations. Les nouveautés annoncées cette année confèrent
+   notamment au moteur de recherche des propriétés élargies, à l’origine
+   de nouvelles pratiques.
+
+   Où va s’arrêter le géant américain du numérique ? Poussé par des succès
+   et bénéfices en constante croissance, il n’en finit plus d’innover. Sa
+   grande conférence annuelle intitulée Google I/O , qui s’est tenue du 7
+   au 9 mai dernier, a été l’occasion de mettre en lumière des
+   fonctionnalités uniques dotées d’intelligence artificielle et
+   résolument tournées vers l’avenir.
+
+   Le moteur de recherche semble entrer dans une nouvelle phase de son
+   développement avec des usages élargis. Les nouvelles fonctionnalités de
+   recherche annoncées incluent l’indexation des podcasts, de sorte que
+   les utilisateurs puissent effectuer une requête dans les podcasts et
+   ainsi écouter directement les fichiers à partir de la page de
+   recherche. Les résultats fournis sont par ailleurs augmentés : certains
+   termes saisis feront apparaître des modèles 3D interactifs. Ces
+   derniers pourront ensuite être évoqués dans votre environnement à
+   l’aide de la caméra de votre téléphone. Dans le cas d’achat de nouveaux
+   meubles par exemple, ces informations additionnelles sont d’une grande
+   utilité car il représente une aide supplémentaire pour associer le bon
+   produit avec le bon papier peint.
+
+   Les innovations 2019 en la matière concernent également l’appareil
+   photo d’un smartphone. Des recherches approfondies peuvent ainsi
+   apporter un soutien aux populations peu alphabétisées, ou encore donner
+   des informations détaillées sur des recettes de cuisine. Le logiciel
+   permettant la transcription d’un texte à la parole et de la parole à un
+   texte a ainsi été amélioré de façon à mieux s’adapter aux catégories de
+   populations connaissant des difficultés. La solution prend également en
+   compte les problèmes d’élocution.
+
+   Les nouvelles fonctionnalités incluent la possibilité de photographier
+   du texte réel, de l’entendre en restitution vocale et même de le
+   traduire à la volée par le biais de Google Assistant. Un domaine où
+   l’entreprise américaine se montre particulièrement avant-gardiste, à
+   l’image de son système expérimental baptisé Translatotron . D’autres
+   innovations incluent des sous-titres en direct pour la transcription de
+   discours lors de vidéos diffusées en direct. Cette solution permet
+   aussi de visionner des séquences vidéo en sourdine ou de traiter des
+   appels téléphoniques sans perdre une miette de ce qui est dit.
+
+   Parmi les annonces officielles figurent également le lancement d’une
+   initiative visant à utiliser l’apprentissage automatique pour intégrer
+   les schémas de parole des victimes d’accident vasculaire cérébral, ou
+   des personnes souffrant de maladies dégénératives. A l’heure actuelle,
+   celles-ci s’efforcent de se faire comprendre par l’intermédiaire
+   d’assistants vocaux.
+
+   Google confirme par ailleurs la mise en application d’un nouvel
+   algorithme étendu pour les résultats de recherche. Celui-ci sera plus
+   intelligent et pertinent quant aux informations restituées à et leur
+   ordonnancement. A titre d’exemple, lorsqu’une recherche porte sur un
+   article d’actualité relatif à un thème récent comme le Brexit, le
+   moteur proposera une chronologie des événements ainsi que des
+   explications plus détaillées.
+
+   Ces innovations sont l’occasion pour les marques de réfléchir à de
+   nouvelles manières de mettre en avant des contenus sur le moteur de
+   recherche. L’accompagnement par des spécialistes du référencement tels
+   que Junto  s’avère dès lors précieux.
+
+   Les smartphones, leviers d’innovation
+
+   Android, et son potentiel sans limite, est au cœur des nouveaux
+   développements. Environ 2,5 milliards d’appareils dans le monde sont
+   basés sur ce système d’exploitation. Sa prochaine version, Android Q,
+   mettra notamment l’accent sur la sécurité, la confidentialité et le
+   bien-être numérique. Plus de 50 fonctionnalités de cette nouvelle
+   version sont directement en lien avec ces notions. Concrètement, elles
+   facilitent la modification des paramètres de localisation et d’autres
+   informations sensibles. Des contrôles plus précis sur le moment où les
+   applications peuvent utiliser les informations de localisation sont
+   désormais proposés aux utilisateurs. Google facilitera également
+   l’obtention automatique de mises à jour de sécurité sans avoir à
+   redémarrer le téléphone. Enfin, les évolutions notables concernent
+   aussi la prise en charge des appareils pliables qui devrait être
+   rapidement mis sur le marché par plusieurs constructeurs.
+
+   La problématique de conservation des données personnelles est également
+   amenée à évoluer avec le nouveau système d’exploitation. Les
+   utilisateurs qui ne souhaitent pas que leurs informations soient
+   stockées indéfiniment sur des serveurs du géant du numérique dont la
+   localisation est inconnue ont dorénavant la possibilité d’agir. Google
+   a lancé une fonctionnalité de suppression automatique sur Android Q qui
+   permet de définir une limite de temps de sauvegarde des données.
+   Lire aussi :
+
+Syntec Numérique : un bilan IT 2013 morne, un rebond l’an prochain ?
+
+Numérique : un marché français qui manque de souffle
+
+Service de tests : Cognizant avale le français Galileo Performance
+
+   Recommander cet article :
+
+   0 0
+
+   X
+
+Brand Voice
+
+   Brand Voice offre aux marques l'opportunité de s'adresser directement
+   aux internautes, grâce à un format s'intégrant parfaitement dans le
+   fond et la forme du site. Les internautes ont accès à du contenu
+   produit par les marques, en lien avec leurs problématiques
+   professionnelles. Ils peuvent facilement en identifier la provenance
+   grâce à la mention “Brand Voice“ Pour les marques, ce format permet de
+   valoriser leur expertise en partageant du contenu à forte valeur
+   ajoutée. Pour toute demande de renseignements complémentaires,
+   contactez-nous à l'adresse suivante : sleprat@editialis.fr
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]
+   #publisher ITespresso.fr » Flux ITespresso.fr » Flux des commentaires
+   ITespresso.fr » Junto Author Feed
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+   ITespresso.fr
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Search for: ____________________
+   Rechercher
+
+     * Menu
+          + Actualité
+               o Cloud
+                    # Datacenters
+                    # Gestion cloud
+                    # Serveurs
+                    # Virtualisation
+               o Data-stockage
+                    # Bases de données
+                    # Big data
+                    # Business intelligence
+                    # Stockage
+               o Entreprise
+                    # Bourse
+                    # Fusions-acquisitions
+                    # Levées de fonds
+                    # Start-up
+               o Management
+                    # Emploi
+                    # Gestion des talents
+                    # Licenciements
+                    # Nominations
+                    # Ressources humaines
+                    # Salaires
+               o Marketing
+                    # CRM
+                    # E-commerce
+                    # E-paiement
+                    # Publicité
+                    # Social Media
+               o Mobilité
+                    # 4G
+                    # Apps mobiles
+                    # OS mobiles
+                    # Portables
+                    # Smartphones
+                    # Tablettes
+                    # Wifi
+               o Poste de travail
+                    # Accessoires
+                    # Chromebook
+                    # Composants
+                    # Mac
+                    # PC
+                    # Systèmes d’exploitation
+               o Régulations
+                    # Censure
+                    # Fiscalité
+                    # Gouvernance
+                    # Juridique
+                    # Législation
+                    # Surveillance
+               o Réseaux
+                    # Gestion réseaux
+                    # Très haut débit
+                    # M2M
+                    # Opérateurs
+                    # VoIP
+               o Sécurité
+                    # Authentification
+                    # CyberDéfense
+                    # Pare-feux
+                    # Risques
+                    # Virus
+          + Dossiers
+               o Métiers du numérique : les tops et les flops de 2017
+               o Dossier Marketing prédictif : les données anticipent nos
+                 désirs
+               o CDO : les 12 travaux
+               o Crowdfunding
+          + Vidéos
+               o Management
+               o Marketing
+          + Livres Blancs
+          + Télécharger
+          + Quiz
+          + Études
+          + Événements
+          + Blog
+          + Partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+          + Services
+               o Documents Juridiques
+               o 4G Zone
+               o Formez-vous en ligne
+               o Testez votre débit Internet
+               o Quelle est mon adresse IP ?
+          + Avis d’Experts
+          + partnerzones
+               o Et si votre transformation digitale passait d’abord par
+                 un ERP Cloud ?
+
+     * Cloud
+     * Management
+     * Marketing
+     * Mobilité
+     * Entreprise
+     * Livres Blancs
+     * Avis d’Experts
+     * IT Interviews
+     * Événements
+     * Partnerzones
+
+   Search for: ____________________
+   Rechercher
+
+   L'essentiel
+     * IoT
+     * Blockchain
+     * FinTech
+     * Windows 10
+     * Google
+     * Android
+     * Apple
+     * iphone
+     * Facebook
+     * Télécharger
+
+   Actus IT > Junto
+
+De l’intelligence embarquée pour une nouvelle ère
+
+   Les grandes conférences annuelles de Google sont régulièrement riches
+   en innovations. Les nouveautés annoncées cette année confèrent
+   notamment au moteur de recherche des propriétés élargies, à l’origine
+   de nouvelles pratiques.
+
+   Junto, 29 mai 2019, 15:01
+
+   [seg?add=6084224&t=2]
+
+   ×
+   Ne manquez pas cet article
+   CRM : les chatbots prennent la parole
+   Lire
+
+   Restons connectés
+     * Suivez-nous
+          + Facebook
+          + Twitter
+          + Google Currents
+          + IOS Application
+          + Android Application
+          + Windows Phone
+          + Blackberry Application
+          + Flux RSS
+     * Newsletters
+     * Connectez-vous
+
+   Services
+     * Votre compte
+     * Testez votre débit Internet
+     * Test couverture 4G et spots Wifi
+     * Quelle est mon adresse IP
+     * Quiz
+     * Plan du site
+
+   Sites
+     * Livres Blancs Informatiques
+     * Télécharger
+     * Silicon
+     * Channelbiz
+     * Ubergizmo
+     * Emplois, jobs Informatique
+
+   Mentions légales
+     * Politique de Confidentialité – Gestion des cookies
+     * Conditions Générales d’Utilisation
+
+   Rester en contact
+     * Nous contacter
+     * Contactez la rédaction
+     * Contactez la régie
+     * Contactez la technique
+     * Proposition de partenariat
+     * Contactez le service étude
+
+   NETMEDIAEUROPE
+     * Brésil
+     * Allemagne
+     * France
+     * Italie
+     * Portugal
+     * Espagne
+     * Royaume-Uni
+     * Monde
+
+   NetMediaEurope © Copyright 2019 Tous droits réservés. A propos de
+   NetMediaEurope
+
+   [seg?add=11175679&t=2]

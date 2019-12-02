@@ -1,0 +1,2844 @@
+   #RSS SlideShare Search alternate alternate alternate alternate
+   alternate alternate Slideshow json oEmbed Profile Slideshow xml oEmbed
+   Profile alternate alternate alternate
+
+   (BUTTON)
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our User
+   Agreement and Privacy Policy.
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our Privacy
+   Policy and User Agreement for details.
+
+   SlideShare Explore Search You
+
+     * LinkedIn SlideShare
+
+     * Upload
+     * Login
+     * Signup
+
+     *
+     * ____________________ (BUTTON) Submit Search
+
+     * Home
+     * Explore
+
+     * Presentation Courses
+     * PowerPoint Courses
+     *
+     * by LinkedIn Learning
+
+   ____________________
+   Successfully reported this slideshow.
+
+   We use your LinkedIn profile and activity data to personalize ads and
+   to show you more relevant ads. You can change your ad preferences
+   anytime.
+   Gender as a Variable to Study Academic Writing
+
+   Gender as a Variable to Study Academic Writing Guillaume Cabanac
+   guillaume.cabanac@univ-tlse3.fr April 27, 2017 http://bit...
+
+   2 1. Prelude on Text and Data Mining 2. Gender as a Variable 3.
+   Solo/Multi-authorships as a Variable 4. Conclusion Gender ...
+
+   3 Questioning scientific texts 1 — Prelude on Text and Data Mining
+
+   4 Questioning scientific texts Academic Search Information Retrieval
+   Exploratory Data Analysis Scientometrics 1 — Prelude ...
+
+   5 1 — Prelude on Text and Data Mining
+
+   What’s in my Toolbox 6 Merton Price Tukey Hartley Hubert Milard 1 —
+   Prelude on Text and Data Mining
+
+   7 In Search of “Opportunity Structures” Research Question: - Compelling
+   - Original / Unexpected - Important (impact) Liter...
+
+   8 Collaboration Scientometrics 2015a Work-life Balance JASIST 2013a
+   Peer Choice BJET 2017 Partnerships j-index Scientometr...
+
+   9 Eponym Extraction Scientometrics 2014b Tables/Figures: Solo vs
+   Multiauthor JASIST 2014 Tables/Figures: ♀ vs ♂ Scientomet...
+
+   10 1. Prelude on Text and Data Mining 2. Gender as a Variable 3.
+   Solo/Multi-authorships as a Variable 4. Conclusion Gender...
+
+   11 Academic Writing – Gender Study  Theory in Psychology (1960’s) 
+   Men are more spatially and mathematically oriented th...
+
+   12 Data Scrapping and Crunching 2 — Gender as a Variable 8,336 journals
+   3,576 single-authored papers in 2011 1,682 papers ...
+
+   13 Academic Writing – Gender Study  Our findings on 1,403
+   single-authored articles in science  Men use 26% more figures ...
+
+   14 1. Prelude on Text and Data Mining 2. Gender as a Variable 3.
+   Solo/Multi-authorships as a Variable 4. Conclusion Gender...
+
+   15 Academic Writing – Study of Collaborations  The “Friday” Hypothesis
+    When writing in groups, it is harder to agree on...
+
+   16 Academic Writing – Study of Collaborations  More tables in
+   multi-author vs. single-author papers 3 — Solo/Multi-author...
+
+   17 Academic Writing – Study of Collaborations  More figures in
+   multi-author vs. single-author papers 3 — Solo/Multi-autho...
+
+   18 1. Prelude on Text and Data Mining 2. Gender as a Variable 3.
+   Solo/Multi-authorship as a Variable 4. Conclusion Gender ...
+
+   19 Take-home Message 4 — Conclusion  We studied the frequency of
+   tabs/figs in papers  Men use more of these (a fraction)...
+
+   20 Text and Data Mining: My views/wishes/hopes  What: TDM and
+   Scientometrics  Evaluation side  Analytic side  Why: She...
+
+   Recommended Bedside Reading ;-) 21 20142011 2014 4 — Conclusion
+
+   Merci http://www.irit.fr/~Guillaume.Cabanac @gcabanac
+   Upcoming SlideShare
+   []
+   Loading in …5
+   ×
+   [] 1
+   (BUTTON)
+   1 of 22 (BUTTON)
+   (BUTTON) (BUTTON)
+   Like this presentation? Why not share!
+     * Share
+     * Email
+     *
+     *
+
+     * The AI Rush The AI Rush by Jean-Baptiste Dumont 2192302 views
+     * AI and Machine Learning Demystified... AI and Machine Learning
+       Demystified... by Carol Smith 4018225 views
+     * 10 facts about jobs in the future 10 facts about jobs in the future
+       by Pew Research Cent... 1025811 views
+     * Harry Surden - Artificial Intellige... Harry Surden - Artificial
+       Intellige... by Harry Surden 847291 views
+     * Inside Google's Numbers in 2017 Inside Google's Numbers in 2017
+       by Rand Fishkin 1431555 views
+     * Pinot: Realtime Distributed OLAP da... Pinot: Realtime Distributed
+       OLAP da... by Kishore Gopalakri... 681128 views
+
+   (BUTTON)
+
+   Share SlideShare
+     __________________________________________________________________
+
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Embed
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Size (px)
+   Start on
+   [X] Show related SlideShares at end
+   WordPress Shortcode ____________________
+   Link ____________________
+
+Gender as a Variable to Study Academic Writing
+
+   181 views
+
+     * (BUTTON) Share
+     * (BUTTON) Like
+     * (BUTTON) Download
+     * ...
+          +
+
+   Guillaume Cabanac
+
+Guillaume Cabanac
+
+   , Associate Professor in Computer Science
+   Follow
+
+   (BUTTON) (BUTTON) (BUTTON)
+
+   Published on May 2, 2017
+
+   Conférence au workshop “Women and
+   men in science: Do we need gender metrics?” du 27 avril 2017 à
+   l'Université Toulouse 2 - Jean Jaurès
+   https://www.irit.fr/~Guillaume.Cabanac/docs/workshopGenderScienceLabexS
+   MS2017.pdf
+   (BUTTON) ...
+
+   Published in: Science
+
+     * 0 Comments
+     * 0 Likes
+     * Statistics
+     * Notes
+
+     * Full Name
+       Full Name
+       Comment goes here.
+       12 hours ago   Delete Reply Block
+       Are you sure you want to Yes No
+       Your message goes here
+
+   no profile picture user
+   ____________________
+   (BUTTON) Post
+     * Be the first to comment
+
+     * Be the first to like this
+
+   No Downloads
+   Views
+   Total views
+   181
+   On SlideShare
+   0
+   From Embeds
+   0
+   Number of Embeds
+   0
+   Actions
+   Shares
+   0
+   Downloads
+   1
+   Comments
+   0
+   Likes
+   0
+   Embeds 0
+   No embeds
+   No notes for slide
+
+Gender as a Variable to Study Academic Writing
+
+    1. 1. Gender as a Variable to Study Academic Writing Guillaume Cabanac
+       guillaume.cabanac@univ-tlse3.fr April 27, 2017
+       http://bit.ly/smsCabanac2017  Topic 2 : Indexing and Information
+       Retrieval IRIS Team: Information Retrieval & Information Synthesis
+    2. 2. 2 1. Prelude on Text and Data Mining 2. Gender as a Variable 3.
+       Solo/Multi-authorships as a Variable 4. Conclusion Gender as a
+       Variable to Study Academic Writing
+    3. 3. 3 Questioning scientific texts 1 — Prelude on Text and Data
+       Mining
+    4. 4. 4 Questioning scientific texts Academic Search Information
+       Retrieval Exploratory Data Analysis Scientometrics 1 — Prelude on
+       Text and Data Mining
+    5. 5. 5 1 — Prelude on Text and Data Mining
+    6. 6. What’s in my Toolbox 6 Merton Price Tukey Hartley Hubert Milard
+       1 — Prelude on Text and Data Mining
+    7. 7. 7 In Search of “Opportunity Structures” Research Question: -
+       Compelling - Original / Unexpected - Important (impact) Literature
+       Review: - Interdisciplinary - Wide timespan Data and Methods: -
+       Original data, preferably open - Mixed methods: Quantitative +
+       qualitative 1 — Prelude on Text and Data Mining
+    8. 8. 8 Collaboration Scientometrics 2015a Work-life Balance JASIST
+       2013a Peer Choice BJET 2017 Partnerships j-index Scientometrics
+       2013 Downright Furies Learned Publishing 2017 Order Effects JASIST
+       2013b Recommendations Topic + Social Scientometrics 2011 1 —
+       Prelude on Text and Data Mining
+    9. 9. 9 Eponym Extraction Scientometrics 2014b Tables/Figures: Solo vs
+       Multiauthor JASIST 2014 Tables/Figures: ♀ vs ♂ Scientometrics 2014a
+       Landscape of a Research Field via Gatekeepers JASIST 2012
+       Unconventional Academic Writing Festschrift J. Hartley 2015 A
+       Lifetime of Writing Scientometrics 2015b Festschrift A. Schubert
+       2016 1 — Prelude on Text and Data Mining
+   10. 10. 10 1. Prelude on Text and Data Mining 2. Gender as a Variable
+       3. Solo/Multi-authorships as a Variable 4. Conclusion Gender as a
+       Variable to Study Academic Writing
+   11. 11. 11 Academic Writing – Gender Study  Theory in Psychology
+       (1960’s)  Men are more spatially and mathematically oriented than
+       women  Women are more verbally oriented than men 2 — Gender as a
+       Variable Hartley, J. & Cabanac, G. (2014). Do men and women differ
+       in their use of tables and graphs in academic publications?
+       Scientometrics, 98, 2, 1161-1172.
+       http://www.kaheel7.com/eng/images/stories/2(5).jpg
+   12. 12. 12 Data Scrapping and Crunching 2 — Gender as a Variable 8,336
+       journals 3,576 single-authored papers in 2011 1,682 papers with 1+
+       figure(s) ♀ or ♂ ?
+   13. 13. 13 Academic Writing – Gender Study  Our findings on 1,403
+       single-authored articles in science  Men use 26% more figures than
+       Women (p < 0.001)  Men use 11% more tables than Women (p = 0.102)
+       … but is the difference practical? 2 — Gender as a Variable
+   14. 14. 14 1. Prelude on Text and Data Mining 2. Gender as a Variable
+       3. Solo/Multi-authorships as a Variable 4. Conclusion Gender as a
+       Variable to Study Academic Writing
+   15. 15. 15 Academic Writing – Study of Collaborations  The “Friday”
+       Hypothesis  When writing in groups, it is harder to agree on text
+       than on figures/graphs  More Figures and Graphs in multi-author
+       papers? 3 — Solo/Multi-authorships as a Variable Cabanac, G.,
+       Hubert, G., & Hartley, J. (2014). Solo versus collaborative
+       writing: Discrepancies in the use of tables and graph in academic
+       articles. Journal of the American Society for Information Science
+       and Technology, 65, 4, 812–820.
+   16. 16. 16 Academic Writing – Study of Collaborations  More tables in
+       multi-author vs. single-author papers 3 — Solo/Multi-authorships as
+       a Variable
+   17. 17. 17 Academic Writing – Study of Collaborations  More figures in
+       multi-author vs. single-author papers 3 — Solo/Multi-authorships as
+       a Variable
+   18. 18. 18 1. Prelude on Text and Data Mining 2. Gender as a Variable
+       3. Solo/Multi-authorship as a Variable 4. Conclusion Gender as a
+       Variable to Study Academic Writing
+   19. 19. 19 Take-home Message 4 — Conclusion  We studied the frequency
+       of tabs/figs in papers  Men use more of these (a fraction)
+       compared to Women  But the difference is much higher between Solo-
+       and Multi-authorships
+   20. 20. 20 Text and Data Mining: My views/wishes/hopes  What: TDM and
+       Scientometrics  Evaluation side  Analytic side  Why: Shed some
+       (more) light on  ... The social worlds in Science  ... Knowledge
+       accumulation  ... Knowledge flows  How : a range of opportunities
+        ... Open datasets (i4oc.org, scienceopen.com...)  ...
+       Interdisciplinary research  ... Varied and complementary methods 4
+       — Conclusion
+   21. 21. Recommended Bedside Reading ;-) 21 20142011 2014 4 — Conclusion
+   22. 22. Merci http://www.irit.fr/~Guillaume.Cabanac @gcabanac
+
+          Recommended
+
+     * Flipping the Classroom
+       Flipping the Classroom
+       Online Course - LinkedIn Learning
+     * Betsy Corcoran on Choosing the Right Technology for Your School
+       Betsy Corcoran on Choosing the Right Technology for Your School
+       Online Course - LinkedIn Learning
+     * PowerPoint 2016: Shortcuts
+       PowerPoint 2016: Shortcuts
+       Online Course - LinkedIn Learning
+     * Interroger la science
+       Interroger la science
+       Guillaume Cabanac
+     * Valoriser le capital documentaire (en sommeil) d’une organisation :
+       exploitation de la pratique d'annotation collective
+       Valoriser le capital documentaire (en sommeil) d’une organisation :
+       exploitat...
+       Guillaume Cabanac
+     * Comment analyser une mobilisation collective dans les réseaux
+       socionumériques : l’exemple des groupes Facebook brésiliens
+       Comment analyser une mobilisation collective dans les réseaux
+       socionumériques...
+       Guillaume Cabanac
+     * Prospection de textes scientifiques : vision prospective
+       Prospection de textes scientifiques : vision prospective
+       Guillaume Cabanac
+     * Questionner le texte scientifique pour caractériser la science et
+       l'innovation
+       Questionner le texte scientifique pour caractériser la science et
+       l'innovation
+       Guillaume Cabanac
+     * Le carnet de l'avent de la sociologie francophone sur Twitter :
+       réseaux et altmetrics de #SocioNoël
+       Le carnet de l'avent de la sociologie francophone sur Twitter :
+       réseaux et al...
+       Guillaume Cabanac
+     * Interroger le texte scientifique
+       Interroger le texte scientifique
+       Guillaume Cabanac
+
+     * English
+     * Español
+     * Português
+     * Français
+     * Deutsch
+
+     * About
+     * Dev & API
+     * Blog
+     * Terms
+     * Privacy
+     * Copyright
+     * Support
+
+     *
+     *
+     *
+     *
+     *
+
+   LinkedIn Corporation © 2019
+
+   ×
+
+Share Clipboard
+     __________________________________________________________________
+
+   ×
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Link ____________________
+
+Public clipboards featuring this slide
+     __________________________________________________________________
+
+   (BUTTON) ×
+   No public clipboards found for this slide
+
+Select another clipboard
+     __________________________________________________________________
+
+   ×
+
+   Looks like you’ve clipped this slide to already.
+   ____________________
+
+   Create a clipboard
+
+You just clipped your first slide!
+
+   Clipping is a handy way to collect important slides you want to go back
+   to later. Now customize the name of a clipboard to store your clips.
+     __________________________________________________________________
+
+   Name* ____________________
+   Description ____________________
+   Visibility
+   Others can see my Clipboard [ ]
+   (BUTTON) Cancel (BUTTON) Save
+
+   Bizographics tracking image
+   #RSS SlideShare Search alternate alternate alternate alternate
+   alternate alternate Slideshow json oEmbed Profile Slideshow xml oEmbed
+   Profile alternate alternate alternate
+
+   (BUTTON)
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our User
+   Agreement and Privacy Policy.
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our Privacy
+   Policy and User Agreement for details.
+
+   SlideShare Explore Search You
+
+     * LinkedIn SlideShare
+
+     * Upload
+     * Login
+     * Signup
+
+     *
+     * ____________________ (BUTTON) Submit Search
+
+     * Home
+     * Explore
+
+     * Presentation Courses
+     * PowerPoint Courses
+     *
+     * by LinkedIn Learning
+
+   ____________________
+   Successfully reported this slideshow.
+
+   We use your LinkedIn profile and activity data to personalize ads and
+   to show you more relevant ads. You can change your ad preferences
+   anytime.
+   Prospection de textes scientifiques : vision prospective
+
+   Prospection de textes scientifiques : vision prospective Guillaume
+   Cabanac guillaume.cabanac@univ-tlse3.fr 19 mars 2017 ht...
+
+   2 Interroger le texte scientifique ? Prélude : mon programme de
+   recherche
+
+   3 Interroger le texte scientifique ? Prélude : mon programme de
+   recherche Requêter recherche d’information Questionner sci...
+
+   4 Prélude : mon programme de recherche
+
+   Dans ma boîte à outils 5 Merton Price Tukey Hartley Hubert Milard
+   Prélude : mon programme de recherche
+
+   6 Prospection de textes scientifiques Rechercher les structures
+   d’opportunités Question de recherche : - captivante - orig...
+
+   7 Prospection de textes scientifiques : vision prospective 1.
+   Questionner les textes scientifiques 2. Focus TDM : quantifi...
+
+   8 Prospection de textes scientifiques : vision prospective 1.
+   Questionner les textes scientifiques 2. Focus TDM : quantifi...
+
+   9 1 — Questionner les textes scientifiques Collaboration Scientometrics
+   2015a Work-life balance JASIST 2013a Peer Choice B...
+
+   10 Éponymes Scientometrics 2014b Visuels tab/fig : solo vs multiauteur
+   JASIST 2014 Visuels tab/fig : ♀ vs ♂ Scientometrics...
+
+   11 Prospection de textes scientifiques : vision prospective 1.
+   Questionner les textes scientifiques 2. Focus TDM : quantif...
+
+   Uncitedness III : l’importance de ne pas être cité 12 “Eponyms remind
+   us that science and scholarship are the work of dedi...
+
+   13  Théories  The Reward System of Science (Merton, 1942, 1957) 
+   Obliteration by Incorporation (Merton, 1988; McCain, 2...
+
+   14 Moissonnage d’éponymes en plein texte 2 — Focus TDM : quantification
+   d’éponymes
+
+   15 Révélation du panthéon scientifique implicite 2 — Focus TDM :
+   quantification d’éponymes
+
+   16 Prospection de textes scientifiques : vision prospective 1.
+   Questionner les textes scientifiques 2. Focus TDM : quantif...
+
+   Émergence de l’Open Access gris/clandestin 17  Domaines  Science de
+   l’information  Sociologie des sciences  Contexte :...
+
+   Étudier l’Open Access clandestin : les enjeux 18 3a — Le marché noir de
+   l’édition scientifique
+
+   19 3a — Le marché noir de l’édition scientifique
+
+   20 Prospection de textes scientifiques : vision prospective 1.
+   Questionner les textes scientifiques 2. Focus TDM : quantif...
+
+   21 #SocioNoël 2015-2016 @xmolenat : « Journaliste @AlterEcoMag &
+   @AlterEcoPlus. L'actualité au prisme des sciences sociale...
+
+   22 #SocioNoël : Rendez-vous annuel 3b — Rencontres science-société via
+   Twitter
+
+   #SocioNoël 2015 : partage de références bibliographiques 3b —
+   Rencontres science-société via Twitter 23
+
+   24 @Excellagence http://excellagence.fr 3b — Rencontres science-société
+   via Twitter
+
+   25 #ESRenPeinture texte visuels popularité 3b — Rencontres
+   science-société via Twitter
+
+   26 #ESRenPeinture 3b — Rencontres science-société via Twitter
+
+   27 #ESRenPeinture : illustration du rapport science-société ? 3b —
+   Rencontres science-société via Twitter
+
+   28 Conclusion et perspectives Prospection de textes scientifiques :
+   vision prospective  Quoi : TDM et pour la scientométr...
+
+   Bibliographie 29 20142011 2014 Prospection de textes scientifiques :
+   vision prospective
+
+   30 Références disponibles en ici :
+   http://www.irit.fr/~Guillaume.Cabanac/cv.pdf Prospection de textes
+   scientifiques : visi...
+
+   Merci http://www.irit.fr/~Guillaume.Cabanac @gcabanac
+   Upcoming SlideShare
+   []
+   Loading in …5
+   ×
+   [] 1
+   (BUTTON)
+   1 of 31 (BUTTON)
+   (BUTTON) (BUTTON)
+   Like this presentation? Why not share!
+     * Share
+     * Email
+     *
+     *
+
+     * L'active learning au coeur de l'app... L'active learning au coeur
+       de l'app... by Magalie Le Gall 9109 views
+     * Elementos de la planeación Elementos de la planeación by Johny
+       Chavarría 55 views
+     * No vulneración del derecho a huelga No vulneración del derecho a
+       huelga by Almudena Álvarez 357 views
+     * practica practica by Miguelanny Paulino 79 views
+     * orientações tcc facab 18 03 2017 orientações tcc facab 18 03 2017
+       by Governo do Estado... 194 views
+     * Innovación tecnológica en la gestió... Innovación tecnológica en la
+       gestió... by Juan Serrano Pérez 153 views
+
+   (BUTTON)
+
+   Share SlideShare
+     __________________________________________________________________
+
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Embed
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Size (px)
+   Start on
+   [X] Show related SlideShares at end
+   WordPress Shortcode ____________________
+   Link ____________________
+
+Prospection de textes scientifiques : vision prospective
+
+   593 views
+
+     * (BUTTON) Share
+     * (BUTTON) Like
+     * (BUTTON) Download
+     * ...
+          +
+
+   Guillaume Cabanac
+
+Guillaume Cabanac
+
+   , Associate Professor in Computer Science
+   Follow
+
+   (BUTTON) (BUTTON) (BUTTON)
+
+   Published on Mar 20, 2017
+
+   Conférence invitée à au colloque « Carrefour de l'IST » CARIST des
+   19-20 mars 2017 à Nancy
+   https://carist.sciencesconf.org
+   (BUTTON) ...
+
+   Published in: Science
+
+     * 3 Comments
+     * 0 Likes
+     * Statistics
+     * Notes
+
+     * Full Name
+       Full Name
+       Comment goes here.
+       12 hours ago   Delete Reply Block
+       Are you sure you want to Yes No
+       Your message goes here
+
+   no profile picture user
+   ____________________
+   (BUTTON) Post
+     * soyujavez
+       soyujavez
+       DOWNLOAD FULL BOOKS, INTO AVAILABLE FORMAT
+       ...................................................................
+       ......................................................
+       ...................................................................
+       ...................................................... 1.DOWNLOAD
+       FULL. PDF EBOOK here { https://tinyurl.com/y6a5rkg5 }
+       ...................................................................
+       ...................................................... 1.DOWNLOAD
+       FULL. EPUB Ebook here { https://tinyurl.com/y6a5rkg5 }
+       ...................................................................
+       ...................................................... 1.DOWNLOAD
+       FULL. doc Ebook here { https://tinyurl.com/y6a5rkg5 }
+       ...................................................................
+       ...................................................... 1.DOWNLOAD
+       FULL. PDF EBOOK here { https://tinyurl.com/y6a5rkg5 }
+       ...................................................................
+       ...................................................... 1.DOWNLOAD
+       FULL. EPUB Ebook here { https://tinyurl.com/y6a5rkg5 }
+       ...................................................................
+       ...................................................... 1.DOWNLOAD
+       FULL. doc Ebook here { https://tinyurl.com/y6a5rkg5 }
+       ...................................................................
+       ......................................................
+       ...................................................................
+       ......................................................
+       ...................................................................
+       ......................................................
+       .............. Browse by Genre Available eBooks
+       ...................................................................
+       ...................................................... Art,
+       Biography, Business, Chick Lit, Children's, Christian, Classics,
+       Comics, Contemporary, Cookbooks, Crime, Ebooks, Fantasy, Fiction,
+       Graphic Novels, Historical Fiction, History, Horror, Humor And
+       Comedy, Manga, Memoir, Music, Mystery, Non Fiction, Paranormal,
+       Philosophy, Poetry, Psychology, Religion, Romance, Science, Science
+       Fiction, Self Help, Suspense, Spirituality, Sports, Thriller,
+       Travel, Young Adult,
+       1 month ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * gcfaure
+       Gilbert FAURE , PU-PH Professeur des Universités Praticien
+       Hospitalier at OKCC/C3O
+       Je vais partager avec Scoop.it que j'utilise régulièrement pour la
+       recherche, l'enseignement et l'apprentissage
+       2 years ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * gcfaure
+       Gilbert FAURE , PU-PH Professeur des Universités Praticien
+       Hospitalier at OKCC/C3O
+       Merci d'avoir partagé pour les Nancéiens absents aux CARIST
+       2 years ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+
+     * Be the first to like this
+
+   No Downloads
+   Views
+   Total views
+   593
+   On SlideShare
+   0
+   From Embeds
+   0
+   Number of Embeds
+   131
+   Actions
+   Shares
+   0
+   Downloads
+   9
+   Comments
+   3
+   Likes
+   0
+   Embeds 0
+   No embeds
+   No notes for slide
+
+Prospection de textes scientifiques : vision prospective
+
+    1. 1. Prospection de textes scientifiques : vision prospective
+       Guillaume Cabanac guillaume.cabanac@univ-tlse3.fr 19 mars 2017
+       http://bit.ly/caristCabanac2017  Thème 2 : Indexation et Recherche
+       d’Informations Équipe IRIS : Information Retrieval & Information
+       Synthesis
+    2. 2. 2 Interroger le texte scientifique ? Prélude : mon programme de
+       recherche
+    3. 3. 3 Interroger le texte scientifique ? Prélude : mon programme de
+       recherche Requêter recherche d’information Questionner
+       scientométrie
+    4. 4. 4 Prélude : mon programme de recherche
+    5. 5. Dans ma boîte à outils 5 Merton Price Tukey Hartley Hubert
+       Milard Prélude : mon programme de recherche
+    6. 6. 6 Prospection de textes scientifiques Rechercher les structures
+       d’opportunités Question de recherche : - captivante - originale /
+       inattendue - importante Revue de la littérature : -
+       interdisciplinaire - sur le temps long Données et méthodes : -
+       données originales en libre accès, de préférence - méthode mixte :
+       quanti + quali
+    7. 7. 7 Prospection de textes scientifiques : vision prospective 1.
+       Questionner les textes scientifiques 2. Focus TDM : quantification
+       d’éponymes 3. Éléments de prospective a. Le marché noir de
+       l’édition scientifique b. Rencontres sciences-société via Twitter
+    8. 8. 8 Prospection de textes scientifiques : vision prospective 1.
+       Questionner les textes scientifiques 2. Focus TDM : quantification
+       d’éponymes 3. Éléments de prospective a. Le marché noir de
+       l’édition scientifique b. Rencontres sciences-société via Twitter
+    9. 9. 9 1 — Questionner les textes scientifiques Collaboration
+       Scientometrics 2015a Work-life balance JASIST 2013a Peer Choice
+       BJET 2017 Partenariat j-index Scientometrics 2013 Downright Furies
+       Learned Publishing 2017 Order Effects JASIST 2013b Recommandations
+       Thématique + Social Scientometrics 2011
+   10. 10. 10 Éponymes Scientometrics 2014b Visuels tab/fig : solo vs
+       multiauteur JASIST 2014 Visuels tab/fig : ♀ vs ♂ Scientometrics
+       2014a 1 — Questionner les textes scientifiques Panorama d’une
+       spécialité via les gatekeepers JASIST 2012 Écriture académique non
+       conventionnelle Festschrift J. Hartley 2015 Écriture sur le temps
+       long Scientometrics 2015b Festschrift A. Schubert 2016
+   11. 11. 11 Prospection de textes scientifiques : vision prospective 1.
+       Questionner les textes scientifiques 2. Focus TDM : quantification
+       d’éponymes 3. Éléments de prospective a. Le marché noir de
+       l’édition scientifique b. Rencontres sciences-société via Twitter
+   12. 12. Uncitedness III : l’importance de ne pas être cité 12 “Eponyms
+       remind us that science and scholarship are the work of dedicated
+       people.” (p. 393) “mnemonic and commemorative device” (p. 121)
+       Merton, R. K. (1942). Science and technology in a democratic order.
+       Journal of Legal and Political Sociology, 1(1), 115–126. “the
+       practice of affixing the name of the scientist to all or part of
+       what he has found, as with the Copernican system, Hooke’s law,
+       Planck’s constant, or Halley’s comet” (p. 643) Merton, R. K.
+       (1957). Priorities in scientific discovery: A chapter in the
+       sociology of science. American Sociological Review, 22(6), 635–659.
+       Cabanac, G. (2014). Extracting and quantifying eponyms in full-text
+       articles. Scientometrics, 98, 3, 1631–1645. 2 — Focus TDM :
+       quantification d’éponymes
+   13. 13. 13  Théories  The Reward System of Science (Merton, 1942,
+       1957)  Obliteration by Incorporation (Merton, 1988; McCain, 2011,
+       2012)  Non-indexed Eponymal Citedness (Száva-Kováts, 1994) 
+       Extraire et quantifier les éponymes en plein texte  Connaître les
+       savants les plus influents d’un champ donné  Amender un
+       dictionnaire d’éponymes  Identifier les tendances et
+       l’incorporation de méthodes Appréciation implicite via les éponymes
+       2 — Focus TDM : quantification d’éponymes
+   14. 14. 14 Moissonnage d’éponymes en plein texte 2 — Focus TDM :
+       quantification d’éponymes
+   15. 15. 15 Révélation du panthéon scientifique implicite 2 — Focus TDM
+       : quantification d’éponymes
+   16. 16. 16 Prospection de textes scientifiques : vision prospective 1.
+       Questionner les textes scientifiques 2. Focus TDM : quantification
+       d’éponymes 3. Éléments de prospective a. Le marché noir de
+       l’édition scientifique b. Rencontres sciences-société via Twitter
+   17. 17. Émergence de l’Open Access gris/clandestin 17  Domaines 
+       Science de l’information  Sociologie des sciences  Contexte :
+       (non)-accès à l’IST  8 millions de chercheurs + des amateurs
+       (sciences participatives) + grand public  114 millions de
+       documents scientifiques en ligne mais seulement 24 % accessibles
+       librement  Défi : dévoiler rouages et contenu des bibliothèques
+       clandestines  Library Genesis (23M d’articles, 1M d’ouvrages),
+       Sci-Hub, #icanhazpdf, /r/scholar  Contribution : article JASIST
+       accepté en octobre 2014  Alimentation : biblioleaks +
+       crowdsourcing  Contenu : distribution des éditeurs, disciplines,
+       langues… @rickypo Cabanac, G. (2016). Bibliogifts in LibGen? A
+       study of a text-sharing platform driven by biblioleaks and
+       crowdsourcing. Journal of the Association for Information Science
+       and Technology, 67, 4, 874–884. 3a — Le marché noir de l’édition
+       scientifique
+   18. 18. Étudier l’Open Access clandestin : les enjeux 18 3a — Le marché
+       noir de l’édition scientifique
+   19. 19. 19 3a — Le marché noir de l’édition scientifique
+   20. 20. 20 Prospection de textes scientifiques : vision prospective 1.
+       Questionner les textes scientifiques 2. Focus TDM : quantification
+       d’éponymes 3. Éléments de prospective a. Usages de l’IST grise b.
+       Rencontres science-société via Twitter
+   21. 21. 21 #SocioNoël 2015-2016 @xmolenat : « Journaliste @AlterEcoMag
+       & @AlterEcoPlus. L'actualité au prisme des sciences sociales, et
+       vice versa ». 3b — Rencontres science-société via Twitter
+   22. 22. 22 #SocioNoël : Rendez-vous annuel 3b — Rencontres
+       science-société via Twitter
+   23. 23. #SocioNoël 2015 : partage de références bibliographiques 3b —
+       Rencontres science-société via Twitter 23
+   24. 24. 24 @Excellagence http://excellagence.fr 3b — Rencontres
+       science-société via Twitter
+   25. 25. 25 #ESRenPeinture texte visuels popularité 3b — Rencontres
+       science-société via Twitter
+   26. 26. 26 #ESRenPeinture 3b — Rencontres science-société via Twitter
+   27. 27. 27 #ESRenPeinture : illustration du rapport science-société ?
+       3b — Rencontres science-société via Twitter
+   28. 28. 28 Conclusion et perspectives Prospection de textes
+       scientifiques : vision prospective  Quoi : TDM et pour la
+       scientométrie  Prospection à visée évaluatrice  Prospection à
+       visée analytique  Pourquoi : éclairer sur  ... les mondes sociaux
+       scientifiques  ... la création des connaissances  ... la
+       circulation des savoirs  Comment : des opportunités  ... données
+       accessibles librement  ... questions interdisciplinaires  ...
+       méthodes diverses et complémentaires
+   29. 29. Bibliographie 29 20142011 2014 Prospection de textes
+       scientifiques : vision prospective
+   30. 30. 30 Références disponibles en ici :
+       http://www.irit.fr/~Guillaume.Cabanac/cv.pdf Prospection de textes
+       scientifiques : vision prospective
+   31. 31. Merci http://www.irit.fr/~Guillaume.Cabanac @gcabanac
+
+          Recommended
+
+     * Creative Insights: Renaldo Lawrence on Elearning
+       Creative Insights: Renaldo Lawrence on Elearning
+       Online Course - LinkedIn Learning
+     * Blackboard 9.x Essential Training: Instructors
+       Blackboard 9.x Essential Training: Instructors
+       Online Course - LinkedIn Learning
+     * Elearning Techniques: Visual Design
+       Elearning Techniques: Visual Design
+       Online Course - LinkedIn Learning
+     * L'active learning au coeur de l'apprentissage
+       L'active learning au coeur de l'apprentissage
+       Magalie Le Gall
+     * Elementos de la planeación
+       Elementos de la planeación
+       Johny Chavarría
+     * No vulneración del derecho a huelga
+       No vulneración del derecho a huelga
+       Almudena Álvarez
+     * practica
+       practica
+       Miguelanny Paulino
+     * orientações tcc facab 18 03 2017
+       orientações tcc facab 18 03 2017
+       Governo do Estado de São Paulo
+     * Innovación tecnológica en la gestión, organización y funcionamiento
+       del ies monterroso
+       Innovación tecnológica en la gestión, organización y funcionamiento
+       del ies m...
+       Juan Serrano Pérez
+     * Cardiac Deseases And Herbs Use Against Them
+       Cardiac Deseases And Herbs Use Against Them
+       Usman Sarwar
+
+     * English
+     * Español
+     * Português
+     * Français
+     * Deutsch
+
+     * About
+     * Dev & API
+     * Blog
+     * Terms
+     * Privacy
+     * Copyright
+     * Support
+
+     *
+     *
+     *
+     *
+     *
+
+   LinkedIn Corporation © 2019
+
+   ×
+
+Share Clipboard
+     __________________________________________________________________
+
+   ×
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Link ____________________
+
+Public clipboards featuring this slide
+     __________________________________________________________________
+
+   (BUTTON) ×
+   No public clipboards found for this slide
+
+Select another clipboard
+     __________________________________________________________________
+
+   ×
+
+   Looks like you’ve clipped this slide to already.
+   ____________________
+
+   Create a clipboard
+
+You just clipped your first slide!
+
+   Clipping is a handy way to collect important slides you want to go back
+   to later. Now customize the name of a clipboard to store your clips.
+     __________________________________________________________________
+
+   Name* ____________________
+   Description ____________________
+   Visibility
+   Others can see my Clipboard [ ]
+   (BUTTON) Cancel (BUTTON) Save
+
+   Bizographics tracking image
+   #RSS SlideShare Search alternate alternate alternate alternate
+   alternate alternate Slideshow json oEmbed Profile Slideshow xml oEmbed
+   Profile alternate alternate alternate
+
+   (BUTTON)
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our User
+   Agreement and Privacy Policy.
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our Privacy
+   Policy and User Agreement for details.
+
+   SlideShare Explore Search You
+
+     * LinkedIn SlideShare
+
+     * Upload
+     * Login
+     * Signup
+
+     *
+     * ____________________ (BUTTON) Submit Search
+
+     * Home
+     * Explore
+
+     * Presentation Courses
+     * PowerPoint Courses
+     *
+     * by LinkedIn Learning
+
+   ____________________
+   Successfully reported this slideshow.
+
+   We use your LinkedIn profile and activity data to personalize ads and
+   to show you more relevant ads. You can change your ad preferences
+   anytime.
+   Questionner le texte scientifique pour caractériser la science et
+   l'innovation
+
+   Questionner le texte scientifique pour caractériser la science et
+   l’innovation Guillaume Cabanac guillaume.cabanac@univ-tl...
+
+   2 Interroger le texte scientifique ? Prélude : programme de recherche
+
+   3 Interroger le texte scientifique ? Prélude : programme de recherche
+   Requêter recherche d’information Questionner sciento...
+
+   4 Prélude : programme de recherche
+
+   Dans ma boîte à outils 5 Merton Price Tukey Hartley Hubert Milard
+   Prélude : programme de recherche
+
+   6 Prospection sur textes scientifiques La matière première 1. Notice
+   bibliographique a. Nature des collaborations b. Posit...
+
+   7 Cabanac, G., Hubert, G., & Milard, B. (2015). Academic careers in
+   Computer Science: continuance and transience of lifeti...
+
+   8 Source: https://projects.groept.be/~emedia La population (N = 1 870
+   054) L’échantillon des « quinquas » (N = 209 377) 1a...
+
+   9 Collaborations entretenues versus éphémères 1a — Nature des
+   collaborations scientifiques
+
+   10 Renouvellement 1a — Nature des collaborations scientifiques
+
+   11 Effet Matthieu et homophilie 1a — Nature des collaborations
+   scientifiques
+
+   12 Positions dans le champ 1b — Positions des élites dans le champ de
+   l’informatique
+
+   13 La matière première 1. Notice bibliographique 2. Plein texte a.
+   Éponymie et panthéon b. Équilibre travail-loisirs c. Éc...
+
+   Uncitedness III : l’importance de ne pas être cité 14 “Eponyms remind
+   us that science and scholarship are the work of dedi...
+
+   15  Théories  The Reward System of Science (Merton, 1942, 1957) 
+   Obliteration by Incorporation (Merton, 1988; McCain, 2...
+
+   16 Moissonnage d’éponymes en plein texte 2a — Éponymie et panthéon
+   scientifique
+
+   17 Révélation du panthéon scientifique implicite 2a — Éponymie et
+   panthéon scientifique
+
+   Work-life Balance 18 Cabanac, G., & Hartley, J. (2013). Issues of
+   work-life balance among JASIST authors and editors. JASI...
+
+   Fragrances du Publish or Perish ? 19 2b — Équilibre travail-loisirs
+
+   20 Faire parler les « séquelles » de la peer review Sunday! 2b —
+   Équilibre travail-loisirs
+
+   21 Ce que les traces révèlent... Authors Editors 2b — Équilibre
+   travail-loisirs
+
+   22 Travailler dans sa bulle le week-end ? […] 2b — Équilibre
+   travail-loisirs
+
+   23 Écriture et genre de l’auteur 1/3  Théorie et observations en
+   psychologie dans les années 1960  Men are more spatiall...
+
+   24  Résultats sur 1 403 articles mono-signés en STM  Les hommes
+   emploient 26 % plus de figures que les femmes (p < 0.001...
+
+   25  Hypothèse  Il est plus difficile de s’accorder sur du texte que
+   sur des figures/graphes  Davantage de figures et gr...
+
+   26  Davantage de tableaux dans les articles co-signés vs. mono-signés
+   2c — Écriture scientifique : collectifs et genre Éc...
+
+   27  Davantage de figures dans les articles co-signés vs. mono-signés
+   2c — Écriture scientifique : collectifs et genre Écr...
+
+   28 La matière première 1. Notice bibliographique 2. Plein texte 3. Site
+   web d’une maison d’édition a. Effets d’ordonnancem...
+
+   29 Différences entre champs disciplinaires : les confs 3a — Effets
+   d’ordonnancement sur l’évaluation par les pairs
+
+   30 Conférences : et si la date de soumission importait ?   Évaluation
+   par les pairs Cabanac, G., & Preuss, T. (2013). Ca...
+
+   31 3a — Effets d’ordonnancement sur l’évaluation par les pairs
+
+   32 Le biais de la date de soumission  Données de ConfMaster : 42
+   conférences en informatique 3a — Effets d’ordonnancement...
+
+   33 Biais de la date de soumission  Influence sur les enchères (bids)
+   3a — Effets d’ordonnancement sur l’évaluation par le...
+
+   34 Faites évaluer par ceux qui le veulent ! 3a — Effets
+   d’ordonnancement sur l’évaluation par les pairs
+
+   35 Les gardiens de l’évaluation par les pairs : gatekeepers (Braun,
+   2009) Cabanac, G. (2012). Shaping the landscape of res...
+
+   36 77 revues « cœur » en IS selon une autorité : le WoS 3b — Panorama
+   de la recherche en systèmes d’information
+
+   37 Analyse exploratoire des données recueillies  77 revues  2 846
+   gatekeepers 3b — Panorama de la recherche en systèmes ...
+
+   38 3b — Panorama de la recherche en systèmes d’information Analyse
+   exploratoire des données recueillies
+
+   39 Graphe thématique des 77 revues référencées en SI 3b — Panorama de
+   la recherche en systèmes d’information
+
+   40 Influence, pouvoir, verrouillage... (1984) 3b — Panorama de la
+   recherche en systèmes d’information
+
+   41 Un siège à la table des négociations ? 3b — Panorama de la recherche
+   en systèmes d’information
+
+   42 (Manque de) Diversité géographique et de genre 3b — Panorama de la
+   recherche en systèmes d’information
+
+   43 La matière première 1. Notice bibliographique 2. Plein texte 3. Site
+   web d’une maison d’édition 4. Plateforme de partag...
+
+   Émergence de l’Open Access gris/clandestin 44  Domaines  Science de
+   l’information  Sociologie des sciences  Contexte :...
+
+   Étudier l’Open Access clandestin : les enjeux 45 4a — Le marché noir de
+   l’édition scientifique
+
+   46 La matière première 1. Notice bibliographique 2. Plein texte 3. Site
+   web d’une maison d’édition 4. Plateforme de partag...
+
+   Que fait ce labo multi-site de 686 personnes ? 47 5a — Collaborations
+   et thématiques d’un laboratoire
+
+   Que fait ce labo de 686 personnes ? 48
+   http://www.irit.fr/IMG/pdf/ORGANIGRAMME_IRIT_RECHERCHE_MAI_2015.pdf 5a
+   — Collaborat...
+
+   Que fait ce labo de 686 personnes ? 49
+   https://websecu.irit.fr/IMG/pdf/Rapport_Web_HCERES_IRIT.pdf 5a —
+   Collaborations et ...
+
+   Des données publiques… 50 5a — Collaborations et thématiques d’un
+   laboratoire
+
+   Analyse scientométrique  Contexte : l’évaluation de l’IRIT (octobre
+   2014)  Question : qu’apprend-t-on de l’analyse des p...
+
+   Méthodo : les collaborations inter-thèmes  Graphe des collaborations 
+   Un sommet = un membre de l’IRIT  Couleur : son th...
+
+   53 T2 T1 T3 T4 T5 T7 T6 Preuve de concept : IRIT Données : • 2009-2014
+   • RICL, RNCL, CICL, CNCL • 260 auteurs • 3 860 arti...
+
+   Méthodo : les thématiques  Analyse lexicométrique  Un titre de
+   publication = un document  Focus sur les RICL et CICL po...
+
+   55Réalisé avec Iramuteq Caractérisation des thématiques 1/2 5a —
+   Collaborations et thématiques d’un laboratoire
+
+   56 Interprétation : • 4 objets principaux • Des pétales à explorer NB :
+   le nombre de mots représentés peut être paramétré ...
+
+   57 Conclusion et perspectives générales Reconnaître les structures
+   d’opportunités Question de recherche : - captivante - o...
+
+   Merci http://www.irit.fr/~Guillaume.Cabanac @gcabanac
+   Upcoming SlideShare
+   []
+   Loading in …5
+   ×
+   [] 1
+   (BUTTON)
+   1 of 58 (BUTTON)
+   (BUTTON) (BUTTON)
+   Like this presentation? Why not share!
+     * Share
+     * Email
+     *
+     *
+
+     * Achieve Cloud Success with ServiceN... Achieve Cloud Success with
+       ServiceN... by ServiceNow 2003 views
+     * Laura alejandra tapia hernandez Laura alejandra tapia hernandez
+       by pipe palencia 175 views
+     * Juan felipe palencia figueredo Juan felipe palencia figueredo
+       by pipe palencia 142 views
+     * Planeación matemáticas primero 7.2.1 Planeación matemáticas primero
+       7.2.1 by yodzonot123 2198 views
+     * Anabell Anabell by Anabell Barroso 154 views
+     * Animals mini book Animals mini book by Pedro Marques 148 views
+
+   (BUTTON)
+
+   Share SlideShare
+     __________________________________________________________________
+
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Embed
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Size (px)
+   Start on
+   [X] Show related SlideShares at end
+   WordPress Shortcode ____________________
+   Link ____________________
+
+Questionner le texte scientifique pour caractériser la science et
+l'innovation
+
+   501 views
+
+     * (BUTTON) Share
+     * (BUTTON) Like
+     * (BUTTON) Download
+     * ...
+          +
+
+   Guillaume Cabanac
+
+Guillaume Cabanac
+
+   , Associate Professor in Computer Science
+   Follow
+
+   (BUTTON) (BUTTON) (BUTTON)
+
+   Published on Mar 8, 2017
+
+   Conférence invitée à la journée TERRE-ISTEX du 9 mars 2017 à Pau
+   https://www.irit.fr/~Guillaume.Cabanac/docs/terreIstex2017.pdf
+   (BUTTON) ...
+
+   Published in: Science
+
+     * 0 Comments
+     * 2 Likes
+     * Statistics
+     * Notes
+
+     * Full Name
+       Full Name
+       Comment goes here.
+       12 hours ago   Delete Reply Block
+       Are you sure you want to Yes No
+       Your message goes here
+
+   no profile picture user
+   ____________________
+   (BUTTON) Post
+     * Be the first to comment
+
+     * bobb81
+       Uju Bib , Bibliothécaire assistant spécialisé at UPPA
+       1 year ago
+     * AnochkaHdr
+       Anochka Hdr , Étudiant(e) (université mouhamed kheider biskra)
+       2 years ago
+
+   No Downloads
+   Views
+   Total views
+   501
+   On SlideShare
+   0
+   From Embeds
+   0
+   Number of Embeds
+   1
+   Actions
+   Shares
+   0
+   Downloads
+   7
+   Comments
+   0
+   Likes
+   2
+   Embeds 0
+   No embeds
+   No notes for slide
+
+Questionner le texte scientifique pour caractériser la science et
+l'innovation
+
+    1. 1. Questionner le texte scientifique pour caractériser la science
+       et l’innovation Guillaume Cabanac guillaume.cabanac@univ-tlse3.fr 9
+       mars 2017 TERRE-ISTEX http://bit.ly/istexCabanac2017  Thème 2 :
+       Indexation et Recherche d’Informations Équipe IRIS : Information
+       Retrieval & Information Synthesis
+    2. 2. 2 Interroger le texte scientifique ? Prélude : programme de
+       recherche
+    3. 3. 3 Interroger le texte scientifique ? Prélude : programme de
+       recherche Requêter recherche d’information Questionner
+       scientométrie
+    4. 4. 4 Prélude : programme de recherche
+    5. 5. Dans ma boîte à outils 5 Merton Price Tukey Hartley Hubert
+       Milard Prélude : programme de recherche
+    6. 6. 6 Prospection sur textes scientifiques La matière première 1.
+       Notice bibliographique a. Nature des collaborations b. Positions
+       dans le champ 2. Plein texte 3. Site web d’une maison d’édition 4.
+       Plateforme de partage 5. Bibliographie institutionnelle Questionner
+       le texte scientifique pour caractériser la science et l’innovation
+    7. 7. 7 Cabanac, G., Hubert, G., & Milard, B. (2015). Academic careers
+       in Computer Science: continuance and transience of lifetime
+       co-authorships. Scientometrics, 102, 1, 135–150. 1a — Nature des
+       collaborations scientifiques
+    8. 8. 8 Source: https://projects.groept.be/~emedia La population (N =
+       1 870 054) L’échantillon des « quinquas » (N = 209 377) 1a — Nature
+       des collaborations scientifiques
+    9. 9. 9 Collaborations entretenues versus éphémères 1a — Nature des
+       collaborations scientifiques
+   10. 10. 10 Renouvellement 1a — Nature des collaborations scientifiques
+   11. 11. 11 Effet Matthieu et homophilie 1a — Nature des collaborations
+       scientifiques
+   12. 12. 12 Positions dans le champ 1b — Positions des élites dans le
+       champ de l’informatique
+   13. 13. 13 La matière première 1. Notice bibliographique 2. Plein texte
+       a. Éponymie et panthéon b. Équilibre travail-loisirs c. Écriture
+       scientifique : collectifs et genre 3. Site web d’une maison
+       d’édition 4. Plateforme de partage 5. Bibliographie
+       institutionnelle Questionner le texte scientifique pour
+       caractériser la science et l’innovation Prospection sur textes
+       scientifiques
+   14. 14. Uncitedness III : l’importance de ne pas être cité 14 “Eponyms
+       remind us that science and scholarship are the work of dedicated
+       people.” (p. 393) “mnemonic and commemorative device” (p. 121)
+       Merton, R. K. (1942). Science and technology in a democratic order.
+       Journal of Legal and Political Sociology, 1(1), 115–126. “the
+       practice of affixing the name of the scientist to all or part of
+       what he has found, as with the Copernican system, Hooke’s law,
+       Planck’s constant, or Halley’s comet” (p. 643) Merton, R. K.
+       (1957). Priorities in scientific discovery: A chapter in the
+       sociology of science. American Sociological Review, 22(6), 635–659.
+       Cabanac, G. (2014). Extracting and quantifying eponyms in full-text
+       articles. Scientometrics, 98, 3, 1631–1645. 2a — Éponymie et
+       panthéon scientifique
+   15. 15. 15  Théories  The Reward System of Science (Merton, 1942,
+       1957)  Obliteration by Incorporation (Merton, 1988; McCain, 2011,
+       2012)  Non-indexed Eponymal Citedness (Száva-Kováts, 1994) 
+       Extraire et quantifier les éponymes en plein texte  Connaître les
+       savants les plus influents d’un champ donné  Amender un
+       dictionnaire d’éponymes  Identifier les tendances et
+       l’incorporation de méthodes Appréciation implicite via les éponymes
+       2a — Éponymie et panthéon scientifique
+   16. 16. 16 Moissonnage d’éponymes en plein texte 2a — Éponymie et
+       panthéon scientifique
+   17. 17. 17 Révélation du panthéon scientifique implicite 2a — Éponymie
+       et panthéon scientifique
+   18. 18. Work-life Balance 18 Cabanac, G., & Hartley, J. (2013). Issues
+       of work-life balance among JASIST authors and editors. JASIST, 64,
+       10, 2182–2186. 2b — Équilibre travail-loisirs
+   19. 19. Fragrances du Publish or Perish ? 19 2b — Équilibre
+       travail-loisirs
+   20. 20. 20 Faire parler les « séquelles » de la peer review Sunday! 2b
+       — Équilibre travail-loisirs
+   21. 21. 21 Ce que les traces révèlent... Authors Editors 2b — Équilibre
+       travail-loisirs
+   22. 22. 22 Travailler dans sa bulle le week-end ? […] 2b — Équilibre
+       travail-loisirs
+   23. 23. 23 Écriture et genre de l’auteur 1/3  Théorie et observations
+       en psychologie dans les années 1960  Men are more spatially and
+       mathematically oriented than women  Women are more verbally
+       oriented than men
+       http://www.kaheel7.com/eng/images/stories/2(5).jpg 2c — Écriture
+       scientifique : collectifs et genre Hartley, J. & Cabanac, G.
+       (2014). Do men and women differ in their use of tables and graphs
+       in academic publications? Scientometrics, 98, 2, 1161-1172.
+   24. 24. 24  Résultats sur 1 403 articles mono-signés en STM  Les
+       hommes emploient 26 % plus de figures que les femmes (p < 0.001) 
+       Les hommes emploient 11% plus de tableaux que les femmes (p =
+       0.102) … cependant, cette différence se voit-elle en pratique ? 2c
+       — Écriture scientifique : collectifs et genre Écriture et genre de
+       l’auteur 2/3
+   25. 25. 25  Hypothèse  Il est plus difficile de s’accorder sur du
+       texte que sur des figures/graphes  Davantage de figures et graphes
+       dans les article co-signés 2c — Écriture scientifique : collectifs
+       et genre Cabanac, G., Hubert, G., & Hartley, J. (2014). Solo versus
+       collaborative writing: Discrepancies in the use of tables and graph
+       in academic articles. Journal of the American Society for
+       Information Science and Technology, 65, 4, 812–820. Écriture et
+       collectifs d’auteurs 3/3
+   26. 26. 26  Davantage de tableaux dans les articles co-signés vs.
+       mono-signés 2c — Écriture scientifique : collectifs et genre
+       Écriture et collectifs d’auteurs 1/2
+   27. 27. 27  Davantage de figures dans les articles co-signés vs.
+       mono-signés 2c — Écriture scientifique : collectifs et genre
+       Écriture et collectifs d’auteurs 2/2
+   28. 28. 28 La matière première 1. Notice bibliographique 2. Plein texte
+       3. Site web d’une maison d’édition a. Effets d’ordonnancement sur
+       l’évaluation par les pairs b. Panorama d’un champ 4. Plateforme de
+       partage 5. Bibliographie institutionnelle Questionner le texte
+       scientifique pour caractériser la science et l’innovation
+       Prospection sur textes scientifiques
+   29. 29. 29 Différences entre champs disciplinaires : les confs 3a —
+       Effets d’ordonnancement sur l’évaluation par les pairs
+   30. 30. 30 Conférences : et si la date de soumission importait ?  
+       Évaluation par les pairs Cabanac, G., & Preuss, T. (2013).
+       Capitalizing on order effects in the bids of peer-reviewed
+       conferences to secure reviews by expert referees. JASIST, 64, 2,
+       405–415. 3a — Effets d’ordonnancement sur l’évaluation par les
+       pairs
+   31. 31. 31 3a — Effets d’ordonnancement sur l’évaluation par les pairs
+   32. 32. 32 Le biais de la date de soumission  Données de ConfMaster :
+       42 conférences en informatique 3a — Effets d’ordonnancement sur
+       l’évaluation par les pairs
+   33. 33. 33 Biais de la date de soumission  Influence sur les enchères
+       (bids) 3a — Effets d’ordonnancement sur l’évaluation par les pairs
+   34. 34. 34 Faites évaluer par ceux qui le veulent ! 3a — Effets
+       d’ordonnancement sur l’évaluation par les pairs
+   35. 35. 35 Les gardiens de l’évaluation par les pairs : gatekeepers
+       (Braun, 2009) Cabanac, G. (2012). Shaping the landscape of research
+       in information systems from the perspective of editorial boards: A
+       scientometric study of 77 leading journals. JASIST, 63, 5, 977–996.
+       3b — Panorama de la recherche en systèmes d’information
+   36. 36. 36 77 revues « cœur » en IS selon une autorité : le WoS 3b —
+       Panorama de la recherche en systèmes d’information
+   37. 37. 37 Analyse exploratoire des données recueillies  77 revues  2
+       846 gatekeepers 3b — Panorama de la recherche en systèmes
+       d’information
+   38. 38. 38 3b — Panorama de la recherche en systèmes d’information
+       Analyse exploratoire des données recueillies
+   39. 39. 39 Graphe thématique des 77 revues référencées en SI 3b —
+       Panorama de la recherche en systèmes d’information
+   40. 40. 40 Influence, pouvoir, verrouillage... (1984) 3b — Panorama de
+       la recherche en systèmes d’information
+   41. 41. 41 Un siège à la table des négociations ? 3b — Panorama de la
+       recherche en systèmes d’information
+   42. 42. 42 (Manque de) Diversité géographique et de genre 3b — Panorama
+       de la recherche en systèmes d’information
+   43. 43. 43 La matière première 1. Notice bibliographique 2. Plein texte
+       3. Site web d’une maison d’édition 4. Plateforme de partage a.
+       Marché noir de l’édition scientifique 5. Bibliographie
+       institutionnelle Questionner le texte scientifique pour
+       caractériser la science et l’innovation Prospection sur textes
+       scientifiques
+   44. 44. Émergence de l’Open Access gris/clandestin 44  Domaines 
+       Science de l’information  Sociologie des sciences  Contexte :
+       (non)-accès à l’IST  8 millions de chercheurs + des amateurs
+       (sciences participatives) + grand public  114 millions de
+       documents scientifiques en ligne mais seulement 24 % accessibles
+       librement  Défi : dévoiler rouages et contenu des bibliothèques
+       clandestines  Library Genesis (23M d’articles, 1M d’ouvrages),
+       Sci-Hub, #icanhazpdf, /r/scholar  Contribution : article JASIST
+       accepté en octobre 2014  Alimentation : biblioleaks +
+       crowdsourcing  Contenu : distribution des éditeurs, disciplines,
+       langues… @rickypo Cabanac, G. (2016). Bibliogifts in LibGen? A
+       study of a text-sharing platform driven by biblioleaks and
+       crowdsourcing. Journal of the Association for Information Science
+       and Technology, 67, 4, 874–884. 4a — Le marché noir de l’édition
+       scientifique
+   45. 45. Étudier l’Open Access clandestin : les enjeux 45 4a — Le marché
+       noir de l’édition scientifique
+   46. 46. 46 La matière première 1. Notice bibliographique 2. Plein texte
+       3. Site web d’une maison d’édition 4. Plateforme de partage 5.
+       Bibliographie institutionnelle a. Collaborations et thématiques
+       d’un laboratoire Questionner le texte scientifique pour
+       caractériser la science et l’innovation Prospection sur textes
+       scientifiques
+   47. 47. Que fait ce labo multi-site de 686 personnes ? 47 5a —
+       Collaborations et thématiques d’un laboratoire
+   48. 48. Que fait ce labo de 686 personnes ? 48
+       http://www.irit.fr/IMG/pdf/ORGANIGRAMME_IRIT_RECHERCHE_MAI_2015.pdf
+       5a — Collaborations et thématiques d’un laboratoire
+   49. 49. Que fait ce labo de 686 personnes ? 49
+       https://websecu.irit.fr/IMG/pdf/Rapport_Web_HCERES_IRIT.pdf 5a —
+       Collaborations et thématiques d’un laboratoire
+   50. 50. Des données publiques… 50 5a — Collaborations et thématiques
+       d’un laboratoire
+   51. 51. Analyse scientométrique  Contexte : l’évaluation de l’IRIT
+       (octobre 2014)  Question : qu’apprend-t-on de l’analyse des
+       publications ?  Source : le site web de l’IRIT (données publiques)
+       ex :
+       http://dbweb.irit.fr/publi/recherche.list_crit_avance?theme=0&crit1
+       =2&op1=5&texte1=2009&crit2=2&op2=6&texte2=2014&typpub=5  Critères
+       d’échantillonage  Revues et conférences à comité de lecture (RICL,
+       RNCL, CICL et CNCL)  Année ≥ 2009 (certaines publications étaient
+       à paraître)  Auteurs listés parmi les « membres permanents » des
+       équipes  Statistiques  260 auteurs  3 860 publications dont 82 %
+       en international Avertissement : étude exploratoire à consolider.
+       51 5a — Collaborations et thématiques d’un laboratoire
+   52. 52. Méthodo : les collaborations inter-thèmes  Graphe des
+       collaborations  Un sommet = un membre de l’IRIT  Couleur : son
+       thème IRIT  Taille : nombre de publications normalisé S 1/N 
+       Modélise un « effort » : effort d’écrire à 2 > effort d’écrire à 10
+       (en supposant une répartition uniforme du travail)  Une arrête =
+       une collaboration  Couleur : mélange des couleurs des sommets
+       reliés  Taille : nombre de coauteurs par co-publication normalisé
+       S 1 / ((N × (N – 1)) / 2)  Modélise la force du lien
+       interpersonnel : collaborer à 2 > collaborer à 10 52 5a —
+       Collaborations et thématiques d’un laboratoire
+   53. 53. 53 T2 T1 T3 T4 T5 T7 T6 Preuve de concept : IRIT Données : •
+       2009-2014 • RICL, RNCL, CICL, CNCL • 260 auteurs • 3 860 articles
+       (82 % internat.) Interprétation : • Collaboration inter-thèmes •
+       Force des liens faibles Attention : • Variabilité des pratiques de
+       publication selon les domaines : fréquence, travail ± collaboratif…
+       Réalisé avec Gephi Caractérisation des collaborations inter-thème
+       5a — Collaborations et thématiques d’un laboratoire
+   54. 54. Méthodo : les thématiques  Analyse lexicométrique  Un titre
+       de publication = un document  Focus sur les RICL et CICL pour ne
+       pas mélanger les langues  Élimination des mots non discriminants
+       (stop-list + manuelle)  Deux résultats  Classification en 7
+       classes (paramètres fixé) avec la méthode Reinert  Extraction des
+       mots-clés 54 5a — Collaborations et thématiques d’un laboratoire
+   55. 55. 55Réalisé avec Iramuteq Caractérisation des thématiques 1/2 5a
+       — Collaborations et thématiques d’un laboratoire
+   56. 56. 56 Interprétation : • 4 objets principaux • Des pétales à
+       explorer NB : le nombre de mots représentés peut être paramétré
+       pour ajuster le niveau de détail. Réalisé avec Iramuteq
+       Caractérisation des thématiques 2/2 5a — Collaborations et
+       thématiques d’un laboratoire
+   57. 57. 57 Conclusion et perspectives générales Reconnaître les
+       structures d’opportunités Question de recherche : - captivante -
+       originale / inattendue - importante Revue de la littérature : -
+       interdisciplinaire - sur le temps long Données et méthodes : -
+       données originales en libre accès, de préférence - méthode mixte :
+       quanti + quali
+   58. 58. Merci http://www.irit.fr/~Guillaume.Cabanac @gcabanac
+
+          Recommended
+
+     * Train the Trainer
+       Train the Trainer
+       Online Course - LinkedIn Learning
+     * PowerPoint: Using Photos and Video Effectively for Great
+       Presentations
+       PowerPoint: Using Photos and Video Effectively for Great
+       Presentations
+       Online Course - LinkedIn Learning
+     * Teaching Complex Topics
+       Teaching Complex Topics
+       Online Course - LinkedIn Learning
+     * Achieve Cloud Success with ServiceNow and Microsoft
+       Achieve Cloud Success with ServiceNow and Microsoft
+       ServiceNow
+     * Laura alejandra tapia hernandez Laura alejandra tapia hernandez
+       pipe palencia
+     * Juan felipe palencia figueredo
+       Juan felipe palencia figueredo
+       pipe palencia
+     * Planeación matemáticas primero 7.2.1
+       Planeación matemáticas primero 7.2.1
+       yodzonot123
+     * Anabell
+       Anabell
+       Anabell Barroso
+     * Animals mini book
+       Animals mini book
+       Pedro Marques
+     * It's Time to Eliminate Service Outages - Once and For All
+       It's Time to Eliminate Service Outages - Once and For All
+       ServiceNow
+
+     * English
+     * Español
+     * Português
+     * Français
+     * Deutsch
+
+     * About
+     * Dev & API
+     * Blog
+     * Terms
+     * Privacy
+     * Copyright
+     * Support
+
+     *
+     *
+     *
+     *
+     *
+
+   LinkedIn Corporation © 2019
+
+   ×
+
+Share Clipboard
+     __________________________________________________________________
+
+   ×
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Link ____________________
+
+Public clipboards featuring this slide
+     __________________________________________________________________
+
+   (BUTTON) ×
+   No public clipboards found for this slide
+
+Select another clipboard
+     __________________________________________________________________
+
+   ×
+
+   Looks like you’ve clipped this slide to already.
+   ____________________
+
+   Create a clipboard
+
+You just clipped your first slide!
+
+   Clipping is a handy way to collect important slides you want to go back
+   to later. Now customize the name of a clipboard to store your clips.
+     __________________________________________________________________
+
+   Name* ____________________
+   Description ____________________
+   Visibility
+   Others can see my Clipboard [ ]
+   (BUTTON) Cancel (BUTTON) Save
+
+   Bizographics tracking image
+   #RSS SlideShare Search alternate alternate alternate alternate
+   alternate alternate Slideshow json oEmbed Profile Slideshow xml oEmbed
+   Profile alternate alternate alternate
+
+   (BUTTON)
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our User
+   Agreement and Privacy Policy.
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our Privacy
+   Policy and User Agreement for details.
+
+   SlideShare Explore Search You
+
+     * LinkedIn SlideShare
+
+     * Upload
+     * Login
+     * Signup
+
+     *
+     * ____________________ (BUTTON) Submit Search
+
+     * Home
+     * Explore
+
+     * Presentation Courses
+     * PowerPoint Courses
+     *
+     * by LinkedIn Learning
+
+   ____________________
+   Successfully reported this slideshow.
+
+   We use your LinkedIn profile and activity data to personalize ads and
+   to show you more relevant ads. You can change your ad preferences
+   anytime.
+   Growth Lessons from Early Snapchat
+
+   Growth Lessons from Early Snapchat
+
+   This is Snapchat, back in 2011.
+
+   Made by students, this app had no funding and almost no user.
+
+   3 years later,  its valuation reached $10 Billion.
+
+   Snapchat founders have been lucky.
+
+   But they also had an amazing growth strategy!
+
+   Here is what we can learn from their early exponential growth.
+
+   Launch too early Use your weaknesses Find a signature Don’t explain 1 2
+   3 4
+
+   1
+
+   Launch too early Use your weaknesses Find a signature Don’t explain 1 2
+   3 4
+
+   Snapchat has many features Photo snap Video snap Chat Stories Discover
+   Stickers Gifs Video calls Phone calls Memories Live...
+
+   So you might think: All these successful apps have so many features,
+   mine should have at least a few of them at launch! il...
+
+   How many of these features where here at launch ? Photo snap Video snap
+   Chat Stories Discover Stickers Gifs Video calls Ph...
+
+   How many of these features where here at launch ? Photo snap Video snap
+   Chat Stories Discover Stickers Gifs Video calls Ph...
+
+   Snapchat was launched with ugly graphics and only one feature!
+
+   Then, using user feedback and new ressources, they made it evolve into
+   the Snapchat you know today.
+
+   Launch strategy to avoid: idea making the product “perfect“ by adding
+   many features and polishing graphics BIG LAUNCH!!!
+
+   Launch strategy to avoid: nobody cares idea BIG LAUNCH!!!
+
+   Launch strategy to avoid: spend money on FB ads idea BIG LAUNCH!!!
+
+   Launch strategy to avoid: company  dies
+
+   Launch strategy we recommend: one feature done well, basic graphics
+   casual launch idea
+
+   Launch strategy we recommend: Rework on that one feature thanks to user
+   feedback and metrics analysis release new version ...
+
+   Launch strategy we recommend: Product has good retention rates
+
+   Launch strategy we recommend: Work on  a new feature Marketing push for
+   new feature!
+
+   With this strategy you will: • Get regular insights from your users  •
+   Spend the right amount of time to nail each feature...
+
+   With this strategy you will: • Get regular insights from your users  •
+   Spend the right amount of time to nail each feature...
+
+   With this strategy you will: • Get regular insights from your users  •
+   Spend the right amount of time to nail each feature...
+
+   With this strategy you will: • Get regular insights from your users  •
+   Spend the right amount of time to nail each feature...
+
+   2
+
+   Launch too early Use your weaknesses Find a signature Don’t explain 1 2
+   3 4
+
+   It’s the fastest way to send photos that disappear.
+
+   It’s the fastest way to send photos that disappear. This is how Evan
+   Spiegel pitched Snapchat in 2011
+
+   Ephemeral photos made the app fun, and ensured a new level of privacy
+   never seen before.
+
+   But they forgot one little thing…
+
+   But they forgot one little thing… SCREENSHOTS !
+
+   Snapchat was doomed. There was no way to prevent screenshots from
+   happening.
+
+   Users understood that quickly and made a huge number of screenshots.
+
+   But instead of ﬁghting against it, the team twisted its weakness into a
+   strength.
+
+   But instead of ﬁghting against it, the team twisted its weakness into a
+   strength. Screenshots became a feature !
+
+   By notifying you when someone makes a screenshot of your snap, they
+   turned the app into an even more playful game.
+
+   And you can even get a trophy for screenshotting your friends’ snaps!
+
+   This is the path you spent so much time building for your users.
+
+   This is the path  they took instead.
+
+   Don’t try to make users go there.
+
+   Make this path awesome instead!
+
+   Understand which path your users are taking with these methods: 1h user
+   testing sessions
+
+   Understand which path your users are taking with these methods: 1h user
+   testing sessions 10min calls with random users
+
+   Understand which path your users are taking with these methods: 1h user
+   testing sessions 10min calls with random users Dee...
+
+   3
+
+   Launch too early Use your weaknesses Find a signature Don’t explain 1 2
+   3 4
+
+   Ever wondered why Snapchat sticked so long to this text format before
+   allowing more choices?
+
+   This was in fact Snapchat’s signature.
+
+   Everytime you see this on the web, you know it comes from Snapchat. 
+   Free marketing!
+
+   After allowing more text choices, Snapchat needed a new signature. And
+   God created the dog ﬁlter.
+
+   For the Spectacles glasses, they came up with round videos, easily
+   recognizable on social media.
+
+   Your product needs something that can easily be shared on social media,
+   with a clear signature. Houseparty's  funny quotes...
+
+   Your product needs something that can easily be shared on social media,
+   with a clear signature. Houseparty's  funny quotes...
+
+   This will make your app viral and save you thousand of dollars in
+   marketing!
+
+   4
+
+   Launch too early Use your weaknesses Find a signature Don’t explain 1 2
+   3 4
+
+   In 2016, Snapchat rolled out its new feature: Memories.
+
+   When you love your snap, you can save it with this button. Previously,
+   this icon meant that the picture would be saved to ...
+
+   This is pretty clear!
+
+   Then the snap is saved in the new Memories screen, with all the other
+   ones.
+
+   So it’s basically a cloud storage service that backs up all user’s
+   saved snaps.
+
+   But the only words the user have seen are “Saved“ and “Memories“. Basic
+   English!
+
+   • No “cloud“ • No “storage“ • No “gigabytes“ • No explanations of how
+   things will be synched Memories wording:
+
+   • No “cloud“ • No “storage“ • No “gigabytes“ • No explanations of how
+   things will be synched Memories wording: It’s your j...
+
+   A user interface is like a joke.  If you have to explain it, it’s not
+   that good. Plato probably never said that.
+
+   Snapchat went further by releasing features without communicating
+   around them or explaining how they work.
+
+   Most users don’t know what this ﬂame means.
+
+   But teenagers are really crazy about ﬂames!
+
+   For old people reading this: This is a SnapStreak. = number of
+   consecutive days sending and receiving snaps from a speciﬁc...
+
+   By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the screen
+   with explanations • Triggered curiosity of users • ...
+
+   By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the screen
+   with explanations • Triggered curiosity of users • ...
+
+   By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the screen
+   with explanations • Triggered curiosity of users • ...
+
+   By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the screen
+   with explanations • Triggered curiosity of users • ...
+
+   Let your most engaged users discover your advanced features by
+   themselves.
+
+   So you can keep your product very simple to use for everyone else!
+
+   Need a growth strategy as good as Snapchat’s?
+
+   hello@mozza.io We’re here to help!
+
+   virality is a science more analyses on mozza.io
+   Upcoming SlideShare
+   []
+   Loading in …5
+   ×
+   [] 1
+   (BUTTON)
+   1 of 82 (BUTTON)
+   (BUTTON) (BUTTON)
+   Like this presentation? Why not share!
+     * Share
+     * Email
+     *
+     *
+
+     * Mobile Growth: Best Strategies, Too... Mobile Growth: Best
+       Strategies, Too... by Adrien Montcoudiol 80145 views
+     * Mobile Growth Marketing: Strategy, ... Mobile Growth Marketing:
+       Strategy, ... by Adrien Montcoudiol 34604 views
+     * Houseparty: The Golden Minute - Mob... Houseparty: The Golden
+       Minute - Mob... by Mozza 7184 views
+     * How Zenly Nailed It - Product Methods! How Zenly Nailed It -
+       Product Methods! by Maxime Braud 35165 views
+     * Road to a Great Product - Methods, ... Road to a Great Product -
+       Methods, ... by Maxime Braud 124693 views
+
+   (BUTTON)
+
+   Share SlideShare
+     __________________________________________________________________
+
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Embed
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Size (px)
+   Start on
+   [X] Show related SlideShares at end
+   WordPress Shortcode ____________________
+   Link ____________________
+
+Growth Lessons from Early Snapchat
+
+   11,595 views
+
+     * (BUTTON) Share
+     * (BUTTON) Like
+     * (BUTTON) Download
+     * ...
+          +
+
+   Mozza
+
+Mozza
+
+   Follow
+
+   (BUTTON) (BUTTON) (BUTTON)
+
+   Published on Oct 24, 2017
+
+   Snapchat's early growth was spectacular: going from student project to
+   $10B+ company. Discover what growth and product strategy they used to
+   achieve it!
+   (BUTTON) ...
+
+   Published in: Mobile
+
+     * 8 Comments
+     * 31 Likes
+     * Statistics
+     * Notes
+
+     * Full Name
+       Full Name
+       Comment goes here.
+       12 hours ago   Delete Reply Block
+       Are you sure you want to Yes No
+       Your message goes here
+
+   no profile picture user
+   ____________________
+   (BUTTON) Post
+     * susanvabr108
+       Silvia Mann
+       Earn a 6-Figure Side-Income Online... Signup for the free training
+       HERE ▲▲▲ http://ishbv.com/j1r2c/pdf
+       6 days ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * lucyyacoco
+       Yvette Caldwell
+       Tired of being scammed? Take advantage of a program that, actually
+       makes you money! ➤➤ http://ishbv.com/ezpayjobs/pdf
+       3 months ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * AlexHantson
+       Alex Hantson , Digital Marketing I Strategy I Project Management I
+       Search Engine Marketing
+       GoodGuyMozza ! Thanks for the great presentation
+       1 year ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * RemyMellet
+       Remy Mellet , Founder of ComparaBUS.com at ComparaBUS
+       merci!
+       1 year ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * marjolainegrondin
+       Marjolaine Grondin , CEO at Jam
+       🙌 awesome
+       1 year ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+
+   Show More
+     * yoonahlee8
+       yoonah lee , UX/UI designer
+       3 months ago
+     * BrandonWMullins
+       Brandon Mullins , Partnerships at Twitter at Recapped.co
+       4 months ago
+     * ssuserda2854
+       Murielle L. , Entrepreneur
+       4 months ago
+     * AntoineFabre1
+       Antoine Fabre , Co-founder @ Airflow at Co-founder
+       7 months ago
+     * kristenjohansen
+       Kristen Johansen at lynda.com
+       8 months ago
+
+   Show More
+   No Downloads
+   Views
+   Total views
+   11,595
+   On SlideShare
+   0
+   From Embeds
+   0
+   Number of Embeds
+   504
+   Actions
+   Shares
+   0
+   Downloads
+   164
+   Comments
+   8
+   Likes
+   31
+   Embeds 0
+   No embeds
+   No notes for slide
+
+Growth Lessons from Early Snapchat
+
+    1. 1. Growth Lessons from Early Snapchat
+    2. 2. This is Snapchat, back in 2011.
+    3. 3. Made by students, this app had no funding and almost no user.
+    4. 4. 3 years later,  its valuation reached $10 Billion.
+    5. 5. Snapchat founders have been lucky.
+    6. 6. But they also had an amazing growth strategy!
+    7. 7. Here is what we can learn from their early exponential growth.
+    8. 8. Launch too early Use your weaknesses Find a signature Don’t
+       explain 1 2 3 4
+    9. 9. 1
+   10. 10. Launch too early Use your weaknesses Find a signature Don’t
+       explain 1 2 3 4
+   11. 11. Snapchat has many features Photo snap Video snap Chat Stories
+       Discover Stickers Gifs Video calls Phone calls Memories Live Map
+       Search QR code scan …
+   12. 12. So you might think: All these successful apps have so many
+       features, mine should have at least a few of them at launch!
+       illustration by Headspace
+   13. 13. How many of these features where here at launch ? Photo snap
+       Video snap Chat Stories Discover Stickers Gifs Video calls Phone
+       calls Memories Live Map Search QR code scan …
+   14. 14. How many of these features where here at launch ? Photo snap
+       Video snap Chat Stories Discover Stickers Gifs Video calls Phone
+       calls Memories Live Map Search QR code scan … ONLY ONE !
+   15. 15. Snapchat was launched with ugly graphics and only one feature!
+   16. 16. Then, using user feedback and new ressources, they made it
+       evolve into the Snapchat you know today.
+   17. 17. Launch strategy to avoid: idea making the product “perfect“ by
+       adding many features and polishing graphics BIG LAUNCH!!!
+   18. 18. Launch strategy to avoid: nobody cares idea BIG LAUNCH!!!
+   19. 19. Launch strategy to avoid: spend money on FB ads idea BIG
+       LAUNCH!!!
+   20. 20. Launch strategy to avoid: company  dies
+   21. 21. Launch strategy we recommend: one feature done well, basic
+       graphics casual launch idea
+   22. 22. Launch strategy we recommend: Rework on that one feature thanks
+       to user feedback and metrics analysis release new version of same
+       feature No new feature!
+   23. 23. Launch strategy we recommend: Product has good retention rates
+   24. 24. Launch strategy we recommend: Work on  a new feature Marketing
+       push for new feature!
+   25. 25. With this strategy you will: • Get regular insights from your
+       users  • Spend the right amount of time to nail each feature •
+       Spare $$$ by not developing useless features • Spare $$$ by not
+       buying FB ads before having good retention rates
+   26. 26. With this strategy you will: • Get regular insights from your
+       users  • Spend the right amount of time to nail each feature •
+       Spare $$$ by not developing useless features • Spare $$$ by not
+       buying FB ads before having good retention rates
+   27. 27. With this strategy you will: • Get regular insights from your
+       users  • Spend the right amount of time to nail each feature •
+       Spare $$$ by not developing useless features • Spare $$$ by not
+       buying FB ads before having good retention rates
+   28. 28. With this strategy you will: • Get regular insights from your
+       users  • Spend the right amount of time to nail each feature •
+       Spare $$$ by not developing useless features • Spare $$$ by not
+       buying FB ads before having good retention rates
+   29. 29. 2
+   30. 30. Launch too early Use your weaknesses Find a signature Don’t
+       explain 1 2 3 4
+   31. 31. It’s the fastest way to send photos that disappear.
+   32. 32. It’s the fastest way to send photos that disappear. This is how
+       Evan Spiegel pitched Snapchat in 2011
+   33. 33. Ephemeral photos made the app fun, and ensured a new level of
+       privacy never seen before.
+   34. 34. But they forgot one little thing…
+   35. 35. But they forgot one little thing… SCREENSHOTS !
+   36. 36. Snapchat was doomed. There was no way to prevent screenshots
+       from happening.
+   37. 37. Users understood that quickly and made a huge number of
+       screenshots.
+   38. 38. But instead of ﬁghting against it, the team twisted its
+       weakness into a strength.
+   39. 39. But instead of ﬁghting against it, the team twisted its
+       weakness into a strength. Screenshots became a feature !
+   40. 40. By notifying you when someone makes a screenshot of your snap,
+       they turned the app into an even more playful game.
+   41. 41. And you can even get a trophy for screenshotting your friends’
+       snaps!
+   42. 42. This is the path you spent so much time building for your
+       users.
+   43. 43. This is the path  they took instead.
+   44. 44. Don’t try to make users go there.
+   45. 45. Make this path awesome instead!
+   46. 46. Understand which path your users are taking with these methods:
+       1h user testing sessions
+   47. 47. Understand which path your users are taking with these methods:
+       1h user testing sessions 10min calls with random users
+   48. 48. Understand which path your users are taking with these methods:
+       1h user testing sessions 10min calls with random users Deep
+       analysis of your metrics • Read “Rocket Surgery Made Easy“ by Step
+       Krug for User Testing • Use Amplitude to have a clear view of your
+       metrics. Spend time conﬁguring it!  + contact us if you need help
+       with this :)
+   49. 49. 3
+   50. 50. Launch too early Use your weaknesses Find a signature Don’t
+       explain 1 2 3 4
+   51. 51. Ever wondered why Snapchat sticked so long to this text format
+       before allowing more choices?
+   52. 52. This was in fact Snapchat’s signature.
+   53. 53. Everytime you see this on the web, you know it comes from
+       Snapchat.  Free marketing!
+   54. 54. After allowing more text choices, Snapchat needed a new
+       signature. And God created the dog ﬁlter.
+   55. 55. For the Spectacles glasses, they came up with round videos,
+       easily recognizable on social media.
+   56. 56. Your product needs something that can easily be shared on
+       social media, with a clear signature. Houseparty's  funny quotes
+       Zenly’s map Pokemon Go’s collection
+   57. 57. Your product needs something that can easily be shared on
+       social media, with a clear signature. Houseparty's  funny quotes
+       Zenly’s map Pokemon Go’s collection
+   58. 58. This will make your app viral and save you thousand of dollars
+       in marketing!
+   59. 59. 4
+   60. 60. Launch too early Use your weaknesses Find a signature Don’t
+       explain 1 2 3 4
+   61. 61. In 2016, Snapchat rolled out its new feature: Memories.
+   62. 62. When you love your snap, you can save it with this button.
+       Previously, this icon meant that the picture would be saved to the
+       Camera Roll, so users were already used to it.
+   63. 63. This is pretty clear!
+   64. 64. Then the snap is saved in the new Memories screen, with all the
+       other ones.
+   65. 65. So it’s basically a cloud storage service that backs up all
+       user’s saved snaps.
+   66. 66. But the only words the user have seen are “Saved“ and
+       “Memories“. Basic English!
+   67. 67. • No “cloud“ • No “storage“ • No “gigabytes“ • No explanations
+       of how things will be synched Memories wording:
+   68. 68. • No “cloud“ • No “storage“ • No “gigabytes“ • No explanations
+       of how things will be synched Memories wording: It’s your job to
+       understand all this and handle it for the user.
+   69. 69. A user interface is like a joke.  If you have to explain it,
+       it’s not that good. Plato probably never said that.
+   70. 70. Snapchat went further by releasing features without
+       communicating around them or explaining how they work.
+   71. 71. Most users don’t know what this ﬂame means.
+   72. 72. But teenagers are really crazy about ﬂames!
+   73. 73. For old people reading this: This is a SnapStreak. = number of
+       consecutive days sending and receiving snaps from a speciﬁc friend
+       14
+   74. 74. By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the
+       screen with explanations • Triggered curiosity of users • Made
+       teenagers feel special vs their parents • Transformed its best
+       users into evangelists, proud to teach their friends what this
+       emoji means
+   75. 75. By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the
+       screen with explanations • Triggered curiosity of users • Made
+       teenagers feel special vs their parents • Transformed its best
+       users into evangelists, proud to teach their friends what this
+       emoji means
+   76. 76. By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the
+       screen with explanations • Triggered curiosity of users • Made
+       teenagers feel special vs their parents • Transformed its best
+       users into evangelists, proud to teach their friends what this
+       emoji means
+   77. 77. By keeping mystery around ﬂames, Snapchat: • Didn’t clutter the
+       screen with explanations • Triggered curiosity of users • Made
+       teenagers feel special vs their parents • Transformed its best
+       users into evangelists, proud to teach their friends what this
+       emoji means
+   78. 78. Let your most engaged users discover your advanced features by
+       themselves.
+   79. 79. So you can keep your product very simple to use for everyone
+       else!
+   80. 80. Need a growth strategy as good as Snapchat’s?
+   81. 81. hello@mozza.io We’re here to help!
+   82. 82. virality is a science more analyses on mozza.io
+
+          Recommended
+
+     * PowerPoint 2016 Essential Training
+       PowerPoint 2016 Essential Training
+       Online Course - LinkedIn Learning
+     * Teaching Techniques: Creating Effective Learning Assessments
+       Teaching Techniques: Creating Effective Learning Assessments
+       Online Course - LinkedIn Learning
+     * Learning to Run Webinars
+       Learning to Run Webinars
+       Online Course - LinkedIn Learning
+     * Mobile Growth: Best Strategies, Tools and Tactics
+       Mobile Growth: Best Strategies, Tools and Tactics
+       Adrien Montcoudiol
+     * Mobile Growth Marketing: Strategy, Hacks and Tools
+       Mobile Growth Marketing: Strategy, Hacks and Tools
+       Adrien Montcoudiol
+     * Houseparty: The Golden Minute - Mobile Growth Analysis
+       Houseparty: The Golden Minute - Mobile Growth Analysis
+       Mozza
+     * How Zenly Nailed It - Product Methods!
+       How Zenly Nailed It - Product Methods!
+       Maxime Braud
+     * Road to a Great Product - Methods, Tools and Hacks
+       Road to a Great Product - Methods, Tools and Hacks
+       Maxime Braud
+     * Mobile Apps: How to Survive in the Mindful Era
+       Mobile Apps: How to Survive in the Mindful Era
+       Mozza
+     * Organic Acquisition: How To Acquire A Million Users With Zero
+       Marketing (mobile apps: TBH, Zenly, Meerkat, Sounds...)
+       Organic Acquisition: How To Acquire A Million Users With Zero
+       Marketing (mobi...
+       Mozza
+
+     * English
+     * Español
+     * Português
+     * Français
+     * Deutsch
+
+     * About
+     * Dev & API
+     * Blog
+     * Terms
+     * Privacy
+     * Copyright
+     * Support
+
+     *
+     *
+     *
+     *
+     *
+
+   LinkedIn Corporation © 2019
+
+   ×
+
+Share Clipboard
+     __________________________________________________________________
+
+   ×
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Link ____________________
+
+Public clipboards featuring this slide
+     __________________________________________________________________
+
+   (BUTTON) ×
+   No public clipboards found for this slide
+
+Select another clipboard
+     __________________________________________________________________
+
+   ×
+
+   Looks like you’ve clipped this slide to already.
+   ____________________
+
+   Create a clipboard
+
+You just clipped your first slide!
+
+   Clipping is a handy way to collect important slides you want to go back
+   to later. Now customize the name of a clipboard to store your clips.
+     __________________________________________________________________
+
+   Name* ____________________
+   Description ____________________
+   Visibility
+   Others can see my Clipboard [ ]
+   (BUTTON) Cancel (BUTTON) Save
+
+   Bizographics tracking image
+   #RSS SlideShare Search alternate alternate alternate alternate
+   alternate alternate Slideshow json oEmbed Profile Slideshow xml oEmbed
+   Profile alternate alternate alternate
+
+   (BUTTON)
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our User
+   Agreement and Privacy Policy.
+
+   Slideshare uses cookies to improve functionality and performance, and
+   to provide you with relevant advertising. If you continue browsing the
+   site, you agree to the use of cookies on this website. See our Privacy
+   Policy and User Agreement for details.
+
+   SlideShare Explore Search You
+
+     * LinkedIn SlideShare
+
+     * Upload
+     * Login
+     * Signup
+
+     *
+     * ____________________ (BUTTON) Submit Search
+
+     * Home
+     * Explore
+
+     * Presentation Courses
+     * PowerPoint Courses
+     *
+     * by LinkedIn Learning
+
+   ____________________
+   Successfully reported this slideshow.
+
+   We use your LinkedIn profile and activity data to personalize ads and
+   to show you more relevant ads. You can change your ad preferences
+   anytime.
+   Présentation Social Life 2016
+
+   Edition 2016 Jean-Laurent Bouveret – Directeur du Département
+   NetObserver Manuel Lhoir – Directeur de Clientèle TMTE 15 Ma...
+
+   Social Life en quelques mots Un baromètre annuel Harris Interactive
+   pour un diagnostic complet des usages et attitudes du ...
+
+   L’univers des Médias Sociaux Conversation Networking Image
+   Entertainment Vidéo Publication Consultation 3 Périmètre Social...
+
+   En préambule… 4
+
+   2015 : une accélération des nouveautés sur les plateformes face au défi
+   de leur monétisation (1/2) 5 A destination des mar...
+
+   2015 : une accélération des nouveautés sur les plateformes face au défi
+   de leur monétisation (2/2) 6 A destination de leur...
+
+   Un enjeu majeur pour les annonceurs : comment anticiper ces changements
+   et adopter les codes de chaque plateforme… … pour ...
+
+   4 questions à se poser afin d’optimiser sa présence sur les médias
+   sociaux : Quels sont les usages des socionautes ? Comme...
+
+   Quelles sont les plateformes incontournables pour ma cible ? #1 9
+
+   SOCIONAUTES ACTIFS* Base : internautes français de 15 ans et plus Une
+   proportion de socionautes toujours importante… 71% A...
+
+   En synthèse, sur les 8 principales plateformes 11
+
+   Quels sont les usages des socionautes ? #2 12
+
+   Des usages en perpétuelle évolution ! 3 tendances 2015/2016 Une prime
+   au nomade et au multi-devices Un conversationnel por...
+
+   Base : socionautes de 15 ans et plus Vie perso Travail Santé Actualités
+   Politique Des évènements 2015 qui ont influencé le...
+
+   62% 58% 51% 43% Rechercher des informations sur un produit ou un
+   service avant de l'acheter Consulter des recommandations/...
+
+   Base : socionautes de 15 ans et plus De la recherche au SAV, le
+   parcours est donc « comblé » ASSISTANCE 42% Contacter le s...
+
+   Comment adapter sa présence à son positionnement et ses objectifs ? #3
+   17
+
+   Comment adapter sa présence sur les réseaux sociaux en fonction… … de
+   son ADN, identité, plateforme de marque … de ses obj...
+
+   Une analyse Brand Footprint >> empreinte des 8 principales plateformes
+   en termes d’image et de bénéfices utilisateurs 19
+
+   Empreintes Facebook vs YouTube 20
+
+   Empreintes Instagram vs Pinterest 21
+
+   Quelle stratégie de contenu pour émerger ? #4 22
+
+   Plus d’1 socionaute sur 2 suit l’actualité d’un annonceur sur les
+   réseaux sociaux : des relais puissants Base : socionaute...
+
+   49% 43% 37% 33% 34% 32% 31% 29% 25% 27% 27% Bons plans Actualité de la
+   marque Jeux, concours Liens e-boutique, achat Infor...
+
+   Et notre analyse pour aller plus loin… 25
+
+   Quels enjeux clés pour 2016 ? Pour les plateformes ? Pour les
+   utilisateurs ? Pour les marques ? Diversification de Google ...
+
+   27 Edition 2016 : Notre offre pour optimiser votre présence sur les
+   médias sociaux Version complète de l’étude Social Life...
+
+   Pour plus d’informations : info@harrisinteractive.fr Merci de noter que
+   toute diffusion de ces résultats doit être accompa...
+   Upcoming SlideShare
+   []
+   Loading in …5
+   ×
+   [] 1
+   (BUTTON)
+   1 of 28 (BUTTON)
+   (BUTTON) (BUTTON)
+   Like this presentation? Why not share!
+     * Share
+     * Email
+     *
+     *
+
+     * Réseaux sociaux : 10 chiffres clés ... Réseaux sociaux : 10
+       chiffres clés ... by Dix-Katre 2398 views
+     * Social Life 2015 – Baromètre annuel... Social Life 2015 – Baromètre
+       annuel... by Harris Interactiv... 30620 views
+     * Congrès 2016 : impact des Médias so... Congrès 2016 : impact des
+       Médias so... by Matière Grise 1385 views
+     * Digital in 2017 Global Overview Digital in 2017 Global Overview
+       by We Are Social Sin... 2336392 views
+     * 2016 Digital Yearbook 2016 Digital Yearbook by We Are Social Sin...
+       658460 views
+     * Diaporama 12 statistiques Instagram... Diaporama 12 statistiques
+       Instagram... by Dix-Katre 1878 views
+
+   (BUTTON)
+
+   Share SlideShare
+     __________________________________________________________________
+
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Embed
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Size (px)
+   Start on
+   [X] Show related SlideShares at end
+   WordPress Shortcode ____________________
+   Link ____________________
+
+Présentation Social Life 2016
+
+   32,214 views
+
+     * (BUTTON) Share
+     * (BUTTON) Like
+     * (BUTTON) Download
+     * ...
+          +
+
+   Harris Interactive France
+
+Harris Interactive France
+
+   Follow
+
+   (BUTTON) (BUTTON) (BUTTON)
+
+   Published on Mar 15, 2016
+
+   Présentation Social Life 2016 présentée durant le #HarrisCafé
+   (BUTTON) ...
+
+   Published in: Social Media
+
+     * 40 Comments
+     * 51 Likes
+     * Statistics
+     * Notes
+
+     * Full Name
+       Full Name
+       Comment goes here.
+       12 hours ago   Delete Reply Block
+       Are you sure you want to Yes No
+       Your message goes here
+
+   no profile picture user
+   ____________________
+   (BUTTON) Post
+     * fussstellung
+       fussstellung
+       (Unlimited)....ACCESS WEBSITE Over for All Ebooks ................
+       accessibility Books Library allowing access to top content,
+       including thousands of title from favorite author, plus the ability
+       to read or download a huge selection of books for your pc or
+       smartphone within minutes
+       ...................................................................
+       ...................................................... DOWNLOAD
+       FULL PDF EBOOK here { http://bit.ly/2m6jJ5M }
+       ...................................................................
+       ...................................................... Download
+       Full EPUB Ebook here { http://bit.ly/2m6jJ5M }
+       ...................................................................
+       ...................................................... Download
+       Full PDF EBOOK here { http://bit.ly/2m6jJ5M }
+       2 days ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * fussstellung
+       fussstellung
+       (Unlimited)....ACCESS WEBSITE Over for All Ebooks ................
+       accessibility Books Library allowing access to top content,
+       including thousands of title from favorite author, plus the ability
+       to read or download a huge selection of books for your pc or
+       smartphone within minutes
+       ...................................................................
+       ...................................................... DOWNLOAD
+       FULL PDF EBOOK here { http://bit.ly/2m6jJ5M }
+       ...................................................................
+       ...................................................... Download
+       Full EPUB Ebook here { http://bit.ly/2m6jJ5M }
+       ...................................................................
+       ...................................................... Download
+       Full PDF EBOOK here { http://bit.ly/2m6jJ5M }
+       3 days ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * tansishu
+       tansishu
+       accessibility Books Library allowing access to top content,
+       including thousands of title from favorite author, plus the ability
+       to read or download a huge selection of books for your pc or
+       smartphone within minutes.........ACCESS WEBSITE Over for All
+       Ebooks ..... (Unlimited)
+       ...................................................................
+       ...................................................... Download
+       FULL PDF EBOOK here { https://urlzs.com/UABbn }
+       ...................................................................
+       ......................................................
+       4 days ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * malculti
+       malculti
+       If you want to download or read this book, copy link or url below
+       in the New tab
+       ...................................................................
+       ...................................................... DOWNLOAD
+       FULL PDF EBOOK here { http://bit.ly/2m6jJ5M }
+       ...................................................................
+       ...................................................... Download
+       EPUB Ebook here { http://bit.ly/2m6jJ5M }
+       ...................................................................
+       ......................................................
+       4 days ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+     * inactivo2
+       Hallie Tech at Hallie Tech
+       accessibility Books Library allowing access to top content,
+       including thousands of title from favorite author, plus the ability
+       to read or download a huge selection of books for your pc or
+       smartphone within minutes.........ACCESS WEBSITE Over for All
+       Ebooks ..... (Unlimited)
+       ...................................................................
+       ...................................................... Download
+       FULL PDF EBOOK here { https://urlzs.com/UABbn }
+       ...................................................................
+       ......................................................
+       4 days ago    Reply
+       Are you sure you want to  Yes  No
+       Your message goes here
+
+   Show More
+     * Chipiess1
+       Chipiess1
+       1 year ago
+     * BarthelemyOuedraogo
+       Barthelemy Ouedraogo
+       2 years ago
+     * ClarisseLitwin
+       Clarisse Litwin , Assistante pour élève en situation de handicap
+       chez Education nationale at Assistante pour élève en situation de
+       handicap
+       2 years ago
+     * FlorenceBeerGabel
+       Florence SAGNA , Community Manager/Social Media Manager at MADIRCOM
+       2 years ago
+     * arnaultchatel
+       Arnault Chatel , Speaker, Formateur en #SocialMedia et #TransfoNum
+       #IA 🤖 evangeliste at MBADMB
+       2 years ago
+
+   Show More
+   No Downloads
+   Views
+   Total views
+   32,214
+   On SlideShare
+   0
+   From Embeds
+   0
+   Number of Embeds
+   15,339
+   Actions
+   Shares
+   0
+   Downloads
+   896
+   Comments
+   40
+   Likes
+   51
+   Embeds 0
+   No embeds
+   No notes for slide
+
+Présentation Social Life 2016
+
+    1. 1. Edition 2016 Jean-Laurent Bouveret – Directeur du Département
+       NetObserver Manuel Lhoir – Directeur de Clientèle TMTE 15 Mars 2016
+       #HarrisCafé @harrisint_fr 1
+    2. 2. Social Life en quelques mots Un baromètre annuel Harris
+       Interactive pour un diagnostic complet des usages et attitudes du
+       média social 2 000 internautes français de 15 ans et plus
+       interrogés online via le panel Harris Interactive Décembre 2015 et
+       Janvier 2016 Un questionnaire complet pour une investigation à 360°
+       + Brand Footprint 2
+    3. 3. L’univers des Médias Sociaux Conversation Networking Image
+       Entertainment Vidéo Publication Consultation 3 Périmètre Social
+       Life 2016 hors messageries instantanées Instantané
+    4. 4. En préambule… 4
+    5. 5. 2015 : une accélération des nouveautés sur les plateformes face
+       au défi de leur monétisation (1/2) 5 A destination des marques
+       Séduire annonceurs et influenceurs Développer le social CRM
+       Développer le social commerce
+    6. 6. 2015 : une accélération des nouveautés sur les plateformes face
+       au défi de leur monétisation (2/2) 6 A destination de leurs
+       utilisateurs Vidéo & Live sur mobile Contenu Emotions
+    7. 7. Un enjeu majeur pour les annonceurs : comment anticiper ces
+       changements et adopter les codes de chaque plateforme… … pour
+       émerger face à la concurrence ? 7
+    8. 8. 4 questions à se poser afin d’optimiser sa présence sur les
+       médias sociaux : Quels sont les usages des socionautes ? Comment
+       adapter sa présence à son positionnement / ses objectifs ? Quelle
+       stratégie de contenu pour émerger ? #2 #3 Quelles sont les
+       plateformes incontournables pour ma cible ? #4 #1 8
+    9. 9. Quelles sont les plateformes incontournables pour ma cible ? #1
+       9
+   10. 10. SOCIONAUTES ACTIFS* Base : internautes français de 15 ans et
+       plus Une proportion de socionautes toujours importante… 71% Actifs
+       sur 2,6plateformes en moyenne *Connexion30derniersjours Rappel :
+       75% fin 2014 … mais un profil qui tend à se « senioriser » 42 ans
+       en moyenne Base : socionautes de 15 ans et plus 20% 20% 26% 34%
+       15-24 ans 25-34 ans 35-49 ans 50 ans et + Rappel 2014 23% 21% 29%
+       27% vs. 39% pour l’Internaute moyen
+       Agemoyendessocionautesde15anset+ 10
+   11. 11. En synthèse, sur les 8 principales plateformes 11
+   12. 12. Quels sont les usages des socionautes ? #2 12
+   13. 13. Des usages en perpétuelle évolution ! 3 tendances 2015/2016 Une
+       prime au nomade et au multi-devices Un conversationnel porté par
+       l’actualité Une présence tout au long des parcours d’achat 13
+   14. 14. Base : socionautes de 15 ans et plus Vie perso Travail Santé
+       Actualités Politique Des évènements 2015 qui ont influencé le champ
+       d’expression des socionautes Conversationnel et actualité 57% (vs.
+       53% en 2014) 36% (vs. 32%) 43% (vs. 47%) 30% (vs. 36%) 22% (vs.
+       25%) Sujets évoqués sur les réseaux sociaux 14
+   15. 15. 62% 58% 51% 43% Rechercher des informations sur un produit ou
+       un service avant de l'acheter Consulter des recommandations/avis
+       sur un produit ou un service Trouver des avantages, réductions,
+       offres spéciales Rechercher des informations sur un produit ou un
+       service pendant votre visite en boutique Base : socionautes de 15
+       ans et plus PREPARATION Parcours d’achat Des réseaux largement
+       utilisés dans le cadre de la préparation à l’achat… (vs. 53% en
+       2014) (vs. 49% en 2014) 15 1
+   16. 16. Base : socionautes de 15 ans et plus De la recherche au SAV, le
+       parcours est donc « comblé » ASSISTANCE 42% Contacter le service
+       client d’une marque 16 Parcours d’achat 4
+   17. 17. Comment adapter sa présence à son positionnement et ses
+       objectifs ? #3 17
+   18. 18. Comment adapter sa présence sur les réseaux sociaux en
+       fonction… … de son ADN, identité, plateforme de marque … de ses
+       objectifs stratégiques ? SA VISION 18 SA MISSION SES VALEURS SES
+       AMBITIONS … NOTORIETE TRAFIC SOCIAL CRM SOCIAL COMMERCE RP
+       ACQUISITION SOCIAL LISTENING PREFERENCE MARQUE SOCIAL SELLING
+       INSIGHTS CONSO
+   19. 19. Une analyse Brand Footprint >> empreinte des 8 principales
+       plateformes en termes d’image et de bénéfices utilisateurs 19
+   20. 20. Empreintes Facebook vs YouTube 20
+   21. 21. Empreintes Instagram vs Pinterest 21
+   22. 22. Quelle stratégie de contenu pour émerger ? #4 22
+   23. 23. Plus d’1 socionaute sur 2 suit l’actualité d’un annonceur sur
+       les réseaux sociaux : des relais puissants Base : socionautes de 15
+       ans et plus Suivent l’actualité d’une marque, d’un service ou
+       produit Parlent de ces marque, services, produits 35% Relaient les
+       publications d’une marque 33% Postent idées/recos sur les pages de
+       marques 29% 23 dessocionautes
+   24. 24. 49% 43% 37% 33% 34% 32% 31% 29% 25% 27% 27% Bons plans
+       Actualité de la marque Jeux, concours Liens e-boutique, achat
+       Informations exclusives Notifications sur lancements produits Avis
+       d'autres socionautes Conseils d'utilisation Contact avec la marque
+       (SAV par ex.) Informations personnalisées Les tendances de demain
+       (info/contenus) Quelle stratégie de contenus ? Des attentes variées
+       en fonction des secteurs Base : socionautes actifs de 15 ans et
+       plus Contenus attendus par les socionautes (moyenne tous secteurs)
+       24 Hygiène beauté Habillement High-tech, IT, multimédia Télécom
+       Santé Alimentation
+   25. 25. Et notre analyse pour aller plus loin… 25
+   26. 26. Quels enjeux clés pour 2016 ? Pour les plateformes ? Pour les
+       utilisateurs ? Pour les marques ? Diversification de Google +
+       Simplification de Twitter ? Les RSE ? De nouveaux venus ? Social
+       commerce… mobile first ? L’avenir dans les messageries instantanées
+       ? Livestreaming : tous vidéastes ? Plateformisation des média ?
+       Saturation du marketing d’influence ? Visual listening ?
+   27. 27. 27 Edition 2016 : Notre offre pour optimiser votre présence sur
+       les médias sociaux Version complète de l’étude Social Life 2016 en
+       48 slides : 500 € HT • Données de pénétration des médias sociaux
+       sur le marché français • Analyse chiffrée des 3 dernières tendances
+       d’usage des socionautes • Empreintes des 8 principales plateformes
+       (image et bénéfices utilisateurs) • Données sectorielles sur les
+       attentes des socionautes vis-à-vis des marques Session « 4
+       questions clés pour optimiser sa présence sur les médias sociaux »
+       avec un Expert Harris Interactive : 2 500 € HT • Analyse du marché
+       des Médias Sociaux : dernières tendances et enjeux • Derniers
+       chiffres sur le marché français sur la base des résultats de
+       l’étude Social Life 2016 • Eclairages sur le choix des plateformes
+       à investir, les usages des socionautes, les empreintes des 8
+       principales plateformes en termes d’image et de bénéfices
+       utilisateurs et les stratégies de contenu pour émerger • Mise à
+       disposition de la version complète de l’étude Social Life 2016 •
+       Durée : 2h à 2h30 • Lieu : Paris et Région Parisienne
+   28. 28. Pour plus d’informations : info@harrisinteractive.fr Merci de
+       noter que toute diffusion de ces résultats doit être accompagnée
+       d'éléments techniques tels que : la méthode d'enquête, les dates de
+       réalisation, le nom de l'institut, la taille de l'échantillon.
+       Suivez l'actualité de Harris Interactive France sur
+       www.harris-interactive.fr, Facebook, Twitter et LinkedIn. 28
+       #HarrisCafé @harrisint_fr
+
+          Recommended
+
+     * Teaching Techniques: Blended Learning
+       Teaching Techniques: Blended Learning
+       Online Course - LinkedIn Learning
+     * Insights from a College Career Coach
+       Insights from a College Career Coach
+       Online Course - LinkedIn Learning
+     * Teacher Tech Tips Weekly
+       Teacher Tech Tips Weekly
+       Online Course - LinkedIn Learning
+     * Réseaux sociaux : 10 chiffres clés de l'été 2016
+       Réseaux sociaux : 10 chiffres clés de l'été 2016
+       Dix-Katre
+     * Social Life 2015 – Baromètre annuel des usages des réseaux sociaux
+       en France
+       Social Life 2015 – Baromètre annuel des usages des réseaux sociaux
+       en France
+       Harris Interactive France
+     * Congrès 2016 : impact des Médias sociaux dans votre stratégie de
+       communication
+       Congrès 2016 : impact des Médias sociaux dans votre stratégie de
+       communication
+       Matière Grise
+     * Digital in 2017 Global Overview
+       Digital in 2017 Global Overview
+       We Are Social Singapore
+     * 2016 Digital Yearbook
+       2016 Digital Yearbook
+       We Are Social Singapore
+     * Diaporama 12 statistiques Instagram à connaître
+       Diaporama 12 statistiques Instagram à connaître
+       Dix-Katre
+     * Blstk replay n 169 la revue luxe et digitale 23.06 au 29.06.16
+       Blstk replay n 169 la revue luxe et digitale 23.06 au 29.06.16
+       Balistik Art
+
+     * English
+     * Español
+     * Português
+     * Français
+     * Deutsch
+
+     * About
+     * Dev & API
+     * Blog
+     * Terms
+     * Privacy
+     * Copyright
+     * Support
+
+     *
+     *
+     *
+     *
+     *
+
+   LinkedIn Corporation © 2019
+
+   ×
+
+Share Clipboard
+     __________________________________________________________________
+
+   ×
+     * Facebook
+     * Twitter
+     * LinkedIn
+
+   Link ____________________
+
+Public clipboards featuring this slide
+     __________________________________________________________________
+
+   (BUTTON) ×
+   No public clipboards found for this slide
+
+Select another clipboard
+     __________________________________________________________________
+
+   ×
+
+   Looks like you’ve clipped this slide to already.
+   ____________________
+
+   Create a clipboard
+
+You just clipped your first slide!
+
+   Clipping is a handy way to collect important slides you want to go back
+   to later. Now customize the name of a clipboard to store your clips.
+     __________________________________________________________________
+
+   Name* ____________________
+   Description ____________________
+   Visibility
+   Others can see my Clipboard [ ]
+   (BUTTON) Cancel (BUTTON) Save
+
+   Bizographics tracking image

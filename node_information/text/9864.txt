@@ -1,0 +1,261 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WZ6LHH2
+
+   Skip to main content
+
+     * Search ICANN.org ____________________ 
+
+     * Log In
+     * Sign Up
+
+   Icann logo
+   Get Started
+   Beginner's GuideNewcomers ProgramFellowship ProgramHistory
+   News & Media
+   AnnouncementsBlogFor JournalistsGlobal NewslettersLegislative /
+   Regulatory ReportsMultimediaRegional Reports
+   Policy
+   ICANN PolicyDevelop PolicyImplement PolicyPolicy UpdateParticipateTeam
+   Public Comment
+   OpenRecently ClosedUpcomingArchive
+   Resources
+   BoardAccountability & TransparencyRegistrarsRegistry OperatorsDomain
+   Name RegistrantsContractual ComplianceComplaints OfficePrivacy & Proxy
+   ServicesHelpCareers
+   Community
+   GroupsCalendar
+   IANA Stewardship
+   & Accountability
+   Fact SheetIANA Stewardship TransitionEnhancing ICANN
+   AccountabilityImplementationCustomer Standing CommitteeRoot Zone
+   Evolution Review Committee
+
+   Search ICANN.org ____________________ 
+
+   Search Filters
+
+     * Language
+          + [ ] English
+          + [ ] العربية
+          + [ ] Español
+          + [ ] Français
+          + [ ] Pусский
+          + [ ] 中文
+     * Subject
+          + [ ] Accountability
+          + [ ] Announcement
+          + [ ] ccTLD
+          + [ ] Chairman & Board
+          + [ ] Compensation Election
+          + [ ] Compliance
+          + See more
+               o [ ] DNSSEC
+               o [ ] Fast Track
+               o [ ] Financials
+               o [ ] gTLD
+               o [ ] IDN
+               o [ ] Independent Review Process
+               o [ ] IPv6
+               o [ ] New gTLDs
+               o [ ] NTIA Stewardship Transition
+               o [ ] Planning
+               o [ ] Public Comment
+               o [ ] Reconsideration
+               o [ ] Registrars
+               o [ ] Registries
+               o [ ] RSEP
+               o [ ] Security
+               o [ ] SSR
+               o [ ] Trademark
+               o [ ] Transfers
+               o [ ] Transparency
+               o [ ] UDRP
+               o [ ] WHOIS
+     * Group
+          + [ ] Accountability Mechanisms
+          + [ ] ALAC
+          + [ ] ASO
+          + [ ] At-Large
+          + [ ] ATRT
+          + [ ] Audit
+          + See more
+               o [ ] Board
+               o [ ] ccNSO
+               o [ ] Compensation
+               o [ ] Compliance
+               o [ ] Executive
+               o [ ] Finance
+               o [ ] GAC
+               o [ ] Global Relationships
+               o [ ] GNSO
+               o [ ] Governance
+               o [ ] IANA
+               o [ ] IETF
+               o [ ] Improvements
+               o [ ] Legal
+               o [ ] New gTLD
+               o [ ] NomCom
+               o [ ] NRO
+               o [ ] Ombudsman
+               o [ ] Participation
+               o [ ] Risk
+               o [ ] RSSAC
+               o [ ] SSAC
+               o [ ] Technical
+               o [ ] TLG
+     * Type
+          + [ ] APD Reports
+          + [ ] Agreements
+          + [ ] Audio
+          + [ ] Blog Posts
+          + [ ] Board Materials
+          + [ ] Correspondence
+          + See more
+               o [ ] Files
+               o [ ] IDN CCTLDs
+               o [ ] Infographic
+               o [ ] Monthly Registry Reports
+               o [ ] News
+               o [ ] Newsletters
+               o [ ] Pages
+               o [ ] PDFs
+               o [ ] Press Materials
+               o
+               o [ ] Public Comments
+               o [ ] Registry Service Applications
+               o [ ] Slideshow
+               o [ ] Video
+     * Date
+          + [2019____]
+          + [October__]
+
+   No results
+
+   Your session has expired. Please refresh the page and try your search
+   again.
+
+   Sorry, search is not available at this time.
+
+   Sorry, your search limit is over for today.
+
+   [icann_logo-060b2be98ed365541773152e2d7bb0ce5777c299d04fce4d89a14bc8fbc
+   2a14a.png]
+
+   Loading...
+   Load more
+
+   ICANN is not responsible for profile content or verification of user
+   details.
+     * YouTube
+     * Twitter
+     * LinkedIn
+     * Flickr
+     * Facebook
+     * Newsletters
+     * Community Wiki
+     * ICANN Blog
+
+Who We Are
+
+     * Get Started
+     * Learning
+     * Participate
+     * Groups
+     * Board
+     * President's Corner
+     * Staff
+     * Careers
+     * Public Responsibility
+
+Contact Us
+
+     * Locations
+     * Global Support
+     * Report Security Issues
+     * PGP Keys
+     * Certificate Authority
+     * Registry Liaison
+     * Specific Reviews
+     * Organizational Reviews
+     * Complaints Office
+     * Request a Speaker
+     * For Journalists
+
+Accountability & Transparency
+
+     * Accountability Mechanisms
+     * Independent Review Process
+     * Request for Reconsideration
+     * Ombudsman
+     * Empowered Community
+
+Governance
+
+     * Documents
+     * Agreements
+     * Specific Reviews
+     * Annual Report
+     * Financials
+     * Document Disclosure
+     * Planning
+     * Accountability Indicators
+     * RFPs
+     * Litigation
+     * Correspondence
+
+Help
+
+     * Dispute Resolution
+     * Domain Name Dispute Resolution
+     * Name Collision
+     * Registrar Problems
+     * WHOIS
+
+Data Protection
+
+     * Data Privacy Practices
+     * Privacy Policy
+     * Terms of Service
+     * Cookies Policy
+
+   © 2019 Internet Corporation for Assigned Names and Numbers.Privacy
+   PolicyTerms of ServiceCookies Policy
+
+A note about our privacy policies and terms of service:
+
+   We have updated our privacy policies and certain website terms of
+   service to provide greater transparency, promote simplification, and
+   align with recent changes in privacy laws applicable to us. Learn more.
+
+   This site uses cookies to deliver an efficient user experience and to
+   help us see how the site is used. Learn more.OK
+
+   Domain Name System
+   Internationalized Domain Name ,IDN,"IDNs are domain names that include
+   characters used in the local representation of languages that are not
+   written with the twenty-six letters of the basic Latin alphabet
+   ""a-z"". An IDN can contain Latin letters with diacritical marks, as
+   required by many European languages, or may consist of characters from
+   non-Latin scripts such as Arabic or Chinese. Many languages also use
+   other types of digits than the European ""0-9"". The basic Latin
+   alphabet together with the European-Arabic digits are, for the purpose
+   of domain names, termed ""ASCII characters"" (ASCII = American Standard
+   Code for Information Interchange). These are also included in the
+   broader range of ""Unicode characters"" that provides the basis for
+   IDNs. The ""hostname rule"" requires that all domain names of the type
+   under consideration here are stored in the DNS using only the ASCII
+   characters listed above, with the one further addition of the hyphen
+   ""-"". The Unicode form of an IDN therefore requires special encoding
+   before it is entered into the DNS. The following terminology is used
+   when distinguishing between these forms: A domain name consists of a
+   series of ""labels"" (separated by ""dots""). The ASCII form of an IDN
+   label is termed an ""A-label"". All operations defined in the DNS
+   protocol use A-labels exclusively. The Unicode form, which a user
+   expects to be displayed, is termed a ""U-label"". The difference may be
+   illustrated with the Hindi word for ""test"" — परीका — appearing here
+   as a U-label would (in the Devanagari script). A special form of
+   ""ASCII compatible encoding"" (abbreviated ACE) is applied to this to
+   produce the corresponding A-label: xn--11b5bs1di. A domain name that
+   only includes ASCII letters, digits, and hyphens is termed an ""LDH
+   label"". Although the definitions of A-labels and LDH-labels overlap, a
+   name consisting exclusively of LDH labels, such as""icann.org"" is not
+   an IDN."

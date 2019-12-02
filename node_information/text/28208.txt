@@ -1,0 +1,1863 @@
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-TZGWTGG&gtm_auth=fCzlsm
+   YQFAUQ_UXneGJNag&gtm_preview=env-2&gtm_cookies_win=x
+
+     * [javascript]
+     * Toggle navigation
+
+     * [javascript]
+     * Home
+     * About
+     * Submit
+     * Journals
+     * Journals A-Z
+     * Research Topics
+
+   [header-search.png] ____________________ [BUTTON Input] (not
+   implemented)_____
+     * Login
+     * Register
+
+Login using
+
+   LinkedIn
+   Twitter
+   Facebook
+   i
+
+You can login by using one of your existing accounts.
+
+   We will be provided with an authorization token (please note: passwords
+   are not shared with us) and will sync your accounts for you. This means
+   that you will not need to remember your user name and password in the
+   future and you will be able to login with the account you choose to
+   sync, with the click of a button.
+   OR
+   Email *
+   ____________________
+   Please fill in this field
+   Password *
+   ____________________
+   Please fill in this field
+   [ ]
+   Remember me
+   Forgot Password?
+   (BUTTON) Login
+     * Frontiers
+     * Frontiers
+       Office
+     * [header-search.png]
+
+     * My frontiers
+     * My Frontiers
+     * Office
+     *
+     *
+     *
+     * [header-search.png]
+
+   [logo-home.svg]
+   (BUTTON) Toggle navigation About Us
+     * About Frontiers
+     * About
+     * History
+     * Meet the team
+     * Progress Reports
+     * Awards
+     * Partners and Collaborations
+     * Institutional Memberships
+     * Publishing Solutions
+     * Press & Media
+     * Contact Us
+
+     * About Journals
+     * Journals A-Z
+     * Publishing Model
+     * Open Access
+     * Peer Review
+     * Research Topics
+     * Author Guidelines
+     * Publishing Fees
+     * Fee Policy
+
+     * About Impact
+     * Impact
+     * Journal Impact Factors
+     * Journal CiteScores
+     * Journal Citations
+
+     * About Loop
+     * Loop Research Network
+
+Contact Frontiers
+
+HEADQUARTERS
+
+   Frontiers Media SA
+   Avenue du Tribunal Fédéral 34
+   1005 Lausanne
+   Switzerland
+   Tel +41 (0)21 510 17 00
+   Fax +41 (0)21 510 17 01
+
+OTHER OFFICES
+
+   United Kingdom Frontiers Media Limited
+   12 Moorgate
+   WeWork, 6th floor
+   London EC2R 6DA – United Kingdom
+   Spain Frontiers Software SL
+   Paseo de la Castellana, 77
+   WeWork, 3rd floor
+   28046 Madrid - Spain
+   United States Frontiers Media Inc.
+   WeWork Holyoke Building
+   107 Spring Street
+   Seattle, WA 98104 – United States
+   Belgium Frontiers EU Liaison Office
+   c/o Interel European Affairs
+   Rue du Luxembourg 22-24
+   1000 Brussels - Belgium
+
+CONTACT
+
+   Application Support For assistance with technical issues
+   Your requests including your personal details will transit through a
+   US-based service provider. support@frontiersin.org + 41 21 5101710
+   Editorial Office For general comments, suggestions, or queries
+   editorial.office@frontiersin.org + 41 21 5101740
+     For queries about specific manuscripts, please contact the relevant
+   journal directly. Journal contact emails below
+     For Chinese-language 中文 author service. china@frontiersin.org +86 10
+   58690159
+   Research Topics Office General information about organizing Frontiers
+   Research Topics researchtopics@frontiersin.org
+
+   + 41 21 5101715
+
+   +1 206 2741206
+
+   Production Office Authors’ proofs, typesetting, layout, and
+   finalization production.office@frontiersin.org + 41 21 5101706
+   Accounting Office Payment and invoicing accounting@frontiersin.org + 41
+   21 5101703
+   Communications Office General media inquiries, interviews with the
+   Frontiers' executives, corporate communications, scientific press
+   releases, editorial embargoes and intitutional press offices liaison.
+   press@frontiersin.org +41 21 5101704
+   Sales Institutional memberships institutions@frontiersin.org
+     Publishing Partnerships publishing.partnerships@frontiersin.org
+   Events Office Event posting, conference abstract handling and
+   publication events@frontiersin.org + 41 21 5101706
+     For conference exhibition and sponsorships, please contact the
+   relevant journal directly. Journal contact emails below +41 21 5101704
+   Other queries For any other queries info@frontiersin.org + 41 21
+   5101700
+
+JOURNAL CONTACT E-MAILS
+
+     Manuscripts in Review Journal and Research Topics
+   Frontiers In Aging Neuroscience
+   agingneuroscience.editorial.office@frontiersin.org
+   agingneuroscience@frontiersin.org
+   Frontiers in Applied Mathematics and Statistics
+   mathematics.editorial.office@frontiersin.org
+   mathematics@frontiersin.org
+   Frontiers in Artificial Intelligence
+   ai.editorial.office@frontiersin.org ai@frontiersin.org
+   Frontiers in Astronomy and Space Sciences
+   spacesciences.editorial.office@frontiersin.org
+   spacesciences@frontiersin.org
+   Frontiers In Behavioral Neuroscience
+   behavioralneuroscience.editorial.office@frontiersin.org
+   behavioralneuroscience@frontiersin.org
+   Frontiers in Big Data bigdata.editorial.office@frontiersin.org
+   bigdata@frontiersin.org
+   Frontiers in Bioengineering and Biotechnology
+   bioengineering.editorial.office@frontiersin.org
+   bioengineering@frontiersin.org
+   Frontiers in Blockchain blockchain.editorial.office@frontiersin.org
+   blockchain@frontiersin.org
+   Frontiers in Built Environment
+   builtenvironment.editorial.office@frontiersin.org
+   builtenvironment@frontiersin.org
+   Frontiers in Cardiovascular Medicine
+   cardiovascularmedicine.editorial.office@frontiersin.org
+   cardiovascularmedicine@frontiersin.org
+   Frontiers in Cell and Developmental Biology
+   cellbiology.editorial.office@frontiersin.org
+   cellbiology@frontiersin.org
+   Frontiers In Cellular and Infection Microbiology
+   cellandinfect.editorial.office@frontiersin.org
+   cellandinfect@frontiersin.org
+   Frontiers In Cellular Neuroscience
+   cellularneuroscience.editorial.office@frontiersin.org
+   cellularneuroscience@frontiersin.org
+   Frontiers in Chemical Engineering
+   chemicalengineering.editorial.office@frontiersin.org
+   chemicalengineering@frontiersin.org
+   Frontiers in Chemistry chemistry.editorial.office@frontiersin.org
+   chemistry@frontiersin.org
+   Frontiers in Communication
+   communication.editorial.office@frontiersin.org
+   communication@frontiersin.org
+   Frontiers in Earth Science
+   earthscience.editorial.office@frontiersin.org
+   earthscience@frontiersin.org
+   Frontiers in Ecology and Evolution
+   ecologyandevolution.editorial.office@frontiersin.org
+   ecologyandevolution@frontiersin.org
+   Frontiers in Education education.editorial.office@frontiersin.org
+   education@frontiersin.org
+   Frontiers in Endocrinology
+   endocrinology.editorial.office@frontiersin.org
+   endocrinology@frontiersin.org
+   Frontiers in Energy Research energy.editorial.office@frontiersin.org
+   energy@frontiersin.org
+   Frontiers in Environmental Science
+   environmentalscience.editorial.office@frontiersin.org
+   environmentalscience@frontiersin.org
+   Frontiers in Forests and Global Change
+   forestsandglobalchange.editorial.office@frontiersin.org
+   forestsandglobalchange@frontiersin.org
+   Frontiers in Genetics genetics.editorial.office@frontiersin.org
+   genetics@frontiersin.org
+   Frontiers in Human Dynamics
+   humandynamics.editorial.office@frontiersin.org
+   humandynamics@frontiersin.org
+   Frontiers In Human Neuroscience
+   humanneuroscience.editorial.office@frontiersin.org
+   humanneuroscience@frontiersin.org
+   Frontiers in ICT ict.editorial.office@frontiersin.org
+   ict@frontiersin.org
+   Frontiers in Immunology immunology.editorial.office@frontiersin.org
+   immunology@frontiersin.org
+   Frontiers in Marine Science
+   marinescience.editorial.office@frontiersin.org
+   marinescience@frontiersin.org
+   Frontiers in Materials materials.editorial.office@frontiersin.org
+   materials@frontiersin.org
+   Frontiers in Mechanical Engineering
+   mechanicalengineering.editorial.office@frontiersin.org
+   mechanicalengineering@frontiersin.org
+   Frontiers in Medicine medicine.editorial.office@frontiersin.org
+   medicine@frontiersin.org
+   Frontiers in Microbiology microbiology.editorial.office@frontiersin.org
+   microbiology@frontiersin.org
+   Frontiers in Molecular Biosciences
+   molecularbiosciences.editorial.office@frontiersin.org
+   molecularbiosciences@frontiersin.org
+   Frontiers in Nanotechnology
+   nanotechnology.editorial.office@frontiersin.org
+   nanotechnology@frontiersin.org
+   Frontiers in Neurology neurology.editorial.office@frontiersin.org
+   neurology@frontiersin.org
+   Frontiers in Neuroscience neuroscience.editorial.office@frontiersin.org
+   neuroscience@frontiersin.org
+   Frontiers in Nutrition nutrition.editorial.office@frontiersin.org
+   nutrition@frontiersin.org
+   Frontiers in Oncology oncology.editorial.office@frontiersin.org
+   oncology@frontiersin.org
+   Frontiers in Pediatrics pediatrics.editorial.office@frontiersin.org
+   pediatrics@frontiersin.org
+   Frontiers in Pharmacology pharmacology.editorial.office@frontiersin.org
+   pharmacology@frontiersin.org
+   Frontiers in Physics physics.editorial.office@frontiersin.org
+   physics@frontiersin.org
+   Frontiers in Physiology physiology.editorial.office@frontiersin.org
+   physiology@frontiersin.org
+   Frontiers in Plant Science
+   plantscience.editorial.office@frontiersin.org
+   plantscience@frontiersin.org
+   Frontiers in Psychiatry psychiatry.editorial.office@frontiersin.org
+   psychiatry@frontiersin.org
+   Frontiers in Psychology psychology.editorial.office@frontiersin.org
+   psychology@frontiersin.org
+   Frontiers in Public Health
+   publichealth.editorial.office@frontiersin.org
+   publichealth@frontiersin.org
+   Frontiers in Research Metrics and Analytics
+   researchmetrics.editorial.office@frontiersin.org
+   researchmetrics@frontiersin.org
+   Frontiers in Robotics and AI
+   roboticsandai.editorial.office@frontiersin.org
+   roboticsandai@frontiersin.org
+   Frontiers in Sociology sociology.editorial.office@frontiersin.org
+   sociology@frontiersin.org
+   Frontiers in Sports and Active Living
+   sports.editorial.office@frontiersin.org sports@frontiersin.org
+   Frontiers in Surgery surgery.editorial.office@frontiersin.org
+   surgery@frontiersin.org
+   Frontiers in Sustainable Cities
+   sustainablecities.editorial.office@frontiersin.org
+   sustainablecities@frontiersin.org
+   Frontiers in Sustainable Food Systems
+   sustainablefoodsystems.editorial.office@frontiersin.org
+   sustainablefoodsystems@frontiersin.org
+   Frontiers In Systems Neuroscience
+   systemsneuroscience.editorial.office@frontiersin.org
+   systemsneuroscience@frontiersin.org
+   Frontiers in Veterinary Science
+   veterinaryscience.editorial.office@frontiersin.org
+   veterinaryscience@frontiersin.org
+   Frontiers in Water water.editorial.office@frontiersin.org
+   water@frontiersin.org
+     *
+     *
+     *
+     *
+
+     * Home
+     * Journals A-Z
+     * Institutional Membership
+
+     * Contact
+     * News
+
+     * Submit
+     * Help Center
+     * Terms & Conditions
+     * Privacy Policy
+     * Books
+
+     * Newsletters
+     * RSS/Twitter
+     * Careers
+
+   © 2007 - 2019 Frontiers Media S.A. All Rights Reserved
+
+
+   Terms and Conditions Privacy Policy Copyright Statement List of Cookies
+   Summary of Changes
+
+Terms and Conditions
+
+   These Terms and Conditions (Terms) create a contract between you and
+   Frontiers Media SA (Frontiers) which applies to your use of our
+   websites and to any other interaction between you and Frontiers.
+
+   These terms apply to all interactions with and use of Frontiers’
+   Publishing Platform and Loop Research Network (websites).
+
+   These terms come into effect on 25th May, 2018.
+
+General
+
+1. Who We Are
+
+   Frontiers is an award-winning Open Science platform and leading Open
+   Access scholarly publisher. Our mission is to make high-quality,
+   peer-reviewed research articles rapidly and freely available to
+   everybody in the world, thereby accelerating scientific and
+   technological innovation, societal progress and economic growth.
+   Founded in 2007 by two neuroscientists, Frontiers has grown to become
+   one of the world’s largest open-access publishers
+
+2. What Is Covered Under These Terms and Conditions
+
+   These terms create a contract between you and Frontiers whenever you
+   interact with us, whether or not you are registered with us. For
+   example, these terms cover all visits to Frontiers websites; the
+   submission, review, acceptance (or rejection) and publication of
+   articles; and use of the Loop Research Network. Other rules and
+   procedures of Frontiers, including the Author Guidelines, Privacy
+   Policy and Copyright Statement, also apply. Other specific terms, such
+   as our terms for editors, will also apply if you are or become an
+   editor with Frontiers.
+
+   Our contract with you is personal to you and may not be assigned or
+   transferred by you to any other person.
+
+   Your right to use of any Frontiers website and any Frontiers
+   functionality is conditional on your complying with these terms and all
+   other applicable rules and conditions of Frontiers. Frontiers will also
+   comply with its terms and conditions.
+
+Registering with Frontiers
+
+3. Registration
+
+   You may become a registered user of Frontiers (including Loop) by
+   clicking here. To register you must provide at least the minimum
+   information required.
+
+   You can manage your privacy settings. You can find information on how
+   to do this in our Help Centre.
+
+   If you already have a Loop profile, you are already a registered user
+   of Frontiers. You should check to ensure that you have only one profile
+   with Frontiers and Loop, where possible, to avoid confusion.
+
+4. Who May Register with Frontiers
+
+   Only natural persons aged 18 or over may register with Frontiers, and
+   you must register in your own name. You may not create more than one
+   profile.
+
+   By registering with us you promise Frontiers that the information you
+   provide is accurate and not misleading.
+
+   Frontiers may refuse or cancel a registration, at its discretion, with
+   or without notice.
+
+5. What It Means to Register with Frontiers
+
+   By successfully registering with us, you have the following immediate
+   benefits:
+     * you become a registered user of Frontiers and a member of the Loop
+       network
+     * you may submit articles for peer review and other content, and you
+       can apply to become a Frontiers editor or reviewer.
+
+   Registering with Frontiers also means accepting the following:
+     * you have read, understood and agree with these Terms, Frontiers’
+       Privacy Policy and Copyright Statement
+     * you must comply with these terms and all other rules and conditions
+       of Frontiers. This obligation also applies to all users, whether or
+       not registered
+     * you must comply with all generally-accepted academic and scientific
+       norms and Frontiers’ own principles
+     * you understand that Frontiers is not obliged to publish any content
+       contributed by you, and that Frontiers may remove any content
+       contributed by you, including retracting peer-reviewed articles.
+
+   If you wish to close your account with Frontiers, please contact
+   support@frontiersin.org.
+
+6. Communications and Emails
+
+   By registering with Frontiers, you consent to receiving email and other
+   communications from Frontiers.
+
+   You may opt out of certain types of messages, such as marketing
+   messages, in your settings, but you may not opt out of messages on
+   matters such as administrative and legal issues, changes in terms and
+   conditions and other necessary communications. If you do not agree to
+   receive such emails and communications, you may not register with
+   Frontiers and Frontiers may cancel any existing registration.
+
+   You must keep your email and other contact details up to date in your
+   registration information.
+
+7. Your Rights as a User. Restrictions on Your Rights
+
+   As a user, registered or not, you may use all open functionalities of
+   the Frontiers websites if you comply with all our terms. Some
+   functionality may be restricted to registered users or to certain types
+   of users (such as editors).
+
+   You may benefit from the CC-BY licence over articles and other content
+   as described elsewhere in these terms.
+
+   If you are a registered user, you may create links to Frontiers
+   websites from other respectable websites, but not from any website
+   which does not comply with the requirements of these terms. Frontiers
+   may remove any links and/or to require their removal, and you must
+   comply with such a request. Frontiers is not responsible for the
+   content of third-party websites.
+
+   Uploading of videos and similar materials is subject to all related
+   rules, including third-party and intellectual property rules. Be aware
+   of the warranties you give concerning your right to upload any content.
+
+8. Infringement of Your Rights
+
+   We believe in respecting the rights of all, including rights granted by
+   law and those generally accepted in academia. If you believe your
+   rights have been infringed, please contact us at this address:
+   claims@frontiersin.org.
+
+9. Exclusion of Users
+
+   We expressly reserve the right to refuse applications to register with
+   Frontiers and/or to suspend or cancel the accounts of users, at our
+   discretion.
+
+10. Privacy, Personal Data and Cookies
+
+   Frontiers strives to comply, as a minimum, with Swiss and EU laws on
+   privacy and data protection and to apply the principles of recognised
+   cross-border data protection procedures. Our updated Privacy Policy
+   provides detailed information on what personal data we collect, how we
+   use it and your rights concerning our processing of your data.
+
+   You are responsible for maintaining the security of your password. Do
+   not share your password with any other person. If your password
+   security may have been breached, change it immediately. Choose strong
+   passwords and avoid obvious passwords. You must notify Frontiers
+   immediately if you believe that unauthorised access has been gained to
+   your account. Frontiers is not responsible for any damage suffered by
+   you due to a lack of security on your part.
+
+   It is important to keep your personal information up to date. Please
+   check it regularly.
+
+   Be aware that your public profile may be viewed by anyone visiting your
+   profile on the Frontiers website, in any country. To change your
+   privacy settings with Frontiers please log in to your account.
+
+Ownership of Website, Software and Content. Trademarks
+
+11. Ownership of Website, Software and Content
+
+   Frontiers is the owner of the frontiersin.org website, the software
+   constituting that website and of all copyright and other intellectual
+   property rights in those assets.
+
+   Frontiers is the owner of the combination of all content on its
+   websites and of the look and feel of its websites.
+
+   Frontiers does not own the copyright in articles you submit to it – you
+   (or your employer or funder) continue to own the copyright in your
+   articles. See the section Licences (permissions) you grant as an
+   authors and the Copyright Statement for more information.
+
+12. Trademarks
+
+   "Frontiers In" and "Loop" are registered trademarks of Frontiers Media
+   SA.
+
+Conditions for Submissions of Articles for Peer-Reviewed Publication
+
+13. Submission
+
+   If published, your article will in principle remain published
+   permanently, with your personal details and those of your co-authors,
+   as well as those of the reviewers and handling editors, on the
+   Frontiers website, and stored in archives, in repositories and
+   potentially in other places.
+
+   When you submit an article to Frontiers, you promise that:
+     * the article is not under consideration by any other journal; if it
+       has been submitted for consideration elsewhere, it has been
+       definitively rejected and is no longer being considered for
+       publication
+     * the article will not be submitted for publication elsewhere unless
+       either published or rejected by Frontiers
+     * you have the explicit consent of all co-authors to submit the
+       article and to accept these conditions, including the granting of
+       the CC-BY licence, on behalf of all co-authors
+     * you have the authorisation of all copyright owners (which may
+       include your employer or funder, and any owners of third-party
+       graphics) to submit the article and to grant the CC-BY licence over
+       the article
+     * an article submitted to report original research is an original
+       contribution, meaning it contains content that has not been
+       previously published in its current form (except for manuscripts
+       deposited as pre-prints in established community-validated
+       pre-print services)
+     * the article does not contain any non-attributed content from any
+       existing source, including the authors’ own existing material
+     * all contributors have been adequately acknowledged
+     * the article and all authors meet the authorship criteria as
+       outlined in the Author Guidelines
+     * the article complies with all the rules on content
+     * all findings have been verified in accordance with the highest
+       scientific standards in the relevant field
+     * all research involving regulated animals (i.e. all live vertebrates
+       and higher invertebrates) has been conducted in accordance with
+       relevant institutional and national guidelines, all applicable
+       legislation and guidelines and accepted best practices, and the
+       approval body has been identified in the article
+     * research involving human subjects has been conducted in accordance
+       with the World Medical Association’s Declaration of Helsinki, you
+       have identified the approval body in the article and the article
+       states clearly that informed written consent was obtained from all
+       participants
+     * the article clearly declares any financial, commercial or other
+       relationships which may be considered to represent a potential
+       conflict of interest
+     * you have disclosed all relevant facts to Frontiers concerning the
+       author(s), the article, the underlying research, any relevant
+       third-party rights and any actual or potential conflicts of
+       interest.
+
+14. Acceptance and Rejection
+
+   Acceptance is at Frontiers’ discretion in accordance with its rules and
+   processes. Once accepted, an article will in principle be published; on
+   rare occasions an issue causing rejection may arise or be discovered,
+   in which case the article may be rejected despite having been
+   previously accepted.
+
+15. Publication
+
+   There is no prior right to publication. Articles submitted will be
+   subjected to ethical and technical checks and then to our rigorous and
+   interactive peer-review process, which will require your cooperation.
+
+   If the article is published, you will become liable to pay our article
+   publication charge (APC), or to ensure that it is paid. Current APCs
+   can be seen here.
+
+   The Frontiers peer-review process is designed to ensure scientific
+   rigour and does not check for the satisfaction of the other
+   requirements.
+
+16. Disclosure of inventions
+
+   You must ensure that all patent applications have been filed prior to
+   submission of your article.
+
+17. Time for publication
+
+   If Frontiers unjustifiably fails to publish an article within a
+   reasonable period of its final acceptance and payment by the author,
+   Frontiers shall refund the publication fee, to the exclusion of any
+   other liability of Frontiers for such failure.
+
+18. The Published Article
+
+   Once published, an article can not be removed except by Frontiers’
+   decision, taken in accordance with accepted retraction processes. The
+   article is likely to be archived and referenced in a number of archives
+   and repositories.
+
+   The article will be published with the name(s) and affiliation(s) of
+   the author(s) and the names of the reviewers who endorsed publication
+   during the peer review, as well as that of the handling editor.
+
+   Frontiers reserves the right to remove any content, and to retract
+   peer-reviewed articles, which in its view breach any applicable terms
+   of Frontiers and/or which in Frontiers’ view are inappropriate in any
+   way. Such removal does not entitle the author to reimbursement of APC.
+
+   Frontiers is not liable for the acts or statements of others.
+
+19. Licences (Permissions) You Grant as an Author
+
+   When you submit an article to Frontiers, you grant to Frontiers and to
+   the world at large a permanent, non-cancellable, free-of-charge,
+   worldwide licence (permission) to publish, display, store, copy and
+   re-use that article – including any third-party materials – and to
+   create derivative works from it. You can not terminate that licence.
+   You must ensure that you have all necessary permissions from third
+   parties. Ownership by the third party of the copyright can still be
+   notified on the relevant materials, and attribution must be made in
+   accordance with usual scholarly practices.
+
+   The licence (permission) you grant over your article (including any
+   third-party materials included in your article) is a Creative Commons
+   attribution licence (known as a "CC-BY" licence). You can not terminate
+   that licence.
+
+   In summary, the CC-BY licence means that anyone may copy, re-publish
+   and/or re-use your content, and create derivative works from it, for
+   commercial or non-commercial purposes, without charge, but must clearly
+   attribute the work to you and any co-authors, and they must cite
+   Frontiers as the original publisher of that content. Complete
+   information can be found here.
+
+   You agree that as the Creative Commons organisation updates the CC-BY
+   licence, the licence terms granted by you are automatically updated to
+   the new version.
+
+   Reproduction of all or part of an article is also subject to compliance
+   with usual academic attribution practices, which must be scrupulously
+   complied with in addition to the CC-BY requirements.
+
+   You may not reproduce or publish any content in any forum (online or
+   not) which advocates any political, religious, anti-religious, racist,
+   extremist, violent or disrespectful viewpoints. If you post any
+   Frontiers content in such a forum, you must remove it immediately on
+   request by Frontiers.
+
+   You may also not reproduce any content from our websites in order to
+   denigrate Frontiers.
+
+   The same CC-BY licence also applies to any other content, such as
+   reviews, opinions, conference abstracts and blog posts, which you may
+   submit to Frontiers.
+
+   You irrevocably grant us permission to use any non-patented ideas set
+   out in your content or in any message sent or submitted to Frontiers,
+   without any charge and without restriction, for any purpose in any part
+   of the world.
+
+   Any content of yours appearing on a non-Frontiers website remains
+   subject to the terms and conditions of that website.
+
+20. Disputes
+
+   We have mediation processes for settling disputes related to articles,
+   and we mutually promise to exhaust those possibilities prior to
+   commencing any judicial dispute resolution mechanisms.
+
+Advertising, Commercial Promotion and Sponsorships
+
+21. Sponsorship Programmes
+
+   Frontiers has sponsorship programmes for Research Topics and other
+   areas. Sponsorships must comply with strict ethical rules. If you are
+   interested in becoming a sponsor, please contact us at
+   topics@frontiersin.org.
+
+22. Promotional Messages
+
+   Messages and other content promoting a commercial offering are not
+   permitted without Frontiers’ written agreement.
+
+23. Advertising
+
+   Frontiers does not currently accept advertisements.
+
+Using Our Websites
+
+24. Rules on Content
+
+   All content submitted to Frontiers, whether or not peer-reviewed, must
+   comply with these rules. This is your responsibility when you submit
+   any article or content.
+
+   All content must:
+     * be accurate or be genuinely believed to be accurate after duly
+       rigorous investigation
+     * only state opinions which are genuinely held
+     * comply with all generally accepted scientific and academic norms
+       and with all accepted citation rules and norms, and must give
+       appropriate credit for contributions
+     * comply with all accepted ethical rules and norms, including any
+       Frontiers ethical guidelines
+     * not infringe any intellectual property rights (including copyright,
+       moral rights and database rights) of any person
+     * be the subject of any necessary consents and authorisations
+     * not breach any terms and conditions of any website or other forum
+       from which that content was copied or derived, or to which you
+       provide a link, or from which you have provided a link to our
+       website
+     * not be defamatory
+     * not be malicious, offensive, discriminatory, threatening, racist,
+       extremist; not promote hatred or violence or denigrate any person,
+       group of people or set of beliefs, or provide any link to any such
+       material
+     * only be for the purpose of furthering scientific and academic
+       discourse in good faith, and in particular not be for the purpose,
+       or have the effect, of promoting any commercial offering, service,
+       product or interest, without Frontiers’ prior explicit agreement
+     * not give a false impression that it emanates from Frontiers or is
+       approved by Frontiers, or otherwise be misleading in any way
+     * not be pornographic or indecent
+     * remain polite and respectful, especially when disagreeing
+     * not ascribe any negative psychological or other labels or
+       descriptions to any named or identifiable person or group of
+       people, without the specific, informed consent of the person or
+       people concerned to such label or description being ascribed to
+       him/her/them
+     * not be for the purpose, or have the primary effect, of promoting
+       any political, societal, religious or anti-religious views
+     * not disclose confidential information, including personal data of
+       others, without the consent of the owner of that information or
+       data
+     * comply with all applicable laws
+     * not advocate, refer to or provide a link to any website or content
+       which would itself infringe any of these principles.
+
+   We may remove any content, or retract peer-reviewed articles, at our
+   discretion. You may also request deletion of content and we will
+   consider such requests in their context. We may insert a place-holder
+   to indicate that a comment has been deleted. We may retain deleted
+   comments in our database.
+
+   Frontiers is not responsible for content posted by its users, including
+   the content of peer-reviewed articles.
+
+   Content you post will by default be visible to others. You may alter
+   your settings to reduce access to your content (but not to
+   peer-reviewed articles) by editing the default settings for each post
+   you make.
+
+   Any content posted by you may be commented on, copied, quoted and
+   linked to by others.
+
+   If you believe any content breaches any of these requirements, please
+   contact us at editorial.office@frontiersin.org
+
+25. Prohibited Activities
+
+   The following activities are prohibited on Frontiers’ websites and can
+   result in your registration being suspended or terminated, which
+   Frontiers expressly reserves the right to do, and in your being liable
+   for damages to Frontiers and/or to third parties:
+     * Gaining or attempting to gain access to another user’s account
+       without that user’s explicit and informed permission
+     * Disguising your identity when interacting in any way on Frontiers’
+       websites
+     * Any activity which is designed to, or is likely to, cause any harm
+       or damage to Frontiers, any of Frontiers’ suppliers or any users of
+       Frontiers’ facilities
+     * Any attempt to copy, hack or reverse-engineer the code forming the
+       website or any of its functionalities
+     * Any act intended or likely to cause any damage to any Frontiers
+       website, its availability on the internet, its underlying software
+       or reputation, including (but not limited to) denial of service
+       attacks
+     * Uploading or placing on any Frontiers website, or in any website to
+       which you provide links, any virus or other harmful or undesirable
+       code
+     * Any fraudulent, harmful or illegal activity
+     * Any attempt to gain unauthorised access to databases or other
+       resources of Frontiers or its suppliers
+     * Posting or linking to any content which does not comply in all
+       respects with the content requirements set out in these terms
+     * Posting of any personal information of any other person without
+       that person’s explicit informed consent
+     * The posting of any commercial or promotional content, or any
+       content which includes promotion of any commercial or business
+       offering, without a specific agreement with Frontiers in that
+       respect
+     * The mounting or promotion of any pyramid scheme or other
+       multi-level marketing scheme
+     * Reproduction, duplication, copying or re-selling any part of any
+       Frontiers website except for good-faith reliance on the CC-BY
+       licence or as otherwise specifically permitted by these terms or
+       following the specific and explicit agreement of Frontiers.
+
+26. Text and Data Mining
+
+   Frontiers does not object to text and data mining of its website's
+   public content for the legitimate purpose of enrichment of external
+   collections of scientific literature. However, we may need to restrict
+   this activity if it hinders the performance of our website and its
+   services. If you encounter problems, please feel free to contact our
+   technical support: support@frontiersin.org.
+
+27. Availability. Viruses and Attacks. Bugs and Errors
+
+   Frontiers endeavours, through active maintenance, to ensure that its
+   websites remain available, bug-free and error-free, but the need for
+   planned and emergency maintenance and the nature of software
+   development mean that no absolute guarantee can be given. We will do
+   what we can to give adequate warning of any planned downtime and to
+   minimise unplanned downtime.
+
+   We may from time to time withdraw services and replace them with
+   others.
+
+   You are strongly advised to keep back-ups of any content which you do
+   not wish to lose.
+
+   Frontiers adopts industry-standard measures to minimise the risk of
+   attacks, viruses, other harmful code and hackers. Given that our
+   platform exists to permit the contribution of content, and given the
+   constant efforts of those with ill intent, we can not guarantee that
+   the website, or links posted by users, will be free from third-party
+   viruses and other malicious third-party software or that we will always
+   be successful in preventing attacks from succeeding. We will continue
+   in our efforts both to prevent such occurrences and to minimise their
+   impact on us and on our users.
+
+Final Provisions
+
+28. Breach of Terms
+
+   Breach of any of these terms by Frontiers or you would be a breach of
+   our contract.
+
+29. Amendment of Terms
+
+   These terms, and other conditions and rules of Frontiers, will be
+   amended from time to time. Amendments will be communicated in the
+   manner(s) appearing most appropriate to Frontiers. This may include
+   email and/or notification at login. For this reason you should visit
+   our websites regularly to ensure you are informed of changes to Terms.
+   Amendments take effect upon that communication being made available to
+   you, whether or not you actually log in to receive the information.
+
+30. DISCLAIMER OF WARRANTIES
+
+   YOUR USE OF FRONTIERS WEBSITES OR ANY WEBSITE TO WHICH THEY ARE LINKED
+   IS AT YOUR SOLE RISK. FRONTIERS WEBSITES AND THEIR CONTENT ARE PROVIDED
+   FOR USE ON AN "AS IS" AND "AS AVAILABLE" BASIS. FRONTIERS MAKES NO
+   REPRESENTATIONS OR WARRANTIES WITH RESPECT TO FRONTIERS WEBSITES, THEIR
+   AVAILABILITY OR THEIR CONTENTS AND HEREBY DISCLAIMS ALL WARRANTIES,
+   EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES
+   OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, OR
+   NON-INFRINGEMENT RELATING TO THE FRONTIERS WEBSITES, THEIR CONTENT OR
+   ANY WEBSITE TO WHICH THEY ARE LINKED. NO ADVICE OR INFORMATION, WHETHER
+   ORAL OR WRITTEN, OBTAINED BY YOU FROM FRONTIERS OR THROUGH OR FROM ANY
+   FRONTIERS WEBSITE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN
+   THESE TERMS FOR WEBSITE USE. WITHOUT LIMITING THE GENERALITY OF THE
+   FOREGOING, FRONTIERS STRONGLY RECOMMENDS THAT YOU INDEPENDENTLY VERIFY
+   ANY INFORMATION UPON WHICH YOU CHOOSE TO RELY.
+
+31. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL FRONTIERS OR ITS LICENSEES, EMPLOYEES, AGENTS,
+   SUPPLIERS OR CONTRACTORS BE LIABLE FOR ANY DAMAGES OF ANY NATURE,
+   INCLUDING WITHOUT LIMITATION ANY CONSEQUENTIAL LOSS, DAMAGES FOR LOSS
+   OF INCOME OR PROFIT, LOSS OF OR DAMAGE TO PROPERTY, LOSS OF GOODWILL,
+   USE, DATA OR OTHER INTANGIBLE LOSSES, CLAIMS OF THIRD PARTIES, OR ANY
+   OTHER LOSS, COST, CLAIM OR EXPENSE OF ANY KIND OR CHARACTER ARISING OUT
+   OF OR IN CONNECTION WITH THE USE OF ANY FRONTIERS WEBSITE, ITS CONTENT
+   OR ANY WEBSITE TO OR FROM WHICH ANY LINKS MAY BE ESTABLISHED.
+
+   Nothing in these Terms and Conditions for Users shall limit or exclude,
+   or be interpreted as intending to limit or exclude, Frontiers’
+   liability for gross negligence (as defined under Swiss law) or for
+   deliberate wrongdoing, or for any other matter for which, under any
+   applicable law, liability can not be limited or excluded.
+
+32. Deadline for Bringing Claims
+
+   Any claim against Frontiers must be brought within one year of your
+   becoming aware of the existence of that claim.
+
+33. Failure to Enforce Rights
+
+   Frontiers may choose not to enforce its rights in the event of a breach
+   of these Terms. Such forbearance does not prevent Frontiers from
+   enforcing that right in the future.
+
+34. No Third-Party Rights
+
+   No third party (except your co-authors on submission of an article)
+   obtains any rights from your contract with Frontiers, which is personal
+   to you.
+
+35. Force Majeure
+
+   Neither you nor Frontiers are / is liable for failure to fulfil
+   obligations due to circumstances beyond the reasonable control of the
+   affected party, but both you and Frontiers undertake to take all
+   reasonable measures to limit the duration and effect of those
+   circumstances and to find other ways of fulfilling your or its
+   obligations.
+
+36. Governing Law and Jurisdiction
+
+   Your agreement with Frontiers, including these terms and all other
+   matters referred to above, is governed exclusively by the laws of
+   Switzerland. You and Frontiers agree to seek in good faith to resolve
+   any disputes through good-faith discussion, negotiation and mediation
+   before resorting to litigation. Any dispute not so resolved shall be
+   subject to the exclusive jurisdiction of the courts of the Canton of
+   Vaud, Switzerland. Frontiers does not accept any other jurisdiction
+   unless otherwise explicitly agreed by it in writing. You will consent
+   to any action by us taken to stop or prevent you from bringing an
+   action in breach of this clause, and to indemnify us for our costs in
+   bringing such an action.
+
+Privacy Policy
+
+   We have updated our Privacy Policy to ensure that you, our users and
+   researchers around the world, have a clear view as to what personal
+   data we have, how we use it and under what conditions we entrust it to
+   our contractors; and also to clarify the choices you have. This also
+   ensures we are in line with the latest laws on data protection.
+
+   This Privacy Policy comes into effect on 25th May, 2018.
+
+Why do we collect personal data?
+
+   Frontiers has a mission – to make scientific and scholarly research
+   open to all, as more than ever, science and technology are needed to
+   engineer solutions to move us towards a sustainable society. To do this
+   we seek to engage with the world’s research community and to serve each
+   researcher as best we can. Being able to understand your research
+   interests, speciality and publications helps us in this task.
+
+   Our goal with this policy is to be as clear as possible. If you have
+   any questions you are welcome to contact us at
+   data.controller@frontiersin.org.
+
+What personal data do we collect, and when do we collect it?
+
+1. We collect data which you provide or authorise us to receive from third
+parties
+
+   Frontiers and its open research network, Loop, have one single
+   registered user base and a unified registration.
+
+   When you register with Frontiers or Loop, you provide us with certain
+   information, which becomes part of your registered user profile with
+   Frontiers. Some basic information is required for registration, and you
+   may choose to provide additional personal information. We also ask you
+   if you wish to link other, publicly-available, information about your
+   professional activities – including articles published, awards received
+   etc – to your profile.
+
+   When registering, and any time after registration, you choose how much
+   information you wish to provide, based on the privacy options available
+   on the registration page and on your profile once registered.
+
+   If you, as a registered user, undertake an activity with Frontiers,
+   such as submitting, co-authoring or reviewing an article, or becoming
+   an editor, your contributions will be linked to your user profile. This
+   approach maximises impact for your professional achievements and
+   credits you for your contributions.
+
+   You may register with Frontiers via your Facebook, LinkedIn or Twitter
+   profile. We will store the name, profile picture and email address from
+   that external profile. We do not ask that external party for any more
+   information and we do not provide any information to the external party
+   as part of that process. The external party will know that you are
+   registering with Frontiers.
+
+   You may respond to a promotion on another website by contacting us and
+   expressing an interest in receiving communications or participating in
+   a Frontiers initiative in your area of interest or expertise. We will
+   retain the personal information you provide to us for this purpose.
+
+   You can, if you wish, link your ORCiD profile with your Frontiers
+   account. If you choose to do this we will add your ORCiD and your
+   ORCiD-listed publications to your Frontiers profile.
+
+   We may provide other linking services in the future to provide a better
+   service to you.
+
+2. We collect information when you visit our websites
+
+   When you visit any page on the Frontiers websites, some technical
+   information is automatically collected:
+     * Geo-location data. We record (via IP addresses and time stamp) from
+       where in the world you are accessing the article, research topic
+       and profile pages on our websites. This does not identify any
+       individual (unless you are a registered user and logged in) and
+       allows us to consolidate this data to understand where readership
+       is located, and to provide impact metrics services, such as for
+       your article or research topic.
+     * Log data. We record information, known as log data, including
+       browser interaction data and other information that your device’s
+       browser automatically sends to any website you visit. This log data
+       includes your IP address, which browser you are using and its
+       settings, the date and time of your request, and data on how you
+       used our website, "cookie" data (we explain this below) and
+       information about your device.
+     * Device information. We collect information on the type of device
+       you are using, its operating system, browser type and version and
+       other information to enable us to ensure that our website operates
+       properly with your device. This may include information unique to
+       your device. The information your device sends to us depends on its
+       manufacturer.
+     * Website tracking and improvement data. We may log the manner in
+       which visitors to our website navigate our website. This is done to
+       improve the usability of our website and to track the success of
+       our communications and promotions.
+     * Browsing history of registered users on our websites. This enables
+       us to understand better the interests of our registered users.
+     * Third-party analytics. Please see the section below on Online
+       Tracking concerning our use of Google Analytics and third-party web
+       analytics.
+     * Payment information. We or our relevant contractors may, depending
+       on your choices, retain your payment information.
+
+3. We collect information from public and subscription sources on the
+research activities, publications and conference activities of researchers
+
+   Frontiers collects publicly-available information and information from
+   subscription services on researchers, both registered and
+   non-registered. Only information relevant to professional research
+   activities is collected, such as name, institutional affiliation,
+   contact details, publications, academic activities and
+   specialisation(s), editorships and awards.
+
+   This enables us to provide researchers with high-quality publishing
+   services, such as identifying the most suited expert reviewers for
+   articles or building world-class editorial boards.
+
+4. We collect information on your interactions with Frontiers and with others
+on our platforms
+
+Interactions with Frontiers
+
+   We remember interactions of registered and non-registered users with
+   Frontiers. This may include emails received from you, acceptance of
+   terms and conditions, your visits to the website, submission of
+   content, acceptance of reviewer or editor roles, participation in the
+   review process, acceptances and rejections of articles, Frontiers
+   surveys you may complete and any other interaction between you and
+   Frontiers.
+
+Online Tracking
+
+     * Google Analytics. Frontiers uses Google Analytics, a web analytics
+       service provided by Google. Google Analytics uses cookies (see the
+       section below on cookies) to allow us to analyse your use of our
+       website. The information generated by the cookie regarding your use
+       of this website will, as a rule, be transmitted to and stored on a
+       Google server in the US. Information sent by Frontiers to Google
+       Analytics does not personally identify any resident of Switzerland,
+       the EU or EEA. In exceptional cases your full IP address may be
+       transmitted to a server of Google in the US and shortened there.
+       Google will use this information on our behalf to analyse your use
+       of our website, to compile reports on website activities and
+       provide additional services relating to website use and internet
+       use to the website operator. The IP address collected through
+       Google Analytics from your browser will not be merged with any
+       other data held by Google.
+       You may also prevent Google from collecting and storing information
+       in cookies, from storing information about your use of the website
+       (including your IP address) and from processing such information by
+       downloading and installing the browser plug-in available here.
+       For more information about Google Analytics and privacy, please
+       refer to the Google website.
+     * Third-Party Web Analytics. We also use selected third-party web
+       analytics services, also sometimes referred to as "pixels", with
+       services such as Twitter, Google and Facebook. See the section on
+       Advertising Networks below.
+
+Network connections
+
+   You may choose, via Loop, to connect with other researchers and
+   registered users. Frontiers stores this information as part of its
+   networking service. Your connections are visible to Frontiers and,
+   unless you have opted not to make this public, to other users of Loop.
+   This service enables you to be kept up to date with new publications in
+   your areas of interest and to connect with colleagues.
+
+What do we do with the information we collect?
+
+   We use the information we collect to:
+     * Provide services for you and to the research community, including
+       creating and managing your account (for registered users),
+       providing our publishing and networking services and providing
+       relevant research-related news and information to you within your
+       areas of expertise and interest
+     * Invite you to participate in Frontiers activities, particularly to
+       review relevant articles within your area of specialisation, to
+       contribute to cutting-edge research topics, and possibly to join an
+       editorial board or to meet at a conference. The information we
+       collect about your professional activities enables us to ensure
+       that only relevant invitations are sent to you
+     * Identify and disambiguate. To ensure that, where the same name is
+       shared by more than one person, we are dealing with the right
+       person in the publishing operations of our business
+     * Comply with your privacy and email choices
+     * Understand the user experience of our website and our editorial
+       processes, in order to improve our services, website and processes,
+       and to imagine new services, so that your experience with Frontiers
+       can be the best possible
+     * Understand the geographical locations and institutional
+       affiliations of our users
+     * Inform you of Frontiers activities, events and opportunities
+     * Answer your queries and provide you with support and service
+     * Conduct surveys aimed at providing you with a better service.
+
+   Advertising networks. We intend to participate in advertising networks
+   administered by third parties, such as Google, Facebook, Twitter and
+   LinkedIn. These networks allow us to target our promotions to you by
+   using data matching, demographic data, your stated or inferred
+   interests and your browsing activity on our website, which is tracked
+   over time by automated means such as cookies, web server logs and web
+   beacons. The networks use the information gathered to show you
+   advertisements and promotions tailored to your interests and
+   specialisation. The networks may also track your browsing on other
+   websites which participate in the advertising network. We also track
+   the effectiveness of our promotional and marketing activities via these
+   networks. You may opt out of participation in these activities. Please
+   see the section on Opting Out below.
+
+   Cookies. Cookies are small pieces of text sent to your browser by a
+   website you visit and from your browser back to the website. Frontiers
+   uses cookies. Some cookies last only for the duration of your visit
+   (these are called "session cookies"), while others remain on your
+   computer until they expire or are deleted (known as "persistent
+   cookies"). Some cookies are associated with your Frontiers account (and
+   thus your personal information).
+
+   Cookies do not themselves identify you, but we may link information
+   identifying you (for example your IP address) to a cookie on your
+   browser. We use cookies to:
+     * Apply any preferences you may have indicated
+     * Track your navigation of our website (without identifying you) so
+       we can analyse the usability of our website and improve it, and so
+       that we can understand your interests and thus only send you
+       information relevant to you
+     * Know if you are logged in when you move to another part of our
+       website (for session management)
+     * Keep you logged in from one session to the next, if you so choose
+     * Secure your data when communicating with our website.
+
+   All Frontiers cookies are used only in the frontiersin.org domain. We
+   also use third-party analytics cookies such as Google and other
+   third-party Analytics. For further information on this, please see the
+   above sections on Google Analytics and Advertising Networks.
+
+   You may refuse the use of cookies by selecting the appropriate settings
+   on your browser; however, if you do this, you may not be able to log in
+   or use the full functionality of Frontiers’ websites.
+
+   A list of the cookies which are transferred to our users’ browsers can
+   be seen here.
+
+Transferring your information
+
+   Frontiers operates globally, and your information may be transferred to
+   other Frontiers entities and to third-party contractors outside your
+   home country. The privacy protections and the rights of authorities to
+   access your information in these countries may not be the same as in
+   your home country.
+
+   When we transfer information outside the European Economic Area (EEA)
+   or Switzerland we take additional measures. This includes having
+   standard clauses approved by the European Commission and the Swiss data
+   protection authority in our contracts with parties that receive
+   information outside the EEA. We also rely on European Commission and
+   Swiss government adequacy decisions about certain countries, as
+   applicable, for data transfers to countries outside the EEA; this may
+   include reliance on the EU-US privacy shield.
+
+How and when we share information
+
+   When you register, some basic information, such as your name and
+   institutional affiliation, is made public on your Loop profile. You can
+   choose whether to make any other registration or profile information
+   public or not. Anyone, including non-registered users, can see the
+   information you make public.
+
+   When we publish an article of which you are an author, editor or
+   reviewer, your name is published with the article. This is part of the
+   Frontiers mission to improve peer-review through transparency and
+   accountability, and to credit and acknowledge your contribution. Anyone
+   can see your name in connection with that article. Your name and
+   association with that article cannot be removed or deleted unless
+   required by accepted scholarly publishing practice.
+
+   We use subcontractors, with appropriate data protection measures, to
+   perform some of our processes. These include typesetting and
+   copy-editing of articles, and customer relationship management.
+
+   We work with numerous public research repositories, scholarly databases
+   and other organisations (such as CLOCKSS, Crossref, DOAB (Directory of
+   Open-Access Books), DOAJ (Directory of Open-Access Journals), MedLine,
+   OpenAire, PubMed, PubMed Central, Scopus and Web of Science and other
+   reputable scholarly repositories), to archive research articles and/or
+   their metadata, as well as databases to enable plagiarism checks such
+   as iThenticate, which provides additional discoverability and a further
+   guarantee of a permanent record of those articles; or to enable
+   plagiarism checks to be handled efficiently. With some repositories
+   only the metadata is provided, which includes information identifying
+   the authors and reviewers of an article. You can find further
+   information on third parties we work with here.
+
+   Use of tracking and custom audience methods, described elsewhere in
+   this privacy policy, involve sharing of information as described in
+   those sections.
+
+   We may be required to share information with law enforcement agencies.
+
+   All data we collect, use and share is for the purpose of providing our
+   services to you and to the research community.
+
+How we protect your information
+
+   Frontiers takes a variety of technical, physical, organisational and
+   administrative measures to provide an appropriate level of protection
+   for your information against accidental, unlawful or unauthorised
+   access, loss, destruction, alteration, disclosure or use.
+
+   We define access rights to information and we use technology to limit
+   access to those who are authorised. We ensure that our servers have
+   adequate security. We control physical access to our premises. We have
+   in place, and we apply, an IT and data security policy. We work to
+   ensure that our contractors have in place appropriate security measures
+   and process data in accordance with applicable laws.
+
+Choices you have about your information
+
+   You have a number of choices concerning your personal information.
+
+   If you are a registered user, you have a number of choices as to what
+   information you provide and how much of that information is made
+   public. You should review your personal information and your privacy
+   settings regularly. To do that, please go to your profile settings.
+
+   You can manage the settings on your browser to change whether it
+   accepts cookies and which cookies it accepts; you can also manually
+   delete cookies. Please see the instructions of your device or browser
+   provider for how to do this.
+
+   You have the right to:
+     * be informed of the information we store concerning you. Our
+       intention is to respond to any request for information within
+       thirty days of the request
+     * require that your information be corrected or deleted. If you are
+       registered, you can update your registration information by logging
+       in to your profile. Frontiers may consider it has an overriding
+       need to retain all or some information in order to provide its
+       services as a responsible publisher
+     * object to us processing your information. You can ask us to stop
+       using your information, including when we use your information to
+       send you emails or promotional notifications concerning our
+       services. If you opt out of receiving promotional messages, we will
+       continue to send service emails if you are registered with us
+     * require us to send your data provided by you and stored by us to a
+       third party, where this is technically feasible
+     * complain to a data protection regulator.
+
+   If you are a registered user, you should regularly check your
+   registration information to ensure it is up to date and, to the extent
+   you wish, complete.
+
+   Opting Out. You can opt out of the use by Frontiers of your data on
+   social media platforms.To opt out of the use of your data on social
+   media platforms, please visit the ad choices page of the relevant
+   platform:
+     * LinkedIn
+     * Twitter
+     * Facebook
+     * Google
+
+Age limits and children
+
+   Frontiers is for professional researchers and those interested in
+   science, and is for people aged 18 and over. People under the age of 18
+   should not register with Frontiers.
+
+   Where individuals aged less than 18 are involved in Frontiers for Young
+   Minds, Frontiers only communicates with them via parents, guardians,
+   teachers or science mentors. No personally identifiable information on
+   any person whom we believe to be under 18 is stored by Frontiers.
+
+How to raise questions or concerns concerning your personal data
+
+   If you have questions or concerns concerning Frontiers’ storage or use
+   of your personal data, you can contact us at
+   data.controller@frontiersin.org.
+
+Amendments
+
+   If we make changes to this policy, those changes will come into effect
+   upon their posting on our website. If changes involve any substantive
+   change to your rights or possibilities, we will inform you via your
+   registered email address or with a pop-up announcement the next time
+   you log in, or by another appropriate method.
+
+   Frontiers Media SA
+   May 2018
+
+Frontiers Copyright Statement
+
+   All content included on Frontiers websites (including Loop), such as
+   text, graphics, logos, button icons, images, video/audio clips,
+   downloads, data compilations and software, is the property of Frontiers
+   if created by Frontiers, or of the person or entity who or which owned
+   it prior to submission to Frontiers. If not owned by Frontiers, it is
+   licensed to Frontiers Media SA (Frontiers) or its licensees and/or
+   subcontractors.
+
+   The copyright in the text of individual articles (including research
+   articles, opinion articles, book reviews, conference proceedings and
+   abstracts) is not the property of Frontiers, and its ownership is not
+   affected by its submission to or publication by Frontiers. Frontiers
+   benefits from a general licence over all content submitted to it, and
+   both Frontiers and its users benefit from a Creative Commons CC-BY
+   licence over all content, as specified below.
+
+   Images and graphics not forming part of user-contributed materials are
+   the property of or are licensed to Frontiers may not be downloaded or
+   copied without Frontiers’ explicit and specific permission or in
+   accordance with any specific copyright notice attached to that
+   material.
+
+   The combination of all content on Frontiers websites, as well as the
+   design and the look and feel of the Frontiers websites, and the
+   copyright and all other rights in such content and combination, are the
+   sole property of Frontiers.
+
+   As an author or contributor you grant permission to others to reproduce
+   your articles, including any graphics and third-party materials
+   supplied by you, in accordance with the Frontiers Terms and Conditions.
+   The licence granted to third parties over all contents of each article,
+   including third-party elements, is a Creative Commons Attribution ("CC
+   BY") licence. The current version is CC-BY, version 4.0, and the
+   licence will automatically be updated as and when updated by the
+   Creative Commons organisation.
+
+   You may include a requirement to reproduce copyright notices in
+   materials contributed by you, but you may not restrict the right to
+   reproduce the entire article, including third-party graphics. This
+   means that you must obtain any necessary third-party consents and
+   permissions to reproduce third-party materials in your articles
+   submitted to Frontiers.
+
+   E-books are subject to the same licensing conditions as the articles
+   within them.
+
+   Articles published prior to the effective date of this notice: Please
+   note that reproduction of third-party graphics and other third-party
+   materials contained in articles published prior to the effective date
+   of this notice may be subject to third-party notices prohibiting their
+   reproduction without permission. You must comply with those notices.
+
+   Articles published prior to July 2012: The licence granted for these
+   articles may be different and you should check the pdf version of any
+   article to establish what licence was granted. If an article, dating
+   from before July 2012, carries only a non-commercial licence and you
+   wish to obtain a commercial licence, please contact Frontiers at
+   editorial.office@frontiersin.org.
+
+   All software used on this website, and the copyright in the code
+   constituting such software, is the property of or is licensed to
+   Frontiers and its use is restricted in accordance with the Frontiers
+   Terms and Conditions. All copyright, and all rights therein, are
+   protected by national and international copyright laws.
+
+   This Copyright Statement comes into effect on 25th May, 2018.
+
+Cookies Used on Frontiers Websites
+
+   We use our own and third-party cookies.
+
+Frontiers Cookies
+
+     *
+          + Cookie name
+          + Data stored and processed
+          + Expiry
+          + Description
+     *
+          + Cerberus
+          + User ID
+          + Session only or persistent, depending on user’s "remember me"
+            choices.
+          + Allows the user to log in and keep the session open between
+            visits.
+     *
+          + CerberusEx
+          + User ID Beta user or not Registration provider name
+          + Persistent (1 month)
+          + Allowed to detect users marked as beta to try new
+            functionalities, no longer used but still present
+     *
+          + ThirdPartyRegistrationCookie
+          + Third party tokens
+          + Session (1 min)
+          + Used to be able to register and login with Facebook, Twitter,
+            LinkedIn
+     *
+          + FIS_CacheVersion *.frontiersin.org
+          + Caching information
+          + Persistent (1 year)
+          + Used to manage caching of data.
+     *
+          + CurrentSessionID *.frontiersin.org
+          + Session ID
+          + Persistent (1 year)
+          + Used to manage sessions.
+     *
+          + FrontiersN (given if the user checks the Remember Me checkbox
+            on Login) *.frontiersin.org
+          + User ID, Network Database ID Session ID
+          + Persistent (1 year)
+            Will be replaced by Cerberus in 2018
+          + Allows the user to log in and keep the session open between
+            visits.
+     *
+          + FrontiersNt (given if the user does not check the Remember Me
+            checkbox on Login)
+          + User ID, Network Database ID Session ID
+          + Session
+            Will be replaced by Cerberus in 2018
+          + Allows the user to log in and keep the session open while the
+            browser remains open.
+     *
+          + What’s new (The name displayed is unique for each user,
+            application and version)
+          + Popup ID
+            User ID
+            Version ID
+          + Persistent (1 year)
+          + Used to log whether the user has seen the latest version of
+            the What’s new pop-up.
+     *
+          + Journal_AR
+          + Article IDs visited
+          + Persistent (1 year)
+          + Used to log and map related articles based on user visits.
+     *
+          + YoungMinds
+            (on kids.frontiersin.org domain)
+          + User language preference
+          + Persistent (2 weeks; renewed with each visit)
+          + Used to remember preferences for language, ISO code, page
+            orientation, and date format.
+
+Third-Party Cookies
+
+     *
+          + Service name
+          + Cookie name
+          + Data stored and processed
+          + Expiry
+          + Description and further information
+     *
+          + Google Analytics
+          + _ga
+          + Tracking information (see Privacy Policy)
+          + Persistent (2 years)
+          + See Privacy Policy
+     *
+          + Google Analytics
+          + _gid
+          + Tracking information (see Privacy Policy)
+          + Session
+          + See Privacy Policy
+     *
+          + Google Analytics
+          + _gat
+          + Tracking information (see Privacy Policy)
+          + Session
+          + See Privacy Policy
+     *
+          + Google Global site tag
+          + _gtag
+          + Tracking information (see Privacy Policy)
+          + Persistent (2 Years)
+          + See Privacy Policy
+     *
+          + Facebook Pixel
+          + _fbp
+          + Tracking information (see Privacy Policy)
+          + Session
+          + See Privacy Policy
+     *
+          + Twitter pixel
+          + _twq
+          + Tracking information (see Privacy Policy)
+          + Persistent (2 Years)
+          + See Privacy Policy
+     *
+          + AddThis
+          + __atuvc
+          + Number of page visits
+          + Persistent (2 years)
+          + See AddThis privacy policy
+     *
+          + AddThis
+          + __atuvs
+          + Number of shares
+          + Session
+          + See AddThis privacy policy
+     *
+          + Salesforce (via igodigital)
+          + igodigital_7236711
+          + Tracking information (see Privacy Policy)
+          + Session
+          + See Privacy Policy
+     *
+          + Salesforce (via igodigital)
+          + igodigitalstdomain
+          + Tracking information (see Privacy Policy)
+          + Session
+          + See Privacy Policy
+     *
+          + Salesforce (via igodigital)
+          + igodigitaltc2
+          + Tracking information (see Privacy Policy)
+          + Persistent (10 years)
+          + See Privacy Policy
+     *
+          + Lucky Orange
+          + __lotl
+          + Tracking information (see Privacy Policy)
+          + Persistent (179 days)
+          + Tracks navigation of website, anonymously, to enable
+            improvement of navigability.
+            See Lucky Orange Privacy Policy
+     *
+          + Lucky Orange
+          + __lotr
+          + Tracking information (see Privacy Policy)
+          + Persistent (1 year)
+          + See Lucky Orange Privacy Policy
+     *
+          + Lucky Orange
+          + _lo_u
+          + Tracking information (see Privacy Policy)
+          + Persistent (2 years)
+          + Tracks navigation of website, anonymously, to enable
+            improvement of navigability.
+            See Lucky Orange Privacy Policy
+     *
+          + Lucky Orange
+          + _lo_uid
+          + Tracking information (see Privacy Policy)
+          + Persistent (2 years)
+          + Tracks navigation of website, anonymously, to enable
+            improvement of navigability.
+            See Lucky Orange Privacy Policy
+     *
+          + Lucky Orange
+          + _lo_v
+          + Tracking information (see Privacy Policy)
+          + Persistent (1 year)
+          + Tracks navigation of website, anonymously, to enable
+            improvement of navigability.
+            See Lucky Orange Privacy Policy
+     *
+          + Lucky Orange
+          + _lorid
+          + Tracking information (see Privacy Policy)
+          + Session
+          + Tracks navigation of website, anonymously, to enable
+            improvement of navigability.
+            See Lucky Orange Privacy Policy
+     *
+          + Lucky Orange
+          + _lo_session_in
+          + Tracking information (see Privacy Policy)
+          + Session
+          + Tracks navigation of website, anonymously, to enable
+            improvement of navigability.
+            See Lucky Orange Privacy Policy
+     *
+          + New Relic
+            .nr-data.net, .newrelic.com
+          + JSESSIONID, TSNGUID, NREUM
+          + Website performance data
+          + Session
+          + Monitors page load times for users and reporting service level
+            drops. Does not identify individual users.
+            See NewRelic Documentation
+
+   Frontiers also uses third-party cloud services for blogs
+   (blog.frontiersin.org, hosted by Wordpress) and customer support
+   (zendesk.frontiersin.org, hosted by Zendesk).
+
+   Frontiers does not run any cookies on those pages.
+
+   For information on what cookies Wordpress and Zendesk run on those
+   respective pages, please consult Wordpress Documentation or Zendesk
+   Documentation, as applicable.
+
+   Updated in April, 2019.
+
+Updates to our Terms, Privacy Policy and Copyright Statement
+
+   We want to make you aware of updates to our privacy policy, terms and
+   copyright statement. Below we say a few words about each of them, and
+   we encourage you to read them.
+
+We have updated our Privacy Policy
+
+   It is important to keep you informed about what data of yours we may
+   have, as well as how we use, share and protect it.
+
+   Our new, updated privacy policy does all of this, informs you of your
+   options and also gives you detailed information about the cookies used
+   on our websites. This is part of our work to ensure we are aligned with
+   the new EU General Data Protection Regulation.
+
+We have updated our Terms
+
+   The main changes in our terms are these:
+     * Registration with Frontiers and the Loop network for researchers is
+       now unified.
+     * Third-party materials are now subject to the Creative Commons CC-BY
+       (attribution) licence, and you therefore promise Frontiers, when
+       submitting an article, that you have the permission of owners of
+       all third-party materials forming part of your article
+     * Clarification of the provisions regarding exclusive rights for
+       Frontiers until an article is published or rejected by Frontiers
+     * Removal of the old indemnity clause.
+
+We have updated our Copyright Statement
+
+   The main changes in our Copyright Statement are these:
+     * All materials in articles, including third-party materials, are now
+       subject to the Creative Commons CC-BY licence. All third-party
+       permissions must be in place to publish those materials on CC-BY
+       terms.
+     * E-books are now subject to exactly the same CC-BY licence as the
+       individual articles within them.
+
+   All changes are with effect from 25th May, 2018.
+
+   Frontiers In and Loop are registered trade marks of Frontiers Media SA.
+   © Copyright 2007-2019 Frontiers Media SA. All rights reserved - Terms
+   and Conditions
+   Loading...
+
+Advertisement
+
+   Adv
+   Adv
+   Back to top
+
+   Javascript is disabled. Please enable Javascript in your browser
+   settings in order to see all the content on this page.
+     * Home
+     * About Frontiers
+     * Journals A-Z
+     * Institutional Membership
+
+     * Contact
+     * Media Relations
+     * News
+     * Blog
+
+     * Submit
+     * FAQs
+     * Terms & Conditions
+
+     * Newsletters
+     * RSS/Twitter
+     * Team
+     * Careers
+
+   © 2007 - 2019 Frontiers Media S.A. All Rights Reserved
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-TZGWTGG&gtm_auth=fCzlsm
+   YQFAUQ_UXneGJNag&gtm_preview=env-2&gtm_cookies_win=x
+
+     * [javascript]
+     * Toggle navigation
+
+     * [javascript]
+     * Home
+     * About
+     * Submit
+     * Journals
+     * Journals A-Z
+     * Research Topics
+
+   [header-search.png] ____________________ [BUTTON Input] (not
+   implemented)_____
+     * Login
+     * Register
+
+Login using
+
+   LinkedIn
+   Twitter
+   Facebook
+   i
+
+You can login by using one of your existing accounts.
+
+   We will be provided with an authorization token (please note: passwords
+   are not shared with us) and will sync your accounts for you. This means
+   that you will not need to remember your user name and password in the
+   future and you will be able to login with the account you choose to
+   sync, with the click of a button.
+   OR
+   Email *
+   ____________________
+   Please fill in this field
+   Password *
+   ____________________
+   Please fill in this field
+   [ ]
+   Remember me
+   Forgot Password?
+   (BUTTON) Login
+     * Frontiers
+     * Frontiers
+       Office
+     * [header-search.png]
+
+     * My frontiers
+     * My Frontiers
+     * Office
+     *
+     *
+     *
+     * [header-search.png]
+
+   [logo-home.svg]
+   (BUTTON) Toggle navigation About Us
+     * About Frontiers
+     * About
+     * History
+     * Meet the team
+     * Progress Reports
+     * Awards
+     * Partners and Collaborations
+     * Institutional Memberships
+     * Publishing Solutions
+     * Press & Media
+     * Contact Us
+
+     * About Journals
+     * Journals A-Z
+     * Publishing Model
+     * Open Access
+     * Peer Review
+     * Research Topics
+     * Author Guidelines
+     * Publishing Fees
+     * Fee Policy
+
+     * About Impact
+     * Impact
+     * Journal Impact Factors
+     * Journal CiteScores
+     * Journal Citations
+
+     * About Loop
+     * Loop Research Network
+
+Frontiers is a leading Open Access Publisher and Open Science Platform
+
+   Our journals are led and peer-reviewed by editorial boards of over
+   100,000 top researchers. Covering more than 600 academic disciplines,
+   we are one of the largest and highest-cited publishers in the world. To
+   date, our freely accessible research articles have received over 500
+   million views and downloads and 1 million citations.
+
+   We strive to continuously empower the academic community with
+   innovative solutions that improve how science is published, evaluated
+   and communicated to researchers, innovators and the public.
+
+OUR MISSION
+
+   Our mission is to make science open.
+
+   Research is the foundation of modern society and it’s thanks to
+   advances in science that we enjoy longer, healthier and more prosperous
+   lives than ever before in human history. We want to build on successful
+   science and make it even more powerful by ensuring it is openly
+   available. This way, society will be able to generate more knowledge
+   and accelerate innovation, health and prosperity for all.
+
+LEADER IN INNOVATION
+
+   To achieve this goal, Frontiers pioneered an in-house Open Science
+   technology platform. This includes a Collaborative Peer Review
+   Platform, a Digital Editorial Office, article-level metrics and AIRA,
+   an Artificial Intelligence Review Assistant.
+
+PUBLISHING MODEL
+
+     * Community-driven journals
+       Leading researchers serve as independent editors and reviewers on
+       our editorial boards
+     * Research Topics
+       Article collections showcasing emerging and important areas of
+       research
+     * Collaborative Peer-Review
+       Unique online forum with real-time interactions to ensure rigorous,
+       constructive and transparent peer-review
+     * Impact Metrics
+       Suite of article level metrics, measuring article and author impact
+     * Loop
+       Academic network fully integrated into our publishing platform
+       maximizing discoverability and impact
+     * Frontiers for Young Minds
+       Platform where kids engage with leading scientists in reviewing and
+       editing cutting-edge research
+
+     *
+     *
+     *
+     *
+
+     * Home
+     * Journals A-Z
+     * Institutional Membership
+
+     * Contact
+     * News
+
+     * Submit
+     * Help Center
+     * Terms & Conditions
+     * Privacy Policy
+     * Books
+
+     * Newsletters
+     * RSS/Twitter
+     * Careers
+
+   © 2007 - 2019 Frontiers Media S.A. All Rights Reserved

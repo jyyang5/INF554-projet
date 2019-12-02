@@ -1,0 +1,1512 @@
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   McAfee nommé Visionnaire dans le Gartner Magic Quadrant
+
+   août 2019 par Marc Jacob
+
+   Le Gartner a récemment publié son Magic Quadrant 2019 Endpoint
+   Protection Platforms (Plateformes de Protection des Terminaux), au sein
+   duquel McAfee, la société de cybersécurité device-to-cloud, a de
+   nouveau été nommée « Visionnaire ». Faisant suite à la stratégie de
+   McAfee d’unification de ses solutions de protections des terminaux, des
+   réseaux et du Cloud, le Gartner a salué les point suivants :
+
+   Les produits natifs au cloud McAfee MVISION, tels que MVISION EDR et
+   MVISION Endpoint sont présentés comme « EDR complets » et
+   représentatifs des « options hébergées SaaS attractives » de McAfee.
+
+   Le Gartner retient particulièrement comme points forts l’alignement de
+   MVISION EDR avec MITRE ATT&CK, des capacités d’investigations et
+   d’analyses des risques plus rapides avec Guided-AI Investigation, ainsi
+   que l’usage du Cloud pour la rétention des évènements.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   ServiceNow reconnu leader dans le Magic Quadrant Gartner dans la
+   catégorie « Integrated Risk Management » pour la deuxième année
+   consécutive
+
+   juillet 2019 par Marc Jacob
+
+   ServiceNow annonce que Gartner l’a positionné – pour la seconde année
+   consécutive - comme leader au sein du Magic Quadrant 2019 dans la
+   catégorie « Integrated Risk Management ».
+
+   ServiceNow Governance, Risk, and Compliance (GRC) transforme les
+   processus inefficaces en combinant les capacités de sécurité, IT et de
+   gestion des risques en un programme unifié fondé sur la Now Platform.
+   La surveillance continue, l’établissement de priorités et
+   l’automatisation assurent une identification et une réponse rapides aux
+   risques.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   Juniper Networks reconnu "Leader de la mise en réseaux des datacenter"
+   par le Magic Quadrant 2019 de Gartner
+
+   juillet 2019 par Marc Jacob
+
+   Juniper Networks ,a été reconnu « Leader de la mise en réseaux des
+   datacenter » par le Magic Quadrant 2019 de Gartner.
+
+   Plus tôt cette année, Juniper avait déjà été reconnu comme l’un des
+   fournisseurs de choix des clients dans le Gartner Peer Insights, de la
+   même catégorie.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   Retarus figure dans les derniers panoramas du marché de la sécurité de
+   la messagerie électronique de Gartner et de Forrester Research
+
+   juillet 2019 par Marc Jacob
+
+   Le cabinet d’étude et de conseil Gartner inclut Retarus dans son
+   nouveau rapport « Market Guide for Email Security ». Spécialiste de la
+   logistique de l’information basée à Munich, Retarus figure également
+   parmi les douze principaux fournisseurs de services de sécurité
+   d’emails au monde, selon le récent rapport de Forrester Research
+   « Wave : Enterprise Email Security, Q2 2019 ».
+
+   Neil Wynne, Principal Analyst de Gartner, et Peter Firstbrook, VP
+   Analyst chez Gartner également, ont compilé leurs analyses d’un marché
+   dans lequel les entreprises migrent de plus en plus leurs systèmes de
+   messagerie vers le cloud. Ce faisant, ils comparent inévitablement les
+   solutions de sécurité avec les fonctions natives que les fournisseurs
+   de services cloud tels que Microsoft et Google annoncent rendre
+   disponibles dans leurs offres de cloud office. En revanche, les experts
+   de Gartner s’attendent à ce que le marché des produits de sécurité de
+   messagerie sur site ne cesse de réduire.
+
+   Selon Gartner, les fournisseurs de sécurité de messagerie peuvent
+   principalement se différencier de leurs concurrents en fournissant une
+   protection contre les menaces très avancées provenant des pièces
+   jointes et des URL, ainsi que contre les escroqueries à l’usurpation
+   d’identité et les tactiques d’ingénierie sociale, même pour les menaces
+   avancées « sans charge utile ».
+
+   Une autre ligne d’action clé préconisée par Gartner est l’Anti-Phishing
+   Behavioral Conditioning (APBC). Elle passe par une série de mesures de
+   formation conçues pour encourager les utilisateurs à cliquer moins
+   souvent sur des liens potentiels de phishing.
+
+   Dans son dernier rapport Forrester WaveTM, disponible depuis mai 2019,
+   Forrester souligne également que Retarus répond particulièrement bien
+   aux besoins des entreprises européennes et offre une sécurité de
+   messagerie allant au-delà du courriel.
+
+   Retarus propose la sécurité du courrier électronique en tant que
+   service depuis 1994. Depuis le début de l’année 2018, un service dédié
+   de protection avancée contre les menaces (ATP) fait partie de sa gamme
+   de produits. Le mécanisme de protection post-livraison « Patient Zero
+   Detection® » est désormais breveté dans toute l’Europe, de même que
+   l’offre de détection des botnets de Retarus.
+
+   Les clients de Gartner ont la possibilité de télécharger le « Market
+   Guide for Email Security » en utilisant le document ID G00400856. Le
+   rapport « Wave : Enterprise Email Security, Q2 2019 » de Forrester est
+   disponible en utilisant l’ID 144398.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   Fujitsu est reconnu leader dans la catégorie ‘Data Center Outsourcing
+   and Hybrid Infrastructure Managed Services’ par le Gartner
+
+   juillet 2019 par Marc Jacob
+
+   Pour la 7ème année consécutive, Gartner a nommé Fujitsu « Leader » dans
+   la catégorie ‘Data Center Outsourcing and Hybrid Infrastructure Managed
+   Services’ de son Magic Quadrant 2019 pour l’Europe1.
+
+   Dans son rapport de juin dernier, le cabinet d’analystes déclare que la
+   croissance future des services managés de datacenter proviendra de "la
+   demande croissante des clients souhaitant réduire l’empreinte de leur
+   propre centre de données tout en tirant parti d’une maîtrise des coûts,
+   de capacités de gestion étendues et des effets d’automatisation
+   intelligente émanant des fournisseurs de services".
+
+   L’approche de Fujitsu pour accélérer la transformation numérique
+   consiste à co-créer avec ses clients et son écosystème de partenaires
+   des solutions multi-cloud et hybrides personnalisées. Cette approche
+   combinée permet à nos clients un usage du Cloud de plus en plus mature,
+   leur permettant de se transformer en entreprises connectées,
+   intelligentes et proactives à la transformation digitale. Cette
+   reconnaissance de la part de Gartner s’ajoute au statut ‘Partenaire de
+   l’année’ octroyé par deux de nos fournisseurs stratégiques : Oracle et
+   VMware.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   McAfee nommé Visionnaire dans le Gartner Magic Quadrant
+
+   août 2019 par Marc Jacob
+
+   Le Gartner a récemment publié son Magic Quadrant 2019 Endpoint
+   Protection Platforms (Plateformes de Protection des Terminaux), au sein
+   duquel McAfee, la société de cybersécurité device-to-cloud, a de
+   nouveau été nommée « Visionnaire ». Faisant suite à la stratégie de
+   McAfee d’unification de ses solutions de protections des terminaux, des
+   réseaux et du Cloud, le Gartner a salué les point suivants :
+
+   Les produits natifs au cloud McAfee MVISION, tels que MVISION EDR et
+   MVISION Endpoint sont présentés comme « EDR complets » et
+   représentatifs des « options hébergées SaaS attractives » de McAfee.
+
+   Le Gartner retient particulièrement comme points forts l’alignement de
+   MVISION EDR avec MITRE ATT&CK, des capacités d’investigations et
+   d’analyses des risques plus rapides avec Guided-AI Investigation, ainsi
+   que l’usage du Cloud pour la rétention des évènements.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   ServiceNow reconnu leader dans le Magic Quadrant Gartner dans la
+   catégorie « Integrated Risk Management » pour la deuxième année
+   consécutive
+
+   juillet 2019 par Marc Jacob
+
+   ServiceNow annonce que Gartner l’a positionné – pour la seconde année
+   consécutive - comme leader au sein du Magic Quadrant 2019 dans la
+   catégorie « Integrated Risk Management ».
+
+   ServiceNow Governance, Risk, and Compliance (GRC) transforme les
+   processus inefficaces en combinant les capacités de sécurité, IT et de
+   gestion des risques en un programme unifié fondé sur la Now Platform.
+   La surveillance continue, l’établissement de priorités et
+   l’automatisation assurent une identification et une réponse rapides aux
+   risques.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   Juniper Networks reconnu "Leader de la mise en réseaux des datacenter"
+   par le Magic Quadrant 2019 de Gartner
+
+   juillet 2019 par Marc Jacob
+
+   Juniper Networks ,a été reconnu « Leader de la mise en réseaux des
+   datacenter » par le Magic Quadrant 2019 de Gartner.
+
+   Plus tôt cette année, Juniper avait déjà été reconnu comme l’un des
+   fournisseurs de choix des clients dans le Gartner Peer Insights, de la
+   même catégorie.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   Retarus figure dans les derniers panoramas du marché de la sécurité de
+   la messagerie électronique de Gartner et de Forrester Research
+
+   juillet 2019 par Marc Jacob
+
+   Le cabinet d’étude et de conseil Gartner inclut Retarus dans son
+   nouveau rapport « Market Guide for Email Security ». Spécialiste de la
+   logistique de l’information basée à Munich, Retarus figure également
+   parmi les douze principaux fournisseurs de services de sécurité
+   d’emails au monde, selon le récent rapport de Forrester Research
+   « Wave : Enterprise Email Security, Q2 2019 ».
+
+   Neil Wynne, Principal Analyst de Gartner, et Peter Firstbrook, VP
+   Analyst chez Gartner également, ont compilé leurs analyses d’un marché
+   dans lequel les entreprises migrent de plus en plus leurs systèmes de
+   messagerie vers le cloud. Ce faisant, ils comparent inévitablement les
+   solutions de sécurité avec les fonctions natives que les fournisseurs
+   de services cloud tels que Microsoft et Google annoncent rendre
+   disponibles dans leurs offres de cloud office. En revanche, les experts
+   de Gartner s’attendent à ce que le marché des produits de sécurité de
+   messagerie sur site ne cesse de réduire.
+
+   Selon Gartner, les fournisseurs de sécurité de messagerie peuvent
+   principalement se différencier de leurs concurrents en fournissant une
+   protection contre les menaces très avancées provenant des pièces
+   jointes et des URL, ainsi que contre les escroqueries à l’usurpation
+   d’identité et les tactiques d’ingénierie sociale, même pour les menaces
+   avancées « sans charge utile ».
+
+   Une autre ligne d’action clé préconisée par Gartner est l’Anti-Phishing
+   Behavioral Conditioning (APBC). Elle passe par une série de mesures de
+   formation conçues pour encourager les utilisateurs à cliquer moins
+   souvent sur des liens potentiels de phishing.
+
+   Dans son dernier rapport Forrester WaveTM, disponible depuis mai 2019,
+   Forrester souligne également que Retarus répond particulièrement bien
+   aux besoins des entreprises européennes et offre une sécurité de
+   messagerie allant au-delà du courriel.
+
+   Retarus propose la sécurité du courrier électronique en tant que
+   service depuis 1994. Depuis le début de l’année 2018, un service dédié
+   de protection avancée contre les menaces (ATP) fait partie de sa gamme
+   de produits. Le mécanisme de protection post-livraison « Patient Zero
+   Detection® » est désormais breveté dans toute l’Europe, de même que
+   l’offre de détection des botnets de Retarus.
+
+   Les clients de Gartner ont la possibilité de télécharger le « Market
+   Guide for Email Security » en utilisant le document ID G00400856. Le
+   rapport « Wave : Enterprise Email Security, Q2 2019 » de Forrester est
+   disponible en utilisant l’ID 144398.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011
+   #Syndiquer tout le site
+
+   [ombrelogo.png]
+   [logo.png]
+
+   IFRAME: /banner.php?what=zone:162&n=a5fce0c2
+
+   Rechercher ______________________ [ok_btn.gif]-Submit
+   Contactez-nous [FB-f-Logo__blue_29.png] [twitter_ic.gif] Suivez-nous
+   sur Twitter En francais English Language
+
+     * [puce-menu.png] Actu
+          + Produits
+          + Business
+          + Marchés
+          + Magic Quadrant
+     * [puce-menu.png] Dossiers
+          + Investigations
+          + Interviews
+          + Risk Management
+          + International
+          + Points de Vue
+          + Livre Blanc
+     * [puce-menu.png] Cyber Securité
+          + Label « France Cybersecurity »
+          + ECONOCOM
+     * [puce-menu.png] RGPD
+     * [puce-menu.png] Vulnérabilités
+     * [puce-menu.png] Malwares
+     * [puce-menu.png] Agenda
+          + Calendrier
+          + Les événements de Global Security Mag
+          + Événements
+     * [puce-menu.png] Guide
+          + Guide
+          + Podcast
+     * [puce-menu.png] Carrière
+          + Offres d’emploi
+          + Formations
+     * [puce-menu.png] GS Days
+
+
+[fl_r.gif] Prochains sommaires
+
+[fl_b.gif] Abonnez-vous
+
+   [cb.gif]
+
+De la Théorie à la pratique
+
+Abonnez-vous gratuitement à notre NEWSLETTER
+
+   Votre e-mail__________
+
+   [ ] Newsletter FR
+
+   [ ] Newsletter EN
+
+   [ ] Vulnérabilités
+
+   S'ABONNER [fl_r.gif] Se désabonner
+
+[fl_r.gif] Emploi Informatique et sécurité informatique
+
+[fl_r.gif] SEO référencement
+
+   Magic Quadrant
+   [fl_n.gif]
+
+   Fujitsu est reconnu leader dans la catégorie ‘Data Center Outsourcing
+   and Hybrid Infrastructure Managed Services’ par le Gartner
+
+   juillet 2019 par Marc Jacob
+
+   Pour la 7ème année consécutive, Gartner a nommé Fujitsu « Leader » dans
+   la catégorie ‘Data Center Outsourcing and Hybrid Infrastructure Managed
+   Services’ de son Magic Quadrant 2019 pour l’Europe1.
+
+   Dans son rapport de juin dernier, le cabinet d’analystes déclare que la
+   croissance future des services managés de datacenter proviendra de "la
+   demande croissante des clients souhaitant réduire l’empreinte de leur
+   propre centre de données tout en tirant parti d’une maîtrise des coûts,
+   de capacités de gestion étendues et des effets d’automatisation
+   intelligente émanant des fournisseurs de services".
+
+   L’approche de Fujitsu pour accélérer la transformation numérique
+   consiste à co-créer avec ses clients et son écosystème de partenaires
+   des solutions multi-cloud et hybrides personnalisées. Cette approche
+   combinée permet à nos clients un usage du Cloud de plus en plus mature,
+   leur permettant de se transformer en entreprises connectées,
+   intelligentes et proactives à la transformation digitale. Cette
+   reconnaissance de la part de Gartner s’ajoute au statut ‘Partenaire de
+   l’année’ octroyé par deux de nos fournisseurs stratégiques : Oracle et
+   VMware.
+
+   Tweeter
+
+[fl_r.gif] Voir les articles précédents
+
+
+
+[fl_r.gif] Voir les articles suivants
+
+   Les événements
+   [evt_ic.gif]
+   [fl_n.gif]
+
+PROGRAMME « La transition énergétique au cœur de l’évolution des Data
+Centers » - 25 septembre 2019
+
+   [flG.gif]
+   précédent
+
+[fl_r.gif] Voir tous les évènements
+
+   logo httpcs
+   Sécurité des applications web
+
+Vulnérabilités
+
+    1. Vigil@nce - RHEL 7 : déréférencement de pointeur (...)
+    2. Vigil@nce - IBM Spectrum Protect Server : (...)
+    3. Vigil@nce - GnuPG : déni de service via (...)
+    4. Vigil@nce - mgetty : boucle infinie via (...)
+    5. Vigil@nce - QEMU : obtention d’information via (...)
+    6. Vigil@nce - wpa_supplicant : obtention (...)
+    7. Vigil@nce - Drupal External Links Filter : (...)
+    8. Vigil@nce - Go : obtention d’information via (...)
+    9. Vigil@nce - McAfee ePolicy Orchestrator : (...)
+   10. Vigil@nce - FreeBSD : élévation de privilèges (...)
+
+   [drapeau_en.gif]
+
+All our news in english
+
+    1. Vigil@nce - RHEL 7: NULL pointer dereference (...)
+    2. Vigil@nce - IBM Spectrum Protect Server: (...)
+    3. Restoring the balance between agility and (...)
+    4. Vigil@nce - GnuPG: denial of service via (...)
+    5. Do you take cards? Payment cards still rule (...)
+    6. Logicalis acquires Cisco Portuguese Gold (...)
+    7. Vigil@nce - mgetty: infinite loop via (...)
+    8. Vigil@nce - QEMU: information disclosure via (...)
+    9. Vigil@nce - wpa_supplicant: information (...)
+   10. Vigil@nce - Drupal External Links Filter: (...)
+
+
+
+   Actu Dossiers Cyber Securité RGPD Vulnérabilités Malwares Agenda Guide
+   Carrière GS Days Contact A propos Mentions légales S'identifier ADMIN
+
+Global Security Mag Copyright 2011

@@ -1,0 +1,28 @@
+
+   This is the analysis tool pyramid
+     * Home
+     * Online analysis
+     * Pyramid
+
+   Bubble vizualisation
+   [loader.gif]
+
+     * Home
+     * Explore
+     * Force bubble chart
+
+   [loader.gif]
+
+{{ compiled_title }}
+
+     * Home
+     * Explore
+     * Circle packing
+
+   [loader.gif]
+
+{{ compiled_title }}
+
+     * Home
+     * Explore
+     * Parallel sets

@@ -1,0 +1,3736 @@
+   Skip to main content
+
+   (BUTTON) Main menu
+     * My space (new window) My space
+     * Schedules/ Access Schedules/ Access
+     * Agenda Agenda
+     * Catalogs Catalogs
+     * Registration / Ticketing (new window) Registration / Ticketing
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+     * COME
+     * DISCOVER
+     * EXPLORE
+     * COLLABORATE
+
+   Aide
+
+   Soutenez la BnF
+   (BUTTON) EN
+     * FR
+     * ES
+
+   BnF (aller à l'accueil)
+     * COME
+     * DISCOVER
+     * EXPLORE
+     * COLLABORATE
+
+   (BUTTON) [picto_loupe.svg] Search
+   (BUTTON) [picto_loupe.svg] Search
+
+   Aide
+   (BUTTON) EN
+     * FR
+     * ES
+
+   Soutenez la BnF
+    1. Home
+    2. Agenda
+    3. Événements
+
+Titre de la liste des évènements (EN)
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
+   metus turpis, luctus sit amet massa in, posuere mollis dolor. Nulla et
+   erat et metus efficitur gravida. Vivamus iaculis eros nec sem rhoncus
+   condimentum. Donec aliquam quis enim ut interdum. Lorem ipsum dolor sit
+   amet, consectetur adipiscing elit. Nunc at pellentesque ligula. In vel
+   facilisis tortor. (EN)
+   Filtrer la liste
+   0 résultat
+   (BUTTON) Afficher les filtres Masquer les filtres
+   When ? ____________________
+   (BUTTON) Ex : 28-08-2019 - 29-08-2019
+   What ?
+   [ ] Ateliers
+   [ ] Dans les collections
+   [ ] Échos de recherches
+   [ ] En scène
+   [ ] Événements
+   [ ] Expositions
+   [ ] Hors les murs
+   [ ] Rencontres professionnelles
+   [ ] Tous les savoirs
+   [ ] Visites
+   Who ?
+   [ ] Enseignants
+   [ ] En situation de handicap
+   [ ] Jeune Public
+   [ ] Professionnels
+   [ ] Tous publics
+   Where ?
+   [ ] François-Mitterrand
+   [ ] Richelieu
+   [ ] Arsenal
+   [ ] Opéra
+   [ ] Jean-Vilar
+   [ ] Hors les murs
+   [ ] ---
+     * [ ] Free
+     * [ ] Paying
+
+   (Appliquer) Appliquer
+
+   Aucune exposition ne correspond aux filtres spécifiés.
+   Nous vous suggérons de réinitialiser vos choix puis de revoir les
+   filtres appliqués.
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter(EN)
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Search) SearchOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   Pasar al contenido principal
+
+   (BUTTON) Menu principal
+     * Mi espacio (nueva ventana) Mi espacio
+     * Horarios / Acceso Horarios / Acceso
+     * Agenda Agenda
+     * Catálogos Catálogos
+     * Registro / Venta de entradas (nueva ventana) Registro / Venta
+       de entradas
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+   Aide
+
+   Soutenez la BnF
+   (BUTTON) ES
+     * FR
+     * EN
+
+   BnF (aller à l'accueil)
+   (BUTTON) [picto_loupe.svg] Search
+   (BUTTON) [picto_loupe.svg] Search
+
+   Aide
+   (BUTTON) ES
+     * FR
+     * EN
+
+   Soutenez la BnF
+    1. Inicio
+    2. Agenda
+    3. Événements
+
+Événements BnF
+
+   Filtrer la liste
+   0 résultat
+   (BUTTON) Afficher les filtres Masquer les filtres
+   When ? ____________________
+   (BUTTON) Ex : 28-08-2019 - 29-08-2019
+   What ?
+   [ ] Ateliers
+   [ ] Dans les collections
+   [ ] Échos de recherches
+   [ ] En scène
+   [ ] Événements
+   [ ] Expositions
+   [ ] Hors les murs
+   [ ] Rencontres professionnelles
+   [ ] Tous les savoirs
+   [ ] Visites
+   Who ?
+   [ ] Enseignants
+   [ ] En situation de handicap
+   [ ] Jeune Public
+   [ ] Professionnels
+   [ ] Tous publics
+   Where ?
+   [ ] François-Mitterrand
+   [ ] Richelieu
+   [ ] Arsenal
+   [ ] Opéra
+   [ ] Jean-Vilar
+   [ ] Hors les murs
+   [ ] ---
+     * [ ] Free
+     * [ ] Paying
+
+   (Appliquer) Appliquer
+
+   Aucune exposition ne correspond aux filtres spécifiés.
+   Nous vous suggérons de réinitialiser vos choix puis de revoir les
+   filtres appliqués.
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Search) SearchOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Menu principal
+
+     * Mon espace (nouvelle fenêtre) Mon espace
+     * Horaires / Accès Horaires / Accès
+     * Agenda Agenda
+     * Catalogues Catalogues
+     * Inscription / Billetterie (nouvelle fenêtre) Inscription
+       / Billetterie
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+     * (BUTTON) Venir
+          + Horaires, accès, tarifs
+               o François-Mitterrand
+               o Richelieu
+               o Arsenal
+               o Opéra
+               o Jean-Vilar
+          + Bibliothèque tous publics
+               o Pass lecture / culture
+          + Bibliothèque de recherche
+               o Pass recherche
+          + Trouver une place à la BnF
+          + Services sur place
+               o Utiliser des ordinateurs et internet
+               o Photocopie, impression, photographie
+               o Travailler seul ou en groupe
+               o Reproduction de documents
+               o Restauration
+               o Initiations à la Bibliothèque, au Catalogue et à Gallica
+               o Clinique juridique
+               o Français langue étrangère
+               o Studio de création audiovisuelle
+          + Programmation culturelle
+               o Agenda
+               o Liste des événements
+               o Liste des expositions
+               o Visites et ateliers
+               o Visites expositions temporaires
+               o Visites et ateliers enfants et familles
+               o Visites guidées des sites de la BnF
+               o Visites en groupes
+          + Je viens
+               o Étudier à la BnF
+               o Avec ma classe
+               o Élaborer mon projet professionnel
+          + Réserver sa place et un document
+               o Espace personnel : François-Mitterrand
+               o Espace personnel : Richelieu, Arsenal, Opéra
+               o Mode d'emploi : réserver un document -
+                 François-Mitterrand
+               o Mode d'emploi : réserver un document - Richelieu, Arsenal
+                 et Opéra
+     * (BUTTON) Découvrir
+          + Un lieu ouvert à tous
+               o Chercheurs
+               o Étudiants
+               o L'accessibilité à la BnF
+               o Publics du champ social
+          + Nos ressources en ligne
+               o Gallica
+               o RetroNews
+               o Données et métadonnées
+               o Nos APIs
+          + Notre programmation culturelle
+               o Agenda
+          + Chroniques, le magazine de la BnF
+          + BnF Éditions
+          + Actualités de la BnF
+          + Histoire et missions
+               o Missions et organisation
+               o Histoire de la BnF
+               o Le Projet Richelieu
+               o Les archives administratives de la BnF
+               o Le dépôt légal
+               o Le dépôt légal numérique
+               o BnF-Partenariats
+               o Les Centres techniques de conservation
+          + Départements de collection
+               o Bibliothèque de l'Arsenal
+               o Arts du spectacle
+               o Audiovisuel
+               o Cartes et plans
+               o Droit, économie, politique
+               o Estampes et photographie
+               o Littérature et art
+          + Départements de collection (suite)
+               o Manuscrits
+               o Monnaies, médailles et antiques
+               o Musique
+               o Orientation et Recherche bibliographique
+               o Philosophie, histoire, sciences de l'homme
+               o Réserve des livres rares
+               o Sciences et techniques
+     * (BUTTON) Explorer
+          + Galerie de médias
+               o Consulter la galerie
+               o Liste des médias
+          + Lire, écouter, voir
+               o Gallica
+               o Bibliothèques numériques internationales
+               o Expositions virtuelles
+               o BnF Collection sonore
+               o Banque d'images
+               o Retronews
+          + Chercher un document
+               o Catalogue général
+               o Data.bnf.fr
+               o Le CCFr
+               o BnF Archives et manuscrits
+               o Autres catalogues et bases
+               o Catalogue des médailles et antiques
+               o Catalogues numérisés
+          + Recherche avancée
+               o Ressources électroniques
+               o Aides à la recherche documentaire
+               o Posez vos questions à un bibliothécaire (SINDBAD)
+     * (BUTTON) Collaborer
+          + Déposer
+               o Qu'est-ce que le dépôt légal ?
+               o Qui dépose ?
+               o Que faut-il déposer ?
+               o Comment déposer ?
+               o Déposer au centre exception handicap
+          + Numériser
+               o Outils de la numérisation
+               o Prestation de numérisation
+               o Prestation d'archivage numérique
+          + Signaler
+               o Normes, formats, données d'autorité
+               o Identifiants internationaux
+               o Politique bibliographique
+               o Bibliographie nationale
+               o Bibliographies régionales
+          + Réutiliser
+               o Réutiliser les documents
+               o Comprendre l'offre
+               o Réutiliser les données
+          + Conserver
+               o Politique de conservation
+               o Prestations en conservation
+               o Plan d'urgence
+               o Formation
+               o Prestations de restauration
+               o Ressources
+          + Coopération nationale
+               o Le réseau
+               o L'action territoriale
+               o Gallica et les différents dispositifs
+               o CCFr - Signalement du patrimoine
+          + Préservation numérique
+          + Engagement international
+               o Europe
+               o Patrimoines partagés
+               o Francophonie
+               o Collaborations numériques
+               o Formation et accueil de professionnels étrangers
+               o Expertise internationale
+          + Prêts aux expositions
+
+   Aide
+
+   Les pages les plus consultées
+     * Actualités de la BnF
+     * Agenda
+     * Bibliothèque tous publics
+     * Réserver un document
+     * Galerie de médias
+
+   Soutenez la BnF
+   (BUTTON) FR
+     * EN
+     * ES
+
+   BnF (aller à l'accueil)
+
+     * (BUTTON) Venir
+          +
+               o Horaires, accès, tarifs
+                    # François-Mitterrand﻿
+                    # Richelieu﻿
+                    # Arsenal﻿
+                    # Opéra﻿
+                    # Jean-Vilar﻿
+               o Bibliothèque tous publics﻿
+                    # Pass lecture / culture﻿
+               o Bibliothèque de recherche﻿
+                    # Pass recherche﻿
+               o Trouver une place à la BnF﻿
+          +
+               o Services sur place
+                    # Utiliser des ordinateurs et internet﻿
+                    # Photocopie, impression, photographie﻿
+                    # Travailler seul ou en groupe﻿
+                    # Reproduction de documents﻿
+                    # Restauration﻿
+                    # Initiations à la Bibliothèque, au Catalogue et à
+                      Gallica﻿
+                    # Clinique juridique﻿
+                    # Français langue étrangère﻿
+                    # Studio de création audiovisuelle﻿
+          +
+               o Programmation culturelle
+                    # Agenda﻿
+                    # Liste des événements﻿
+                    # Liste des expositions﻿
+                    # Visites et ateliers﻿
+                    # Visites expositions temporaires﻿
+                    # Visites et ateliers enfants et familles﻿
+                    # Visites guidées des sites de la BnF﻿
+                    # Visites en groupes﻿
+          +
+               o Je viens
+                    # Étudier à la BnF﻿
+                    # Avec ma classe﻿
+                    # Élaborer mon projet professionnel﻿
+          +
+               o Réserver sa place et un document
+                    # Espace personnel : François-Mitterrand﻿
+                    # Espace personnel : Richelieu, Arsenal, Opéra﻿
+                    # Mode d'emploi : réserver un document -
+                      François-Mitterrand﻿
+                    # Mode d'emploi : réserver un document - Richelieu,
+                      Arsenal et Opéra﻿
+     * (BUTTON) Découvrir
+          +
+               o Un lieu ouvert à tous
+                    # Chercheurs﻿
+                    # Étudiants﻿
+                    # L'accessibilité à la BnF﻿
+                    # Publics du champ social﻿
+               o Nos ressources en ligne
+                    # Gallica﻿
+                    # RetroNews﻿
+                    # Données et métadonnées﻿
+                    # Nos APIs﻿
+          +
+               o Notre programmation culturelle
+                    # Agenda﻿
+               o Chroniques, le magazine de la BnF﻿
+               o BnF Éditions﻿
+               o Actualités de la BnF﻿
+          +
+               o Histoire et missions
+                    # Missions et organisation﻿
+                    # Histoire de la BnF﻿
+                    # Le Projet Richelieu﻿
+                    # Les archives administratives de la BnF﻿
+                    # Le dépôt légal﻿
+                    # Le dépôt légal numérique﻿
+                    # BnF-Partenariats﻿
+                    # Les Centres techniques de conservation﻿
+          +
+               o Départements de collection
+                    # Bibliothèque de l'Arsenal﻿
+                    # Arts du spectacle﻿
+                    # Audiovisuel﻿
+                    # Cartes et plans﻿
+                    # Droit, économie, politique﻿
+                    # Estampes et photographie﻿
+                    # Littérature et art﻿
+          +
+               o Départements de collection (suite)
+                    # Manuscrits﻿
+                    # Monnaies, médailles et antiques﻿
+                    # Musique﻿
+                    # Orientation et Recherche bibliographique﻿
+                    # Philosophie, histoire, sciences de l'homme﻿
+                    # Réserve des livres rares﻿
+                    # Sciences et techniques﻿
+     * (BUTTON) Explorer
+          +
+               o Galerie de médias
+                    # Consulter la galerie﻿
+                    # Liste des médias﻿
+          +
+               o Lire, écouter, voir
+                    # Gallica﻿
+                    # Bibliothèques numériques internationales﻿
+                    # Expositions virtuelles﻿
+                    # BnF Collection sonore﻿
+                    # Banque d'images﻿
+                    # Retronews﻿
+          +
+               o Chercher un document
+                    # Catalogue général﻿
+                    # Data.bnf.fr﻿
+                    # Le CCFr﻿
+                    # BnF Archives et manuscrits﻿
+                    # Autres catalogues et bases﻿
+                    # Catalogue des médailles et antiques﻿
+                    # Catalogues numérisés﻿
+          +
+               o Recherche avancée
+                    # Ressources électroniques﻿
+                    # Aides à la recherche documentaire﻿
+                    # Posez vos questions à un bibliothécaire (SINDBAD)﻿
+     * (BUTTON) Collaborer
+          +
+               o Déposer﻿
+                    # Qu'est-ce que le dépôt légal ?﻿
+                    # Qui dépose ?﻿
+                    # Que faut-il déposer ?﻿
+                    # Comment déposer ?﻿
+                    # Déposer au centre exception handicap﻿
+               o Numériser
+                    # Outils de la numérisation﻿
+                    # Prestation de numérisation﻿
+                    # Prestation d'archivage numérique﻿
+          +
+               o Signaler
+                    # Normes, formats, données d'autorité﻿
+                    # Identifiants internationaux﻿
+                    # Politique bibliographique﻿
+                    # Bibliographie nationale﻿
+                    # Bibliographies régionales﻿
+               o Réutiliser﻿
+                    # Réutiliser les documents﻿
+                    # Comprendre l'offre﻿
+                    # Réutiliser les données﻿
+          +
+               o Conserver
+                    # Politique de conservation﻿
+                    # Prestations en conservation﻿
+                    # Plan d'urgence﻿
+                    # Formation﻿
+                    # Prestations de restauration﻿
+                    # Ressources﻿
+               o Coopération nationale﻿
+                    # Le réseau﻿
+                    # L'action territoriale﻿
+                    # Gallica et les différents dispositifs﻿
+                    # CCFr - Signalement du patrimoine﻿
+          +
+               o Préservation numérique﻿
+               o Engagement international﻿
+                    # Europe﻿
+                    # Patrimoines partagés﻿
+                    # Francophonie﻿
+                    # Collaborations numériques﻿
+                    # Formation et accueil de professionnels étrangers﻿
+                    # Expertise internationale﻿
+               o Prêts aux expositions﻿
+
+   (BUTTON) [picto_loupe.svg] Recherche
+   (BUTTON) [picto_loupe.svg] Recherche
+
+   Aide
+   (BUTTON) FR
+     * EN
+     * ES
+
+   Soutenez la BnF
+
+    1. Accueil
+    2. Agenda
+    3. Les lundis de l’Arsenal – L’abbé Bethléem aux sources de la loi de
+       1949
+
+   Prochainement
+
+Les lundis de l’Arsenal – L’abbé Bethléem aux sources de la loi de 1949
+
+   23 sep. 2019
+   Arsenal
+     __________________________________________________________________
+
+   En résonance avec ses collections patrimoniales, la Bibliothèque de
+   l’Arsenal organise régulièrement des rencontres qui conjuguent
+   histoire, savoir-faire et esprit du lieu.
+   Cette conférence de l’historien Jean-Yves Mollier, en écho à
+   l’exposition de la BnF « Ne les laissez pas lire », évoque la figure de
+   l’abbé Bethléem, artisan principal de la censure des ouvrages destinés
+   à la jeunesse, et la grande victoire posthume que représente la loi de
+   1949.
+   Partager
+
+Les archives de l’abbé Bethléem
+
+   La bibliothèque de l’Arsenal conserve les archives de l’abbé Bethléem,
+   en qui l’on peut voir l’artisan principal de la censure des ouvrages
+   destinés à la jeunesse.
+   Jean-Yves Mollier, historien contemporanéiste, a consacré en 2014 un
+   livre important pour la réception de la littérature (en particulier
+   destinée à la jeunesse) à ce qu’il a appelé « l’impossible mission de
+   l’abbé Bethléem ». Celle-ci a consisté en une mise en regard rigoureuse
+   entre un catholicisme sans concession et le bon usage d’auteurs – y
+   compris ceux dont les qualités littéraires sont appréciées – pour des
+   âges et des degrés de maturité bien définis. Jean-Yves Mollier évoquera
+   donc l’influence de cette figure méconnue et la grande victoire
+   posthume que représente pour lui la loi dont l’exposition « Ne les
+   laissez pas lire ! Polémiques et livres pour enfants » préparée par
+   Marine Planche, commémore les 70 ans.
+
+Au temps de l’abbé Bethléem
+
+   En1904, parait Romans à lire et romans à proscrire de l’abbé Bethléem,
+   guide de lecture destiné aux familles catholiques qui distingue les «
+   bons » et les « mauvais » livres. Dans l’entre-deux-guerres, l’abbé se
+   lance dans une véritable croisade contre ces mauvaises lectures, visant
+   en particulier les illustrés pour la jeunesse comme L’Épatant (où l’on
+   peut lire les Pieds Nickelés), ou Fillette, publiés par les frères
+   Offenstadt. Son ouvrage devient vite un succès de librairie, vendu à
+   des centaines de milliers d’exemplaires en France mais aussi en
+   Belgique ou au Québec. Maintes fois réédité pendant
+   l’entre-deux-guerres, il sera le principal inspirateur de la loi du 16
+   juillet 1949 sur les publications destinées à la jeunesse.
+
+
+Les dernières publications de Jean-Yves Mollier
+
+   L’historien Jean-Yves Mollier a récemment publié Edition, presse et
+   pouvoir en France au XX^e siècle (Fayard, 2008), La Librairie
+   Tallandier. Histoire d’une grande maison d’édition populaire
+   (1870-2000), en collaboration avec Matthieu Letourneux (2011), Histoire
+   de la librairie Larousse (1852-2010), en collaboration avec Bruno Dubot
+   (2012), La mise au pas des écrivains : l’impossible mission de l’abbé
+   Bethléem au XX^e siècle (Fayard, 2014) et dirigé les trois éditions de
+   Où va le livre ? (2000, 2002 et 2007).
+
+Informations pratiques
+
+   tarifs et conditions d’accès
+
+Entrée gratuite sur inscription au 01 53 79 49 49 ou sur visites@bnf.fr
+
+Date et Horaires
+
+   Lundi 23 septembre 2019
+   18 h 30 – 20 h
+
+
+Accès
+
+   Bibliothèque de l’Arsenal
+   1, rue de Sully – 75004 Paris
+   Plan et transports
+
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+     * Plan du site
+     * Flux RSS
+     * Accessibilité
+     * Marchés publics
+     * Offres d'emploi
+     * Dématérialisation des factures
+     * Conditions générales d'utilisation
+     * Crédits
+
+   COPYRIGHT 2019
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Recherche) RechercheOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Menu principal
+
+     * Mon espace (nouvelle fenêtre) Mon espace
+     * Horaires / Accès Horaires / Accès
+     * Agenda Agenda
+     * Catalogues Catalogues
+     * Inscription / Billetterie (nouvelle fenêtre) Inscription
+       / Billetterie
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+     * (BUTTON) Venir
+          + Horaires, accès, tarifs
+               o François-Mitterrand
+               o Richelieu
+               o Arsenal
+               o Opéra
+               o Jean-Vilar
+          + Bibliothèque tous publics
+               o Pass lecture / culture
+          + Bibliothèque de recherche
+               o Pass recherche
+          + Trouver une place à la BnF
+          + Services sur place
+               o Utiliser des ordinateurs et internet
+               o Photocopie, impression, photographie
+               o Travailler seul ou en groupe
+               o Reproduction de documents
+               o Restauration
+               o Initiations à la Bibliothèque, au Catalogue et à Gallica
+               o Clinique juridique
+               o Français langue étrangère
+               o Studio de création audiovisuelle
+          + Programmation culturelle
+               o Agenda
+               o Liste des événements
+               o Liste des expositions
+               o Visites et ateliers
+               o Visites expositions temporaires
+               o Visites et ateliers enfants et familles
+               o Visites guidées des sites de la BnF
+               o Visites en groupes
+          + Je viens
+               o Étudier à la BnF
+               o Avec ma classe
+               o Élaborer mon projet professionnel
+          + Réserver sa place et un document
+               o Espace personnel : François-Mitterrand
+               o Espace personnel : Richelieu, Arsenal, Opéra
+               o Mode d'emploi : réserver un document -
+                 François-Mitterrand
+               o Mode d'emploi : réserver un document - Richelieu, Arsenal
+                 et Opéra
+     * (BUTTON) Découvrir
+          + Un lieu ouvert à tous
+               o Chercheurs
+               o Étudiants
+               o L'accessibilité à la BnF
+               o Publics du champ social
+          + Nos ressources en ligne
+               o Gallica
+               o RetroNews
+               o Données et métadonnées
+               o Nos APIs
+          + Notre programmation culturelle
+               o Agenda
+          + Chroniques, le magazine de la BnF
+          + BnF Éditions
+          + Actualités de la BnF
+          + Histoire et missions
+               o Missions et organisation
+               o Histoire de la BnF
+               o Le Projet Richelieu
+               o Les archives administratives de la BnF
+               o Le dépôt légal
+               o Le dépôt légal numérique
+               o BnF-Partenariats
+               o Les Centres techniques de conservation
+          + Départements de collection
+               o Bibliothèque de l'Arsenal
+               o Arts du spectacle
+               o Audiovisuel
+               o Cartes et plans
+               o Droit, économie, politique
+               o Estampes et photographie
+               o Littérature et art
+          + Départements de collection (suite)
+               o Manuscrits
+               o Monnaies, médailles et antiques
+               o Musique
+               o Orientation et Recherche bibliographique
+               o Philosophie, histoire, sciences de l'homme
+               o Réserve des livres rares
+               o Sciences et techniques
+     * (BUTTON) Explorer
+          + Galerie de médias
+               o Consulter la galerie
+               o Liste des médias
+          + Lire, écouter, voir
+               o Gallica
+               o Bibliothèques numériques internationales
+               o Expositions virtuelles
+               o BnF Collection sonore
+               o Banque d'images
+               o Retronews
+          + Chercher un document
+               o Catalogue général
+               o Data.bnf.fr
+               o Le CCFr
+               o BnF Archives et manuscrits
+               o Autres catalogues et bases
+               o Catalogue des médailles et antiques
+               o Catalogues numérisés
+          + Recherche avancée
+               o Ressources électroniques
+               o Aides à la recherche documentaire
+               o Posez vos questions à un bibliothécaire (SINDBAD)
+     * (BUTTON) Collaborer
+          + Déposer
+               o Qu'est-ce que le dépôt légal ?
+               o Qui dépose ?
+               o Que faut-il déposer ?
+               o Comment déposer ?
+               o Déposer au centre exception handicap
+          + Numériser
+               o Outils de la numérisation
+               o Prestation de numérisation
+               o Prestation d'archivage numérique
+          + Signaler
+               o Normes, formats, données d'autorité
+               o Identifiants internationaux
+               o Politique bibliographique
+               o Bibliographie nationale
+               o Bibliographies régionales
+          + Réutiliser
+               o Réutiliser les documents
+               o Comprendre l'offre
+               o Réutiliser les données
+          + Conserver
+               o Politique de conservation
+               o Prestations en conservation
+               o Plan d'urgence
+               o Formation
+               o Prestations de restauration
+               o Ressources
+          + Coopération nationale
+               o Le réseau
+               o L'action territoriale
+               o Gallica et les différents dispositifs
+               o CCFr - Signalement du patrimoine
+          + Préservation numérique
+          + Engagement international
+               o Europe
+               o Patrimoines partagés
+               o Francophonie
+               o Collaborations numériques
+               o Formation et accueil de professionnels étrangers
+               o Expertise internationale
+          + Prêts aux expositions
+
+   Aide
+
+   Les pages les plus consultées
+     * Actualités de la BnF
+     * Agenda
+     * Bibliothèque tous publics
+     * Réserver un document
+     * Galerie de médias
+
+   Soutenez la BnF
+   (BUTTON) FR
+     * EN
+     * ES
+
+   BnF (aller à l'accueil)
+
+     * (BUTTON) Venir
+          +
+               o Horaires, accès, tarifs
+                    # François-Mitterrand﻿
+                    # Richelieu﻿
+                    # Arsenal﻿
+                    # Opéra﻿
+                    # Jean-Vilar﻿
+               o Bibliothèque tous publics﻿
+                    # Pass lecture / culture﻿
+               o Bibliothèque de recherche﻿
+                    # Pass recherche﻿
+               o Trouver une place à la BnF﻿
+          +
+               o Services sur place
+                    # Utiliser des ordinateurs et internet﻿
+                    # Photocopie, impression, photographie﻿
+                    # Travailler seul ou en groupe﻿
+                    # Reproduction de documents﻿
+                    # Restauration﻿
+                    # Initiations à la Bibliothèque, au Catalogue et à
+                      Gallica﻿
+                    # Clinique juridique﻿
+                    # Français langue étrangère﻿
+                    # Studio de création audiovisuelle﻿
+          +
+               o Programmation culturelle
+                    # Agenda﻿
+                    # Liste des événements﻿
+                    # Liste des expositions﻿
+                    # Visites et ateliers﻿
+                    # Visites expositions temporaires﻿
+                    # Visites et ateliers enfants et familles﻿
+                    # Visites guidées des sites de la BnF﻿
+                    # Visites en groupes﻿
+          +
+               o Je viens
+                    # Étudier à la BnF﻿
+                    # Avec ma classe﻿
+                    # Élaborer mon projet professionnel﻿
+          +
+               o Réserver sa place et un document
+                    # Espace personnel : François-Mitterrand﻿
+                    # Espace personnel : Richelieu, Arsenal, Opéra﻿
+                    # Mode d'emploi : réserver un document -
+                      François-Mitterrand﻿
+                    # Mode d'emploi : réserver un document - Richelieu,
+                      Arsenal et Opéra﻿
+     * (BUTTON) Découvrir
+          +
+               o Un lieu ouvert à tous
+                    # Chercheurs﻿
+                    # Étudiants﻿
+                    # L'accessibilité à la BnF﻿
+                    # Publics du champ social﻿
+               o Nos ressources en ligne
+                    # Gallica﻿
+                    # RetroNews﻿
+                    # Données et métadonnées﻿
+                    # Nos APIs﻿
+          +
+               o Notre programmation culturelle
+                    # Agenda﻿
+               o Chroniques, le magazine de la BnF﻿
+               o BnF Éditions﻿
+               o Actualités de la BnF﻿
+          +
+               o Histoire et missions
+                    # Missions et organisation﻿
+                    # Histoire de la BnF﻿
+                    # Le Projet Richelieu﻿
+                    # Les archives administratives de la BnF﻿
+                    # Le dépôt légal﻿
+                    # Le dépôt légal numérique﻿
+                    # BnF-Partenariats﻿
+                    # Les Centres techniques de conservation﻿
+          +
+               o Départements de collection
+                    # Bibliothèque de l'Arsenal﻿
+                    # Arts du spectacle﻿
+                    # Audiovisuel﻿
+                    # Cartes et plans﻿
+                    # Droit, économie, politique﻿
+                    # Estampes et photographie﻿
+                    # Littérature et art﻿
+          +
+               o Départements de collection (suite)
+                    # Manuscrits﻿
+                    # Monnaies, médailles et antiques﻿
+                    # Musique﻿
+                    # Orientation et Recherche bibliographique﻿
+                    # Philosophie, histoire, sciences de l'homme﻿
+                    # Réserve des livres rares﻿
+                    # Sciences et techniques﻿
+     * (BUTTON) Explorer
+          +
+               o Galerie de médias
+                    # Consulter la galerie﻿
+                    # Liste des médias﻿
+          +
+               o Lire, écouter, voir
+                    # Gallica﻿
+                    # Bibliothèques numériques internationales﻿
+                    # Expositions virtuelles﻿
+                    # BnF Collection sonore﻿
+                    # Banque d'images﻿
+                    # Retronews﻿
+          +
+               o Chercher un document
+                    # Catalogue général﻿
+                    # Data.bnf.fr﻿
+                    # Le CCFr﻿
+                    # BnF Archives et manuscrits﻿
+                    # Autres catalogues et bases﻿
+                    # Catalogue des médailles et antiques﻿
+                    # Catalogues numérisés﻿
+          +
+               o Recherche avancée
+                    # Ressources électroniques﻿
+                    # Aides à la recherche documentaire﻿
+                    # Posez vos questions à un bibliothécaire (SINDBAD)﻿
+     * (BUTTON) Collaborer
+          +
+               o Déposer﻿
+                    # Qu'est-ce que le dépôt légal ?﻿
+                    # Qui dépose ?﻿
+                    # Que faut-il déposer ?﻿
+                    # Comment déposer ?﻿
+                    # Déposer au centre exception handicap﻿
+               o Numériser
+                    # Outils de la numérisation﻿
+                    # Prestation de numérisation﻿
+                    # Prestation d'archivage numérique﻿
+          +
+               o Signaler
+                    # Normes, formats, données d'autorité﻿
+                    # Identifiants internationaux﻿
+                    # Politique bibliographique﻿
+                    # Bibliographie nationale﻿
+                    # Bibliographies régionales﻿
+               o Réutiliser﻿
+                    # Réutiliser les documents﻿
+                    # Comprendre l'offre﻿
+                    # Réutiliser les données﻿
+          +
+               o Conserver
+                    # Politique de conservation﻿
+                    # Prestations en conservation﻿
+                    # Plan d'urgence﻿
+                    # Formation﻿
+                    # Prestations de restauration﻿
+                    # Ressources﻿
+               o Coopération nationale﻿
+                    # Le réseau﻿
+                    # L'action territoriale﻿
+                    # Gallica et les différents dispositifs﻿
+                    # CCFr - Signalement du patrimoine﻿
+          +
+               o Préservation numérique﻿
+               o Engagement international﻿
+                    # Europe﻿
+                    # Patrimoines partagés﻿
+                    # Francophonie﻿
+                    # Collaborations numériques﻿
+                    # Formation et accueil de professionnels étrangers﻿
+                    # Expertise internationale﻿
+               o Prêts aux expositions﻿
+
+   (BUTTON) [picto_loupe.svg] Recherche
+   (BUTTON) [picto_loupe.svg] Recherche
+
+   Aide
+   (BUTTON) FR
+     * EN
+     * ES
+
+   Soutenez la BnF
+
+    1. Accueil
+    2. Agenda
+    3. Implications philosophiques : une revue en ligne
+
+   Prochainement
+
+Implications philosophiques : une revue en ligne
+
+   25 sep. 2019
+   François-Mitterrand
+     __________________________________________________________________
+
+   La revue en ligne « Implications philosophiques » fait l’objet d’une
+   présentation publique, suivie d’une table ronde.
+   Partager
+
+   Avec Alexandre Moatti, X-Mines, spécialiste des publications
+   scientifiques, Valérie Beaudoin, Telecom Paris Tech, spécialiste des
+   mutations sociales en lien avec le numérique et Clément Oury, Muséum
+   national d’histoire naturelle, spécialiste des questions de
+   patrimonialisation des ressources numériques.
+
+   En savoir plus sur la revue Implications philosophiques
+
+
+Informations pratiques
+
+   tarifs et conditions d’accès
+
+Entrée libre et gratuite
+
+Date et Horaires
+
+   Mercredi 25 septembre 2019
+   18 h 30 – 20 h
+
+
+Accès
+
+   François-Mitterrand - Salle 70
+   Quai François-Mauriac – Paris 13^e
+   Entrée Est face à la rue Émile Durkheim
+
+
+   Plan et transports
+
+
+
+   Image : Philosofia XXVIII et Rhetorica XXIII, figure de Tarot
+
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+     * Plan du site
+     * Flux RSS
+     * Accessibilité
+     * Marchés publics
+     * Offres d'emploi
+     * Dématérialisation des factures
+     * Conditions générales d'utilisation
+     * Crédits
+
+   COPYRIGHT 2019
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Recherche) RechercheOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Menu principal
+
+     * Mon espace (nouvelle fenêtre) Mon espace
+     * Horaires / Accès Horaires / Accès
+     * Agenda Agenda
+     * Catalogues Catalogues
+     * Inscription / Billetterie (nouvelle fenêtre) Inscription
+       / Billetterie
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+     * (BUTTON) Venir
+          + Horaires, accès, tarifs
+               o François-Mitterrand
+               o Richelieu
+               o Arsenal
+               o Opéra
+               o Jean-Vilar
+          + Bibliothèque tous publics
+               o Pass lecture / culture
+          + Bibliothèque de recherche
+               o Pass recherche
+          + Trouver une place à la BnF
+          + Services sur place
+               o Utiliser des ordinateurs et internet
+               o Photocopie, impression, photographie
+               o Travailler seul ou en groupe
+               o Reproduction de documents
+               o Restauration
+               o Initiations à la Bibliothèque, au Catalogue et à Gallica
+               o Clinique juridique
+               o Français langue étrangère
+               o Studio de création audiovisuelle
+          + Programmation culturelle
+               o Agenda
+               o Liste des événements
+               o Liste des expositions
+               o Visites et ateliers
+               o Visites expositions temporaires
+               o Visites et ateliers enfants et familles
+               o Visites guidées des sites de la BnF
+               o Visites en groupes
+          + Je viens
+               o Étudier à la BnF
+               o Avec ma classe
+               o Élaborer mon projet professionnel
+          + Réserver sa place et un document
+               o Espace personnel : François-Mitterrand
+               o Espace personnel : Richelieu, Arsenal, Opéra
+               o Mode d'emploi : réserver un document -
+                 François-Mitterrand
+               o Mode d'emploi : réserver un document - Richelieu, Arsenal
+                 et Opéra
+     * (BUTTON) Découvrir
+          + Un lieu ouvert à tous
+               o Chercheurs
+               o Étudiants
+               o L'accessibilité à la BnF
+               o Publics du champ social
+          + Nos ressources en ligne
+               o Gallica
+               o RetroNews
+               o Données et métadonnées
+               o Nos APIs
+          + Notre programmation culturelle
+               o Agenda
+          + Chroniques, le magazine de la BnF
+          + BnF Éditions
+          + Actualités de la BnF
+          + Histoire et missions
+               o Missions et organisation
+               o Histoire de la BnF
+               o Le Projet Richelieu
+               o Les archives administratives de la BnF
+               o Le dépôt légal
+               o Le dépôt légal numérique
+               o BnF-Partenariats
+               o Les Centres techniques de conservation
+          + Départements de collection
+               o Bibliothèque de l'Arsenal
+               o Arts du spectacle
+               o Audiovisuel
+               o Cartes et plans
+               o Droit, économie, politique
+               o Estampes et photographie
+               o Littérature et art
+          + Départements de collection (suite)
+               o Manuscrits
+               o Monnaies, médailles et antiques
+               o Musique
+               o Orientation et Recherche bibliographique
+               o Philosophie, histoire, sciences de l'homme
+               o Réserve des livres rares
+               o Sciences et techniques
+     * (BUTTON) Explorer
+          + Galerie de médias
+               o Consulter la galerie
+               o Liste des médias
+          + Lire, écouter, voir
+               o Gallica
+               o Bibliothèques numériques internationales
+               o Expositions virtuelles
+               o BnF Collection sonore
+               o Banque d'images
+               o Retronews
+          + Chercher un document
+               o Catalogue général
+               o Data.bnf.fr
+               o Le CCFr
+               o BnF Archives et manuscrits
+               o Autres catalogues et bases
+               o Catalogue des médailles et antiques
+               o Catalogues numérisés
+          + Recherche avancée
+               o Ressources électroniques
+               o Aides à la recherche documentaire
+               o Posez vos questions à un bibliothécaire (SINDBAD)
+     * (BUTTON) Collaborer
+          + Déposer
+               o Qu'est-ce que le dépôt légal ?
+               o Qui dépose ?
+               o Que faut-il déposer ?
+               o Comment déposer ?
+               o Déposer au centre exception handicap
+          + Numériser
+               o Outils de la numérisation
+               o Prestation de numérisation
+               o Prestation d'archivage numérique
+          + Signaler
+               o Normes, formats, données d'autorité
+               o Identifiants internationaux
+               o Politique bibliographique
+               o Bibliographie nationale
+               o Bibliographies régionales
+          + Réutiliser
+               o Réutiliser les documents
+               o Comprendre l'offre
+               o Réutiliser les données
+          + Conserver
+               o Politique de conservation
+               o Prestations en conservation
+               o Plan d'urgence
+               o Formation
+               o Prestations de restauration
+               o Ressources
+          + Coopération nationale
+               o Le réseau
+               o L'action territoriale
+               o Gallica et les différents dispositifs
+               o CCFr - Signalement du patrimoine
+          + Préservation numérique
+          + Engagement international
+               o Europe
+               o Patrimoines partagés
+               o Francophonie
+               o Collaborations numériques
+               o Formation et accueil de professionnels étrangers
+               o Expertise internationale
+          + Prêts aux expositions
+
+   Aide
+
+   Les pages les plus consultées
+     * Actualités de la BnF
+     * Agenda
+     * Bibliothèque tous publics
+     * Réserver un document
+     * Galerie de médias
+
+   Soutenez la BnF
+   (BUTTON) FR
+     * EN
+     * ES
+
+   BnF (aller à l'accueil)
+
+     * (BUTTON) Venir
+          +
+               o Horaires, accès, tarifs
+                    # François-Mitterrand﻿
+                    # Richelieu﻿
+                    # Arsenal﻿
+                    # Opéra﻿
+                    # Jean-Vilar﻿
+               o Bibliothèque tous publics﻿
+                    # Pass lecture / culture﻿
+               o Bibliothèque de recherche﻿
+                    # Pass recherche﻿
+               o Trouver une place à la BnF﻿
+          +
+               o Services sur place
+                    # Utiliser des ordinateurs et internet﻿
+                    # Photocopie, impression, photographie﻿
+                    # Travailler seul ou en groupe﻿
+                    # Reproduction de documents﻿
+                    # Restauration﻿
+                    # Initiations à la Bibliothèque, au Catalogue et à
+                      Gallica﻿
+                    # Clinique juridique﻿
+                    # Français langue étrangère﻿
+                    # Studio de création audiovisuelle﻿
+          +
+               o Programmation culturelle
+                    # Agenda﻿
+                    # Liste des événements﻿
+                    # Liste des expositions﻿
+                    # Visites et ateliers﻿
+                    # Visites expositions temporaires﻿
+                    # Visites et ateliers enfants et familles﻿
+                    # Visites guidées des sites de la BnF﻿
+                    # Visites en groupes﻿
+          +
+               o Je viens
+                    # Étudier à la BnF﻿
+                    # Avec ma classe﻿
+                    # Élaborer mon projet professionnel﻿
+          +
+               o Réserver sa place et un document
+                    # Espace personnel : François-Mitterrand﻿
+                    # Espace personnel : Richelieu, Arsenal, Opéra﻿
+                    # Mode d'emploi : réserver un document -
+                      François-Mitterrand﻿
+                    # Mode d'emploi : réserver un document - Richelieu,
+                      Arsenal et Opéra﻿
+     * (BUTTON) Découvrir
+          +
+               o Un lieu ouvert à tous
+                    # Chercheurs﻿
+                    # Étudiants﻿
+                    # L'accessibilité à la BnF﻿
+                    # Publics du champ social﻿
+               o Nos ressources en ligne
+                    # Gallica﻿
+                    # RetroNews﻿
+                    # Données et métadonnées﻿
+                    # Nos APIs﻿
+          +
+               o Notre programmation culturelle
+                    # Agenda﻿
+               o Chroniques, le magazine de la BnF﻿
+               o BnF Éditions﻿
+               o Actualités de la BnF﻿
+          +
+               o Histoire et missions
+                    # Missions et organisation﻿
+                    # Histoire de la BnF﻿
+                    # Le Projet Richelieu﻿
+                    # Les archives administratives de la BnF﻿
+                    # Le dépôt légal﻿
+                    # Le dépôt légal numérique﻿
+                    # BnF-Partenariats﻿
+                    # Les Centres techniques de conservation﻿
+          +
+               o Départements de collection
+                    # Bibliothèque de l'Arsenal﻿
+                    # Arts du spectacle﻿
+                    # Audiovisuel﻿
+                    # Cartes et plans﻿
+                    # Droit, économie, politique﻿
+                    # Estampes et photographie﻿
+                    # Littérature et art﻿
+          +
+               o Départements de collection (suite)
+                    # Manuscrits﻿
+                    # Monnaies, médailles et antiques﻿
+                    # Musique﻿
+                    # Orientation et Recherche bibliographique﻿
+                    # Philosophie, histoire, sciences de l'homme﻿
+                    # Réserve des livres rares﻿
+                    # Sciences et techniques﻿
+     * (BUTTON) Explorer
+          +
+               o Galerie de médias
+                    # Consulter la galerie﻿
+                    # Liste des médias﻿
+          +
+               o Lire, écouter, voir
+                    # Gallica﻿
+                    # Bibliothèques numériques internationales﻿
+                    # Expositions virtuelles﻿
+                    # BnF Collection sonore﻿
+                    # Banque d'images﻿
+                    # Retronews﻿
+          +
+               o Chercher un document
+                    # Catalogue général﻿
+                    # Data.bnf.fr﻿
+                    # Le CCFr﻿
+                    # BnF Archives et manuscrits﻿
+                    # Autres catalogues et bases﻿
+                    # Catalogue des médailles et antiques﻿
+                    # Catalogues numérisés﻿
+          +
+               o Recherche avancée
+                    # Ressources électroniques﻿
+                    # Aides à la recherche documentaire﻿
+                    # Posez vos questions à un bibliothécaire (SINDBAD)﻿
+     * (BUTTON) Collaborer
+          +
+               o Déposer﻿
+                    # Qu'est-ce que le dépôt légal ?﻿
+                    # Qui dépose ?﻿
+                    # Que faut-il déposer ?﻿
+                    # Comment déposer ?﻿
+                    # Déposer au centre exception handicap﻿
+               o Numériser
+                    # Outils de la numérisation﻿
+                    # Prestation de numérisation﻿
+                    # Prestation d'archivage numérique﻿
+          +
+               o Signaler
+                    # Normes, formats, données d'autorité﻿
+                    # Identifiants internationaux﻿
+                    # Politique bibliographique﻿
+                    # Bibliographie nationale﻿
+                    # Bibliographies régionales﻿
+               o Réutiliser﻿
+                    # Réutiliser les documents﻿
+                    # Comprendre l'offre﻿
+                    # Réutiliser les données﻿
+          +
+               o Conserver
+                    # Politique de conservation﻿
+                    # Prestations en conservation﻿
+                    # Plan d'urgence﻿
+                    # Formation﻿
+                    # Prestations de restauration﻿
+                    # Ressources﻿
+               o Coopération nationale﻿
+                    # Le réseau﻿
+                    # L'action territoriale﻿
+                    # Gallica et les différents dispositifs﻿
+                    # CCFr - Signalement du patrimoine﻿
+          +
+               o Préservation numérique﻿
+               o Engagement international﻿
+                    # Europe﻿
+                    # Patrimoines partagés﻿
+                    # Francophonie﻿
+                    # Collaborations numériques﻿
+                    # Formation et accueil de professionnels étrangers﻿
+                    # Expertise internationale﻿
+               o Prêts aux expositions﻿
+
+   (BUTTON) [picto_loupe.svg] Recherche
+   (BUTTON) [picto_loupe.svg] Recherche
+
+   Aide
+   (BUTTON) FR
+     * EN
+     * ES
+
+   Soutenez la BnF
+
+    1. Accueil
+    2. Agenda
+    3. Festival Phonurgia Nova
+
+   Prochainement
+
+Festival Phonurgia Nova
+
+   28 sep. 2019 29 sep. 2019
+   François-Mitterrand
+     __________________________________________________________________
+
+   La BnF accueille les 28 et 29 septembre le festival Phonurgia Nova,
+   rendez-vous incontournable des créateurs radiophoniques et sonores de
+   toute l’Europe.
+   Partager
+
+   Célébrant la « radio de création », la liberté de raconter le monde
+   avec et par les sons, le festival Phonurgia Nova met en lumière les
+   formes émergentes dans les domaines du documentaire. Qu’il s’agisse de
+   fiction, de narration purement sonore, de paysages capturés ou créés de
+   toute pièce, y sont mises en valeur les démarches qui placent l’écoute
+   au cœur du processus créatif et élèvent l’enregistrement sonore au rang
+   des beaux-arts. Le festival rassemble cette année plus de 200 œuvres en
+   provenance du monde entier, issues des meilleures fabriques sonores
+   et radiophoniques.
+
+Les prix Phonurgia Nova
+
+   Les prix Phonurgia Nova ont été créés à Arles en 1986, sous l’impulsion
+   du compositeur Pierre Schaeffer, afin que soit reconnue cette création
+   spécifique basée sur l’écoute du monde et des autres. Ils soulignent
+   l’importance de la radio comme source d’invention, tout en contribuant
+   à faire émerger de nouveaux auteurs. Cette année, une trentaine de
+   créations nominées sont diffusées au public et évaluées par un jury de
+   personnalités du monde de la radio, des arts et de la culture et
+   présidé par Anne Gillot, musicienne et productrice radio, et Alessandro
+   Bosetti, compositeur et artiste sonore, lauréat du Prix Phonurgia
+   Nova 2012.
+
+   Le jury élabore en direct et en public un commentaire critique sur les
+   œuvres avant de décerner les cinq prix Phonurgia Nova 2019 :
+
+   • le prix « Archives de la parole » décerné par la BnF,
+
+   • le prix « Art Radio » décerné par la SACEM,
+
+   • le prix « Fictions sonores » décerné par la SACD,
+
+   • le prix « Field Recording » décerné par le Musée de la Camargue,
+
+   • le prix « Découvertes Pierre Schaeffer ».
+
+   Les œuvres primées seront en écoute sur le site www.phonurgia.fr.et sur
+   le réseau international des radios de l’UER (Union Européenne de
+   Radio-télévision). Elles intégreront également les fonds du département
+   de l’Audiovisuel de la BnF.
+
+   Toutes les informations disponibles sur http://phonurgia.fr/
+
+   Facebook : « phonurgia nova awards »
+
+   Archives du Prix : www.sonosphere.org
+
+   Vidéos
+
+En savoir plus sur les archives sonores de la BnF
+
+   Le département de l’Audiovisuel conserve près d’un million
+   d’enregistrements sonores, des origines de l’enregistrement (1877) à
+   aujourd’hui. Ce fonds intègre des enregistrements parlés parmi les plus
+   anciens qui existent, réunis au sein de la collection « Archives de la
+   parole ». Née en 1911 à l’initiative du linguiste Ferdinand Brunot dont
+   le projet était de « conserver les manifestations orales de la langue
+   parlée pour les générations futures », on trouve dans ce fonds
+   prestigieux aussi bien la voix d’Apollinaire lisant Le Pont Mirabeau ou
+   d’Alfred Dreyfus, ses mémoires, que des dialectes enregistrés sur le «
+   terrain » ou des exemples de pathologies du langage et de l’expression.
+   En 1938, l’enregistrement sonore devient patrimoine avec la création
+   par Jean Zay, ministre de l’Éducation nationale et des Beaux-Arts, de
+   la Phonothèque nationale. Héritière des Archives de la parole, celle-ci
+   est chargée de collecter toutes les productions phonographiques
+   diffusées sur le territoire national.
+
+   Le Prix « Archives de la parole » décerné par la Bibliothèque dans le
+   cadre des prix Phonurgia Nova s’inscrit dans le sillage de cette
+   collection prestigieuse qui est aujourd’hui consultable sur le site
+   Gallica, la bibliothèque numérique de la BnF.
+
+Informations pratiques
+
+   tarifs et conditions d’accès
+
+Entrée libre et gratuite
+
+Date et Horaires
+
+   Samedi 28 septembre 2019
+   9h – 20 h
+   Dimanche 29 septembre 2019
+
+   9h - 20h
+
+Accès
+
+   François-Mitterrand - Petit auditorium
+   Quai François-Mauriac – Paris 13^e
+   Entrée Est face à la rue Émile Durkheim
+
+
+   Plan et transports
+
+
+
+
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+     * Plan du site
+     * Flux RSS
+     * Accessibilité
+     * Marchés publics
+     * Offres d'emploi
+     * Dématérialisation des factures
+     * Conditions générales d'utilisation
+     * Crédits
+
+   COPYRIGHT 2019
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Recherche) RechercheOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   Skip to main content
+
+   (BUTTON) Main menu
+     * My space (new window) My space
+     * Schedules/ Access Schedules/ Access
+     * Agenda Agenda
+     * Catalogs Catalogs
+     * Registration / Ticketing (new window) Registration / Ticketing
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+     * COME
+     * DISCOVER
+     * EXPLORE
+     * COLLABORATE
+
+   Aide
+
+   Soutenez la BnF
+   (BUTTON) EN
+     * FR
+     * ES
+
+   BnF (aller à l'accueil)
+     * COME
+     * DISCOVER
+     * EXPLORE
+     * COLLABORATE
+
+   (BUTTON) [picto_loupe.svg] Search
+   (BUTTON) [picto_loupe.svg] Search
+
+   Aide
+   (BUTTON) EN
+     * FR
+     * ES
+
+   Soutenez la BnF
+    1. Home
+    2. Agenda
+    3. Événements
+
+Titre de la liste des évènements (EN)
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
+   metus turpis, luctus sit amet massa in, posuere mollis dolor. Nulla et
+   erat et metus efficitur gravida. Vivamus iaculis eros nec sem rhoncus
+   condimentum. Donec aliquam quis enim ut interdum. Lorem ipsum dolor sit
+   amet, consectetur adipiscing elit. Nunc at pellentesque ligula. In vel
+   facilisis tortor. (EN)
+   Filtrer la liste
+   0 résultat
+   (BUTTON) Afficher les filtres Masquer les filtres
+   When ? ____________________
+   (BUTTON) Ex : 28-08-2019 - 29-08-2019
+   What ?
+   [ ] Ateliers
+   [ ] Dans les collections
+   [ ] Échos de recherches
+   [ ] En scène
+   [ ] Événements
+   [ ] Expositions
+   [ ] Hors les murs
+   [ ] Rencontres professionnelles
+   [ ] Tous les savoirs
+   [ ] Visites
+   Who ?
+   [ ] Enseignants
+   [ ] En situation de handicap
+   [ ] Jeune Public
+   [ ] Professionnels
+   [ ] Tous publics
+   Where ?
+   [ ] François-Mitterrand
+   [ ] Richelieu
+   [ ] Arsenal
+   [ ] Opéra
+   [ ] Jean-Vilar
+   [ ] Hors les murs
+   [ ] ---
+     * [ ] Free
+     * [ ] Paying
+
+   (Appliquer) Appliquer
+
+   Aucune exposition ne correspond aux filtres spécifiés.
+   Nous vous suggérons de réinitialiser vos choix puis de revoir les
+   filtres appliqués.
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter(EN)
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Search) SearchOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   Pasar al contenido principal
+
+   (BUTTON) Menu principal
+     * Mi espacio (nueva ventana) Mi espacio
+     * Horarios / Acceso Horarios / Acceso
+     * Agenda Agenda
+     * Catálogos Catálogos
+     * Registro / Venta de entradas (nueva ventana) Registro / Venta
+       de entradas
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+   Aide
+
+   Soutenez la BnF
+   (BUTTON) ES
+     * FR
+     * EN
+
+   BnF (aller à l'accueil)
+   (BUTTON) [picto_loupe.svg] Search
+   (BUTTON) [picto_loupe.svg] Search
+
+   Aide
+   (BUTTON) ES
+     * FR
+     * EN
+
+   Soutenez la BnF
+    1. Inicio
+    2. Agenda
+    3. Événements
+
+Événements BnF
+
+   Filtrer la liste
+   0 résultat
+   (BUTTON) Afficher les filtres Masquer les filtres
+   When ? ____________________
+   (BUTTON) Ex : 28-08-2019 - 29-08-2019
+   What ?
+   [ ] Ateliers
+   [ ] Dans les collections
+   [ ] Échos de recherches
+   [ ] En scène
+   [ ] Événements
+   [ ] Expositions
+   [ ] Hors les murs
+   [ ] Rencontres professionnelles
+   [ ] Tous les savoirs
+   [ ] Visites
+   Who ?
+   [ ] Enseignants
+   [ ] En situation de handicap
+   [ ] Jeune Public
+   [ ] Professionnels
+   [ ] Tous publics
+   Where ?
+   [ ] François-Mitterrand
+   [ ] Richelieu
+   [ ] Arsenal
+   [ ] Opéra
+   [ ] Jean-Vilar
+   [ ] Hors les murs
+   [ ] ---
+     * [ ] Free
+     * [ ] Paying
+
+   (Appliquer) Appliquer
+
+   Aucune exposition ne correspond aux filtres spécifiés.
+   Nous vous suggérons de réinitialiser vos choix puis de revoir les
+   filtres appliqués.
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Search) SearchOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Menu principal
+
+     * Mon espace (nouvelle fenêtre) Mon espace
+     * Horaires / Accès Horaires / Accès
+     * Agenda Agenda
+     * Catalogues Catalogues
+     * Inscription / Billetterie (nouvelle fenêtre) Inscription
+       / Billetterie
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+     * (BUTTON) Venir
+          + Horaires, accès, tarifs
+               o François-Mitterrand
+               o Richelieu
+               o Arsenal
+               o Opéra
+               o Jean-Vilar
+          + Bibliothèque tous publics
+               o Pass lecture / culture
+          + Bibliothèque de recherche
+               o Pass recherche
+          + Trouver une place à la BnF
+          + Services sur place
+               o Utiliser des ordinateurs et internet
+               o Photocopie, impression, photographie
+               o Travailler seul ou en groupe
+               o Reproduction de documents
+               o Restauration
+               o Initiations à la Bibliothèque, au Catalogue et à Gallica
+               o Clinique juridique
+               o Français langue étrangère
+               o Studio de création audiovisuelle
+          + Programmation culturelle
+               o Agenda
+               o Liste des événements
+               o Liste des expositions
+               o Visites et ateliers
+               o Visites expositions temporaires
+               o Visites et ateliers enfants et familles
+               o Visites guidées des sites de la BnF
+               o Visites en groupes
+          + Je viens
+               o Étudier à la BnF
+               o Avec ma classe
+               o Élaborer mon projet professionnel
+          + Réserver sa place et un document
+               o Espace personnel : François-Mitterrand
+               o Espace personnel : Richelieu, Arsenal, Opéra
+               o Mode d'emploi : réserver un document -
+                 François-Mitterrand
+               o Mode d'emploi : réserver un document - Richelieu, Arsenal
+                 et Opéra
+     * (BUTTON) Découvrir
+          + Un lieu ouvert à tous
+               o Chercheurs
+               o Étudiants
+               o L'accessibilité à la BnF
+               o Publics du champ social
+          + Nos ressources en ligne
+               o Gallica
+               o RetroNews
+               o Données et métadonnées
+               o Nos APIs
+          + Notre programmation culturelle
+               o Agenda
+          + Chroniques, le magazine de la BnF
+          + BnF Éditions
+          + Actualités de la BnF
+          + Histoire et missions
+               o Missions et organisation
+               o Histoire de la BnF
+               o Le Projet Richelieu
+               o Les archives administratives de la BnF
+               o Le dépôt légal
+               o Le dépôt légal numérique
+               o BnF-Partenariats
+               o Les Centres techniques de conservation
+          + Départements de collection
+               o Bibliothèque de l'Arsenal
+               o Arts du spectacle
+               o Audiovisuel
+               o Cartes et plans
+               o Droit, économie, politique
+               o Estampes et photographie
+               o Littérature et art
+          + Départements de collection (suite)
+               o Manuscrits
+               o Monnaies, médailles et antiques
+               o Musique
+               o Orientation et Recherche bibliographique
+               o Philosophie, histoire, sciences de l'homme
+               o Réserve des livres rares
+               o Sciences et techniques
+     * (BUTTON) Explorer
+          + Galerie de médias
+               o Consulter la galerie
+               o Liste des médias
+          + Lire, écouter, voir
+               o Gallica
+               o Bibliothèques numériques internationales
+               o Expositions virtuelles
+               o BnF Collection sonore
+               o Banque d'images
+               o Retronews
+          + Chercher un document
+               o Catalogue général
+               o Data.bnf.fr
+               o Le CCFr
+               o BnF Archives et manuscrits
+               o Autres catalogues et bases
+               o Catalogue des médailles et antiques
+               o Catalogues numérisés
+          + Recherche avancée
+               o Ressources électroniques
+               o Aides à la recherche documentaire
+               o Posez vos questions à un bibliothécaire (SINDBAD)
+     * (BUTTON) Collaborer
+          + Déposer
+               o Qu'est-ce que le dépôt légal ?
+               o Qui dépose ?
+               o Que faut-il déposer ?
+               o Comment déposer ?
+               o Déposer au centre exception handicap
+          + Numériser
+               o Outils de la numérisation
+               o Prestation de numérisation
+               o Prestation d'archivage numérique
+          + Signaler
+               o Normes, formats, données d'autorité
+               o Identifiants internationaux
+               o Politique bibliographique
+               o Bibliographie nationale
+               o Bibliographies régionales
+          + Réutiliser
+               o Réutiliser les documents
+               o Comprendre l'offre
+               o Réutiliser les données
+          + Conserver
+               o Politique de conservation
+               o Prestations en conservation
+               o Plan d'urgence
+               o Formation
+               o Prestations de restauration
+               o Ressources
+          + Coopération nationale
+               o Le réseau
+               o L'action territoriale
+               o Gallica et les différents dispositifs
+               o CCFr - Signalement du patrimoine
+          + Préservation numérique
+          + Engagement international
+               o Europe
+               o Patrimoines partagés
+               o Francophonie
+               o Collaborations numériques
+               o Formation et accueil de professionnels étrangers
+               o Expertise internationale
+          + Prêts aux expositions
+
+   Aide
+
+   Les pages les plus consultées
+     * Actualités de la BnF
+     * Agenda
+     * Bibliothèque tous publics
+     * Réserver un document
+     * Galerie de médias
+
+   Soutenez la BnF
+   (BUTTON) FR
+     * EN
+     * ES
+
+   BnF (aller à l'accueil)
+
+     * (BUTTON) Venir
+          +
+               o Horaires, accès, tarifs
+                    # François-Mitterrand﻿
+                    # Richelieu﻿
+                    # Arsenal﻿
+                    # Opéra﻿
+                    # Jean-Vilar﻿
+               o Bibliothèque tous publics﻿
+                    # Pass lecture / culture﻿
+               o Bibliothèque de recherche﻿
+                    # Pass recherche﻿
+               o Trouver une place à la BnF﻿
+          +
+               o Services sur place
+                    # Utiliser des ordinateurs et internet﻿
+                    # Photocopie, impression, photographie﻿
+                    # Travailler seul ou en groupe﻿
+                    # Reproduction de documents﻿
+                    # Restauration﻿
+                    # Initiations à la Bibliothèque, au Catalogue et à
+                      Gallica﻿
+                    # Clinique juridique﻿
+                    # Français langue étrangère﻿
+                    # Studio de création audiovisuelle﻿
+          +
+               o Programmation culturelle
+                    # Agenda﻿
+                    # Liste des événements﻿
+                    # Liste des expositions﻿
+                    # Visites et ateliers﻿
+                    # Visites expositions temporaires﻿
+                    # Visites et ateliers enfants et familles﻿
+                    # Visites guidées des sites de la BnF﻿
+                    # Visites en groupes﻿
+          +
+               o Je viens
+                    # Étudier à la BnF﻿
+                    # Avec ma classe﻿
+                    # Élaborer mon projet professionnel﻿
+          +
+               o Réserver sa place et un document
+                    # Espace personnel : François-Mitterrand﻿
+                    # Espace personnel : Richelieu, Arsenal, Opéra﻿
+                    # Mode d'emploi : réserver un document -
+                      François-Mitterrand﻿
+                    # Mode d'emploi : réserver un document - Richelieu,
+                      Arsenal et Opéra﻿
+     * (BUTTON) Découvrir
+          +
+               o Un lieu ouvert à tous
+                    # Chercheurs﻿
+                    # Étudiants﻿
+                    # L'accessibilité à la BnF﻿
+                    # Publics du champ social﻿
+               o Nos ressources en ligne
+                    # Gallica﻿
+                    # RetroNews﻿
+                    # Données et métadonnées﻿
+                    # Nos APIs﻿
+          +
+               o Notre programmation culturelle
+                    # Agenda﻿
+               o Chroniques, le magazine de la BnF﻿
+               o BnF Éditions﻿
+               o Actualités de la BnF﻿
+          +
+               o Histoire et missions
+                    # Missions et organisation﻿
+                    # Histoire de la BnF﻿
+                    # Le Projet Richelieu﻿
+                    # Les archives administratives de la BnF﻿
+                    # Le dépôt légal﻿
+                    # Le dépôt légal numérique﻿
+                    # BnF-Partenariats﻿
+                    # Les Centres techniques de conservation﻿
+          +
+               o Départements de collection
+                    # Bibliothèque de l'Arsenal﻿
+                    # Arts du spectacle﻿
+                    # Audiovisuel﻿
+                    # Cartes et plans﻿
+                    # Droit, économie, politique﻿
+                    # Estampes et photographie﻿
+                    # Littérature et art﻿
+          +
+               o Départements de collection (suite)
+                    # Manuscrits﻿
+                    # Monnaies, médailles et antiques﻿
+                    # Musique﻿
+                    # Orientation et Recherche bibliographique﻿
+                    # Philosophie, histoire, sciences de l'homme﻿
+                    # Réserve des livres rares﻿
+                    # Sciences et techniques﻿
+     * (BUTTON) Explorer
+          +
+               o Galerie de médias
+                    # Consulter la galerie﻿
+                    # Liste des médias﻿
+          +
+               o Lire, écouter, voir
+                    # Gallica﻿
+                    # Bibliothèques numériques internationales﻿
+                    # Expositions virtuelles﻿
+                    # BnF Collection sonore﻿
+                    # Banque d'images﻿
+                    # Retronews﻿
+          +
+               o Chercher un document
+                    # Catalogue général﻿
+                    # Data.bnf.fr﻿
+                    # Le CCFr﻿
+                    # BnF Archives et manuscrits﻿
+                    # Autres catalogues et bases﻿
+                    # Catalogue des médailles et antiques﻿
+                    # Catalogues numérisés﻿
+          +
+               o Recherche avancée
+                    # Ressources électroniques﻿
+                    # Aides à la recherche documentaire﻿
+                    # Posez vos questions à un bibliothécaire (SINDBAD)﻿
+     * (BUTTON) Collaborer
+          +
+               o Déposer﻿
+                    # Qu'est-ce que le dépôt légal ?﻿
+                    # Qui dépose ?﻿
+                    # Que faut-il déposer ?﻿
+                    # Comment déposer ?﻿
+                    # Déposer au centre exception handicap﻿
+               o Numériser
+                    # Outils de la numérisation﻿
+                    # Prestation de numérisation﻿
+                    # Prestation d'archivage numérique﻿
+          +
+               o Signaler
+                    # Normes, formats, données d'autorité﻿
+                    # Identifiants internationaux﻿
+                    # Politique bibliographique﻿
+                    # Bibliographie nationale﻿
+                    # Bibliographies régionales﻿
+               o Réutiliser﻿
+                    # Réutiliser les documents﻿
+                    # Comprendre l'offre﻿
+                    # Réutiliser les données﻿
+          +
+               o Conserver
+                    # Politique de conservation﻿
+                    # Prestations en conservation﻿
+                    # Plan d'urgence﻿
+                    # Formation﻿
+                    # Prestations de restauration﻿
+                    # Ressources﻿
+               o Coopération nationale﻿
+                    # Le réseau﻿
+                    # L'action territoriale﻿
+                    # Gallica et les différents dispositifs﻿
+                    # CCFr - Signalement du patrimoine﻿
+          +
+               o Préservation numérique﻿
+               o Engagement international﻿
+                    # Europe﻿
+                    # Patrimoines partagés﻿
+                    # Francophonie﻿
+                    # Collaborations numériques﻿
+                    # Formation et accueil de professionnels étrangers﻿
+                    # Expertise internationale﻿
+               o Prêts aux expositions﻿
+
+   (BUTTON) [picto_loupe.svg] Recherche
+   (BUTTON) [picto_loupe.svg] Recherche
+
+   Aide
+   (BUTTON) FR
+     * EN
+     * ES
+
+   Soutenez la BnF
+
+    1. Accueil
+    2. Agenda
+    3. Les lundis de l’Arsenal – L’abbé Bethléem aux sources de la loi de
+       1949
+
+   Prochainement
+
+Les lundis de l’Arsenal – L’abbé Bethléem aux sources de la loi de 1949
+
+   23 sep. 2019
+   Arsenal
+     __________________________________________________________________
+
+   En résonance avec ses collections patrimoniales, la Bibliothèque de
+   l’Arsenal organise régulièrement des rencontres qui conjuguent
+   histoire, savoir-faire et esprit du lieu.
+   Cette conférence de l’historien Jean-Yves Mollier, en écho à
+   l’exposition de la BnF « Ne les laissez pas lire », évoque la figure de
+   l’abbé Bethléem, artisan principal de la censure des ouvrages destinés
+   à la jeunesse, et la grande victoire posthume que représente la loi de
+   1949.
+   Partager
+
+Les archives de l’abbé Bethléem
+
+   La bibliothèque de l’Arsenal conserve les archives de l’abbé Bethléem,
+   en qui l’on peut voir l’artisan principal de la censure des ouvrages
+   destinés à la jeunesse.
+   Jean-Yves Mollier, historien contemporanéiste, a consacré en 2014 un
+   livre important pour la réception de la littérature (en particulier
+   destinée à la jeunesse) à ce qu’il a appelé « l’impossible mission de
+   l’abbé Bethléem ». Celle-ci a consisté en une mise en regard rigoureuse
+   entre un catholicisme sans concession et le bon usage d’auteurs – y
+   compris ceux dont les qualités littéraires sont appréciées – pour des
+   âges et des degrés de maturité bien définis. Jean-Yves Mollier évoquera
+   donc l’influence de cette figure méconnue et la grande victoire
+   posthume que représente pour lui la loi dont l’exposition « Ne les
+   laissez pas lire ! Polémiques et livres pour enfants » préparée par
+   Marine Planche, commémore les 70 ans.
+
+Au temps de l’abbé Bethléem
+
+   En1904, parait Romans à lire et romans à proscrire de l’abbé Bethléem,
+   guide de lecture destiné aux familles catholiques qui distingue les «
+   bons » et les « mauvais » livres. Dans l’entre-deux-guerres, l’abbé se
+   lance dans une véritable croisade contre ces mauvaises lectures, visant
+   en particulier les illustrés pour la jeunesse comme L’Épatant (où l’on
+   peut lire les Pieds Nickelés), ou Fillette, publiés par les frères
+   Offenstadt. Son ouvrage devient vite un succès de librairie, vendu à
+   des centaines de milliers d’exemplaires en France mais aussi en
+   Belgique ou au Québec. Maintes fois réédité pendant
+   l’entre-deux-guerres, il sera le principal inspirateur de la loi du 16
+   juillet 1949 sur les publications destinées à la jeunesse.
+
+
+Les dernières publications de Jean-Yves Mollier
+
+   L’historien Jean-Yves Mollier a récemment publié Edition, presse et
+   pouvoir en France au XX^e siècle (Fayard, 2008), La Librairie
+   Tallandier. Histoire d’une grande maison d’édition populaire
+   (1870-2000), en collaboration avec Matthieu Letourneux (2011), Histoire
+   de la librairie Larousse (1852-2010), en collaboration avec Bruno Dubot
+   (2012), La mise au pas des écrivains : l’impossible mission de l’abbé
+   Bethléem au XX^e siècle (Fayard, 2014) et dirigé les trois éditions de
+   Où va le livre ? (2000, 2002 et 2007).
+
+Informations pratiques
+
+   tarifs et conditions d’accès
+
+Entrée gratuite sur inscription au 01 53 79 49 49 ou sur visites@bnf.fr
+
+Date et Horaires
+
+   Lundi 23 septembre 2019
+   18 h 30 – 20 h
+
+
+Accès
+
+   Bibliothèque de l’Arsenal
+   1, rue de Sully – 75004 Paris
+   Plan et transports
+
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+     * Plan du site
+     * Flux RSS
+     * Accessibilité
+     * Marchés publics
+     * Offres d'emploi
+     * Dématérialisation des factures
+     * Conditions générales d'utilisation
+     * Crédits
+
+   COPYRIGHT 2019
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Recherche) RechercheOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Menu principal
+
+     * Mon espace (nouvelle fenêtre) Mon espace
+     * Horaires / Accès Horaires / Accès
+     * Agenda Agenda
+     * Catalogues Catalogues
+     * Inscription / Billetterie (nouvelle fenêtre) Inscription
+       / Billetterie
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+     * (BUTTON) Venir
+          + Horaires, accès, tarifs
+               o François-Mitterrand
+               o Richelieu
+               o Arsenal
+               o Opéra
+               o Jean-Vilar
+          + Bibliothèque tous publics
+               o Pass lecture / culture
+          + Bibliothèque de recherche
+               o Pass recherche
+          + Trouver une place à la BnF
+          + Services sur place
+               o Utiliser des ordinateurs et internet
+               o Photocopie, impression, photographie
+               o Travailler seul ou en groupe
+               o Reproduction de documents
+               o Restauration
+               o Initiations à la Bibliothèque, au Catalogue et à Gallica
+               o Clinique juridique
+               o Français langue étrangère
+               o Studio de création audiovisuelle
+          + Programmation culturelle
+               o Agenda
+               o Liste des événements
+               o Liste des expositions
+               o Visites et ateliers
+               o Visites expositions temporaires
+               o Visites et ateliers enfants et familles
+               o Visites guidées des sites de la BnF
+               o Visites en groupes
+          + Je viens
+               o Étudier à la BnF
+               o Avec ma classe
+               o Élaborer mon projet professionnel
+          + Réserver sa place et un document
+               o Espace personnel : François-Mitterrand
+               o Espace personnel : Richelieu, Arsenal, Opéra
+               o Mode d'emploi : réserver un document -
+                 François-Mitterrand
+               o Mode d'emploi : réserver un document - Richelieu, Arsenal
+                 et Opéra
+     * (BUTTON) Découvrir
+          + Un lieu ouvert à tous
+               o Chercheurs
+               o Étudiants
+               o L'accessibilité à la BnF
+               o Publics du champ social
+          + Nos ressources en ligne
+               o Gallica
+               o RetroNews
+               o Données et métadonnées
+               o Nos APIs
+          + Notre programmation culturelle
+               o Agenda
+          + Chroniques, le magazine de la BnF
+          + BnF Éditions
+          + Actualités de la BnF
+          + Histoire et missions
+               o Missions et organisation
+               o Histoire de la BnF
+               o Le Projet Richelieu
+               o Les archives administratives de la BnF
+               o Le dépôt légal
+               o Le dépôt légal numérique
+               o BnF-Partenariats
+               o Les Centres techniques de conservation
+          + Départements de collection
+               o Bibliothèque de l'Arsenal
+               o Arts du spectacle
+               o Audiovisuel
+               o Cartes et plans
+               o Droit, économie, politique
+               o Estampes et photographie
+               o Littérature et art
+          + Départements de collection (suite)
+               o Manuscrits
+               o Monnaies, médailles et antiques
+               o Musique
+               o Orientation et Recherche bibliographique
+               o Philosophie, histoire, sciences de l'homme
+               o Réserve des livres rares
+               o Sciences et techniques
+     * (BUTTON) Explorer
+          + Galerie de médias
+               o Consulter la galerie
+               o Liste des médias
+          + Lire, écouter, voir
+               o Gallica
+               o Bibliothèques numériques internationales
+               o Expositions virtuelles
+               o BnF Collection sonore
+               o Banque d'images
+               o Retronews
+          + Chercher un document
+               o Catalogue général
+               o Data.bnf.fr
+               o Le CCFr
+               o BnF Archives et manuscrits
+               o Autres catalogues et bases
+               o Catalogue des médailles et antiques
+               o Catalogues numérisés
+          + Recherche avancée
+               o Ressources électroniques
+               o Aides à la recherche documentaire
+               o Posez vos questions à un bibliothécaire (SINDBAD)
+     * (BUTTON) Collaborer
+          + Déposer
+               o Qu'est-ce que le dépôt légal ?
+               o Qui dépose ?
+               o Que faut-il déposer ?
+               o Comment déposer ?
+               o Déposer au centre exception handicap
+          + Numériser
+               o Outils de la numérisation
+               o Prestation de numérisation
+               o Prestation d'archivage numérique
+          + Signaler
+               o Normes, formats, données d'autorité
+               o Identifiants internationaux
+               o Politique bibliographique
+               o Bibliographie nationale
+               o Bibliographies régionales
+          + Réutiliser
+               o Réutiliser les documents
+               o Comprendre l'offre
+               o Réutiliser les données
+          + Conserver
+               o Politique de conservation
+               o Prestations en conservation
+               o Plan d'urgence
+               o Formation
+               o Prestations de restauration
+               o Ressources
+          + Coopération nationale
+               o Le réseau
+               o L'action territoriale
+               o Gallica et les différents dispositifs
+               o CCFr - Signalement du patrimoine
+          + Préservation numérique
+          + Engagement international
+               o Europe
+               o Patrimoines partagés
+               o Francophonie
+               o Collaborations numériques
+               o Formation et accueil de professionnels étrangers
+               o Expertise internationale
+          + Prêts aux expositions
+
+   Aide
+
+   Les pages les plus consultées
+     * Actualités de la BnF
+     * Agenda
+     * Bibliothèque tous publics
+     * Réserver un document
+     * Galerie de médias
+
+   Soutenez la BnF
+   (BUTTON) FR
+     * EN
+     * ES
+
+   BnF (aller à l'accueil)
+
+     * (BUTTON) Venir
+          +
+               o Horaires, accès, tarifs
+                    # François-Mitterrand﻿
+                    # Richelieu﻿
+                    # Arsenal﻿
+                    # Opéra﻿
+                    # Jean-Vilar﻿
+               o Bibliothèque tous publics﻿
+                    # Pass lecture / culture﻿
+               o Bibliothèque de recherche﻿
+                    # Pass recherche﻿
+               o Trouver une place à la BnF﻿
+          +
+               o Services sur place
+                    # Utiliser des ordinateurs et internet﻿
+                    # Photocopie, impression, photographie﻿
+                    # Travailler seul ou en groupe﻿
+                    # Reproduction de documents﻿
+                    # Restauration﻿
+                    # Initiations à la Bibliothèque, au Catalogue et à
+                      Gallica﻿
+                    # Clinique juridique﻿
+                    # Français langue étrangère﻿
+                    # Studio de création audiovisuelle﻿
+          +
+               o Programmation culturelle
+                    # Agenda﻿
+                    # Liste des événements﻿
+                    # Liste des expositions﻿
+                    # Visites et ateliers﻿
+                    # Visites expositions temporaires﻿
+                    # Visites et ateliers enfants et familles﻿
+                    # Visites guidées des sites de la BnF﻿
+                    # Visites en groupes﻿
+          +
+               o Je viens
+                    # Étudier à la BnF﻿
+                    # Avec ma classe﻿
+                    # Élaborer mon projet professionnel﻿
+          +
+               o Réserver sa place et un document
+                    # Espace personnel : François-Mitterrand﻿
+                    # Espace personnel : Richelieu, Arsenal, Opéra﻿
+                    # Mode d'emploi : réserver un document -
+                      François-Mitterrand﻿
+                    # Mode d'emploi : réserver un document - Richelieu,
+                      Arsenal et Opéra﻿
+     * (BUTTON) Découvrir
+          +
+               o Un lieu ouvert à tous
+                    # Chercheurs﻿
+                    # Étudiants﻿
+                    # L'accessibilité à la BnF﻿
+                    # Publics du champ social﻿
+               o Nos ressources en ligne
+                    # Gallica﻿
+                    # RetroNews﻿
+                    # Données et métadonnées﻿
+                    # Nos APIs﻿
+          +
+               o Notre programmation culturelle
+                    # Agenda﻿
+               o Chroniques, le magazine de la BnF﻿
+               o BnF Éditions﻿
+               o Actualités de la BnF﻿
+          +
+               o Histoire et missions
+                    # Missions et organisation﻿
+                    # Histoire de la BnF﻿
+                    # Le Projet Richelieu﻿
+                    # Les archives administratives de la BnF﻿
+                    # Le dépôt légal﻿
+                    # Le dépôt légal numérique﻿
+                    # BnF-Partenariats﻿
+                    # Les Centres techniques de conservation﻿
+          +
+               o Départements de collection
+                    # Bibliothèque de l'Arsenal﻿
+                    # Arts du spectacle﻿
+                    # Audiovisuel﻿
+                    # Cartes et plans﻿
+                    # Droit, économie, politique﻿
+                    # Estampes et photographie﻿
+                    # Littérature et art﻿
+          +
+               o Départements de collection (suite)
+                    # Manuscrits﻿
+                    # Monnaies, médailles et antiques﻿
+                    # Musique﻿
+                    # Orientation et Recherche bibliographique﻿
+                    # Philosophie, histoire, sciences de l'homme﻿
+                    # Réserve des livres rares﻿
+                    # Sciences et techniques﻿
+     * (BUTTON) Explorer
+          +
+               o Galerie de médias
+                    # Consulter la galerie﻿
+                    # Liste des médias﻿
+          +
+               o Lire, écouter, voir
+                    # Gallica﻿
+                    # Bibliothèques numériques internationales﻿
+                    # Expositions virtuelles﻿
+                    # BnF Collection sonore﻿
+                    # Banque d'images﻿
+                    # Retronews﻿
+          +
+               o Chercher un document
+                    # Catalogue général﻿
+                    # Data.bnf.fr﻿
+                    # Le CCFr﻿
+                    # BnF Archives et manuscrits﻿
+                    # Autres catalogues et bases﻿
+                    # Catalogue des médailles et antiques﻿
+                    # Catalogues numérisés﻿
+          +
+               o Recherche avancée
+                    # Ressources électroniques﻿
+                    # Aides à la recherche documentaire﻿
+                    # Posez vos questions à un bibliothécaire (SINDBAD)﻿
+     * (BUTTON) Collaborer
+          +
+               o Déposer﻿
+                    # Qu'est-ce que le dépôt légal ?﻿
+                    # Qui dépose ?﻿
+                    # Que faut-il déposer ?﻿
+                    # Comment déposer ?﻿
+                    # Déposer au centre exception handicap﻿
+               o Numériser
+                    # Outils de la numérisation﻿
+                    # Prestation de numérisation﻿
+                    # Prestation d'archivage numérique﻿
+          +
+               o Signaler
+                    # Normes, formats, données d'autorité﻿
+                    # Identifiants internationaux﻿
+                    # Politique bibliographique﻿
+                    # Bibliographie nationale﻿
+                    # Bibliographies régionales﻿
+               o Réutiliser﻿
+                    # Réutiliser les documents﻿
+                    # Comprendre l'offre﻿
+                    # Réutiliser les données﻿
+          +
+               o Conserver
+                    # Politique de conservation﻿
+                    # Prestations en conservation﻿
+                    # Plan d'urgence﻿
+                    # Formation﻿
+                    # Prestations de restauration﻿
+                    # Ressources﻿
+               o Coopération nationale﻿
+                    # Le réseau﻿
+                    # L'action territoriale﻿
+                    # Gallica et les différents dispositifs﻿
+                    # CCFr - Signalement du patrimoine﻿
+          +
+               o Préservation numérique﻿
+               o Engagement international﻿
+                    # Europe﻿
+                    # Patrimoines partagés﻿
+                    # Francophonie﻿
+                    # Collaborations numériques﻿
+                    # Formation et accueil de professionnels étrangers﻿
+                    # Expertise internationale﻿
+               o Prêts aux expositions﻿
+
+   (BUTTON) [picto_loupe.svg] Recherche
+   (BUTTON) [picto_loupe.svg] Recherche
+
+   Aide
+   (BUTTON) FR
+     * EN
+     * ES
+
+   Soutenez la BnF
+
+    1. Accueil
+    2. Agenda
+    3. Implications philosophiques : une revue en ligne
+
+   Prochainement
+
+Implications philosophiques : une revue en ligne
+
+   25 sep. 2019
+   François-Mitterrand
+     __________________________________________________________________
+
+   La revue en ligne « Implications philosophiques » fait l’objet d’une
+   présentation publique, suivie d’une table ronde.
+   Partager
+
+   Avec Alexandre Moatti, X-Mines, spécialiste des publications
+   scientifiques, Valérie Beaudoin, Telecom Paris Tech, spécialiste des
+   mutations sociales en lien avec le numérique et Clément Oury, Muséum
+   national d’histoire naturelle, spécialiste des questions de
+   patrimonialisation des ressources numériques.
+
+   En savoir plus sur la revue Implications philosophiques
+
+
+Informations pratiques
+
+   tarifs et conditions d’accès
+
+Entrée libre et gratuite
+
+Date et Horaires
+
+   Mercredi 25 septembre 2019
+   18 h 30 – 20 h
+
+
+Accès
+
+   François-Mitterrand - Salle 70
+   Quai François-Mauriac – Paris 13^e
+   Entrée Est face à la rue Émile Durkheim
+
+
+   Plan et transports
+
+
+
+   Image : Philosofia XXVIII et Rhetorica XXIII, figure de Tarot
+
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+     * Plan du site
+     * Flux RSS
+     * Accessibilité
+     * Marchés publics
+     * Offres d'emploi
+     * Dématérialisation des factures
+     * Conditions générales d'utilisation
+     * Crédits
+
+   COPYRIGHT 2019
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Recherche) RechercheOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne
+   #alternate
+
+   Aller au contenu principal
+
+   (BUTTON) Menu principal
+
+     * Mon espace (nouvelle fenêtre) Mon espace
+     * Horaires / Accès Horaires / Accès
+     * Agenda Agenda
+     * Catalogues Catalogues
+     * Inscription / Billetterie (nouvelle fenêtre) Inscription
+       / Billetterie
+
+
+   (BUTTON) Fermer le menu
+   BnF (Bibliothèque nationale de France)
+
+     * (BUTTON) Venir
+          + Horaires, accès, tarifs
+               o François-Mitterrand
+               o Richelieu
+               o Arsenal
+               o Opéra
+               o Jean-Vilar
+          + Bibliothèque tous publics
+               o Pass lecture / culture
+          + Bibliothèque de recherche
+               o Pass recherche
+          + Trouver une place à la BnF
+          + Services sur place
+               o Utiliser des ordinateurs et internet
+               o Photocopie, impression, photographie
+               o Travailler seul ou en groupe
+               o Reproduction de documents
+               o Restauration
+               o Initiations à la Bibliothèque, au Catalogue et à Gallica
+               o Clinique juridique
+               o Français langue étrangère
+               o Studio de création audiovisuelle
+          + Programmation culturelle
+               o Agenda
+               o Liste des événements
+               o Liste des expositions
+               o Visites et ateliers
+               o Visites expositions temporaires
+               o Visites et ateliers enfants et familles
+               o Visites guidées des sites de la BnF
+               o Visites en groupes
+          + Je viens
+               o Étudier à la BnF
+               o Avec ma classe
+               o Élaborer mon projet professionnel
+          + Réserver sa place et un document
+               o Espace personnel : François-Mitterrand
+               o Espace personnel : Richelieu, Arsenal, Opéra
+               o Mode d'emploi : réserver un document -
+                 François-Mitterrand
+               o Mode d'emploi : réserver un document - Richelieu, Arsenal
+                 et Opéra
+     * (BUTTON) Découvrir
+          + Un lieu ouvert à tous
+               o Chercheurs
+               o Étudiants
+               o L'accessibilité à la BnF
+               o Publics du champ social
+          + Nos ressources en ligne
+               o Gallica
+               o RetroNews
+               o Données et métadonnées
+               o Nos APIs
+          + Notre programmation culturelle
+               o Agenda
+          + Chroniques, le magazine de la BnF
+          + BnF Éditions
+          + Actualités de la BnF
+          + Histoire et missions
+               o Missions et organisation
+               o Histoire de la BnF
+               o Le Projet Richelieu
+               o Les archives administratives de la BnF
+               o Le dépôt légal
+               o Le dépôt légal numérique
+               o BnF-Partenariats
+               o Les Centres techniques de conservation
+          + Départements de collection
+               o Bibliothèque de l'Arsenal
+               o Arts du spectacle
+               o Audiovisuel
+               o Cartes et plans
+               o Droit, économie, politique
+               o Estampes et photographie
+               o Littérature et art
+          + Départements de collection (suite)
+               o Manuscrits
+               o Monnaies, médailles et antiques
+               o Musique
+               o Orientation et Recherche bibliographique
+               o Philosophie, histoire, sciences de l'homme
+               o Réserve des livres rares
+               o Sciences et techniques
+     * (BUTTON) Explorer
+          + Galerie de médias
+               o Consulter la galerie
+               o Liste des médias
+          + Lire, écouter, voir
+               o Gallica
+               o Bibliothèques numériques internationales
+               o Expositions virtuelles
+               o BnF Collection sonore
+               o Banque d'images
+               o Retronews
+          + Chercher un document
+               o Catalogue général
+               o Data.bnf.fr
+               o Le CCFr
+               o BnF Archives et manuscrits
+               o Autres catalogues et bases
+               o Catalogue des médailles et antiques
+               o Catalogues numérisés
+          + Recherche avancée
+               o Ressources électroniques
+               o Aides à la recherche documentaire
+               o Posez vos questions à un bibliothécaire (SINDBAD)
+     * (BUTTON) Collaborer
+          + Déposer
+               o Qu'est-ce que le dépôt légal ?
+               o Qui dépose ?
+               o Que faut-il déposer ?
+               o Comment déposer ?
+               o Déposer au centre exception handicap
+          + Numériser
+               o Outils de la numérisation
+               o Prestation de numérisation
+               o Prestation d'archivage numérique
+          + Signaler
+               o Normes, formats, données d'autorité
+               o Identifiants internationaux
+               o Politique bibliographique
+               o Bibliographie nationale
+               o Bibliographies régionales
+          + Réutiliser
+               o Réutiliser les documents
+               o Comprendre l'offre
+               o Réutiliser les données
+          + Conserver
+               o Politique de conservation
+               o Prestations en conservation
+               o Plan d'urgence
+               o Formation
+               o Prestations de restauration
+               o Ressources
+          + Coopération nationale
+               o Le réseau
+               o L'action territoriale
+               o Gallica et les différents dispositifs
+               o CCFr - Signalement du patrimoine
+          + Préservation numérique
+          + Engagement international
+               o Europe
+               o Patrimoines partagés
+               o Francophonie
+               o Collaborations numériques
+               o Formation et accueil de professionnels étrangers
+               o Expertise internationale
+          + Prêts aux expositions
+
+   Aide
+
+   Les pages les plus consultées
+     * Actualités de la BnF
+     * Agenda
+     * Bibliothèque tous publics
+     * Réserver un document
+     * Galerie de médias
+
+   Soutenez la BnF
+   (BUTTON) FR
+     * EN
+     * ES
+
+   BnF (aller à l'accueil)
+
+     * (BUTTON) Venir
+          +
+               o Horaires, accès, tarifs
+                    # François-Mitterrand﻿
+                    # Richelieu﻿
+                    # Arsenal﻿
+                    # Opéra﻿
+                    # Jean-Vilar﻿
+               o Bibliothèque tous publics﻿
+                    # Pass lecture / culture﻿
+               o Bibliothèque de recherche﻿
+                    # Pass recherche﻿
+               o Trouver une place à la BnF﻿
+          +
+               o Services sur place
+                    # Utiliser des ordinateurs et internet﻿
+                    # Photocopie, impression, photographie﻿
+                    # Travailler seul ou en groupe﻿
+                    # Reproduction de documents﻿
+                    # Restauration﻿
+                    # Initiations à la Bibliothèque, au Catalogue et à
+                      Gallica﻿
+                    # Clinique juridique﻿
+                    # Français langue étrangère﻿
+                    # Studio de création audiovisuelle﻿
+          +
+               o Programmation culturelle
+                    # Agenda﻿
+                    # Liste des événements﻿
+                    # Liste des expositions﻿
+                    # Visites et ateliers﻿
+                    # Visites expositions temporaires﻿
+                    # Visites et ateliers enfants et familles﻿
+                    # Visites guidées des sites de la BnF﻿
+                    # Visites en groupes﻿
+          +
+               o Je viens
+                    # Étudier à la BnF﻿
+                    # Avec ma classe﻿
+                    # Élaborer mon projet professionnel﻿
+          +
+               o Réserver sa place et un document
+                    # Espace personnel : François-Mitterrand﻿
+                    # Espace personnel : Richelieu, Arsenal, Opéra﻿
+                    # Mode d'emploi : réserver un document -
+                      François-Mitterrand﻿
+                    # Mode d'emploi : réserver un document - Richelieu,
+                      Arsenal et Opéra﻿
+     * (BUTTON) Découvrir
+          +
+               o Un lieu ouvert à tous
+                    # Chercheurs﻿
+                    # Étudiants﻿
+                    # L'accessibilité à la BnF﻿
+                    # Publics du champ social﻿
+               o Nos ressources en ligne
+                    # Gallica﻿
+                    # RetroNews﻿
+                    # Données et métadonnées﻿
+                    # Nos APIs﻿
+          +
+               o Notre programmation culturelle
+                    # Agenda﻿
+               o Chroniques, le magazine de la BnF﻿
+               o BnF Éditions﻿
+               o Actualités de la BnF﻿
+          +
+               o Histoire et missions
+                    # Missions et organisation﻿
+                    # Histoire de la BnF﻿
+                    # Le Projet Richelieu﻿
+                    # Les archives administratives de la BnF﻿
+                    # Le dépôt légal﻿
+                    # Le dépôt légal numérique﻿
+                    # BnF-Partenariats﻿
+                    # Les Centres techniques de conservation﻿
+          +
+               o Départements de collection
+                    # Bibliothèque de l'Arsenal﻿
+                    # Arts du spectacle﻿
+                    # Audiovisuel﻿
+                    # Cartes et plans﻿
+                    # Droit, économie, politique﻿
+                    # Estampes et photographie﻿
+                    # Littérature et art﻿
+          +
+               o Départements de collection (suite)
+                    # Manuscrits﻿
+                    # Monnaies, médailles et antiques﻿
+                    # Musique﻿
+                    # Orientation et Recherche bibliographique﻿
+                    # Philosophie, histoire, sciences de l'homme﻿
+                    # Réserve des livres rares﻿
+                    # Sciences et techniques﻿
+     * (BUTTON) Explorer
+          +
+               o Galerie de médias
+                    # Consulter la galerie﻿
+                    # Liste des médias﻿
+          +
+               o Lire, écouter, voir
+                    # Gallica﻿
+                    # Bibliothèques numériques internationales﻿
+                    # Expositions virtuelles﻿
+                    # BnF Collection sonore﻿
+                    # Banque d'images﻿
+                    # Retronews﻿
+          +
+               o Chercher un document
+                    # Catalogue général﻿
+                    # Data.bnf.fr﻿
+                    # Le CCFr﻿
+                    # BnF Archives et manuscrits﻿
+                    # Autres catalogues et bases﻿
+                    # Catalogue des médailles et antiques﻿
+                    # Catalogues numérisés﻿
+          +
+               o Recherche avancée
+                    # Ressources électroniques﻿
+                    # Aides à la recherche documentaire﻿
+                    # Posez vos questions à un bibliothécaire (SINDBAD)﻿
+     * (BUTTON) Collaborer
+          +
+               o Déposer﻿
+                    # Qu'est-ce que le dépôt légal ?﻿
+                    # Qui dépose ?﻿
+                    # Que faut-il déposer ?﻿
+                    # Comment déposer ?﻿
+                    # Déposer au centre exception handicap﻿
+               o Numériser
+                    # Outils de la numérisation﻿
+                    # Prestation de numérisation﻿
+                    # Prestation d'archivage numérique﻿
+          +
+               o Signaler
+                    # Normes, formats, données d'autorité﻿
+                    # Identifiants internationaux﻿
+                    # Politique bibliographique﻿
+                    # Bibliographie nationale﻿
+                    # Bibliographies régionales﻿
+               o Réutiliser﻿
+                    # Réutiliser les documents﻿
+                    # Comprendre l'offre﻿
+                    # Réutiliser les données﻿
+          +
+               o Conserver
+                    # Politique de conservation﻿
+                    # Prestations en conservation﻿
+                    # Plan d'urgence﻿
+                    # Formation﻿
+                    # Prestations de restauration﻿
+                    # Ressources﻿
+               o Coopération nationale﻿
+                    # Le réseau﻿
+                    # L'action territoriale﻿
+                    # Gallica et les différents dispositifs﻿
+                    # CCFr - Signalement du patrimoine﻿
+          +
+               o Préservation numérique﻿
+               o Engagement international﻿
+                    # Europe﻿
+                    # Patrimoines partagés﻿
+                    # Francophonie﻿
+                    # Collaborations numériques﻿
+                    # Formation et accueil de professionnels étrangers﻿
+                    # Expertise internationale﻿
+               o Prêts aux expositions﻿
+
+   (BUTTON) [picto_loupe.svg] Recherche
+   (BUTTON) [picto_loupe.svg] Recherche
+
+   Aide
+   (BUTTON) FR
+     * EN
+     * ES
+
+   Soutenez la BnF
+
+    1. Accueil
+    2. Agenda
+    3. Festival Phonurgia Nova
+
+   Prochainement
+
+Festival Phonurgia Nova
+
+   28 sep. 2019 29 sep. 2019
+   François-Mitterrand
+     __________________________________________________________________
+
+   La BnF accueille les 28 et 29 septembre le festival Phonurgia Nova,
+   rendez-vous incontournable des créateurs radiophoniques et sonores de
+   toute l’Europe.
+   Partager
+
+   Célébrant la « radio de création », la liberté de raconter le monde
+   avec et par les sons, le festival Phonurgia Nova met en lumière les
+   formes émergentes dans les domaines du documentaire. Qu’il s’agisse de
+   fiction, de narration purement sonore, de paysages capturés ou créés de
+   toute pièce, y sont mises en valeur les démarches qui placent l’écoute
+   au cœur du processus créatif et élèvent l’enregistrement sonore au rang
+   des beaux-arts. Le festival rassemble cette année plus de 200 œuvres en
+   provenance du monde entier, issues des meilleures fabriques sonores
+   et radiophoniques.
+
+Les prix Phonurgia Nova
+
+   Les prix Phonurgia Nova ont été créés à Arles en 1986, sous l’impulsion
+   du compositeur Pierre Schaeffer, afin que soit reconnue cette création
+   spécifique basée sur l’écoute du monde et des autres. Ils soulignent
+   l’importance de la radio comme source d’invention, tout en contribuant
+   à faire émerger de nouveaux auteurs. Cette année, une trentaine de
+   créations nominées sont diffusées au public et évaluées par un jury de
+   personnalités du monde de la radio, des arts et de la culture et
+   présidé par Anne Gillot, musicienne et productrice radio, et Alessandro
+   Bosetti, compositeur et artiste sonore, lauréat du Prix Phonurgia
+   Nova 2012.
+
+   Le jury élabore en direct et en public un commentaire critique sur les
+   œuvres avant de décerner les cinq prix Phonurgia Nova 2019 :
+
+   • le prix « Archives de la parole » décerné par la BnF,
+
+   • le prix « Art Radio » décerné par la SACEM,
+
+   • le prix « Fictions sonores » décerné par la SACD,
+
+   • le prix « Field Recording » décerné par le Musée de la Camargue,
+
+   • le prix « Découvertes Pierre Schaeffer ».
+
+   Les œuvres primées seront en écoute sur le site www.phonurgia.fr.et sur
+   le réseau international des radios de l’UER (Union Européenne de
+   Radio-télévision). Elles intégreront également les fonds du département
+   de l’Audiovisuel de la BnF.
+
+   Toutes les informations disponibles sur http://phonurgia.fr/
+
+   Facebook : « phonurgia nova awards »
+
+   Archives du Prix : www.sonosphere.org
+
+   Vidéos
+
+En savoir plus sur les archives sonores de la BnF
+
+   Le département de l’Audiovisuel conserve près d’un million
+   d’enregistrements sonores, des origines de l’enregistrement (1877) à
+   aujourd’hui. Ce fonds intègre des enregistrements parlés parmi les plus
+   anciens qui existent, réunis au sein de la collection « Archives de la
+   parole ». Née en 1911 à l’initiative du linguiste Ferdinand Brunot dont
+   le projet était de « conserver les manifestations orales de la langue
+   parlée pour les générations futures », on trouve dans ce fonds
+   prestigieux aussi bien la voix d’Apollinaire lisant Le Pont Mirabeau ou
+   d’Alfred Dreyfus, ses mémoires, que des dialectes enregistrés sur le «
+   terrain » ou des exemples de pathologies du langage et de l’expression.
+   En 1938, l’enregistrement sonore devient patrimoine avec la création
+   par Jean Zay, ministre de l’Éducation nationale et des Beaux-Arts, de
+   la Phonothèque nationale. Héritière des Archives de la parole, celle-ci
+   est chargée de collecter toutes les productions phonographiques
+   diffusées sur le territoire national.
+
+   Le Prix « Archives de la parole » décerné par la Bibliothèque dans le
+   cadre des prix Phonurgia Nova s’inscrit dans le sillage de cette
+   collection prestigieuse qui est aujourd’hui consultable sur le site
+   Gallica, la bibliothèque numérique de la BnF.
+
+Informations pratiques
+
+   tarifs et conditions d’accès
+
+Entrée libre et gratuite
+
+Date et Horaires
+
+   Samedi 28 septembre 2019
+   9h – 20 h
+   Dimanche 29 septembre 2019
+
+   9h - 20h
+
+Accès
+
+   François-Mitterrand - Petit auditorium
+   Quai François-Mauriac – Paris 13^e
+   Entrée Est face à la rue Émile Durkheim
+
+
+   Plan et transports
+
+
+
+
+   (BUTTON) Nos implantations
+   Nos implantations
+     * François-Mitterrand
+     * Richelieu-Louvois
+     * Arsenal
+     * Opéra
+     * Jean-Vilar
+
+   (BUTTON) Nos missions
+   Nos missions
+
+   « La BnF a pour mission de collecter, cataloguer, conserver, enrichir
+   et communiquer le patrimoine documentaire national. La BnF assure
+   l’accès du plus grand nombre aux collections sur place, à distance et
+   développe la coopération nationale et internationale. »
+
+   En savoir
+
+   Soutenez la BnF
+   Nous suivre
+     * Twitter
+     * Facebook
+     * Instagram
+     * Youtube
+
+   Inscrivez-vous aux newsletters
+     * contact
+     * Espace presse
+     * Locations d’espace
+     * Service Acceo Service Acceo
+
+     * Plan du site
+     * Flux RSS
+     * Accessibilité
+     * Marchés publics
+     * Offres d'emploi
+     * Dématérialisation des factures
+     * Conditions générales d'utilisation
+     * Crédits
+
+   COPYRIGHT 2019
+   (BUTTON) [picto_croix-fermeture.svg] Fermer
+   Rechercher sur le site de la BnF *
+   ____________________________________________________________
+   (Recherche) RechercheOK
+
+Vous pouvez également effectuer vos recherches sur les bases de données et
+les catalogues de la BnF
+
+Catalogue général
+
+   Trouvez les références des documents conservés sur tous les sites de la
+   BnF
+
+CCFr
+
+   Trouvez un document, une bibliothèque, un fonds documentaire sur le
+   Catalogue Collectif de France
+
+Data
+
+   Trouvez des fichiers de référence sur les auteurs, les œuvres et les
+   thèmes
+
+Gallica
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+
+Archives et manuscrits
+
+   Trouvez les descriptions de manuscrits, dessins, fonds d’archives sur
+   différents supports
+
+Médailles et antiques
+
+   Plus de 7500 médailles et objets d’art et d’archéologie accessibles en
+   ligne

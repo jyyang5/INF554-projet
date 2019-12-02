@@ -1,0 +1,216 @@
+   #Virtual Nomad - Atom Virtual Nomad - RSS Virtual Nomad - Atom
+
+   Virtual Nomad
+
+   Heading to VCAP-DCD
+
+Monday, 8 May 2017
+
+Testing new vSphere 6.5 feature - DRS CPU overcommitment
+
+   I am currently working on a project where one of the customer's
+   requirements is to use strict pCPU to vCPU ratio. Luckily, VMware
+   introduced new feature called CPU over-commitment ratio in vSphere 6.5
+   which helps to meet the requirement. I spent an evening playing with
+   this new feature and would like to share my experience.
+   The VMware documentation is quite laconic when it discusses new DRS
+   features. So, after reading the documentation I still had few questions
+   on how CPU over-commitments works:
+    1. Does it count vCPUs against Physical or Logical Processors?
+    2. What is DRS behaviour when the ratio is violated?
+    3. Is over-commitment ratio applied per host or per cluster?
+    4. Will HA respect this ratio when restarting VMs after the host
+       failure?
+    5. Is ratio changed when host is placed into maintenance mode?
+
+   So, let's try to answer all these questions using my lab.
+   1. Does it count vCPUs against Physical or Logical Processors?
+   Usually I run most of my tests in the nested labs using nested ESXi
+   servers, but to answer this question I had to use one of my physical
+   clusters which supports hyperthreading and thus provides physical and
+   logical processors.
+   The cluster consists of 2 x SuperMicro Servers and each of the servers
+   runs on Xeon D-1528 CPU with 6 physical cores. So, in total I have 12
+   physical / 24 logical processors in the cluster.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B11.03.51%2BPM.png]
+   [Screen%2BShot%2B2017-05-06%2Bat%2B11.04.03%2BPM.png]
+   Currently I am running 4 VMs with 11 vCPUs assigned in total. DRS is
+   enabled and CPU overcommitment is configured to 100%. I am planning to
+   power on a another VM with 2 vCPUs.
+   If DRS counts over-commitment ratio using physical CPUs it should give
+   me some kind of warning.
+   Here is the result of my attempt to power-on another VM.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B11.06.55%2BPM.png]
+   As you can see it actually answers the second question too.
+   We can tell now that DRS definitely counts only physical CPUs.
+   Interestingly, in this case DRS behaves as HA Admission Control
+   prohibiting VM power-on operation as it will violate CPU
+   over-commitment ratio.
+   3. Is over-commitment ratio applied per host or per cluster?
+   To answer this question I used my nested lab. Here are quick specs of
+   the test cluster:
+     * 3 x ESXi servers
+     * 2 x CPU per server
+     * 3 x virtual machines configured with 2 vCPUs each
+     * CPU over-commitment is set to 100%
+
+   So, I am running 6 vCPU in total on 6 CPUs in DRS cluster. Attempt to
+   power on one more VM in this cluster will definitely fail as it will
+   violate cluster level ratio.
+   Now, I vMotioned VM-2 to ESXi-1 which brought the pCPU to vCPU
+   over-commitment ratio on that host to 200%. As you can see this vMotion
+   didn't fail and no warning were generated.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B10.40.52%2BPM.png]
+   DRS generate recommendations every 15 minutes and soon this cluster was
+   balanced again, but that's part of DRS functionality that existed in
+   previous versions of vSphere 6.5.
+   So, we can tell that this over-commitment ratio is applied per cluster.
+   4. Will HA respect this ratio when restarting VMs after the host
+   failure?
+   It was the most tickling question for me. Taking into the consideration
+   similarity of CPU over-commitment and HA Admission Control features I
+   was wondering whether over-commitment ratio should be adjusted to take
+   into the consideration host failure.
+   I used the same lab setup you saw above in question 3. I verified that
+   each host has been running one dummy VM.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B10.50.08%2BPM.png]
+   Then I restarted vesxi65-3 host and 2 minutes later the VM-3 was
+   successfully restarted on vesxi65-1 server even though the CPU
+   over-commitment ratio was equal to 150%.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B10.55.29%2BPM.png]
+   This proves that HA restart has higher priority over CPU
+   over-commitment ratio. This totally makes sense to me as VM's
+   availability is more important that potential performance impact.
+   5. Is ratio changed when host is placed into maintenance mode?
+   I reverted my lab back to default settings and tried to place the host
+   into maintenance mode which would result in 4 pCPU to 6 vCPU ratio
+   which would violate configured CPU over-commitment ratio.
+   The tasks didn't fail so I at first I assumed that there would be no
+   problem.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B10.16.24%2BPM.png]
+   5 minutes later that task was still running so I checked the DRS Faults
+   and immediately found the following.
+   [Screen%2BShot%2B2017-05-06%2Bat%2B10.15.53%2BPM.png]
+   Clearly, DRS would always respect its own over-commitment rule when
+   trying to generate vMotion recommendations.
+   So, the main takeaways for today are:
+     * Only physical CPUs are used in calculations - no hyper threading
+     * CPU over-commitment works very similar to Admission Control by
+       preventing VMs to power on if it will violate the configured ratio.
+     * During HA failover the CPU overcommitment setting is ignored -
+       makes sense as recovering VMs is more critical than respecting
+       overcommitment ratio
+     * The over-commitment ratio is applied at cluster level
+     * DRS will prevent placing the host into maintenance mode if it
+       breaks its rules.
+
+   Posted by vmnomad at 08:07
+   Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+4 comments:
+
+    1. Unknown21 March 2018 at 02:30
+       Really useful to know thanks
+       ReplyDelete
+       Replies
+            Reply
+    2. Anonymous6 June 2018 at 11:09
+       Thanks for the awesome write up ! Very useful..
+       ReplyDelete
+       Replies
+            Reply
+    3. Pankaj Singh22 August 2018 at 16:05
+       I think this is one of the important blog for me. I need this
+       information must, thank you so much for sharing this. Visit for
+       Best Offshore VPS
+       ReplyDelete
+       Replies
+            Reply
+    4. Anonymous30 January 2019 at 07:25
+       Thanks a lot for sharing your findings.
+       A couple of things however:
+       1) 100% over-commitment supposedly means exceeding the cluster
+       capacity by 100%. In other words, trying to commit twice as much
+       resources as actually available.
+       2) It doesn't look like you tested the hyper-threading aspect as
+       the screenshot of your physical cluster shows 12 Logical
+       Processors, i.e. the same as physical CPU cores in the cluster.
+       Can you please shed more light on the points above ? Am I missing
+       anything here ?
+       ReplyDelete
+       Replies
+            Reply
+
+   Add comment
+   Load more...
+
+   Newer Post Older Post Home
+   Subscribe to: Post Comments (Atom)
+
+Follow by Email
+
+   ____________________ Submit
+
+Blog Archive
+
+     * ►  2018 (1)
+          + ►  April (1)
+
+     * ▼  2017 (6)
+          + ►  November (1)
+          + ►  August (1)
+          + ▼  May (2)
+               o Testing new vSphere 6.5 feature - DRS CPU overcomm...
+               o Creating replica seeds for vSphere Replication
+          + ►  March (1)
+          + ►  January (1)
+
+     * ►  2016 (25)
+          + ►  October (1)
+          + ►  September (2)
+          + ►  July (3)
+          + ►  June (1)
+          + ►  May (2)
+          + ►  April (15)
+          + ►  February (1)
+
+     * ►  2015 (9)
+          + ►  October (1)
+          + ►  September (4)
+          + ►  August (3)
+          + ►  January (1)
+
+     * ►  2014 (3)
+          + ►  September (1)
+          + ►  August (2)
+
+     * ►  2013 (1)
+          + ►  April (1)
+
+     * ►  2012 (18)
+          + ►  November (1)
+          + ►  September (6)
+          + ►  August (5)
+          + ►  June (1)
+          + ►  April (1)
+          + ►  February (4)
+
+     * ►  2011 (24)
+          + ►  November (2)
+          + ►  October (2)
+          + ►  September (3)
+          + ►  August (2)
+          + ►  July (8)
+          + ►  June (3)
+          + ►  May (4)
+
+If you want to read my blog in Russian
+
+     * Хабрацентр им. vmnomad
+
+Contributors
+
+     * Virtual Nomad
+     * vmnomad
+
+   Simple theme. Powered by Blogger.

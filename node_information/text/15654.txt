@@ -1,0 +1,1610 @@
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02190435, version 1
+
+Mise en place de NO ENDO : une base de données nationale pour l’endométriose
+et les dysménorrhées
+
+   Claire Figuier ^1 (BUTTON) Détails
+   1 FM - UCA - Faculté de Médecine - Clermont-Auvergne
+
+       Claire Figuier ^1 AuthorId : 11540077
+     Auteur
+
+   1 FM - UCA - Faculté de Médecine - Clermont-Auvergne (28, place
+   Henri-Dunant - BP 38 - 63001 Clermont-Ferrand Cedex 1 - France)
+   StructId : 481395
+     * UCA - Université Clermont Auvergne (49, bd François-Mitterrand / CS
+       60032 / 63001 Clermont-Ferrand Cedex 1 - France) StructId : 422708
+
+   (BUTTON) Masquer les détails
+   Résumé : Contexte : Les dysménorrhées sévères touchent une femme sur
+   quatre et l’endométriose touche 5 à 10 % des femmes en âge de procréer.
+   L’impact de cette maladie pour les patientes qui en sont atteintes est
+   majeur. Pourtant il n’existe aucun outil efficace de prise en charge
+   précoce et les parcours de soins restent très aléatoires. La
+   progression dans la connaissance et la prise en charge de cette maladie
+   doit passer par des outils numériques de suivi et par des systèmes de
+   base de données de grande ampleur Objectif : Notre objectif est de
+   créer une base de données nationale en endométriose et dysménorrhées,
+   NO ENDO, adossée à un dossier numérique de suivi dédié contenant toutes
+   les informations sur la maladie, afin de progresser sur les
+   connaissances et la prise en charge précoce et à long terme de ces
+   pathologies. Méthode : La création de la base à commencer par la
+   définition des données à renseigner, en comparant et ajustant celles de
+   six bases régionales déjà existantes. Ensuite nous avons mis au point
+   un outil numérique qui devait être un passeport de santé en travaillant
+   en collaboration avec une société spécialisée dans la donnée de santé.
+   Parallèlement, afin d’organiser les aspects administratifs, juridiques
+   et exécutifs de la base, qui n’appartiendra ni à un centre ni à un
+   acteur particulier, nous avons cherché à mettre en place une
+   organisation dédiée à la base. Résultats : La base de données contient
+   des données cliniques et paracliniques organisées en socle commun à
+   tous les centres et en briques particulières selon les spécificités
+   d’expertise des centres participants. Elle est adossée à un dossier
+   numérique constituant un passeport médical lié à la patiente tout au
+   long de son suivi : « ENDOpass ». Le consortium NO ENDO, dédié à la
+   base, permettra son organisation administrative, exécutive et répondra
+   aux questions de gestion de la base et d’appartenance des données.
+   Mots-clés : Endométriose Dysménorrhées Base de données Dossier
+   numérique Suivi Parcours de soin
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio]
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie /
+   Gynécologie et obstétrique
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [83 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02190435
+   Contributeur : Santé Uca <>
+   Soumis le : lundi 22 juillet 2019 - 14:35:48
+   Dernière modification le : mercredi 24 juillet 2019 - 01:23:38
+
+Fichier
+
+   [small]
+   Thèse_FIGUIER_Claire.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02190435, version 1
+
+Collections
+
+   MEM-UNIV-UCA | DUMAS | PRES_CLERMONT
+
+Citation
+
+   Claire Figuier. Mise en place de NO ENDO : une base de données
+   nationale pour l’endométriose et les dysménorrhées. Sciences du Vivant
+   [q-bio]. 2019. ⟨dumas-02190435⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+31
+
+   Téléchargements de fichiers
+
+16
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02269912, version 1
+
+L’importance de l’entourage dans la communication du jeune en situation de
+polyhandicap
+
+   Pauline Tirand ^1 (BUTTON) Détails
+   1 AMU MED - Aix-Marseille Université - Faculté de médecine
+
+       Pauline Tirand ^1 AuthorId : 11558480
+     Auteur
+
+   1 AMU MED - Aix-Marseille Université - Faculté de médecine (27 bd Jean
+   Moulin - 13385 Marseille cedex 5 - France) StructId : 412213
+     * AMU - Aix Marseille Université (Aix-Marseille Université Jardins du
+       Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7 - France)
+       StructId : 198056
+
+   (BUTTON) Masquer les détails
+   Résumé : La communication des jeunes en situation de polyhandicap est
+   complexe sur le plan de la compréhension et de l’expression. Une
+   enquête exploratoire auprès de professionnels accompagnant ce public,
+   nous a permis de mettre en avant l’importance de l’entourage dans la
+   Communication Alternative et Améliorée (CAA). La recherche étudie
+   l’identification les obstacles à l’engagement des parents et des
+   ergothérapeutes dans la modélisation du moyen de CAA. Au travers d’une
+   méthode différentielle et par des questionnaires destinés aux
+   ergothérapeutes et aux parents, l’analyse statistique montre que le
+   principal obstacle rencontré par les ergothérapeutes est le manque de
+   poursuite de la modélisation par l’entourage. Pour les parents le
+   principal obstacle est le manque de temps.
+   Mots-clés : Parents enfants Modélisation Engagement Ergothérapie
+   Polyhandicap Troubles de la communication chez l’enfant
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [103 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02269912
+   Contributeur : Ergothérapie Amu <>
+   Soumis le : vendredi 23 août 2019 - 13:57:04
+   Dernière modification le : mardi 27 août 2019 - 01:27:59
+
+Fichier
+
+   [small]
+   TIRAND Pauline UE 6.5 S6.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Licence
+
+   CC BY NC ND
+     __________________________________________________________________
+
+   Distributed under a Creative Commons Paternité - Pas d'utilisation
+   commerciale - Pas de modification 4.0 International License
+
+Identifiants
+
+     * HAL Id : dumas-02269912, version 1
+
+Collections
+
+   DUMAS | UNIV-AMU | MEM-UNIV-AMU
+
+Citation
+
+   Pauline Tirand. L’importance de l’entourage dans la communication du
+   jeune en situation de polyhandicap. Médecine humaine et pathologie.
+   2019. ⟨dumas-02269912⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+29
+
+   Téléchargements de fichiers
+
+9
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02117158, version 1
+
+La communication grand public sur les maladies chroniques : enjeux, impacts
+et limites
+
+   Justine Barbier ^1 (BUTTON) Détails
+   1 AMU PHARM - Aix-Marseille Université - Faculté de pharmacie
+
+       Justine Barbier ^1 AuthorId : 1173149
+     Auteur
+
+   1 AMU PHARM - Aix-Marseille Université - Faculté de pharmacie (27
+   boulevard Jean Moulin - CS 30064 - 13285 Marseille cedex 5 - France)
+   StructId : 416344
+     * AMU - Aix Marseille Université (Aix-Marseille Université Jardins du
+       Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7 - France)
+       StructId : 198056
+
+   (BUTTON) Masquer les détails
+   Résumé : Affections cardio-vasculaires, cancers, pathologies
+   respiratoires chroniques, diabète, sclérose en plaques ou encore
+   maladie d’Alzheimer, les maladies chroniques sont en augmentation
+   partout dans le monde, la France ne faisant pas exception. Ces maladies
+   nécessitent tout d’abord une prise en charge complexe et adaptée à
+   chaque malade, tant au niveau financier, qu’au niveau thérapeutique et
+   au niveau de l’accompagnement grâce à une équipe de soins formée et
+   bienveillante et un entourage présent et informé. De plus, ces maladies
+   chroniques représentent un enjeu majeur de santé publique, de par la
+   constante évolution de leur incidence et de leur prévalence au fil des
+   années. Cette évolution s’explique par de nombreux facteurs dont
+   certains liés au mode de vie et comportements des français (alcool,
+   tabac, alimentation non saine) mais aussi par le vieillissement de la
+   population. Le diagnostic tardif de ces maladies est également une
+   priorité majeure de santé publique ? Les institutions publiques
+   intègrent donc dans leurs plans nationaux de nombreuses actions et
+   programmes destinés à enrayer l’expansion de ces pathologies mais
+   également à améliorer la prise en charge des malades. Bien que
+   l’accompagnement et l’optimisation de la prise en charge de ces
+   pathologies soient une priorité de santé publique pour diminuer la
+   mortalité et la prévalence des maladies chroniques, l’information et la
+   sensibilisation du grand public, à travers une communication active de
+   la part de tous les acteurs de santé, seraient-ils aussi un moyen de
+   réduire l’incidence de ces affections et d’améliorer le diagnostic
+   précoce pour une meilleure efficacité des traitements ?
+   Mots-clés : Communication Maladies chroniques Grand public Prévention
+   Campagnes Sensibilisation Enjeux Impacts Limites
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Sciences pharmaceutiques
+   Sciences du Vivant [q-bio]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [19 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02117158
+   Contributeur : Pharmacie Amu <>
+   Soumis le : jeudi 2 mai 2019 - 09:22:46
+   Dernière modification le : samedi 4 mai 2019 - 01:28:09
+
+Fichier
+
+   [small]
+   BARBIER Justine. Thèse d'exer...
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02117158, version 1
+
+Collections
+
+   MEM-UNIV-AMUPHARMA | MEM-UNIV-AMU | DUMAS | PHARMA-AMU | UNIV-AMU
+
+Citation
+
+   Justine Barbier. La communication grand public sur les maladies
+   chroniques : enjeux, impacts et limites. Sciences pharmaceutiques.
+   2019. ⟨dumas-02117158⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+59
+
+   Téléchargements de fichiers
+
+49
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02183542, version 1
+
+Catégorisation par disciplines médicales du contenu éditorial des cinq
+revenus de santé les plus influentes
+
+   Pierre Balayé ^1 (BUTTON) Détails
+   1 UNIROUEN - UFR Santé
+
+       Pierre Balayé ^1 AuthorId : 11534088
+     Auteur
+
+   1 UNIROUEN - UFR Santé (22 boulevard Gambetta - CS 76183 - 76183 Rouen
+   cedex 1 - France) StructId : 169367
+     * UNIROUEN - Université de Rouen Normandie (1, rue Thomas Becket
+       76821 Mont-Saint-Aignan Cedex - France) StructId : 300318
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+
+   (BUTTON) Masquer les détails
+   Résumé : Contexte
+   Les grandes revues généralistes à haut facteur d'impact sont très
+   utiles dans la formation continue des médecins. Cependant, le contenu
+   éditorial de ces journaux a déjà été retrouvé divergent. L'objectif de
+   ce travail était d'estimer si la représentation des disciplines
+   médicales dans ces revues avait été différente sur la période
+   2005-2015.
+   Méthodes
+   Tous les articles ayant paru dans le Lancet, le New England Journal of
+   Medicine, le British Medical Journal et les Annals of Internai Medicine
+   entre 2005 et 2015 et indexés par la US National Library of Medicine,
+   furent analysés par un algorithme de catégorisation. Cet algorithme
+   repose sur des associations entre les termes MeSH utilisés pour
+   l'indexation de ces articles et les disciplines médicales représentées
+   par des superconcepts.
+   Résultats
+   Ce sont 72 928 articles qui furent analysés. Parmi ces articles, 59 143
+   (81,1%) ont inféré au moins un superconcept. Les cinq disciplines les
+   plus représentées sur l'ensemble des cinq revues étaient la santé
+   publique (7,0%), la cardiologie (5,5%), l'infectiologie (5,3%), la
+   neurologie (5,2%) et l'oncologie (5,2%). Néanmoins, seules trois
+   disciplines, l'infectiologie, la neurologie et l'oncologie se
+   trouvaient dans les 10 premières disciplines de chacun des journaux. La
+   santé publique n'occupait que la onzième place dans le NEJM. La
+   médecine générale occupait une place importante (3,6%) uniquement dans
+   le BMJ.
+   Conclusion
+   La représentation des disciplines médicales est différente dans les
+   cinq journaux étudiés. Se restreindre à la lecture de seulement
+   quelques revues majeures peut apporter une vision biaisée de la
+   production de la littérature scientifique.
+   Mots-clés : Bibliométrie Catégorisation Périodiques comme sujet
+   Statistiques et données numériques
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [94 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02183542
+   Contributeur : Bibliothèque Santé <>
+   Soumis le : lundi 15 juillet 2019 - 14:09:18
+   Dernière modification le : mercredi 17 juillet 2019 - 01:31:12
+
+Fichier
+
+   [small]
+   Banville Matthieu.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02183542, version 1
+
+Collections
+
+   COMUE-NORMANDIE | DUMAS | MEM-UNIV-ROUEN | UNIROUEN
+
+Citation
+
+   Pierre Balayé. Catégorisation par disciplines médicales du contenu
+   éditorial des cinq revenus de santé les plus influentes. Médecine
+   humaine et pathologie. 2019. ⟨dumas-02183542⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+18
+
+   Téléchargements de fichiers
+
+8
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02175130, version 1
+
+Étude péri-opératoire du langage chez les patients porteurs d'une tumeur
+cérébrale
+
+   Camille Bosser ^1 (BUTTON) Détails
+   1 UNS Orthophonie - Université Nice Sophia Antipolis - Département
+   d'orthophonie
+
+       Camille Bosser ^1 AuthorId : 11526742
+     Auteur
+
+   1 UNS Orthophonie - Université Nice Sophia Antipolis - Département
+   d'orthophonie (Faculté de Médecine - 28, avenue Valombrose - 06107 Nice
+   Cedex 2 - France) StructId : 473358
+     * UNS - Université Nice Sophia Antipolis (Parc Valrose - BP 2135 -
+       06103 Nice cedex 2 - France) StructId : 117617
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Language assessment remains essential in neuro-oncology.
+   Language deficits exist in patients with brain tumours and may persist
+   after surgery. The objective of this retrospective study is the
+   perioperative evaluation of the language of this population. The
+   neurosurgery speech therapists at Pasteur Hospital in Nice administered
+   a specific French language battery before and after the surgery,
+   including naming, semantic matching (BETL), repetition (BIA) and verbal
+   fluency (Cardebat) tests. We collected language test results from 42
+   patients with brain tumours before and after brain surgery. Then, we
+   analyzed the relationships between the presence of language deficits
+   and tumour aggressiveness; demographic data (age, sex, socio-cultural
+   level) and tumour data (hemispheric and lobar tumour topographies,
+   tumour types, evaluation times).
+   Our results showed that the average number of pathological language
+   tests is lower between preoperative/postoperative immediate assessments
+   and deferred postoperative assessment (20 to 6 pathological tests) (p =
+   0.0020). Thus, most patients regain normal language skills 1 month
+   after surgery. No correlation was shown between the average of
+   pathological language tests and tumour aggressiveness, demographic data
+   and tumour data (p > 0.05). The results obtained are qualified by
+   limitations : the heterogeneity of the distribution of the population
+   in statistical analyses, the heterogeneity of tumour pathologies. These
+   results encourage a similar future study with a larger number of
+   subjects and with the analysis of tumor volume and injured white matter
+   tracts as other factors influencing language.
+   Résumé : L’évaluation linguistique demeure essentielle en
+   neuro-oncologie. Des déficits linguistiques existent chez les patients
+   porteurs d’une tumeur cérébrale et peuvent persister après la
+   chirurgie.
+   L’objectif de cette étude rétrospective est l’évaluation
+   péri-opératoire du langage de cette population. Les orthophonistes de
+   neurochirurgie de l’hôpital Pasteur à Nice ont administré avant et
+   après la chirurgie une batterie spécifique linguistique française
+   incluant des épreuves de dénomination, appariement sémantique (BETL),
+   répétition (BIA) et fluences verbales (Cardebat). Nous avons recueilli
+   les résultats aux tests linguistiques de 42 patients porteurs d’une
+   tumeur cérébrale, à chaque temps péri-opératoire. Puis, nous avons
+   analysé les relations entre la présence de déficits linguistiques et
+   l’agressivité tumorale ; les données démographiques (âge, sexe, niveau
+   socio-culturel) et tumorales (topographies tumorales hémisphérique et
+   lobaire, type de tumeurs, temps péri-opératoires).
+   Nos résultats ont objectivé que la moyenne d’épreuves linguistiques
+   pathologiques est plus faible entre les évaluations
+   préopératoire/postopératoire immédiate et l’évaluation postopératoire
+   différée (de 20 à 6 épreuves pathologiques) (p = 0,0020). Ainsi, la
+   plupart des patients récupèrent des habiletés linguistiques normales 1
+   mois après la chirurgie. Aucune corrélation n’a été montrée entre la
+   moyenne d’épreuves linguistiques pathologiques et l’agressivité
+   tumorale, les données démographiques et les données tumorales (p >
+   0,05). Des limites viennent nuancer les résultats obtenus :
+   l’hétérogénéité de répartition de la population dans les analyses
+   statistiques.
+   Ces résultats encouragent une future étude similaire avec un plus grand
+   nombre de sujets et avec l’analyse du volume tumoral et des faisceaux
+   de substance blanche lésés comme autres facteurs influençant le
+   langage.
+   Mots-clés : Tumeur cérébrale Langage Liens anatomo-fonctionnels
+   Évaluation péri-opératoire Chirurgie cérébrale
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [111 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02175130
+   Contributeur : Bibliothèque Universitaire De Médecine de Nice <>
+   Soumis le : vendredi 5 juillet 2019 - 15:04:10
+   Dernière modification le : dimanche 21 juillet 2019 - 01:16:28
+
+Fichier
+
+   [small]
+   2019NICEMO05.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02175130, version 1
+
+Collections
+
+   MEM-UNIV-NICE | DUMAS | UNICE | UNIV-COTEDAZUR
+
+Citation
+
+   Camille Bosser. Étude péri-opératoire du langage chez les patients
+   porteurs d'une tumeur cérébrale. Médecine humaine et pathologie. 2019.
+   ⟨dumas-02175130⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+20
+
+   Téléchargements de fichiers
+
+27
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02190435, version 1
+
+Mise en place de NO ENDO : une base de données nationale pour l’endométriose
+et les dysménorrhées
+
+   Claire Figuier ^1 (BUTTON) Détails
+   1 FM - UCA - Faculté de Médecine - Clermont-Auvergne
+
+       Claire Figuier ^1 AuthorId : 11540077
+     Auteur
+
+   1 FM - UCA - Faculté de Médecine - Clermont-Auvergne (28, place
+   Henri-Dunant - BP 38 - 63001 Clermont-Ferrand Cedex 1 - France)
+   StructId : 481395
+     * UCA - Université Clermont Auvergne (49, bd François-Mitterrand / CS
+       60032 / 63001 Clermont-Ferrand Cedex 1 - France) StructId : 422708
+
+   (BUTTON) Masquer les détails
+   Résumé : Contexte : Les dysménorrhées sévères touchent une femme sur
+   quatre et l’endométriose touche 5 à 10 % des femmes en âge de procréer.
+   L’impact de cette maladie pour les patientes qui en sont atteintes est
+   majeur. Pourtant il n’existe aucun outil efficace de prise en charge
+   précoce et les parcours de soins restent très aléatoires. La
+   progression dans la connaissance et la prise en charge de cette maladie
+   doit passer par des outils numériques de suivi et par des systèmes de
+   base de données de grande ampleur Objectif : Notre objectif est de
+   créer une base de données nationale en endométriose et dysménorrhées,
+   NO ENDO, adossée à un dossier numérique de suivi dédié contenant toutes
+   les informations sur la maladie, afin de progresser sur les
+   connaissances et la prise en charge précoce et à long terme de ces
+   pathologies. Méthode : La création de la base à commencer par la
+   définition des données à renseigner, en comparant et ajustant celles de
+   six bases régionales déjà existantes. Ensuite nous avons mis au point
+   un outil numérique qui devait être un passeport de santé en travaillant
+   en collaboration avec une société spécialisée dans la donnée de santé.
+   Parallèlement, afin d’organiser les aspects administratifs, juridiques
+   et exécutifs de la base, qui n’appartiendra ni à un centre ni à un
+   acteur particulier, nous avons cherché à mettre en place une
+   organisation dédiée à la base. Résultats : La base de données contient
+   des données cliniques et paracliniques organisées en socle commun à
+   tous les centres et en briques particulières selon les spécificités
+   d’expertise des centres participants. Elle est adossée à un dossier
+   numérique constituant un passeport médical lié à la patiente tout au
+   long de son suivi : « ENDOpass ». Le consortium NO ENDO, dédié à la
+   base, permettra son organisation administrative, exécutive et répondra
+   aux questions de gestion de la base et d’appartenance des données.
+   Mots-clés : Endométriose Dysménorrhées Base de données Dossier
+   numérique Suivi Parcours de soin
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio]
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie /
+   Gynécologie et obstétrique
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [83 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02190435
+   Contributeur : Santé Uca <>
+   Soumis le : lundi 22 juillet 2019 - 14:35:48
+   Dernière modification le : mercredi 24 juillet 2019 - 01:23:38
+
+Fichier
+
+   [small]
+   Thèse_FIGUIER_Claire.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02190435, version 1
+
+Collections
+
+   MEM-UNIV-UCA | DUMAS | PRES_CLERMONT
+
+Citation
+
+   Claire Figuier. Mise en place de NO ENDO : une base de données
+   nationale pour l’endométriose et les dysménorrhées. Sciences du Vivant
+   [q-bio]. 2019. ⟨dumas-02190435⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+31
+
+   Téléchargements de fichiers
+
+16
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02269912, version 1
+
+L’importance de l’entourage dans la communication du jeune en situation de
+polyhandicap
+
+   Pauline Tirand ^1 (BUTTON) Détails
+   1 AMU MED - Aix-Marseille Université - Faculté de médecine
+
+       Pauline Tirand ^1 AuthorId : 11558480
+     Auteur
+
+   1 AMU MED - Aix-Marseille Université - Faculté de médecine (27 bd Jean
+   Moulin - 13385 Marseille cedex 5 - France) StructId : 412213
+     * AMU - Aix Marseille Université (Aix-Marseille Université Jardins du
+       Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7 - France)
+       StructId : 198056
+
+   (BUTTON) Masquer les détails
+   Résumé : La communication des jeunes en situation de polyhandicap est
+   complexe sur le plan de la compréhension et de l’expression. Une
+   enquête exploratoire auprès de professionnels accompagnant ce public,
+   nous a permis de mettre en avant l’importance de l’entourage dans la
+   Communication Alternative et Améliorée (CAA). La recherche étudie
+   l’identification les obstacles à l’engagement des parents et des
+   ergothérapeutes dans la modélisation du moyen de CAA. Au travers d’une
+   méthode différentielle et par des questionnaires destinés aux
+   ergothérapeutes et aux parents, l’analyse statistique montre que le
+   principal obstacle rencontré par les ergothérapeutes est le manque de
+   poursuite de la modélisation par l’entourage. Pour les parents le
+   principal obstacle est le manque de temps.
+   Mots-clés : Parents enfants Modélisation Engagement Ergothérapie
+   Polyhandicap Troubles de la communication chez l’enfant
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [103 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02269912
+   Contributeur : Ergothérapie Amu <>
+   Soumis le : vendredi 23 août 2019 - 13:57:04
+   Dernière modification le : mardi 27 août 2019 - 01:27:59
+
+Fichier
+
+   [small]
+   TIRAND Pauline UE 6.5 S6.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Licence
+
+   CC BY NC ND
+     __________________________________________________________________
+
+   Distributed under a Creative Commons Paternité - Pas d'utilisation
+   commerciale - Pas de modification 4.0 International License
+
+Identifiants
+
+     * HAL Id : dumas-02269912, version 1
+
+Collections
+
+   DUMAS | UNIV-AMU | MEM-UNIV-AMU
+
+Citation
+
+   Pauline Tirand. L’importance de l’entourage dans la communication du
+   jeune en situation de polyhandicap. Médecine humaine et pathologie.
+   2019. ⟨dumas-02269912⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+29
+
+   Téléchargements de fichiers
+
+9
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02117158, version 1
+
+La communication grand public sur les maladies chroniques : enjeux, impacts
+et limites
+
+   Justine Barbier ^1 (BUTTON) Détails
+   1 AMU PHARM - Aix-Marseille Université - Faculté de pharmacie
+
+       Justine Barbier ^1 AuthorId : 1173149
+     Auteur
+
+   1 AMU PHARM - Aix-Marseille Université - Faculté de pharmacie (27
+   boulevard Jean Moulin - CS 30064 - 13285 Marseille cedex 5 - France)
+   StructId : 416344
+     * AMU - Aix Marseille Université (Aix-Marseille Université Jardins du
+       Pharo 58 Boulevard Charles Livon 13284 Marseille cedex 7 - France)
+       StructId : 198056
+
+   (BUTTON) Masquer les détails
+   Résumé : Affections cardio-vasculaires, cancers, pathologies
+   respiratoires chroniques, diabète, sclérose en plaques ou encore
+   maladie d’Alzheimer, les maladies chroniques sont en augmentation
+   partout dans le monde, la France ne faisant pas exception. Ces maladies
+   nécessitent tout d’abord une prise en charge complexe et adaptée à
+   chaque malade, tant au niveau financier, qu’au niveau thérapeutique et
+   au niveau de l’accompagnement grâce à une équipe de soins formée et
+   bienveillante et un entourage présent et informé. De plus, ces maladies
+   chroniques représentent un enjeu majeur de santé publique, de par la
+   constante évolution de leur incidence et de leur prévalence au fil des
+   années. Cette évolution s’explique par de nombreux facteurs dont
+   certains liés au mode de vie et comportements des français (alcool,
+   tabac, alimentation non saine) mais aussi par le vieillissement de la
+   population. Le diagnostic tardif de ces maladies est également une
+   priorité majeure de santé publique ? Les institutions publiques
+   intègrent donc dans leurs plans nationaux de nombreuses actions et
+   programmes destinés à enrayer l’expansion de ces pathologies mais
+   également à améliorer la prise en charge des malades. Bien que
+   l’accompagnement et l’optimisation de la prise en charge de ces
+   pathologies soient une priorité de santé publique pour diminuer la
+   mortalité et la prévalence des maladies chroniques, l’information et la
+   sensibilisation du grand public, à travers une communication active de
+   la part de tous les acteurs de santé, seraient-ils aussi un moyen de
+   réduire l’incidence de ces affections et d’améliorer le diagnostic
+   précoce pour une meilleure efficacité des traitements ?
+   Mots-clés : Communication Maladies chroniques Grand public Prévention
+   Campagnes Sensibilisation Enjeux Impacts Limites
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Sciences pharmaceutiques
+   Sciences du Vivant [q-bio]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [19 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02117158
+   Contributeur : Pharmacie Amu <>
+   Soumis le : jeudi 2 mai 2019 - 09:22:46
+   Dernière modification le : samedi 4 mai 2019 - 01:28:09
+
+Fichier
+
+   [small]
+   BARBIER Justine. Thèse d'exer...
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02117158, version 1
+
+Collections
+
+   MEM-UNIV-AMUPHARMA | MEM-UNIV-AMU | DUMAS | PHARMA-AMU | UNIV-AMU
+
+Citation
+
+   Justine Barbier. La communication grand public sur les maladies
+   chroniques : enjeux, impacts et limites. Sciences pharmaceutiques.
+   2019. ⟨dumas-02117158⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+59
+
+   Téléchargements de fichiers
+
+49
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02183542, version 1
+
+Catégorisation par disciplines médicales du contenu éditorial des cinq
+revenus de santé les plus influentes
+
+   Pierre Balayé ^1 (BUTTON) Détails
+   1 UNIROUEN - UFR Santé
+
+       Pierre Balayé ^1 AuthorId : 11534088
+     Auteur
+
+   1 UNIROUEN - UFR Santé (22 boulevard Gambetta - CS 76183 - 76183 Rouen
+   cedex 1 - France) StructId : 169367
+     * UNIROUEN - Université de Rouen Normandie (1, rue Thomas Becket
+       76821 Mont-Saint-Aignan Cedex - France) StructId : 300318
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+
+   (BUTTON) Masquer les détails
+   Résumé : Contexte
+   Les grandes revues généralistes à haut facteur d'impact sont très
+   utiles dans la formation continue des médecins. Cependant, le contenu
+   éditorial de ces journaux a déjà été retrouvé divergent. L'objectif de
+   ce travail était d'estimer si la représentation des disciplines
+   médicales dans ces revues avait été différente sur la période
+   2005-2015.
+   Méthodes
+   Tous les articles ayant paru dans le Lancet, le New England Journal of
+   Medicine, le British Medical Journal et les Annals of Internai Medicine
+   entre 2005 et 2015 et indexés par la US National Library of Medicine,
+   furent analysés par un algorithme de catégorisation. Cet algorithme
+   repose sur des associations entre les termes MeSH utilisés pour
+   l'indexation de ces articles et les disciplines médicales représentées
+   par des superconcepts.
+   Résultats
+   Ce sont 72 928 articles qui furent analysés. Parmi ces articles, 59 143
+   (81,1%) ont inféré au moins un superconcept. Les cinq disciplines les
+   plus représentées sur l'ensemble des cinq revues étaient la santé
+   publique (7,0%), la cardiologie (5,5%), l'infectiologie (5,3%), la
+   neurologie (5,2%) et l'oncologie (5,2%). Néanmoins, seules trois
+   disciplines, l'infectiologie, la neurologie et l'oncologie se
+   trouvaient dans les 10 premières disciplines de chacun des journaux. La
+   santé publique n'occupait que la onzième place dans le NEJM. La
+   médecine générale occupait une place importante (3,6%) uniquement dans
+   le BMJ.
+   Conclusion
+   La représentation des disciplines médicales est différente dans les
+   cinq journaux étudiés. Se restreindre à la lecture de seulement
+   quelques revues majeures peut apporter une vision biaisée de la
+   production de la littérature scientifique.
+   Mots-clés : Bibliométrie Catégorisation Périodiques comme sujet
+   Statistiques et données numériques
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [94 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02183542
+   Contributeur : Bibliothèque Santé <>
+   Soumis le : lundi 15 juillet 2019 - 14:09:18
+   Dernière modification le : mercredi 17 juillet 2019 - 01:31:12
+
+Fichier
+
+   [small]
+   Banville Matthieu.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02183542, version 1
+
+Collections
+
+   COMUE-NORMANDIE | DUMAS | MEM-UNIV-ROUEN | UNIROUEN
+
+Citation
+
+   Pierre Balayé. Catégorisation par disciplines médicales du contenu
+   éditorial des cinq revenus de santé les plus influentes. Médecine
+   humaine et pathologie. 2019. ⟨dumas-02183542⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+18
+
+   Téléchargements de fichiers
+
+8
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   [Logo_DUMAS_1.jpg] HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Les derniers dépôts
+          + Par types de document
+          + Par domaines scientifiques
+          + Par mentions
+          + Par structures
+          + Par auteurs
+          + Par périodes
+          + Par collections
+          + Par membres de jury
+     * Rechercher
+     * Liens
+          + Les portails de Hal
+     * Documentation
+          + Préambule
+          + Compte et profil
+          + Conseils pour le dépôt
+
+   (BUTTON) dumas-02175130, version 1
+
+Étude péri-opératoire du langage chez les patients porteurs d'une tumeur
+cérébrale
+
+   Camille Bosser ^1 (BUTTON) Détails
+   1 UNS Orthophonie - Université Nice Sophia Antipolis - Département
+   d'orthophonie
+
+       Camille Bosser ^1 AuthorId : 11526742
+     Auteur
+
+   1 UNS Orthophonie - Université Nice Sophia Antipolis - Département
+   d'orthophonie (Faculté de Médecine - 28, avenue Valombrose - 06107 Nice
+   Cedex 2 - France) StructId : 473358
+     * UNS - Université Nice Sophia Antipolis (Parc Valrose - BP 2135 -
+       06103 Nice cedex 2 - France) StructId : 117617
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Language assessment remains essential in neuro-oncology.
+   Language deficits exist in patients with brain tumours and may persist
+   after surgery. The objective of this retrospective study is the
+   perioperative evaluation of the language of this population. The
+   neurosurgery speech therapists at Pasteur Hospital in Nice administered
+   a specific French language battery before and after the surgery,
+   including naming, semantic matching (BETL), repetition (BIA) and verbal
+   fluency (Cardebat) tests. We collected language test results from 42
+   patients with brain tumours before and after brain surgery. Then, we
+   analyzed the relationships between the presence of language deficits
+   and tumour aggressiveness; demographic data (age, sex, socio-cultural
+   level) and tumour data (hemispheric and lobar tumour topographies,
+   tumour types, evaluation times).
+   Our results showed that the average number of pathological language
+   tests is lower between preoperative/postoperative immediate assessments
+   and deferred postoperative assessment (20 to 6 pathological tests) (p =
+   0.0020). Thus, most patients regain normal language skills 1 month
+   after surgery. No correlation was shown between the average of
+   pathological language tests and tumour aggressiveness, demographic data
+   and tumour data (p > 0.05). The results obtained are qualified by
+   limitations : the heterogeneity of the distribution of the population
+   in statistical analyses, the heterogeneity of tumour pathologies. These
+   results encourage a similar future study with a larger number of
+   subjects and with the analysis of tumor volume and injured white matter
+   tracts as other factors influencing language.
+   Résumé : L’évaluation linguistique demeure essentielle en
+   neuro-oncologie. Des déficits linguistiques existent chez les patients
+   porteurs d’une tumeur cérébrale et peuvent persister après la
+   chirurgie.
+   L’objectif de cette étude rétrospective est l’évaluation
+   péri-opératoire du langage de cette population. Les orthophonistes de
+   neurochirurgie de l’hôpital Pasteur à Nice ont administré avant et
+   après la chirurgie une batterie spécifique linguistique française
+   incluant des épreuves de dénomination, appariement sémantique (BETL),
+   répétition (BIA) et fluences verbales (Cardebat). Nous avons recueilli
+   les résultats aux tests linguistiques de 42 patients porteurs d’une
+   tumeur cérébrale, à chaque temps péri-opératoire. Puis, nous avons
+   analysé les relations entre la présence de déficits linguistiques et
+   l’agressivité tumorale ; les données démographiques (âge, sexe, niveau
+   socio-culturel) et tumorales (topographies tumorales hémisphérique et
+   lobaire, type de tumeurs, temps péri-opératoires).
+   Nos résultats ont objectivé que la moyenne d’épreuves linguistiques
+   pathologiques est plus faible entre les évaluations
+   préopératoire/postopératoire immédiate et l’évaluation postopératoire
+   différée (de 20 à 6 épreuves pathologiques) (p = 0,0020). Ainsi, la
+   plupart des patients récupèrent des habiletés linguistiques normales 1
+   mois après la chirurgie. Aucune corrélation n’a été montrée entre la
+   moyenne d’épreuves linguistiques pathologiques et l’agressivité
+   tumorale, les données démographiques et les données tumorales (p >
+   0,05). Des limites viennent nuancer les résultats obtenus :
+   l’hétérogénéité de répartition de la population dans les analyses
+   statistiques.
+   Ces résultats encouragent une future étude similaire avec un plus grand
+   nombre de sujets et avec l’analyse du volume tumoral et des faisceaux
+   de substance blanche lésés comme autres facteurs influençant le
+   langage.
+   Mots-clés : Tumeur cérébrale Langage Liens anatomo-fonctionnels
+   Évaluation péri-opératoire Chirurgie cérébrale
+   Type de document :
+   Mémoires
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Médecine humaine et pathologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [111 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://dumas.ccsd.cnrs.fr/dumas-02175130
+   Contributeur : Bibliothèque Universitaire De Médecine de Nice <>
+   Soumis le : vendredi 5 juillet 2019 - 15:04:10
+   Dernière modification le : dimanche 21 juillet 2019 - 01:16:28
+
+Fichier
+
+   [small]
+   2019NICEMO05.pdf
+   Fichiers produits par l'(les) auteur(s)
+
+Identifiants
+
+     * HAL Id : dumas-02175130, version 1
+
+Collections
+
+   MEM-UNIV-NICE | DUMAS | UNICE | UNIV-COTEDAZUR
+
+Citation
+
+   Camille Bosser. Étude péri-opératoire du langage chez les patients
+   porteurs d'une tumeur cérébrale. Médecine humaine et pathologie. 2019.
+   ⟨dumas-02175130⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+20
+
+   Téléchargements de fichiers
+
+27

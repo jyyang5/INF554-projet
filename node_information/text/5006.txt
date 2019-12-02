@@ -1,0 +1,12 @@
+   {"totalPriceInclVat":"0,00","totalPriceExVat":"0,00","currencySymbol":n
+   ull,"totalTax":"0,00","vatPrice":"TTC","shipping":"0,00","hideVAT":fals
+   e}
+   Code promotion ____________________
+
+   Chargement (BUTTON) Utiliser
+   {"nomreg1":"Domaine"}
+
+   {"nomreg2":"Service"}
+
+   {"nomreg3":""}
+

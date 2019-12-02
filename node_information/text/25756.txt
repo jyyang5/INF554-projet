@@ -1,0 +1,1563 @@
+   #Brico-Info - le blog de Bruno CATTEAU » Flux Brico-Info - le blog de
+   Bruno CATTEAU » Flux des commentaires Brico-Info - le blog de Bruno
+   CATTEAU » Perte de l’accès Terminal Server après un changement d’IP
+   Flux des commentaires Freebox – mise à jour 1.22 Fabrication d’un
+   bureau / table en chêne alternate alternate
+
+   Brico-Info – le blog de Bruno CATTEAU
+
+Menu
+
+     * A propos
+
+   Rechercher : ____________________ Rechercher
+
+Perte de l’accès Terminal Server après un changement d’IP
+
+   Je suis resté bloqué pas mal de temps sur ce problème.
+   Le port 3389 correspondant au service Terminal Server n’était plus
+   écouté.
+   Le problème venait de la configuration du service qui n’écoutait le
+   port 3389 uniquement sur une carte  réseau qui n’existait plus (après
+   virtualisation du serveur et changement d’IP)
+   Avant :
+   [capture445.jpg]
+   Après :
+   [capture446.jpg]
+
+   Le résultat est immédiat et visible sur la commande nestat -a
+
+   Publié dans Informatique le septembre 28, 2012 par Bruno. Laisser un
+   commentaire
+
+   ← Freebox – mise à jour 1.22 Fabrication d’un bureau / table en chêne →
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   Laisser un commentaire
+
+   Rechercher : ____________________ Rechercher
+
+Publicité
+
+   [INS: :INS]
+
+Articles récents
+
+     * Potager – Culture verticale : 150 fraisiers sur 1,5 m²
+     * Réalisation d’un garde-corps en inox
+     * Installation d’un radiateur sèche serviettes, mixte et asymétrique
+       dans une petite salle de bain
+     * Conception et réalisation d’une table basse steampunk
+     * Conception et fabrication d’un poulailler connecté
+
+Commentaires récents
+
+     * Potager – sommaire – Brico-Info – le blog de Bruno CATTEAU dans
+       Potager – Contrôle d’électrovannes avec les Gpio du Raspberry Pi
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Julien dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+
+Réseaux sociaux :
+
+   Mon compte Instagram
+
+   Ma chaîne Youtube
+
+
+Inscription à la lettre d’information
+
+   Email ____________________
+   [ ] Je ne suis pas un robot
+   Inscription
+
+Catégories
+
+     * Actualités Lucca
+     * Aménagement atelier
+     * Aménagement étage
+     * Analyse de courbes
+     * Appentis de jardin
+     * Bac à sable
+     * Bricolage
+     * Buffet
+     * Coups de coeur
+     * Coups de gueule
+     * Cuisine
+     * Défi
+     * Fabrication de meubles
+     * Général
+     * Google applications
+     * Hors sujet !
+     * Informatique
+     * Lit commode
+     * Potager connecté
+     * Reflexions tardives…
+     * salle de bain et palier du 1er
+     * Tente quechua
+     * Tour à potier
+     * Uncategorized
+     * Véranda
+     * Viadéo
+
+Archives
+
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * mars 2018
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * août 2016
+     * février 2016
+     * décembre 2015
+     * août 2015
+     * juillet 2015
+     * avril 2015
+     * mars 2015
+     * décembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * février 2014
+     * octobre 2013
+     * septembre 2013
+     * mars 2013
+     * février 2013
+     * janvier 2013
+     * septembre 2012
+     * août 2012
+     * juin 2012
+     * mai 2012
+     * mars 2012
+     * janvier 2012
+     * septembre 2011
+     * juillet 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+     * août 2010
+     * juin 2010
+     * avril 2010
+     * mars 2010
+     * février 2010
+     * janvier 2010
+     * novembre 2009
+     * octobre 2009
+     * septembre 2009
+     * août 2009
+     * avril 2009
+     * mars 2009
+     * février 2009
+     * janvier 2009
+     * décembre 2008
+     * novembre 2008
+     * octobre 2008
+     * septembre 2008
+     * août 2008
+     * juin 2008
+     * mai 2008
+     * avril 2008
+     * mars 2008
+     * février 2008
+     * janvier 2008
+     * décembre 2007
+     * novembre 2007
+     * octobre 2007
+     * septembre 2007
+     * juillet 2007
+     * juin 2007
+     * mai 2007
+     * avril 2007
+     * mars 2007
+     * février 2007
+     * janvier 2007
+     * décembre 2006
+     * novembre 2006
+     * octobre 2006
+     * septembre 2006
+     * août 2006
+     * juillet 2006
+     * juin 2006
+     * mai 2006
+     * avril 2006
+     * mars 2006
+     * février 2006
+     * janvier 2006
+     * décembre 2005
+     * novembre 2005
+     * octobre 2005
+     * septembre 2005
+     * août 2005
+     * juillet 2005
+     * juin 2005
+     * mai 2005
+     * avril 2005
+     * mars 2005
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * Site de WordPress-FR
+
+   Fièrement propulsé par WordPress · Thème : Suits par Theme Weaver |
+   Traduction : Wolforg.
+
+   sponsored
+   #Brico-Info - le blog de Bruno CATTEAU » Flux Brico-Info - le blog de
+   Bruno CATTEAU » Flux des commentaires Brico-Info - le blog de Bruno
+   CATTEAU » Freebox – mise à jour 1.22 Flux des commentaires Home cinéma
+   – HDMI CEC Perte de l’accès Terminal Server après un changement d’IP
+   alternate alternate
+
+   Brico-Info – le blog de Bruno CATTEAU
+
+Menu
+
+     * A propos
+
+   Rechercher : ____________________ Rechercher
+
+Freebox – mise à jour 1.22
+
+   Dans un précédent article, je vous ai parlé de la mise à jour de la
+   freebox et de l’activation d’une fonctionnalité CEC permettant de faire
+   communiquer les différents appareils que composent un home cinéma.
+
+   La mise à jour 1.22 d’aujourd’hui
+   (http://www.iliad.fr/presse/2012/CP_110912.pdf) permet de regler les
+   derniers problèmes.
+
+   Je suis épaté par la qualité d’intégration de cette téchnologie.
+
+   La freebox reconnait un écran Sony et un ampli Onkyo et dialogue avec
+   eux.
+   [INS: :INS]
+
+   La deuxième fonctionnalité de cette mise à jour est le PIP : Picture In
+   Picture. J’y crois beaucoup moins. Trop caché dans les menus.
+
+   Publié dans Informatique le septembre 11, 2012 par Bruno. 2
+   commentaires
+
+   ← Home cinéma – HDMI CEC Perte de l’accès Terminal Server après un
+   changement d’IP →
+
+2 commentaires
+
+    1. [INS: :INS]
+    2.
+   Daniel MARTIN dit :
+       septembre 12, 2012 à 10:15
+       Je pense aussi que l’ergonomie actuelle de la fonction PIP est très
+       nettement perfectible, néanmoins je pense m’en servir (j’ai passé
+       la soirée d’hier à la triturée dans tous les sens :D)
+       Pour le CEC, je verrai ça quand ma TV cathodique 82cm écran plat
+       coin carré aura rendu l’âme 😮
+       Répondre
+    3.
+    4.
+   Bruno dit :
+       septembre 30, 2012 à 11:57
+       Mets une plante en pot en déco dessus et attends qu’un malheureux
+       arrosage regle le problème !
+       Répondre
+    5.
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   Laisser un commentaire
+
+   Rechercher : ____________________ Rechercher
+
+Publicité
+
+   [INS: :INS]
+
+Articles récents
+
+     * Potager – Culture verticale : 150 fraisiers sur 1,5 m²
+     * Réalisation d’un garde-corps en inox
+     * Installation d’un radiateur sèche serviettes, mixte et asymétrique
+       dans une petite salle de bain
+     * Conception et réalisation d’une table basse steampunk
+     * Conception et fabrication d’un poulailler connecté
+
+Commentaires récents
+
+     * Potager – sommaire – Brico-Info – le blog de Bruno CATTEAU dans
+       Potager – Contrôle d’électrovannes avec les Gpio du Raspberry Pi
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Julien dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+
+Réseaux sociaux :
+
+   Mon compte Instagram
+
+   Ma chaîne Youtube
+
+
+Inscription à la lettre d’information
+
+   Email ____________________
+   [ ] Je ne suis pas un robot
+   Inscription
+
+Catégories
+
+     * Actualités Lucca
+     * Aménagement atelier
+     * Aménagement étage
+     * Analyse de courbes
+     * Appentis de jardin
+     * Bac à sable
+     * Bricolage
+     * Buffet
+     * Coups de coeur
+     * Coups de gueule
+     * Cuisine
+     * Défi
+     * Fabrication de meubles
+     * Général
+     * Google applications
+     * Hors sujet !
+     * Informatique
+     * Lit commode
+     * Potager connecté
+     * Reflexions tardives…
+     * salle de bain et palier du 1er
+     * Tente quechua
+     * Tour à potier
+     * Uncategorized
+     * Véranda
+     * Viadéo
+
+Archives
+
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * mars 2018
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * août 2016
+     * février 2016
+     * décembre 2015
+     * août 2015
+     * juillet 2015
+     * avril 2015
+     * mars 2015
+     * décembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * février 2014
+     * octobre 2013
+     * septembre 2013
+     * mars 2013
+     * février 2013
+     * janvier 2013
+     * septembre 2012
+     * août 2012
+     * juin 2012
+     * mai 2012
+     * mars 2012
+     * janvier 2012
+     * septembre 2011
+     * juillet 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+     * août 2010
+     * juin 2010
+     * avril 2010
+     * mars 2010
+     * février 2010
+     * janvier 2010
+     * novembre 2009
+     * octobre 2009
+     * septembre 2009
+     * août 2009
+     * avril 2009
+     * mars 2009
+     * février 2009
+     * janvier 2009
+     * décembre 2008
+     * novembre 2008
+     * octobre 2008
+     * septembre 2008
+     * août 2008
+     * juin 2008
+     * mai 2008
+     * avril 2008
+     * mars 2008
+     * février 2008
+     * janvier 2008
+     * décembre 2007
+     * novembre 2007
+     * octobre 2007
+     * septembre 2007
+     * juillet 2007
+     * juin 2007
+     * mai 2007
+     * avril 2007
+     * mars 2007
+     * février 2007
+     * janvier 2007
+     * décembre 2006
+     * novembre 2006
+     * octobre 2006
+     * septembre 2006
+     * août 2006
+     * juillet 2006
+     * juin 2006
+     * mai 2006
+     * avril 2006
+     * mars 2006
+     * février 2006
+     * janvier 2006
+     * décembre 2005
+     * novembre 2005
+     * octobre 2005
+     * septembre 2005
+     * août 2005
+     * juillet 2005
+     * juin 2005
+     * mai 2005
+     * avril 2005
+     * mars 2005
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * Site de WordPress-FR
+
+   Fièrement propulsé par WordPress · Thème : Suits par Theme Weaver |
+   Traduction : Wolforg.
+
+   sponsored
+   #Brico-Info - le blog de Bruno CATTEAU » Flux Brico-Info - le blog de
+   Bruno CATTEAU » Flux des commentaires Brico-Info - le blog de Bruno
+   CATTEAU » Vider le cache local des DNS Flux des commentaires Un site
+   dédié à la tente 2 seconds Google Earth sur la table : je veux la même
+   alternate alternate
+
+   Brico-Info – le blog de Bruno CATTEAU
+
+Menu
+
+     * A propos
+
+   Rechercher : ____________________ Rechercher
+
+Vider le cache local des DNS
+
+   Après un changement de serveur DNS d’un domaine, il faut un certain
+   temps pour que l’information se propage sur l’ensemble des serveurs
+   DNS. Cela dit, sur un pays, c’est souvent très rapide mais le cache
+   local masque le changement.
+
+   Pour vider le cache DNS local et forcer le renouvellement, voila la
+   commande DOS
+
+   ipconfig /flushdns
+   [INS: :INS]
+
+   Sous DOS,  cette option est un peu masquée (ipconfig /?)
+
+   Voilà l’aide complète :
+
+   UTILISATION :
+       ipconfig [/? | /all | /renew [carte] | /release [carte] |
+                 /flushdns | /displaydns | /registerdns |
+                 /showclassid carte |
+                 /setclassid carte [ID de classe] ]
+
+   où :
+       carte          Nom de connexion
+                      (caractères génériques * et ? autorisés, voir les
+   exemples)
+   [INS: :INS]
+
+       Options :
+          /?           Affiche ce message d’aide.
+          /all         Affiche toutes les informations de configuration.
+          /release     Libère l’adresse IP pour la carte spécifiée.
+          /renew       Renouvelle l’adresse IP pour la carte spécifiée.
+          /flushdns    Vide le cache de la résolution DNS.
+          /registerdns Actualise tous les baux DHCP et réinscrit les noms
+   DNS.
+          /displaydns  Affiche le contenu du cache de la résolution DNS.
+          /showclassid Affiche tous les ID de classe DHCP autorisés pour
+   la carte.
+          /setclassid  Modifie l’ID de classe DHCP.
+
+   Par défaut, seuls l’adresse IP, le masque de sous-réseau et
+   la passerelle par défaut pour chaque carte liée à TCP/IP sont affichés.
+
+   Pour la libération et le renouvellement, si aucun nom de carte n’est
+   spécifié,
+   les baux d’adresse IP pour toutes les cartes liées à TCP/IP seront
+   libérés ou renouvelés.
+
+   Pour SetClassID, si aucun ID de classe n’est spécifié, l’ID de classe
+   est supprimé.
+
+   Exemples :
+       > ipconfig                   … Affiche les informations
+       > ipconfig /all              … Affiche les informations détaillées
+       > ipconfig /renew            … Renouvelle toutes les cartes
+       > ipconfig /renew EL*        … Renouvelle toute connexion dont le
+   nom
+                                        commence par EL
+       > ipconfig /release *Local*    … Libère les connexions
+   correspondantes,
+                                        par exemple « Connexion au réseau
+   local 1 » ou
+                                        « Connexion au réseau local 2 »
+   [INS: :INS]
+
+   Publié dans Informatique le juin 13, 2006 par Bruno. Laisser un
+   commentaire
+
+   ← Un site dédié à la tente 2 seconds Google Earth sur la table : je
+   veux la même →
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   Laisser un commentaire
+
+   Rechercher : ____________________ Rechercher
+
+Publicité
+
+   [INS: :INS]
+
+Articles récents
+
+     * Potager – Culture verticale : 150 fraisiers sur 1,5 m²
+     * Réalisation d’un garde-corps en inox
+     * Installation d’un radiateur sèche serviettes, mixte et asymétrique
+       dans une petite salle de bain
+     * Conception et réalisation d’une table basse steampunk
+     * Conception et fabrication d’un poulailler connecté
+
+Commentaires récents
+
+     * Potager – sommaire – Brico-Info – le blog de Bruno CATTEAU dans
+       Potager – Contrôle d’électrovannes avec les Gpio du Raspberry Pi
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Julien dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+
+Réseaux sociaux :
+
+   Mon compte Instagram
+
+   Ma chaîne Youtube
+
+
+Inscription à la lettre d’information
+
+   Email ____________________
+   [ ] Je ne suis pas un robot
+   Inscription
+
+Catégories
+
+     * Actualités Lucca
+     * Aménagement atelier
+     * Aménagement étage
+     * Analyse de courbes
+     * Appentis de jardin
+     * Bac à sable
+     * Bricolage
+     * Buffet
+     * Coups de coeur
+     * Coups de gueule
+     * Cuisine
+     * Défi
+     * Fabrication de meubles
+     * Général
+     * Google applications
+     * Hors sujet !
+     * Informatique
+     * Lit commode
+     * Potager connecté
+     * Reflexions tardives…
+     * salle de bain et palier du 1er
+     * Tente quechua
+     * Tour à potier
+     * Uncategorized
+     * Véranda
+     * Viadéo
+
+Archives
+
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * mars 2018
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * août 2016
+     * février 2016
+     * décembre 2015
+     * août 2015
+     * juillet 2015
+     * avril 2015
+     * mars 2015
+     * décembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * février 2014
+     * octobre 2013
+     * septembre 2013
+     * mars 2013
+     * février 2013
+     * janvier 2013
+     * septembre 2012
+     * août 2012
+     * juin 2012
+     * mai 2012
+     * mars 2012
+     * janvier 2012
+     * septembre 2011
+     * juillet 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+     * août 2010
+     * juin 2010
+     * avril 2010
+     * mars 2010
+     * février 2010
+     * janvier 2010
+     * novembre 2009
+     * octobre 2009
+     * septembre 2009
+     * août 2009
+     * avril 2009
+     * mars 2009
+     * février 2009
+     * janvier 2009
+     * décembre 2008
+     * novembre 2008
+     * octobre 2008
+     * septembre 2008
+     * août 2008
+     * juin 2008
+     * mai 2008
+     * avril 2008
+     * mars 2008
+     * février 2008
+     * janvier 2008
+     * décembre 2007
+     * novembre 2007
+     * octobre 2007
+     * septembre 2007
+     * juillet 2007
+     * juin 2007
+     * mai 2007
+     * avril 2007
+     * mars 2007
+     * février 2007
+     * janvier 2007
+     * décembre 2006
+     * novembre 2006
+     * octobre 2006
+     * septembre 2006
+     * août 2006
+     * juillet 2006
+     * juin 2006
+     * mai 2006
+     * avril 2006
+     * mars 2006
+     * février 2006
+     * janvier 2006
+     * décembre 2005
+     * novembre 2005
+     * octobre 2005
+     * septembre 2005
+     * août 2005
+     * juillet 2005
+     * juin 2005
+     * mai 2005
+     * avril 2005
+     * mars 2005
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * Site de WordPress-FR
+
+   Fièrement propulsé par WordPress · Thème : Suits par Theme Weaver |
+   Traduction : Wolforg.
+
+   sponsored
+   #Brico-Info - le blog de Bruno CATTEAU » Flux Brico-Info - le blog de
+   Bruno CATTEAU » Flux des commentaires Brico-Info - le blog de Bruno
+   CATTEAU » Script de test de connexion Flux des commentaires Projet
+   cuisine – 12. La faïence Conception et réalisation d’un lit commode
+   alternate alternate
+
+   Brico-Info – le blog de Bruno CATTEAU
+
+Menu
+
+     * A propos
+
+   Rechercher : ____________________ Rechercher
+
+Script de test de connexion
+
+   Quand on fait des applications web proféssionnelle orientées
+   utilisateurs, on est très sensible aux temps de réponse.
+     * Optimisation du code serveur (algorithme, nombre et structure des
+       requêtes SQL) pour le temps de génération coté serveur
+     * Optimisation de poids de la page final pour le temps de transfert
+       de la page via le réseau
+
+   Quand on fait de l’Ajax, on est aussi sensible à :
+     * Optimisation (regroupement et compression : ici ou là) des sources
+       javascript et mise en cache coté client pour un plus faible nombre
+       de connexions
+     * Optimisation du poids des images et utilisation de sprite pour un
+       plus faible nombre de connexions (exemple de sprite pour URBA)
+
+   D’autres pistes : http://developer.yahoo.com/performance/rules.html
+
+   Pour mettre en évidence l’intérêt d’optimiser le nombre de requêtes et
+   le poids des fichiers, j’ai mis en place un test web de la qualité de
+   sa connexion (c’est aussi pour répondre à des clients qui se plaignent
+   de la lenteur de nos applications sans penser un instant que ça
+   pourrait venir de la lenteur de leur connexion…)
+   [INS: :INS]
+
+   Ce test fait des téléchargements de pleins de fichiers de 150o, 1Ko,
+   5Ko, 50Ko, 100Ko, 500Ko, 1Mo et 5Mo et ressort des moyennes de
+   téléchargement par fichier.
+
+   Voilà le résultat pour ma connexion :
+
+   Test de téléchargement de 40 fichiers de 150 octets sur le serveur :
+   Moyenne : 1.97 Ko/s (15.73 Kbps)
+
+   Test de téléchargement de 30 fichiers de 0.98 Ko sur le serveur :
+   Moyenne : 11.91 Ko/s (95.29 Kbps)
+
+   Test de téléchargement de 20 fichiers de 4.88 Ko sur le serveur :
+   Moyenne : 58.9 Ko/s (471.21 Kbps)
+   [INS: :INS]
+
+   Test de téléchargement de 10 fichiers de 48.83 Ko sur le serveur :
+   Moyenne : 476.17 Ko/s (3.72 Mbps)
+
+   Test de téléchargement de 5 fichiers de 97.66 Ko sur le serveur :
+   Moyenne : 867.07 Ko/s (6.77 Mbps)
+
+   Test de téléchargement de 3 fichiers de 488.28 Ko sur le serveur :
+   Moyenne : 3.22 Mo/s (25.76 Mbps)
+
+   Test de téléchargement de 1 fichiers de 0.95 Mo sur le serveur :
+   Moyenne : 7.83 Mo/s (62.67 Mbps)
+
+   Test de téléchargement de 1 fichiers de 4.77 Mo sur le serveur :
+   Moyenne : 11.22 Mo/s (89.79 Mbps)
+   [INS: :INS]
+
+   Les débit de transfert s’élève avec la taille du fichier, d’où
+   l’importance de limiter le nombre d’accès au serveur en regroupant les
+   images dans des sprites, les sources JS dans une librairie unique et
+   les feuilles de style dans une feuille de style unique puis de placer
+   tout ce petit monde en cache client.
+   Cette différence s’explique aussi par le fait que ce taux de transfert
+   est vu du client et englobe la demande, le transfert et
+   l’interprétation. La partie transfert a plus d’importance sur les gros
+   fichiers.
+
+   Le lien vers le test (sur le serveur de mon blog) : test de connexion
+   (Je veux bien un mail avec vos résultats et la nature de votre
+   connexion web)
+   les sources sont disponibles : Sources du test (c’est un fichier HTML
+   avec de l’AJAX, rien de plus)
+
+   Quelques analyses de courbes : (c’est quand même le nom de la catégorie
+   !)
+
+   A partir de ma freebox, j’ai exécuté le même code sur deux serveurs
+   différents : un hébergé chez 1&1, un autre chez OVH. Sur OVH, j’ai vu
+   une vraie différence entre hier soir et ce matin, j’ai donc mis les
+   deux résultats (c’est un serveur mutualisé) alors que 1&1 est un
+   serveur dédié.
+
+   Visiblement on plafonne sur 1&1 qui garantie un débit minimum. Pour
+   garantir son débit minimum, il doit plafonner les débit.
+   [INS: :INS]
+
+   Un autre point important, c’est la compression GZIP de la connexion qui
+   est certainement optimisée sur OVH et peut être pas assez sur 1&1, je
+   prépare un deuxième test avec des fichiers non compressibles
+
+   Un zoom sur les petits fichiers montre que les résultats sont
+   comparables entre 1&1 et OVH, c’est du coup certaiement ma connexion
+   qui est limitante.
+
+   Voilà le résultat du test fait par des collègues entre autre. Ca
+   confirme que les freebox sont limitées à 50Ko/s sur des fichiers de
+   5Ko, là où des « non freebox » montent à 100Ko/s
+
+
+   Publié dans Analyse de courbes le janvier 25, 2009 par Bruno. Laisser
+   un commentaire
+
+   ← Projet cuisine – 12. La faïence Conception et réalisation d’un lit
+   commode →
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   Laisser un commentaire
+
+   Rechercher : ____________________ Rechercher
+
+Publicité
+
+   [INS: :INS]
+
+Articles récents
+
+     * Potager – Culture verticale : 150 fraisiers sur 1,5 m²
+     * Réalisation d’un garde-corps en inox
+     * Installation d’un radiateur sèche serviettes, mixte et asymétrique
+       dans une petite salle de bain
+     * Conception et réalisation d’une table basse steampunk
+     * Conception et fabrication d’un poulailler connecté
+
+Commentaires récents
+
+     * Potager – sommaire – Brico-Info – le blog de Bruno CATTEAU dans
+       Potager – Contrôle d’électrovannes avec les Gpio du Raspberry Pi
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Julien dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+
+Réseaux sociaux :
+
+   Mon compte Instagram
+
+   Ma chaîne Youtube
+
+
+Inscription à la lettre d’information
+
+   Email ____________________
+   [ ] Je ne suis pas un robot
+   Inscription
+
+Catégories
+
+     * Actualités Lucca
+     * Aménagement atelier
+     * Aménagement étage
+     * Analyse de courbes
+     * Appentis de jardin
+     * Bac à sable
+     * Bricolage
+     * Buffet
+     * Coups de coeur
+     * Coups de gueule
+     * Cuisine
+     * Défi
+     * Fabrication de meubles
+     * Général
+     * Google applications
+     * Hors sujet !
+     * Informatique
+     * Lit commode
+     * Potager connecté
+     * Reflexions tardives…
+     * salle de bain et palier du 1er
+     * Tente quechua
+     * Tour à potier
+     * Uncategorized
+     * Véranda
+     * Viadéo
+
+Archives
+
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * mars 2018
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * août 2016
+     * février 2016
+     * décembre 2015
+     * août 2015
+     * juillet 2015
+     * avril 2015
+     * mars 2015
+     * décembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * février 2014
+     * octobre 2013
+     * septembre 2013
+     * mars 2013
+     * février 2013
+     * janvier 2013
+     * septembre 2012
+     * août 2012
+     * juin 2012
+     * mai 2012
+     * mars 2012
+     * janvier 2012
+     * septembre 2011
+     * juillet 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+     * août 2010
+     * juin 2010
+     * avril 2010
+     * mars 2010
+     * février 2010
+     * janvier 2010
+     * novembre 2009
+     * octobre 2009
+     * septembre 2009
+     * août 2009
+     * avril 2009
+     * mars 2009
+     * février 2009
+     * janvier 2009
+     * décembre 2008
+     * novembre 2008
+     * octobre 2008
+     * septembre 2008
+     * août 2008
+     * juin 2008
+     * mai 2008
+     * avril 2008
+     * mars 2008
+     * février 2008
+     * janvier 2008
+     * décembre 2007
+     * novembre 2007
+     * octobre 2007
+     * septembre 2007
+     * juillet 2007
+     * juin 2007
+     * mai 2007
+     * avril 2007
+     * mars 2007
+     * février 2007
+     * janvier 2007
+     * décembre 2006
+     * novembre 2006
+     * octobre 2006
+     * septembre 2006
+     * août 2006
+     * juillet 2006
+     * juin 2006
+     * mai 2006
+     * avril 2006
+     * mars 2006
+     * février 2006
+     * janvier 2006
+     * décembre 2005
+     * novembre 2005
+     * octobre 2005
+     * septembre 2005
+     * août 2005
+     * juillet 2005
+     * juin 2005
+     * mai 2005
+     * avril 2005
+     * mars 2005
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * Site de WordPress-FR
+
+   Fièrement propulsé par WordPress · Thème : Suits par Theme Weaver |
+   Traduction : Wolforg.
+
+   sponsored
+   #Brico-Info - le blog de Bruno CATTEAU » Flux Brico-Info - le blog de
+   Bruno CATTEAU » Flux des commentaires Brico-Info - le blog de Bruno
+   CATTEAU » Conception et fabrication d’une niche technique multimédia –
+   home-cinéma Flux des commentaires Vêtements « Le bosseur » Mise en
+   place d’un mur de bambous alternate alternate
+
+   Brico-Info – le blog de Bruno CATTEAU
+
+Menu
+
+     * A propos
+
+   Rechercher : ____________________ Rechercher
+
+Conception et fabrication d’une niche technique multimédia – home-cinéma
+
+   Depuis la mise en place de la véranda, la circulation dans la maison a
+   complètement changé. Effectivement, on mange dans la véranda, on n’a
+   donc plus besoin d’aller de la cuisine au séjour.
+   Le deuxième constat est que l’on manque de murs pour mettre le canapé
+   ou la télé.
+   Enfin, une télé moderne, c’est une télé connectée, il faut donc la
+   brancher à plein d’appareils, avec plein de cables et ce n’est pas très
+   beau.
+   Voici donc le dernier projet : la niche technique multimédia (tout en
+   images !) :
+   [IMG_20110822_145825.jpg]
+   La porte d’avant, permettant de passer du salon à la cuisine. On
+   distingue aussi les câbles de la télé et la freebox TV qui traine.
+
+   [IMG_20110822_145836.jpg]
+   Coté cuisine, nous avons un beau mur qui n’attend qu’une chose,
+   accueillir un placard !
+   Maintenant, une simulation sur ordinateur :
+
+   Passons aux travaux :
+   [IMG_20110822_230732.jpg]
+   Le châssis de la porte, parti.
+   [INS: :INS]
+
+   [IMG_20110823_220851.jpg]
+
+   [IMG_20110824_152859.jpg]
+   Pour éviter de garder un interrupteur et une prise de courant au milieu
+   du mur…, on les déplace.
+
+
+   [IMG_20110826_172045.jpg]
+   A droite, l’interrupteur qui était à gauche avant. Je suis passé par la
+   cuisine, ce sera caché derrière le placard. On distingue aussi les 4
+   fixations maison pour la télé. 7€ à Leroy Merlin, 1cm d’épaisseur. Ne
+   cherchez pas à la fnac, vous ne trouverez pas !
+
+   [IMG_20110826_172114.jpg]
+   Boitier de répartition électrique. A gauche, c’est l’interrupteur de la
+   cuisine qui n’a plus rien à faire non plus le long de cette porte. De
+   même la prise de courant à l’intérieur de la cuisine a été redirigée
+   dans la véranda.
+
+   [IMG_20110829_142712.jpg]
+   Enfin, un accès à la cave à été créé pour permettre de passer les fils
+   des enceintes ainsi qu’un câble réseau et un câble HDMI pour une
+   connexion PC et un fil d’antenne pour une arrivée analogique, si jamais
+   plus rien de marche…
+   [INS: :INS]
+
+   [IMG_20110829_142749.jpg]
+   La même gaine, mais coté cave. Pour ne pas vous perdre, j’ai utilisé un
+   code couleur
+
+   [IMG_20110829_194144.jpg]
+   Placage d’un placo, histoire de ne pas fixer les montants n’importe ou.
+
+   [IMG_20110829_211259.jpg]
+   Pourquoi ne pas avoir fait cette structure en métal ? Je ne sais pas.
+   J’adore fixer le placo dans le bois, entendre la vis à placo hurler sa
+   mère.
+
+   [IMG_20110829_211312.jpg]
+
+   [IMG_20110831_093206.jpg]
+   Habillage en placo de la niche
+   [INS: :INS]
+
+   [IMG_20110831_093221.jpg]
+   Utilisation du MAP pour les petites différences de niveau… En 1900, on
+   n’était pas au cm…
+
+   [IMG_20110831_123028.jpg]
+
+   [IMG_20110901_094934.jpg]
+   Deuxième couche de MAP, j’attaque les bandes.
+
+   [IMG_20110901_094948.jpg]
+   Préparation de la partie électricité
+
+   [IMG_20110901_094958.jpg]
+   Vue de l’arrière. Le placard de la cuisine viendra se coller au fond de
+   la niche
+   [INS: :INS]
+
+   [IMG_20110901_203402.jpg]
+   Une fois les bandes terminées
+
+   [IMG_20110906_230614.jpg]
+   Une couche d’apprêt
+
+   [IMG_20110907_231351.jpg]
+   Installation de l’électricité après la couche de peinture calcaire 3.
+   On distingue un interrupteur pour la lumière et les deux trous pour les
+   spots, une prise antenne et 7 prises de courant. La loi de Murphy
+   indique qu’il n’y en a jamais assez…. On distingue aussi un trou au
+   fond permettant de passer les câbles vers la télé et les cables vers la
+   cave. Un trou a été refait au niveau de la télé pour que les câbles
+   soient invisibles.
+
+   [IMG_20110907_231412.jpg]
+   L’électricité coté cuisine
+
+   [IMG_20110909_223606.jpg]
+   Mise en place de la télé, on voit dans la niche une petite lumière
+   d’ambiance. Ce sont des LED non utilisées dans cuisine.
+   [INS: :INS]
+
+   [IMG_20110912_230728.jpg]
+   J’ai modifié un cadre toile de Leroy Merlin pour qu’il s’adapte à ma
+   télé. Quand on ne la regarde pas, on d’é-high-tech-rise le salon.
+   L’idée a été prise chez des amis Rennais qui ont caché un jeu
+   de fléchettes dans leur salon, ils se reconnaitront !
+
+   [IMG_20110912_230810.jpg]
+   On distingue une enceinte à gauche. La centrale a été placée dans la
+   partie basse de la niche, et les 4 autres ont été réparties dans le
+   salon, avec à chaque fois, un trou vers la cave pour un home cinéma
+   filaire dans un salon sans fil. Dans le placard à gauche de la télé,
+   j’ai remonté de la cave un câble HDMI, un câble réseau et une prise de
+   courant, ce qui permet de brancher un pc et de faire danser les
+   voisines !
+
+   Prochaine étape, le « mur placard » coté cuisine.
+
+   Publié dans Bricolage le septembre 21, 2011 par Bruno. 9 commentaires
+
+   ← Vêtements « Le bosseur » Mise en place d’un mur de bambous →
+
+9 commentaires
+
+    1. [INS: :INS]
+    2.
+   Fred dit :
+       septembre 22, 2011 à 4:51
+       Que dire ! Une fois de plus épate par le résultat et une belle
+       histoire racontée
+       Répondre
+    3.
+    4.
+   Chris dit :
+       septembre 22, 2011 à 8:08
+       La première chose qui me vient à l’esprit est waouh !!!
+       Félicitations, superbe réalisation !
+       Répondre
+    5.
+    6.
+   Sam dit :
+       septembre 22, 2011 à 4:14
+       Toujours aussi impressionnant, mais je dis « chapeau » ! Bien vu
+       l’idée de cacher la TV par un tableau 🙂
+       Répondre
+    7.
+    8.
+   Rv dit :
+       septembre 22, 2011 à 4:29
+       Bien vu , bien étudié, bien fait : tout est parfait et …. le coup
+       des voisines pas mal !!
+       Répondre
+    9.
+   10.
+   Bruno dit :
+       septembre 22, 2011 à 7:29
+       @Fred : 4:51 : pas mal !
+       @Chris : merci
+       @Sam : ha, il s’est reconnu !
+       @Rv : Merci. Quand est ce que vous passez pour la voir en vrai ?
+       Répondre
+   11.
+   12.
+   Elo dit :
+       septembre 23, 2011 à 10:04
+       J’adore ! Le cadre rend très bien ! je vois que vous avez changé de
+       canapé et acheté un beau tapis. Ca à l’air vraiment beau.
+       Répondre
+   13.
+   14.
+   Bruno dit :
+       septembre 23, 2011 à 5:58
+       Salut Elodie,
+       Va falloir venir faire une inspection un de ces we !
+       Répondre
+   15.
+   16.
+   Bruno dit :
+       septembre 23, 2011 à 6:56
+       C’est vrai que le tapis, c’est aussi une idée de chez vous !
+       Répondre
+   17.
+   18.
+   Fred dit :
+       novembre 20, 2011 à 6:38
+       MAP ??
+       le MAP c’est de la colle, j’espère que tu jointes pas au MAP.
+       Répondre
+   19.
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   Laisser un commentaire
+
+   Rechercher : ____________________ Rechercher
+
+Publicité
+
+   [INS: :INS]
+
+Articles récents
+
+     * Potager – Culture verticale : 150 fraisiers sur 1,5 m²
+     * Réalisation d’un garde-corps en inox
+     * Installation d’un radiateur sèche serviettes, mixte et asymétrique
+       dans une petite salle de bain
+     * Conception et réalisation d’une table basse steampunk
+     * Conception et fabrication d’un poulailler connecté
+
+Commentaires récents
+
+     * Potager – sommaire – Brico-Info – le blog de Bruno CATTEAU dans
+       Potager – Contrôle d’électrovannes avec les Gpio du Raspberry Pi
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Julien dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+     * Bruno dans Conception et fabrication d’un poulailler connecté
+
+Réseaux sociaux :
+
+   Mon compte Instagram
+
+   Ma chaîne Youtube
+
+
+Inscription à la lettre d’information
+
+   Email ____________________
+   [ ] Je ne suis pas un robot
+   Inscription
+
+Catégories
+
+     * Actualités Lucca
+     * Aménagement atelier
+     * Aménagement étage
+     * Analyse de courbes
+     * Appentis de jardin
+     * Bac à sable
+     * Bricolage
+     * Buffet
+     * Coups de coeur
+     * Coups de gueule
+     * Cuisine
+     * Défi
+     * Fabrication de meubles
+     * Général
+     * Google applications
+     * Hors sujet !
+     * Informatique
+     * Lit commode
+     * Potager connecté
+     * Reflexions tardives…
+     * salle de bain et palier du 1er
+     * Tente quechua
+     * Tour à potier
+     * Uncategorized
+     * Véranda
+     * Viadéo
+
+Archives
+
+     * mai 2019
+     * avril 2019
+     * mars 2019
+     * février 2019
+     * mars 2018
+     * juin 2017
+     * mai 2017
+     * avril 2017
+     * août 2016
+     * février 2016
+     * décembre 2015
+     * août 2015
+     * juillet 2015
+     * avril 2015
+     * mars 2015
+     * décembre 2014
+     * octobre 2014
+     * septembre 2014
+     * août 2014
+     * février 2014
+     * octobre 2013
+     * septembre 2013
+     * mars 2013
+     * février 2013
+     * janvier 2013
+     * septembre 2012
+     * août 2012
+     * juin 2012
+     * mai 2012
+     * mars 2012
+     * janvier 2012
+     * septembre 2011
+     * juillet 2011
+     * juin 2011
+     * mai 2011
+     * avril 2011
+     * mars 2011
+     * février 2011
+     * janvier 2011
+     * décembre 2010
+     * novembre 2010
+     * octobre 2010
+     * septembre 2010
+     * août 2010
+     * juin 2010
+     * avril 2010
+     * mars 2010
+     * février 2010
+     * janvier 2010
+     * novembre 2009
+     * octobre 2009
+     * septembre 2009
+     * août 2009
+     * avril 2009
+     * mars 2009
+     * février 2009
+     * janvier 2009
+     * décembre 2008
+     * novembre 2008
+     * octobre 2008
+     * septembre 2008
+     * août 2008
+     * juin 2008
+     * mai 2008
+     * avril 2008
+     * mars 2008
+     * février 2008
+     * janvier 2008
+     * décembre 2007
+     * novembre 2007
+     * octobre 2007
+     * septembre 2007
+     * juillet 2007
+     * juin 2007
+     * mai 2007
+     * avril 2007
+     * mars 2007
+     * février 2007
+     * janvier 2007
+     * décembre 2006
+     * novembre 2006
+     * octobre 2006
+     * septembre 2006
+     * août 2006
+     * juillet 2006
+     * juin 2006
+     * mai 2006
+     * avril 2006
+     * mars 2006
+     * février 2006
+     * janvier 2006
+     * décembre 2005
+     * novembre 2005
+     * octobre 2005
+     * septembre 2005
+     * août 2005
+     * juillet 2005
+     * juin 2005
+     * mai 2005
+     * avril 2005
+     * mars 2005
+
+Méta
+
+     * Inscription
+     * Connexion
+     * Flux RSS des articles
+     * RSS des commentaires
+     * Site de WordPress-FR
+
+   Fièrement propulsé par WordPress · Thème : Suits par Theme Weaver |
+   Traduction : Wolforg.
+
+   sponsored

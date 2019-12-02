@@ -1,0 +1,889 @@
+    #ZATAZ » Flux ZATAZ » Flux des commentaires ZATAZ » Pacemaker : plus
+   de 8 600 failles découvertes Flux des commentaires alternate alternate
+
+     * Surfer ANONYME
+     * Créer votre ligne téléphonique surtaxée gratuitement
+
+   [— Top Menu —________________________________________....]
+   Submit
+   ____________________
+   facebook
+   linkedin
+   rss
+   twitter
+   youtube
+   email
+   Nous joindre par : 0890 170 001*
+   [INS: :INS]
+   [— Main Menu —__________________....]
+     * Une
+     * CyberSécurité
+          + Actualités
+          + Fuite de données
+          + Infos CyberSécurité
+     * Hacking
+          + Les Actualités
+          + Codes malveillants
+          + Espionnage
+          + infiltration
+     * Fuites de données
+     * Sécurité réseaux sociaux
+          + Actualités
+          + Fuite de données
+     * Protocole Alerte
+          + EN SAVOIR PLUS
+          + CONTACTER LE PROTOCOLE D’ALERTE
+          + ALERTES EN COURS
+               o ALERTES EN COURS 2019
+               o Anciennes Alertes
+                    # Protocoles 2018
+                    # Alertes ZATAZ 2016 – 2017
+                    # Alertes 2015
+                         @ Alertes ZATAZ en cours
+                         @ Alertes ZATAZ en cours 2
+                         @ Alertes ZATAZ en cours 3
+                         @ Alertes ZATAZ en cours 4
+                         @ Alertes ZATAZ en cours 5
+                         @ Alertes ZATAZ en cours 6
+                         @ Alertes ZATAZ en cours 7
+                         @ Alertes ZATAZ en cours 8
+                         @ ZATAZ Alertes en cours 9
+     * Service Veille ZATAZ
+          + En savoir plus
+          + Abonnez-vous à partir de 1,99€
+     * iTrust Community
+     * IS Decisions
+
+   BREAKING NEWS
+   Dissidents : Certificats TLS modifiés, des Russes à la manœuvre?
+   Google propose de vérifier et protéger votre compte
+   Six importantes plateformes sociales piratées
+   Stockage pirate : mais a qui sont ces 2 000 sites web piratés ?
+   Piratage : fuite de 350 millions d’identifiants de connexion
+   Appels frauduleux au nom d’Intermarché, ZATAZ a téléphoné
+   Ransomware : mise à jour des décrypteur pour Yatron et FortuneCrypt
+   Rheinmetall : un ransomware perturbe la production d’un important
+   fabriquant d’armes
+   Black-market: le data center Bulletproof Hoster fermé
+   Espionnage chez Airbus ? ZATAZ vous montre trop de possibilités !
+   fuite de dossiers patients pacemaker infiltre dispositif
+   d’accompagnement de cybersécurité Pharmaciens
+
+Pacemaker : plus de 8 600 failles découvertes
+
+   Posted On 29 Mai 2017
+   By : Damien Bancal
+   Comment: 0
+   Tag: défibrilateur, hack, pacemaker, sécurité
+
+Des chercheurs en sécurité ont découvert plus de 8 600 vulnérabilités dans
+les systèmes de pacemaker et les bibliothèques tierces utilisées pour
+alimenter les cœurs sous défibrillateur cardiaque.
+
+   Plus de 8 600 vulnérabilités et bugs, voilà le chiffre très étonnant
+   annoncé par les chercheurs en sécurité de chez WhiteScope. Des
+   problèmes visant des défibrillateurs cardiaques, mais aussi les
+   logiciels et composants permettant le bon fonctionnement d’un
+   pacemaker. Les chercheurs ont découvert ces défauts dans sept produits
+   différents, appartenant à quatre fabricants différents. Ces problèmes
+   sont détaillés en profondeur dans un rapport que l’équipe vient de
+   publier. La plupart des vulnérabilités se trouvent dans des
+   bibliothèques tierces. Les recherches se sont portées sur des
+   dispositifs implantables radio-contrôlés tels que les stimulateurs
+   cardiaques, les défibrillateurs cardiovasculaires implantables (ICD),
+   les générateurs d’impulsions et la gestion du rythme cardiaque (CRM).
+   Ce que les chercheurs ont constaté : la plupart de ces systèmes de
+   stimulateurs cardiaques fonctionnent sur une architecture similaire qui
+   inclue le périphérique médical implanté, un dispositif de surveillance
+   à domicile, une infrastructure basée sur le cloud qui transmet des
+   données à un médecin et un programmeur de pacemaker, utilisé par les
+   médecins traitant.
+
+Des défauts de conception de base
+
+   Les chercheurs se sont rendus compte que les programmeurs de pacemaker,
+   et le stimulateur cardiaque implanté d’une même société ne
+   s’authentifiaient pas mutuellement. Bilan, un pirate qui se rapproche
+   de la victime peut modifier les paramètres de l’implant. Imaginez, être
+   capable de réduire la fréquence de l’appareil. De quoi provoquer un
+   malaise. Un crime « presque » parfait. De même, les programmeurs de
+   pacemaker ne nécessitent pas que les médecins s’authentifient sur le
+   périphérique. Un docteur qui se fait voler le matériel et le drame est
+   à la porté d’un clic de souris criminel. Dernier point que j’ai pu
+   relever dans l’étude, les systèmes de pacemaker stockent des données
+   sur des supports non chiffrés. Bref, pirater le cœur humain ne semble
+   pas simple, mais n’est clairement plus impossible !
+
+   Depuis le début des années 2000, les pacemakers font parler de leur
+   manque de sécurité. L’U.S. Department of Health and Human Services et
+   la FDA [Food and Drug administration] ont publié en octobre 2014 un
+   guide dédié aux bonnes pratiques intitulé « Content of Premarket
+   Submissions for Management of Cybersecurity in Medical Devices ». En
+   2008, des chercheurs expliquaient au New York Times comment il leur
+   avait été possible de manipuler du matériel médical. L’expérience avait
+   cependant exigé plus de 30 000 $ de matériel de laboratoire et
+   plusieurs équipes de spécialistes des Universités de Washington et du
+   Massachusetts pour interpréter les données recueillies à partir des
+   signaux de l’implant « hacké ». En 2012, un chercheur de chez IOActive,
+   Jack Barnaby, avait démontré comment il était possible de délivrer un
+   choc mortel [830 volts] via la prise de contrôle d’un logiciel de
+   gestion qui gérait, à l’époque, 4,6 millions de stimulateurs cardiaques
+   dans le monde.
+
+Au sujet de l'auteur
+
+   Damien Bancal - Fondateur de ZATAZ.COM / DataSecurityBreach.fr -
+   Journaliste - Travaille sur les sujets
+   High-tech/Cybercriminalité/Cybersécurité depuis 1989. En savoir plus :
+   https://www.damienbancal.fr
+     * [facebook.png]
+     * [twitter.png]
+     * [linkedin.png]
+
+   Previous Story
+
+DownSec Belgium : 15 mois de prison demandés par la justice Belge
+
+   Next Story
+
+Vidéo surveillance : des centaines de caméras françaises piratées par… Hitler
+!
+
+Articles connexes
+
+   0
+
+La sécurité du stockage dans le Cloud
+
+   Posted On 27 Mai 2019
+   , By Damien Bancal
+   0
+
+Infiltration pour un site du groupe Generali. La BDD à vendre !
+
+   Posted On 12 Mai 2019
+   , By Damien Bancal
+   eGobbler
+   1
+
+eGobbler : Une campagne publicitaire piégée a visé les utilisateurs
+d’appareils Apple
+
+   Posted On 22 Avr 2019
+   , By Damien Bancal
+   service SMTP
+   0
+
+4 jours de panne après un piratage chez Domaine.fr
+
+   Posted On 13 Jan 2019
+   , By Damien Bancal
+   The Dark Overlord
+   3
+
+Des révélations sur les attentats de 11 septembre volés à des cabinets
+d’avocats
+
+   Posted On 04 Jan 2019
+   , By Damien Bancal
+   rentrée ghost project projet fantôme
+   2
+
+Rentrée ! Les 15 infos cybersecurite que vous avez peut-être raté cet été
+
+   Posted On 26 Août 2018
+   , By Damien Bancal
+   0
+
+2 millions de clients T-Mobile piratés
+
+   Posted On 26 Août 2018
+   , By Damien Bancal
+   enceintes connectées
+   0
+
+Enceintes connectées, attention à vos données personnelles
+
+   Posted On 27 Juin 2018
+   , By Damien Bancal
+   telegram
+   0
+
+Une faille de sécurité découverte dans la messagerie Telegram
+
+   Posted On 13 Fév 2018
+   , By Damien Bancal
+   CoinHive
+   0
+
+Le roi du minage de cryptomonnaie, CoinHive, piraté
+
+   Posted On 24 Oct 2017
+   , By Damien Bancal
+   des pirates Russes Mairie et fuite de données cyberattaques en Europe
+   4
+
+Encore une fuite de données pour la NSA signée par des pirates Russes ?
+
+   Posted On 05 Oct 2017
+   , By Damien Bancal
+   cibles de piratages informatiques
+   3
+
+Des soldats de l’OTAN cibles de piratages informatiques de smartphone ?
+
+   Posted On 05 Oct 2017
+   , By Damien Bancal
+   Justice réparatrice Apache Struts
+   1
+
+Arnaques informatiques : Les boîtes mail, cibles de choix pour pirates
+
+   Posted On 24 Août 2017
+   , By Damien Bancal
+   domaines malveillants liberia
+   0
+
+Il piratait pour le compte d’une entreprise basée au Liberia
+
+   Posted On 03 Août 2017
+   , By Damien Bancal
+   piéger
+   3
+
+Votre ordinateur a été piraté ? De faux articles via Facebook tentent de vous
+piéger
+
+   Posted On 01 Juin 2017
+   , By Damien Bancal
+   sirènes de secours
+   0
+
+WatchDogs : les sirènes de secours de la Ville de Dallas Piratées
+
+   Posted On 10 Avr 2017
+   , By Damien Bancal
+   protection des appareils mobiles
+   0
+
+Protection des appareils mobiles chez les Députés et Sénateurs
+
+   Posted On 31 Mar 2017
+   , By Damien Bancal
+   Facebook Hollande
+   0
+
+Le Facebook de François Hollande piraté
+
+   Posted On 30 Mar 2017
+   , By Damien Bancal
+   qwertyoruiop
+   0
+
+1er hack pour la Switch de Nintendo signé qwertyoruiop
+
+   Posted On 13 Mar 2017
+   , By Damien Bancal
+   snapchat arnaque
+   1
+
+Le fake du piratage des photos Snapchat
+
+   Posted On 23 Fév 2017
+   , By Damien Bancal
+
+Laisser un commentaire Annuler la réponse
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ______________________________Name *
+   ______________________________Email *
+   ______________________________Website
+
+   __  +  5  =  onze
+
+   Post Comment
+
+   Ce site utilise Akismet pour réduire les indésirables. En savoir plus
+   sur comment les données de vos commentaires sont utilisées.
+
+Partenaires
+
+                              French Connexion
+
+                             Oceanet Technology
+                              French Connexion
+                Free GData France Cabinet d'Avocats Desmarais
+
+ZATAZ sur Qwant
+
+                               ZATAZ sur Qwant
+
+Goodies ZATAZ
+
+Publicité
+
+   [INS: :INS]
+
+RSS Data Security
+
+     * DFIR ORC : un outil de collecte libre pour l’analyse forensique
+       26/09/2019
+     * MFA : authentification multi-facteurs 26/09/2019
+     * Collectivités territoriales : un guide de sensibilisation au RGPD
+       18/09/2019
+     * En 3 ans, le nombre d’attaques ciblant des objets connectés a
+       augmenté de 13497% 14/09/2019
+     * Les cybercriminels misent toujours davantage sur les techniques de
+       contournement des antimalwares 14/09/2019
+     * Selon le FBI, les attaques BEC auraient coûté 26 milliards de
+       dollars aux entreprises 14/09/2019
+     * Stealth Falcon : Des attaques cibles des politiques au Moyen-Orient
+       14/09/2019
+     * Tentative de piratage CoinHouse 14/09/2019
+     * Fraude aux adresses IPv4 14/09/2019
+     * Microsoft et navigateurs : 79 vulnérabilités corrigées 11/09/2019
+     * Un tiers des Français seraient prêts à vendre leurs données
+       personnelles à un inconnu 05/09/2019
+     * Des failles de sécurité dans des traceurs GPS 05/09/2019
+     * Nouvelle tactique furtive de faux-clics publicitaires dans des apps
+       du Google Play Store 02/09/2019
+     * Hausse de 265 % des événements liés aux attaques sans fichiers !
+       02/09/2019
+     * Testé pour vous, la clé double authentification SoloKeys 30/08/2019
+     * La Gendarmerie Nationale coupe l’infiltration de Retadup 27/08/2019
+
+SURVEILLER LES PIRATES
+
+                  Choisissez votre pays et surfez anonyme !
+
+Rechercher une info
+
+   _______________________________ Rechercher
+
+Chaque jour, ZATAZ News par mail
+
+   Entrez une adresse mail
+
+   ____________________
+   Subscribe
+
+   Sans publicité - FeedBurner
+
+Publicités
+
+                                 [INS: :INS]
+
+Radio / TV
+
+              Damien Bancal - Chronique cybersécurité WEO TV
+         Damien Bancal - Chronique cybersécurité France Bleu Nord
+
+ZATAZ Partenaires
+
+                                Le hack Paris
+                          HackFest Quebec - Canada
+                                Hack in Paris
+   ZATAZ partenaire du Forum International de la Cybersécurité depuis 10
+                                     ans
+
+Communauté Facebook
+
+                   - "J'aime" transfert des infos à FB. -
+
+     ZATAZ
+
+Les + commentés
+
+   Loi Fake News Patchs Tuesday chantage par mail
+
+Retour du chantage par mail : je vous vois à poil !
+
+   204 Comments
+   Escroquerie - Plusieurs dizaines de lecteurs de ZATAZ m'ont alerté d'un
+   étrange courriel reçu. Il contient le mot de passe des cibles et
+   réclame de l'argent pour ne pas en divulguer plus. ZATAZ va vous
+   expliquer le fond de l'arnaque.
+
+Escroquerie : chantage par mail à l'encontre de milliers de Français
+
+   191 Comments
+   Chantage
+
+Chantage par mail : NON vous n'avez pas été piraté
+
+   135 Comments
+
+Calendrier
+
+   CAPTION: octobre 2019
+
+   L  M  M  J  V  S  D
+   « Sep
+      1  2  3  4  5  6
+   7  8  9  10 11 12 13
+   14 15 16 17 18 19 20
+   21 22 23 24 25 26 27
+   28 29 30 31
+
+Twitter officiels
+
+                                   @zataz
+                              @Protocole_ZATAZ
+                               @Damien_Bancal
+
+Data Leak : Service veille ZATAZ
+
+   :: Alertes envoyées au 01/10/2019 : 1406
+   :: Espaces pirates sous surveillance : 2 297
+   :: Fuites constatées : +888 millions
+   :: dataleak.exposed
+
+Protocole d’alerte ZATAZ
+
+   :: Protocole ZATAZ : 70 235
+   :: Taux de correction (50 derniers cas) : 89 %
+   :: Alerter anonymement.
+
+Divers
+
+   Identifiant Keybase.io
+   Remonter un problème.
+   Mentions légales.
+   Certaines images viennent de Freepik.
+
+Sur le Oueb
+
+   :: Revue de presse : ZATAZ Revue de presse
+   :: ZATAZ Podcast TV : ZATAZ TV / Youtube.
+   :: DSB : Data Security Breach
+   :: Page officielle Damien Bancal
+   Copyright 1996 - 2019 :: ZATAZ - Réalisation DB. - Le site OFFICIEL est
+   ZATAZ.COM - Le reste ne serait que contrefaçon Tél. : 0890 170 001 -
+   *(0.15€/min)
+    #ZATAZ » Flux ZATAZ » Flux des commentaires ZATAZ » Media : Piratage
+   du site Internet de TélécâbleSat Flux des commentaires alternate
+   alternate
+
+     * Surfer ANONYME
+     * Créer votre ligne téléphonique surtaxée gratuitement
+
+   [— Top Menu —________________________________________....]
+   Submit
+   ____________________
+   facebook
+   linkedin
+   rss
+   twitter
+   youtube
+   email
+   Nous joindre par : 0890 170 001*
+   [INS: :INS]
+   [— Main Menu —__________________....]
+     * Une
+     * CyberSécurité
+          + Actualités
+          + Fuite de données
+          + Infos CyberSécurité
+     * Hacking
+          + Les Actualités
+          + Codes malveillants
+          + Espionnage
+          + infiltration
+     * Fuites de données
+     * Sécurité réseaux sociaux
+          + Actualités
+          + Fuite de données
+     * Protocole Alerte
+          + EN SAVOIR PLUS
+          + CONTACTER LE PROTOCOLE D’ALERTE
+          + ALERTES EN COURS
+               o ALERTES EN COURS 2019
+               o Anciennes Alertes
+                    # Protocoles 2018
+                    # Alertes ZATAZ 2016 – 2017
+                    # Alertes 2015
+                         @ Alertes ZATAZ en cours
+                         @ Alertes ZATAZ en cours 2
+                         @ Alertes ZATAZ en cours 3
+                         @ Alertes ZATAZ en cours 4
+                         @ Alertes ZATAZ en cours 5
+                         @ Alertes ZATAZ en cours 6
+                         @ Alertes ZATAZ en cours 7
+                         @ Alertes ZATAZ en cours 8
+                         @ ZATAZ Alertes en cours 9
+     * Service Veille ZATAZ
+          + En savoir plus
+          + Abonnez-vous à partir de 1,99€
+     * iTrust Community
+     * IS Decisions
+
+   BREAKING NEWS
+   Dissidents : Certificats TLS modifiés, des Russes à la manœuvre?
+   Google propose de vérifier et protéger votre compte
+   Six importantes plateformes sociales piratées
+   Stockage pirate : mais a qui sont ces 2 000 sites web piratés ?
+   Piratage : fuite de 350 millions d’identifiants de connexion
+   Appels frauduleux au nom d’Intermarché, ZATAZ a téléphoné
+   Ransomware : mise à jour des décrypteur pour Yatron et FortuneCrypt
+   Rheinmetall : un ransomware perturbe la production d’un important
+   fabriquant d’armes
+   Black-market: le data center Bulletproof Hoster fermé
+   Espionnage chez Airbus ? ZATAZ vous montre trop de possibilités !
+
+Media : Piratage du site Internet de TélécâbleSat
+
+   Posted On 17 Sep 2015
+   By : Damien Bancal
+   Comment: 0
+   Tag: fuite de données, média, piratage
+
+   Le site Internet du magazine spécialisé dans les programmes des chaînes
+   de télévisions par câble et satellite, TélécâbleSat, piraté. Les
+   données des lecteurs volés.
+
+   13.833 comptes clients, c’est le chiffre que la rédaction de Zataz a pu
+   constater dans un document diffusé sur Internet par un pirate
+   informatique spécialisé dans le vol de base de données. La cible de cet
+   intrus, le site Internet telecablesat.fr, un journal Français
+   spécialisé dans les programmes télévisuels des chaînés Tv satellites et
+   du câble.
+
+   tvsat Le pirate n’a pas expliqué sa méthode mais a diffusé dans un
+   forum privé caché dans le dark net le moyen d’accéder à un extrait de
+   ce qu’il a volé. Dans la liste, des milliers de mails et mots de passe
+   appartenant aux abonnés de ce site web. L’entreprise a été alertée par
+   un Protocole d’Alerte de ZATAZ mais n’a pas donné suite.
+
+   Nous conseillons aux lecteurs et abonnés de changer leur mot de passe
+   et de prêter attention aux courriels pouvant leur être communiqués aux
+   couleurs de cette enseigne, avec une véritable possibilité
+   d’escroquerie par usurpation d’identité.
+
+Au sujet de l'auteur
+
+   Damien Bancal - Fondateur de ZATAZ.COM / DataSecurityBreach.fr -
+   Journaliste - Travaille sur les sujets
+   High-tech/Cybercriminalité/Cybersécurité depuis 1989. En savoir plus :
+   https://www.damienbancal.fr
+     * [facebook.png]
+     * [twitter.png]
+     * [linkedin.png]
+
+   Previous Story
+
+Assurance et cyber crime, les entreprises doivent se défendre en amont
+
+   Next Story
+
+Commune : Piratages possibles pour des espaces de Paris.fr
+
+Articles connexes
+
+   6
+
+Piratage : fuite de 350 millions d’identifiants de connexion
+
+   Posted On 05 Oct 2019
+   , By Damien Bancal
+   2
+
+Faux bloqueurs de publicité infiltrent des millions d’internautes
+
+   Posted On 19 Sep 2019
+   , By Damien Bancal
+   0
+
+Piratage de contribuables Français, ZATAZ vous en montre plus
+
+   Posted On 29 Août 2019
+   , By Damien Bancal
+   westendjobs
+   0
+
+Fuite de données : piratage pour westendjobs.ca
+
+   Posted On 27 Août 2019
+   , By Damien Bancal
+   8
+
+QRcode, attention danger !
+
+   Posted On 26 Août 2019
+   , By Damien Bancal
+   carte bancaire sans contact
+   7
+
+Piratage de carte bancaire sans contact sur sable fin
+
+   Posted On 07 Août 2019
+   , By Damien Bancal
+   2
+
+Deux millions de smartphones piratés à AT&T avec l’aide d’employés
+
+   Posted On 07 Août 2019
+   , By Damien Bancal
+   voleur piratage électronique des automobiles audi voiture connectée
+   0
+
+Piratage de voitures : 10% suffiraient à bloquer une ville
+
+   Posted On 02 Août 2019
+   , By Damien Bancal
+   4
+
+Piratage massif pour des centaines de sites Français
+
+   Posted On 13 Juin 2019
+   , By Damien Bancal
+   canadiens
+   1
+
+Canadiens piratés ? 12 millions de données diffusées
+
+   Posted On 02 Juin 2019
+   , By Damien Bancal
+   retraités Capital one UniCredit
+   1
+
+Data leak : découverte d’un espace de stockage de données piratées : +9000
+sites concernés
+
+   Posted On 30 Mai 2019
+   , By Damien Bancal
+   elections présidentielles municipales
+   0
+
+Elections : les pirates de plus en plus présents ?
+
+   Posted On 25 Mai 2019
+   , By Damien Bancal
+   1
+
+L’Eurovision attaqué par des pirates informatiques du Hamas!
+
+   Posted On 16 Mai 2019
+   , By Damien Bancal
+   0
+
+Diffusion porno après le piratage du Snapchat d’ados
+
+   Posted On 14 Mai 2019
+   , By Damien Bancal
+   blackmarkets
+   1
+
+Blackmarkets : 3 millions de nouvelles données FR en vente
+
+   Posted On 12 Mai 2019
+   , By Damien Bancal
+   Toyota hacked
+   0
+
+Toyota / Lexus : des pirates volent 3,1 millions de données clients
+
+   Posted On 02 Avr 2019
+   , By Damien Bancal
+   5
+
+Black market : bitcoins à vendre
+
+   Posted On 10 Mar 2019
+   , By Damien Bancal
+   fuite de données d'entreprises françaises dans le black market
+   0
+
+Fuites d’informations pour ADA, Century 21 et plusieurs autres sites Français
+
+   Posted On 26 Fév 2019
+   , By Damien Bancal
+   0
+
+Piratage et fuite de données pour la boutique OneProvider.com
+
+   Posted On 23 Fév 2019
+   , By Damien Bancal
+   Mode d'emploi
+   0
+
+Fuite de données bancaires pour l’aéroport Marseille-Provence
+
+   Posted On 21 Fév 2019
+   , By Damien Bancal
+
+Laisser un commentaire Annuler la réponse
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ______________________________Name *
+   ______________________________Email *
+   ______________________________Website
+
+   9  −  sept  =  __
+
+   Post Comment
+
+   Ce site utilise Akismet pour réduire les indésirables. En savoir plus
+   sur comment les données de vos commentaires sont utilisées.
+
+Partenaires
+
+                              French Connexion
+
+                             Oceanet Technology
+                              French Connexion
+                Free GData France Cabinet d'Avocats Desmarais
+
+ZATAZ sur Qwant
+
+                               ZATAZ sur Qwant
+
+Goodies ZATAZ
+
+Publicité
+
+   [INS: :INS]
+
+RSS Data Security
+
+     * DFIR ORC : un outil de collecte libre pour l’analyse forensique
+       26/09/2019
+     * MFA : authentification multi-facteurs 26/09/2019
+     * Collectivités territoriales : un guide de sensibilisation au RGPD
+       18/09/2019
+     * En 3 ans, le nombre d’attaques ciblant des objets connectés a
+       augmenté de 13497% 14/09/2019
+     * Les cybercriminels misent toujours davantage sur les techniques de
+       contournement des antimalwares 14/09/2019
+     * Selon le FBI, les attaques BEC auraient coûté 26 milliards de
+       dollars aux entreprises 14/09/2019
+     * Stealth Falcon : Des attaques cibles des politiques au Moyen-Orient
+       14/09/2019
+     * Tentative de piratage CoinHouse 14/09/2019
+     * Fraude aux adresses IPv4 14/09/2019
+     * Microsoft et navigateurs : 79 vulnérabilités corrigées 11/09/2019
+     * Un tiers des Français seraient prêts à vendre leurs données
+       personnelles à un inconnu 05/09/2019
+     * Des failles de sécurité dans des traceurs GPS 05/09/2019
+     * Nouvelle tactique furtive de faux-clics publicitaires dans des apps
+       du Google Play Store 02/09/2019
+     * Hausse de 265 % des événements liés aux attaques sans fichiers !
+       02/09/2019
+     * Testé pour vous, la clé double authentification SoloKeys 30/08/2019
+     * La Gendarmerie Nationale coupe l’infiltration de Retadup 27/08/2019
+
+SURVEILLER LES PIRATES
+
+                  Choisissez votre pays et surfez anonyme !
+
+Rechercher une info
+
+   _______________________________ Rechercher
+
+Chaque jour, ZATAZ News par mail
+
+   Entrez une adresse mail
+
+   ____________________
+   Subscribe
+
+   Sans publicité - FeedBurner
+
+Publicités
+
+                                 [INS: :INS]
+
+Radio / TV
+
+              Damien Bancal - Chronique cybersécurité WEO TV
+         Damien Bancal - Chronique cybersécurité France Bleu Nord
+
+ZATAZ Partenaires
+
+                                Le hack Paris
+                          HackFest Quebec - Canada
+                                Hack in Paris
+   ZATAZ partenaire du Forum International de la Cybersécurité depuis 10
+                                     ans
+
+Communauté Facebook
+
+                   - "J'aime" transfert des infos à FB. -
+
+     ZATAZ
+
+Les + commentés
+
+   Loi Fake News Patchs Tuesday chantage par mail
+
+Retour du chantage par mail : je vous vois à poil !
+
+   204 Comments
+   Escroquerie - Plusieurs dizaines de lecteurs de ZATAZ m'ont alerté d'un
+   étrange courriel reçu. Il contient le mot de passe des cibles et
+   réclame de l'argent pour ne pas en divulguer plus. ZATAZ va vous
+   expliquer le fond de l'arnaque.
+
+Escroquerie : chantage par mail à l'encontre de milliers de Français
+
+   191 Comments
+   Chantage
+
+Chantage par mail : NON vous n'avez pas été piraté
+
+   135 Comments
+
+Calendrier
+
+   CAPTION: octobre 2019
+
+   L  M  M  J  V  S  D
+   « Sep
+      1  2  3  4  5  6
+   7  8  9  10 11 12 13
+   14 15 16 17 18 19 20
+   21 22 23 24 25 26 27
+   28 29 30 31
+
+Twitter officiels
+
+                                   @zataz
+                              @Protocole_ZATAZ
+                               @Damien_Bancal
+
+Data Leak : Service veille ZATAZ
+
+   :: Alertes envoyées au 01/10/2019 : 1406
+   :: Espaces pirates sous surveillance : 2 297
+   :: Fuites constatées : +888 millions
+   :: dataleak.exposed
+
+Protocole d’alerte ZATAZ
+
+   :: Protocole ZATAZ : 70 235
+   :: Taux de correction (50 derniers cas) : 89 %
+   :: Alerter anonymement.
+
+Divers
+
+   Identifiant Keybase.io
+   Remonter un problème.
+   Mentions légales.
+   Certaines images viennent de Freepik.
+
+Sur le Oueb
+
+   :: Revue de presse : ZATAZ Revue de presse
+   :: ZATAZ Podcast TV : ZATAZ TV / Youtube.
+   :: DSB : Data Security Breach
+   :: Page officielle Damien Bancal
+   Copyright 1996 - 2019 :: ZATAZ - Réalisation DB. - Le site OFFICIEL est
+   ZATAZ.COM - Le reste ne serait que contrefaçon Tél. : 0890 170 001 -
+   *(0.15€/min)

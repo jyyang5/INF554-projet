@@ -1,0 +1,2544 @@
+   #Negociação MetaTrader 5, fórum de sistemas automatizados e testes de
+   estratégias Artigos sobre o desenvolvimento de aplicativos como robôs e
+   indicadores técnicos para negociação em MetaTrader {0} Code Base,
+   acesso livre a um banco de dados de robôs e indicadores técnicos para
+   negociação em MetaTrader 5 Serviço Freelance para traders alternate
+   alternate alternate alternate alternate alternate alternate
+
+     * Início
+          + Terminal Web
+          + Documentação
+          + Calendário
+          + CodeBase
+          + Artigos
+          + Freelance
+          + Mercado
+          + Sinais
+          + VPS
+          + Fórum
+          + Sobre o projeto
+     * [ ]
+
+     * Login
+     * Registre-se
+
+   Português
+     * English
+     * Русский
+     * 中文
+     * Español
+     * 日本語
+     * Deutsch
+     * [ ]
+
+   ____________________
+   Submit
+   ...
+
+   [ ]
+   Entre ou Registre-se para ter acesso aos benefícios de todos os nossos
+   serviços.
+
+Fórum de Traders
+
+   Tire dúvidas sobre análise técnica, fale com outros traders sobre
+   sistemas de negociação e melhore suas habilidades de programação de
+   estratégias em linguagem MQL5.
+
+   Participe do fórum, compartilhe ideias com traders de todo o mundo e
+   ajude com feedback os novatos — nossa comunidade está crescendo junto
+   com você.
+   discussão geral, sistemas de negociação, ações, robôs e expert
+   advisors, indicadores técnicos, artigos sobre negociação, mql4 e
+   metatrader 4
+   dsmoura
+
+Desenvolvimento Indicador - Contagem de Candle
+
+   Olá Pessoal! Estou desenvolvendo um indicador, sou inciante no
+   desenvolvimento do MT5 mas tenho um certo conhecimento em programação.
+   Estou tentando desenvolver um indicador que possa fazer a contagem dos
+   candles, exemplo, conte 6 candles e desses 6 quantos foram de alta e
+   quantos foram de baixa,...
+   bonifaciotrader
+
+Erro 4756 pegando ordem lá em baixo no Indice (MUITO ESTRANHO)
+
+   Senhores, boa noite, so novato na programação e estou com um erro que
+   tá me deixando doido. O EA funciona as ordens limit normalmente, de
+   repente por exemplo. Indice está no 105.650 ao invés dele lançar uma
+   ordem pendente no por ex: 105600 ele lança ela lá no preço 35 com stop
+   no 30 e forma uma
+   figurelli
+
+Tudo sobre Séries Contínuas (WIN$, IND$, WDO$, DOL$, etc.)
+
+   Pessoal, abri esse tópico para compartilhar ideias e resultados em
+   relação à utilização de séries contínuas, principalmente para o Índice
+   Bovespa. Para ser franco, acredito que esse novo recurso irá causar um
+   grande salto de qualidade nos testes das estratégias e Expert Advisors
+   para BM&FBovespa,...
+   Automated-Trading
+
+Especialistas: Profit Loss Calculator
+
+   Profit Loss Calculator: Painel tipo calculadora para cálculos do
+   lucro/perda. Os dados são calculados ao mover as linhas ou alterar os
+   parâmetros nos campos de entrada do preço, lote, lucro, perda em pips
+   ou depósito em moeda. O painel é escrito pelos "motivos" do Expert
+   Advisor...
+   2
+
+LIMPAR HISTORICO DAS OPERAÇÕES EXECUTADAS
+
+   Da pra fazer isso senhores
+   IgorRaposo
+
+EA CAP GOLD Albatross
+
+   Alguém que usa ou ja usou esse EA, me responde aqui por favor, obrigado
+   danpompeia
+
+curso em video de mql5 onde tem
+
+   alguem sabe onde tem um curso de mql5 em video completo
+   MetaQuotes
+
+Versão beta da plataforma MetaTrader 5 build 2155: áreas de visibilidade no
+MQL5, atualização global do testador de estratégias e hospedagem embutida
+
+   Na sexta-feira, 20 de setembro de 2019, será lançada uma versão
+   atualizada da plataforma MetaTrader 5 no modo beta. Convidamos todos os
+   traders a testar a nova versão da plataforma para experimentar todas as
+   suas possibilidades e ajudar os desenvolvedores a corrigir possíveis
+   erros. A fim de
+   ramirovicente
+
+$100 or $300 Investment on MetaTrade 4
+
+   Any one can hel me, what is the best sign for investing about $ 200 in
+   MetaTrade4
+   MetaQuotes
+
+Discussão do artigo "Pesquisa de Recorrências Estatísticas das Direções das
+Velas"
+
+   Novo artigo Pesquisa de Recorrências Estatísticas das Direções das
+   Velas foi publicado: possvel prever o comportamento do mercado num
+   prximo curto intervalo de tempo, com base em tendncias recorrentes das
+   direes das velas em momentos especficos ao longo do dia? Isto , se tal
+   ocorrncia encontrada...
+
+Artigos
+
+   Aprenda a criar seus próprios indicadores técnicos e robôs de
+   negociação com ajuda de artigos que outros traders escrevem para você.
+
+   Compartilhe sua experiência em negociação e em programação com
+   algotraders iniciantes — escreva artigos, nós, além de traduzi-los para
+   6 idiomas, pagaremos a você US$ 200!
+   MetaTrader 5, MetaTrader 4
+   Biblioteca para desenvolvimento fácil e rápido de programas para a
+   MetaTrader (parte XIII): Eventos do objeto Conta
+
+Biblioteca para desenvolvimento fácil e rápido de programas para a MetaTrader
+(parte XIII): Eventos do objeto Conta
+
+   O artigo considera trabalhar com os eventos da conta para monitorar
+   alterações importantes nas propriedades da conta que afetam a
+   negociação automatizada. Nós já implementamos algumas funcionalidades
+   para monitorar os eventos da conta no artigo anterior ao desenvolver a
+   coleção de objetos da conta.
+   Biblioteca para desenvolvimento fácil e rápido de programas para a
+   MetaTrader (parte XII): Implementação da classe de objeto "Conta" e da
+   coleção de objetos da conta
+
+Biblioteca para desenvolvimento fácil e rápido de programas para a MetaTrader
+(parte XII): Implementação da classe de objeto "Conta" e da coleção de
+objetos da conta
+
+   No artigo anterior, nós definimos os eventos de encerramento de posição
+   para a MQL4 na biblioteca e nos livramos das propriedades de ordem não
+   utilizadas. Aqui, nós vamos considerar a criação do objeto Conta,
+   desenvolver a coleção de objetos da conta e preparar a funcionalidade
+   para monitorar os eventos da conta.
+   Gerenciando otimizações (Parte 2): Cirando a lógica do aplicativo e
+   objetos chave
+
+Gerenciando otimizações (Parte 2): Cirando a lógica do aplicativo e objetos
+chave
+
+   Este artigo é uma continuação da publicação anterior sobre a criação de
+   uma interface gráfica para gerenciar otimizações. Nele, abordaremos a
+   lógica do robô para o complemento a ser criado. Criaremos um wrapper
+   que permitirá iniciar o terminal MetaTrader 5 como um processo
+   gerenciado através do C#. Também consideraremos o trabalho com arquivos
+   de configuração. Dividiremos a lógica do programa em duas partes, a
+   primeira descreverá os métodos chamados após pressionar uma tecla
+   específica e a segunda, a parte da inicialização e do gerenciamento de
+   otimizações.
+   Biblioteca para desenvolvimento fácil e rápido de programas para a
+   MetaTrader (parte XI). Compatibilidade com a MQL4 - Eventos de
+   encerramento de posição
+
+Biblioteca para desenvolvimento fácil e rápido de programas para a MetaTrader
+(parte XI). Compatibilidade com a MQL4 - Eventos de encerramento de posição
+
+   Nós continuamos com o desenvolvimento de uma grande biblioteca
+   multi-plataforma, simplificando o desenvolvimento de programas para as
+   plataformas MetaTrader 5 e MetaTrader 4. Na décima parte, nós retomamos
+   nosso trabalho sobre a compatibilidade da biblioteca com a MQL4 e
+   definimos os eventos de abertura de posições e ativação de ordens
+   pendentes. Neste artigo, nós definiremos os eventos de encerramento de
+   posições e nos livraremos das propriedades de ordem não utilizadas.
+   Gerenciando otimizações (Parte I): Criando uma interface gráfica do
+   usuário
+
+Gerenciando otimizações (Parte I): Criando uma interface gráfica do usuário
+
+   Este artigo descreve um processo para criar uma extensão projetada para
+   o terminal MetaTrader. Essa solução ajuda a automatizar o processo de
+   otimização através de sua execução em outros terminais. Outros artigos
+   serão escritos com base neste artigo para desenvolver este tópico. A
+   extensão será escrita usando linguagem C# e modelos de programação, o
+   que, além do objetivo principal deste artigo, mostrará não apenas a
+   capacidade do terminal de expandir os recursos originalmente criados
+   através da escrita de templates próprios, mas também como criar
+   facilmente gráficos personalizados numa linguagem com os recursos mais
+   convenientes para isso.
+   Biblioteca para desenvolvimento fácil e rápido de programas para a
+   MetaTrader (parte X): Compatibilidade com a MQL4 - Eventos de abertura
+   de posição e ativação de ordens pendentes
+
+Biblioteca para desenvolvimento fácil e rápido de programas para a MetaTrader
+(parte X): Compatibilidade com a MQL4 - Eventos de abertura de posição e
+ativação de ordens pendentes
+
+   Nos artigos anteriores, nós começamos a criar uma grande biblioteca
+   multi-plataforma, simplificando o desenvolvimento de programas para as
+   plataformas MetaTrader 5 e MetaTrader 4. Na nona parte, nós começamos a
+   melhorar as classes da biblioteca para trabalhar com a MQL4. Aqui nós
+   continuaremos melhorando a biblioteca para garantir sua total
+   compatibilidade com a MQL4.
+   Biblioteca para desenvolvimento fácil e rápido de programas para a
+   MetaTrader (parte IX): Compatibilidade com a MQL4 - Preparação dos
+   dados
+
+Biblioteca para desenvolvimento fácil e rápido de programas para a MetaTrader
+(parte IX): Compatibilidade com a MQL4 - Preparação dos dados
+
+   Nos artigos anteriores, nós começamos a criar uma grande biblioteca
+   multi-plataforma, simplificando o desenvolvimento de programas para as
+   plataformas MetaTrader 5 e MetaTrader 4. Na oitava parte, nós
+   implementamos a classe para monitorar os eventos de modificação de
+   ordens e posições. Aqui, nós melhoraremos a biblioteca tornando-a
+   totalmente compatível com a MQL4.
+   Criando um EA gradador multiplataforma (Parte III): grade baseada em
+   correções com martingale
+
+Criando um EA gradador multiplataforma (Parte III): grade baseada em
+correções com martingale
+
+   Neste artigo, tentaremos criar o melhor EA possível trabalhando com
+   base no princípio de um gradador. Como de costume, tratar-se-á de um
+   Expert Advisor multiplataforma capaz de funcionar tanto no MetaTrader 4
+   quanto no MetaTrader 5. O primeiro EA era bom para todos, exceto que
+   ele não trazia lucro em período longo. O segundo EA podia trabalhar em
+   intervalos de mais de alguns anos. Mas ele não era capaz de trazer mais
+   de 50% do lucro por ano com um rebaixamento máximo de menos de 50%.
+   Biblioteca para desenvolvimento fácil e rápido de programas para a
+   MetaTrader (parte VIII): Eventos de modificação de ordens e posições
+
+Biblioteca para desenvolvimento fácil e rápido de programas para a MetaTrader
+(parte VIII): Eventos de modificação de ordens e posições
+
+   Nos artigos anteriores, nós começamos a criar uma grande biblioteca
+   multi-plataforma, simplificando o desenvolvimento de programas para as
+   plataformas MetaTrader 5 e MetaTrader 4. Na sétima parte, nós
+   adicionamos o monitoramento da ativação de ordens StopLimit e
+   preparamos a funcionalidade para o monitoramento de outros eventos
+   envolvendo ordens e posições. Neste artigo, nós desenvolveremos a
+   classe para monitorar os eventos de modificação de ordens e posições.
+   Mala direta por meio dos serviços do Google
+
+Mala direta por meio dos serviços do Google
+
+   Um trader mantendo relações comerciais com outros traders, assinantes,
+   clientes ou amigos pode certamente ter a tarefa de enviar mala direta
+   por e-mail. Enviar capturas de tela, revistas, registros ou relatórios
+   são tarefas relevantes que não são necessárias todos os dias, mas
+   raramente, em qualquer caso, cada um gostaria de ter esse recurso. O
+   artigo mostra o uso de vários serviços do Google, sua compilação em C #
+   e integração com ferramentas em MQL.
+
+Serviços para Freelancers
+
+   Encomende sua estratégia de negociação, indicador técnico, robô ou
+   qualquer um programa para a plataforma MetaTrader a desenvolvedores
+   confiáveis.
+
+   O serviço Freelance oferece aos profissionais da negociação algorítmica
+   centenas de encomendas, a garantia de pagamento pelo trabalho realizado
+   e a retirada imediata do dinheiro ganho através de um sistema de
+   pagamento conveniente.
+   indicadores, experts, bibliotecas, scripts, integração, conversão,
+   design, aconselhamento, outros
+   50
+
+Robo para Bovespa b3
+
+   OLá< vocé que já desenvolveu um robo para bovespa com mais lucro do que
+   perdas e comprovando.  Gostaria de um robo (em Portugues)  para operar
+   na bovespa - mini índice Ibovespa ou mini dólar, com lucro diário de
+   até no maximo 100 reais podendo ser configurável, minha conta é pequena
+   30
+
+EA com afastamento de media
+
+   Bom dia !  Preciso de um EA que opere retorno a media e afastamento da
+   media, baseado em  2 indicadores que irei fornecer o codigo fonte para
+   implementação . O EA devera conter tambem ate duas medias para
+   definições de tendencia quando ativados no painel de
+   configurações Devera
+   50
+
+Preciso de um EA para operar WIN e WDO baseado na estratégia de Preço de
+fechamento de Reversão
+
+   - Horário de funcionamento configurável; - SL e TP diário; - Entrada na
+   operação ao identificar Preço de fechamento de reversão, com "x" ticks
+   acima/ abaixo do candle de reversão e com o alvo sendo 100% ou 200% da
+         amplitude do mesmo (selecionado nas configurações do EA) e
+   35
+
+Dicas fx
+
+   Comentarios didaticos sobre forex. Negociacao e programacao. Do zero ao
+   avançado. Sinais, estrategias e setups. Gerenciamento de risco, stops e
+   indicadores. Estatistica aplicada ao mercado de acoes. Como robôs
+   operam embutidos no meta5. Pq o futuro ja acena com a tomada de robos
+   no mundo virtual. Pq
+   30
+
+Eai base do no rsi
+
+   Quero ganhar bastante pra acionar mais ações e pode faturar pra
+   sustentar minha família e poder dar o sustento de casa e o melhor  pra
+   minha família. Mas jsjdhvdjs sjsjshgeb sjsjhe sjsmsnbe sjsjsnsb bobina
+   neien lamento
+   30
+
+I need an expert advisor
+
+   I have a indicator that give's me a signal where to buy and to
+   sell..... but i would like to make it a E.A. so when it gives a signal
+   i want it to open a position as it says.... It would need some filter
+   that is another indicator that i have already... so: It must have usual
+   functions... trainling
+   30
+
+Robo/INDICADOR automatizador de SALA DE SINAIS
+
+   Preciso de um indicador ( ele já existe no mercado e facilmente achado
+   ) que eu possa cadastrar os sinais nele e do MT4 jogar pro MT2IQ pra da
+   a ENTRADA na IQ ! Preciso de um sem DELAY, e que eu possa cadastrar
+   chave de registro ( pra que nao possa ser vendido sem que eu autorize
+   ou gere uma chave
+   200
+
+Preciso de um Dashboard RSI junto com um EA que vai utilizar alguns sinais
+(rsi, input meu, etc)
+
+   Parte 1) RSI Dashboard É um Dashboard onde vai mostrar o RSI de dezenas
+   de ativos no em alguns períodos (1h, 4h, 1d, 1s) junto com talvez o
+   volume, destacando ativos que estão com RSI <= 30. Ao clicar em um
+   ativo vai abrir o gráfico dele com um template e um indicador, que é
+   basicamente uma cópia
+   30
+
+INDICADOR PARA SALA DE SINAIS
+
+   Preciso de um indicador ( ele já existe no mercado e facilmente achado
+   ) que eu possa cadastrar os sinais nele e do MT4 jogar pro MT2IQ pra da
+   a ENTRADA na IQ !  Preciso de um sem DELAY, e que eu possa cadastrar
+   chave de registro ( pra que nao possa ser vendido sem que eu autorize
+   ou gere uma
+   150
+
+Robô baseado em retorno de IFR
+
+   Robo Baseado em retorno de IFR Timeframe: 3m Ativo: Mini Indice bovespa
+   Volume: 2 O Robo efetuará uma venda quando a vela [2] abrir cima do IFR
+   62 e fechar abaixo de 62, porém o robô não deve efetuar a venda na vela
+   seguinte, pois a vela seguinte, no caso a vela [1], será a vela usada
+   para os
+
+Mercado de Programas MQL5
+
+   Todos os dias no mostruário do Mercado MQL5 são publicados dezenas de
+   novos aplicativos para automação do trading. Selecione - entre os mais
+   de 10 000 produtos - o aplicativo apropriado e livre-se de tarefas
+   desnecessárias.
+
+   Venda seus programas para negociação algorítmica em nosso mercado, isto
+   é, na maior loja de aplicativos para traders!
+   MetaTrader 5, MetaTrader 4
+   CreateGridOrdersTune
+
+CreateGridOrdersTune
+
+   A script for opening a grid of orders If you need to quickly open
+   several pending orders (Buy Limit, Sell Limit, Buy Stop, Sell Stop) on
+   a certain distance from the current price, this script will do all the
+   routine for you! Allow AutoTrading before running the script. Usage:
+   Run the script on a chart. Input Parameters: Language of messages
+   displayed (EN, RU, DE, FR, ES) - language of the output messages
+   (English, Russian, German, French, Spanish). Price for open - open
+   price. If set to
+   TS Trade
+
+TS Trade
+
+   DESCRIÇÃO O TS Trade é um robô desenvolvido por profissionais com longa
+   experiência no Mercado Financeiro. É baseado em algoritmos de
+   negociação avançados. Tem como principal característica uma gestão de
+   risco rigorosa.É perfeito para quem busca uma ferramenta eficaz para
+   automatizar suas negociações. Instale o Robô e deixe que ele faça todo
+   o trabalho por você. MÉTODO O TS Trade utiliza um algoritmo o qual
+   possibilita identificar uma tendência do mercado a partir da
+   movimentação de duas méd
+   Alphabot MT5
+
+Alphabot MT5
+
+   There are expert advisors. We call them bots. And this is Alphabot.
+   Alphabot for MetaTrader4 is
+   here: https://www.mql5.com/en/market/product/41549 Every trade
+   has fixed Stop Loss and Take Profit.  NO Martingale / Grid involved.
+   Alphabot is designed for ForEx currency pairs only. It was
+   NOT checked on Shares / Stocks / Metals / CFDs etc. Pairs
+   recommendations The s
+   Fast Copy MT5
+
+Fast Copy MT5
+
+   The program allows to copy trades between different MetaTrader 5 and
+   MetaTrader 4 accounts in any direction and amount quickly and easily.
+   Any type of copying is available MT4 → MT5 MT4 → MT4 MT5 → MT5 MT5 →
+   MT4 * To copy between different MT4 ↔️ MT5 terminals, you must purchase
+   two versions of the product How the program works The program copies
+   transactions between two or more terminals installed on one "PC" or
+   "VPS". You need to install the progra
+   ST Easy Order Creator
+
+ST Easy Order Creator
+
+   This very powerful and user-friendly tool was designed to create new
+   orders and manage open positions easily with full control of your risk.
+   Please Install my Toolmanager first! (click here)! With this tool you
+   can create new market or pending orders with automatic stop-loss,
+   take-profit and automatic calculated or fixed lot size with only a few
+   clicks. Just move the levels for entry, stop-loss and take-profit to
+   the desired values and enter the risk as an absolute value, as percent
+   of your eq
+   Multi Matrix Trader
+
+Multi Matrix Trader
+
+   Currently at a discount until 12th of October We are investing in our
+   experience additional €100K real money, do you want to join us in our
+   journey ? Please note! Do not try to test Multi Matrix Trader in the
+   Strategy Tester, due to MetaTrader 4 platform limitation and platform
+   availability to test only one pair at a time. Multi Matrix Trader opens
+   positions on several FX pairs at the same time. Live trading results
+   : https://www.mql5.com/en/signals/604257 Metatrader
+   Virtuoso
+
+Virtuoso
+
+   Эксперт - симбиоз торговых алгоритмов. Предназначен для торговли
+   основными валютными парами, имеет защиту от сбоев - при восстановлении
+   соединения советник продолжит работу со своими ордерами.   Робот
+   контролирует объем торговых позиций, проскальзывание,  раздвижку
+   спреда,  время торговли, осуществляет сопровождение и защиту открытых
+   ордеров, может работать с депозитом любого размера. ПАРАМЕТРЫ Use_LOGO
+   - использовать логотип на графике Use_Time - использовать
+   MiriumInvestSoft EA
+
+MiriumInvestSoft EA
+
+   This advisor was created with the aim of taking from the market a small
+   profit, during low volatility. We studied the market, strategies and
+   algorithms for a long time to find the best entry point. Each
+   transaction is accompanied by a protective stop and virtual profit. We
+   have provided for slippage and widening of the spread.All this together
+   gives very good results. The EA uses several indicators.
+   Recommendations. We found the best option for the risk of profit on two
+   currency pairs: EURUS
+   PipFinite Trend PRO
+
+PipFinite Trend PRO
+
+   Breakthrough Solution For Trend Trading And Filtering With All
+   Important Features Built Inside One Tool! Trend Pro's smart algorithm
+   detects the trend, filters out market noise and gives entry signals
+   with exit levels. The new features with enhanced rules for statistical
+   calculation improved the overall performance of this indicator.
+   Important Information Revealed Maximize the potential of Trend Pro,
+   please visit ► www.mql5.com/en/blogs/post/713938 Test the demo version
+   and explore its fea
+   Momentum Classic
+
+Momentum Classic
+
+   Momentum Classic is a completely automatic trading EA. It is a fact
+   that market is mostly trading in range and high-power bursts are rare.
+   These sharp movements are starting with momentum, which is a signal to
+   trend start, increased volatility and trading volumes. We built a
+   special algo, which seeks for such Impulse (Momentum), to signal trade
+   entry. Momentum Classic also has several filters, based on deviation
+   from standard market volatility, so the EA can tell noise from the real
+   trend emergi
+
+Sinais de Negociação
+
+   Escolha e assine o sinal de seu interesse em poucos cliques. Todos os
+   Sinais são fornecidos com uma estatística detalhada e gráficos
+   amigáveis.
+
+   Torne-se Fornecedor de sinais de negociação e venda assinaturas a
+   milhares de traders em todo o mundo. Nosso serviço irá permitir-lhe
+   ganhar um bom dinheiro através de estratégias rentáveis, mesmo com um
+   pequeno capital inicial
+   MetaTrader 5, MetaTrader 4
+   30
+   Robo ea bonsai
+
+   Crescimento
+          382%
+
+   Assinantes
+          16
+
+   Semanas
+          97
+
+   Negociações
+          2095
+
+   Vitória
+          75%
+
+   Fator de lucro
+          2.26
+
+   Max Rebaixamento
+          26%
+
+   35
+   Eye to Sky
+
+   Crescimento
+          392%
+
+   Assinantes
+          28
+
+   Semanas
+          40
+
+   Negociações
+          428
+
+   Vitória
+          87%
+
+   Fator de lucro
+          3.50
+
+   Max Rebaixamento
+          29%
+
+   39
+   Super High Return 6 in 1
+
+   Crescimento
+          418%
+
+   Assinantes
+          18
+
+   Semanas
+          29
+
+   Negociações
+          819
+
+   Vitória
+          90%
+
+   Fator de lucro
+          1.90
+
+   Max Rebaixamento
+          56%
+
+   30
+   ViVo Trade
+
+   Crescimento
+          95%
+
+   Assinantes
+          4
+
+   Semanas
+          37
+
+   Negociações
+          543
+
+   Vitória
+          82%
+
+   Fator de lucro
+          1.88
+
+   Max Rebaixamento
+          19%
+
+   30
+   FOREXSTAY MT5
+
+   Crescimento
+          913%
+
+   Assinantes
+          26
+
+   Semanas
+          18
+
+   Negociações
+          976
+
+   Vitória
+          83%
+
+   Fator de lucro
+          13.86
+
+   Max Rebaixamento
+          63%
+
+   30
+   EA HTMiX PROM5
+
+   Crescimento
+          1 959%
+
+   Assinantes
+          96
+
+   Semanas
+          91
+
+   Negociações
+          3335
+
+   Vitória
+          79%
+
+   Fator de lucro
+          2.23
+
+   Max Rebaixamento
+          41%
+
+   30
+   HXY
+
+   Crescimento
+          7 073%
+
+   Assinantes
+          7
+
+   Semanas
+          29
+
+   Negociações
+          459
+
+   Vitória
+          67%
+
+   Fator de lucro
+          2.37
+
+   Max Rebaixamento
+          31%
+
+   30
+   ManhaTTan Club
+
+   Crescimento
+          1 045%
+
+   Assinantes
+          8
+
+   Semanas
+          152
+
+   Negociações
+          3081
+
+   Vitória
+          69%
+
+   Fator de lucro
+          1.45
+
+   Max Rebaixamento
+          19%
+
+   30
+   GoodInvest
+
+   Crescimento
+          1 259%
+
+   Assinantes
+          53
+
+   Semanas
+          72
+
+   Negociações
+          619
+
+   Vitória
+          64%
+
+   Fator de lucro
+          1.81
+
+   Max Rebaixamento
+          49%
+
+   30
+   Drawdown three percent
+
+   Crescimento
+          978%
+
+   Assinantes
+          145
+
+   Semanas
+          22
+
+   Negociações
+          719
+
+   Vitória
+          63%
+
+   Fator de lucro
+          1.62
+
+   Max Rebaixamento
+          37%
+
+     * MQL5.community
+          + Negociação on-line / Terminal web
+          + Indicadores e experts gratuitos
+          + Artigos sobre programação e negociação
+          + Encomendar experts ou indicadores de negociação
+          + Comprar robôs de negociação e indicadores
+          + Sinais de negociação Forex
+          + Forex VPS para negociação
+          + Fórum de traders
+          + Blogs de traders
+          + Gráficos
+     * MetaTrader 5
+          + Plataforma de negociação MetaTrader 5
+          + Últimas atualizações do MetaTrader 5
+          + Notícias, implementações e tecnologia
+          + Guia do usuário para MetaTrader 5
+          + Linguagem de estratégias de negociação MQL5
+          + MQL5 Cloud Network
+          + Análise de ponta a ponta
+          + Baixar a MetaTrader 5
+          + Instalação da plataforma
+          + Desinstalação do programa
+     * Informações sobre o site
+          + Sobre o projeto
+          + Histórico do site
+          + Termos de uso
+          + Política de privacidade e proteção de dados
+          + Política de Cookies
+          + Contatos
+     * Junte-se a nós, baixe a MetaTrader 5!
+          + Windows
+          + iPhone/iPad
+          + Mac OS
+          + Android
+          + Linux
+          + Calendário Econômico Tradays
+       Não é uma corretora, não tem contas de negociação reais
+       13 Anastasi Sioukri, 3105, Limassol, Cyprus
+       Copyright 2000-2019, MetaQuotes Ltd.
+   #MetaTrader 5トレーディング、自動システムとストラテジーテスティングのフォーラム MetaTrader {0}
+   トレーディングロボットとテクニカルインディケータの開発とアプリケーションについての記事 コードベース - MetaTrader
+   5トレーディングロボットとテクニカルインディケーターの無料のデータベース トレーダーに対するフリーランスサービス alternate
+   alternate alternate alternate alternate alternate alternate
+
+     * ホーム
+          + ウェブターミナル
+          + ドキュメント
+          + カレンダー
+          + コードベース
+          + 記事
+          + フリーランス
+          + マーケット
+          + シグナル
+          + VPS
+          + フォーラム
+          + プロジェクトについて
+     * [ ]
+
+     * ログイン
+     * 新規登録 >>
+
+   日本語
+     * English
+     * Русский
+     * 中文
+     * Español
+     * Português
+     * Deutsch
+     * [ ]
+
+   ____________________
+   Submit
+   ...
+
+   [ ]
+   私たちのサービスすべての利益にアクセスするためにログインまたは登録してください。
+
+トレーダーフォーラム
+
+   テクニカル分析に関して質問し、取引システムに関して議論し、 MQL5 プログラミングスキルを向上して独自の取引戦略を開発しましょう。
+
+   世界のどこからでもトレーダーとのコミュニケーションを行い、質問に答え、初心者を助ける
+   ことができます。-MQL5.comはあなたと共に発展しています。
+   general discussions, 取引システム, 取引所, ロボットとEA, テクニカル指標, 取引についての記事,
+   MQL4とMetatrader 4
+   hirokisanta
+
+SMS認証コードが届かない場合の対策を教えてください
+
+   何度試しても上手くいきません。
+   MetaQuotes
+
+記事"MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第13部): 口座オブジェクトイベント"についてのディスカッション
+
+   新しい記事 MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第13部): 口座オブジェクトイベント
+   はパブリッシュされました:
+   本稿では、自動取引に影響する口座プロパティの重要な変更を追跡するために、口座イベントの使用について検討しています。口座イベントを追跡するための
+   機能のいくつかは、前の記事で口座オブジェクトコレクションを開発するときに既に実装しています。
+   テスターでEAを起動してより多くのポジションを開けば、エクイティ増加イベントに続いて最も収益性の高いポジションが決済されるのをすぐに見ることが
+   できます。
+   MetaQuotes
+
+記事"リスク設定に基づいてSL/TPを設定するクロスプラットフォームEAの開発"についてのディスカッション
+
+   新しい記事 リスク設定に基づいてSL/TPを設定するクロスプラットフォームEAの開発 はパブリッシュされました:
+   本稿では、リスク値に基づいて自動的にエントリロットを計算するエキスパートアドバイザー(EA)を作成します。このEAでは、選択したSL(ストップ
+   ロス)に対する比率を持つTP(テイクプロフィット)が自動的に配置されます。言い換えれば、3:1、4:1などの選択した比率に基づいたTPが計算さ
+   れます。
+   ビジュアルモードで始値とSL価格を設定するためのEAを作成します。これらのパラメータとリスク値に基づいて、EAは適切なロット値を設定し、関連す
+   る方向でポジションを開きます。 図2
+   MetaQuotes
+
+記事"MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第12部):
+「口座」オブジェクトクラスと口座オブジェクトのコレクション"についてのディスカッション
+
+   新しい記事 MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第12部):
+   「口座」オブジェクトクラスと口座オブジェクトのコレクション はパブリッシュされました:
+   前の記事では、ライブラリでMQL4ポジション決済イベントを定義し、未使用の注文プロパティを取り除きました。本稿では、口座オブジェクトの作成を検
+   討して口座オブジェクトのコレクションを開発し、口座イベントを追跡する機能を準備します。
+   EAを起動し、簡単なエントリが選択されたときに操作ログに表示される内容を確認します(すべての口座プロパティの表示= false)。
+   MetaQuotes
+
+MetaTrader 5プラットフォームベータ版ビルド2155: MQL5スコープ、グローバルストラテジーテスター、内蔵仮想ホスティングアップデート
+
+   更新されたMetaTrader
+   5プラットフォームのベータ版が2019年9月20日にリリースされます。更新されたプラットフォームの機能の評価と開発者のエラー修正に役立てるため
+   、トレーダーの皆様のテストへの参加をお待ちしています。 MetaTrader 5プラットフォームをビルド2155に更新するには、[ヘルプ] >
+   [デスクトップのアップデートを確認] > [最新のベータ版]にアクセスしてください。 新しい MetaTrader
+   5プラットフォームの最終ビルドは公開ベータ版テストの後にリリースされます。 この新バージョンは次の変更を含みます。 ターミナル
+   MetaQuotes
+
+記事"MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第4部)MQL4との互換性 -
+ポジション決済イベント"についてのディスカッション
+
+   新しい記事 MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第4部)MQL4との互換性 - ポジション決済イベント
+   はパブリッシュされました: MetaTrader 5およびMetaTrader
+   4プラットフォーム用のプログラムの開発を簡素化する大規模なクロスプラットフォームライブラリの開発を継続します。第10部では、MQL4とのライブ
+   ラリの互換性に関する作業を再開し、ポジションを開くイベントと未決注文の発動イベントを定義しました。本稿では、ポジション決済イベントを定義し、未
+   使用の注文プロパティを取り除きます。
+   MetaQuotes
+
+Tradays経済指標カレンダーにメキシコが登場
+
+   32個のメキシコ経済指標がこのファンダメンタル市場分析アプリに追加されました。情報は、メキシコ銀行、財務省および国家信用局、地理地理情報研究所
+   (INEGI)などの公的な情報源から直接収集されます。
+   アプリを定期的にチェックすることで、メキシコ銀行金利決定から総固定投資まで、メキシコのすべての主要経済指標の発表の最新情報を獲得できます。
+   カレンダーはウェブ版とモバイル版として利用できます。 iOS版Tradays Android版Tradays
+   Automated-Trading
+
+ライブラリ: EasyXML - XMLパーサー
+
+   EasyXML - XMLパーサー: EasyXMLは、ネイティブMQL5
+   XML構文解析ライブラリです。URL、ファイルと文字列の入力の3つの異なるソースからのXMLが解析可能です。それは完全にオブジェクト指向でMQ
+   L5との手際よい統合に努めています。DOMを格納にはMQL5標準ライブラリのCObject およびCArrayObjが利用されます。 作者:
+   Paul van Hemmen
+   MetaQuotes
+
+新しいMetaTrader 4プラットフォームビルド1220
+
+   2019年9月13日(金)にMetaTrader 4プラットフォームアップデートがリリースされました。この新ビルドは次の変更を含みます。
+   MetaTrader 4 クライアントターミナルビルド1220
+   MQL4アプリケーションからの多数のグラフィカルオブジェクトを使用した操作が原因で発生する場合があるスローダウンを修正しました。
+   MQL4プログラムからDLL関数への非定数文字列パラメータの受け渡しを修正しました。 クラッシュログで報告されたエラーを修正しました。
+   更新はLiveUpdateシステムから利用できます。
+   MetaQuotes
+
+記事"MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第10部): MQL4との互換性 -
+ポジションオープンイベントと指値注文発動イベント"についてのディスカッション
+
+   新しい記事 MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第10部): MQL4との互換性 -
+   ポジションオープンイベントと指値注文発動イベント はパブリッシュされました: 前の記事では、MetaTrader 5とMetaTrader
+   4プラットフォーム用のプログラムの開発を単純化するための大規模なクロスプラットフォームライブラリの作成を始めました。第9部では、MQL4を使用
+   するためのライブラリクラスの改善を開始しました。ここでは、MQL4との完全な互換性を確保するために、ライブラリの改善を続けます。 テスト
+
+金融取引の記事
+
+   プロトレーダーが作成した記事の巨大なデータベースから独自のテクニカル指標や売買ロボットを作成する方法を学びます。
+
+   あなたの取引とプログラミングの経験を、アルゴリズム取引を初めて経験した人と共有してください。記事を書かれた 方には$200を差し上げます。
+   あなたの記事は6つの言語に翻訳されます。
+   MetaTrader 5, MetaTrader 4
+   MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第13部): 口座オブジェクトイベント
+
+MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第13部): 口座オブジェクトイベント
+
+   本稿では、自動取引に影響する口座プロパティの重要な変更を追跡するために、口座イベントの使用について検討しています。口座イベントを追跡するための
+   機能のいくつかは、前の記事で口座オブジェクトコレクションを開発するときに既に実装しています。
+   リスク設定に基づいてSL/TPを設定するクロスプラットフォームEAの開発
+
+リスク設定に基づいてSL/TPを設定するクロスプラットフォームEAの開発
+
+   本稿では、リスク値に基づいて自動的にエントリロットを計算するエキスパートアドバイザー(EA)を作成します。このEAでは、選択したSL(ストップ
+   ロス)に対する比率を持つTP(テイクプロフィット)が自動的に配置されます。言い換えれば、3:1、4:1などの選択した比率に基づいたTPが計算さ
+   れます。
+   MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第12部):
+   「口座」オブジェクトクラスと口座オブジェクトのコレクション
+
+MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第12部): 「口座」オブジェクトクラスと口座オブジェクトのコレクション
+
+   前の記事では、ライブラリでMQL4ポジション決済イベントを定義し、未使用の注文プロパティを取り除きました。本稿では、口座オブジェクトの作成を検
+   討して口座オブジェクトのコレクションを開発し、口座イベントを追跡する機能を準備します。
+   MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第4部)MQL4との互換性 - ポジション決済イベント
+
+MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第4部)MQL4との互換性 - ポジション決済イベント
+
+   MetaTrader 5およびMetaTrader
+   4プラットフォーム用のプログラムの開発を簡素化する大規模なクロスプラットフォームライブラリの開発を継続します。第10部では、MQL4とのライブ
+   ラリの互換性に関する作業を再開し、ポジションを開くイベントと未決注文の発動イベントを定義しました。本稿では、ポジション決済イベントを定義し、未
+   使用の注文プロパティを取り除きます。
+   MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第10部): MQL4との互換性 -
+   ポジションオープンイベントと指値注文発動イベント
+
+MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第10部): MQL4との互換性 -
+ポジションオープンイベントと指値注文発動イベント
+
+   前の記事では、MetaTrader 5とMetaTrader
+   4プラットフォーム用のプログラムの開発を単純化するための大規模なクロスプラットフォームライブラリの作成を始めました。第9部では、MQL4を使用
+   するためのライブラリクラスの改善を開始しました。ここでは、MQL4との完全な互換性を確保するために、ライブラリの改善を続けます。
+   最適化管理 (パート I): GUI の作成
+
+最適化管理 (パート I): GUI の作成
+
+   この記事では、MetaTrader ターミナルの拡張機能を作成するプロセスについて説明します。
+   このソリューションは、他のターミナルで最適化を実行する際、最適化プロセスを自動化するのに役立ちます。
+   このトピックに関する記事をいくつか書きます。 拡張機能は C# 言語とデザイン
+   パターンを使用して開発されました。優先プログラミング言語の機能です。
+   MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第9部): MQL4との互換性 - データの準備
+
+MetaTraderプログラムを簡単かつ迅速に開発するためのライブラリ(第9部): MQL4との互換性 - データの準備
+
+   前の記事では、MetaTrader 5とMetaTrader
+   4プラットフォーム用のプログラムの開発を単純化するための大規模なクロスプラットフォームライブラリの作成を始めました。第8部では、注文とポジショ
+   ンの変更イベントを追跡するためのクラスを実装しました。ここでは、MQL4と完全な互換性を備えさせることでライブラリを改善します。
+   Google サービスによるメーリング キャンペーンの手配
+
+Google サービスによるメーリング キャンペーンの手配
+
+   トレーダーは、他のトレーダー、クライアントや友人とのビジネス関係を維持するために、メーリングキャンペーンを手配したい場合があるかもしれません。
+   その場合、スクリーンショット、ログ、またはレポートを送信する必要がある場合があります。
+   頻繁に発生するタスクではないかもしれませんが、このような機能があれば明らかに利点となります。 この記事では、複数の Google
+   サービスを同時に使用し、C# で適切なアセンブリを開発し、MQL ツールと統合を取り上げています。
+   直近のピップのプロフィットダウンを抽出
+
+直近のピップのプロフィットダウンを抽出
+
+   この記事では、アルゴリズムトレード分野における理論と実践を組み合わせる試みについて説明します。
+   トレーディングシステムの作成に関する考察のほとんどは、ヒストリーバーや適用される様々なインジケータの使用に関連します。
+   これは最もよくカバーされたフィールドであるため、詳細は考慮しません。
+   バーは人工的なエンティティを表します。したがって、プロトデータに近い何か、すなわち価格ティックで動作します。
+   クロスプラットフォームグリッドEAの開発(パートIII):マーチンゲールによる補正ベースのグリッド
+
+クロスプラットフォームグリッドEAの開発(パートIII):マーチンゲールによる補正ベースのグリッド
+
+   この記事では、可能な限り最高のグリッドベースのEAの開発に取り組みます。
+   いつものように、MetaTrader4とMetaTrader5の両方で動作することができるクロスプラットフォームEAになります。
+   当初このEAは、長期間にわたって利益を上げることができませんでしたが、それ以外は良好でした。
+   2番目となるこのEAは、数年以上にわたって動作する可能性があります。
+   しかし、残念ながら、最大ドローダウンが50%未満で、年間利益の50%以上の条件は得ることができませんでした。
+
+フリーランサーのための仕事
+
+   信頼できる開発者からMetaTraderプラットフォーム用のカスタムテクニカル指標、売買ロボット、その他のアプリケーションを注文しましょう。
+
+   専門プログラマーは、MQL5
+   フリーランスセクションで何百もの注文を処理しており、便利な決済システムを通じた支払いとインスタント引出しが保証されています。
+
+MQL5プログラムマーケット
+
+   MQL5市場には、数多くの新しい自動取引アプリケーションが毎日登場しています。
+   一万の製品の中から適切なアプリを選び、手動取引によって生じる不必要な日常業務のことを忘れましょう。
+
+   最大の取引アプリケーションストアを通じて、アルゴリズムによる取引プログラムを販売できます。
+   MetaTrader 5, MetaTrader 4
+   CreateGridOrdersTune
+
+CreateGridOrdersTune
+
+   A script for opening a grid of orders If you need to quickly open
+   several pending orders (Buy Limit, Sell Limit, Buy Stop, Sell Stop) on
+   a certain distance from the current price, this script will do all the
+   routine for you! Allow AutoTrading before running the script. Usage:
+   Run the script on a chart. Input Parameters: Language of messages
+   displayed (EN, RU, DE, FR, ES) - language of the output messages
+   (English, Russian, German, French, Spanish). Price for open - open
+   price. If set to
+   TS Trade
+
+TS Trade
+
+   DESCRIÇÃO O TS Trade é um robô desenvolvido por profissionais com longa
+   experiência no Mercado Financeiro. É baseado em algoritmos de
+   negociação avançados. Tem como principal característica uma gestão de
+   risco rigorosa.É perfeito para quem busca uma ferramenta eficaz para
+   automatizar suas negociações. Instale o Robô e deixe que ele faça todo
+   o trabalho por você. MÉTODO O TS Trade utiliza um algoritmo o qual
+   possibilita identificar uma tendência do mercado a partir da
+   movimentação de duas méd
+   Alphabot MT5
+
+Alphabot MT5
+
+   There are expert advisors. We call them bots. And this is Alphabot.
+   Alphabot for MetaTrader4 is
+   here: https://www.mql5.com/en/market/product/41549 Every trade
+   has fixed Stop Loss and Take Profit.  NO Martingale / Grid involved.
+   Alphabot is designed for ForEx currency pairs only. It was
+   NOT checked on Shares / Stocks / Metals / CFDs etc. Pairs
+   recommendations The s
+   Fast Copy MT5
+
+Fast Copy MT5
+
+   The program allows to copy trades between different MetaTrader 5 and
+   MetaTrader 4 accounts in any direction and amount quickly and easily.
+   Any type of copying is available MT4 → MT5 MT4 → MT4 MT5 → MT5 MT5 →
+   MT4 * To copy between different MT4 ↔️ MT5 terminals, you must purchase
+   two versions of the product How the program works The program copies
+   transactions between two or more terminals installed on one "PC" or
+   "VPS". You need to install the progra
+   ST Easy Order Creator
+
+ST Easy Order Creator
+
+   This very powerful and user-friendly tool was designed to create new
+   orders and manage open positions easily with full control of your risk.
+   Please Install my Toolmanager first! (click here)! With this tool you
+   can create new market or pending orders with automatic stop-loss,
+   take-profit and automatic calculated or fixed lot size with only a few
+   clicks. Just move the levels for entry, stop-loss and take-profit to
+   the desired values and enter the risk as an absolute value, as percent
+   of your eq
+   Multi Matrix Trader
+
+Multi Matrix Trader
+
+   Currently at a discount until 12th of October We are investing in our
+   experience additional €100K real money, do you want to join us in our
+   journey ? Please note! Do not try to test Multi Matrix Trader in the
+   Strategy Tester, due to MetaTrader 4 platform limitation and platform
+   availability to test only one pair at a time. Multi Matrix Trader opens
+   positions on several FX pairs at the same time. Live trading results
+   : https://www.mql5.com/en/signals/604257 Metatrader
+   Virtuoso
+
+Virtuoso
+
+   Эксперт - симбиоз торговых алгоритмов. Предназначен для торговли
+   основными валютными парами, имеет защиту от сбоев - при восстановлении
+   соединения советник продолжит работу со своими ордерами.   Робот
+   контролирует объем торговых позиций, проскальзывание,  раздвижку
+   спреда,  время торговли, осуществляет сопровождение и защиту открытых
+   ордеров, может работать с депозитом любого размера. ПАРАМЕТРЫ Use_LOGO
+   - использовать логотип на графике Use_Time - использовать
+   MiriumInvestSoft EA
+
+MiriumInvestSoft EA
+
+   This advisor was created with the aim of taking from the market a small
+   profit, during low volatility. We studied the market, strategies and
+   algorithms for a long time to find the best entry point. Each
+   transaction is accompanied by a protective stop and virtual profit. We
+   have provided for slippage and widening of the spread.All this together
+   gives very good results. The EA uses several indicators.
+   Recommendations. We found the best option for the risk of profit on two
+   currency pairs: EURUS
+   PipFinite Trend PRO
+
+PipFinite Trend PRO
+
+   Breakthrough Solution For Trend Trading And Filtering With All
+   Important Features Built Inside One Tool! Trend Pro's smart algorithm
+   detects the trend, filters out market noise and gives entry signals
+   with exit levels. The new features with enhanced rules for statistical
+   calculation improved the overall performance of this indicator.
+   Important Information Revealed Maximize the potential of Trend Pro,
+   please visit ► www.mql5.com/en/blogs/post/713938 Test the demo version
+   and explore its fea
+   Momentum Classic
+
+Momentum Classic
+
+   Momentum Classic is a completely automatic trading EA. It is a fact
+   that market is mostly trading in range and high-power bursts are rare.
+   These sharp movements are starting with momentum, which is a signal to
+   trend start, increased volatility and trading volumes. We built a
+   special algo, which seeks for such Impulse (Momentum), to signal trade
+   entry. Momentum Classic also has several filters, based on deviation
+   from standard market volatility, so the EA can tell noise from the real
+   trend emergi
+
+トレーディングシグナル
+
+   適切な取引戦略を選択し、数回クリックするだけで購読できます。 すべてのシグナルには詳細な統計情報と有益なチャートが用意されています。
+
+   取引シグナルプロバイダーになって世界中の何千人ものトレーダーにサブスクリプションを販売します。
+   シグナルサービスを使用すると、スタートアップ予算が小さくても、成功裡の戦略で収益を生み出すことができます。
+   MetaTrader 5, MetaTrader 4
+   30
+   Robo ea bonsai
+
+   成長
+          382%
+
+   購読者
+          16
+
+   週
+          97
+
+   トレード
+          2095
+
+   勝ち
+          75%
+
+   プロフィットファクター
+          2.26
+
+   最大DD
+          26%
+
+   35
+   Eye to Sky
+
+   成長
+          392%
+
+   購読者
+          28
+
+   週
+          40
+
+   トレード
+          428
+
+   勝ち
+          87%
+
+   プロフィットファクター
+          3.50
+
+   最大DD
+          29%
+
+   39
+   Super High Return 6 in 1
+
+   成長
+          418%
+
+   購読者
+          18
+
+   週
+          29
+
+   トレード
+          819
+
+   勝ち
+          90%
+
+   プロフィットファクター
+          1.90
+
+   最大DD
+          56%
+
+   30
+   ViVo Trade
+
+   成長
+          95%
+
+   購読者
+          4
+
+   週
+          37
+
+   トレード
+          543
+
+   勝ち
+          82%
+
+   プロフィットファクター
+          1.88
+
+   最大DD
+          19%
+
+   30
+   FOREXSTAY MT5
+
+   成長
+          913%
+
+   購読者
+          26
+
+   週
+          18
+
+   トレード
+          976
+
+   勝ち
+          83%
+
+   プロフィットファクター
+          13.86
+
+   最大DD
+          63%
+
+   30
+   EA HTMiX PROM5
+
+   成長
+          1 959%
+
+   購読者
+          96
+
+   週
+          91
+
+   トレード
+          3335
+
+   勝ち
+          79%
+
+   プロフィットファクター
+          2.23
+
+   最大DD
+          41%
+
+   30
+   HXY
+
+   成長
+          7 073%
+
+   購読者
+          7
+
+   週
+          29
+
+   トレード
+          459
+
+   勝ち
+          67%
+
+   プロフィットファクター
+          2.37
+
+   最大DD
+          31%
+
+   30
+   ManhaTTan Club
+
+   成長
+          1 045%
+
+   購読者
+          8
+
+   週
+          152
+
+   トレード
+          3081
+
+   勝ち
+          69%
+
+   プロフィットファクター
+          1.45
+
+   最大DD
+          19%
+
+   30
+   GoodInvest
+
+   成長
+          1 259%
+
+   購読者
+          53
+
+   週
+          72
+
+   トレード
+          619
+
+   勝ち
+          64%
+
+   プロフィットファクター
+          1.81
+
+   最大DD
+          49%
+
+   30
+   Drawdown three percent
+
+   成長
+          978%
+
+   購読者
+          145
+
+   週
+          22
+
+   トレード
+          719
+
+   勝ち
+          63%
+
+   プロフィットファクター
+          1.62
+
+   最大DD
+          37%
+
+     * MQL5.community
+          + オンライントレード/ウェブターミナル
+          + 無料のインディケータとエキスパートアドバイザ
+          + プログラミングと取引についての記事
+          + エキスパートアドバイザとインディケータを依頼する
+          + 取引ロボットとインディケータを購入する
+          + FX取引シグナル
+          + 取引の為のForex VPS
+          + トレーダーフォーラム
+          + トレーダーのブログ
+          + チャート
+     * MetaTrader 5
+          + 取引プラットフォーム　MetaTrader 5
+          + MetaTrader 5の最新アップデート
+          + ニュース、実装、技術
+          + MetaTrader 5ユーザーマニュアル
+          + 取引戦略のためのMQL5言語
+          + MQL5 Cloud Network
+          + エンドツーエンドの分析
+          + MetaTrader 5をダウンロードする
+          + プラットフォームのインストール
+          + プログラムの削除
+     * サイト情報
+          + プロジェクトについて
+          + サイトニュース
+          + 利用条件
+          + プライバシーとデータ保護に関する方針
+          + クッキーに関する方針
+          + 連絡先
+     * MetaTrader 5をダウンロードしてください！
+          + Windows
+          + iPhone/iPad
+          + Mac OS
+          + Android
+          + Linux
+          + ニュースをフォロー
+       ブローカーではなく、実際の取引口座はありません
+       13 Anastasi Sioukri, 3105, Limassol, Cyprus
+       Copyright 2000-2019, MetaQuotes Ltd.
+   #Forum über Handel, automatische Handelssysteme und Strategiestests für
+   MetaTrader 5 Artikel über die Entwicklung und Nutzung von
+   Handelsrobotern und technischen Indikatoren für MetaTrader {0} Code
+   Base - eine kostenlose Datenbank von Handelsrobotern und technischen
+   Indikatoren für den MetaTrader 5 Freelance Service für Trader alternate
+   alternate alternate alternate alternate alternate alternate
+
+     * Startseite
+          + Webterminal
+          + Dokumentation
+          + Kalender
+          + CodeBase
+          + Artikel
+          + Freelance
+          + Market
+          + Signale
+          + VPS
+          + Forum
+          + Über uns
+     * [ ]
+
+     * Einloggen
+     * Registrieren
+
+   Deutsch
+     * English
+     * Русский
+     * 中文
+     * Español
+     * Português
+     * 日本語
+     * [ ]
+
+   ____________________
+   Submit
+   ...
+
+   [ ]
+   Einloggen oderRegistrieren und den Zugang zu allen Vorteilen unserer
+   Dienstleistungen bekommen.
+
+Forum für Händler
+
+   Stellen Sie Fragen zur technischen Analyse, diskutieren Sie über
+   Handelssysteme und verbessern Sie Ihre Kenntnisse im Programmieren von
+   Handelsstrategien in der MQL5 Programmiersprache.
+
+   Tauschen Sie sich mit anderen Händlern aus der ganzen Welt aus und
+   helfen Sie den Anfängern — unsere Community entwickelt sich mit Ihrer
+   Hilfe.
+   Allgemeine Diskussion, Handelssysteme, Börse, Roboter und Expert
+   Advisors, technische Indikatoren, Artikel über Trading, mql4 und
+   metatrader 4
+   18
+
+Probleme mit Werten aus ICustom
+
+   Hallo, ich versteh die Funktion ja nicht, einmal geht sie, dann wieder
+   nicht. Die initialisierung eines Indikators funktioniert nur zeitweise
+   bei mir ich verwende folgenden code im globalen  double TMAweek[];   //
+   Wochenbasisdouble TMAweekUp[];   // Wochenbasisdouble TMAweekLo[];
+   //...
+   Vaitage
+
+Paypal zum Zahlen deaktiviert? - Gelöst, es gibt es wieder!
+
+   Servus. Vielleicht kann mir jemand weiter helfen, ich kann nix mehr per
+   PAYPAL kaufen, wurde dies abgestellt? MFG Vaitage
+   2
+
+Zero divine error
+
+   Ich habe einen zero divide bekommen, wenn ich das ea im
+   Strategietestertesten will (####), aber mit dem ea ist alles in
+   Ordnung, das Problem ist der Indikator. kann mir jemand helfen? mfg
+   9
+
+Agenten in virtueller Maschine Berechnungen für MQL5 Cloud Netzwerk ausführen
+lassen?
+
+   Hallo, wie im Thema schon angesprochen, würde ich gern wissen ob es nun
+   möglich ist; Agenten in einer virtuellen Maschine Berechnungen für das
+   MQL5 Cloud Netzwerk ausführen zu lassen? Im einem anderern Post im
+   Englischen Forum der schon viele Jahre zurück liegt schreibt jemand das
+   dies mit der
+   1
+
+Benachrichtigungen vom Indikaor aufs Handy bekommen
+
+   Hallo zusammen, ich nutze den MT 4 und habe einen Indikator darauf
+   laufen welcher mir Signale gibt. Nun sitze ich ja nicht den ganzen Tag
+   vor dem Bildschirm und würde mir gerne wenn der Indikator ein Signal
+   anzeigt dies als Meldung auf`s Handy senden lassen, oder an meine Mail
+   Adresse, die ploppen
+   5
+
+Datenqualität im MT5
+
+   Hallo, egal, was ich beim Backtest im MT5 einstelle, ich erhalte immer
+   nur 11% Datenqualität. Was mache ich falsch? Woher bekomme ich
+   vernünftige Daten zum Testen? Angeblich sollen mit MT5 bis zu 100%
+   Datenqualität erreicht werden. Nur wie? Ich teste einen EA im H1 im EUR
+   / USD. Vielleicht könnt Ihr
+   19
+
+Agenten Liste auf MQL5-Konto bleibt leer.
+
+   Hallo, seit 1 Woche habe ich im MetaTester5 4 Agenten laufen mit
+   insgesamt 43 Durchläufen. Dennoch ist die Liste der Agenten in meinem
+   MQL5-Konto Leer. Im MetaTester5 bei MQL5 Cloud Network habe ich bei
+   Konto den Benutzernamen angegeben und beim MetaTrader5 in den Optionen
+   -> Community meine
+   8
+
+Zusätzliche Abbuchung
+
+   Hallo Mitstreiter, ich habe ein Signal abonniert, Kosten 30 Dollar laut
+   Forum und laut MT4. Nun habe ich gebucht und es wurden 5,70 Dollar mehr
+   abgebucht, was scheinbar bei jedem Signal passiert. In den Kosten
+   stehen 30 Euro und wenn ich verlängern möchte, tauchen plötzlich die
+   5,70 Euro wieder auf
+   1
+
+Handelsroboter Metadrader MQL4
+
+   Hallo, Ich benutze Metadrader 4 und nquotes für automatisches Handeln.
+   Gibt es hier schon bessere Tools für .Net oder ist dass das einzig
+   brauchbare? Danke im Voraus
+   11
+
+EA auf externen Server laufen lassen, aber welchen???
+
+   Guten Abend zusammen, ich habe nun meinen ersten EA programmiert
+   bekommen und diesen über 36Std. am Notebook durchlaufen lassen. Da dies
+   jedoch keine Dauerlösung ist wolle ich es auf einen externen Server
+   auslagern. Hier kommen nun meine Fragen: 1. ich gehe davon aus das ein
+   Windows und kein Linux
+
+Artikel über den Handel an Finanzmärkten
+
+   Lernen Sie Ihre eigenen technischen Indikatoren und Handelsroboter
+   basierend auf Beispielen von Artikeln zu erstellen, die von erfahrenen
+   Tradern für Sie geschrieben wurden.
+
+   Teilen Sie Ihre Erfahrung im Handel und Programmieren mit angehenden
+   Algo-Tradern — schreiben Sie einen Artikel darüber, wir übersetzen ihn
+   in sechs Sprachen und zahlen Ihnen $200!
+   MetaTrader 5, MetaTrader 4
+   Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für
+   den MetaTrader (Teil XIII): Ereignisse des Kontoobjekts
+
+Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für den
+MetaTrader (Teil XIII): Ereignisse des Kontoobjekts
+
+   Der Artikel behandelt die Arbeit mit Kontoereignissen, um wichtige
+   Änderungen in den Kontoeigenschaften zu verfolgen, die den
+   automatisierten Handel beeinflussen. Wir haben bereits im vorherigen
+   Artikel bei der Entwicklung der Kollektion von Kontoobjekten einige
+   Funktionen zur Verfolgung von Kontoereignissen implementiert.
+   Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für
+   den MetaTrader (Teil XIII): Objektklasse "Account" und die Kollektion
+   von Konto-Objekten
+
+Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für den
+MetaTrader (Teil XIII): Objektklasse "Account" und die Kollektion von
+Konto-Objekten
+
+   Im vorherigen Artikel haben wir für MQL4 in der Bibliothek der
+   Ereignisse des Positionsschließens definiert und die ungenutzten
+   Auftragseigenschaften beseitigt. Hier werden wir die Erstellung des
+   Konto-Objekts betrachten, die Kollektion von Konto-Objekten entwickeln
+   und die Funktionsweise zur Verfolgung von Konto-Ereignissen
+   vorbereiten.
+   Entwicklung eines plattformübergreifenden Grider-EAs (Teil III):
+   Korrekturbasiertes Raster mit Martingal
+
+Entwicklung eines plattformübergreifenden Grider-EAs (Teil III):
+Korrekturbasiertes Raster mit Martingal
+
+   In diesem Artikel werden wir versuchen, den bestmögliche,
+   rasterbasierten EA zu entwickeln. Wie üblich wird dies ein
+   plattformübergreifender EA sein, der sowohl mit MetaTrader 4 als auch
+   mit MetaTrader 5 arbeiten kann. Der erste EA war gut genug, außer dass
+   er über einen langen Zeitraum keinen Gewinn erzielen konnte. Der zweite
+   EA konnte in Zeiträumen von mehr als einigen Jahren arbeiten. Leider
+   konnte er nicht mehr als 50% Gewinn pro Jahr bei einem maximalen
+   Drawdown von weniger als 50% erzielen.
+   Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für
+   den MetaTrader (Teil XI). Kompatibilität mit MQL4 - Ereignisse des
+   Schließens von Positionen
+
+Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für den
+MetaTrader (Teil XI). Kompatibilität mit MQL4 - Ereignisse des Schließens von
+Positionen
+
+   Wir setzen die Entwicklung einer großen plattformübergreifenden
+   Bibliothek fort, die die Entwicklung von Programmen für MetaTrader 5
+   und MetaTrader 4 Plattformen vereinfacht. Im zehnten Teil haben wir
+   unsere Arbeit an der Bibliothekskompatibilität mit MQL4 fortgesetzt und
+   die Ereignisse der Eröffnung von Positionen und der Aktivierung von
+   offenen Orders definiert. In diesem Artikel werden wir die Ereignisse
+   des Schließens von Positionen definieren und die nicht verwendeten
+   Auftragseigenschaften beseitigen.
+   Optimierungsmanagement (Teil I): Erstellen einer GUI
+
+Optimierungsmanagement (Teil I): Erstellen einer GUI
+
+   Dieser Artikel beschreibt den Prozess der Erstellung einer Erweiterung
+   für das MetaTrader-Terminal. Die vorgestellte Lösung hilft, den
+   Optimierungsprozess zu automatisieren, indem Optimierungen in anderen
+   Terminals durchgeführt werden. Es werden noch einige weitere Artikel zu
+   diesem Thema geschrieben. Die Erweiterung wurde unter Verwendung der
+   Sprache C# und der Designmuster entwickelt, was zusätzlich die
+   Fähigkeit demonstriert, die Terminalfunktionen durch die Entwicklung
+   benutzerdefinierter Module zu erweitern, sowie die Fähigkeit,
+   benutzerdefinierte grafische Benutzeroberflächen mit der
+   Funktionsvielfalt einer bevorzugten Programmiersprache zu erstellen.
+   Den Gewinn bis zum letzten Pip extrahieren
+
+Den Gewinn bis zum letzten Pip extrahieren
+
+   Der Artikel beschreibt den Versuch, Theorie und Praxis im
+   algorithmischen Handelsbereich zu verbinden. Die meisten Diskussionen
+   über das Erstellen von Handelssystemen stehen im Zusammenhang mit der
+   Verwendung historischer Bars und verschiedener darauf angewandter
+   Indikatoren. Dies ist das am besten abgedeckte Feld und deshalb werden
+   wir es nicht berücksichtigen. Bars sind künstliches Konstrukte,
+   versuchen wir näher an die ursprünglichen Daten zu kommen - den
+   Preis-Ticks.
+   Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für
+   den MetaTrader (Teil X): Kompatibilität mit MQL4 - Ereignisse der
+   Positionseröffnung und der Aktivierung von Pending-Orders
+
+Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für den
+MetaTrader (Teil X): Kompatibilität mit MQL4 - Ereignisse der
+Positionseröffnung und der Aktivierung von Pending-Orders
+
+   In den vorherigen Artikeln haben wir begonnen, eine große
+   plattformübergreifende Bibliothek zu erstellen, die die Entwicklung von
+   Programmen für MetaTrader 5 und MetaTrader 4 Plattformen vereinfacht.
+   Im neunten Teil haben wir begonnen, die Bibliotheksklassen für die
+   Arbeit mit MQL4 zu verbessern. Hier werden wir die Bibliothek weiter
+   verbessern, um ihre volle Kompatibilität mit MQL4 zu gewährleisten.
+   Organisation einer Mailing-Kampagne mit den Google-Services
+
+Organisation einer Mailing-Kampagne mit den Google-Services
+
+   Ein Händler kann eine Mailing-Kampagne organisieren, um
+   Geschäftsbeziehungen zu anderen Händlern, Abonnenten, Kunden oder
+   Freunden zu pflegen. Außerdem kann es notwendig sein, Screenshots, Logs
+   oder Berichte zu versenden. Dies sind vielleicht nicht die am
+   häufigsten auftretenden Aufgaben, aber eine solche Möglichkeit ist
+   eindeutig von Vorteil. Der Artikel beschäftigt sich mit der
+   gleichzeitigen Nutzung mehrerer Google-Dienste, der Entwicklung einer
+   geeigneten Assembly auf C# und der Integration mit MQL-Tools.
+   Entwicklung eines plattformübergreifenden Expert Advisors zur
+   Festlegung von StopLoss und TakeProfit basierend auf den
+   Risikoeinstellungen.
+
+Entwicklung eines plattformübergreifenden Expert Advisors zur Festlegung von
+StopLoss und TakeProfit basierend auf den Risikoeinstellungen.
+
+   In diesem Artikel erstellen wir einen Expert Advisor für die
+   automatisierte Berechnung der Losgrößen bei der Eröffnung auf Basis von
+   Risikowerten. Auch der Expert Advisor kann TakeProfit mit dem gewählten
+   Verhältnis zu StopLoss automatisch platzieren. Das heißt, er kann einen
+   TakeProfit basierend auf einem beliebigen Verhältnis berechnen, z.B. 3
+   zu 1, 4 zu 1 oder einem anderen ausgewählten Wert.
+   Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für
+   den MetaTrader (Teil IX): Kompatibilität mit MQL4 - Datenvorbereitung
+
+Bibliothek für ein leichtes und schnelles Entwickeln vom Programmen für den
+MetaTrader (Teil IX): Kompatibilität mit MQL4 - Datenvorbereitung
+
+   In den vorherigen Artikeln haben wir begonnen, eine große
+   plattformübergreifende Bibliothek zu erstellen, die die Entwicklung von
+   Programmen für MetaTrader 5 und MetaTrader 4 Plattformen vereinfacht.
+   Im achten Teil haben wir die Klasse zur Verfolgung von Ereignissen der
+   Auftrags- und Positionsänderung implementiert. Hier werden wir die
+   Bibliothek verbessern, indem wir die vollständige Kompatibilität mit
+   MQL4 herstellen.
+
+Aufträge für Freiberufler
+
+   Bestellen Sie einen technischen Indikator oder Roboter für Ihre
+   Handelsstrategie oder ein anderes Programm für die MetaTrader Plattform
+   bei geprüften Entwicklern.
+
+   Profis des Algo-Tradings finden im Freelance-Service hunderte Aufträge,
+   garantierte Vergütung für die geleitete Arbeit und direkte Auszahlung
+   des verdienten Geldes über bequeme Zahlungssysteme.
+   indikatoren, experten, integration, konvertierung, sonstiges
+   30
+
+Benötige einen Expert Advisor
+
+   Hallo. Ich benötige einen EA der anhand eines bereits erworbenen
+   Indikators handelt. Er soll jedes Mal eine Order platzieren wenn der
+   Indikator ein Signal setzt und diese schließen wenn der Indikator ein
+   gegensätzliches Signal setzt oder der TP bzw der SL greift. TP, SL
+   sowie Lotgröße soll frei
+   50
+
+Ein EA, mit Fracktal und EMA arbeitet
+
+   Ich suche jemanden der für mich ein EA programmiert , das folgende
+   Einstellungen hat: EA kontrolliert die Preisbewegung nach EMA ( 2 EMA )
+   und sich bildende Fractal . Öffnet nach der Fractalbildung den die
+   Position mit dem SL am Gipfel des Fracktals. Die Position arbeitet
+   danach mit Trailingstopp
+   80
+
+Weekday seasonality EA that enters and exits at a set time with uptick rule
+
+   I would need a simple Trading Bot to fulfill a seasonality strategy. It
+   buys an instrument at a set time and then sells it again at a later
+   weekday and time. It has an extra option which is the up/downtick rule
+   which optimizes the entry and exit e.g. by only buying after a certain
+   sequence of
+   30
+
+Programming in MQL4 with Panels and Dialogs
+
+   Hello, I am looking for high professional MQL coder with very good
+   experience with panels and dialogs. The coder should be very
+   professional. Please apply if you are the right person. I will pay on
+   hourly base ($30 per hour). The programming should be done via
+   TeamViewer. Please contact me. Best
+   30
+
+EA mit Fractal und EMA Arbeitet
+
+   Ich suche jemanden der für mich ein EA programmiert , das folgende
+   Einstellungen hat: EA kontrolliert die Preisbewegung nach EMA ( 2 EMA )
+   und sich bildende Fractal . Öffnet nach der Fractalbildung den die
+   Position mit dem SL am Gipfel des Fracktals. Die Position arbeitet
+   danach mit Trailingstopp
+   100
+
+Simple socket connection of MATLAB and MetaTrader 5. Price negotiable.
+
+   I need to be able to run commands (for buy by market, get historical
+   data etc.) from Matlab and send them to MetaTrader and receive results
+   back to Matlab. It should work on a Windows 10 OS.  So the task is to
+   create socket communication with Matlab and MetaTrader 5 (MT5) similar
+   to another job
+   30
+
+Tool zum markieren offener und geschlossener Trades im Chart
+
+   Hallo, ich suche einen Entwickler, gerne (aus Bequemlichkeit) der
+   deutschen Sprache mächtig, der mir einen EA oder Utility schreibt,
+   welches geöffnete und später geschlossene Trades anzeigt, Ähnliche wie
+   im Strategie Tester. Ich möchte visuell sehen, wann eine Position
+   geöffnet wurde und wann diese
+   50
+
+Need a EA wich can trade Telegram Signals on my metatrader 5 account
+
+   EA must be connected with telgram. EA has to trade the signals from
+   telegram to metatrader 5. It must be able to set tp and sl.  Pls
+   contact me if you are able to  do this
+   100
+
+Expert Advisor basierend auf EMA´s
+
+   Hallo ich benötige einen Handelsroboter der mit 2 EMA´s arbeitet dabei
+   soll sobald eine erfüllung erfolgt den Trade Schließen und zugleich
+   wieder öffnen. beispiel:EMA1 ist auf 10 eingestellt und EMA2 auf 20.Der
+   erste Trade ist somit wenn die beiden EMA´s sich kreuzen zb. ein Long,
+   der Trade soll
+   400
+
+Erstellen eines eigenen TSI-Indikators
+
+   Für eine Handelsanwendung soll aus laufenden Preisdaten in
+   einer Tabelle ein eigener TSI-Indikator (10,5,5) erstellt werden, der
+   einmal pro Minute ermittelt wird. Und zwar jeweils nach dem Schema
+   eines 30 Minuten und eines Tagescharts.  Dazu soll aus dem TSI-Wert ein
+
+Market
+
+   Jeden Tag erscheinen Dutzende neue Anwendungen für die Automatisierung
+   des Handels im Market. Wählen Sie die passende App aus 10 000 Produkten
+   aus und befreien Sie sich von unnötigen monotonen Aufgaben.
+
+   Verkaufen Sie Ihre Programme für Algo-Trading in unserem Market, dem
+   größten Marktplatz für Anwendungen für Trader!
+   MetaTrader 5, MetaTrader 4
+   CreateGridOrdersTune
+
+CreateGridOrdersTune
+
+   A script for opening a grid of orders If you need to quickly open
+   several pending orders (Buy Limit, Sell Limit, Buy Stop, Sell Stop) on
+   a certain distance from the current price, this script will do all the
+   routine for you! Allow AutoTrading before running the script. Usage:
+   Run the script on a chart. Input Parameters: Language of messages
+   displayed (EN, RU, DE, FR, ES) - language of the output messages
+   (English, Russian, German, French, Spanish). Price for open - open
+   price. If set to
+   TS Trade
+
+TS Trade
+
+   DESCRIÇÃO O TS Trade é um robô desenvolvido por profissionais com longa
+   experiência no Mercado Financeiro. É baseado em algoritmos de
+   negociação avançados. Tem como principal característica uma gestão de
+   risco rigorosa.É perfeito para quem busca uma ferramenta eficaz para
+   automatizar suas negociações. Instale o Robô e deixe que ele faça todo
+   o trabalho por você. MÉTODO O TS Trade utiliza um algoritmo o qual
+   possibilita identificar uma tendência do mercado a partir da
+   movimentação de duas méd
+   Alphabot MT5
+
+Alphabot MT5
+
+   There are expert advisors. We call them bots. And this is Alphabot.
+   Alphabot for MetaTrader4 is
+   here: https://www.mql5.com/en/market/product/41549 Every trade
+   has fixed Stop Loss and Take Profit.  NO Martingale / Grid involved.
+   Alphabot is designed for ForEx currency pairs only. It was
+   NOT checked on Shares / Stocks / Metals / CFDs etc. Pairs
+   recommendations The s
+   Fast Copy MT5
+
+Fast Copy MT5
+
+   The program allows to copy trades between different MetaTrader 5 and
+   MetaTrader 4 accounts in any direction and amount quickly and easily.
+   Any type of copying is available MT4 → MT5 MT4 → MT4 MT5 → MT5 MT5 →
+   MT4 * To copy between different MT4 ↔️ MT5 terminals, you must purchase
+   two versions of the product How the program works The program copies
+   transactions between two or more terminals installed on one "PC" or
+   "VPS". You need to install the progra
+   ST Easy Order Creator
+
+ST Easy Order Creator
+
+   This very powerful and user-friendly tool was designed to create new
+   orders and manage open positions easily with full control of your risk.
+   Please Install my Toolmanager first! (click here)! With this tool you
+   can create new market or pending orders with automatic stop-loss,
+   take-profit and automatic calculated or fixed lot size with only a few
+   clicks. Just move the levels for entry, stop-loss and take-profit to
+   the desired values and enter the risk as an absolute value, as percent
+   of your eq
+   Multi Matrix Trader
+
+Multi Matrix Trader
+
+   Currently at a discount until 12th of October We are investing in our
+   experience additional €100K real money, do you want to join us in our
+   journey ? Please note! Do not try to test Multi Matrix Trader in the
+   Strategy Tester, due to MetaTrader 4 platform limitation and platform
+   availability to test only one pair at a time. Multi Matrix Trader opens
+   positions on several FX pairs at the same time. Live trading results
+   : https://www.mql5.com/en/signals/604257 Metatrader
+   Virtuoso
+
+Virtuoso
+
+   Эксперт - симбиоз торговых алгоритмов. Предназначен для торговли
+   основными валютными парами, имеет защиту от сбоев - при восстановлении
+   соединения советник продолжит работу со своими ордерами.   Робот
+   контролирует объем торговых позиций, проскальзывание,  раздвижку
+   спреда,  время торговли, осуществляет сопровождение и защиту открытых
+   ордеров, может работать с депозитом любого размера. ПАРАМЕТРЫ Use_LOGO
+   - использовать логотип на графике Use_Time - использовать
+   MiriumInvestSoft EA
+
+MiriumInvestSoft EA
+
+   This advisor was created with the aim of taking from the market a small
+   profit, during low volatility. We studied the market, strategies and
+   algorithms for a long time to find the best entry point. Each
+   transaction is accompanied by a protective stop and virtual profit. We
+   have provided for slippage and widening of the spread.All this together
+   gives very good results. The EA uses several indicators.
+   Recommendations. We found the best option for the risk of profit on two
+   currency pairs: EURUS
+   PipFinite Trend PRO
+
+PipFinite Trend PRO
+
+   Breakthrough Solution For Trend Trading And Filtering With All
+   Important Features Built Inside One Tool! Trend Pro's smart algorithm
+   detects the trend, filters out market noise and gives entry signals
+   with exit levels. The new features with enhanced rules for statistical
+   calculation improved the overall performance of this indicator.
+   Important Information Revealed Maximize the potential of Trend Pro,
+   please visit ► www.mql5.com/en/blogs/post/713938 Test the demo version
+   and explore its fea
+   Momentum Classic
+
+Momentum Classic
+
+   Momentum Classic is a completely automatic trading EA. It is a fact
+   that market is mostly trading in range and high-power bursts are rare.
+   These sharp movements are starting with momentum, which is a signal to
+   trend start, increased volatility and trading volumes. We built a
+   special algo, which seeks for such Impulse (Momentum), to signal trade
+   entry. Momentum Classic also has several filters, based on deviation
+   from standard market volatility, so the EA can tell noise from the real
+   trend emergi
+
+Handelssignale
+
+   Wählen Sie eine passende Handelsstrategie und abonnieren Sie sie mit
+   wenigen Klicks. Alle Signale sind mit einer detaillierten Statistik und
+   informativen Charts versehen.
+
+   Werden Sie Provider von Handelssignalen und verkaufen Sie Abonnements
+   für Ihr Signal an tausende Trader weltweit. Dank unserem Service kann
+   Ihre Gewinnstrategie auch bei einem geringen Startkapital Profite
+   bringen.
+   MetaTrader 5, MetaTrader 4
+   30
+   Robo ea bonsai
+
+   Wachstum
+          382%
+
+   Abonnenten
+          16
+
+   Wochen
+          97
+
+   Trades
+          2095
+
+   Win
+          75%
+
+   Profit-Faktor
+          2.26
+
+   Max. Rückgang
+          26%
+
+   35
+   Eye to Sky
+
+   Wachstum
+          392%
+
+   Abonnenten
+          28
+
+   Wochen
+          40
+
+   Trades
+          428
+
+   Win
+          87%
+
+   Profit-Faktor
+          3.50
+
+   Max. Rückgang
+          29%
+
+   39
+   Super High Return 6 in 1
+
+   Wachstum
+          418%
+
+   Abonnenten
+          18
+
+   Wochen
+          29
+
+   Trades
+          819
+
+   Win
+          90%
+
+   Profit-Faktor
+          1.90
+
+   Max. Rückgang
+          56%
+
+   30
+   ViVo Trade
+
+   Wachstum
+          95%
+
+   Abonnenten
+          4
+
+   Wochen
+          37
+
+   Trades
+          543
+
+   Win
+          82%
+
+   Profit-Faktor
+          1.88
+
+   Max. Rückgang
+          19%
+
+   30
+   FOREXSTAY MT5
+
+   Wachstum
+          913%
+
+   Abonnenten
+          26
+
+   Wochen
+          18
+
+   Trades
+          976
+
+   Win
+          83%
+
+   Profit-Faktor
+          13.86
+
+   Max. Rückgang
+          63%
+
+   30
+   EA HTMiX PROM5
+
+   Wachstum
+          1959%
+
+   Abonnenten
+          96
+
+   Wochen
+          91
+
+   Trades
+          3335
+
+   Win
+          79%
+
+   Profit-Faktor
+          2.23
+
+   Max. Rückgang
+          41%
+
+   30
+   HXY
+
+   Wachstum
+          7073%
+
+   Abonnenten
+          7
+
+   Wochen
+          29
+
+   Trades
+          459
+
+   Win
+          67%
+
+   Profit-Faktor
+          2.37
+
+   Max. Rückgang
+          31%
+
+   30
+   ManhaTTan Club
+
+   Wachstum
+          1045%
+
+   Abonnenten
+          8
+
+   Wochen
+          152
+
+   Trades
+          3081
+
+   Win
+          69%
+
+   Profit-Faktor
+          1.45
+
+   Max. Rückgang
+          19%
+
+   30
+   GoodInvest
+
+   Wachstum
+          1259%
+
+   Abonnenten
+          53
+
+   Wochen
+          72
+
+   Trades
+          619
+
+   Win
+          64%
+
+   Profit-Faktor
+          1.81
+
+   Max. Rückgang
+          49%
+
+   30
+   Drawdown three percent
+
+   Wachstum
+          978%
+
+   Abonnenten
+          145
+
+   Wochen
+          22
+
+   Trades
+          719
+
+   Win
+          63%
+
+   Profit-Faktor
+          1.62
+
+   Max. Rückgang
+          37%
+
+     * MQL5.community
+          + Webtrading / Webterminal
+          + Kostenlose Indikatoren und Expert Advisors
+          + Artikel über Programmierung und Trading
+          + Expert Advisors und Indikatoren bestellen
+          + Handelsroboter und Indikatoren kaufen
+          + Forex Handelssignale
+          + Forex VPS für Trading
+          + Forum für Händler
+          + Blogs von Tradern
+          + Charts
+     * MetaTrader 5
+          + MetaTrader 5 Handelsplattform
+          + Letzte Updates für MetaTrader 5
+          + Neuigkeiten, Innovationen und Technologien
+          + MetaTrader 5 Benutzerhandbuch
+          + MQL5 Programmiersprache von Handelstrategien
+          + MQL5 Cloud Network
+          + End-to-End Analytics
+          + MetaTrader 5 herunterladen
+          + Terminal installieren
+          + Terminal deinstallieren
+     * Über die Webseite
+          + Über uns
+          + Chronik
+          + AGB
+          + Privatsphäre und Datenschutz
+          + Cookies-Richtlinien
+          + Kontakt
+     * Mach mit — lade MetaTrader 5 herunter!
+          + Windows
+          + iPhone/iPad
+          + Mac OS
+          + Android
+          + Linux
+          + Tradays Wirtschaftskalender
+       Kein Broker, keine echten Handelskonten
+       13 Anastasi Sioukri, 3105, Limassol, Cyprus
+       Copyright 2000-2019, MetaQuotes Ltd.
+   #alternate alternate alternate alternate alternate alternate alternate
+
+     * Home
+          + WebTerminal
+          + Documentation
+          + Calendar
+          + CodeBase
+          + Articles
+          + Freelance
+          + Market
+          + Signals
+          + VPS
+          + Forum
+          + About
+     * [ ]
+
+     * Login
+     * Sign up >>
+
+   English
+     * Русский
+     * 中文
+     * Español
+     * Português
+     * 日本語
+     * Deutsch
+     * [ ]
+
+   ____________________
+   Submit
+   ...
+
+   [ ]
+   ____________________
+     * Everywhere
+     * Documentation
+     * Articles
+     * Forum
+     * CodeBase
+     * Market
+     * Signals
+     * Freelance
+     * Profiles
+     * Blogs
+     * Calendar
+     * Platform
+
+   ____________________
+   [BUTTON Input] (not implemented)______
+     * Everywhere
+     * Documentation
+     * Articles
+     * Forum
+     * CodeBase
+     * Market
+     * Signals
+     * Freelance
+     * Profiles
+     * Blogs
+     * Calendar
+     * Platform
+
+   (*) By date | ( ) By relevance
+   Search
+
+   Searching is based on morphology and is insensitive to case. All
+   letters, no matter of their case, will be processed as lowercase.
+
+   By default, our search engine shows pages, that contain all words from
+   a search query. You don't need to enter AND operator between words in
+   query. To make search results more relevant, enter additional search
+   criteria.
+   ____________________
+   MQL5 & MetaTrader 5 MQL4 & MetaTrader 4
+     * MQL5.community
+          + Online trading / WebTerminal
+          + Free technical indicators and robots
+          + Articles about programming and trading
+          + Order trading robots on the Freelance
+          + Market of Expert Advisors and applications
+          + Follow forex signals
+          + Low latency forex VPS
+          + Traders forum
+          + Trading blogs
+          + Charts
+     * MetaTrader 5
+          + MetaTrader 5 Trading Platform
+          + MetaTrader 5 latest updates
+          + News, implementations and technology
+          + MetaTrader 5 User Manual
+          + MQL5 language of trading strategies
+          + MQL5 Cloud Network
+          + End-to-End Analytics
+          + Download MetaTrader 5
+          + Install Platform
+          + Uninstall Platform
+     * Website
+          + About
+          + Timeline
+          + Terms and Conditions
+          + Privacy and Data Protection Policy
+          + Cookies Policy
+          + Contacts and requests
+     * Join us — download MetaTrader 5!
+          + Windows
+          + iPhone/iPad
+          + Mac OS
+          + Android
+          + Linux
+          + Tradays Economic Calendar
+       Not a broker, no real trading accounts
+       13 Anastasi Sioukri, 3105, Limassol, Cyprus
+       Copyright 2000-2019, MetaQuotes Ltd.
+   #alternate alternate alternate alternate alternate alternate alternate
+
+     * Home
+          + WebTerminal
+          + Documentation
+          + Calendar
+          + CodeBase
+          + Articles
+          + Freelance
+          + Market
+          + Signals
+          + VPS
+          + Forum
+          + About
+     * [ ]
+
+     * Login
+     * Sign up >>
+
+   English
+     * Русский
+     * 中文
+     * Español
+     * Português
+     * 日本語
+     * Deutsch
+     * [ ]
+
+   ____________________
+   Submit
+   ...
+
+   [ ]
+
+Cookies Policy
+
+What are cookies?
+
+   Cookies are small text files containing a string of numbers and letters
+   that are placed on your hard disk every time you visit a certain
+   webpage. These files allow to identify your browser when you visit the
+   same website again. Cookies can store user settings and other
+   information. You can set your browser to reject all cookies or to
+   notify you when you receive a cookie.
+
+   Please note however that some website features or services may not
+   function properly without cookies. Any data collected in this manner
+   cannot be used to individually identify website users. Cookies cannot
+   be used to run programs or deliver viruses to your computer.
+
+How do we use cookies?
+
+   Our pages use "session" cookies to remember for example your language
+   choices and display preferences (such as contrast color settings or
+   font size). These cookies are deleted from your computer when you close
+   your browser.
+
+   We also use a limited number of persistent cookies. These remain stored
+   on your computer until you delete them, or until they expire, usually
+   after a short period of time going.
+
+   We use cookies to control and improve the use of our website, collect
+   non-personal information about our users and store your preferences and
+   other information on your computer in order to save your time by
+   eliminating the need to repeatedly enter the same information and to
+   display your personalized content on your later visits to our website.
+   This information is also used for statistical analysis to tailor
+   content to usage patterns.
+
+   The cookie-related information is not used to identify you personally
+   and the data collected on your browsing behavior on our website is kept
+   in fully secure conditions.
+
+   The majority of the cookies we use are of the analytic type, which
+   count number of users, help us to understand how they navigate our site
+   and improve the way it works, for instance by making search results
+   more accurate. We also use certain cookies for publicity purposes, so
+   that we can more efficiently manage the presentation of our products on
+   other platforms where users may request services, such as Facebook.
+
+The Following Cookies are Used in the Site:
+
+   Service provider Cookie name Content
+   MetaQuotes Ltd.
+   lang
+   Helps to remember preferred language selection of the visitor.
+   MetaQuotes Ltd.
+   uniq
+   Helps to identify visitors of the website.
+   MetaQuotes Ltd.
+   cookie_accept
+   Helps to remember visitor agreement of the cookie policy
+   MetaQuotes Ltd.
+   auth
+   Helps to identify registered visitors.
+   MetaQuotes Ltd.
+   sid
+   Helps to identify sessions of visitors.
+   MetaQuotes Ltd. _media_uuid
+   Helps to identify registered sessions of visitors.
+   MetaQuotes Ltd.
+   utm_campaign
+   Helps to identify the traffic source of visitors.
+   MetaQuotes Ltd.
+   utm_source
+   Helps to identify the traffic source of visitors.
+   MetaQuotes Ltd.
+   timeZoneCode
+   Helps to remember visitor's time zone in the Calendar service.
+   MetaQuotes Ltd.
+   hours24 Helps to remember visitor's 12/24 time format time in the
+   Calendar service.
+   MetaQuotes Ltd.
+   jobDialogCollapsed
+   Helps to remember information about chat statuses in the Freelance
+   service.
+   MetaQuotes Ltd.
+   chat
+   Helps to remember information about chat settings.
+   MetaQuotes Ltd.
+   mql5_chats
+   Helps to remember information about chat settings.
+   MetaQuotes Ltd.
+   mql5_chats_tok
+   Helps to remember information about chat settings.
+   MetaQuotes Ltd.
+   chatWidget_lastNotified
+   Helps to remember information about chat settings.
+   MetaQuotes Ltd.
+   mql5com_isLastActiveWindow
+   Helps to remember information about session settings of visitors.
+   Finteza Ltd.
+   _fz_ssn Third-party cookies. Helps to identify sessions of visitors.
+   Finteza Ltd.
+   _fz_fvdt
+   Third-party cookies. Helps to remember information about visitor.
+   Facebook
+    Facebook pixel
+   Third party pixels help us to reach our existing audience on Facebook
+   and supply them with relevant content. These are maintained for between
+   30 and 180 days.
+   For more information on Facebook's cookies usage please visit their
+   policy:
+     * Facebook cookie policy https://www.facebook.com/policies/cookies/
+     * Facebook privacy policy https://www.facebook.com/about/privacy
+
+How to control cookies / Turning off Cookies
+
+   If you'd like to delete cookies or instruct your web browser to delete
+   or refuse cookies, please visit the help pages of your web browser.
+   Please note, however, that if you delete cookies or refuse to accept
+   them, you might not be able to use all of the features we offer, you
+   may not be able to store your preferences, and some of our pages might
+   not display properly.
+
+   You can opt out of Facebook Pixel cookies by visiting the Adverts tab
+   in your Facebook profile settings.
+
+Contact Us
+
+   If you have questions about this Cookies Policy or the way personal
+   information is processed or used in connection with the use of our
+   Software Applications or websites, please contact us. Your request must
+   include your name and other information needed for the identification,
+   as well as for the full and complete processing of your request.
+
+   Updated: 20th April 2018
+     * MQL5.community
+          + Online trading / WebTerminal
+          + Free technical indicators and robots
+          + Articles about programming and trading
+          + Order trading robots on the Freelance
+          + Market of Expert Advisors and applications
+          + Follow forex signals
+          + Low latency forex VPS
+          + Traders forum
+          + Trading blogs
+          + Charts
+     * MetaTrader 5
+          + MetaTrader 5 Trading Platform
+          + MetaTrader 5 latest updates
+          + News, implementations and technology
+          + MetaTrader 5 User Manual
+          + MQL5 language of trading strategies
+          + MQL5 Cloud Network
+          + End-to-End Analytics
+          + Download MetaTrader 5
+          + Install Platform
+          + Uninstall Platform
+     * Website
+          + About
+          + Timeline
+          + Terms and Conditions
+          + Privacy and Data Protection Policy
+          + Cookies Policy
+          + Contacts and requests
+     * Join us — download MetaTrader 5!
+          + Windows
+          + iPhone/iPad
+          + Mac OS
+          + Android
+          + Linux
+          + Tradays Economic Calendar
+       Not a broker, no real trading accounts
+       13 Anastasi Sioukri, 3105, Limassol, Cyprus
+       Copyright 2000-2019, MetaQuotes Ltd.

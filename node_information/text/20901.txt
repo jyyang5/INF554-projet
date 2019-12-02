@@ -1,0 +1,547 @@
+   #publisher Bleeping Computer's News
+
+   logo
+     *
+     *
+     *
+
+   ____________________
+   Login Sign up
+
+     *
+     *
+     *
+
+   ____________________
+   Login Sign up
+     * News
+          + Featured
+          + Latest
+          + Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10 Image
+            Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10
+          + Macy's Customer Payment Info Stolen in Magecart Data Breach
+            Image
+            Macy's Customer Payment Info Stolen in Magecart Data Breach
+          + Intel is Removing End of Life Drivers and BIOS Downloads Image
+            Intel is Removing End of Life Drivers and BIOS Downloads
+          + IRS Publishes Guidance to Help Taxpayers Fight Identity Theft
+            Image
+            IRS Publishes Guidance to Help Taxpayers Fight Identity Theft
+          + Android Camera App Bug Lets Apps Record Video Without
+            Permission Image
+            Android Camera App Bug Lets Apps Record Video Without
+            Permission
+          + Shade Ransomware Is the Most Actively Distributed Malware via
+            Email Image
+            Shade Ransomware Is the Most Actively Distributed Malware via
+            Email
+          + Louisiana Government Suffers Outage Due to Ransomware Attack
+            Image
+            Louisiana Government Suffers Outage Due to Ransomware Attack
+          + Macy's Customer Payment Info Stolen in Magecart Data Breach
+            Image
+            Macy's Customer Payment Info Stolen in Magecart Data Breach
+     * Downloads
+          + Latest
+          + Most Downloaded
+          + STOPDecrypter Image
+            STOPDecrypter
+          + AuroraDecrypter Image
+            AuroraDecrypter
+          + FilesLockerDecrypter Image
+            FilesLockerDecrypter
+          + 360 Total Security Image
+            360 Total Security
+          + AdwCleaner Image
+            AdwCleaner
+          + ComboFix Image
+            ComboFix
+          + RKill Image
+            RKill
+          + Junkware Removal Tool Image
+            Junkware Removal Tool
+     * Virus Removal Guides
+          + Latest
+          + Most Viewed
+          + Ransomware
+          + Remove the Full System Care PUP Image
+            Remove the Full System Care PUP
+          + Remove the Searchpowerapp.com Search Redirect Image
+            Remove the Searchpowerapp.com Search Redirect
+          + Remove the Power App Chrome Extension Image
+            Remove the Power App Chrome Extension
+          + Remove the HD Video Player PUP Image
+            Remove the HD Video Player PUP
+          + Remove Security Tool and SecurityTool (Uninstall Guide) Image
+            Remove Security Tool and SecurityTool (Uninstall Guide)
+          + How to remove Antivirus 2009 (Uninstall Instructions) Image
+            How to remove Antivirus 2009 (Uninstall Instructions)
+          + How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+            Image
+            How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+          + How to remove Google Redirects or the TDSS, TDL3, or Alureon
+            rootkit using TDSSKiller Image
+            How to remove Google Redirects or the TDSS, TDL3, or Alureon
+            rootkit using TDSSKiller
+          + Locky Ransomware Information, Help Guide, and FAQ Image
+            Locky Ransomware Information, Help Guide, and FAQ
+          + CryptoLocker Ransomware Information Guide and FAQ Image
+            CryptoLocker Ransomware Information Guide and FAQ
+          + CryptorBit and HowDecrypt Information Guide and FAQ Image
+            CryptorBit and HowDecrypt Information Guide and FAQ
+          + CryptoDefense and How_Decrypt Ransomware Information Guide and
+            FAQ Image
+            CryptoDefense and How_Decrypt Ransomware Information Guide and
+            FAQ
+     * Tutorials
+          + Latest
+          + Popular
+          + Fix a Missing api-ms-win-crt-runtime-l1-1-0.dll DLL in Windows
+            Image
+            Fix a Missing api-ms-win-crt-runtime-l1-1-0.dll DLL in Windows
+          + How to Use Windows Defender to Scan a Folder for Malware Image
+            How to Use Windows Defender to Scan a Folder for Malware
+          + How to Find the Windows Defender Version Installed in Windows
+            10 Image
+            How to Find the Windows Defender Version Installed in Windows
+            10
+          + How to Enable the Windows 10 Tamper Protection Security
+            Feature Image
+            How to Enable the Windows 10 Tamper Protection Security
+            Feature
+          + How to start Windows in Safe Mode Image
+            How to start Windows in Safe Mode
+          + How to remove a Trojan, Virus, Worm, or other Malware Image
+            How to remove a Trojan, Virus, Worm, or other Malware
+          + How to show hidden files in Windows 7 Image
+            How to show hidden files in Windows 7
+          + How to see hidden files in Windows Image
+            How to see hidden files in Windows
+     * Deals
+          + Categories
+          + eLearning Image
+                                      eLearning
+          + IT Certification Courses Image
+                               IT Certification Courses
+          + Gear & Gadgets Image
+                                    Gear + Gadgets
+          + Security Image
+                                       Security
+     * Forums
+     * More
+          + Startup Database
+          + Uninstall Database
+          + File Database
+          + Glossary
+          + Chat on Discord
+          + Send us a Tip!
+          + Welcome Guide
+
+   Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10 Image
+
+Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10
+
+   Macy's Customer Payment Info Stolen in Magecart Data Breach Image
+
+Macy's Customer Payment Info Stolen in Magecart Data Breach
+
+   Intel is Removing End of Life Drivers and BIOS Downloads Image
+
+Intel is Removing End of Life Drivers and BIOS Downloads
+
+   IRS Publishes Guidance to Help Taxpayers Fight Identity Theft Image
+
+IRS Publishes Guidance to Help Taxpayers Fight Identity Theft
+
+   Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10
+
+Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10
+
+   Macy's Customer Payment Info Stolen in Magecart Data Breach
+
+Macy's Customer Payment Info Stolen in Magecart Data Breach
+
+   Intel is Removing End of Life Drivers and BIOS Downloads
+
+Intel is Removing End of Life Drivers and BIOS Downloads
+
+   IRS Publishes Guidance to Help Taxpayers Fight Identity Theft
+
+IRS Publishes Guidance to Help Taxpayers Fight Identity Theft
+
+   Latest Articles
+     * Android Camera App Bug Lets Apps Record Video Without Permission
+       Image
+       Security, Mobile
+
+Android Camera App Bug Lets Apps Record Video Without Permission
+       A new vulnerability has been found in the Camera apps for millions,
+       if not hundreds of millions, of Android devices that could allow
+       other apps to record video, take pictures, and extract GPS data
+       from media without having the required permissions.
+          + Lawrence Abrams
+          + November 19, 2019
+          + 07:30 AM
+          + Comment 0
+     * Shade Ransomware Is the Most Actively Distributed Malware via Email
+       Image
+       Security
+
+Shade Ransomware Is the Most Actively Distributed Malware via Email
+       During the first half of 2019, the Shade Ransomware (also known as
+       Troldesh) was the most actively distributed malware via malicious
+       email phishing campaigns according to Singapore-based Group-IB
+       security outfit.
+          + Sergiu Gatlan
+          + November 19, 2019
+          + 01:00 AM
+          + Comment 0
+     * Louisiana Government Suffers Outage Due to Ransomware Attack Image
+       Security, Government
+
+Louisiana Government Suffers Outage Due to Ransomware Attack
+       The state government of Louisiana was hit by a ransomware attack
+       today that impacted numerous state services including the Office of
+       Motor Vehicles, the Department of Health, and the Department of
+       Transportion and Development.
+          + Lawrence Abrams
+          + November 18, 2019
+          + 07:51 PM
+          + Comment 0
+     * Macy's Customer Payment Info Stolen in Magecart Data Breach Image
+       Security
+
+Macy's Customer Payment Info Stolen in Magecart Data Breach
+       Macy's has announced that they have suffered a data breach due to
+       their web site being hacked with malicious scripts that steal
+       customer's payment information.
+          + Lawrence Abrams
+          + November 18, 2019
+          + 06:13 PM
+          + Comment 1
+     * Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10 Image
+       Microsoft, Security
+
+Microsoft Is Adding DNS-Over-HTTPS (DoH) to Windows 10
+       Microsoft announced that it's working on adding support for the
+       privacy-focused DNS over HTTPS (DoH) protocol in a future Windows
+       10 release, while also keeping the addition of DNS over TLS (DoT)
+       on the table.
+          + Sergiu Gatlan
+          + November 18, 2019
+          + 05:32 PM
+          + Comment 1
+     * Google Chrome's 'Close Other Tabs' Option Is Back! Image
+       Google, Software
+
+Google Chrome's 'Close Other Tabs' Option Is Back!
+       Google just released Google Chrome 78.0.3904.108 and with it is the
+       return of the 'Close other tabs' feature that Google mistakenly
+       took out in previous versions.
+          + Lawrence Abrams
+          + November 18, 2019
+          + 05:00 PM
+          + Comment 0
+     * IRS Publishes Guidance to Help Taxpayers Fight Identity Theft Image
+       Security
+
+IRS Publishes Guidance to Help Taxpayers Fight Identity Theft
+       Security Summit partners including the Internal Revenue Service
+       (IRS), the US tax industry, and several state tax agencies
+       published security guidance and updated content to highlight
+       identity theft precautions to be taken during the incoming holiday
+       shopping season.
+          + Sergiu Gatlan
+          + November 18, 2019
+          + 04:10 PM
+          + Comment 0
+     * Buran Ransomware Infects PCs via Microsoft Excel Web Queries Image
+       Security
+
+Buran Ransomware Infects PCs via Microsoft Excel Web Queries
+       A new spam campaign has been spotted distributing the Buran
+       Ransomware through IQY file attachments. When opened, these
+       Microsoft Excel Web Query attachments will execute a remote command
+       that installs the ransomware onto a victim's computer.
+          + Lawrence Abrams
+          + November 18, 2019
+          + 03:36 PM
+          + Comment 1
+     * Linux, Windows Users Targeted With New ACBackdoor Malware Image
+       Security, Linux
+
+Linux, Windows Users Targeted With New ACBackdoor Malware
+       Researchers have discovered a new multi-platform backdoor that
+       infects Windows and Linux systems allowing the attackers to run
+       malicious code and binaries on the compromised machines.
+          + Sergiu Gatlan
+          + November 18, 2019
+          + 02:23 PM
+          + Comment 3
+     * Intel is Removing End of Life Drivers and BIOS Downloads Image
+       Hardware
+
+Intel is Removing End of Life Drivers and BIOS Downloads
+       If you are user of old Intel hardware, be sure to create a
+       backup of your drivers or BIOS updates as Intel will no longer make
+       them available for download once they reach end of life.
+          + Lawrence Abrams
+          + November 18, 2019
+          + 10:54 AM
+          + Comment 7
+     * Get 98% Off The Machine Learning & Artificial Intelligence
+       Certification Bundle Deal Image
+       Sponsored Deals
+
+Get 98% Off The Machine Learning & Artificial Intelligence Certification
+Bundle Deal
+       This deal is for a eight course bundle with over 44 hours of
+       training in machine learning and artificial intelligence. Using
+       these courses, you will be introduced to Tensorflow, visualizing
+       data with R, performing data analysis with Python, and more.
+          + Sponsored Content
+          + November 18, 2019
+          + 08:32 AM
+          + Comment 0
+     * Microsoft to Stop Supporting Cortana on Android and iOS Image
+       Microsoft
+
+Microsoft to Stop Supporting Cortana on Android and iOS
+       Microsoft has announced that they will no longer support the
+       Cortana digital personal assistant app on Android and iOS devices
+       starting in 2020.
+          + Lawrence Abrams
+          + November 18, 2019
+          + 03:37 AM
+          + Comment 2
+     * How to Download the Windows 10 1909 ISO From Microsoft Image
+       Microsoft
+
+How to Download the Windows 10 1909 ISO From Microsoft
+       Now that Microsoft has released Windows 10 1909, otherwise known as
+       the November 2019 Update, ISO disk images are also available. As it
+       is always a good practice to have the original media for the latest
+       version of Windows 10 available, we will explain how you can
+       download the Windows 10 1909 ISO directly from Microsoft.
+          + Lawrence Abrams
+          + November 17, 2019
+          + 11:21 AM
+          + Comment 5
+     * Microsoft Removes Windows 10 1909 Realtek Driver Update Block Image
+       Microsoft
+
+Microsoft Removes Windows 10 1909 Realtek Driver Update Block
+       Microsoft removed a compatibility hold caused by outdated Realtek
+       Bluetooth drivers and published a support document describing a
+       workaround designed to help Windows 10 users still affected by the
+       safeguard hold.
+          + Sergiu Gatlan
+          + November 16, 2019
+          + 11:33 AM
+          + Comment 0
+     * Microsoft Office 365 Admins Targeted by Ongoing Phishing Campaign
+       Image
+       Security
+
+Microsoft Office 365 Admins Targeted by Ongoing Phishing Campaign
+       A new phishing campaign is actively targeting Microsoft Office 365
+       administrators with the end goal of compromising their entire
+       domain and using newly created accounts on the domain to deliver
+       future phishing emails.
+          + Sergiu Gatlan
+          + November 16, 2019
+          + 10:30 AM
+          + Comment 0
+     * The Week in Ransomware - November 15th 2019 - Holy Ransomware Image
+       Security
+
+The Week in Ransomware - November 15th 2019 - Holy Ransomware
+       What better way to target a large amount of victims, then to go
+       after providers with numerous customers, which is what we saw this
+       week when SmarterASP.net was hit by the Snatch Ransomware and a new
+       ransomware called NextCry specifically targets the NextCloud file
+       sharing solution.
+          + Lawrence Abrams
+          + November 15, 2019
+          + 06:16 PM
+          + Comment 0
+     * Windows 10 Build 19025 With Throttled Search Indexer Out for
+       Insiders Image
+       Microsoft
+
+Windows 10 Build 19025 With Throttled Search Indexer Out for Insiders
+       Microsoft has released Windows 10 Insider Preview Build 19025
+       (20H1) to Insiders in the Fast ring, a release that comes with
+       throttling for the Windows Search indexer to tackle excessive disk
+       usage and activity.
+          + Sergiu Gatlan
+          + November 15, 2019
+          + 04:29 PM
+          + Comment 0
+     * US Govt Recommends Vendor System Configs To Block Malware Attacks
+       Image
+       Security
+
+US Govt Recommends Vendor System Configs To Block Malware Attacks
+       The Department of Homeland Security's Cybersecurity and
+       Infrastructure Security Agency (CISA) today reminded users and
+       system administrators to properly configure their systems to defend
+       against malware that can exploit improper configurations.
+          + Sergiu Gatlan
+          + November 15, 2019
+          + 02:44 PM
+          + Comment 0
+     * New NextCry Ransomware Encrypts Data on NextCloud Linux Servers
+       Image
+       Security
+
+New NextCry Ransomware Encrypts Data on NextCloud Linux Servers
+       A new ransomware has been found in the wild that is currently
+       undetected by antivirus engines on public scanning platforms. Its
+       name is NextCry due to the extension appended to encrypted files
+       and that it targets clients of the NextCloud file sync and share
+       service.
+          + Ionut Ilascu
+          + November 15, 2019
+          + 02:08 PM
+          + Comment 0
+     * DDoS-for-Hire Services Owner Sentenced to 13 Months in Prison Image
+       Security
+
+DDoS-for-Hire Services Owner Sentenced to 13 Months in Prison
+       Sergiy P. Usatyuk, the owner and admin of several DDoS-for-hire
+       services also known as booters or stressers, was sentenced to 13
+       months in prison, to be followed by three years of supervised
+       release.​​​​​​​
+          + Sergiu Gatlan
+          + November 15, 2019
+          + 12:37 PM
+          + Comment 0
+
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+     *
+     *
+
+   View More
+
+   Popular Stories
+     * [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+       How to Download the Windows 10 1909 ISO From Microsoft
+     * [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+       Intel is Removing End of Life Drivers and BIOS Downloads
+
+   Latest forum topics
+     * Active Directory site & Subnets issue
+       ram738693 in Windows Server
+     * cloning issue?
+       golfman60 in Windows XP Home and Professional
+     * cloning issue?
+       golfman60 in Windows 7
+
+Newsletter Sign Up
+
+   To receive periodic updates and news from BleepingComputer, please use
+   the form below.
+   ____________________
+   ____________________
+   Submit
+   Latest virus removal guides
+     * Remove the Full System Care PUP Image
+       Remove the Full System Care PUP
+       Filed Under: Adware
+     * Remove the Searchpowerapp.com Search Redirect Image
+       Remove the Searchpowerapp.com Search Redirect
+       Filed Under: Adware
+     * Remove the Power App Chrome Extension Image
+       Remove the Power App Chrome Extension
+       Filed Under: Adware
+     * Remove the HD Video Player PUP Image
+       Remove the HD Video Player PUP
+       Filed Under: Adware
+     * Remove the IObyte System Care PUP Image
+       Remove the IObyte System Care PUP
+       Filed Under: Adware
+
+   Latest Downloads
+     * UCheck Logo
+       UCheck
+       Version: NA
+       19,482 Downloads
+     * Windows Repair (All In One) Logo
+       Windows Repair (All In One)
+       Version: 4.6.1
+       1M+ Downloads
+     * AdwCleaner Logo
+       AdwCleaner
+       Version: 7.4.2.0
+       54M+ Downloads
+     * CCleaner Logo
+       CCleaner
+       Version: 5.61
+       449,386 Downloads
+     * STOPDecrypter Logo
+       STOPDecrypter
+       Version: 2.2.0.0
+       19,798 Downloads
+
+Newsletter Sign Up
+
+   ____________________
+   ____________________
+   Submit
+     * Follow us:
+     *
+     *
+     *
+     *
+
+Main Sections
+
+     * News
+     * Downloads
+     * Virus Removal Guides
+     * Tutorials
+     * Startup Database
+     * Uninstall Database
+     * File Database
+     * Glossary
+
+Community
+
+     * Forums
+     * Forum Rules
+     * Chat
+
+Useful Resources
+
+     * Welcome Guide
+     * Sitemap
+
+Company
+
+     * About BleepingComputer
+     * Contact Us
+     * Send us a Tip!
+     * Advertising
+     * Write for BleepingComputer
+     * Social & Feeds
+     * Changelog
+
+   Terms of Use - Privacy Policy
+
+   Copyright @ 2003 - 2019 Bleeping Computer^® LLC - All Rights Reserved
+
+Login
+
+   Username ____________________
+   Password ____________________
+   [X] Remember Me
+   [ ] Sign in anonymously
+   Login Sign in with Twitter Sign in with Twitter
+     __________________________________________________________________
+
+   Not a member yet? Register Now

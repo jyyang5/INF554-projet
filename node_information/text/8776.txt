@@ -1,0 +1,2408 @@
+   #publisher
+
+   Pour la science
+     * Menu
+     * Archives
+     * Recherche
+
+     * Newsletter
+     * Suivez-nous sur Twitter !
+     * Likez-nous sur Facebook !
+     * Flux RSS
+
+     * Je m'abonne !
+     * Connexion
+     * Connexion
+
+   ____________________ Recherche
+
+     * Je m'abonne
+     * Archives
+     * ____________________ Recherche
+     * Archéo
+     * Espace
+     * Vivant
+     * Maths-info
+     * Physique
+     * Cerveau
+     * Société
+     * Techno
+     * Terre
+
+   Dossier Pour la Science N°66
+   Dossier Pour la Science N°66 - Janvier 2010
+   17,5 Mo
+
+L'ère d'internet
+
+   Acheter S'abonner à partir de 4,90€ Déjà abonné ? Identifiez-vous
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Google +
+     * Imprimer
+
+   Dans ce numéro
+
+   Les enjeux d'un réseau global.
+
+   En 40 ans, les réseaux, et en premier lieu Internet, ont conquis le
+   monde et l'ont transformé. Nous sommes désormais dans une société de
+   l'information où bénéfices et inconvénients vont de pair. L'exploration
+   des rouages des réseaux de communication n'en est que plus
+   indispensable.
+   Mots Clés
+     * Internet
+     * Réseau
+     * Information
+     * Communication
+     * Cybercrime
+     * Vie privée
+     * Web
+     * Google
+     * Sécurité
+     * Téléphone
+     * Virus
+     * Multimédia
+     * Wikipédia
+     * Hadopi
+     * Wi-fi
+
+Édito
+
+   Loïc Mangin
+
+La sagesse des réseaux
+
+   L’information, la connaissance et la culture sont des piliers
+   essentiels du développement humain. La façon dont elles sont produites
+   et échangées au sein de nos sociétés influe notoirement sur notre
+   perception de l’état du monde. Yochaï Benkler, Université Harvard
+   Loïc Mangin
+
+Fondamental
+
+   Faire fortune avec les longues traînes
+   Informatique
+
+Faire fortune avec les longues traînes
+
+   Certaines distributions de nombres s'étalent largement : elles sont
+   bien plus fréquentes qu'on ne le croyait, et les sociétés sur Internet
+   les exploitent pour créer une nouvelle économie florissante.
+   Jean-Paul Delahaye
+
+   Internet, un auxiliaire de la démocratie ?
+   Informatique
+
+Internet, un auxiliaire de la démocratie ?
+
+   Internet, en permettant à chacun de s'exprimer comme il l'entend et de
+   s'informer auprès de multiples sources, favorise-t-il le débat
+   démocratique ? La réponse est à nuancer, mais il autorise
+   indéniablement de nouvelles formes démocratiques.
+   Patrice Flichy
+
+   L'émergence de la science du Web
+   Informatique
+
+L'émergence de la science du Web
+
+   L'étude scientifique d'Internet s'impose pour prévoir son
+   développement, pour améliorer l'accès à l'information, pour lutter
+   contre la cybercriminalité ou pour mieux gérer nos vies en ligne.
+   Nigel Shadbolt et Tim Berners-Lee
+
+   Peut-on se fier à Wikipédia ?
+   Informatique
+
+Peut-on se fier à Wikipédia ?
+
+   L'encyclopédie gratuite et en ligne Wikipédia connaît un réel
+   engouement. Elle est cependant inachevée et son mode d'élaboration ne
+   la préserve pas des erreurs ou des manipulations de l'information.
+   Anaïg Mahé
+
+   Les courbes, garantes de la sécurité
+   Informatique
+
+Les courbes, garantes de la sécurité
+
+   En cryptographie, le système RSA a atteint ses limites, tant les
+   algorithmes pour le casser s'améliorent. Aujourd'hui, il est en passe
+   d'être détrôné par les méthodes fondées sur les courbes elliptiques.
+   Pierrick Gaudry
+
+   1909-2009, l'odyssée des réseaux
+   Informatique
+
+1909-2009, l'odyssée des réseaux
+
+   Les réseaux et les algorithmes qui y gèrent le trafic sont de plus en
+   plus complexes. Ils sont conçus et modélisés à l'aide d'outils
+   mathématiques de la théorie des probabilités. Les deux principaux sont
+   les processus de Poisson et ceux de Markov.
+   Philippe Robert
+
+   Les réseaux invariants d'échelle
+   Informatique
+
+Les réseaux invariants d'échelle
+
+   Dotés de nombreux nœuds peu connectés et de supernœuds qui le sont
+   beaucoup, les réseaux invariants d'échelle résistent mieux que les
+   réseaux aléatoires à la mise hors circuit accidentelle de plusieurs
+   nœuds. En revanche, une attaque ciblée de quelques supernœuds menace
+   l'ensemble du système.
+   Albert-László Barabási et Éric Bonabeau
+
+   Les objets en réseau
+   Informatique
+
+Les objets en réseau
+
+   De plus en plus de produits sont aujourd'hui marqués par des étiquettes
+   rfid grâce auxquelles ils communiquent des informations les concernant.
+   C'est le premier pas vers l'intelligence ambiante où les machines
+   parlent aux machines.
+   David Simplot-Ryl
+
+   L'architecture d'Internet à l'ère du mouvement
+   Informatique
+
+L'architecture d'Internet à l'ère du mouvement
+
+   L'architecture simple et décentralisée d'Internet a assuré son succès.
+   Toutefois, elle peine à s'adapter à la mobilité nouvelle des
+   utilisateurs et des données. Un changement du système de référencement
+   au sein du réseau pourrait y remédier, ceci sans renier les principes
+   fondateurs.
+   Walid Dabbous
+
+   Vers le tout-en-réseau ?
+   Informatique
+
+Vers le tout-en-réseau ?
+
+   L'ordinateur personnel tel que nous le connaissons est-il condamné ?
+   Pour leurs besoins en informatique, scientifiques, entreprises et
+   particuliers ont de plus en plus recours à de grands serveurs répartis
+   dans le monde et reliés par Internet. L'informatique devient un service
+   distribué par un réseau.
+   Thierry Priol
+
+   Comment gouverner Internet ?
+   Informatique
+
+Comment gouverner Internet ?
+
+   Internet a été créé avec un souci de transparence par une « communauté
+   » où chacun peut s'exprimer. Cet esprit perdure, et les décisions quant
+   à son évolution sont collégiales. Quelqu'un de mal intentionné ne peut
+   pas imposer sa volonté.
+   Jean-François Abramatic
+
+   Naviguer dans l'océan du multimédia
+   Informatique
+
+Naviguer dans l'océan du multimédia
+
+   Internet abrite de plus en plus d'images, de sons et de vidéos. De
+   nouvelles méthodes de reconnaissance sont en cours de développement
+   afin de nous aider à nous y retrouver dans cette pléthore de données
+   hétérogènes.
+   Nozha Boujemaa
+
+   Le secret de Google
+   Informatique
+
+Le secret de Google
+
+   L'ensemble des pages Internet disponibles constitue une base
+   d'informations tentaculaire, parcourue par les moteurs de recherche.
+   Google ne lève qu'une partie du voile sur ses méthodes…
+   Jean-Paul Delahaye
+
+   Boulevard du cybercrime
+   Informatique
+
+Boulevard du cybercrime
+
+   Autrefois l'apanage de particuliers avides d'actions spectaculaires,
+   l'élaboration de programmes malveillants s'est professionnalisée. Elle
+   a aujourd'hui des enjeux multiples, aussi bien économiques que
+   politiques. De ce fait, les nouveaux virus se camouflent…
+   Jean-Yves Marion et Matthieu Kaczmarek
+
+   Les virus à l'assaut des téléphones mobiles
+   Informatique
+
+Les virus à l'assaut des téléphones mobiles
+
+   Les virus informatiques s'attaquent désormais aux téléphones mobiles.
+   Entreprises de sécurité, opérateurs et fabricants doivent se mobiliser
+   contre cette nouvelle menace, qui pourrait se révéler encore plus
+   sérieuse que pour les ordinateurs personnels.
+   Mikko Hypponen
+
+   Internet et vie privée, des frères ennemis ?
+   Informatique
+
+Internet et vie privée, des frères ennemis ?
+
+   Aujourd'hui, dès que des informations sont diffusées sur Internet,
+   elles échappent à tout contrôle et sont accessibles à tous et en
+   permanence. Pour que l'utilisateur retrouve son autorité, son anonymat
+   et son indépendance, plusieurs projets sont à l'étude.
+   Claude Castelluccia
+
+   Le monde a ses réseaux ...
+   Informatique
+
+Le monde a ses réseaux ...
+
+   En 40 ans, les réseaux, et en premier lieu Internet, ont conquis le
+   monde et l'ont transformé. Nous sommes désormais dans une société de
+   l'information où bénéfices et inconvénients vont de pair. L'exploration
+   des rouages des réseaux de communication n'en est que plus
+   indispensable.
+   Thierry Priol
+
+Rendez-vous
+
+   Informatique
+
+Antennes à tête chercheuse
+
+   Avec la rubrique En images, embrassez du regard l'essentiel d'une
+   question : sur une double page, photographies et schémas synthétisent
+   les informations à retenir. Retrouvez cette rubrique au format pdf.
+
+   Informatique
+
+Le coût écologique d'Internet
+
+   Le monde d'Internet paraît « immatériel », mais il a besoin de machines
+   bien réelles pour exister. Et l'énergie qu'elles consomment n'a rien de
+   virtuel…
+   Laurent Lefèvre
+
+   Informatique
+
+À lire en plus
+
+   Une sélection d'ouvrages acessibles pour approfondir le thème abordé
+   dans ce Dossier. Retrouvez cette rubrique au format pdf.
+
+   Informatique
+
+Optimiser le Wi-Fi
+
+   Avec la rubrique En images, embrassez du regard l'essentiel d'une
+   question : sur une double page, photographies et schémas synthétisent
+   les informations à retenir. Retrouvez cette rubrique au format pdf.
+
+   Informatique
+
+La loi Hadopi est-elle applicable ?
+
+   Depuis plusieurs années, le débat sur le téléchargement illégal fait
+   rage. En France, la loi dite Hadopi, qui devrait entrer en vigueur en
+   2010, vise à détecter et à punir les fraudeurs. Est-ce techniquement
+   possible ? Est-ce la meilleure réponse, dans une société transformée
+   par la révolution numérique ?
+   Claude Kirchner
+
+Thèmes
+
+   Internet
+
+Internet
+
+   Virus
+
+Virus
+
+   Ebola
+
+Ebola
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Offres d'Abonnement
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnez-vous
+   accédez à plus de 20 ans d'archives
+   à partir de 4,90€ par mois
+
+Nos dernières parutions
+
+     * Pour la Science n°503 N°503 Septembre 2019
+
+La fin des insectes ?
+     * Cerveau & Psycho n°113 N°113 Septembre 2019
+
+Cognition incarnée : quand le corps stimule la pensée
+     * Thema Pour la Science n°15 N°15 Août 2019
+
+Extraterrestres
+     * Pour la Science n°502 N°502 Août 2019
+
+La chasse aux trous blancs
+     * Thema Cerveau & Psycho n°14 N°14 Juillet 2019
+
+Psychonutrition
+
+   En kiosque
+     * Pour la Science n°503
+       N°503 Septembre 2019 Acheter M'abonner
+     * Hors-série Pour la Science n°104
+       N°104 Juillet 2019 Acheter M'abonner
+     * Thema Pour la Science n°15
+       N°15 Août 2019 Acheter M'abonner
+     * Cerveau & Psycho n°113
+       N°113 Septembre 2019 Acheter M'abonner
+
+   Newsletter ____________________ Envoyer
+   Retour en haut de page
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Abonnement Numérique
+
+Offre numérique
+
+   12 numéros + 4 hors-série
+   en version numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnement Numérique et Papier
+
+Offre intégrale
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+
+   Pour la Science
+
+Rubriques
+
+     * Diaporamas
+     * Vidéos
+     * Thèmes
+     * Blogs
+
+Boutique
+
+     * Abonnements
+     * Anciens numéros
+     * Applications
+
+Pratique
+
+     * Questions fréquentes
+     * Contact
+     * Qui sommes-nous ?
+     * Mentions Légales
+     * Annonceurs
+     * Conditions générales de vente
+     * Cookies
+     * Charte de protection des données personnelles
+     * Connexion
+     * Index des articles
+
+Les sites du groupe
+
+     * Belin Editeur
+     * Belin Education
+     * Editions de l’Observatoire
+     * Editions Le Pommier
+     * Puf
+     * Que sais-je ?
+     * Cerveau et Psycho
+     * Pour la Science
+     * Gerip
+     * Libthèque
+     * Scientific american
+
+   Recevez notre newsletter ____________________ Je m'inscris
+
+   Pour la Science
+   170 bis Boulevard du Montparnasse, 75014 Paris 06
+   N° CPPAP : 0922 W 91526
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Flux RSS
+     * Google +
+     * YouTube
+
+Vous avez déjà un compte ?
+
+Identification
+
+   Identifiez-vous pour accéder à vos contenus
+   ____________________ ____________________
+   Voir
+   [ ] Rester connecté ?
+   Me connecter Mot de passe oublié ?
+
+Vous n'avez pas encore de compte ?
+
+Inscription
+
+   Inscrivez-vous pour activer votre abonnement ou commander des numéros.
+   Créer mon compte
+   #publisher
+
+   Pour la science
+     * Menu
+     * Archives
+     * Recherche
+
+     * Newsletter
+     * Suivez-nous sur Twitter !
+     * Likez-nous sur Facebook !
+     * Flux RSS
+
+     * Je m'abonne !
+     * Connexion
+     * Connexion
+
+   ____________________ Recherche
+
+     * Je m'abonne
+     * Archives
+     * ____________________ Recherche
+     * Archéo
+     * Espace
+     * Vivant
+     * Maths-info
+     * Physique
+     * Cerveau
+     * Société
+     * Techno
+     * Terre
+
+   Pour la science N°385
+   Pour la science N°385 - Novembre 2009
+   17,5 Mo
+
+Hasard et incertitude, les défis qu’ils posent
+
+   Acheter S'abonner à partir de 4,90€ Déjà abonné ? Identifiez-vous
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Google +
+     * Imprimer
+
+   Dans ce numéro
+
+   La probabilité qu’un dé retombe sur telle ou telle de ses six faces est
+   égale à un sixième ? Faux ! Le hasard a peu de place dans la
+   construction des organismes vivants ? Faux ! Les événements
+   exceptionnels sont si rares qu’on peut les ignorer ? Faux !
+   Mots Clés
+     * Probabilités
+     * Prévisible
+     * Imprévisibilité
+     * Hasard
+     * Incertitudes
+     * Chance
+     * Malchance
+     * Défi
+     * Statistiques
+     * Chaos
+     * Déterminisme
+
+Édito
+
+Pandore et le hasard
+
+   Françoise Pétry
+
+Articles de fond
+
+   Du hasard dans l'expression des gènes
+   Génétique
+
+Du hasard dans l'expression des gènes
+
+   L'ordre apparent que représente tout organisme vivant suggère que le
+   hasard n'a pas sa place dans les cellules. Or le fonctionnement même
+   des cellules est la cause de variations aléatoires de la transcription
+   des gènes.
+   Thomas Heams
+
+   Le cancer sous l'emprise du milieu
+   Médecine
+
+Le cancer sous l'emprise du milieu
+
+   On admet généralement que le cancer résulte d'une série d'altérations
+   de gènes. Cette théorie ignore que l'expression des gènes est aléatoire
+   et sous-estime le rôle de l'environnement des cellules. Peut-on rendre
+   cohérentes ces informations ?
+   Jean-Pascal Capp
+
+   La statistique face aux événements rares
+   Mathématiques
+
+La statistique face aux événements rares
+
+   La loi des grands nombres et la distribution gaussienne, fondements de
+   l'étude statistique des grandeurs moyennes, échouent à rendre compte
+   des événements rares ou extrêmes. Pour ce faire, des outils
+   statistiques plus adaptés existent... mais ne sont pas toujours
+   utilisés !
+   Rama Cont
+
+   Hasard et déterminisme
+   Épistémologie
+
+Hasard et déterminisme
+
+   En reposant la question du déterminisme (ou de l'indéterminisme), les
+   philosophes éclairent une des questions qui préoccupent les chercheurs
+   : quelle est la part du hasard en sciences ?
+   François PÉpin
+
+   L'ADN entre hasard et contraintes
+   Biologie
+
+L'ADN entre hasard et contraintes
+
+   Depuis quelques années, le dogme de la biologie moléculaire est remis
+   en cause. Loin d'être un programme génétique gouvernant l'organisme,
+   l'adn est un générateur aléatoire de protéines soumis à des contraintes
+   sélectives imposées par son environnement.
+   Jean-Jacques Kupiec
+
+   Les dés sont pipés
+   Physique
+
+Les dés sont pipés
+
+   Les dés, jeu de hasard par excellence ? Pas tant que cela, répondent
+   les lois de la physique et les simulations numériques. Le résultat d'un
+   lancer de dés est plus prévisible qu'on ne le croit.
+   , et Tomasz Kapitaniak
+
+   Les sens au gré du hasard
+   Biologie cellulaire
+
+Les sens au gré du hasard
+
+   Le hasard joue un rôle fondamental dans le monde animal. Le
+   développement des systèmes sensoriels, qui met en jeu divers processus
+   aléatoires, mais régulés, en est la preuve.
+   Claude Desplan
+
+   Le casse-tête des petits effets
+   Mathématiques
+
+Le casse-tête des petits effets
+
+   On accorde parfois à de petites différences un sens qu'elles n'ont pas.
+   Distinguer les petits effets qui ont une pertinence statistique et ceux
+   qui relèvent du hasard est un défi pour les scientifiques.
+   Andrew Gelman et David Weakliem
+
+   Du chaos dans les neurones
+   Neurosciences
+
+Du chaos dans les neurones
+
+   Si, dans le cerveau, le hasard et le chaos jouent un grand rôle à
+   l'échelle microscopique, un ordre statistique se manifeste à l'échelle
+   des réseaux de neurones.
+   Hugues Berry et Bruno Cessac
+
+   La probabilité, un concept pluriel
+   Épistémologie
+
+La probabilité, un concept pluriel
+
+   Le calcul des probabilités est depuis plus de 70 ans une théorie
+   mathématique bien définie. En revanche, la signification des
+   probabilités et le rôle qu'y joue le hasard soulèvent encore des
+   difficultés conceptuelles.
+   Thierry Martin
+
+   Comment prévoir l'imprévisible ?
+   Économie
+
+Comment prévoir l'imprévisible ?
+
+   Les économistes élaborent des modèles qui anticipent les conséquences
+   de cataclysmes potentiels et proposent des mesures pour prévenir les
+   conséquences dramatiques de ces événements rares. Aujourd'hui, leurs
+   modèles tiennent compte de la psychologie des citoyens auxquels
+   s'adressent ces modèles. Un progrès notable.
+   Christian Gollier
+
+   Interpréter les probabilités
+   Épistémologie
+
+Interpréter les probabilités
+
+   L'interprétation des probabilités oscille depuis le xviie siècle entre
+   une conception « physique » et une conception en termes de degrés de
+   croyance – le bayésianisme. Une version récente, le bayésianisme
+   objectif, tente de surmonter cette opposition.
+   Mikaël Cozic et Isabelle Drouet
+
+   Chaos sous contrôle
+   Physique
+
+Chaos sous contrôle
+
+   Après avoir étudié les systèmes déterministes au comportement
+   chaotique, qui semblent évoluer aléatoirement et de façon imprévisible,
+   les physiciens apprennent à les contrôler.
+   Christophe Letellier
+
+   La part d'aléatoire dans l'évolution
+   Évolution
+
+La part d'aléatoire dans l'évolution
+
+   Le caractère statistique de la théorie de l'évolution est-il dû à un
+   indéterminisme intrinsèque de la nature ou à notre ignorance ? Nous
+   n'aurons la réponse qu'en quantifiant la part aléatoire de tous les
+   mécanismes qui la composent.
+   Christophe Malaterre et Francesca Merlin
+
+Opinions
+
+   On en reparle
+
+On en reparle
+
+   Retour sur des sujets déjà traités dans Pour la Science. Retrouvez
+   cette rubrique au format pdf
+   Bénédicte Salthun-Lassalle
+
+   Biologie
+
+Les bulles facilitent-elles l'ivresse ?
+
+   Oui. Même si les mécanismes biologiques en cause restent à préciser, le
+   dioxyde de carbone permet d'atteindre plus rapidement le pic
+   d'alcoolémie.
+   Mickaël Naassila
+
+   Environnement
+
+Inciter ou contraindre ?
+
+   Face au changement climatique, des incitations diverses et bien
+   choisies peuvent faire plus que les contraintes pour faire changer les
+   comportements.
+   Gilles Rotillon
+
+   Bloc-notes
+
+Bloc-notes
+
+   Retrouvez la chronique de Didier Nordon au format pdf
+   Didier Nordon
+
+   Médecine
+
+Paracétamol : ne pas dépasser la dose prescrite
+
+   Cette molécule, très utilisée, lutte efficacement contre la douleur et
+   la fièvre. Toutefois, à fortes doses, elle peut être toxique pour le
+   foie.
+   Bernard Calvino
+
+   Économie
+
+La beauté des modèles...
+
+   ... est mystérieuse, car il faudrait trop de temps pour les déterminer
+   convenablement. Aussi les politiques prennent-ils (nécessairement) des
+   décisions économiques aux conséquences inconnues.
+   Ivar Ekeland
+
+Actualités
+
+   Actualités
+
+Actualités
+
+   Retrouvez la rubrique d'actualités des sciences cognitives de ce numéro
+   au format pdf.
+
+Regards
+
+   Chimie
+
+Les dangers des bonnes choses
+
+   Le monde végétal est plein de dangers alimentaires que nous oublions ;
+   par gourmandise ?
+   Hervé This
+
+   Physique
+
+Le thérémine, un son venu d'ailleurs
+
+   La musique électronique existe depuis 1919. Le thérémine, instrument
+   que le musicien manipule sans toucher, le prouve.
+   Édouard Kierlik et Jean-Michel Courty
+
+   Mathématiques
+
+Escroquerie ou jeu risqué ?
+
+   Les pyramides de Ponzi sont considérées comme des escroqueries
+   bancaires, contre lesquelles il faut lutter sans merci. Elles
+   ressemblent cependant à d'autres jeux d'argent parfaitement légaux.
+   Jean-Paul Delahaye
+
+   Histoire des sciences
+
+Les approches de l'évolution avant Darwin
+
+   Diverses conceptions transformistes étaient présentes en Europe au xixe
+   siècle. Toutefois, elles restaient souvent sous l'emprise de l'idée
+   d'une création initiale. Un des principaux apports de Darwin fut de
+   s'en émanciper.
+   Thierry Hoquet
+
+   Art et science
+
+Le visage de la mort
+
+   En Afrique équatoriale, certains masques sont blancs. Cette couleur
+   rituellement associée à la mort illustre peut-être la couleur blanche
+   des défunts, quand leur peau s'est décollée.
+   Loïc Mangin
+
+   À lire
+
+À lire
+
+   Retrouvez notre sélection d'analyses d'ouvrages du mois au format pdf.
+   François Savatier
+
+Thèmes
+
+   Statistiques
+
+Statistiques
+
+   Théorie des jeux
+
+Théorie des jeux
+
+Magazines
+
+     * Dossier Pour la Science n°11 N°11 Avril 1996
+
+Le hasard
+     * Pour la science N°381 N°381 Juillet 2009
+
+Jouer...
+     * Thema Pour la Science n°11 N°11 Juin 2019
+
+Déjouer les pièges des statistiques
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Offres d'Abonnement
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnez-vous
+   accédez à plus de 20 ans d'archives
+   à partir de 4,90€ par mois
+
+Nos dernières parutions
+
+     * Pour la Science n°503 N°503 Septembre 2019
+
+La fin des insectes ?
+     * Cerveau & Psycho n°113 N°113 Septembre 2019
+
+Cognition incarnée : quand le corps stimule la pensée
+     * Thema Pour la Science n°15 N°15 Août 2019
+
+Extraterrestres
+     * Pour la Science n°502 N°502 Août 2019
+
+La chasse aux trous blancs
+     * Thema Cerveau & Psycho n°14 N°14 Juillet 2019
+
+Psychonutrition
+
+   En kiosque
+     * Pour la Science n°503
+       N°503 Septembre 2019 Acheter M'abonner
+     * Hors-série Pour la Science n°104
+       N°104 Juillet 2019 Acheter M'abonner
+     * Thema Pour la Science n°15
+       N°15 Août 2019 Acheter M'abonner
+     * Cerveau & Psycho n°113
+       N°113 Septembre 2019 Acheter M'abonner
+
+   Newsletter ____________________ Envoyer
+   Retour en haut de page
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Abonnement Numérique
+
+Offre numérique
+
+   12 numéros + 4 hors-série
+   en version numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnement Numérique et Papier
+
+Offre intégrale
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+
+   Pour la Science
+
+Rubriques
+
+     * Diaporamas
+     * Vidéos
+     * Thèmes
+     * Blogs
+
+Boutique
+
+     * Abonnements
+     * Anciens numéros
+     * Applications
+
+Pratique
+
+     * Questions fréquentes
+     * Contact
+     * Qui sommes-nous ?
+     * Mentions Légales
+     * Annonceurs
+     * Conditions générales de vente
+     * Cookies
+     * Charte de protection des données personnelles
+     * Connexion
+     * Index des articles
+
+Les sites du groupe
+
+     * Belin Editeur
+     * Belin Education
+     * Editions de l’Observatoire
+     * Editions Le Pommier
+     * Puf
+     * Que sais-je ?
+     * Cerveau et Psycho
+     * Pour la Science
+     * Gerip
+     * Libthèque
+     * Scientific american
+
+   Recevez notre newsletter ____________________ Je m'inscris
+
+   Pour la Science
+   170 bis Boulevard du Montparnasse, 75014 Paris 06
+   N° CPPAP : 0922 W 91526
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Flux RSS
+     * Google +
+     * YouTube
+
+Vous avez déjà un compte ?
+
+Identification
+
+   Identifiez-vous pour accéder à vos contenus
+   ____________________ ____________________
+   Voir
+   [ ] Rester connecté ?
+   Me connecter Mot de passe oublié ?
+
+Vous n'avez pas encore de compte ?
+
+Inscription
+
+   Inscrivez-vous pour activer votre abonnement ou commander des numéros.
+   Créer mon compte
+   #publisher
+
+   Pour la science
+     * Menu
+     * Archives
+     * Recherche
+
+     * Newsletter
+     * Suivez-nous sur Twitter !
+     * Likez-nous sur Facebook !
+     * Flux RSS
+
+     * Je m'abonne !
+     * Connexion
+     * Connexion
+
+   ____________________ Recherche
+
+     * Je m'abonne
+     * Archives
+     * ____________________ Recherche
+     * Archéo
+     * Espace
+     * Vivant
+     * Maths-info
+     * Physique
+     * Cerveau
+     * Société
+     * Techno
+     * Terre
+
+   Dossier Pour la Science N°59
+   Dossier Pour la Science N°59 - Avril 2008
+   17,5 Mo
+
+Jeux maths'
+
+   Acheter S'abonner à partir de 4,90€ Déjà abonné ? Identifiez-vous
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Google +
+     * Imprimer
+
+   Dans ce numéro
+
+   Tout le pouvoir d'attraction et d'envoûtement des mathématiques se
+   concentre dans les jeux mathématiques. Débarrassés des enjeux et du
+   carcan de la reine des sciences, ils peuvent être légers et plus
+   immédiatement délectables.
+   Mots Clés
+     * Jeux
+     * Mathématiques
+     * Défi
+     * Cryptographie
+     * Code
+     * Solitude
+     * Démonstration
+     * Dominos
+     * Jeux
+     * Suites
+     * Labyrinthe
+     * Stratégie
+     * Dame
+     * Échec
+     * Tour de hanoï
+
+Édito
+
+Esprits ludiques
+
+Fondamental
+
+   Divertissements féconds
+   Article
+
+Divertissements féconds
+
+   Tout le pouvoir d'attraction et d'envoûtement des mathématiques se
+   concentre dans les jeux mathématiques. Débarrassés des enjeux et du
+   carcan de la reine des sciences, ils peuvent être légers et plus
+   immédiatement délectables.
+   Jean Lefort et Philippe Boulanger
+
+   Les données inutiles
+   Article
+
+Les données inutiles
+
+   L'existence d'une donnée inutile dans un problème permet de le résoudre
+   et de prolonger l'observation pour découvrir de nouvelles propriétés
+   mathématiques.
+   Philippe Boulanger
+
+   Les meilleures stratégies
+   Article
+
+Les meilleures stratégies
+
+   Elles reposent bien souvent sur des décisions aléatoires, donc
+   imprévisibles pour l'adversaire !
+   Martin Gardner
+
+   Il n'y a pas moyen de moyenner !
+   Article
+
+Il n'y a pas moyen de moyenner !
+
+   Les (nombreux) pièges de calcul de moyenne sont tristes ou délectables
+   selon que l'on aime ou non les paradoxes…
+   Philippe Boulanger
+
+   Dominos dominés
+   Article
+
+Dominos dominés
+
+   Les dominos, doubles carrés avec des chiffres, sont la source d'une
+   variété insoupçonnée de questions et de récréations.
+   Philippe Boulanger et Éric Angelini
+
+   Énigmes sur les carrés magiques
+   Article
+
+Énigmes sur les carrés magiques
+
+   Alors que les carrés magiques sont connus et étudiés depuis des
+   siècles, quelques problèmes, d'énoncés pourtant simples, résistent !
+   Quel lecteur saura résoudre une (ou plusieurs) de ces cinq énigmes ?
+   Christian Boyer
+
+   Gadgets publicitaires
+   Article
+
+Gadgets publicitaires
+
+   Sam Loyd (1841-1911) était un professionnel des teasers, ces gadgets
+   que l'on distribuait afin d'attirer la clientèle.
+   Martin Gardner
+
+   Puzzles dans l'espace
+   Article
+
+Puzzles dans l'espace
+
+   Le puzzle dans l'espace est beaucoup plus difficile que dans le plan,
+   pratiquement, car la vision dans l'espace est un talent et,
+   théoriquement, car la reconstruction n'est pas toujours possible.
+   Jean Lefort
+
+   Le calculateur à spaghettis
+   Article
+
+Le calculateur à spaghettis
+
+   Les calculateurs analogiques réalisent de petits miracles en résolvant
+   par les lois de la physique des problèmes qui seraient longs à calculer
+   sur ordinateur.
+   Alexander Dewdney
+
+   L'aire d'une peau de vache
+   Article
+
+L'aire d'une peau de vache
+
+   Une machine analogique permet de mesurer les aires en utilisant une
+   propriété du trapèze : Sancta simplicitas.
+   Philippe Boulanger
+
+   Du taquin à l'âne rouge
+   Article
+
+Du taquin à l'âne rouge
+
+   Les casse-tête à pièces coulissantes, étudiés depuis des décennies,
+   sont mieux compris : on sait pourquoi il est si difficile de les
+   résoudre.
+   Jean-Paul Delahaye
+
+   <i>Sprouts</i> en herbe
+   Article
+
+Sprouts en herbe
+
+   Le jeu de Sprouts (« germe », en anglais) peut-il être analysé
+   théoriquement dans toutes ses possibilités ? Jouez-y et vous deviendrez
+   vite un maître.
+   Philippe Boulanger
+
+   De l'art du solitaire
+   Article
+
+De l'art du solitaire
+
+   Les possibilités du solitaire sont explicitées par l'examen des
+   invariants des mouvements autorisés des boules. La solution se mémorise
+   avec les mouvements multiples.
+   Pierre Tougne
+
+   Dissections et puzzles
+   Article
+
+Dissections et puzzles
+
+   Les dissections révèlent des propriétés inattendues. Les recherches sur
+   les travaux d'un mathématicien du xixe siècle, P. Gerwien, ont livré la
+   clef d'une transformation d'un carré en triangle qui a fait la gloire
+   d'une vedette anglaise des récréations mathématiques, Henry Dudeney.
+   Jean-Pierre Friedelmeyer
+
+   La tour de Hanoï
+   Article
+
+La tour de Hanoï
+
+   Une plaisanterie de potache d'Édouard Lucas a été perfectionnée par
+   l'utilisation conjuguée d'un système ternaire, des codes de Gray et des
+   diagrammes de proximité.
+   Jean Lefort
+
+   Les joies du pliage
+   Article
+
+Les joies du pliage
+
+   Quand l'art mineur des origamis s'associe avec la plus belle des
+   sciences, la géométrie.
+   Pierre Tougne
+
+   Jeux d'allumettes
+   Article
+
+Jeux d'allumettes
+
+   Certains jeux de connexion posent des problèmes amusants : bien que de
+   règles simples, les mathématiciens n'ont pas trouvé de solutions.
+   Martin Gardner
+
+   Les cubes Soma
+   Article
+
+Les cubes Soma
+
+   Les arrangements des sept figures créées par Piet Hein, sont résolus
+   avec de multiples stratégies mathématiques, notamment la théorie des
+   invariants.
+   Jean Lefort
+
+   Le baguenaudier et ses variantes
+   Article
+
+Le baguenaudier et ses variantes
+
+   Le jeu très ancien du baguenaudier est renouvelé par le code de Gray,
+   périodiquement redécouvert, et qui, outre les variantes du jeu,
+   s'applique à de nombreuses autres situations.
+   Jean Lefort
+
+   Cryptographie : les codes à substitution
+   Article
+
+Cryptographie : les codes à substitution
+
+   Jules César codait ses messages en décalant les lettres, la
+   substitution alphabétique la plus simple qui soit. La compétition entre
+   codeurs et décodeurs qui s'ensuivit mène à nos jours, au téléphone
+   rouge et à la cryptographie quantique.
+   Hervé Lehning
+
+   Quickies !
+   Article
+
+Quickies !
+
+   Les solutions des « Quickies » démontrent les inattendues possibilités
+   de la réflexion.
+   Michel Criton
+
+   Les nombres <i>Taxicabs </i>
+   Article
+
+Les nombres Taxicabs
+
+   L'histoire des mathématiques est riche des travaux des Fermat,
+   Frenicle, Euler, Ramanujan qui ont « joué » à trouver des nombres
+   Taxicabs. Avec l'ordinateur, de nouveaux records viennent d'être
+   obtenus.
+   Christian Boyer
+
+   La table bancale
+   Article
+
+La table bancale
+
+   Soyons rationnels : faisons tourner les tables pour les stabiliser !
+   Jean Lefort
+
+   Jeux de suites
+   Article
+
+Jeux de suites
+
+   Certaines suites suscitent l'étonnement et le plaisir : elles sont
+   identiques ou complétées quand on en décrit certaines caractéristiques,
+   comme les différences entre termes ou leur propre description.
+   Éric Angelini
+
+   Ces défis délicieux
+   Article
+
+Ces défis délicieux
+
+   Les problémistes, comme les mathématiciens, proposent des problèmes et
+   les résolvent. Certains problèmes sont des prodiges d'ingéniosité où se
+   superposent des scénarios géométriques ou dramatiques.
+   Philippe Boulanger
+
+   Échecs et dames
+   Article
+
+Échecs et dames
+
+   Le jeu « Coincez la Dame » et les dispositions des Dames sur
+   l'échiquier nous entraînent dans les recoins de la théorie des nombres.
+   Martin Gardner
+
+   L'exploration d'un labyrinthe
+   Article
+
+L'exploration d'un labyrinthe
+
+   « Quand on n'a pas de tête, il faut avoir des jambes », et le parcours
+   d'un labyrinthe peut être exténuant. Les techniques d'Ariane permettent
+   de doser votre effort, mais il y a toujours une solution.
+   Pierre Tougne
+
+   Le <i>Loony Loop</i>
+   Article
+
+Le Loony Loop
+
+   La topologie et un bon codage mathématique des opérations à mener
+   résolvent ce casse-tête dont la structure entortillée peut effrayer.
+   Jean Lefort
+
+   De magnifiques démonstrations
+   Article
+
+De magnifiques démonstrations
+
+   L'inventivité de l'esprit crée des démonstrations inattendues et
+   étonnantes dans tous les domaines des mathématiques. Elles font appel à
+   des propriétés dont l'utilisation constitue de petits miracles
+   logiques.
+   Jean Lefort
+
+   Les problèmes de pesées
+   Article
+
+Les problèmes de pesées
+
+   Les mathématiciens proposent de nouvelles variantes de pesées pour les
+   masses marquées et l'identification des pièces contrefaites.
+   Michel Criton
+
+   L'espace au secours du plan
+   Article
+
+L'espace au secours du plan
+
+   La transformation des problèmes plans en problèmes dans l'espace
+   ouvrent de nouvelles perspectives et de nouvelles démonstrations.
+   Jean Lefort
+
+   Meurtre à Ghastleigh Grange
+   Article
+
+Meurtre à Ghastleigh Grange
+
+   Le célèbre Scherlock Holmes, utilisant la théorie des circuits
+   hamiltoniens, résout l'énigme.
+   Ian Stewart
+
+Rendez-vous
+
+Thèmes
+
+   Cryptographie
+
+Cryptographie
+
+   Théorie des jeux
+
+Théorie des jeux
+
+Magazines
+
+     * Dossier Pour la Science N°49 N°49 Octobre 2005
+
+La logique, fil d'Ariane du raisonnement
+     * Dossier Pour la Science n°24 N°24 Juillet 1999
+
+Les mathématiques sociales
+     * Pour la science N°381 N°381 Juillet 2009
+
+Jouer...
+     * Pour la Science n°223 N°223 Mai 1996
+
+Jeu de cartes bifaces
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Offres d'Abonnement
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnez-vous
+   accédez à plus de 20 ans d'archives
+   à partir de 4,90€ par mois
+
+Nos dernières parutions
+
+     * Pour la Science n°503 N°503 Septembre 2019
+
+La fin des insectes ?
+     * Cerveau & Psycho n°113 N°113 Septembre 2019
+
+Cognition incarnée : quand le corps stimule la pensée
+     * Thema Pour la Science n°15 N°15 Août 2019
+
+Extraterrestres
+     * Pour la Science n°502 N°502 Août 2019
+
+La chasse aux trous blancs
+     * Thema Cerveau & Psycho n°14 N°14 Juillet 2019
+
+Psychonutrition
+
+   En kiosque
+     * Pour la Science n°503
+       N°503 Septembre 2019 Acheter M'abonner
+     * Hors-série Pour la Science n°104
+       N°104 Juillet 2019 Acheter M'abonner
+     * Thema Pour la Science n°15
+       N°15 Août 2019 Acheter M'abonner
+     * Cerveau & Psycho n°113
+       N°113 Septembre 2019 Acheter M'abonner
+
+   Newsletter ____________________ Envoyer
+   Retour en haut de page
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Abonnement Numérique
+
+Offre numérique
+
+   12 numéros + 4 hors-série
+   en version numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnement Numérique et Papier
+
+Offre intégrale
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+
+   Pour la Science
+
+Rubriques
+
+     * Diaporamas
+     * Vidéos
+     * Thèmes
+     * Blogs
+
+Boutique
+
+     * Abonnements
+     * Anciens numéros
+     * Applications
+
+Pratique
+
+     * Questions fréquentes
+     * Contact
+     * Qui sommes-nous ?
+     * Mentions Légales
+     * Annonceurs
+     * Conditions générales de vente
+     * Cookies
+     * Charte de protection des données personnelles
+     * Connexion
+     * Index des articles
+
+Les sites du groupe
+
+     * Belin Editeur
+     * Belin Education
+     * Editions de l’Observatoire
+     * Editions Le Pommier
+     * Puf
+     * Que sais-je ?
+     * Cerveau et Psycho
+     * Pour la Science
+     * Gerip
+     * Libthèque
+     * Scientific american
+
+   Recevez notre newsletter ____________________ Je m'inscris
+
+   Pour la Science
+   170 bis Boulevard du Montparnasse, 75014 Paris 06
+   N° CPPAP : 0922 W 91526
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Flux RSS
+     * Google +
+     * YouTube
+
+Vous avez déjà un compte ?
+
+Identification
+
+   Identifiez-vous pour accéder à vos contenus
+   ____________________ ____________________
+   Voir
+   [ ] Rester connecté ?
+   Me connecter Mot de passe oublié ?
+
+Vous n'avez pas encore de compte ?
+
+Inscription
+
+   Inscrivez-vous pour activer votre abonnement ou commander des numéros.
+   Créer mon compte
+   #publisher
+
+   Pour la science
+     * Menu
+     * Archives
+     * Recherche
+
+     * Newsletter
+     * Suivez-nous sur Twitter !
+     * Likez-nous sur Facebook !
+     * Flux RSS
+
+     * Je m'abonne !
+     * Connexion
+     * Connexion
+
+   ____________________ Recherche
+
+     * Je m'abonne
+     * Archives
+     * ____________________ Recherche
+     * Archéo
+     * Espace
+     * Vivant
+     * Maths-info
+     * Physique
+     * Cerveau
+     * Société
+     * Techno
+     * Terre
+
+   Dossier Pour la Science N°52
+   Dossier Pour la Science N°52 - Juillet 2006
+   17,5 Mo
+
+La modélisation informatique, exploration du réel
+
+   Acheter S'abonner à partir de 4,90€ Déjà abonné ? Identifiez-vous
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Google +
+     * Imprimer
+
+   Dans ce numéro
+
+   Autrefois, les théories étaient dans les cerveaux et sur les feuillets
+   des chercheurs. Aujourd'hui on les trouve aussi dans les ordinateurs.
+   Qu'est-ce que cela signifie ?
+   Mots Clés
+     * Informatique
+     * Modélisation
+     * Ordinateur
+     * Théorie
+     * Simulation
+     * Numérique
+     * Estimation
+     * Changement climatique
+     * Guitare acoustique
+     * Effet papillon
+     * Mécanique
+     * Robotique
+     * Chirurgie hépatique
+     * Puce
+     * Hologramme
+     * Holographie
+     * Mémoire holographique
+     * Principe holographique
+
+Fondamental
+
+   Comment estimer le changement climatique
+   Informatique
+
+Comment estimer le changement climatique
+
+   À cause de la complexité du système climatique et de ses nombreuses
+   interactions, la modélisation sur ordinateur est l'unique moyen de
+   prévoir son évolution prochaine.
+   Serge Planton
+
+   Des plantes virtuelles pour comprendre les plantes réelles
+   Informatique
+
+Des plantes virtuelles pour comprendre les plantes réelles
+
+   À partir de quelques principes de géométrie, de physique et de
+   biologie, on simule avec réalisme des processus de fonctionnement des
+   plantes, tels que l'éclairement des arbres fruitiers ou la croissance.
+   , , et Jan Traas
+
+   L'air et le sang : les écoulements <i>in vivo </i>
+   Informatique
+
+L'air et le sang : les écoulements in vivo
+
+   Pour expliquer les gênes respiratoires et prédire les ruptures
+   d'anévrisme, la médecine fait appel à la mécanique des fluides.
+   Marc Thiriet
+
+   Simulations et modélisations
+   Informatique
+
+Simulations et modélisations
+
+   Deux sortes de simulations apparaissent dans les années 1970 : l'une
+   reproduit le fonctionnement d'un système à partir des équations qui le
+   décrivent ; l'autre imite son comportement grâce à un algorithme
+   inspiré de ses propriétés.
+   Jacques Dubucs
+
+   Comprendre la guitare acoustique
+   Informatique
+
+Comprendre la guitare acoustique
+
+   Pour faire évoluer la guitare, des simulations numériques dévoilent le
+   champ sonore dans et autour de l'instrument.
+   , Grégoire Derveaux et Patrick Joly
+
+   Le simulateur de chirurgie hépatique
+   Informatique
+
+Le simulateur de chirurgie hépatique
+
+   La simulation chirurgicale doit fournir un entraînement réaliste à ceux
+   qui apprennent les techniques de chirurgie et permettre aux chirurgiens
+   confirmés de répéter des opérations complexes. Comment y parvient-on ?
+   Hervé Delingette et Nicholas Ayache
+
+   Détails du <i>David</i> sur silicium
+   Informatique
+
+Détails du David sur silicium
+
+   En simulation numérique, on représente souvent les formes à trois
+   dimensions par des maillages de surface. Comment compresser un tel
+   maillage sans perdre ses informations géométriques ?
+   Pierre Alliez
+
+   La géométrie des contacts entre biomolécules
+   Informatique
+
+La géométrie des contacts entre biomolécules
+
+   Un modèle géométrique décrit l'arrimage de protéines qui forment un
+   complexe, et aide à comprendre comment est remplie leur fonction
+   biologique.
+   Frédéric Cazals
+
+   La mécanique de l'embryon
+   Informatique
+
+La mécanique de l'embryon
+
+   Comment les cellules de l'embryon « connaissent-elles » leur position
+   et leur orientation par rapport au futur organisme ? Un modèle lève un
+   coin du voile, à partir d'hypothèses sur le rôle des molécules de
+   communication entre les cellules.
+   Michel Kerszberg
+
+   L'effet papillon n'existe plus !
+   Informatique
+
+L'effet papillon n'existe plus !
+
+   Les prévisions météorologiques seraient impossibles au-delà de deux
+   semaines, à cause de l'« effet papillon ». Ce dogme est démenti par la
+   mécanique statistique.
+   Raoul Robert
+
+   La riche zoologie des automates cellulaires
+   Informatique
+
+La riche zoologie des automates cellulaires
+
+   Les automates cellulaires modélisent des phénomènes variés comme la
+   circulation automobile et la propagation des feux de forêt. De
+   nouvelles techniques d'analyse classent les automates selon une échelle
+   de complexité.
+   Marianne Delorme et Jacques Mazoyer
+
+   La turbulence dans les plasmas
+   Informatique
+
+La turbulence dans les plasmas
+
+   Dans un tokamak, on s'efforce de confiner un mélange d'ions et
+   d'électrons, à l'encontre des turbulences, pour déclencher des
+   réactions de fusion. Les simulations numériques révèlent l'apparition
+   et les caractéristiques de ces turbulences.
+   Laurent Villard
+
+   L'évolution des galaxies
+   Informatique
+
+L'évolution des galaxies
+
+   Les modélisations ont élucidé les formes spirales et les barres des
+   galaxies.
+   Françoise Combes
+
+   Quarks et simulation numérique
+   Informatique
+
+Quarks et simulation numérique
+
+   Des années de calculs numériques ont confirmé la théorie qui décrit les
+   quarks. Simultanément, les physiciens ont identifié une nouvelle
+   particule dans des enregistrements anciens.
+   Donald Weingarten
+
+   Comment intégrer l'économie, l'énergie et le climat ?
+   Informatique
+
+Comment intégrer l'économie, l'énergie et le climat ?
+
+   Des modélisations ont l'ambition d'intégrer à l'économie globale les
+   effets des activités humaines sur le climat et réciproquement.
+   Minh Ha-Duong et Pierre Matarasso
+
+   Les comportements collectifs des insectes sociaux
+   Informatique
+
+Les comportements collectifs des insectes sociaux
+
+   L'intelligence collective émerge à partir d'un ensemble de règles
+   comportementales simples et d'interactions entre les individus. C'est
+   ce que montrent l'étude expérimentale et la modélisation du transport
+   et de l'agrégation des cadavres chez les fourmis.
+   , Jacques Gautrais, Stéphane Blanco, Fournier et Jl Deneubourg
+
+   Marchés financiers artificiels
+   Informatique
+
+Marchés financiers artificiels
+
+   On aimerait mieux comprendre les krachs boursiers et les bulles
+   spéculatives. Comment les expériences et les simulations multi-agents
+   peuvent-elles aider ?
+   Olivier Brandouy et Philippe Mathieu
+
+   Tisser des toiles d'araignées sociales
+   Informatique
+
+Tisser des toiles d'araignées sociales
+
+   Des simulations soulignent le rôle de la communication et de la
+   tolérance mutuelle dans le comportement des araignées sociales.
+   Vincent Chevrier
+
+   Restaurer la marche grâce à une puce
+   Informatique
+
+Restaurer la marche grâce à une puce
+
+   Comment stimuler les muscles de membres paralysés pour restaurer le
+   mouvement ?
+   David Guiraud
+
+   Le son des timbales
+   Informatique
+
+Le son des timbales
+
+   Quels sont les phénomènes physiques qui déterminent les qualités
+   musicales d'un son ? Pour le savoir, les acousticiens élaborent de
+   nouvelles techniques numériques, où l'on simule les vibrations de
+   l'instrument et celles de l'air environnant.
+   , Patrick Joly et Leïla Rhaouti
+
+   La vision des mouvements en robotique
+   Informatique
+
+La vision des mouvements en robotique
+
+   S'orienter dans l'espace, éviter les obstacles, détecter un mouvement,
+   suivre une trajectoire : autant de tâches que les animaux accomplissent
+   tous les jours grâce à la vision… et que l'on tente de faire réaliser à
+   des robots.
+   Thierry Viéville
+
+   Avant-propos
+   Informatique
+
+Avant-propos
+
+   Autrefois, les théories étaient dans les cerveaux et sur les feuillets
+   des chercheurs. Aujourd'hui on les trouve aussi dans les ordinateurs.
+   Qu'est-ce que cela signifie ?
+   Jean-Paul Delahaye et François Rechenmann
+
+Thèmes
+
+   Internet
+
+Internet
+
+   Réchauffement climatique
+
+Réchauffement climatique
+
+   Robots
+
+Robots
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Offres d'Abonnement
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnez-vous
+   accédez à plus de 20 ans d'archives
+   à partir de 4,90€ par mois
+
+Nos dernières parutions
+
+     * Pour la Science n°503 N°503 Septembre 2019
+
+La fin des insectes ?
+     * Cerveau & Psycho n°113 N°113 Septembre 2019
+
+Cognition incarnée : quand le corps stimule la pensée
+     * Thema Pour la Science n°15 N°15 Août 2019
+
+Extraterrestres
+     * Pour la Science n°502 N°502 Août 2019
+
+La chasse aux trous blancs
+     * Thema Cerveau & Psycho n°14 N°14 Juillet 2019
+
+Psychonutrition
+
+   En kiosque
+     * Pour la Science n°503
+       N°503 Septembre 2019 Acheter M'abonner
+     * Hors-série Pour la Science n°104
+       N°104 Juillet 2019 Acheter M'abonner
+     * Thema Pour la Science n°15
+       N°15 Août 2019 Acheter M'abonner
+     * Cerveau & Psycho n°113
+       N°113 Septembre 2019 Acheter M'abonner
+
+   Newsletter ____________________ Envoyer
+   Retour en haut de page
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Abonnement Numérique
+
+Offre numérique
+
+   12 numéros + 4 hors-série
+   en version numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnement Numérique et Papier
+
+Offre intégrale
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+
+   Pour la Science
+
+Rubriques
+
+     * Diaporamas
+     * Vidéos
+     * Thèmes
+     * Blogs
+
+Boutique
+
+     * Abonnements
+     * Anciens numéros
+     * Applications
+
+Pratique
+
+     * Questions fréquentes
+     * Contact
+     * Qui sommes-nous ?
+     * Mentions Légales
+     * Annonceurs
+     * Conditions générales de vente
+     * Cookies
+     * Charte de protection des données personnelles
+     * Connexion
+     * Index des articles
+
+Les sites du groupe
+
+     * Belin Editeur
+     * Belin Education
+     * Editions de l’Observatoire
+     * Editions Le Pommier
+     * Puf
+     * Que sais-je ?
+     * Cerveau et Psycho
+     * Pour la Science
+     * Gerip
+     * Libthèque
+     * Scientific american
+
+   Recevez notre newsletter ____________________ Je m'inscris
+
+   Pour la Science
+   170 bis Boulevard du Montparnasse, 75014 Paris 06
+   N° CPPAP : 0922 W 91526
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Flux RSS
+     * Google +
+     * YouTube
+
+Vous avez déjà un compte ?
+
+Identification
+
+   Identifiez-vous pour accéder à vos contenus
+   ____________________ ____________________
+   Voir
+   [ ] Rester connecté ?
+   Me connecter Mot de passe oublié ?
+
+Vous n'avez pas encore de compte ?
+
+Inscription
+
+   Inscrivez-vous pour activer votre abonnement ou commander des numéros.
+   Créer mon compte
+   #publisher
+
+   Pour la science
+     * Menu
+     * Archives
+     * Recherche
+
+     * Newsletter
+     * Suivez-nous sur Twitter !
+     * Likez-nous sur Facebook !
+     * Flux RSS
+
+     * Je m'abonne !
+     * Connexion
+     * Connexion
+
+   ____________________ Recherche
+
+     * Je m'abonne
+     * Archives
+     * ____________________ Recherche
+     * Archéo
+     * Espace
+     * Vivant
+     * Maths-info
+     * Physique
+     * Cerveau
+     * Société
+     * Techno
+     * Terre
+
+   Dossier Pour la Science N°49
+   Dossier Pour la Science N°49 - Octobre 2005
+   17,5 Mo
+
+La logique, fil d'Ariane du raisonnement
+
+   Acheter S'abonner à partir de 4,90€ Déjà abonné ? Identifiez-vous
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Google +
+     * Imprimer
+
+   Dans ce numéro
+
+   Inventée par les Grecs de l’Antiquité, la logique a gardé une identité
+   unique jusqu’au XIXe siècle, où elle prit une voie plus mathématique.
+   Aujourd’hui elle explore les multiples facettes du raisonnement, l’une
+   d’elles étant la psychologie des acteurs.
+   Mots Clés
+     * Logique
+     * Antiquité
+     * Mathématiques
+     * Raisonnement
+     * Brouwer
+     * Gödel
+     * Croyance
+     * Théorie des jeux
+     * Démonstration
+     * Certitude
+     * Nominalisme
+     * Conversation
+     * Preuve
+     * Grecs
+     * Intuition
+     * Acteur
+
+Fondamental
+
+   Croyances en théorie des jeux
+   Logique
+
+Croyances en théorie des jeux
+
+   Nous voulons jouer de manière rationnelle dans des situations où les
+   données sont claires. Pour cela, nous devons traiter l'information sous
+   une forme logique. Comment ?
+   Bernard Walliser
+
+   La connaissance interactive
+   Logique
+
+La connaissance interactive
+
+   Pour représenter l'accès au savoir et son évolution dans un groupe, la
+   logique de la connaissance s'est élaborée sur la notion de « mondes
+   possibles » et sur le savoir que l'on a du savoir des autres.
+   Jacques Dubucs
+
+   La logique : une création de la Grèce antique
+   Logique
+
+La logique : une création de la Grèce antique
+
+   Les Grecs jouèrent avec la dialectique, mais se livrèrent aussi à une
+   analyse du raisonnement : syllogistique et règles de déduction
+   apparurent dans les écrits d'Aristote et de Chrysippe.
+   Jean-Baptiste Gourinat
+
+   L'art et la logique de la conversation
+   Logique
+
+L'art et la logique de la conversation
+
+   Définie comme un calcul, la logique réduit le raisonnement à un
+   processus solitaire. En revanche, quand elle s'intéresse à la
+   conversation, la logique rend le raisonnement dynamique et décrit
+   diverses manières d'échanger l'information.
+   Johan Van Benthem
+
+   On se sacrifie… pour nuire aux autres !
+   Logique
+
+On se sacrifie… pour nuire aux autres !
+
+   En théorie des jeux et en économie, on suppose que chacun est
+   rationnel. Or, souvent l'attrait du gain est moins fort que le souci
+   d'égalité.
+   Jean-Paul Delahaye
+
+   La logique de ce qui n'existe pas
+   Logique
+
+La logique de ce qui n'existe pas
+
+   Qu'est-ce que l'existence en logique ? Que peut-on dire des êtres de
+   fiction ? Des logiques non classiques, dites libres, redéfinissent
+   l'existence.
+   Pascal Engel
+
+   Démonstrations et certitude en mathématiques
+   Logique
+
+Démonstrations et certitude en mathématiques
+
+   Prouver sans écrire de démonstration est un jeu, mais c'est aussi
+   l'occasion de réfléchir à la certitude mathématique.
+   Jean-Paul Delahaye
+
+   Réseaux de neurones capables de raisonner
+   Logique
+
+Réseaux de neurones capables de raisonner
+
+   Les premiers réseaux de neurones effectuaient des calculs logiques
+   éloignés des raisonnements humains. Grâce à la logique monotone, les
+   nouveaux décrivent mieux le fonctionnement de la pensée.
+   Hannes Leitgeb
+
+   Brouwer et Gödel : deux frères ennemis
+   Logique
+
+Brouwer et Gödel : deux frères ennemis
+
+   Leurs conceptions philosophiques les opposaient, mais tous deux
+   s'appuyèrent sur elles pour fonder une logique et des mathématiques
+   modernes.
+   Mark Van Atten
+
+   L'intuitionnisme : où l'on construit une preuve
+   Logique
+
+L'intuitionnisme : où l'on construit une preuve
+
+   Le raisonnement par l'absurde n'est pas constructif ! La logique
+   intuitionniste, au contraire, relie preuve construite et calcul.
+   Alexandre Miquel
+
+   Guillaune d'Ockham et le nominalisme
+   Logique
+
+Guillaune d'Ockham et le nominalisme
+
+   Ockham appuie la logique sur une théorie du signe et sur une position «
+   nominaliste » dans la question des « universaux ».
+   Daniel Boquin et Jean Celeyrette
+
+   L'argumentation au Moyen Âge
+   Logique
+
+L'argumentation au Moyen Âge
+
+   La logique, au Moyen Âge, est un art de la persuasion, de
+   l'explication, notamment du message divin. Dans ce contexte religieux,
+   les logiciens médiévaux posent de grandes questions, reprises et
+   formalisées à l'époque contemporaine.
+   Daniel Boquin et Jean Celeyrette
+
+   Les stoïciens et les opérateurs logiques
+   Logique
+
+Les stoïciens et les opérateurs logiques
+
+   Un raisonnement est un enchaînement de propositions. Quelles règles
+   doit-il respecter ?
+   Jean-Baptiste Gourinat
+
+   La preuve par le dialogue
+   Logique
+
+La preuve par le dialogue
+
+   On peut jouer à polémiquer ! Les échanges d'arguments et d'information
+   respectent certaines règles… comme dans un jeu.
+   Shahid Rahman et Laurent Keiff
+
+   L'analyse logique des langues naturelles
+   Logique
+
+L'analyse logique des langues naturelles
+
+   Conçue pour mener des raisonnements sous forme de calculs et remédier
+   aux imperfections du langage ordinaire, la logique formelle constitue
+   aujourd'hui l'une des clefs de l'analyse des langues naturelles.
+   Paul Égré
+
+   La révision des croyances
+   Logique
+
+La révision des croyances
+
+   Nous modifions sans cesse nos croyances lorsque nous sommes confrontés
+   à des informations contredisant ce qui nous semblait acquis. Les
+   logiciens ont développé des théories qui formalisent ces mécanismes.
+   Denis Zwirn et Hervé Zwirn
+
+   La quête du sens et de la vérité
+   Logique
+
+La quête du sens et de la vérité
+
+   Quel sens donner aux énoncés ? Qu'est-ce que la vérité ? Peut-on
+   analyser la logique par la logique sans tomber dans des paradoxes ? La
+   solution consiste à s'extraire du langage en définissant un
+   métalangage.
+   Gabriel Sandu
+
+   Raisonnement psycho… logique ?
+   Logique
+
+Raisonnement psycho… logique ?
+
+   Nos raisonnements de tous les jours s'écartent de la logique classique.
+   La raison tient à l'usage d'une mémoire, dite de travail, à capacité
+   limitée, à l'interprétation parfois ambiguë des énoncés et à des
+   sous-entendus contenus dans nos déclarations quotidiennes.
+   Guy Politzer et Jean-François Bonnefon
+
+   Voyager dans les mondes possibles
+   Logique
+
+Voyager dans les mondes possibles
+
+   Comment tient-on compte, en logique, du possible, du nécessaire, du
+   contingent ?
+   Patrice Bailhache
+
+   Traiter le flou et l'incertain
+   Logique
+
+Traiter le flou et l'incertain
+
+   Dans les situations réelles, nos informations sont incomplètes et nos
+   avis nuancés. La logique floue et la logique possibiliste simulent
+   convenablement le raisonnement humain dans ces cas de figure.
+   Didier Dubois et Henri Prade
+
+   Le droit peut-il être automatisé ?
+   Logique
+
+Le droit peut-il être automatisé ?
+
+   Le raisonnement juridique s'appuie sur la description de l'obligatoire,
+   du permis et de l'interdit. Récemment on a amélioré sa formalisation en
+   prenant en compte l'identité des acteurs et la chronologie des actions.
+   Patrice Bailhache
+
+   Jouer le meilleur coup ?
+   Logique
+
+Jouer le meilleur coup ?
+
+   Dans les jeux et les choix de la vie, préoccupez-vous de la force de
+   votre adversaire ou de sa générosité, sinon vous perdrez « logiquement
+   ».
+   Philippe Boulanger
+
+   La logique, fil d'Ariane du raisonnement
+   Logique
+
+La logique, fil d'Ariane du raisonnement
+
+   Inventée par les Grecs de l’Antiquité, la logique a gardé une identité
+   unique jusqu’au XIXe siècle, où elle prit une voie plus mathématique.
+   Aujourd’hui elle explore les multiples facettes du raisonnement, l’une
+   d’elles étant la psychologie des acteurs.
+   Jacques Dubucs et Gabriel Sandu
+
+Thèmes
+
+   Fake news et théories du complot
+
+Fake news et théories du complot
+
+   Théorie des jeux
+
+Théorie des jeux
+
+Magazines
+
+     * Pour la Science n°223 N°223 Mai 1996
+
+Jeu de cartes bifaces
+     * Dossier Pour la Science N°59 N°59 Avril 2008
+
+Jeux maths'
+     * Dossier Pour la Science n°24 N°24 Juillet 1999
+
+Les mathématiques sociales
+     * Pour la Science N°424 N°424 Février 2013
+
+L'information
+     * Pour la Science n°235 N°235 Mai 1997
+
+Dossier Internet : ordonner le chaos
+     * Dossier Pour la Science N°38 N°38 Janvier 2003
+
+La gravitation aujourd'hui
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Offres d'Abonnement
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnez-vous
+   accédez à plus de 20 ans d'archives
+   à partir de 4,90€ par mois
+
+Nos dernières parutions
+
+     * Pour la Science n°503 N°503 Septembre 2019
+
+La fin des insectes ?
+     * Cerveau & Psycho n°113 N°113 Septembre 2019
+
+Cognition incarnée : quand le corps stimule la pensée
+     * Thema Pour la Science n°15 N°15 Août 2019
+
+Extraterrestres
+     * Pour la Science n°502 N°502 Août 2019
+
+La chasse aux trous blancs
+     * Thema Cerveau & Psycho n°14 N°14 Juillet 2019
+
+Psychonutrition
+
+   En kiosque
+     * Pour la Science n°503
+       N°503 Septembre 2019 Acheter M'abonner
+     * Hors-série Pour la Science n°104
+       N°104 Juillet 2019 Acheter M'abonner
+     * Thema Pour la Science n°15
+       N°15 Août 2019 Acheter M'abonner
+     * Cerveau & Psycho n°113
+       N°113 Septembre 2019 Acheter M'abonner
+
+   Newsletter ____________________ Envoyer
+   Retour en haut de page
+
+Abonnez-vous et accédez à plus de 20 ans d'archives !
+
+   Abonnement Numérique
+
+Offre numérique
+
+   12 numéros + 4 hors-série
+   en version numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+   Abonnement Numérique et Papier
+
+Offre intégrale
+
+   12 numéros + 4 hors-série
+   en version papier + numérique
+
+   + Accès illimité à plus de 20 ans d'archives
+   Je m'abonne
+
+   Pour la Science
+
+Rubriques
+
+     * Diaporamas
+     * Vidéos
+     * Thèmes
+     * Blogs
+
+Boutique
+
+     * Abonnements
+     * Anciens numéros
+     * Applications
+
+Pratique
+
+     * Questions fréquentes
+     * Contact
+     * Qui sommes-nous ?
+     * Mentions Légales
+     * Annonceurs
+     * Conditions générales de vente
+     * Cookies
+     * Charte de protection des données personnelles
+     * Connexion
+     * Index des articles
+
+Les sites du groupe
+
+     * Belin Editeur
+     * Belin Education
+     * Editions de l’Observatoire
+     * Editions Le Pommier
+     * Puf
+     * Que sais-je ?
+     * Cerveau et Psycho
+     * Pour la Science
+     * Gerip
+     * Libthèque
+     * Scientific american
+
+   Recevez notre newsletter ____________________ Je m'inscris
+
+   Pour la Science
+   170 bis Boulevard du Montparnasse, 75014 Paris 06
+   N° CPPAP : 0922 W 91526
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Flux RSS
+     * Google +
+     * YouTube
+
+Vous avez déjà un compte ?
+
+Identification
+
+   Identifiez-vous pour accéder à vos contenus
+   ____________________ ____________________
+   Voir
+   [ ] Rester connecté ?
+   Me connecter Mot de passe oublié ?
+
+Vous n'avez pas encore de compte ?
+
+Inscription
+
+   Inscrivez-vous pour activer votre abonnement ou commander des numéros.
+   Créer mon compte

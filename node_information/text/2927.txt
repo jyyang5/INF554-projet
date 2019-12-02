@@ -1,0 +1,1744 @@
+   W3C
+
+   This is an XML namespace defined in the XML Linking Language (XLink)
+   specification.
+
+   For more information about XML, please refer to The Extensible Markup
+   Language (XML) 1.0 specification. For more information about XML
+   namespaces, please refer to the Namespaces in XML specification.
+     __________________________________________________________________
+
+
+    Webmaster
+    Last modified: $Date: 2000/06/22 15:15:22 $
+                                                            W3C NOTE-datetime
+
+
+
+                            Date and Time Formats
+
+                           Status of this Document
+
+  Submitted to W3C 15 September 1997
+
+   This version:
+          http://www.w3.org/TR/1998/NOTE-datetime-19980827
+
+   Newest version:
+          http://www.w3.org/TR/NOTE-datetime
+
+   Authors:
+          Misha Wolf <misha.wolf@reuters.com>
+          Charles Wicksteed <charles.wicksteed@reuters.com>
+
+   Document Status
+
+Status of this document
+
+   This document is a NOTE made available by the W3 Consortium for
+   discussion only. This indicates no endorsement of its content, nor that
+   the Consortium has, is, or will be allocating any resources to the
+   issues addressed by the NOTE.
+
+   This document is a submission to W3C from Reuters Limited. Please see
+   Acknowledged Submissions to W3C regarding its disposition.
+
+   Comments on this document should be sent to datetime-comments@w3.org.
+     __________________________________________________________________
+
+Abstract
+
+   This document defines a profile of ISO 8601, the International Standard
+   for the representation of dates and times. ISO 8601 describes a large
+   number of date/time formats. To reduce the scope for error and the
+   complexity of software, it is useful to restrict the supported formats
+   to a small number. This profile defines a few date/time formats, likely
+   to satisfy most requirements.
+     __________________________________________________________________
+
+Introduction
+
+   The International Standard for the representation of dates and times is
+   ISO 8601. Its full reference number is ISO 8601 : 1988 (E), and its
+   title is "Data elements and interchange formats - Information
+   interchange - Representation of dates and times". A discussion of ISO
+   8601 has been written by Markus Kuhn.
+
+   ISO 8601 describes a large number of date/time formats. For example it
+   defines Basic Format, without punctuation, and Extended Format, with
+   punctuation, and it allows elements to be omitted. This profile defines
+   a restricted range of formats, all of which are valid ISO 8601 dates
+   and times. The aim is to simplify the use of ISO 8601 in World Wide
+   Web-related standards, and to avoid the need for the developers and
+   users of these standards to obtain copies of ISO 8601 itself.
+
+   A particular problem with ISO 8601 is that it allows the century to be
+   omitted from years, which is likely to cause trouble as we approach the
+   year 2000. This profile avoids the problem by expressing the year as
+   four digits in all cases.
+
+   This profile may be adopted by standards which require an unambiguous
+   representation of dates and times. As different standards have their
+   own requirements regarding granularity and flexibility, this profile
+   offers a number of options. An adopting standard must specify which of
+   these options it permits.
+     __________________________________________________________________
+
+Formats
+
+   Different standards may need different levels of granularity in the
+   date and time, so this profile defines six levels. Standards that
+   reference this profile should specify one or more of these
+   granularities. If a given standard allows more than one granularity, it
+   should specify the meaning of the dates and times with reduced
+   precision, for example, the result of comparing two dates with
+   different precisions.
+
+   The formats are as follows. Exactly the components shown here must be
+   present, with exactly this punctuation. Note that the "T" appears
+   literally in the string, to indicate the beginning of the time element,
+   as specified in ISO 8601.
+   Year:
+      YYYY (eg 1997)
+   Year and month:
+      YYYY-MM (eg 1997-07)
+   Complete date:
+      YYYY-MM-DD (eg 1997-07-16)
+   Complete date plus hours and minutes:
+      YYYY-MM-DDThh:mmTZD (eg 1997-07-16T19:20+01:00)
+   Complete date plus hours, minutes and seconds:
+      YYYY-MM-DDThh:mm:ssTZD (eg 1997-07-16T19:20:30+01:00)
+   Complete date plus hours, minutes, seconds and a decimal fraction of a
+second
+      YYYY-MM-DDThh:mm:ss.sTZD (eg 1997-07-16T19:20:30.45+01:00)
+
+   where:
+     YYYY = four-digit year
+     MM   = two-digit month (01=January, etc.)
+     DD   = two-digit day of month (01 through 31)
+     hh   = two digits of hour (00 through 23) (am/pm NOT allowed)
+     mm   = two digits of minute (00 through 59)
+     ss   = two digits of second (00 through 59)
+     s    = one or more digits representing a decimal fraction of a second
+     TZD  = time zone designator (Z or +hh:mm or -hh:mm)
+
+   This profile does not specify how many digits may be used to represent
+   the decimal fraction of a second. An adopting standard that permits
+   fractions of a second must specify both the minimum number of digits (a
+   number greater than or equal to one) and the maximum number of digits
+   (the maximum may be stated to be "unlimited").
+
+   This profile defines two ways of handling time zone offsets:
+    1. Times are expressed in UTC (Coordinated Universal Time), with a
+       special UTC designator ("Z").
+    2. Times are expressed in local time, together with a time zone offset
+       in hours and minutes. A time zone offset of "+hh:mm" indicates that
+       the date/time uses a local time zone which is "hh" hours and "mm"
+       minutes ahead of UTC. A time zone offset of "-hh:mm" indicates that
+       the date/time uses a local time zone which is "hh" hours and "mm"
+       minutes behind UTC.
+
+   A standard referencing this profile should permit one or both of these
+   ways of handling time zone offsets.
+     __________________________________________________________________
+
+Examples
+
+   1994-11-05T08:15:30-05:00 corresponds to November 5, 1994, 8:15:30 am,
+   US Eastern Standard Time.
+
+   1994-11-05T13:15:30Z corresponds to the same instant.
+     __________________________________________________________________
+
+Acknowledgments
+
+   This document draws on Chris Newman's Internet Draft "Date and Time on
+   the Internet" (draft-newman-datetime-01.txt).
+   #Help
+
+W3C W3C
+
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+     * ____________________ (BUTTON) Search
+
+Site Navigation
+
+Browsers and Authoring Tools Header link
+
+     * Authoring Tools
+     * Browsers
+
+     * Skip
+     * W3C »
+     * Standards »
+     * Browsers and Authoring Tools »
+     * Browsers and Media Players
+
+Browsers, Media Players
+
+     * On this page →
+     * examples of user agent standards issues •
+     * accessibility guidelines for user agents •
+     * current status of specifications and groups
+
+   'User agents' - web browsers, media players, browser extensions,
+   on-the-fly converters, plug-ins, bots, aggregators and mobile browsers
+   - provide a human or machine interface to the web. At their best, they
+   allow all of us to explore a universal space of web content.
+
+Examples of user agent standards issues
+
+   User agent developers need to pay particular heed to issues surrounding
+   use of their agents by people in other parts of the world, speaking
+   other languages, using other devices and with a variety of assistive
+   technologies that allow users to use different modes of input and
+   output (such as speech input, tactile displays, semantic navigation,
+   and a variety of display preferences).
+
+   Example 1: An online app developer wants to provide context-sensitive
+   help in a tooltip that is displayed when the user (with a mouse) hovers
+   over or (with a keyboard) focuses a "Help" icon. In most browsers, the
+   functionality automatically works for hover; the title element is
+   displayed. However, most browsers don't provide the same functionality
+   for keyboard users on focus. To compensate for the missing
+   functionality in the browsers, the developer has to create scripts to
+   provide it for her content. Unfortunately most developers don't do this
+   - and indeed, they shouldn't have to because the browser should provide
+   the same functionality for people who cannot use the mouse.
+
+   Example 2: A developer uses the css declaration text-transform:
+   lowercase to style a magazine headline (about fresh orange juice)
+   originally composed in caps. The content is then internationalised for
+   a Turkish-language audience, and a language of Turkish declared using
+   the attribute lang="tr". The lower case of the Turkish character İ (a
+   capital I dotted) should return a i. Major browsers, however convert
+   the Turkish character I to i. An innocuous headline "Squeeze Often"
+   suddenly becomes rather rude...
+
+   W3C staff documented some Common User Agent Problems in a Team
+   Submission, still a useful document although it was published in 2003.
+
+Accessibility Guidelines for User Agents
+
+   W3C publishes guidelines for creating accessible authoring tools: User
+   Agent Accessibility Guidelines (UAAG). UAAG 2.0 is intended for the
+   current and future generation of user agents. You can implement the
+   latest draft of the User Agent Accessibility Guidelines (UAAG 2.0) by
+   following Implementing UAAG 2.0 - a guide to implementing and
+   understanding the guidelines.
+
+   You may also wish to consult the current formally approved, stable and
+   referenceable technical recommendation for accessibility is UAAG 1.0.
+
+   Browser developers need some help at making the web readable by all;
+   extension developers can respond to limitations of particular browser
+   functionality, and the best extensions can be incorporated into the
+   browsers' standard functionality. Whether you develop browsers,
+   extensions, bots, aggregators, media players or an as-yet undreamed of
+   way of reading the web, to create that web that is readable by all, the
+   User Agent Accessibility Guidelines provide the place to start.
+
+Validators
+
+     * Markup
+
+Acknowledgments
+
+   Editor of introductory text: Liam McGee. Contributors: Shawn Lawton
+   Henry and participants of the Education and Outreach Working Group
+   (EOWG).
+
+Footer Navigation
+
+Navigation
+
+     * Home
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+
+Contact W3C
+
+     * Contact
+     * Help and FAQ
+     * Sponsor / Donate
+     * Site Map
+         * Feedback
+
+W3C Updates
+
+     * Twitter
+
+   Copyright © 2016 W3C ^® (MIT, ERCIM, Keio, Beihang) Usage policies
+   apply.
+W3C W3C
+
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+     * ____________________ (BUTTON) Search
+
+   logo shadow
+
+Site Navigation
+
+About W3C Header link
+
+     * W3C Mission
+     * Facts About W3C
+     * Press and Analysts
+     * Sponsorships and Donations
+     * Jobs and Fellowships
+     * Contact
+     * Help and FAQ
+
+     * Skip
+     * W3C »
+     * About W3C »
+     * Help and FAQ
+
+Help and FAQ
+
+     * What does W3C do?
+     * Where is W3C located?
+     * How is W3C funded?
+     * What is the difference between the Web and the Internet?
+     * What does it mean that Tim Berners-Lee invented the Web?
+     * W3C has a validation service. Does W3C approve all Web pages?
+     * What is the difference between open source and an open standard?
+     * Does W3C design Web sites? Can you recommend a designer?
+     * How do I get started building (or requesting) a standards-compliant
+       Web site?
+     * Do you have more FAQs?
+
+What does W3C do?
+
+   W3C's primary activity is to develop protocols and guidelines that
+   ensure long-term growth for the Web. W3C's standards define key parts
+   of what makes the World Wide Web work. Learn more about W3C's mission.
+
+Where is W3C located?
+
+   W3C does not have a single physical headquarters. There are four
+   institutions, however, that "host" W3C: MIT (in Cambridge, MA, USA),
+   ERCIM (in Sophia-Antipolis, France), Keio University (near Tokyo,
+   Japan), and Beihang University (in Beijing, China).
+
+   The W3C staff is distributed around the world, but there are
+   concentrations of people in Cambridge, Massachusetts (USA),
+   Sophia-Antipolis (France), and Tokyo (Japan). In addition, W3C is
+   represented in 17 other regions of the world via representatives based
+   at organizations. W3C calls these regional points of contact "W3C
+   Offices."
+
+How is W3C funded?
+
+   W3C receives funds from:
+     * W3C Member dues
+     * Research grants and other sources of private and public funding
+     * Individual donations of money and equipment
+
+What is the difference between the Web and the Internet?
+
+   From the definition in the Wikipedia: "The Internet is a global system
+   of interconnected computer networks that interchange data by packet
+   switching using the standardized Internet Protocol Suite (TCP/IP)."
+
+   Thus, the Internet is a network of networks, defined by the TPC/IP
+   standards.
+
+   The Web, on the other hand, is defined in W3C's Architecture of the
+   World Wide Web, Volume I as follows: "The World Wide Web (WWW, or
+   simply Web) is an information space in which the items of interest,
+   referred to as resources, are identified by global identifiers called
+   Uniform Resource Identifiers (URI)."
+
+   Thus, the Web is an information space. The first three specifications
+   for Web technologies defined URLs, HTTP, and HTML.
+
+What does it mean that Tim Berners-Lee invented the Web?
+
+   Tim Berners-Lee wrote a proposal in 1989 for a system called the World
+   Wide Web. He then wrote the first Web browser, server, and Web page. He
+   wrote the first specifications for URLs, HTTP, and HTML.
+
+W3C has a validation service. Does W3C approve all Web pages?
+
+   No. W3C does provide a free service for validating Web pages against
+   standard formats. Although validation is not mandatory on the Web, it
+   is useful for improving the quality of pages.
+
+What is the difference between an open standard and open source software?
+
+   In general terms: open source refers to software, and open standards
+   refer to documents (that may then be implemented by software). There is
+   no single definition global for either term.
+
+   Some elements of openness that apply to W3C standards include:
+     * All standards are available publicly at no cost
+     * W3C adopted a Patent Policy in 2004 with the stated goal of
+       assuring "that Recommendations produced under this policy can be
+       implemented on a Royalty-Free (RF) basis."
+     * W3C Process requires that groups address public comments
+     * All technical comments are handled on their merits, whether they
+       are made by W3C Members or public.
+     * W3C's process is vendor-neutral.
+     * W3C's persistence policy seeks to ensure that standards will be
+       available at the same URI, unchanged, indefinitely.
+
+Does W3C design Web sites? Can you recommend a designer?
+
+   W3C is not in the business of designing Web sites. Although we greatly
+   appreciate that many designers promote standards-based Web design, at
+   the current time for reasons of neutrality, we cannot officially
+   recommend any particular designers.
+
+How do I get started building (or requesting) a standards-compliant Web site?
+
+   W3C provides a list of resources that provides an introduction to
+   standards-based design.
+
+Do you have more FAQs?
+
+   Yes. These additional FAQs are maintained by various people in the
+   community; some are more up-to-date than others.
+
+About W3C
+
+     * Copyright and Intellectual Property
+     * Tim Berners-Lee
+     * Logos and Icons
+     * Mail and Mailing Lists
+     * Membership
+     * Participation
+     * Patent Policy
+     * Standards
+     * Web Site
+
+About Tools and Software
+
+     * HTML Validator
+     * CSS Validator
+     * Amaya
+     * Jigsaw
+     * Test Development
+
+Quick links
+
+     * Site map
+     * Glossary
+
+Ask The Webmaster
+
+     * Systems Status (outages)
+     * Found "W3C" in the source code of a page?
+     * Spam from W3C?
+     * Lost password?
+     * Blocked from w3.org?
+     * More…
+
+Footer Navigation
+
+Navigation
+
+     * Home
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+
+Contact W3C
+
+     * Contact
+     * Help and FAQ
+     * Donate
+     * Site Map
+         * Feedback
+
+W3C Updates
+
+     * Twitter
+
+   Copyright © 2019 W3C ^® ( MIT , ERCIM , Keio, Beihang) Usage policies
+   apply.
+   W3C
+
+                                XHTML Vocabulary
+
+   This is a vocabulary collection utilized by XHTML Family modules and
+   document types using XHTML Modularization, including XHTML Role and
+   XHTML + RDFa as defined in rdfa-syntax.
+
+   The XHTML specifications are developed by the W3C XHTML 2 Working Group
+   as part of the W3C HTML Activity.
+
+   For more information about XML, please refer to the Extensible Markup
+   Language (XML) 1.0 specification.
+
+   Version date: 2010-01-27
+     __________________________________________________________________
+
+1. Introduction
+
+   XHTML Modularization [XHTMLMOD] permits the development of XHTML
+   modules and XHTML family markup languages. These modules and markup
+   languages may, in turn, define local vocabulary items for use as values
+   of attributes. This document describes the items that are available in
+   the default XHTML vocabulary space:
+   http://www.w3.org/1999/xhtml/vocab#.
+
+2. XHTML Metainformation Vocabulary
+
+   The XHTML Metainformation Module defined as part of XHTML+RDFa
+   [XHTMLRDFa] specifies the following vocabulary items.
+
+   alternate
+          alternate designates alternate versions for a resource.
+
+   appendix
+          appendix refers to a resource serving as an appendix in a
+          collection.
+
+   bookmark
+          bookmark refers to a bookmark - a link to a key entry point
+          within an extended document.
+
+   cite
+          cite refers to a resource that defines a citation.
+
+   chapter
+          chapter refers to a resource serving as a chapter in a
+          collection.
+
+   contents
+          contents refers to a resource serving as a table of contents.
+
+   copyright
+          copyright refers to a copyright statement for the resource.
+
+   first
+          first refers the first item in a collection (see also start and
+          top).
+
+   glossary
+          glossary refers to a resource providing a glossary of terms.
+
+   help
+          help refers to a resource offering help.
+
+   icon
+          icon refers to a resource that represents an icon.
+
+   index
+          index refers to a resource providing an index.
+
+   itsRules
+          itsRules indicates that the designated resource is an [ITS] rule
+          set.
+
+   last
+          last refers to the last resource in a collection of resources.
+
+   license
+          license refers to a resource that defines the associated
+          license.
+
+   meta
+          meta refers to a resource that provides metadata.
+
+   next
+          next refers to the next resource (after the current one) in an
+          ordered collection of resources.
+
+   p3pv1
+          p3pv1 refers to a P3P Policy Reference File [P3P].
+
+   prev
+          prev refers to a previous resource (before the current one) in
+          an ordered collection of resources.
+
+   role
+          role indicates the purpose of the resource. See the XHTML Role
+          Vocabulary for roles in this vocabulary space, and XHTMLROLE for
+          information on extending the collection of roles.
+
+   section
+          section refers to a resource serving as a section in a
+          collection.
+
+   stylesheet
+          stylesheet refers to a resource serving as a stylesheet for a
+          resource.
+
+   subsection
+          subsection refers to a resource serving as a subsection in a
+          collection.
+
+   start
+          start refers to the first resource in a collection of resources.
+
+   top
+          top is a synonym for start.
+
+   up
+          up refers to a resource "above" in a hierarchically structured
+          set.
+
+3. XHTML Role Vocabulary
+
+  3.1 Items from the XHTML Role Module
+
+   The values in this section are defined for use in the role attribute as
+   specified in the XHTML Role Attribute Module. Note that the values in
+   Section 2 and Section 3.2 are also available.
+
+   banner
+          contains the prime heading or internal title of a page.
+
+   complementary
+          indicates that the section supports but is separable from the
+          main content of resource.
+
+   contentinfo
+          contains meta information about the content on the page or the
+          page as a whole.
+
+   definition
+          indicates the definition of a term or concept.
+
+   main
+          acts as the main content of the document.
+
+   navigation
+          indicates a collection of items suitable for navigating the
+          document or related documents.
+
+   note
+          indicates the content is parenthetic or ancillary to the main
+          content of the resource.
+
+   search
+          indicates that the section provides a search facility.
+
+  3.2 Items from the Accessible Rich Internet Applications Vocabulary
+
+   alert
+          A message with important, and usually time-sensitive,
+          information. Also see alertdialog and status.
+
+   alertdialog
+          A type of dialog that contains an alert message, where initial
+          focus goes an element within the dialog. Also see alert and
+          dialog.
+
+   application
+          A region declared as a web application, as opposed to a web
+          document.
+
+   article
+          A section of a page that consists of a composition that forms an
+          independent part of a document, page, or site.
+
+   button
+          An input that allows for user-triggered actions when clicked or
+          pressed. Also see link.
+
+   checkbox
+          A checkable input that has three possible values: true, false,
+          or mixed.
+
+   columnheader
+          A cell containing header information for a column.
+
+   combobox
+          A presentation of a select; usually similar to a textbox where
+          users can type ahead to select an option, or type to enter
+          arbitrary text as a new item in the list. Also see listbox.
+
+   dialog
+          A dialog is an application window that is designed to interrupt
+          the current processing of an application in order to prompt the
+          user to enter information or require a response. Also see
+          alertdialog.
+
+   directory
+          A list of references to members of a group, such as a static
+          table of contents.
+
+   document
+          A region containing related information that is declared as
+          document content, as opposed to a web application.
+
+   form
+          A landmark region that contains a collection of items and
+          objects that, as a whole, combine to create a form. Also see
+          search.
+
+   grid
+          A grid is an interactive control which contains cells of tabular
+          data arranged in rows and columns, like a table.
+
+   gridcell
+          A cell in a grid or treegrid.
+
+   group
+          A set of user interface objects which are not intended to be
+          included in a page summary or table of contents by assistive
+          technologies.
+
+   heading
+          A heading for a section of the page.
+
+   img
+          A container for a collection of elements that form an image.
+
+   link
+          An interactive reference to an internal or external resource
+          that, when activated, causes the user agent to navigate to that
+          resource. Also see button.
+
+   list
+          A group of non-interactive list items. Also see listbox.
+
+   listbox
+          A widget that allows the user to select one or more items from a
+          list of choices. Also see combobox and list.
+
+   listitem
+          A single item in a list or directory.
+
+   log
+          A type of live region where new information is added in
+          meaningful order and old information may disappear. Also see
+          marquee.
+
+   marquee
+          A type of live region where non-essential information changes
+          frequently. Also see log.
+
+   math
+          Content that represents a mathematical expression.
+
+   menu
+          A type of widget that offers a list of choices to the user.
+
+   menubar
+          A presentation of menu that usually remains visible and is
+          usually presented horizontally.
+
+   menuitem
+          An option in a group of choices contained by a menu or menubar.
+
+   menuitemcheckbox
+          A checkable menuitem that has three possible values: true,
+          false, or mixed.
+
+   menuitemradio
+          A checkable menuitem in a group of menuitemradio roles, only one
+          of which can be checked at a time.
+
+   option
+          A selectable item in a select list.
+
+   presentation
+          An element whose implicit native role semantics will not be
+          mapped to the accessibility API.
+
+   progressbar
+          An element that displays the progress status for tasks that take
+          a long time.
+
+   radio
+          A checkable input in a group of radio roles, only one of which
+          can be checked at a time.
+
+   radiogroup
+          A group of radio buttons.
+
+   region
+          A large perceivable section of a web page or document, that the
+          author feels is important enough to be included in a page
+          summary or table of contents, for example, an area of the page
+          containing live sporting event statistics.
+
+   row
+          A row of cells in a grid.
+
+   rowgroup
+          A group containing one or more row elements in a grid.
+
+   rowheader
+          A cell containing header information for a row in a grid.
+
+   scrollbar
+          A graphical object that controls the scrolling of content within
+          a viewing area, regardless of whether the content is fully
+          displayed within the viewing area.
+
+   separator
+          A divider that separates and distinguishes sections of content
+          or groups of menuitems.
+
+   slider
+          A user input where the user selects a value from within a given
+          range.
+
+   spinbutton
+          A form of range that expects a user to select from amongst
+          discrete choices.
+
+   status
+          A container whose content is advisory information for the user
+          but is not important enough to justify an alert. Also see alert.
+
+   tab
+          A grouping label providing a mechanism for selecting the tab
+          content that is to be rendered to the user.
+
+   tablist
+          A list of tab elements, which are references to tabpanel
+          elements.
+
+   tabpanel
+          A container for the resources associated with a tab, where each
+          tab is contained in a tablist.
+
+   textbox
+          Input that allows free-form text as its value.
+
+   timer
+          A type of live region containing a numerical counter which
+          indicates an amount of elapsed time from a start point, or the
+          time remaining until an end point.
+
+   toolbar
+          A collection of commonly used function buttons represented in
+          compact visual form.
+
+   tooltip
+          A contextual popup that displays a description for an element.
+
+   tree
+          A type of list that may contain sub-level nested groups that can
+          be collapsed and expanded.
+
+   treegrid
+          A grid whose rows can be expanded and collapsed in the same
+          manner as for a tree.
+
+   treeitem
+          An option item of a tree. This is an element within a tree that
+          may be expanded or collapsed if it contains a sub-level group of
+          treeitems.
+
+Appendix A - References
+
+   [ITS]
+          "The Internationalization Tag Set (ITS) Version 2.0", W3C
+          Recommendation, David Filip et al., 29 October 2013.
+          Available at: http://www.w3.org/TR/2013/REC-its20-20131029/
+
+   [P3P]
+          "The Platform for Privacy Preferences 1.0 (P3P1.0)
+          Specification", W3C Recommendation, L. Cranor et al., 16 April
+          2002.
+          Available at: http://www.w3.org/TR/2002/REC-P3P-20020416/
+
+   [XHTMLMOD]
+          XHTML Modularization 1.1, W3C Recommendation, Shane McCarron, et
+          al., 8 October 2008
+          http://www.w3.org/TR/2008/REC-xhtml-modularization-20081008
+
+   [XHTMLRDFa]
+          "RDFa in XHTML: Syntax and Processing", W3C Recommendation, B.
+          Adida, et al., 14 October 2008.
+          http://www.w3.org/TR/2008/REC-rdfa-syntax-20081014.
+
+   [XHTMLROLE]
+          "XHTML Role Attribute Module", W3C Working Draft, M. Birbeck,
+          et. al. 7 April 2008.
+          http://www.w3.org/TR/2008/WD-xhtml-role-20080407
+     __________________________________________________________________
+
+
+    Steven Pemberton, W3C HTML Activity Lead
+
+
+    Last edited: 2010-01-27
+   W3C
+
+   This is an XML namespace defined in the XML Linking Language (XLink)
+   specification.
+
+   For more information about XML, please refer to The Extensible Markup
+   Language (XML) 1.0 specification. For more information about XML
+   namespaces, please refer to the Namespaces in XML specification.
+     __________________________________________________________________
+
+
+    Webmaster
+    Last modified: $Date: 2000/06/22 15:15:22 $
+                                                            W3C NOTE-datetime
+
+
+
+                            Date and Time Formats
+
+                           Status of this Document
+
+  Submitted to W3C 15 September 1997
+
+   This version:
+          http://www.w3.org/TR/1998/NOTE-datetime-19980827
+
+   Newest version:
+          http://www.w3.org/TR/NOTE-datetime
+
+   Authors:
+          Misha Wolf <misha.wolf@reuters.com>
+          Charles Wicksteed <charles.wicksteed@reuters.com>
+
+   Document Status
+
+Status of this document
+
+   This document is a NOTE made available by the W3 Consortium for
+   discussion only. This indicates no endorsement of its content, nor that
+   the Consortium has, is, or will be allocating any resources to the
+   issues addressed by the NOTE.
+
+   This document is a submission to W3C from Reuters Limited. Please see
+   Acknowledged Submissions to W3C regarding its disposition.
+
+   Comments on this document should be sent to datetime-comments@w3.org.
+     __________________________________________________________________
+
+Abstract
+
+   This document defines a profile of ISO 8601, the International Standard
+   for the representation of dates and times. ISO 8601 describes a large
+   number of date/time formats. To reduce the scope for error and the
+   complexity of software, it is useful to restrict the supported formats
+   to a small number. This profile defines a few date/time formats, likely
+   to satisfy most requirements.
+     __________________________________________________________________
+
+Introduction
+
+   The International Standard for the representation of dates and times is
+   ISO 8601. Its full reference number is ISO 8601 : 1988 (E), and its
+   title is "Data elements and interchange formats - Information
+   interchange - Representation of dates and times". A discussion of ISO
+   8601 has been written by Markus Kuhn.
+
+   ISO 8601 describes a large number of date/time formats. For example it
+   defines Basic Format, without punctuation, and Extended Format, with
+   punctuation, and it allows elements to be omitted. This profile defines
+   a restricted range of formats, all of which are valid ISO 8601 dates
+   and times. The aim is to simplify the use of ISO 8601 in World Wide
+   Web-related standards, and to avoid the need for the developers and
+   users of these standards to obtain copies of ISO 8601 itself.
+
+   A particular problem with ISO 8601 is that it allows the century to be
+   omitted from years, which is likely to cause trouble as we approach the
+   year 2000. This profile avoids the problem by expressing the year as
+   four digits in all cases.
+
+   This profile may be adopted by standards which require an unambiguous
+   representation of dates and times. As different standards have their
+   own requirements regarding granularity and flexibility, this profile
+   offers a number of options. An adopting standard must specify which of
+   these options it permits.
+     __________________________________________________________________
+
+Formats
+
+   Different standards may need different levels of granularity in the
+   date and time, so this profile defines six levels. Standards that
+   reference this profile should specify one or more of these
+   granularities. If a given standard allows more than one granularity, it
+   should specify the meaning of the dates and times with reduced
+   precision, for example, the result of comparing two dates with
+   different precisions.
+
+   The formats are as follows. Exactly the components shown here must be
+   present, with exactly this punctuation. Note that the "T" appears
+   literally in the string, to indicate the beginning of the time element,
+   as specified in ISO 8601.
+   Year:
+      YYYY (eg 1997)
+   Year and month:
+      YYYY-MM (eg 1997-07)
+   Complete date:
+      YYYY-MM-DD (eg 1997-07-16)
+   Complete date plus hours and minutes:
+      YYYY-MM-DDThh:mmTZD (eg 1997-07-16T19:20+01:00)
+   Complete date plus hours, minutes and seconds:
+      YYYY-MM-DDThh:mm:ssTZD (eg 1997-07-16T19:20:30+01:00)
+   Complete date plus hours, minutes, seconds and a decimal fraction of a
+second
+      YYYY-MM-DDThh:mm:ss.sTZD (eg 1997-07-16T19:20:30.45+01:00)
+
+   where:
+     YYYY = four-digit year
+     MM   = two-digit month (01=January, etc.)
+     DD   = two-digit day of month (01 through 31)
+     hh   = two digits of hour (00 through 23) (am/pm NOT allowed)
+     mm   = two digits of minute (00 through 59)
+     ss   = two digits of second (00 through 59)
+     s    = one or more digits representing a decimal fraction of a second
+     TZD  = time zone designator (Z or +hh:mm or -hh:mm)
+
+   This profile does not specify how many digits may be used to represent
+   the decimal fraction of a second. An adopting standard that permits
+   fractions of a second must specify both the minimum number of digits (a
+   number greater than or equal to one) and the maximum number of digits
+   (the maximum may be stated to be "unlimited").
+
+   This profile defines two ways of handling time zone offsets:
+    1. Times are expressed in UTC (Coordinated Universal Time), with a
+       special UTC designator ("Z").
+    2. Times are expressed in local time, together with a time zone offset
+       in hours and minutes. A time zone offset of "+hh:mm" indicates that
+       the date/time uses a local time zone which is "hh" hours and "mm"
+       minutes ahead of UTC. A time zone offset of "-hh:mm" indicates that
+       the date/time uses a local time zone which is "hh" hours and "mm"
+       minutes behind UTC.
+
+   A standard referencing this profile should permit one or both of these
+   ways of handling time zone offsets.
+     __________________________________________________________________
+
+Examples
+
+   1994-11-05T08:15:30-05:00 corresponds to November 5, 1994, 8:15:30 am,
+   US Eastern Standard Time.
+
+   1994-11-05T13:15:30Z corresponds to the same instant.
+     __________________________________________________________________
+
+Acknowledgments
+
+   This document draws on Chris Newman's Internet Draft "Date and Time on
+   the Internet" (draft-newman-datetime-01.txt).
+   #Help
+
+W3C W3C
+
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+     * ____________________ (BUTTON) Search
+
+Site Navigation
+
+Browsers and Authoring Tools Header link
+
+     * Authoring Tools
+     * Browsers
+
+     * Skip
+     * W3C »
+     * Standards »
+     * Browsers and Authoring Tools »
+     * Browsers and Media Players
+
+Browsers, Media Players
+
+     * On this page →
+     * examples of user agent standards issues •
+     * accessibility guidelines for user agents •
+     * current status of specifications and groups
+
+   'User agents' - web browsers, media players, browser extensions,
+   on-the-fly converters, plug-ins, bots, aggregators and mobile browsers
+   - provide a human or machine interface to the web. At their best, they
+   allow all of us to explore a universal space of web content.
+
+Examples of user agent standards issues
+
+   User agent developers need to pay particular heed to issues surrounding
+   use of their agents by people in other parts of the world, speaking
+   other languages, using other devices and with a variety of assistive
+   technologies that allow users to use different modes of input and
+   output (such as speech input, tactile displays, semantic navigation,
+   and a variety of display preferences).
+
+   Example 1: An online app developer wants to provide context-sensitive
+   help in a tooltip that is displayed when the user (with a mouse) hovers
+   over or (with a keyboard) focuses a "Help" icon. In most browsers, the
+   functionality automatically works for hover; the title element is
+   displayed. However, most browsers don't provide the same functionality
+   for keyboard users on focus. To compensate for the missing
+   functionality in the browsers, the developer has to create scripts to
+   provide it for her content. Unfortunately most developers don't do this
+   - and indeed, they shouldn't have to because the browser should provide
+   the same functionality for people who cannot use the mouse.
+
+   Example 2: A developer uses the css declaration text-transform:
+   lowercase to style a magazine headline (about fresh orange juice)
+   originally composed in caps. The content is then internationalised for
+   a Turkish-language audience, and a language of Turkish declared using
+   the attribute lang="tr". The lower case of the Turkish character İ (a
+   capital I dotted) should return a i. Major browsers, however convert
+   the Turkish character I to i. An innocuous headline "Squeeze Often"
+   suddenly becomes rather rude...
+
+   W3C staff documented some Common User Agent Problems in a Team
+   Submission, still a useful document although it was published in 2003.
+
+Accessibility Guidelines for User Agents
+
+   W3C publishes guidelines for creating accessible authoring tools: User
+   Agent Accessibility Guidelines (UAAG). UAAG 2.0 is intended for the
+   current and future generation of user agents. You can implement the
+   latest draft of the User Agent Accessibility Guidelines (UAAG 2.0) by
+   following Implementing UAAG 2.0 - a guide to implementing and
+   understanding the guidelines.
+
+   You may also wish to consult the current formally approved, stable and
+   referenceable technical recommendation for accessibility is UAAG 1.0.
+
+   Browser developers need some help at making the web readable by all;
+   extension developers can respond to limitations of particular browser
+   functionality, and the best extensions can be incorporated into the
+   browsers' standard functionality. Whether you develop browsers,
+   extensions, bots, aggregators, media players or an as-yet undreamed of
+   way of reading the web, to create that web that is readable by all, the
+   User Agent Accessibility Guidelines provide the place to start.
+
+Validators
+
+     * Markup
+
+Acknowledgments
+
+   Editor of introductory text: Liam McGee. Contributors: Shawn Lawton
+   Henry and participants of the Education and Outreach Working Group
+   (EOWG).
+
+Footer Navigation
+
+Navigation
+
+     * Home
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+
+Contact W3C
+
+     * Contact
+     * Help and FAQ
+     * Sponsor / Donate
+     * Site Map
+         * Feedback
+
+W3C Updates
+
+     * Twitter
+
+   Copyright © 2016 W3C ^® (MIT, ERCIM, Keio, Beihang) Usage policies
+   apply.
+W3C W3C
+
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+     * ____________________ (BUTTON) Search
+
+   logo shadow
+
+Site Navigation
+
+About W3C Header link
+
+     * W3C Mission
+     * Facts About W3C
+     * Press and Analysts
+     * Sponsorships and Donations
+     * Jobs and Fellowships
+     * Contact
+     * Help and FAQ
+
+     * Skip
+     * W3C »
+     * About W3C »
+     * Help and FAQ
+
+Help and FAQ
+
+     * What does W3C do?
+     * Where is W3C located?
+     * How is W3C funded?
+     * What is the difference between the Web and the Internet?
+     * What does it mean that Tim Berners-Lee invented the Web?
+     * W3C has a validation service. Does W3C approve all Web pages?
+     * What is the difference between open source and an open standard?
+     * Does W3C design Web sites? Can you recommend a designer?
+     * How do I get started building (or requesting) a standards-compliant
+       Web site?
+     * Do you have more FAQs?
+
+What does W3C do?
+
+   W3C's primary activity is to develop protocols and guidelines that
+   ensure long-term growth for the Web. W3C's standards define key parts
+   of what makes the World Wide Web work. Learn more about W3C's mission.
+
+Where is W3C located?
+
+   W3C does not have a single physical headquarters. There are four
+   institutions, however, that "host" W3C: MIT (in Cambridge, MA, USA),
+   ERCIM (in Sophia-Antipolis, France), Keio University (near Tokyo,
+   Japan), and Beihang University (in Beijing, China).
+
+   The W3C staff is distributed around the world, but there are
+   concentrations of people in Cambridge, Massachusetts (USA),
+   Sophia-Antipolis (France), and Tokyo (Japan). In addition, W3C is
+   represented in 17 other regions of the world via representatives based
+   at organizations. W3C calls these regional points of contact "W3C
+   Offices."
+
+How is W3C funded?
+
+   W3C receives funds from:
+     * W3C Member dues
+     * Research grants and other sources of private and public funding
+     * Individual donations of money and equipment
+
+What is the difference between the Web and the Internet?
+
+   From the definition in the Wikipedia: "The Internet is a global system
+   of interconnected computer networks that interchange data by packet
+   switching using the standardized Internet Protocol Suite (TCP/IP)."
+
+   Thus, the Internet is a network of networks, defined by the TPC/IP
+   standards.
+
+   The Web, on the other hand, is defined in W3C's Architecture of the
+   World Wide Web, Volume I as follows: "The World Wide Web (WWW, or
+   simply Web) is an information space in which the items of interest,
+   referred to as resources, are identified by global identifiers called
+   Uniform Resource Identifiers (URI)."
+
+   Thus, the Web is an information space. The first three specifications
+   for Web technologies defined URLs, HTTP, and HTML.
+
+What does it mean that Tim Berners-Lee invented the Web?
+
+   Tim Berners-Lee wrote a proposal in 1989 for a system called the World
+   Wide Web. He then wrote the first Web browser, server, and Web page. He
+   wrote the first specifications for URLs, HTTP, and HTML.
+
+W3C has a validation service. Does W3C approve all Web pages?
+
+   No. W3C does provide a free service for validating Web pages against
+   standard formats. Although validation is not mandatory on the Web, it
+   is useful for improving the quality of pages.
+
+What is the difference between an open standard and open source software?
+
+   In general terms: open source refers to software, and open standards
+   refer to documents (that may then be implemented by software). There is
+   no single definition global for either term.
+
+   Some elements of openness that apply to W3C standards include:
+     * All standards are available publicly at no cost
+     * W3C adopted a Patent Policy in 2004 with the stated goal of
+       assuring "that Recommendations produced under this policy can be
+       implemented on a Royalty-Free (RF) basis."
+     * W3C Process requires that groups address public comments
+     * All technical comments are handled on their merits, whether they
+       are made by W3C Members or public.
+     * W3C's process is vendor-neutral.
+     * W3C's persistence policy seeks to ensure that standards will be
+       available at the same URI, unchanged, indefinitely.
+
+Does W3C design Web sites? Can you recommend a designer?
+
+   W3C is not in the business of designing Web sites. Although we greatly
+   appreciate that many designers promote standards-based Web design, at
+   the current time for reasons of neutrality, we cannot officially
+   recommend any particular designers.
+
+How do I get started building (or requesting) a standards-compliant Web site?
+
+   W3C provides a list of resources that provides an introduction to
+   standards-based design.
+
+Do you have more FAQs?
+
+   Yes. These additional FAQs are maintained by various people in the
+   community; some are more up-to-date than others.
+
+About W3C
+
+     * Copyright and Intellectual Property
+     * Tim Berners-Lee
+     * Logos and Icons
+     * Mail and Mailing Lists
+     * Membership
+     * Participation
+     * Patent Policy
+     * Standards
+     * Web Site
+
+About Tools and Software
+
+     * HTML Validator
+     * CSS Validator
+     * Amaya
+     * Jigsaw
+     * Test Development
+
+Quick links
+
+     * Site map
+     * Glossary
+
+Ask The Webmaster
+
+     * Systems Status (outages)
+     * Found "W3C" in the source code of a page?
+     * Spam from W3C?
+     * Lost password?
+     * Blocked from w3.org?
+     * More…
+
+Footer Navigation
+
+Navigation
+
+     * Home
+     * Standards
+     * Participate
+     * Membership
+     * About W3C
+
+Contact W3C
+
+     * Contact
+     * Help and FAQ
+     * Donate
+     * Site Map
+         * Feedback
+
+W3C Updates
+
+     * Twitter
+
+   Copyright © 2019 W3C ^® ( MIT , ERCIM , Keio, Beihang) Usage policies
+   apply.
+   W3C
+
+                                XHTML Vocabulary
+
+   This is a vocabulary collection utilized by XHTML Family modules and
+   document types using XHTML Modularization, including XHTML Role and
+   XHTML + RDFa as defined in rdfa-syntax.
+
+   The XHTML specifications are developed by the W3C XHTML 2 Working Group
+   as part of the W3C HTML Activity.
+
+   For more information about XML, please refer to the Extensible Markup
+   Language (XML) 1.0 specification.
+
+   Version date: 2010-01-27
+     __________________________________________________________________
+
+1. Introduction
+
+   XHTML Modularization [XHTMLMOD] permits the development of XHTML
+   modules and XHTML family markup languages. These modules and markup
+   languages may, in turn, define local vocabulary items for use as values
+   of attributes. This document describes the items that are available in
+   the default XHTML vocabulary space:
+   http://www.w3.org/1999/xhtml/vocab#.
+
+2. XHTML Metainformation Vocabulary
+
+   The XHTML Metainformation Module defined as part of XHTML+RDFa
+   [XHTMLRDFa] specifies the following vocabulary items.
+
+   alternate
+          alternate designates alternate versions for a resource.
+
+   appendix
+          appendix refers to a resource serving as an appendix in a
+          collection.
+
+   bookmark
+          bookmark refers to a bookmark - a link to a key entry point
+          within an extended document.
+
+   cite
+          cite refers to a resource that defines a citation.
+
+   chapter
+          chapter refers to a resource serving as a chapter in a
+          collection.
+
+   contents
+          contents refers to a resource serving as a table of contents.
+
+   copyright
+          copyright refers to a copyright statement for the resource.
+
+   first
+          first refers the first item in a collection (see also start and
+          top).
+
+   glossary
+          glossary refers to a resource providing a glossary of terms.
+
+   help
+          help refers to a resource offering help.
+
+   icon
+          icon refers to a resource that represents an icon.
+
+   index
+          index refers to a resource providing an index.
+
+   itsRules
+          itsRules indicates that the designated resource is an [ITS] rule
+          set.
+
+   last
+          last refers to the last resource in a collection of resources.
+
+   license
+          license refers to a resource that defines the associated
+          license.
+
+   meta
+          meta refers to a resource that provides metadata.
+
+   next
+          next refers to the next resource (after the current one) in an
+          ordered collection of resources.
+
+   p3pv1
+          p3pv1 refers to a P3P Policy Reference File [P3P].
+
+   prev
+          prev refers to a previous resource (before the current one) in
+          an ordered collection of resources.
+
+   role
+          role indicates the purpose of the resource. See the XHTML Role
+          Vocabulary for roles in this vocabulary space, and XHTMLROLE for
+          information on extending the collection of roles.
+
+   section
+          section refers to a resource serving as a section in a
+          collection.
+
+   stylesheet
+          stylesheet refers to a resource serving as a stylesheet for a
+          resource.
+
+   subsection
+          subsection refers to a resource serving as a subsection in a
+          collection.
+
+   start
+          start refers to the first resource in a collection of resources.
+
+   top
+          top is a synonym for start.
+
+   up
+          up refers to a resource "above" in a hierarchically structured
+          set.
+
+3. XHTML Role Vocabulary
+
+  3.1 Items from the XHTML Role Module
+
+   The values in this section are defined for use in the role attribute as
+   specified in the XHTML Role Attribute Module. Note that the values in
+   Section 2 and Section 3.2 are also available.
+
+   banner
+          contains the prime heading or internal title of a page.
+
+   complementary
+          indicates that the section supports but is separable from the
+          main content of resource.
+
+   contentinfo
+          contains meta information about the content on the page or the
+          page as a whole.
+
+   definition
+          indicates the definition of a term or concept.
+
+   main
+          acts as the main content of the document.
+
+   navigation
+          indicates a collection of items suitable for navigating the
+          document or related documents.
+
+   note
+          indicates the content is parenthetic or ancillary to the main
+          content of the resource.
+
+   search
+          indicates that the section provides a search facility.
+
+  3.2 Items from the Accessible Rich Internet Applications Vocabulary
+
+   alert
+          A message with important, and usually time-sensitive,
+          information. Also see alertdialog and status.
+
+   alertdialog
+          A type of dialog that contains an alert message, where initial
+          focus goes an element within the dialog. Also see alert and
+          dialog.
+
+   application
+          A region declared as a web application, as opposed to a web
+          document.
+
+   article
+          A section of a page that consists of a composition that forms an
+          independent part of a document, page, or site.
+
+   button
+          An input that allows for user-triggered actions when clicked or
+          pressed. Also see link.
+
+   checkbox
+          A checkable input that has three possible values: true, false,
+          or mixed.
+
+   columnheader
+          A cell containing header information for a column.
+
+   combobox
+          A presentation of a select; usually similar to a textbox where
+          users can type ahead to select an option, or type to enter
+          arbitrary text as a new item in the list. Also see listbox.
+
+   dialog
+          A dialog is an application window that is designed to interrupt
+          the current processing of an application in order to prompt the
+          user to enter information or require a response. Also see
+          alertdialog.
+
+   directory
+          A list of references to members of a group, such as a static
+          table of contents.
+
+   document
+          A region containing related information that is declared as
+          document content, as opposed to a web application.
+
+   form
+          A landmark region that contains a collection of items and
+          objects that, as a whole, combine to create a form. Also see
+          search.
+
+   grid
+          A grid is an interactive control which contains cells of tabular
+          data arranged in rows and columns, like a table.
+
+   gridcell
+          A cell in a grid or treegrid.
+
+   group
+          A set of user interface objects which are not intended to be
+          included in a page summary or table of contents by assistive
+          technologies.
+
+   heading
+          A heading for a section of the page.
+
+   img
+          A container for a collection of elements that form an image.
+
+   link
+          An interactive reference to an internal or external resource
+          that, when activated, causes the user agent to navigate to that
+          resource. Also see button.
+
+   list
+          A group of non-interactive list items. Also see listbox.
+
+   listbox
+          A widget that allows the user to select one or more items from a
+          list of choices. Also see combobox and list.
+
+   listitem
+          A single item in a list or directory.
+
+   log
+          A type of live region where new information is added in
+          meaningful order and old information may disappear. Also see
+          marquee.
+
+   marquee
+          A type of live region where non-essential information changes
+          frequently. Also see log.
+
+   math
+          Content that represents a mathematical expression.
+
+   menu
+          A type of widget that offers a list of choices to the user.
+
+   menubar
+          A presentation of menu that usually remains visible and is
+          usually presented horizontally.
+
+   menuitem
+          An option in a group of choices contained by a menu or menubar.
+
+   menuitemcheckbox
+          A checkable menuitem that has three possible values: true,
+          false, or mixed.
+
+   menuitemradio
+          A checkable menuitem in a group of menuitemradio roles, only one
+          of which can be checked at a time.
+
+   option
+          A selectable item in a select list.
+
+   presentation
+          An element whose implicit native role semantics will not be
+          mapped to the accessibility API.
+
+   progressbar
+          An element that displays the progress status for tasks that take
+          a long time.
+
+   radio
+          A checkable input in a group of radio roles, only one of which
+          can be checked at a time.
+
+   radiogroup
+          A group of radio buttons.
+
+   region
+          A large perceivable section of a web page or document, that the
+          author feels is important enough to be included in a page
+          summary or table of contents, for example, an area of the page
+          containing live sporting event statistics.
+
+   row
+          A row of cells in a grid.
+
+   rowgroup
+          A group containing one or more row elements in a grid.
+
+   rowheader
+          A cell containing header information for a row in a grid.
+
+   scrollbar
+          A graphical object that controls the scrolling of content within
+          a viewing area, regardless of whether the content is fully
+          displayed within the viewing area.
+
+   separator
+          A divider that separates and distinguishes sections of content
+          or groups of menuitems.
+
+   slider
+          A user input where the user selects a value from within a given
+          range.
+
+   spinbutton
+          A form of range that expects a user to select from amongst
+          discrete choices.
+
+   status
+          A container whose content is advisory information for the user
+          but is not important enough to justify an alert. Also see alert.
+
+   tab
+          A grouping label providing a mechanism for selecting the tab
+          content that is to be rendered to the user.
+
+   tablist
+          A list of tab elements, which are references to tabpanel
+          elements.
+
+   tabpanel
+          A container for the resources associated with a tab, where each
+          tab is contained in a tablist.
+
+   textbox
+          Input that allows free-form text as its value.
+
+   timer
+          A type of live region containing a numerical counter which
+          indicates an amount of elapsed time from a start point, or the
+          time remaining until an end point.
+
+   toolbar
+          A collection of commonly used function buttons represented in
+          compact visual form.
+
+   tooltip
+          A contextual popup that displays a description for an element.
+
+   tree
+          A type of list that may contain sub-level nested groups that can
+          be collapsed and expanded.
+
+   treegrid
+          A grid whose rows can be expanded and collapsed in the same
+          manner as for a tree.
+
+   treeitem
+          An option item of a tree. This is an element within a tree that
+          may be expanded or collapsed if it contains a sub-level group of
+          treeitems.
+
+Appendix A - References
+
+   [ITS]
+          "The Internationalization Tag Set (ITS) Version 2.0", W3C
+          Recommendation, David Filip et al., 29 October 2013.
+          Available at: http://www.w3.org/TR/2013/REC-its20-20131029/
+
+   [P3P]
+          "The Platform for Privacy Preferences 1.0 (P3P1.0)
+          Specification", W3C Recommendation, L. Cranor et al., 16 April
+          2002.
+          Available at: http://www.w3.org/TR/2002/REC-P3P-20020416/
+
+   [XHTMLMOD]
+          XHTML Modularization 1.1, W3C Recommendation, Shane McCarron, et
+          al., 8 October 2008
+          http://www.w3.org/TR/2008/REC-xhtml-modularization-20081008
+
+   [XHTMLRDFa]
+          "RDFa in XHTML: Syntax and Processing", W3C Recommendation, B.
+          Adida, et al., 14 October 2008.
+          http://www.w3.org/TR/2008/REC-rdfa-syntax-20081014.
+
+   [XHTMLROLE]
+          "XHTML Role Attribute Module", W3C Working Draft, M. Birbeck,
+          et. al. 7 April 2008.
+          http://www.w3.org/TR/2008/WD-xhtml-role-20080407
+     __________________________________________________________________
+
+
+    Steven Pemberton, W3C HTML Activity Lead
+
+
+    Last edited: 2010-01-27

@@ -1,0 +1,308 @@
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   ParisTech HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Par année de soutenance
+          + Consultation par discipline
+          + Consultation par établissement
+     * Rechercher
+     * aide
+          + manuel
+
+    1. Accueil
+
+   Accès direct aux thèses des écoles:
+     * AgroParisTech
+     * Arts et Métiers ParisTech
+     * Chimie ParisTech
+     * Ecole des Ponts ParisTech
+     * Ecole Polytechnique
+     * ENSAE ParisTech
+     * ENSTA ParisTech
+     * ESPCI ParisTech
+     * HEC PARIS
+     * Institut d'Optique Graduate School
+     * Mines ParisTech
+     * Télécom ParisTech
+
+   Bienvenue sur PASTEL,
+   thèses en ligne de ParisTech
+
+   Collection du portail HAL ParisTech
+
+   ParisTech a initié auprès de ses doctorants, depuis 2002, le dépôt des
+   thèses en ligne, pour contribuer à leur rayonnement et attirer les
+   meilleurs candidats à l’international.
+
+   PASTEL est devenu aujourd’hui une collection de référence.
+
+   Une étape nouvelle a été franchie en 2010, lorsque PASTEL a rejoint
+   l’archive ouverte HAL.
+
+   Les thèses sont accessibles par école, par domaine scientifique et par
+   année de soutenance. Pour chaque thèse, vous avez accès au texte
+   intégral, au résumé et aux mots-clefs de la thèse, ainsi qu’à la
+   bibliographie. Sont également mentionnés le laboratoire de
+   rattachement, le directeur et le jury de thèse.
+
+   Une question sur votre dépôt ? Vous cherchez une thèse et vous ne la
+   trouvez pas ? Contactez-moi : denis.roura@polytechnique.edu
+
+Thèses ParisTech
+
+6 932
+
+Actualités
+
+   Les nouveautés de HAL v3.0 de A à Z  (14/10/2014)
+
+Derniers dépôts
+
+     * Vignette
+       Pierre Margerit. Caractérisation large bande du comportement
+       dynamique linéaire des structures hétérogènes viscoélastiques
+       anisotropes : application à la table d'harmonie du piano. Mécanique
+       des matériaux [physics.class-ph]. Université Paris-Est, 2018.
+       Français. ⟨NNT : 2018PESC1151⟩. ⟨tel-02304886⟩
+     * Vignette
+       Neng Jia. Etude de la carbonatation des dispositifs du drainage
+       profond de l'infrastructure ferroviaire. Génie civil. Université
+       Paris-Est, 2018. Français. ⟨NNT : 2018PESC1153⟩. ⟨tel-02304550⟩
+     * Vignette
+       Fatme Jardali. New exotic nanostructured materials : Theoretical
+       predictions and experimental verifications. Materials Science
+       [cond-mat.mtrl-sci]. Université Paris-Saclay, 2017. English. ⟨NNT :
+       2017SACLX022⟩. ⟨tel-02303039v2⟩
+     * Vignette
+       Anna Shirinskaya. Physical modelling of bio sensors based on
+       Organic Electrochemical Transistors. Chemical Physics
+       [physics.chem-ph]. Université Paris-Saclay, 2017. English. ⟨NNT :
+       2017SACLX055⟩. ⟨tel-02303053⟩
+     * Vignette
+       Ahmed Ousman Abani. Electricity market design for long-term
+       capacity adequacy in a context of energy transition. Economics and
+       Finance. PSL Research University, 2019. English. ⟨NNT :
+       2019PSLEM018⟩. ⟨tel-02301297⟩
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   ParisTech HAL - hal.archives-ouvertes.fr
+     * Accueil
+     * Déposer
+     * Consulter
+          + Par année de soutenance
+          + Consultation par discipline
+          + Consultation par établissement
+     * Rechercher
+     * aide
+          + manuel
+
+   (BUTTON) tel-01286343, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Ground stack tree rewriting and traces of counter systems
+   Réécriture d’arbres de piles et traces de systèmes à compteurs
+   Vincent Penelle ^1 (BUTTON) Détails
+   1 LIGM - Laboratoire d'Informatique Gaspard-Monge
+
+       Vincent Penelle ^1 AuthorId : 1308006
+     Auteur IdRef : https://www.idref.fr/191859583
+
+   1 LIGM - Laboratoire d'Informatique Gaspard-Monge (Université de
+   Paris-Est Marne-la-Vallée, Cité Descartes, Bâtiment Copernic, 5 bd
+   Descartes, 77454 Marne-la-Vallée Cedex 2 - France) StructId : 3210
+     * UPEM - Université Paris-Est Marne-la-Vallée (5 boulevard Descartes
+       - Champs-sur-Marne - 77454 Marne-la-Vallée Cedex 2 - France)
+       StructId : 301243
+     * ENPC - École des Ponts ParisTech (École des Ponts ParisTech 6-8
+       avenue Blaise-Pascal Cité Descartes 77455 Champs-sur-Marne
+       Marne-la-Vallée cedex 2 - France) StructId : 301545
+     * ESIEE Paris (2 boulevard Blaise Pascal Cité Descartes BP 99 93162
+       Noisy-le-Grand Cedex - France) StructId : 302035
+     * Fédération de Recherche Bézout (France) StructId : 302085
+     * CNRS - Centre National de la Recherche Scientifique : UMR8049
+       (France) StructId : 441569
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : In this thesis, we study classes of infinite graphs and
+   their properties,especially the model-checking problem, the
+   accessibility problem and therecognised languages.We define a notion of
+   stack trees, and a related notionof ground rewriting, which is an
+   extension of both higher-order pushdownautomata and ground tree
+   rewriting systems. We also define a notion ofrecognisability on the
+   sets of ground rewriting operations through operationautomata. This
+   notion induces a notion of recognisability over sets of stacktrees and
+   a normalisation of recognisable sets of operations, similar to theknown
+   notions over higher-order pushdown automata. We show that the
+   graphsdefined by these ground stack tree rewriting systems have a
+   decidableFO-theory, by exhibiting a finite set interpretation from a
+   graph defined bya higher-order automaton to a graph defined by a ground
+   stack tree rewritingsystem.We also consider the context-freeness
+   problem for counter systems, andthe related problem of stratifiability
+   of semi-linear sets. We prove thedecidability of the stratifiability
+   problem for integral polyhedra and that itis coNP-complete. We use this
+   result to show that the context-freeness problemfor flat counter
+   systems is as well coNP-complete. Finally, we give a new proofof the
+   decidability of the context-freeness problem for vector
+   additionsystems, previously studied by Schwer
+   Résumé : Dans cette thèse, nous nous attachons à étudier des classes de
+   graphes infinis et leurs propriétés, Notamment celles de vérification
+   de modèles, d'accessibilité et de langages reconnus.Nous définissons
+   une notion d'arbres de piles ainsi qu'une notion liée de réécriture
+   suffixe, permettant d'étendre à la fois les automates à piles d'ordre
+   supérieur et la réécriture suffixe d'arbres de manière minimale. Nous
+   définissons également une notion de reconnaissabilité sur les ensembles
+   d'opérations à l'aide d'automates qui induit une notion de
+   reconnaissabilité sur les ensembles d'arbres de piles et une notion de
+   normalisation des ensembles reconnaissables d'opérations analogues à
+   celles existant sur les automates à pile d'ordre supérieur. Nous
+   montrons que les graphes définis par ces systèmes de réécriture suffixe
+   d'arbres de piles possèdent une FO-théorie décidable, en montrant que
+   ces graphes peuvent être obtenu par une interprétation à ensembles
+   finis depuis un graphe de la hiérarchie à piles.Nous nous intéressons
+   également au problème d'algébricité des langages de traces des systèmes
+   à compteurs et au problème lié de la stratifiabilité d'un ensemble
+   semi-linéaire. Nous montrons que dans le cas des polyèdres d'entiers,
+   le problème de stratifiabilité est décidable et possède une complexité
+   coNP-complète. Ce résultat nous permet ensuite de montrer que le
+   problème d'algébricité des traces de systèmes à compteurs plats est
+   décidable et coNP-complet. Nous donnons également une nouvelle preuve
+   de la décidabilité des langages de traces des systèmes d'addition de
+   vecteurs, préalablement étudié par Schwer
+   (BUTTON) en (BUTTON) fr
+   Keywords : Traces Counter systems Higher-Order Stack tree Infinite
+   graphs Decidability
+   Mots-clés : Graphes infini Décidabilité Ordre supérieur Arbre de pile
+   Systèmes à compteurs Langage de traces
+   Type de document :
+   Thèse
+   Domaine :
+
+   Informatique [cs] / Informatique et langage [cs.CL]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+     __________________________________________________________________
+
+   https://pastel.archives-ouvertes.fr/tel-01286343
+   Contributeur : Abes Star <>
+   Soumis le : jeudi 10 mars 2016 - 16:15:38
+   Dernière modification le : jeudi 5 juillet 2018 - 14:45:56
+
+Fichier
+
+   [small]
+   TH2015PESC1122_diffusion.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01286343, version 1
+
+Collections
+
+   PASTEL | STAR | ENPC | PARISTECH | UPEC-UPEM | LIGM | LIGM_ALGO |
+   ESIEE-PARIS
+
+Citation
+
+   Vincent Penelle. Réécriture d’arbres de piles et traces de systèmes à
+   compteurs. Informatique et langage [cs.CL]. Université Paris-Est, 2015.
+   Français. ⟨NNT : 2015PESC1122⟩. ⟨tel-01286343⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+216
+
+   Téléchargements de fichiers
+
+116
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD

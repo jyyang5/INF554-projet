@@ -1,0 +1,1970 @@
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Projet v2
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+v2:Zones de frappe
+
+De Disposition de clavier francophone et ergonomique bépo
+
+Sommaire
+
+     * 1 Sur la disposition azerty
+     * 2 Descriptions des zones
+     * 3 Sur la disposition bépo
+     * 4 Solutions possibles pour la version 2
+     * 5 Notes
+
+   Des zones de frappe distinctes apparaissent lors du classement des
+   touches d’un clavier azerty 104 ou 105 touches (norme ISO/IEC 9995) par
+   leur mode d’accès conformément aux différentes méthodes
+   dactylographiques : deux pavés principaux, deux auxiliaires et des
+   touches sous les pouces.
+
+Sur la disposition azerty
+
+   Affectation doigts/touches représentée en colonnes ^[1] :
+┌─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬──
+───┐
+│     ││ 1   │ 2   │ 3   │ 4   │ 5   ││ 6   │ 7   │ 8   │ 9   │ 0   ││ °   │ +
+ │
+│ ²   ││ &   │ é  ~│ "  #│ '  {│ (  [││ -  |│ è  `│ _  \│ ç  ^│ à  @││ )  ]│ =
+}│
+└─────┘├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┤
+       │ A   │ Z   │ E   │ R   │ T   ││ Y   │ U   │ I   │ O   │ P   ││ ¨   │ £
+ │
+       │     │     │    €│     │     ││     │     │     │     │     ││ ^   │ $
+¤│
+       ├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┘
+       │ Q   │ S   │ D   │ F   │ G   ││ H   │ J   │ K   │ L   │ M   ││ %   │┌---
+--┐
+       │     │     │     │     │     ││     │     │     │     │     ││ ù   │¦ µ
+  ¦
+┌-----┐├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤└─────┘¦ *
+  ¦
+¦ >   ¦│ W   │ X   │ C   │ V   │ B   ││ N   │ ?   │ .   │ /   │ §   │       └---
+--┘
+¦ <   ¦│     │     │     │     │     ││     │ ,   │ ;   │ :   │ !   │
+└-----┘└─────┴─────┴─────┴─────┴─────┘└─────┴─────┴─────┴─────┴─────┘
+                  ┌───────┬────────────────────────┬───────┐
+                  │       │                        │       │
+                  │  Alt  │         ESPACE         │ AltGr │
+                  └───────┴────────────────────────┴───────┘
+
+Descriptions des zones
+
+   Les différentes zones de frappes qui découlent du découpage précédent :
+
+┌─────┬────────────┬────────────┬─────┐
+│  2  │     20     │     20     │  6  │
+│(aux)│(principale)│(principale)│(aux)│
+└─────┴─┬──────────┴──────────┬─┴─────┘
+        │   Alt/Espace/AltGr  │
+        └─────────────────────┘
+
+   Les 2 × 20 touches des deux zones principales au centre ont une bonne
+   accessibilité : elles sont utilisées confortablement par les huit
+   doigts. Ces zones sont généralement réservées aux lettres, chiffres et
+   signes de ponctuation fréquents.
+
+   Les deux touches à gauche^[2] et six à droite des zones auxiliaires ont
+   une accessibilité réduite^[3] : ces touches ne sont utilisées que par
+   les auriculaires avec un mouvement contraignant. Ces zones sont
+   généralement réservées aux symboles et autres caractères moins
+   courants.
+
+   La zone pouce comprend la barre d'espace, Alt et AltGr. Ces touches ont
+   une excellente accessibilité car elles ne sont utilisées que par les
+   pouces qui sont très peu sollicités en dactylographie sur ce type de
+   clavier. Les claviers asiatiques disposent de trois touches
+   supplémentaires entre Alt/AltGr et la barre d'espace (Henkan, Muhenkan
+   et Hiragana/Katakana), mais l'évolution des IMEs à tendance à rendre
+   ces touches obsolètes, notamment au Japon.
+
+Sur la disposition bépo
+
+   La disposition bépo fait partie des *très* rares dispositions de
+   clavier qui placent des lettres dans les pavés auxiliaires.
+┌─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬──
+───┐
+│ #   ││ "   │ <   │ >   │ (   │ )   ││ _   │ +   │ -   │ /   │ *   ││ @   │ µ
+ │
+│ $   ││ 1   │ 2   │ 3   │ 4   │ 5   ││ 6   │ 7   │ 8   │ 9   │ 0   ││ =   │ %
+ │
+└─────┘├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┤
+       │ B   │ É   │ P   │ O   │ È   ││ !   │ V   │ D   │ L   │ J   ││ Z   │ W
+ │
+       │     │     │     │     │     ││ ^   │     │     │     │     ││     │
+ │
+       ├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┘
+       │ A   │ U   │ I   │ E   │ ?   ││ C   │ T   │ S   │ R   │ N   ││ M   │┌---
+--┐
+       │     │     │     │     │ ,   ││     │     │     │     │     ││     │¦ Ç
+  ¦
+┌-----┐├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤└─────┘¦
+  ¦
+¦ Ê   ¦│ À   │ Y   │ X   │ :   │ H   ││ ;   │ Q   │ G   │ X   │ F   │       └---
+--┘
+¦     ¦│     │     │     │ .   │     ││ '   │     │     │     │     │
+└-----┘└─────┴─────┴─────┴─────┴─────┘└─────┴─────┴─────┴─────┴─────┘
+                  ┌───────┬────────────────────────┬───────┐
+                  │  Alt  │ NBSP          FINE NBSP│ AltGr │
+                  │       │         ESPACE         │       │
+                  └───────┴────────────────────────┴───────┘
+
+     * {Ê} : la touche <LSGT> est bien utilisée, puisque « Ê » peut être
+       obtenu autrement (^E).
+     * {M} : bonne accessibilité, mais sa position la destinerait
+       « naturellement » à un symbole plutôt qu'à une lettre : sur le
+       Dvorak, c'est là qu'est le tiret… et c'est un des points forts de
+       cette disposition, de l'avis général des utilisateurs Dvorak. Par
+       ailleurs, les possesseurs du TE209 se plaignent que {M} est
+       déportée très loin sur ce clavier.
+     * {Z} : accessibilité correcte.
+     * {Ç} : accessibilité correcte sur un clavier pc105 classique (à coté
+       de {M}), mais complètement rédhibitoire sur un clavier pc104 ou
+       certains claviers pc105 (à droite de {W}).
+     * {W} : accessibilité désastreuse. Ce n'est pas gênant en français,
+       puisque cette lettre est très rare dans cette langue, mais ça
+       devient très gênant pour la programmation ou des langues telles que
+       l'anglais ou l'allemand. C'est un problème très souvent relevé.
+
+   Le bépo remplit donc bien son objectif qui est la typographie française
+   et non l'anglais. Si le placement de {Z} et {Ç} reste acceptable pour
+   taper du français, celui de {W} est problématique pour d'autres
+   langues. Et surtout, si l'utilisateur n'a pas un pc105, il peut avoir
+   une mauvaise surprise en essayant le bépo (et potentiellement
+   abandonner l'idée). C'est valable pour les claviers pc101/104, beaucoup
+   de claviers ergonomiques, les pc105 de certains portables… Qu'on le
+   veuille ou non, les constructeurs de ces claviers compriment et/ou
+   déforment le pavé auxiliaire pour gagner de la place.
+
+   Certains claviers ergos déportent aussi Z et M. On peut critiquer ce
+   choix, mais il est logique en fait. Ça revient juste à symétriser la
+   partie droite (surchargée sur les pc10X) par rapport à la partie
+   gauche. C'est un progrès ! (qui nous complique la vie, certes). Si
+   c'est pour refuser toute évolution, autant rester en azerty.
+
+Solutions possibles pour la version 2
+
+   Tout est une histoire de compromis… Et les caractères accentués
+   fréquents (É/È/À) en accès direct, plus la touche morte ^ pour ô/î (et
+   le doublage de ê sur un pc101/104), c'est très important aussi.
+
+   Parmi les possibilités envisageables :
+     * Décider que les 26 lettres de l'alphabet ne peuvent pas être
+       placées sur le pavé auxiliaire. Mais sachant que, par exemple, la
+       fréquence de é >>> celle de w, cette solution n’a pas été retenue
+       pour le bépo.
+     * Le pavé auxiliaire peut peut-être recevoir les caractères accentués
+       (sauf É, trop fréquent) ? Sur le bépo-altgr-symétrique, une
+       variante perso, le Ç est doublé en AltGr+{C}, justement pour régler
+       le problème de la touche [*] baladeuse. On peut placer aussi à et è
+       sur le pavé auxiliaire, si on étend la solution adoptée pour Ê et
+       Ç : création d'une touche morte ` pour à/è ? Ça prendrait une
+       touche sur le pavé principal, plus les deux du pavé auxiliaire pour
+       l'accès direct… Au final on perd en fluidité sur à/è juste pour
+       gagner une touche du pavé central. Pas forcément idéal.
+     * Pas d'accès direct pour È et À, mais un accent grave mort.
+
+Notes
+
+    1. ↑ Abstraction faite des modificateurs peu accessibles et des
+       touches ne portant aucun caractères (capslock, entrée, retour
+       arrière…). Les touches en pointillés sont les deux touches
+       « Europe » :
+          + clavier azertyµ * (alias Europe-1 ou <BKSL>) est disjointe du
+            reste du clavier car sa position dépend fortement du type de
+            clavier : pc104, pc105, TypeMatrix…
+          + clavier azerty> < (alias Europe-2 ou <LSGT>) n’existe que sur
+            les claviers de type pc105.
+    2. ↑ Une seule sur un clavier 104 touches sans LSGT.
+    3. ↑ C’est très flagrant sur un clavier matriciel, où ces touches sont
+       parfois déplacées
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=v2:Zones_de_frappe&oldid=23205 »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 10 mai 2014 à 04:25.
+   Cette page a été consultée 23 141 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Bugs
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Cette page recense les bugs détectés dans les implémentations du bépo,
+   ainsi que des bugs de logiciels incompatibles avec certaines
+   spécificités du bépo.
+
+Sommaire
+
+     * 1 Bugs des pilotes bépo
+          + 1.1 Linux, guillemets et chevrons
+          + 1.2 Mac OS X
+     * 2 PKL
+     * 3 Bugs extérieurs
+          + 3.1 Firefox
+               o 3.1.1 Navigation grâce à majuscule+espace
+          + 3.2 PSPad
+               o 3.2.1 Impossibilité de faire un underscore « _ »
+          + 3.3 KeePass
+
+Bugs des pilotes bépo
+
+Linux, guillemets et chevrons
+
+   À priori — et je ne suis pas le seul à le constater — quand on installe
+   la disposition avec les droits administrateur sous Xorg la combinaison
+   de clavier bépo« et de clavier bépo» avec clavier bépoCtrl fait en
+   réalité clavier bépo< et clavier bépo>. Ce qui n’est pas le cas avec
+   l’installation sans les droits adminstrateur. Le fichier
+   fr-dvorak-bepo.symbols semble erroné… (testé avec xev) --Gyo 1 décembre
+   2008 à 17:24 (CET)
+
+Mac OS X
+
+     * Commande V ne marche pas sous Safari avec la disposition
+       Dvorak-azerty
+     * Depuis Mac OS X 10.8 Mountain Lion, Commande V ne marche pas non
+       plus dans Mail --Matthieu
+     * Avec cette même disposition, les raccourcis clavier sous Office
+       sont défaillants (commande-z par exemple). La touche z ne marche
+       pas.--CharlesB 8 mai 2009 à 19:09 (CEST)
+     * [DEL: Commande Q et commande V ne marchent pas sous Firefox :DEL]
+       Ces raccourcis fonctionnent sans problème ici en bépo et en
+       bépo-azerty. Avec quelle configuration obtient-on ce problème ?
+       Gaëtan 11 mai 2009 à 11:14 (CEST) Ça arrive quand l'extension
+       DownThemAll est active, donc finalement pas très grave.--CharlesB
+       30 septembre 2009 à 10:49 (CEST)
+     * Microsoft Word 2007 change automatiquement le clavier bépo en
+       français-azerty à son démarrage. Pour changer cela : Word /
+       Préférences / Edit / décocher "Match font with keyboard".--Matthieu
+       26 février 2010 à 16:41 (CET)
+     * La lettre Z ne marche pas en bépo sous Microsoft Word, que ce soit
+       en minuscule comme en majuscule.--Matthieu 26 février 2010 à 17:25
+       (CET) Concernant ce souci, il a disparu chez moi avec
+       l'installation d'Office 2011 --NicolasLoeuillet 23 novembre 2010 à
+       09:14 (CET)
+
+PKL
+
+     * accès aux menus des fenêtres sous Windows à l'aide du raccourci
+       clavier Alt+[Lettre du menu]. Le menu apparait une fraction de
+       seconde puis disparait ;
+     * le raccourci Win+E qui permet d'ouvrir un explorateur sous windows
+       envoie également l'action Précédent au navigateur Opera 9.62 si ce
+       dernier avait le focus au moment de l'utilisation du raccourci. Le
+       bug n'est plus présent sous Opera 10.0 alpha 1 ;
+     * à l'ouverture d'une session RDP, lorsqu'on tape le mot de passe,
+       parfois la touche AltGr ne fonctionne pas, il faut alors utiliser
+       Ctrl+Alt pour arriver à produire le caractère désiré ;
+     * sous Ultra Edit la touche AltGr fonctionne mal, il faut utiliser
+       Ctrl+Alt mais ça se fait difficilement ;
+     * le symbole affiché sur la carte en AltGr + Shift + y ne correspond
+       pas au symbole réellement frappé. Le symbole affiché est une
+       apostrophe orientée sud ouest - nort est « ′ » (ce n'est pas
+       exactement celle là). Le symbole frappé est une apostrophe orientée
+       nord ouest - sud est « ‘ ». Version utilisée 1.0rc2.
+     * pour faire l'apostrophe correspondant à un accent grave, il y a
+       deux méthodes. Soit (shift + %) + espace, soit (AltGr + è) +
+       espace. Or la deuxième méthode ne fonctionne pas avec le
+       PKL 1.0rc2. Il faut faire (AltGr + è) + espace + espace.
+     * sous MS Windows, le logiciel de gestion de collection GCstar
+       n'accepte pas dans les champs les caractères spéciaux (à priori
+       non-ascii) provenant de PKL en bépo (entre autres : «»éèçà…). En
+       azerty, cela ne pose pas de problème. Pourtant ce logiciel supporte
+       l'UTF-8.
+     * certaines combinaisons incluant AltGr peuvent ne pas donner la
+       lettre voulue sous Windows 10 (cause exacte et combinaisons de
+       logiciels à déterminer). Par exemple, AltGr+$ ne fonctionnera pas
+       (aucune lettre inscrite) mais AltGr+« va donner « < » . Pour les
+       combinaisons à problèmes, rajouter « Ctrl » à la combinaison semble
+       fonctionner dans les cas testés.
+     * sur un clavier où la touche L (QWERTY/AZERTY) est remplaçé par R
+       (Bépo), le raccourci Win+R qui affiche la fenêtre « Exécuter ... »
+       va verrouiller l’ordinateur (sur un poste Windows 10, peut-être sur
+       les autres SE précédents également) car Windows va intercepter la
+       frappe avant l’interception par PKL.
+
+Bugs extérieurs
+
+Firefox
+
+Navigation grâce à majuscule+espace
+
+   Le bug a été signalé plusieurs fois, et déclaré auprès de firefox le
+   24 février 2009. Une solution a été trouvée.
+
+   https://bugzilla.mozilla.org/show_bug.cgi?id=479942
+
+   De même sous Windows, maj+espace est mal interprété sous IE 8 et
+   Firefox 3.5 (fonctionne en azerty).
+
+PSPad
+
+Impossibilité de faire un underscore « _ »
+
+   Dans la configuration par défaut, il y a un raccourci clavier qui pose
+   un problème pour obtenir l'underscore avec la combinaison clavier
+   bépoAltGr+clavier bépoEspace.
+
+   Pour corriger ce problème, allez dans le menu :
+   Options —> Options du programme… —> Liste des raccourcis-clavier
+   Dans la fenêtre de droite, sélectionnez Template, éditez Modèle du bloc
+   et supprimez le raccourci Ctrl+Alt+Space.
+   Appliquez et fermez.
+
+KeePass
+
+   Logiciel libre de gestion de mots de passes. (http://keepass.info/)
+
+   Dans sa configuration par défault, ce logiciel provoque une
+   interférence sur le caractère barre verticale « | ».
+
+   Aller dans Tools > Options > Integration > Global auto-type et effacer
+   le raccourci avec CTRL + SHIFT.
+     __________________________________________________________________
+
+   Sous linux, version de keepass 2.22, la rangée du haut, les chiffres,
+   ne fonctionnent pas de clavier bépo$ à clavier bépo+ (AZERTY clavier
+   bépo², clavier bépo1 à clavier bépo7) à partir de la touche clavier
+   bépo8 ça remarche…
+
+   ticket : https://sourceforge.net/p/keepass/bugs/1123/
+   Récupérée de « https://bepo.fr/wiki/index.php?title=Bugs&oldid=29987 »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 8 octobre 2019 à 19:47.
+   Cette page a été consultée 39 750 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Points bloquants
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Cette page a pour but de recenser les points bloquants qui ont été
+   soulevés ou bien à maintes reprises au cours des versions successives,
+   ou qui sont apparus suite à certains changements.
+
+   L'approche actuelle est de se concentrer sur la résolution effective de
+   ces points afin de sortir une version stable du clavier, et de déporter
+   l'ajout de nouvelles fonctionnalités pour une version de développement
+   (sauf impact mineur ?).
+
+Sommaire
+
+     * 1 Points récurrents et qui sont résolus ou en cours de résolution
+          + 1.1 Place du H
+          + 1.2 Type d’apostrophe en accès direct
+          + 1.3 Grave ascii
+          + 1.4 Point-virgule
+          + 1.5 Guillemets anglais et allemands („“”)
+     * 2 Points à résoudre
+          + 2.1 Place de la brève morte
+          + 2.2 Tilde mort
+     * 3 Points reportés à la v2
+     * 4 Points en attente d'une solution technique
+          + 4.1 AltGr symétrique
+          + 4.2 Ajout d'une touche Compose sur toutes les plateformes
+
+Points récurrents et qui sont résolus ou en cours de résolution
+
+   Ces points sont résolus dans la version en cours ou en passe de l'être
+   dans la version suivante (en cours de vote). Ils sont conservés ici à
+   titre d'archives et pour éviter les régressions.
+
+Place du H
+
+   Archivé
+   Le problème de la place du H est lié a ce qu'il combine avec les
+   voyelles, en particulier le E. Le placer sous les voyelles provoque des
+   digrammes à un doigt, plus ou moins en fonction de l'emplacement. Le
+   placer à droite évite ce problème tout en augmentant l'alternance, mais
+   il faut encore trouver une inversion ne provoquant globalement pas
+   d'effets négatifs. Une page dédiée décrit le problème en détail.
+
+   Le H a d'abord été placé sur clavier azertyx puis sur clavier azertyc.
+   Il sera probablement déplacé en clavier azerty
+
+          dans la version 0.6.6.
+
+Type d’apostrophe en accès direct
+
+   Archivé
+   Le guillemet-apostrophe « ’ » courbe, une « virgule » en l’air, est
+   préconisé pour un bon usage de la typographie française. Elle est
+   insérée automatiquement dans des logiciels comme OpenOffice, Microsoft
+   Word ou LaTeX lorsqu’une apostrophe droite « ' » est rencontrée. Elle
+   est utilisée dans la presse écrite, sur support papier ou en ligne.
+
+   Malheureusement, elle est loin d'être reconnue par tous les logiciels.
+   Comme la plupart des claviers disponibles dans le commerce ne proposent
+   pas l'apostrophe courbe en accès direct ou tout du moins simple, les
+   utilisateurs ne peuvent pas l'utiliser et l’usage dominant en
+   informatique est d’effectuer le remplacement automatisée, si
+   nécessaire, par la version correcte courbe.
+
+   Le guillemet-apostrophe est apparu sur la disposition 0.6.2.2.4 à la
+   place de l’apostrophe avec son homologue le guillemet-apostrophe
+   culbuté. À la version 0.6.3 il a été décidé de remettre l’apostrophe en
+   accès direct, puis le guillemet-apostrophe est revenu en 0.6.4. Le
+   guillemet-apostrophe a été déplacé en clavier bépoAltGr+clavier bépo,
+   afin d’améliorer son accessibilité à la version 0.6.5.
+
+          La question est : une telle place (AltGr{,}) est-elle utilisable
+          au quotidien ? Si non faut-il que le « ’ » soit séparé de son
+          pendant, le « ‘ » ? Ils ne seraient pas mal sur AltGr+Maj+Y et
+          À : ce sont les deux doigts qui font les autres guillemets.
+          Nemolivier 4 juin 2008 à 02:12 (CEST)
+
+Grave ascii
+
+   Archivé
+   Dans la version 0.6.6 issue du premier tour, l'accent grave ascii est
+   accessible en AltGr + Shift + è, place peu favorable pour un caractère
+   pas si rare sous unix. Noter que ce caractère est parfois utilisé dans
+   des raccourcis clavier, notamment sous emacs. Dans ce cas là, il n'est
+   pas possible de le produire via une touche morte.
+
+   Personnes concernées par le problème :
+     * Les unixiens et en particulier les emacsiens
+
+   Problème suivi par : Galbolle
+
+   Solutions possibles :
+     * Trouver un emplacement libre en AltGr ou Shift pour le ` ascii.
+       C'est la solution qui a été mise en place dans la 0.6.6: il est en
+       Shift + %.
+
+Point-virgule
+
+   Archivé
+   Actuellement, « : » est bien en Maj+{.}, mais le point-virgule n'est
+   pas en Maj+{,} : c'est une incohérence de la disposition.
+
+   Tous les layouts QWERTY/QWERTZ européens ont adopté la même correction
+   sur leur ancêtre américain : le point-virgule au-dessus de la virgule,
+   les deux points au-dessus du point.
+
+   Personnes concernées par le problème
+
+     * les nouveaux utilisateurs fr-dvorak-bepo ;
+     * les utilisateurs Vim : la virgule et le point-virgule étant
+       utilisées pour un même mode de déplacement, il faut au minimum les
+       avoir sous la même main, et idéalement sous le même doigt.
+
+   Problème suivi par
+          Kazé
+
+   Solution possible
+          inversion ;/?
+
+   Point résolu avec la version 0.6.7.
+
+Guillemets anglais et allemands („“”)
+
+   Archivé
+   Actuellement les guillemets français « » sont sur les touches [2] et
+   [3], alors que les guillemets anglais “ ” (également guillemets de
+   second niveau français) sont sur les touches [4] et [5] (incohérence),
+   le guillemet ouvrant allemand („) étant absent de la disposition.
+
+   Problème suivi par
+          Kazé
+
+   Personnes concernées par le problème
+          tous ceux qui écrivent aussi en anglais ou en allemand
+
+   Solutions permettant de grouper „“” sans impacter la carte simplifiée
+          regrouper ces guillemets sur Shift+AltGr+[1-3]
+
+   Point résolu avec la version 0.6.7.
+
+Points à résoudre
+
+Place de la brève morte
+
+   Une demande pour un meilleur placement de la brève morte revient
+   souvent. La brève combine surtout avec g pour le turc et le u pour
+   l'espéranto.
+
+   Personnes concernées par le problème :
+
+   Solution possibles :
+     * Déplacer la brève morte sur l'emplacement inoccupé suivant :
+     * Remplacer le caractère inutile suivant :
+
+Tilde mort
+
+   Le tilde mort est accessible par AltGr + Shift + K. C'est une position
+   peu pratique pour taper les langues avec des voyelles à tilde, comme le
+   portugais, le breton ou le guarani.
+
+   Personnes concernées par le problème :
+
+   Contournements du problème:
+     * utiliser compose + ~ + voyelle ?
+
+   Solutions possibles :
+     * Remplacer ñ par ~ mort, pour garder le ñ de l'Espagnol et du Breton
+       par double pression et les ã õ du Portugais en respectant
+       l'alternance.
+     * Touche morte accent grave, ce qui libérerait un accès direct et
+       deux Shifts (ÈÀ). C'est la solution existant sur les claviers
+       Qwerty Québécois. Ce compromis n'est éventuellement viable que si
+       un emplacement facile d'accès (proportionellement aux fréquences
+       combinées de ÈÀÙ) est proposé pour y placer le grave mort. Le
+       Qwerty Québécois le place sur clavier azertyù%. Le È et À
+       perdraient en accessibilité. Le Ù gagnerait en cohérence et en
+       accessibilité. Les caractères choisis pour occuper les espaces
+       libérés gagneraient aussi en accessibilité. Ce compromis peut donc
+       potentiellement accroître l'accessibilité globale, mais nécessite
+       de s'y pencher sérieusement.
+
+Points reportés à la v2
+
+   Les points suivants, qui sont abordés dans la foire aux questions,
+   correspondent à des orientations majeures du projet. L'implémentation
+   d'une solution différente passe par une refonte majeure de tout le
+   clavier, qui doit être décidée par consensus à la lumière d'une
+   solution originale.
+     * Place des guillemets
+     * Accessibilité des chiffres
+     * Éloignement du W
+
+   Les modérateurs auraient la charge de décider quels sont les points
+   devant être reportés à la version 2.
+
+Points en attente d'une solution technique
+
+   Ces points peuvent éventuellement être pris en considération dans une
+   version « stable » s'ils sont résolus d'ici-là, ou laissés en suspend
+   pour une version ultérieure en développement.
+
+AltGr symétrique
+
+   Cf. la page dédiée.
+
+Ajout d'une touche Compose sur toutes les plateformes
+
+   Pro :
+     * permettrait d'accéder à de nombreux caractères rares de façon
+       mnémotechnique .
+     * mécanisme standard très ancien et bien testé.
+
+   Contre :
+     * nécessite un emplacement relativement accessible pour le
+       déclencheur Compose.
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=Points_bloquants&oldid=15453 »
+   retour en haut
+   Catégorie :
+     * Historique
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 5 septembre 2009 à 21:49.
+   Cette page a été consultée 42 282 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Erreurs de frappe récurrentes
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Je propose que chacun liste ici les erreurs de frappe qui reviennent
+   tout le temps, soit qu’il s’agisse d’erreurs isolées (qui ne concernent
+   qu’un seul caractère) soit par erreur de place, soit par difficulté
+   pour atteindre la touche (le doigt va plutôt sur une touche voisine),
+   soit qu’il s’agisse d’une confusion entre deux touches, d’ordre visuel
+   ou mnémotechnique.
+
+   Le but est de relever d’une part des erreurs typiques qui touchent un
+   certain nombres de personnes, d’autre part de découvrir des motifs
+   d’erreur.
+
+   La collecte d’un nombre intéressant de témoignages permettra d’évaluer
+   la pertinence d’incorporer cette problématique dans les calculs de la
+   v2.
+
+   N’oubliez pas de préciser quel clavier vous utilisez, ce qui change la
+   donne, naturellement ! N’hésitez pas à revenir régulièrement pour
+   mettre à jour ou affiner vos descriptions.
+
+   RAPPEL : il s’agit bien des erreurs qui reviennent régulièrement, c’est
+   à dire la même erreurs, sur plusieurs jours différents.
+
+Muselaar
+
+   Clavier TypeMatrix 2030 depuis mi-décembre 2012, bépo total depuis
+   mi-novembre 2012
+     * CONFUSION [v - ^] : moyennement fréquente, cause possible : restes
+       des sensations du clavier décalé, pour lequel l’extension latérale
+       de l’index est nécessaire pour les deux caractères ; à noter que sa
+       symétrique è ne m’a jamais posé aucun problème.
+     * CONFUSION [. - ,] : fréquente, depuis le début. Cela va peut-être
+       un peu mieux depuis que j’ai inversé les caractères par rapport au
+       bépo. Cause : problème d’apprentissage, mnémotechnique,
+       « logique » ? (la virgule est plus basse que le point dans une
+       ligne d’écriture)
+     * CONFUSION [u - i] : difficulté d’apprentissage, je n’ai encore pas
+       compris, d’instinct, j’aurais fait le u avec le majeur et le i avec
+       l’annulaire (rapport avec l’articulation de la bouche, le u étant
+       plus central que le i)
+     * CONFUSION [a - e] : fréquente. NB : pas au début, elle est venue
+       avec le début de l’automatisation, seule cause imaginable pour le
+       moment : aspect visuel des lettres, je ne vois pas trop quoi
+       d’autre.
+     * CONFUSION [p - d] peu fréquente, augmentée largement par la
+       fatigue : même doigt même ligne du haut, mais pas du même côté, sur
+       des lettres visuellement proche (seule l’orientation les
+       différencie), et phonétiquement aussi [2 traits phonétiques
+       d’écart).
+     * CONFUSION [c - t], plutôt peu fréquente, augmentée sensiblement
+       avec la fatigue. Cause plausible : même doigt même ligne pour des
+       valeurs phonétiques proches (1 seul trait phonétique de
+       différence), et donc des mots dont seule cette lettre diffère :
+       tale/cale, tarte/carte, celle/telle, câble/table touche/couche etc.
+       ça ne manque pas !) donc séquences kinesthésiques très proches.
+     * CONFUSION [d - l], uniquement en phase d’apprentissage, ne revient
+       plus maintenant chez moi. Cause possible : proximité phonétique ?
+       chaînes kinesthésiques proches : des/les, d’ennui/l’ennui, quoi
+       d’autre ?
+     * INVERSION [po-op] moyennement fréquente, quand les deux lettres se
+       suivent. cause possible : problème moteur (position pas très
+       commode), reste résistant de confusion d’apprentissage…
+     * ERREUR [g -> q], fréquente surtout dans la configuration que - gue.
+       Cause probable : proximité des touches (doigts voisins dans une
+       position de faible fréquence), et similitude tant visuelle que
+       phonétique (1 seul trait phonétique de différence) + fréquence
+       supérieure du q sur le g.
+     * ERREUR [a -> b], apparue après les débuts de l’apprentissage,
+       Causes possibles : confusion avec l’azerty qui revient en douce.
+     * ERREUR [n -> m] : peu fréquente, cause possible : caractères
+       visuellement et phonétiquement proches, même doigt avec différence
+       d’extension latérale.
+     * Difficultés à tomber juste : apostrophe, k, w (que j’ai placé sur
+       le ç sur le typematrix, juste à côté du F), le F, mais ça commence
+       à aller un peu mieux. Les ç et z, mais je ne peux pas trop me
+       plaindre, je les ai déplacés, mais c’est mieux maintenant.
+     * Touches sans jamais aucune erreur récurrente, même en phase
+       d’apprentissage : é, è, à, k, m, h, l, f, z, w et dans une moindre
+       mesure s, r, t, p, e, d, b, y
+
+isaldas
+
+   Clavier « classic » Logitech G15. En bépo depuis environ 6 mois.
+     * INVERSION [p-o et po-op] : très fréquente au début de
+       l’apprentissage, principalement quand les deux lettres se suivent.
+       Sur une disposition azerty les lettres sont disposées ainsi : [OP]
+       au lieu de [PO] en bépo ; peut-être donc que ma confusion viendrait
+       de mes anciens réflexes en azerty.
+     * CONFUSION [/ - \] (via AltGr) : très fréquente au début mais je
+       n’ai plus ce problème depuis.
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=Erreurs_de_frappe_récurrentes&oldi
+   d=22214 »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 1 mai 2013 à 14:20.
+   Cette page a été consultée 8 077 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Outils
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Liste des différents outils utilisés par le projet.
+
+   NOTE: les liens en http://if-gpl.insa-lyon.fr/ sont morts.
+
+Sommaire
+
+     * 1 Corpus
+     * 2 Keylogger
+     * 3 Générateur de carte d'accessibilité des touches
+     * 4 Générateur de pilotes
+     * 5 Testeur de keymaps
+     * 6 Outils Windows
+     * 7 Outils Mac OS X
+     * 8 Outil Linux
+     * 9 Images de clavier vierges
+     * 10 Statistiques du site web
+
+Corpus
+
+   Fabien Jobin a écrit un script Perl permettant de calculer le nombre
+   d'occurence d'un caractère et de digramme d'un corpus de texte.
+
+   http://if-gpl.insa-lyon.fr/pipermail/dvorak-fr/2003-June/000044.html
+
+   Pour plus de détails voyez cette section.
+
+Keylogger
+
+   http://if-gpl.insa-lyon.fr/Dvorak-Fr/KeyLogger
+     * problème avec les clavier non-PS2
+     * personne ne l'a utilisé sérieusement
+     * ses résultats ne seraient intéressants que si la personne tape des
+       10 doigts
+
+Générateur de carte d'accessibilité des touches
+
+     * Duels d'accessibilité
+
+Générateur de pilotes
+
+   configGenerator, écrit en python et perl par Crako et Gaëtan, permet de
+   générer les pilotes de la disposition bépo pour les systèmes
+   d'exploitation FreeBSD, GNU/Linux, macOS et Windows.
+
+Testeur de keymaps
+
+     * Fabien Jobin a écrit en Ruby un programme pour tester des keymaps.
+
+     * Yota en a écrit un autre script en python, Klay. Le principe ici
+       est de s'approcher d'un modèle physique de la main pour évaluer les
+       coûts énergétiques (bien sûr l'unité de mesure est fictive mais
+       elle peut servir de point de comparaison).
+
+     * Rémi a écrit et essai de trouver le temps de maintenir le projet
+       KeyboardEvaluator, écrit en Java présent dans la base subversion.
+
+     * Nicolas Brodu a écrit un comparateur de dispositions de clavier en
+       étendant les sources de Rémi.
+
+     * Keyboard Compare Applet - Un applet java pour comparer les claviers
+       anglais Qwerty et Dvorak.
+
+     * Stats bépo <-> azerty — Comparateur bépo/azerty de Tomestla.
+
+Outils Windows
+
+     * Windows Keyboard Layout Creator 1.4 – L'outil Microsoft pour créer
+       des dispositions de touches sous Windows depuis le un fichier klc.
+          + Keyboard Layout Creator — Shareware pour créer une disposition
+          + Keyboard Layout Editor — Un autre shareware pour créer une
+            disposition
+          + Tavultesoft Keyman 7.0 - Encore un shareware
+     * Saisie des caractères spéciaux – Petit tutoriel pour Ms KLC et
+       TavulteSoft Keyman.
+     * Unicode and Keyboards on Windows
+     * AllChars – Touche compose, open source.
+     * BabelMap – Sélectionner, visualiser et copier n'importe quel
+       caractère Unicode 4.1.0.
+     * AutoHotkey version 1.0.47.06 – Automatisation, raccourcis et
+       scriptage de touche (gratuit et libre), 9 mars 2008.
+     * KeyTweak – Modification des touches dans la base de registre
+       (gratuit).
+     * Portable Keyboard Layout : un logiciel libre (GPLv3) ne nécessitant
+       pas de droits d'installation, basé sur AHK. [1]
+
+Outils Mac OS X
+
+     * Apple Font Tools — Documentation et outils de développement en
+       ligne de commande pour les dispositions de clavier (entre autre).
+     * Ukelele — Un outil graphique de développement de disposition de
+       clavier.
+     * DoubleCommand — Utilitaire pour modifier le comportement de
+       certaines touches. Utile pour modifier la touche Entrée des Mac
+       portables en touche Option.
+
+Outil Linux
+
+     * Compose
+     * Vim
+     * Keyboard Mapping for Linux — Permet d’utiliser les sources de
+       Tavultesoft Keyman pour Windows.
+     * xdotool pareil qu'AutoHotKey pour Linux
+
+Images de clavier vierges
+
+   Voici deux fichiers svg différents pour avoir un fond de clavier :
+     * celui de Tenoch
+     * celui de Nicolas Brodu
+
+Statistiques du site web
+
+     * http://stats.tuxfamily.org/bepo.fr/
+     * http://stats.download.tuxfamily.org/dvorak/
+
+   Récupérée de « https://bepo.fr/wiki/index.php?title=Outils&oldid=28683
+   »
+   retour en haut
+   Catégorie :
+     * Bépo
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 24 juillet 2017 à 03:02.
+   Cette page a été consultée 52 917 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Projet v2
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+v2:Zones de frappe
+
+De Disposition de clavier francophone et ergonomique bépo
+
+Sommaire
+
+     * 1 Sur la disposition azerty
+     * 2 Descriptions des zones
+     * 3 Sur la disposition bépo
+     * 4 Solutions possibles pour la version 2
+     * 5 Notes
+
+   Des zones de frappe distinctes apparaissent lors du classement des
+   touches d’un clavier azerty 104 ou 105 touches (norme ISO/IEC 9995) par
+   leur mode d’accès conformément aux différentes méthodes
+   dactylographiques : deux pavés principaux, deux auxiliaires et des
+   touches sous les pouces.
+
+Sur la disposition azerty
+
+   Affectation doigts/touches représentée en colonnes ^[1] :
+┌─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬──
+───┐
+│     ││ 1   │ 2   │ 3   │ 4   │ 5   ││ 6   │ 7   │ 8   │ 9   │ 0   ││ °   │ +
+ │
+│ ²   ││ &   │ é  ~│ "  #│ '  {│ (  [││ -  |│ è  `│ _  \│ ç  ^│ à  @││ )  ]│ =
+}│
+└─────┘├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┤
+       │ A   │ Z   │ E   │ R   │ T   ││ Y   │ U   │ I   │ O   │ P   ││ ¨   │ £
+ │
+       │     │     │    €│     │     ││     │     │     │     │     ││ ^   │ $
+¤│
+       ├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┘
+       │ Q   │ S   │ D   │ F   │ G   ││ H   │ J   │ K   │ L   │ M   ││ %   │┌---
+--┐
+       │     │     │     │     │     ││     │     │     │     │     ││ ù   │¦ µ
+  ¦
+┌-----┐├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤└─────┘¦ *
+  ¦
+¦ >   ¦│ W   │ X   │ C   │ V   │ B   ││ N   │ ?   │ .   │ /   │ §   │       └---
+--┘
+¦ <   ¦│     │     │     │     │     ││     │ ,   │ ;   │ :   │ !   │
+└-----┘└─────┴─────┴─────┴─────┴─────┘└─────┴─────┴─────┴─────┴─────┘
+                  ┌───────┬────────────────────────┬───────┐
+                  │       │                        │       │
+                  │  Alt  │         ESPACE         │ AltGr │
+                  └───────┴────────────────────────┴───────┘
+
+Descriptions des zones
+
+   Les différentes zones de frappes qui découlent du découpage précédent :
+
+┌─────┬────────────┬────────────┬─────┐
+│  2  │     20     │     20     │  6  │
+│(aux)│(principale)│(principale)│(aux)│
+└─────┴─┬──────────┴──────────┬─┴─────┘
+        │   Alt/Espace/AltGr  │
+        └─────────────────────┘
+
+   Les 2 × 20 touches des deux zones principales au centre ont une bonne
+   accessibilité : elles sont utilisées confortablement par les huit
+   doigts. Ces zones sont généralement réservées aux lettres, chiffres et
+   signes de ponctuation fréquents.
+
+   Les deux touches à gauche^[2] et six à droite des zones auxiliaires ont
+   une accessibilité réduite^[3] : ces touches ne sont utilisées que par
+   les auriculaires avec un mouvement contraignant. Ces zones sont
+   généralement réservées aux symboles et autres caractères moins
+   courants.
+
+   La zone pouce comprend la barre d'espace, Alt et AltGr. Ces touches ont
+   une excellente accessibilité car elles ne sont utilisées que par les
+   pouces qui sont très peu sollicités en dactylographie sur ce type de
+   clavier. Les claviers asiatiques disposent de trois touches
+   supplémentaires entre Alt/AltGr et la barre d'espace (Henkan, Muhenkan
+   et Hiragana/Katakana), mais l'évolution des IMEs à tendance à rendre
+   ces touches obsolètes, notamment au Japon.
+
+Sur la disposition bépo
+
+   La disposition bépo fait partie des *très* rares dispositions de
+   clavier qui placent des lettres dans les pavés auxiliaires.
+┌─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬─────┬─────┬─────┬─────┐┌─────┬──
+───┐
+│ #   ││ "   │ <   │ >   │ (   │ )   ││ _   │ +   │ -   │ /   │ *   ││ @   │ µ
+ │
+│ $   ││ 1   │ 2   │ 3   │ 4   │ 5   ││ 6   │ 7   │ 8   │ 9   │ 0   ││ =   │ %
+ │
+└─────┘├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┤
+       │ B   │ É   │ P   │ O   │ È   ││ !   │ V   │ D   │ L   │ J   ││ Z   │ W
+ │
+       │     │     │     │     │     ││ ^   │     │     │     │     ││     │
+ │
+       ├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤├─────┼──
+───┘
+       │ A   │ U   │ I   │ E   │ ?   ││ C   │ T   │ S   │ R   │ N   ││ M   │┌---
+--┐
+       │     │     │     │     │ ,   ││     │     │     │     │     ││     │¦ Ç
+  ¦
+┌-----┐├─────┼─────┼─────┼─────┼─────┤├─────┼─────┼─────┼─────┼─────┤└─────┘¦
+  ¦
+¦ Ê   ¦│ À   │ Y   │ X   │ :   │ H   ││ ;   │ Q   │ G   │ X   │ F   │       └---
+--┘
+¦     ¦│     │     │     │ .   │     ││ '   │     │     │     │     │
+└-----┘└─────┴─────┴─────┴─────┴─────┘└─────┴─────┴─────┴─────┴─────┘
+                  ┌───────┬────────────────────────┬───────┐
+                  │  Alt  │ NBSP          FINE NBSP│ AltGr │
+                  │       │         ESPACE         │       │
+                  └───────┴────────────────────────┴───────┘
+
+     * {Ê} : la touche <LSGT> est bien utilisée, puisque « Ê » peut être
+       obtenu autrement (^E).
+     * {M} : bonne accessibilité, mais sa position la destinerait
+       « naturellement » à un symbole plutôt qu'à une lettre : sur le
+       Dvorak, c'est là qu'est le tiret… et c'est un des points forts de
+       cette disposition, de l'avis général des utilisateurs Dvorak. Par
+       ailleurs, les possesseurs du TE209 se plaignent que {M} est
+       déportée très loin sur ce clavier.
+     * {Z} : accessibilité correcte.
+     * {Ç} : accessibilité correcte sur un clavier pc105 classique (à coté
+       de {M}), mais complètement rédhibitoire sur un clavier pc104 ou
+       certains claviers pc105 (à droite de {W}).
+     * {W} : accessibilité désastreuse. Ce n'est pas gênant en français,
+       puisque cette lettre est très rare dans cette langue, mais ça
+       devient très gênant pour la programmation ou des langues telles que
+       l'anglais ou l'allemand. C'est un problème très souvent relevé.
+
+   Le bépo remplit donc bien son objectif qui est la typographie française
+   et non l'anglais. Si le placement de {Z} et {Ç} reste acceptable pour
+   taper du français, celui de {W} est problématique pour d'autres
+   langues. Et surtout, si l'utilisateur n'a pas un pc105, il peut avoir
+   une mauvaise surprise en essayant le bépo (et potentiellement
+   abandonner l'idée). C'est valable pour les claviers pc101/104, beaucoup
+   de claviers ergonomiques, les pc105 de certains portables… Qu'on le
+   veuille ou non, les constructeurs de ces claviers compriment et/ou
+   déforment le pavé auxiliaire pour gagner de la place.
+
+   Certains claviers ergos déportent aussi Z et M. On peut critiquer ce
+   choix, mais il est logique en fait. Ça revient juste à symétriser la
+   partie droite (surchargée sur les pc10X) par rapport à la partie
+   gauche. C'est un progrès ! (qui nous complique la vie, certes). Si
+   c'est pour refuser toute évolution, autant rester en azerty.
+
+Solutions possibles pour la version 2
+
+   Tout est une histoire de compromis… Et les caractères accentués
+   fréquents (É/È/À) en accès direct, plus la touche morte ^ pour ô/î (et
+   le doublage de ê sur un pc101/104), c'est très important aussi.
+
+   Parmi les possibilités envisageables :
+     * Décider que les 26 lettres de l'alphabet ne peuvent pas être
+       placées sur le pavé auxiliaire. Mais sachant que, par exemple, la
+       fréquence de é >>> celle de w, cette solution n’a pas été retenue
+       pour le bépo.
+     * Le pavé auxiliaire peut peut-être recevoir les caractères accentués
+       (sauf É, trop fréquent) ? Sur le bépo-altgr-symétrique, une
+       variante perso, le Ç est doublé en AltGr+{C}, justement pour régler
+       le problème de la touche [*] baladeuse. On peut placer aussi à et è
+       sur le pavé auxiliaire, si on étend la solution adoptée pour Ê et
+       Ç : création d'une touche morte ` pour à/è ? Ça prendrait une
+       touche sur le pavé principal, plus les deux du pavé auxiliaire pour
+       l'accès direct… Au final on perd en fluidité sur à/è juste pour
+       gagner une touche du pavé central. Pas forcément idéal.
+     * Pas d'accès direct pour È et À, mais un accent grave mort.
+
+Notes
+
+    1. ↑ Abstraction faite des modificateurs peu accessibles et des
+       touches ne portant aucun caractères (capslock, entrée, retour
+       arrière…). Les touches en pointillés sont les deux touches
+       « Europe » :
+          + clavier azertyµ * (alias Europe-1 ou <BKSL>) est disjointe du
+            reste du clavier car sa position dépend fortement du type de
+            clavier : pc104, pc105, TypeMatrix…
+          + clavier azerty> < (alias Europe-2 ou <LSGT>) n’existe que sur
+            les claviers de type pc105.
+    2. ↑ Une seule sur un clavier 104 touches sans LSGT.
+    3. ↑ C’est très flagrant sur un clavier matriciel, où ces touches sont
+       parfois déplacées
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=v2:Zones_de_frappe&oldid=23205 »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 10 mai 2014 à 04:25.
+   Cette page a été consultée 23 141 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Bugs
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Cette page recense les bugs détectés dans les implémentations du bépo,
+   ainsi que des bugs de logiciels incompatibles avec certaines
+   spécificités du bépo.
+
+Sommaire
+
+     * 1 Bugs des pilotes bépo
+          + 1.1 Linux, guillemets et chevrons
+          + 1.2 Mac OS X
+     * 2 PKL
+     * 3 Bugs extérieurs
+          + 3.1 Firefox
+               o 3.1.1 Navigation grâce à majuscule+espace
+          + 3.2 PSPad
+               o 3.2.1 Impossibilité de faire un underscore « _ »
+          + 3.3 KeePass
+
+Bugs des pilotes bépo
+
+Linux, guillemets et chevrons
+
+   À priori — et je ne suis pas le seul à le constater — quand on installe
+   la disposition avec les droits administrateur sous Xorg la combinaison
+   de clavier bépo« et de clavier bépo» avec clavier bépoCtrl fait en
+   réalité clavier bépo< et clavier bépo>. Ce qui n’est pas le cas avec
+   l’installation sans les droits adminstrateur. Le fichier
+   fr-dvorak-bepo.symbols semble erroné… (testé avec xev) --Gyo 1 décembre
+   2008 à 17:24 (CET)
+
+Mac OS X
+
+     * Commande V ne marche pas sous Safari avec la disposition
+       Dvorak-azerty
+     * Depuis Mac OS X 10.8 Mountain Lion, Commande V ne marche pas non
+       plus dans Mail --Matthieu
+     * Avec cette même disposition, les raccourcis clavier sous Office
+       sont défaillants (commande-z par exemple). La touche z ne marche
+       pas.--CharlesB 8 mai 2009 à 19:09 (CEST)
+     * [DEL: Commande Q et commande V ne marchent pas sous Firefox :DEL]
+       Ces raccourcis fonctionnent sans problème ici en bépo et en
+       bépo-azerty. Avec quelle configuration obtient-on ce problème ?
+       Gaëtan 11 mai 2009 à 11:14 (CEST) Ça arrive quand l'extension
+       DownThemAll est active, donc finalement pas très grave.--CharlesB
+       30 septembre 2009 à 10:49 (CEST)
+     * Microsoft Word 2007 change automatiquement le clavier bépo en
+       français-azerty à son démarrage. Pour changer cela : Word /
+       Préférences / Edit / décocher "Match font with keyboard".--Matthieu
+       26 février 2010 à 16:41 (CET)
+     * La lettre Z ne marche pas en bépo sous Microsoft Word, que ce soit
+       en minuscule comme en majuscule.--Matthieu 26 février 2010 à 17:25
+       (CET) Concernant ce souci, il a disparu chez moi avec
+       l'installation d'Office 2011 --NicolasLoeuillet 23 novembre 2010 à
+       09:14 (CET)
+
+PKL
+
+     * accès aux menus des fenêtres sous Windows à l'aide du raccourci
+       clavier Alt+[Lettre du menu]. Le menu apparait une fraction de
+       seconde puis disparait ;
+     * le raccourci Win+E qui permet d'ouvrir un explorateur sous windows
+       envoie également l'action Précédent au navigateur Opera 9.62 si ce
+       dernier avait le focus au moment de l'utilisation du raccourci. Le
+       bug n'est plus présent sous Opera 10.0 alpha 1 ;
+     * à l'ouverture d'une session RDP, lorsqu'on tape le mot de passe,
+       parfois la touche AltGr ne fonctionne pas, il faut alors utiliser
+       Ctrl+Alt pour arriver à produire le caractère désiré ;
+     * sous Ultra Edit la touche AltGr fonctionne mal, il faut utiliser
+       Ctrl+Alt mais ça se fait difficilement ;
+     * le symbole affiché sur la carte en AltGr + Shift + y ne correspond
+       pas au symbole réellement frappé. Le symbole affiché est une
+       apostrophe orientée sud ouest - nort est « ′ » (ce n'est pas
+       exactement celle là). Le symbole frappé est une apostrophe orientée
+       nord ouest - sud est « ‘ ». Version utilisée 1.0rc2.
+     * pour faire l'apostrophe correspondant à un accent grave, il y a
+       deux méthodes. Soit (shift + %) + espace, soit (AltGr + è) +
+       espace. Or la deuxième méthode ne fonctionne pas avec le
+       PKL 1.0rc2. Il faut faire (AltGr + è) + espace + espace.
+     * sous MS Windows, le logiciel de gestion de collection GCstar
+       n'accepte pas dans les champs les caractères spéciaux (à priori
+       non-ascii) provenant de PKL en bépo (entre autres : «»éèçà…). En
+       azerty, cela ne pose pas de problème. Pourtant ce logiciel supporte
+       l'UTF-8.
+     * certaines combinaisons incluant AltGr peuvent ne pas donner la
+       lettre voulue sous Windows 10 (cause exacte et combinaisons de
+       logiciels à déterminer). Par exemple, AltGr+$ ne fonctionnera pas
+       (aucune lettre inscrite) mais AltGr+« va donner « < » . Pour les
+       combinaisons à problèmes, rajouter « Ctrl » à la combinaison semble
+       fonctionner dans les cas testés.
+     * sur un clavier où la touche L (QWERTY/AZERTY) est remplaçé par R
+       (Bépo), le raccourci Win+R qui affiche la fenêtre « Exécuter ... »
+       va verrouiller l’ordinateur (sur un poste Windows 10, peut-être sur
+       les autres SE précédents également) car Windows va intercepter la
+       frappe avant l’interception par PKL.
+
+Bugs extérieurs
+
+Firefox
+
+Navigation grâce à majuscule+espace
+
+   Le bug a été signalé plusieurs fois, et déclaré auprès de firefox le
+   24 février 2009. Une solution a été trouvée.
+
+   https://bugzilla.mozilla.org/show_bug.cgi?id=479942
+
+   De même sous Windows, maj+espace est mal interprété sous IE 8 et
+   Firefox 3.5 (fonctionne en azerty).
+
+PSPad
+
+Impossibilité de faire un underscore « _ »
+
+   Dans la configuration par défaut, il y a un raccourci clavier qui pose
+   un problème pour obtenir l'underscore avec la combinaison clavier
+   bépoAltGr+clavier bépoEspace.
+
+   Pour corriger ce problème, allez dans le menu :
+   Options —> Options du programme… —> Liste des raccourcis-clavier
+   Dans la fenêtre de droite, sélectionnez Template, éditez Modèle du bloc
+   et supprimez le raccourci Ctrl+Alt+Space.
+   Appliquez et fermez.
+
+KeePass
+
+   Logiciel libre de gestion de mots de passes. (http://keepass.info/)
+
+   Dans sa configuration par défault, ce logiciel provoque une
+   interférence sur le caractère barre verticale « | ».
+
+   Aller dans Tools > Options > Integration > Global auto-type et effacer
+   le raccourci avec CTRL + SHIFT.
+     __________________________________________________________________
+
+   Sous linux, version de keepass 2.22, la rangée du haut, les chiffres,
+   ne fonctionnent pas de clavier bépo$ à clavier bépo+ (AZERTY clavier
+   bépo², clavier bépo1 à clavier bépo7) à partir de la touche clavier
+   bépo8 ça remarche…
+
+   ticket : https://sourceforge.net/p/keepass/bugs/1123/
+   Récupérée de « https://bepo.fr/wiki/index.php?title=Bugs&oldid=29987 »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 8 octobre 2019 à 19:47.
+   Cette page a été consultée 39 750 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Points bloquants
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Cette page a pour but de recenser les points bloquants qui ont été
+   soulevés ou bien à maintes reprises au cours des versions successives,
+   ou qui sont apparus suite à certains changements.
+
+   L'approche actuelle est de se concentrer sur la résolution effective de
+   ces points afin de sortir une version stable du clavier, et de déporter
+   l'ajout de nouvelles fonctionnalités pour une version de développement
+   (sauf impact mineur ?).
+
+Sommaire
+
+     * 1 Points récurrents et qui sont résolus ou en cours de résolution
+          + 1.1 Place du H
+          + 1.2 Type d’apostrophe en accès direct
+          + 1.3 Grave ascii
+          + 1.4 Point-virgule
+          + 1.5 Guillemets anglais et allemands („“”)
+     * 2 Points à résoudre
+          + 2.1 Place de la brève morte
+          + 2.2 Tilde mort
+     * 3 Points reportés à la v2
+     * 4 Points en attente d'une solution technique
+          + 4.1 AltGr symétrique
+          + 4.2 Ajout d'une touche Compose sur toutes les plateformes
+
+Points récurrents et qui sont résolus ou en cours de résolution
+
+   Ces points sont résolus dans la version en cours ou en passe de l'être
+   dans la version suivante (en cours de vote). Ils sont conservés ici à
+   titre d'archives et pour éviter les régressions.
+
+Place du H
+
+   Archivé
+   Le problème de la place du H est lié a ce qu'il combine avec les
+   voyelles, en particulier le E. Le placer sous les voyelles provoque des
+   digrammes à un doigt, plus ou moins en fonction de l'emplacement. Le
+   placer à droite évite ce problème tout en augmentant l'alternance, mais
+   il faut encore trouver une inversion ne provoquant globalement pas
+   d'effets négatifs. Une page dédiée décrit le problème en détail.
+
+   Le H a d'abord été placé sur clavier azertyx puis sur clavier azertyc.
+   Il sera probablement déplacé en clavier azerty
+
+          dans la version 0.6.6.
+
+Type d’apostrophe en accès direct
+
+   Archivé
+   Le guillemet-apostrophe « ’ » courbe, une « virgule » en l’air, est
+   préconisé pour un bon usage de la typographie française. Elle est
+   insérée automatiquement dans des logiciels comme OpenOffice, Microsoft
+   Word ou LaTeX lorsqu’une apostrophe droite « ' » est rencontrée. Elle
+   est utilisée dans la presse écrite, sur support papier ou en ligne.
+
+   Malheureusement, elle est loin d'être reconnue par tous les logiciels.
+   Comme la plupart des claviers disponibles dans le commerce ne proposent
+   pas l'apostrophe courbe en accès direct ou tout du moins simple, les
+   utilisateurs ne peuvent pas l'utiliser et l’usage dominant en
+   informatique est d’effectuer le remplacement automatisée, si
+   nécessaire, par la version correcte courbe.
+
+   Le guillemet-apostrophe est apparu sur la disposition 0.6.2.2.4 à la
+   place de l’apostrophe avec son homologue le guillemet-apostrophe
+   culbuté. À la version 0.6.3 il a été décidé de remettre l’apostrophe en
+   accès direct, puis le guillemet-apostrophe est revenu en 0.6.4. Le
+   guillemet-apostrophe a été déplacé en clavier bépoAltGr+clavier bépo,
+   afin d’améliorer son accessibilité à la version 0.6.5.
+
+          La question est : une telle place (AltGr{,}) est-elle utilisable
+          au quotidien ? Si non faut-il que le « ’ » soit séparé de son
+          pendant, le « ‘ » ? Ils ne seraient pas mal sur AltGr+Maj+Y et
+          À : ce sont les deux doigts qui font les autres guillemets.
+          Nemolivier 4 juin 2008 à 02:12 (CEST)
+
+Grave ascii
+
+   Archivé
+   Dans la version 0.6.6 issue du premier tour, l'accent grave ascii est
+   accessible en AltGr + Shift + è, place peu favorable pour un caractère
+   pas si rare sous unix. Noter que ce caractère est parfois utilisé dans
+   des raccourcis clavier, notamment sous emacs. Dans ce cas là, il n'est
+   pas possible de le produire via une touche morte.
+
+   Personnes concernées par le problème :
+     * Les unixiens et en particulier les emacsiens
+
+   Problème suivi par : Galbolle
+
+   Solutions possibles :
+     * Trouver un emplacement libre en AltGr ou Shift pour le ` ascii.
+       C'est la solution qui a été mise en place dans la 0.6.6: il est en
+       Shift + %.
+
+Point-virgule
+
+   Archivé
+   Actuellement, « : » est bien en Maj+{.}, mais le point-virgule n'est
+   pas en Maj+{,} : c'est une incohérence de la disposition.
+
+   Tous les layouts QWERTY/QWERTZ européens ont adopté la même correction
+   sur leur ancêtre américain : le point-virgule au-dessus de la virgule,
+   les deux points au-dessus du point.
+
+   Personnes concernées par le problème
+
+     * les nouveaux utilisateurs fr-dvorak-bepo ;
+     * les utilisateurs Vim : la virgule et le point-virgule étant
+       utilisées pour un même mode de déplacement, il faut au minimum les
+       avoir sous la même main, et idéalement sous le même doigt.
+
+   Problème suivi par
+          Kazé
+
+   Solution possible
+          inversion ;/?
+
+   Point résolu avec la version 0.6.7.
+
+Guillemets anglais et allemands („“”)
+
+   Archivé
+   Actuellement les guillemets français « » sont sur les touches [2] et
+   [3], alors que les guillemets anglais “ ” (également guillemets de
+   second niveau français) sont sur les touches [4] et [5] (incohérence),
+   le guillemet ouvrant allemand („) étant absent de la disposition.
+
+   Problème suivi par
+          Kazé
+
+   Personnes concernées par le problème
+          tous ceux qui écrivent aussi en anglais ou en allemand
+
+   Solutions permettant de grouper „“” sans impacter la carte simplifiée
+          regrouper ces guillemets sur Shift+AltGr+[1-3]
+
+   Point résolu avec la version 0.6.7.
+
+Points à résoudre
+
+Place de la brève morte
+
+   Une demande pour un meilleur placement de la brève morte revient
+   souvent. La brève combine surtout avec g pour le turc et le u pour
+   l'espéranto.
+
+   Personnes concernées par le problème :
+
+   Solution possibles :
+     * Déplacer la brève morte sur l'emplacement inoccupé suivant :
+     * Remplacer le caractère inutile suivant :
+
+Tilde mort
+
+   Le tilde mort est accessible par AltGr + Shift + K. C'est une position
+   peu pratique pour taper les langues avec des voyelles à tilde, comme le
+   portugais, le breton ou le guarani.
+
+   Personnes concernées par le problème :
+
+   Contournements du problème:
+     * utiliser compose + ~ + voyelle ?
+
+   Solutions possibles :
+     * Remplacer ñ par ~ mort, pour garder le ñ de l'Espagnol et du Breton
+       par double pression et les ã õ du Portugais en respectant
+       l'alternance.
+     * Touche morte accent grave, ce qui libérerait un accès direct et
+       deux Shifts (ÈÀ). C'est la solution existant sur les claviers
+       Qwerty Québécois. Ce compromis n'est éventuellement viable que si
+       un emplacement facile d'accès (proportionellement aux fréquences
+       combinées de ÈÀÙ) est proposé pour y placer le grave mort. Le
+       Qwerty Québécois le place sur clavier azertyù%. Le È et À
+       perdraient en accessibilité. Le Ù gagnerait en cohérence et en
+       accessibilité. Les caractères choisis pour occuper les espaces
+       libérés gagneraient aussi en accessibilité. Ce compromis peut donc
+       potentiellement accroître l'accessibilité globale, mais nécessite
+       de s'y pencher sérieusement.
+
+Points reportés à la v2
+
+   Les points suivants, qui sont abordés dans la foire aux questions,
+   correspondent à des orientations majeures du projet. L'implémentation
+   d'une solution différente passe par une refonte majeure de tout le
+   clavier, qui doit être décidée par consensus à la lumière d'une
+   solution originale.
+     * Place des guillemets
+     * Accessibilité des chiffres
+     * Éloignement du W
+
+   Les modérateurs auraient la charge de décider quels sont les points
+   devant être reportés à la version 2.
+
+Points en attente d'une solution technique
+
+   Ces points peuvent éventuellement être pris en considération dans une
+   version « stable » s'ils sont résolus d'ici-là, ou laissés en suspend
+   pour une version ultérieure en développement.
+
+AltGr symétrique
+
+   Cf. la page dédiée.
+
+Ajout d'une touche Compose sur toutes les plateformes
+
+   Pro :
+     * permettrait d'accéder à de nombreux caractères rares de façon
+       mnémotechnique .
+     * mécanisme standard très ancien et bien testé.
+
+   Contre :
+     * nécessite un emplacement relativement accessible pour le
+       déclencheur Compose.
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=Points_bloquants&oldid=15453 »
+   retour en haut
+   Catégorie :
+     * Historique
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 5 septembre 2009 à 21:49.
+   Cette page a été consultée 42 282 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Erreurs de frappe récurrentes
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Je propose que chacun liste ici les erreurs de frappe qui reviennent
+   tout le temps, soit qu’il s’agisse d’erreurs isolées (qui ne concernent
+   qu’un seul caractère) soit par erreur de place, soit par difficulté
+   pour atteindre la touche (le doigt va plutôt sur une touche voisine),
+   soit qu’il s’agisse d’une confusion entre deux touches, d’ordre visuel
+   ou mnémotechnique.
+
+   Le but est de relever d’une part des erreurs typiques qui touchent un
+   certain nombres de personnes, d’autre part de découvrir des motifs
+   d’erreur.
+
+   La collecte d’un nombre intéressant de témoignages permettra d’évaluer
+   la pertinence d’incorporer cette problématique dans les calculs de la
+   v2.
+
+   N’oubliez pas de préciser quel clavier vous utilisez, ce qui change la
+   donne, naturellement ! N’hésitez pas à revenir régulièrement pour
+   mettre à jour ou affiner vos descriptions.
+
+   RAPPEL : il s’agit bien des erreurs qui reviennent régulièrement, c’est
+   à dire la même erreurs, sur plusieurs jours différents.
+
+Muselaar
+
+   Clavier TypeMatrix 2030 depuis mi-décembre 2012, bépo total depuis
+   mi-novembre 2012
+     * CONFUSION [v - ^] : moyennement fréquente, cause possible : restes
+       des sensations du clavier décalé, pour lequel l’extension latérale
+       de l’index est nécessaire pour les deux caractères ; à noter que sa
+       symétrique è ne m’a jamais posé aucun problème.
+     * CONFUSION [. - ,] : fréquente, depuis le début. Cela va peut-être
+       un peu mieux depuis que j’ai inversé les caractères par rapport au
+       bépo. Cause : problème d’apprentissage, mnémotechnique,
+       « logique » ? (la virgule est plus basse que le point dans une
+       ligne d’écriture)
+     * CONFUSION [u - i] : difficulté d’apprentissage, je n’ai encore pas
+       compris, d’instinct, j’aurais fait le u avec le majeur et le i avec
+       l’annulaire (rapport avec l’articulation de la bouche, le u étant
+       plus central que le i)
+     * CONFUSION [a - e] : fréquente. NB : pas au début, elle est venue
+       avec le début de l’automatisation, seule cause imaginable pour le
+       moment : aspect visuel des lettres, je ne vois pas trop quoi
+       d’autre.
+     * CONFUSION [p - d] peu fréquente, augmentée largement par la
+       fatigue : même doigt même ligne du haut, mais pas du même côté, sur
+       des lettres visuellement proche (seule l’orientation les
+       différencie), et phonétiquement aussi [2 traits phonétiques
+       d’écart).
+     * CONFUSION [c - t], plutôt peu fréquente, augmentée sensiblement
+       avec la fatigue. Cause plausible : même doigt même ligne pour des
+       valeurs phonétiques proches (1 seul trait phonétique de
+       différence), et donc des mots dont seule cette lettre diffère :
+       tale/cale, tarte/carte, celle/telle, câble/table touche/couche etc.
+       ça ne manque pas !) donc séquences kinesthésiques très proches.
+     * CONFUSION [d - l], uniquement en phase d’apprentissage, ne revient
+       plus maintenant chez moi. Cause possible : proximité phonétique ?
+       chaînes kinesthésiques proches : des/les, d’ennui/l’ennui, quoi
+       d’autre ?
+     * INVERSION [po-op] moyennement fréquente, quand les deux lettres se
+       suivent. cause possible : problème moteur (position pas très
+       commode), reste résistant de confusion d’apprentissage…
+     * ERREUR [g -> q], fréquente surtout dans la configuration que - gue.
+       Cause probable : proximité des touches (doigts voisins dans une
+       position de faible fréquence), et similitude tant visuelle que
+       phonétique (1 seul trait phonétique de différence) + fréquence
+       supérieure du q sur le g.
+     * ERREUR [a -> b], apparue après les débuts de l’apprentissage,
+       Causes possibles : confusion avec l’azerty qui revient en douce.
+     * ERREUR [n -> m] : peu fréquente, cause possible : caractères
+       visuellement et phonétiquement proches, même doigt avec différence
+       d’extension latérale.
+     * Difficultés à tomber juste : apostrophe, k, w (que j’ai placé sur
+       le ç sur le typematrix, juste à côté du F), le F, mais ça commence
+       à aller un peu mieux. Les ç et z, mais je ne peux pas trop me
+       plaindre, je les ai déplacés, mais c’est mieux maintenant.
+     * Touches sans jamais aucune erreur récurrente, même en phase
+       d’apprentissage : é, è, à, k, m, h, l, f, z, w et dans une moindre
+       mesure s, r, t, p, e, d, b, y
+
+isaldas
+
+   Clavier « classic » Logitech G15. En bépo depuis environ 6 mois.
+     * INVERSION [p-o et po-op] : très fréquente au début de
+       l’apprentissage, principalement quand les deux lettres se suivent.
+       Sur une disposition azerty les lettres sont disposées ainsi : [OP]
+       au lieu de [PO] en bépo ; peut-être donc que ma confusion viendrait
+       de mes anciens réflexes en azerty.
+     * CONFUSION [/ - \] (via AltGr) : très fréquente au début mais je
+       n’ai plus ce problème depuis.
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=Erreurs_de_frappe_récurrentes&oldi
+   d=22214 »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 1 mai 2013 à 14:20.
+   Cette page a été consultée 8 077 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Outils
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Liste des différents outils utilisés par le projet.
+
+   NOTE: les liens en http://if-gpl.insa-lyon.fr/ sont morts.
+
+Sommaire
+
+     * 1 Corpus
+     * 2 Keylogger
+     * 3 Générateur de carte d'accessibilité des touches
+     * 4 Générateur de pilotes
+     * 5 Testeur de keymaps
+     * 6 Outils Windows
+     * 7 Outils Mac OS X
+     * 8 Outil Linux
+     * 9 Images de clavier vierges
+     * 10 Statistiques du site web
+
+Corpus
+
+   Fabien Jobin a écrit un script Perl permettant de calculer le nombre
+   d'occurence d'un caractère et de digramme d'un corpus de texte.
+
+   http://if-gpl.insa-lyon.fr/pipermail/dvorak-fr/2003-June/000044.html
+
+   Pour plus de détails voyez cette section.
+
+Keylogger
+
+   http://if-gpl.insa-lyon.fr/Dvorak-Fr/KeyLogger
+     * problème avec les clavier non-PS2
+     * personne ne l'a utilisé sérieusement
+     * ses résultats ne seraient intéressants que si la personne tape des
+       10 doigts
+
+Générateur de carte d'accessibilité des touches
+
+     * Duels d'accessibilité
+
+Générateur de pilotes
+
+   configGenerator, écrit en python et perl par Crako et Gaëtan, permet de
+   générer les pilotes de la disposition bépo pour les systèmes
+   d'exploitation FreeBSD, GNU/Linux, macOS et Windows.
+
+Testeur de keymaps
+
+     * Fabien Jobin a écrit en Ruby un programme pour tester des keymaps.
+
+     * Yota en a écrit un autre script en python, Klay. Le principe ici
+       est de s'approcher d'un modèle physique de la main pour évaluer les
+       coûts énergétiques (bien sûr l'unité de mesure est fictive mais
+       elle peut servir de point de comparaison).
+
+     * Rémi a écrit et essai de trouver le temps de maintenir le projet
+       KeyboardEvaluator, écrit en Java présent dans la base subversion.
+
+     * Nicolas Brodu a écrit un comparateur de dispositions de clavier en
+       étendant les sources de Rémi.
+
+     * Keyboard Compare Applet - Un applet java pour comparer les claviers
+       anglais Qwerty et Dvorak.
+
+     * Stats bépo <-> azerty — Comparateur bépo/azerty de Tomestla.
+
+Outils Windows
+
+     * Windows Keyboard Layout Creator 1.4 – L'outil Microsoft pour créer
+       des dispositions de touches sous Windows depuis le un fichier klc.
+          + Keyboard Layout Creator — Shareware pour créer une disposition
+          + Keyboard Layout Editor — Un autre shareware pour créer une
+            disposition
+          + Tavultesoft Keyman 7.0 - Encore un shareware
+     * Saisie des caractères spéciaux – Petit tutoriel pour Ms KLC et
+       TavulteSoft Keyman.
+     * Unicode and Keyboards on Windows
+     * AllChars – Touche compose, open source.
+     * BabelMap – Sélectionner, visualiser et copier n'importe quel
+       caractère Unicode 4.1.0.
+     * AutoHotkey version 1.0.47.06 – Automatisation, raccourcis et
+       scriptage de touche (gratuit et libre), 9 mars 2008.
+     * KeyTweak – Modification des touches dans la base de registre
+       (gratuit).
+     * Portable Keyboard Layout : un logiciel libre (GPLv3) ne nécessitant
+       pas de droits d'installation, basé sur AHK. [1]
+
+Outils Mac OS X
+
+     * Apple Font Tools — Documentation et outils de développement en
+       ligne de commande pour les dispositions de clavier (entre autre).
+     * Ukelele — Un outil graphique de développement de disposition de
+       clavier.
+     * DoubleCommand — Utilitaire pour modifier le comportement de
+       certaines touches. Utile pour modifier la touche Entrée des Mac
+       portables en touche Option.
+
+Outil Linux
+
+     * Compose
+     * Vim
+     * Keyboard Mapping for Linux — Permet d’utiliser les sources de
+       Tavultesoft Keyman pour Windows.
+     * xdotool pareil qu'AutoHotKey pour Linux
+
+Images de clavier vierges
+
+   Voici deux fichiers svg différents pour avoir un fond de clavier :
+     * celui de Tenoch
+     * celui de Nicolas Brodu
+
+Statistiques du site web
+
+     * http://stats.tuxfamily.org/bepo.fr/
+     * http://stats.download.tuxfamily.org/dvorak/
+
+   Récupérée de « https://bepo.fr/wiki/index.php?title=Outils&oldid=28683
+   »
+   retour en haut
+   Catégorie :
+     * Bépo
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 24 juillet 2017 à 03:02.
+   Cette page a été consultée 52 917 fois.

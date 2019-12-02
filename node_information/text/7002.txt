@@ -1,0 +1,1352 @@
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » Erol Gelenbe - The Cognitive Packet
+   Network - Reinforcement based Network Routing with Random Neural
+   Networks
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+Erol Gelenbe - The Cognitive Packet Network - Reinforcement based Network
+Routing with Random Neural Networks
+
+   12:00
+   Jeudi
+   7
+   Juin
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Nicolas Peltier, Renaud Lachaize,
+   Jérôme David
+   Intervenant :
+   Erol Gelenbe (Imperial College London)
+   Information détaillée :
+
+
+   Erol Gelenbe is the Dennis Gabor Professor of Electrical and Electronic
+   Engineering at Imperial College London. Gelenbe invented trailblazing
+   mathematical models including G (Gelenbe)-Network and Random Neural
+   Network (RNN) models that allow for performance evaluation and analysis
+   of computer systems and networks. Gelenbe’s fundamental contributions
+   in these areas have also been instrumental in allowing networks to
+   operate seamlessly without overloading. Along with colleagues, he is
+   also credited with inventing an early computer architecture that
+   allowed voices and images to travel over multi-hop and multi-path
+   computer and communications networks. Gelenbe’s most recent research
+   interests include Software Defined Networks (SDNs), energy savings in
+   information and computing technology (ICT), security in networks, and
+   reinforcement and deep learning within neural networks. Gelenbe is a
+   Fellow of ACM, IEEE and the Institution of Engineering and Technology
+   (IET) UK. He was also elected a Fellow of the National Academy of
+   Technologies of France, and the Science Academies of Belgium, Hungary,
+   Poland and Turkey. In 2017, Gelenbe received the Mustafa Prize, a
+   $500,000 biennial science and technology award which aims to rival the
+   Nobel prizes, that is bestowed by the Mustafa Foundation of Iran. He is
+   also a recipient of the 2008 ACM SIGMETRICS Achievement Award, given
+   annually to an individual who has made long-lasting influential
+   contributions to the analysis and evaluation of computer and
+   communication system performance, and several other awards, including
+   the Grand Prix France Telecom 1996 of the French Academy of Sciences.
+
+
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     The Cognitive Packet Network (CPN) is an experimental network
+     routing protocol which uses specific Quality of Service (QoS)
+     objectives incorporated in a Goal Function, together with network
+     measurement by Smart Packets (SPs). It updates neural network based
+     Oracles in routers using Reinforcement Learning, in order to
+     dynamically select network paths so that end users can convey their
+     payload traffic with a performance that matches the Goal as closely
+     as possible. The Goal can include conventional QoS metrics such as
+     delay and loss, as well as Real-Time objectives, as well as newer
+     metrics of interest including Energy Consumption and Security.
+     Payload traffic is forwarded using source or segment routing,
+     selected through the reinforcement learning approach, while SPs
+     conduct their exploration using a node by node process by seeking
+     the best direction from each Oracle. CPN has been implemented in
+     various contexts: on 10-40 node test-beds, on an intercontinental
+     scale as an overlay network, within SDN routers, and as a means to
+     convey task requests over the Internet to Cloud servers. Our
+     presentation will detail the CPN algorithm and the Random Neural
+     Networks that are used to implement the Oracles. We will also
+     present relate experimental measurements and results. The work has
+     appeared in a variety of journals and conferences including CACM,
+     Proceedings IEEE, IEEE J. Sel. Areas in Comms.
+
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » Marie-Christine Rousset - Reasoning on
+   Data: Challenges and Applications
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+Marie-Christine Rousset - Reasoning on Data: Challenges and Applications
+
+   12:00
+   Jeudi
+   3
+   Mai
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Marie-Christine Rousset (LIG, Université Grenoble Alpes & Institut
+   Universitaire de France)
+   Information détaillée :
+
+   Marie-Christine Rousset is a Professor of Computer Science at the
+   University of Grenoble Alpes and senior member of Institut
+   Universitaire de France. She is conducting her research at LIG
+   (Laboratoire Informatique de Grenoble) in the SLIDE group. Her areas of
+   research are Knowledge Representation, Information Integration, Pattern
+   Mining and the Semantic Web. She has published over 100 refereed
+   international journal articles and conference papers, and participated
+   in several cooperative industry-university projects. She received  a
+   best paper award from AAAI in 1996, and has been nominated EurAI Fellow
+   (formerly called  ECCAI Fellow) in 2005. She has served in many program
+   committees of international conferences and workshops and in editorial
+   boards of several journals.
+
+   [The talk will be given in English]
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     How to exploit knowledge to make better use of data is a timely
+     issue at the crossroad of knowledge representation and reasoning,
+     data management, and the semantic web.
+
+     Knowledge representation is emblematic of the symbolic approach of
+     Artificial Intelligence based on the development of explicit
+     logic-based models processed by generic  reasoning algorithms that
+     are founded in logic. Recently, ontologies have evolved in computer
+     science as computational artefacts to provide computer systems with
+     a conceptual yet computational model of a particular domain of
+     interest. Similarly to humans, computer systems can then base
+     decisions on reasoning about domain knowledge. And humans can
+     express their data analysis needs using terms of a shared vocabulary
+     in their domain of interest or of expertise.
+
+     In this talk, I will show how reasoning on data can help to solve in
+     a principled way several problems raised by modern data-centered
+     applications in which data may be  ubiquitous, multi-form,
+     multi-source and musti-scale. I will also show how knowlege
+     representation formalisms and reasoning algorithms have evolved to
+     face scalability issues and data quality challenges.
+
+   Document joint :
+   PDF icon lig_keynote_mcr.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » Marie-Christine Rousset - Reasoning on
+   Data: Challenges and Applications
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+Marie-Christine Rousset - Reasoning on Data: Challenges and Applications
+
+   12:00
+   Jeudi
+   3
+   Mai
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Marie-Christine Rousset (LIG, Université Grenoble Alpes & Institut
+   Universitaire de France)
+   Information détaillée :
+
+   Marie-Christine Rousset is a Professor of Computer Science at the
+   University of Grenoble Alpes and senior member of Institut
+   Universitaire de France. She is conducting her research at LIG
+   (Laboratoire Informatique de Grenoble) in the SLIDE group. Her areas of
+   research are Knowledge Representation, Information Integration, Pattern
+   Mining and the Semantic Web. She has published over 100 refereed
+   international journal articles and conference papers, and participated
+   in several cooperative industry-university projects. She received  a
+   best paper award from AAAI in 1996, and has been nominated EurAI Fellow
+   (formerly called  ECCAI Fellow) in 2005. She has served in many program
+   committees of international conferences and workshops and in editorial
+   boards of several journals.
+
+   [The talk will be given in English]
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     How to exploit knowledge to make better use of data is a timely
+     issue at the crossroad of knowledge representation and reasoning,
+     data management, and the semantic web.
+
+     Knowledge representation is emblematic of the symbolic approach of
+     Artificial Intelligence based on the development of explicit
+     logic-based models processed by generic  reasoning algorithms that
+     are founded in logic. Recently, ontologies have evolved in computer
+     science as computational artefacts to provide computer systems with
+     a conceptual yet computational model of a particular domain of
+     interest. Similarly to humans, computer systems can then base
+     decisions on reasoning about domain knowledge. And humans can
+     express their data analysis needs using terms of a shared vocabulary
+     in their domain of interest or of expertise.
+
+     In this talk, I will show how reasoning on data can help to solve in
+     a principled way several problems raised by modern data-centered
+     applications in which data may be  ubiquitous, multi-form,
+     multi-source and musti-scale. I will also show how knowlege
+     representation formalisms and reasoning algorithms have evolved to
+     face scalability issues and data quality challenges.
+
+   Document joint :
+   PDF icon lig_keynote_mcr.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » 17h00 : Serge Abiteboul - Issues in
+   Ethical Data Management
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+17h00 : Serge Abiteboul - Issues in Ethical Data Management
+
+   15:00
+   Jeudi
+   5
+   Avr
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Serge Abiteboul (INRIA, ENS Paris)
+   Information détaillée :
+
+
+   Serge Abiteboul is a researcher at Inria, the Institut National de
+   Recherche en Informatique et Automatique, and is currently  a member of
+   the DI Lab at the École Normale Supérieure, Paris.He obtained his Ph.D.
+   from the University of Southern California, and a "thèse d'Etat" from
+   the University of Paris-Sud. He was a Lecturer at the École
+   Polytechnique and Visiting Professor at Stanford and Oxford University.
+   He has been Chaire Professor at Collège de France in 2011-12 and
+   Francqui Chair Professor at Namur University in 2012-2013. He
+   co-founded the company Xyleme in 2000.
+
+   Serge Abiteboul has received the ACM SIGMOD Innovation Award in 1998,
+   the EADS Award from the French Academy of sciences in 2007,  the Milner
+   Award in 2013, and was PI of the Webdam ERC (2008-2013). He became a
+   member of the French Academy of Sciences in 2008, and a member the
+   Academy of Europe in 2011. His research work focuses mainly on data,
+   information and knowledge management, particularly on the Web.
+
+
+   [The talk will be in English]
+
+
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     Data science holds incredible promise of improving people's lives,
+     accelerating scientific discovery and innovation, and bringing about
+     positive societal change. Yet, if not used responsibly, this
+     technology can propel economic inequality, destabilize global
+     markets and affirm systemic bias. In this talk, we consider issues
+     such as violation of data privacy, or biases in data analysis. We
+     discuss desirable properties in data analysis such as fairness,
+     transparency, or diversity. A goal of the talk is to draw the
+     attention of the computer science community to the important
+     emerging subject of responsible data management and analysis. We
+     will present our perspective on the issue, and motivate research
+     directions.
+
+
+   Document joint :
+   PDF icon serge_abiteboul-keynote-20180405.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » 17h00 : Serge Abiteboul - Issues in
+   Ethical Data Management
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+17h00 : Serge Abiteboul - Issues in Ethical Data Management
+
+   15:00
+   Jeudi
+   5
+   Avr
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Serge Abiteboul (INRIA, ENS Paris)
+   Information détaillée :
+
+
+   Serge Abiteboul is a researcher at Inria, the Institut National de
+   Recherche en Informatique et Automatique, and is currently  a member of
+   the DI Lab at the École Normale Supérieure, Paris.He obtained his Ph.D.
+   from the University of Southern California, and a "thèse d'Etat" from
+   the University of Paris-Sud. He was a Lecturer at the École
+   Polytechnique and Visiting Professor at Stanford and Oxford University.
+   He has been Chaire Professor at Collège de France in 2011-12 and
+   Francqui Chair Professor at Namur University in 2012-2013. He
+   co-founded the company Xyleme in 2000.
+
+   Serge Abiteboul has received the ACM SIGMOD Innovation Award in 1998,
+   the EADS Award from the French Academy of sciences in 2007,  the Milner
+   Award in 2013, and was PI of the Webdam ERC (2008-2013). He became a
+   member of the French Academy of Sciences in 2008, and a member the
+   Academy of Europe in 2011. His research work focuses mainly on data,
+   information and knowledge management, particularly on the Web.
+
+
+   [The talk will be in English]
+
+
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     Data science holds incredible promise of improving people's lives,
+     accelerating scientific discovery and innovation, and bringing about
+     positive societal change. Yet, if not used responsibly, this
+     technology can propel economic inequality, destabilize global
+     markets and affirm systemic bias. In this talk, we consider issues
+     such as violation of data privacy, or biases in data analysis. We
+     discuss desirable properties in data analysis such as fairness,
+     transparency, or diversity. A goal of the talk is to draw the
+     attention of the computer science community to the important
+     emerging subject of responsible data management and analysis. We
+     will present our perspective on the issue, and motivate research
+     directions.
+
+
+   Document joint :
+   PDF icon serge_abiteboul-keynote-20180405.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » Erol Gelenbe - The Cognitive Packet
+   Network - Reinforcement based Network Routing with Random Neural
+   Networks
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+Erol Gelenbe - The Cognitive Packet Network - Reinforcement based Network
+Routing with Random Neural Networks
+
+   12:00
+   Jeudi
+   7
+   Juin
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Nicolas Peltier, Renaud Lachaize,
+   Jérôme David
+   Intervenant :
+   Erol Gelenbe (Imperial College London)
+   Information détaillée :
+
+
+   Erol Gelenbe is the Dennis Gabor Professor of Electrical and Electronic
+   Engineering at Imperial College London. Gelenbe invented trailblazing
+   mathematical models including G (Gelenbe)-Network and Random Neural
+   Network (RNN) models that allow for performance evaluation and analysis
+   of computer systems and networks. Gelenbe’s fundamental contributions
+   in these areas have also been instrumental in allowing networks to
+   operate seamlessly without overloading. Along with colleagues, he is
+   also credited with inventing an early computer architecture that
+   allowed voices and images to travel over multi-hop and multi-path
+   computer and communications networks. Gelenbe’s most recent research
+   interests include Software Defined Networks (SDNs), energy savings in
+   information and computing technology (ICT), security in networks, and
+   reinforcement and deep learning within neural networks. Gelenbe is a
+   Fellow of ACM, IEEE and the Institution of Engineering and Technology
+   (IET) UK. He was also elected a Fellow of the National Academy of
+   Technologies of France, and the Science Academies of Belgium, Hungary,
+   Poland and Turkey. In 2017, Gelenbe received the Mustafa Prize, a
+   $500,000 biennial science and technology award which aims to rival the
+   Nobel prizes, that is bestowed by the Mustafa Foundation of Iran. He is
+   also a recipient of the 2008 ACM SIGMETRICS Achievement Award, given
+   annually to an individual who has made long-lasting influential
+   contributions to the analysis and evaluation of computer and
+   communication system performance, and several other awards, including
+   the Grand Prix France Telecom 1996 of the French Academy of Sciences.
+
+
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     The Cognitive Packet Network (CPN) is an experimental network
+     routing protocol which uses specific Quality of Service (QoS)
+     objectives incorporated in a Goal Function, together with network
+     measurement by Smart Packets (SPs). It updates neural network based
+     Oracles in routers using Reinforcement Learning, in order to
+     dynamically select network paths so that end users can convey their
+     payload traffic with a performance that matches the Goal as closely
+     as possible. The Goal can include conventional QoS metrics such as
+     delay and loss, as well as Real-Time objectives, as well as newer
+     metrics of interest including Energy Consumption and Security.
+     Payload traffic is forwarded using source or segment routing,
+     selected through the reinforcement learning approach, while SPs
+     conduct their exploration using a node by node process by seeking
+     the best direction from each Oracle. CPN has been implemented in
+     various contexts: on 10-40 node test-beds, on an intercontinental
+     scale as an overlay network, within SDN routers, and as a means to
+     convey task requests over the Internet to Cloud servers. Our
+     presentation will detail the CPN algorithm and the Random Neural
+     Networks that are used to implement the Oracles. We will also
+     present relate experimental measurements and results. The work has
+     appeared in a variety of journals and conferences including CACM,
+     Proceedings IEEE, IEEE J. Sel. Areas in Comms.
+
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » Marie-Christine Rousset - Reasoning on
+   Data: Challenges and Applications
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+Marie-Christine Rousset - Reasoning on Data: Challenges and Applications
+
+   12:00
+   Jeudi
+   3
+   Mai
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Marie-Christine Rousset (LIG, Université Grenoble Alpes & Institut
+   Universitaire de France)
+   Information détaillée :
+
+   Marie-Christine Rousset is a Professor of Computer Science at the
+   University of Grenoble Alpes and senior member of Institut
+   Universitaire de France. She is conducting her research at LIG
+   (Laboratoire Informatique de Grenoble) in the SLIDE group. Her areas of
+   research are Knowledge Representation, Information Integration, Pattern
+   Mining and the Semantic Web. She has published over 100 refereed
+   international journal articles and conference papers, and participated
+   in several cooperative industry-university projects. She received  a
+   best paper award from AAAI in 1996, and has been nominated EurAI Fellow
+   (formerly called  ECCAI Fellow) in 2005. She has served in many program
+   committees of international conferences and workshops and in editorial
+   boards of several journals.
+
+   [The talk will be given in English]
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     How to exploit knowledge to make better use of data is a timely
+     issue at the crossroad of knowledge representation and reasoning,
+     data management, and the semantic web.
+
+     Knowledge representation is emblematic of the symbolic approach of
+     Artificial Intelligence based on the development of explicit
+     logic-based models processed by generic  reasoning algorithms that
+     are founded in logic. Recently, ontologies have evolved in computer
+     science as computational artefacts to provide computer systems with
+     a conceptual yet computational model of a particular domain of
+     interest. Similarly to humans, computer systems can then base
+     decisions on reasoning about domain knowledge. And humans can
+     express their data analysis needs using terms of a shared vocabulary
+     in their domain of interest or of expertise.
+
+     In this talk, I will show how reasoning on data can help to solve in
+     a principled way several problems raised by modern data-centered
+     applications in which data may be  ubiquitous, multi-form,
+     multi-source and musti-scale. I will also show how knowlege
+     representation formalisms and reasoning algorithms have evolved to
+     face scalability issues and data quality challenges.
+
+   Document joint :
+   PDF icon lig_keynote_mcr.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » Marie-Christine Rousset - Reasoning on
+   Data: Challenges and Applications
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+Marie-Christine Rousset - Reasoning on Data: Challenges and Applications
+
+   12:00
+   Jeudi
+   3
+   Mai
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Marie-Christine Rousset (LIG, Université Grenoble Alpes & Institut
+   Universitaire de France)
+   Information détaillée :
+
+   Marie-Christine Rousset is a Professor of Computer Science at the
+   University of Grenoble Alpes and senior member of Institut
+   Universitaire de France. She is conducting her research at LIG
+   (Laboratoire Informatique de Grenoble) in the SLIDE group. Her areas of
+   research are Knowledge Representation, Information Integration, Pattern
+   Mining and the Semantic Web. She has published over 100 refereed
+   international journal articles and conference papers, and participated
+   in several cooperative industry-university projects. She received  a
+   best paper award from AAAI in 1996, and has been nominated EurAI Fellow
+   (formerly called  ECCAI Fellow) in 2005. She has served in many program
+   committees of international conferences and workshops and in editorial
+   boards of several journals.
+
+   [The talk will be given in English]
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     How to exploit knowledge to make better use of data is a timely
+     issue at the crossroad of knowledge representation and reasoning,
+     data management, and the semantic web.
+
+     Knowledge representation is emblematic of the symbolic approach of
+     Artificial Intelligence based on the development of explicit
+     logic-based models processed by generic  reasoning algorithms that
+     are founded in logic. Recently, ontologies have evolved in computer
+     science as computational artefacts to provide computer systems with
+     a conceptual yet computational model of a particular domain of
+     interest. Similarly to humans, computer systems can then base
+     decisions on reasoning about domain knowledge. And humans can
+     express their data analysis needs using terms of a shared vocabulary
+     in their domain of interest or of expertise.
+
+     In this talk, I will show how reasoning on data can help to solve in
+     a principled way several problems raised by modern data-centered
+     applications in which data may be  ubiquitous, multi-form,
+     multi-source and musti-scale. I will also show how knowlege
+     representation formalisms and reasoning algorithms have evolved to
+     face scalability issues and data quality challenges.
+
+   Document joint :
+   PDF icon lig_keynote_mcr.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » 17h00 : Serge Abiteboul - Issues in
+   Ethical Data Management
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+17h00 : Serge Abiteboul - Issues in Ethical Data Management
+
+   15:00
+   Jeudi
+   5
+   Avr
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Serge Abiteboul (INRIA, ENS Paris)
+   Information détaillée :
+
+
+   Serge Abiteboul is a researcher at Inria, the Institut National de
+   Recherche en Informatique et Automatique, and is currently  a member of
+   the DI Lab at the École Normale Supérieure, Paris.He obtained his Ph.D.
+   from the University of Southern California, and a "thèse d'Etat" from
+   the University of Paris-Sud. He was a Lecturer at the École
+   Polytechnique and Visiting Professor at Stanford and Oxford University.
+   He has been Chaire Professor at Collège de France in 2011-12 and
+   Francqui Chair Professor at Namur University in 2012-2013. He
+   co-founded the company Xyleme in 2000.
+
+   Serge Abiteboul has received the ACM SIGMOD Innovation Award in 1998,
+   the EADS Award from the French Academy of sciences in 2007,  the Milner
+   Award in 2013, and was PI of the Webdam ERC (2008-2013). He became a
+   member of the French Academy of Sciences in 2008, and a member the
+   Academy of Europe in 2011. His research work focuses mainly on data,
+   information and knowledge management, particularly on the Web.
+
+
+   [The talk will be in English]
+
+
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     Data science holds incredible promise of improving people's lives,
+     accelerating scientific discovery and innovation, and bringing about
+     positive societal change. Yet, if not used responsibly, this
+     technology can propel economic inequality, destabilize global
+     markets and affirm systemic bias. In this talk, we consider issues
+     such as violation of data privacy, or biases in data analysis. We
+     discuss desirable properties in data analysis such as fairness,
+     transparency, or diversity. A goal of the talk is to draw the
+     attention of the computer science community to the important
+     emerging subject of responsible data management and analysis. We
+     will present our perspective on the issue, and motivate research
+     directions.
+
+
+   Document joint :
+   PDF icon serge_abiteboul-keynote-20180405.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA
+   ﻿
+
+   Aller au contenu principal
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+   OK
+
+   Ce site utilise des cookies pour nous aider à vous donner la meilleure
+   expérience lorsque vous visitez notre site Web. En continuant à
+   utiliser ce site, vous consentez à notre utilisation de ces cookies.
+
+   Accueil
+   LIG - Laboratoire d'Informatique de Grenoble
+   Laboratoire d'Informatique de Grenoble UMR 5217
+
+Formulaire de recherche
+
+   Rechercher _______________
+   Rechercher
+
+Aximag
+
+Langues
+
+     * English
+     * Français
+
+Vous êtes ici
+
+   Évènements » Keynote speeches » 17h00 : Serge Abiteboul - Issues in
+   Ethical Data Management
+
+Menu principal
+
+     * Présentation
+     * La Recherche
+     * Publications
+     * Évènements
+     * Membres
+     * Emplois
+
+Évènements
+
+     * Keynote speeches
+     * Thèses et HDR
+     * Séminaires
+     * Actualités
+     * Journées des doctorants
+
+     * Annuaire
+     * Accès au LIG
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Intranet
+
+   Le LIG sur Twitter
+   Le LIG sur Twitter
+
+Éditorial
+
+     * Se connecter
+
+17h00 : Serge Abiteboul - Issues in Ethical Data Management
+
+   15:00
+   Jeudi
+   5
+   Avr
+   2018
+     * Keynote Speech
+
+   Lieu :
+     * Amphithéâtre du bâtiment IMAG
+
+   Organisé par :
+   L'équipe des Keynote Speeches : Sihem Amer-Yahia, Jérôme David, Renaud
+   Lachaize
+   Intervenant :
+   Serge Abiteboul (INRIA, ENS Paris)
+   Information détaillée :
+
+
+   Serge Abiteboul is a researcher at Inria, the Institut National de
+   Recherche en Informatique et Automatique, and is currently  a member of
+   the DI Lab at the École Normale Supérieure, Paris.He obtained his Ph.D.
+   from the University of Southern California, and a "thèse d'Etat" from
+   the University of Paris-Sud. He was a Lecturer at the École
+   Polytechnique and Visiting Professor at Stanford and Oxford University.
+   He has been Chaire Professor at Collège de France in 2011-12 and
+   Francqui Chair Professor at Namur University in 2012-2013. He
+   co-founded the company Xyleme in 2000.
+
+   Serge Abiteboul has received the ACM SIGMOD Innovation Award in 1998,
+   the EADS Award from the French Academy of sciences in 2007,  the Milner
+   Award in 2013, and was PI of the Webdam ERC (2008-2013). He became a
+   member of the French Academy of Sciences in 2008, and a member the
+   Academy of Europe in 2011. His research work focuses mainly on data,
+   information and knowledge management, particularly on the Web.
+
+
+   [The talk will be in English]
+
+
+   Your browser does not support the video tag. Réalisation technique :
+   Antoine Orlandi | Tous droits réservés
+   Résumé :
+
+     Data science holds incredible promise of improving people's lives,
+     accelerating scientific discovery and innovation, and bringing about
+     positive societal change. Yet, if not used responsibly, this
+     technology can propel economic inequality, destabilize global
+     markets and affirm systemic bias. In this talk, we consider issues
+     such as violation of data privacy, or biases in data analysis. We
+     discuss desirable properties in data analysis such as fairness,
+     transparency, or diversity. A goal of the talk is to draw the
+     attention of the computer science community to the important
+     emerging subject of responsible data management and analysis. We
+     will present our perspective on the issue, and motivate research
+     directions.
+
+
+   Document joint :
+   PDF icon serge_abiteboul-keynote-20180405.pdf
+
+   UMR 5217 - Laboratoire LIG - Bâtiment IMAG - 700 avenue Centrale -
+   Domaine Universitaire de Saint-Martin-d’Hères
+   Adresse postale : CS 40700 - 38058 Grenoble cedex 9 - France
+   Tél. : 04 57 42 14 00
+   CNRS INP INRIA UGA

@@ -1,0 +1,1992 @@
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » WordPress 3.0.2 disponible ! Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+WordPress 3.0.2 disponible !
+
+     * décembre 1, 2010
+
+   WordPress met à disposition une nouvelle version. Il s’agit d’une
+   version de maintenance corrigeant une faille importante, correction de
+   nombreux bugs et amélioration de la sécurité.
+
+   Télécharger WordPress 3.0.2 !
+
+   WordPress 3.0.2 corrige un problème de sécurité modéré de la fonction
+   « Membre » de votre installation. En effet, vos membres pouvez accéder
+   à de nouvelles fonctionnalités non autorisées et ainsi avoir le
+   contrôle de votre blog. Il est donc recommandé de faire la mise à jour.
+   Elle corrige également de nombreux bugs et améliore la stabilité et la
+   sécurité.
+
+   WordPress 3
+
+Allez plus loins
+
+   Elementor
+
+Hello Elementor
+Thème WordPress Elementor
+
+   Elementor
+
+Elementor – L’ultime Page Builder WordPress
+
+7 réponses
+
+    1.
+   Li-An dit :
+       1 décembre 2010 à 9 h 43 min
+       Il me semble que la version française n’est pas encore dispo à
+       l’heure où j’écris, non ?
+       Répondre
+         1.
+        [5-30x30.png] Valentin dit :
+            1 décembre 2010 à 19 h 42 min
+            Oui, elle était encore en anglais (c’est précisé) :)
+            Répondre
+              1.
+             Li-An dit :
+                 1 décembre 2010 à 22 h 05 min
+                 C’était un peu histoire de causer, en attendant la
+                 version française…
+                 Répondre
+    2.
+   Stefan dit :
+       1 décembre 2010 à 10 h 00 min
+       Elle est désormais disponible :) !
+       Répondre
+    3.
+   GIKS dit :
+       1 décembre 2010 à 10 h 24 min
+       La maj est dispo en francais
+       Répondre
+    4.
+   Crunch dit :
+       2 décembre 2010 à 11 h 31 min
+       MAJ dispo en FR, faut filer mettre à jour le bazard =P
+       Répondre
+    5.
+   Lashon Wordpress dit :
+       4 décembre 2010 à 16 h 02 min
+       Bonjour,
+       Chez moi cette version a généré une erreur pour les médias files en
+       mode wp-content dans un sousdomaine et en mode
+       multisites/buddypress. Pas eu le temps de me pencher sur le
+       pourquoi du comment.
+       Répondre
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » Bannir une adresse IP de son blog WordPress ! Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+                 Bannir une adresse IP de son blog WordPress !
+
+   [code]
+   #Interdire l’accès
+   Order Allow,Deny
+   Deny from 127.0.0.1
+   Deny from 127.0.0.2
+   Allow from all
+   [/code]
+
+   Ce bout de code est à coller dans le fichier « .htaccess » situé à la
+   racine de votre installation WordPress. Il vous permet de bannir un
+   utilisateur précis, si toutefois vous connaissez son adresse IP. Une
+   erreur de permissions est alors affichées.
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #next Geekeries.fr » Flux Geekeries.fr » Flux des commentaires
+   Geekeries.fr » Flux pour Snippets
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+Snippets
+
+Activer le partage d’utilisateurs de WordPress
+
+Ajouter un bouton personnalisé dans l’éditeur HTML de WordPress
+
+Adoptez la typographie de l’éditeur visuel de WordPress 3.3 à votre éditeur
+HTML
+
+Créer automatiquement des miniatures de sites avec WordPress
+
+Remplacer les items du tableau de bord WordPress
+
+   Page1 Page2 Page3 … Page5
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » WP Remote – Maintenez vos sites WordPress Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+WP Remote – Maintenez vos sites WordPress
+
+     * avril 19, 2017
+
+   Mettre à jour régulièrement ses sites et son réseau de sites est plus
+   qu’important. Avec les problèmes de sécurité que l’on peut rencontrer à
+   travers le web, avoir des sites à jour devient une évidence, sauf si
+   l’on souhaite voir tout son réseau détruit par les hackers. Pour vous
+   simplifier vos tâches et avoir un réseau de sites toujours à jour, il
+   existe différentes solutions, dont celle que je vous présente
+   aujourd’hui . WP Remote est un service en ligne qui vous accompagne
+   dans votre démarche.
+     __________________________________________________________________
+
+Présentation de WP Remote
+
+   Développé par Human Made Limited, WP Remote est au service des éditeurs
+   de sites et des développeurs, pour apporter son expertise et son aide à
+   la mise à jour d’un ou plusieurs sites. Grâce à cet outil, vous aurez
+   un visuel de tous vos sites afin de savoir si les plugins, les thèmes
+   et le coeur de WordPress sont à jour. L’intérêt de WP Remote réside
+   dans le fait que vous pouvez gérer la maintenance de vos sites en
+   quelques clics. Vous avez également la possibilité – et c’est un point
+   plus qu’intéressant – de sauvegarder toutes les bases de données de vos
+   sites.
+
+   Proposé gratuitement aux webmasters, le service en ligne n’est rien
+   sans son plugin. Il convient donc de l’installer sur votre WordPress si
+   vous souhaitez bénéficier de la puissance de l’outil en ligne.
+   WP Remote WP Remote
+     __________________________________________________________________
+
+Comment fonctionne le service ?
+
+   Il n’y a rien de plus simple pour utiliser WP Remote. Vous aurez besoin
+   d’installer le plugin et ensuite de vous créer un compte sur le site du
+   service. Le plugin sert juste au service de connaître les plugins
+   installés sur le site, ainsi que les thèmes. Tout se passe ensuite du
+   côté du site Internet de WP Remote. Lorsque vous vous connectez à votre
+   compte, vous voyez tous les sites que vous avez enregistrés.
+
+Ajouter un site
+
+   Rien de plus simple dans cette partie. Cliquez sur la roue crantée,
+   choisissez « Add site », entrez le nom et l’url. En cliquant sur « Add
+   Site », votre site est ajouté à votre liste. Il s’affiche ensuite sur
+   la gauche. Une clé API est donnée, vous devez la rentrer dans votre
+   plugin. Une fois ces actions effectuées, votre site peut être passé aux
+   cribles pour connaître les éventuelles mises à jour à faire.
+   WP Remote - Ajout d'un site WP Remote – Ajout d’un site
+
+Ajouter un groupe
+
+   Idéal si vous avez des PBN ou de forts réseaux de sites, les groupes
+   vous permettront de classifier vos sites en fonction de leur thématique
+   ou de critères qui vous sont propres. Vous pourrez ainsi plus
+   facilement jongler d’un site à l’autre.
+   WP Remote - Ajout d'un groupe WP Remote – Ajout d’un groupe
+     __________________________________________________________________
+
+Un gain de temps évident avec WP Remote
+
+   Des icônes apparaissent sur chaque ligne de vos sites quand vous vous
+   connectez sur le service de WP Remote. D’un simple coup d’oeil, vous
+   savez ce que vous devez faire ou non. Ces icônes vous permettent de
+   gagner du temps, si un cercle vert s’affiche, nul besoin de faire des
+   actions. En revanche, si un cercle orange ou rouge apparaît, vous aurez
+   des mises à jour à effectuer. Cliquez ainsi sur la ligne correspondante
+   au site dont des mises à jour sont disponibles. Une fenêtre s’ouvre,
+   cliquez simplement sur le bouton « Update » pour que la mise à jour
+   soit effective.
+   WP Remote - Update WP Remote – Update
+
+   Le gain de temps est bien réel, car vous ne devez pas vous connecter
+   sur toutes les installations de WordPress que vous avez. Comme un
+   multisite, vous pourrez mettre à jour tous les plugins ou thèmes d’un
+   coup, ou cliquez sur ceux qui vous intéressent.
+
+   De plus, et je finirai sur cette note, la sauvegarde via WP Remote est
+   plutôt bien faite. Non seulement vous pouvez sauvegarder votre
+   configuration incluant les thèmes et plugins installés, mais en plus
+   vous pourrez sauvegarder votre base de données. Vous pouvez même la
+   télécharger pour la stocker chez vous. Efficace et rapide !
+
+Allez plus loins
+
+   Elementor
+
+Hello Elementor
+Thème WordPress Elementor
+
+   Elementor
+
+Elementor – L’ultime Page Builder WordPress
+
+1 réponse
+
+    1.
+   Deuns26 dit :
+       13 septembre 2017 à 23 h 21 min
+       Salut,
+       le problème avec wpremote, quand tu utilise une adresse
+       personnalisé du back office, tu ne peut plus accéder directement de
+       wpremote à l’admin d’un site.
+       Deuns26 un vieux lecteur
+       Répondre
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » 57 ressources #WordPress Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+57 ressources #WordPress
+
+     * avril 14, 2017
+
+   Avoir un site sur WordPress est une bonne chose, encore faut-il le
+   mettre convenablement en page et lui apporter les ressources
+   essentielles à son bon développement. Dans cette page, j’ai regroupé
+   toutes les ressources que je partage avec vous depuis 2011. Qu’il
+   s’agisse de ressources pour les thèmes, pour le choix d’un consultant
+   SEO ou pour des questions techniques, les plus de 50 ressources
+   WordPress présentées ici vous seront fortement utiles. Ce gestionnaire
+   de contenus est riche et propose toujours plus de personnalisation pour
+   les webmasters et développeurs. Mais s’y retrouver n’est pas toujours
+   facile, surtout lorsque l’on s’y connaît peu.
+
+   Connaisseur dans le domaine et passionné par le monde du web, je fais
+   régulièrement de la veille technique à la recherche de nouveautés.
+   Cette veille m’amène à tomber la plupart du temps sur des articles
+   intéressants permettant d’augmenter les performances d’un site ou
+   simplement d’ajouter des fonctionnalités rapides. C’est avec plaisir
+   que je vous partage ces ressources avec des liens directs vers les
+   articles sources. Certaines m’ont particulièrement aidé dans le
+   développement de mes sites. J’espère qu’à votre tour les ressources
+   WordPress diffusées ci-dessous vous aideront. N’hésitez pas à me
+   contacter si vous trouvez des ressources qui pourraient avoir leur
+   place ici. Je les ajouterai à ma liste pour que tout mon réseau puisse
+   en bénéficier.
+     __________________________________________________________________
+
+   Sommaire
+     * 1 30 thèmes de qualités pour le CMS WordPress
+     * 2 Typographies, sélection de +25 plugins WordPress
+     * 3 Busby, le nouveau thème WordPress de WPLift
+     * 4 onPlay, le nouveau thème de WPZOOM
+     * 5 30 thèmes WordPress à télécharger gratuitement
+     * 6 Sublimer votre forum bbPress avec le thème Reforum
+     * 7 Pack d’icônes « Social Media » par WPZoom
+     * 8 [Infographie] Pourquoi avez-vous besoin d’un CDN pour votre blog
+       WordPress ?
+     * 9 5 questions à poser à un consultant WordPress
+     * 10 100 choses que vous devez savoir sur WordPress
+     * 11 Ajouter de la couleur au thème Twenty Ten de WordPress !
+     * 12 Framework CSS3 pour créer des boutons GitHub !
+     * 13 3 astuces SEO pour optimiser Blogger
+     * 14 Améliorer le développement WordPress en local sur un Mac
+     * 15 WordPress SEO, les paramètres et plugins essentiels
+     * 16 TwentyTen Five, le thème WordPress en HTML5
+     * 17 10 thèmes WordPress pour portfolio et photoblog
+     * 18 Les meilleurs thèmes WordPress « rétro » et « vintage » !
+     * 19 Les fonctions de WordPress dans Coda !
+     * 20 Un filtre de recherche pour les champs personnalisés WordPress !
+     * 21 Un thème Mac OS X pour votre blog WordPress !
+     * 22 Optimiser la performance des widgets, boutons sociaux et autres
+     * 23 Les 10 meilleurs thèmes WordPress de janvier 2011
+     * 24 Détecter les applications web, frameworks et CMS d’un site
+       (Chrome)
+     * 25 70 nouvelles icônes de réseaux sociaux et blog pour vos projets
+     * 26 Fuyez les plugins, voici 100 codes sources WordPress !
+     * 27 12 ressources pour utiliser de belles typographies sur WordPress
+     * 28 5 infographies WordPress
+     * 29 5 façons d’obtenir des backlinks
+     * 30 17 ressources pour trouver un emploi WordPress
+     * 31 3 hébergements avancés pour WordPress !
+     * 32 20 plugins jQuery pour votre blog WordPress
+     * 33 Les éléments importants pour créer un thème WordPress !
+     * 34 Transformer WordPress en un comparateur de produits !
+     * 35 10 thèmes WordPress pour photographes
+     * 36 Afficher les liens les plus tweetés de votre blog !
+     * 37 L’essentiel de la base de données WordPress !
+     * 38 20 sites créatifs utilisant BuddyPress
+     * 39 7 façons de lier WordPress à Tumblr
+     * 40 Vérifier l’en-tête HTTP et le type de redirection d’un lien !
+     * 41 Un thème pour transformer WordPress en un Wiki !
+     * 42 Utiliser SVN pour créer et maintenir un blog WordPress !
+     * 43 20 liens pour trouver des thèmes WordPress !
+     * 44 Télécharger le thème anniversaire de WordPress !
+     * 45 Optimiser le chargement des publicités AdSense !
+     * 46 4 thèmes WordPress pour créer un portail de Questions-Réponses !
+     * 47 Nettoyer le code généré par votre menu WordPress !
+     * 48 Un framework HTML5 JavaScript pour des applications mobiles !
+     * 49 Afficher des publicités à vos visiteurs provenant des moteurs de
+       recherches !
+     * 50 Accélérer et améliorer les performances de WordPress !
+     * 51 Évaluer le niveau d’optimisation SEO de votre blog WordPress
+     * 52 Générer un Sprite CSS des images de votre blog WordPress
+     * 53 Les 18 meilleurs thèmes WordPress payants !
+     * 54 Collection d’icônes et de symboles libres de droits !
+     * 55 40 affiches « Vintage » pour trouver l’inspiration !
+     * 56 Vérifier les positions de vos mots-clefs sur Google
+     * 57 22 requêtes MySQL indispensables pour WordPress
+
+30 thèmes de qualités pour le CMS WordPress
+
+   Voici une sélection de 30 thèmes de qualités pour embellir votre CMS
+   WordPress. À découvrir, une sélection de 30 thèmes de qualités proposés
+   par Theme Forest, WooThemes et autres.
+
+   Cliquez-ici pour accéder à la ressource
+
+Typographies, sélection de +25 plugins WordPress
+
+   web3mantra nous propose une liste de plus de 25 plugins WordPress pour
+   la typographie. Cela nous donne quelques idées intéressantes pour une
+   meilleure gestion de la typographie au sein de nos contenus.
+
+   Cliquez-ici pour accéder à la ressource
+
+Busby, le nouveau thème WordPress de WPLift
+
+   WPLift vient de publier son premier thème WordPress. Un thème gratuit
+   de très bonne qualité pour mettre à jour le graphisme de installation
+   WordPress. Le thème dispose d’une page d’options plus que complet pour
+   personnaliser au mieux son thème.
+
+   Cliquez-ici pour accéder à la ressource
+
+onPlay, le nouveau thème de WPZOOM
+
+   onPlay est le nouveau thème de WPZOOM. Une création du designer Pavel
+   Ciorici, créateur du projet WPZOOM. Ce thème, dédié à l’univers vidéo
+   grâce à la mise en avant sur la page d’accueil des vidéos populaires
+   ainsi que celles choisies peut également être utilisé pour la création
+   de contenus relatif à l’actualité.
+
+   Cliquez-ici pour accéder à la ressource
+
+30 thèmes WordPress à télécharger gratuitement
+
+   Voici une liste de 30 thèmes WordPress sortis en 2011 à télécharger
+   gratuitement pour habiller votre structure WordPress. On y découvre du
+   WooThemes et d’autres fournisseurs de thèmes de qualités.
+
+   Cliquez-ici pour accéder à la ressource
+
+Sublimer votre forum bbPress avec le thème Reforum
+
+   Sublimer votre forum bbPress avec le nouveau thème de WPBundle
+   « Reforum ». Deux versions sont disponibles pour personnaliser le thème
+   de votre forum bbPress. Le thème bbPress est à seulement 50$.
+
+   Cliquez-ici pour accéder à la ressource
+
+Pack d’icônes « Social Media » par WPZoom
+
+   WPZoom nous propose un pack de 50 icônes « social media » pour vos
+   projets web. Disponible en deux tailles(38px, 26px) et en deux formats
+   (.png, .psd)
+
+   Cliquez-ici pour accéder à la ressource
+
+[Infographie] Pourquoi avez-vous besoin d’un CDN pour votre blog WordPress ?
+
+   Voici un infographie WordPress démontrant l’utilité et le
+   fonctionnement d’un CDN pour son blog WordPress. Cela augmente
+   considérablement la vitesse du blog et permet ainsi une meilleure
+   navigation sur votre blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+5 questions à poser à un consultant WordPress
+
+   Voici 5 questions à poser à un consultant WordPress avant de travailler
+   avec lui et lui laisser votre projet entre ses mains.
+
+   Cliquez-ici pour accéder à la ressource
+
+100 choses que vous devez savoir sur WordPress
+
+   Récapitulatifs des 10 choses que vous devez savoir sur WordPress. Cela
+   concernant l’hébergement WordPress, la configuration et l’installation
+   WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+Ajouter de la couleur au thème Twenty Ten de WordPress !
+
+   Twenty Ten Extended est un thème enfant vous permet d’améliorer les
+   graphismes du thème WordPress par défaut, vous pouvez ainsi
+   personnaliser les couleurs.
+
+   Cliquez-ici pour accéder à la ressource
+
+Framework CSS3 pour créer des boutons GitHub !
+
+   Voici un framework CSS3 pour créer facilement des boutons ergonomiques
+   dans le style du célèbre service en ligne GitHub. Simple à utiliser,
+   une page d’exemple vous explique les différents style graphique à
+   appliquer pour vos boutons/liens.
+
+   Cliquez-ici pour accéder à la ressource
+
+3 astuces SEO pour optimiser Blogger
+
+   Voici 3 astuces pour optimiser le référencement SEo de la plateforme
+   pro « Blogger ». Ceci permet d’optimiser au mieux votre structure SEO
+   de votre blog Blogger.
+
+   Cliquez-ici pour accéder à la ressource
+
+Améliorer le développement WordPress en local sur un Mac
+
+   Cet article présente les différentes manières d’améliorer le
+   développement WordPress en local sur un Mac.
+
+   Cliquez-ici pour accéder à la ressource
+
+WordPress SEO, les paramètres et plugins essentiels
+
+   Voici une liste des paramètres et plugins essentiels pour le SEO de
+   WordPress. Ils permettent ainsi d’optimiser le référencement de votre
+   blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+TwentyTen Five, le thème WordPress en HTML5
+
+   TwentyTen est le thème par défaut de WordPress. Maintenant disponible
+   en HTML5, cela permet de profiter des nouvelles expériences qu’offres
+   l’HTML5.
+
+   Cliquez-ici pour accéder à la ressource
+
+10 thèmes WordPress pour portfolio et photoblog
+
+   Voici une selection de 10 thèmes WordPress uniques et de qualités pour
+   votre portfolio et/ou photoblog.
+
+   Cliquez-ici pour accéder à la ressource
+
+Les meilleurs thèmes WordPress « rétro » et « vintage » !
+
+   WPCandy nous propose une sélection des meilleurs thèmes retro et
+   Vintage pour vos projets WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+Les fonctions de WordPress dans Coda !
+
+   Voici un outil à intégrer à l’application Coda (MAC). Il permet
+   d’écrire plus facilement les fonctions de WordPress lors de la saisie
+   sur le logiciel Coda. Lors de la saisie, une suggestion de fonctions
+   WordPress vous est proposée.
+
+   Cliquez-ici pour accéder à la ressource
+
+Un filtre de recherche pour les champs personnalisés WordPress !
+
+   Voici comment ajouter un filtre de recherche avancée sur une
+   installation WordPress pour les champs personnalisés des articles. Cela
+   permet de mieux filtrer le contenu de vos contenus selon les critères
+   de vos meta-données !
+
+   Cliquez-ici pour accéder à la ressource
+
+Un thème Mac OS X pour votre blog WordPress !
+
+   iTheme2 est un thème Mac OS X pour votre blog WordPress proposé par
+   Themify. Simple et élégant, il reprend le style du site et des produits
+   Apple.
+
+   Cliquez-ici pour accéder à la ressource
+
+Optimiser la performance des widgets, boutons sociaux et autres
+
+   Cet article nous présente les meilleurs façons d’optimiser le
+   chargement des widgets, des boutons sociaux et autres ! Un gain de
+   temps à ne pas négliger sur un blog WordPress ou sur votre site vitrine
+   !
+
+   Cliquez-ici pour accéder à la ressource
+
+Les 10 meilleurs thèmes WordPress de janvier 2011
+
+   Découvrez les 10 meilleurs thèmes WordPress gratuit de janvier 2011.
+   Une liste pour vous aider à trouver le nouveau thème de votre blog
+   WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+Détecter les applications web, frameworks et CMS d’un site (Chrome)
+
+   Chrome Sniffer est une extension pour Google Chrome qui permet de
+   détecter les applications web, frameworks, CMS et bibliothèques
+   javascript utilisés sur n’importe quel site et blog. Il détecte par
+   exemple WordPress, Drupal, Joomla, jQuery etc.
+
+   Cliquez-ici pour accéder à la ressource
+
+70 nouvelles icônes de réseaux sociaux et blog pour vos projets
+
+   Voici 70 nouvelles icônes de réseaux sociaux et blog pour vos projets
+   WordPress. Icônes entièrement gratuit, elle permet ainsi d’embellir vos
+   projets.
+
+   Cliquez-ici pour accéder à la ressource
+
+Fuyez les plugins, voici 100 codes sources WordPress !
+
+   Voici 100 codes sources, snippets et hacks pour votre blog WordPress.
+   Cela vous permet d’optimiser WordPress et d’intégrer des
+   fonctionnalités à votre blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+12 ressources pour utiliser de belles typographies sur WordPress
+
+   Dans cet article en anglais, l’auteur nous présente 12 façon d’obtenir
+   de belles typographies sur votre blog WordPress. Ressources à connaître
+   pour aiguiller la lecture de votre blog via une belle typographie.
+
+   Cliquez-ici pour accéder à la ressource
+
+5 infographies WordPress
+
+   Les 5 infographies WordPress à voir absolument. Ces infographies
+   WordPress démontre l’utilisation mondiale de WordPress ainsi que des
+   statistiques détaillés de son utilisation et des ressources disponible.
+
+   Cliquez-ici pour accéder à la ressource
+
+5 façons d’obtenir des backlinks
+
+   L’auteur nous présente 5 façons unique d’avoir des backlinks et ainsi
+   promouvoir votre site et blog WordPress sur les moteurs de recherche.
+
+   Cliquez-ici pour accéder à la ressource
+
+17 ressources pour trouver un emploi WordPress
+
+   Dans cet article en anglais, l’auteur nous présente 17 ressources en
+   ligne pour trouver un emploi en tant que freelance WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+3 hébergements avancés pour WordPress !
+
+   Dans cet article en anglais, l’auteur présente trois hébergeurs avancés
+   et de qualités pour y installer vos projets WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+20 plugins jQuery pour votre blog WordPress
+
+   Dans cet article, l’auteur nous présente 20 outils et plugins jQuery à
+   utiliser avec votre votre blog WordPress !
+
+   Cliquez-ici pour accéder à la ressource
+
+Les éléments importants pour créer un thème WordPress !
+
+   Dans cet article, l’auteur analyse la structure d’un thème WordPress
+   pour débuter la création d’un thème personnalisé. Il nous rappel
+   également l’infographie récemment sortie « Anatomie d’un thème
+   WordPress ».
+
+   Cliquez-ici pour accéder à la ressource
+
+Transformer WordPress en un comparateur de produits !
+
+   Daily WordPress publie un thème Prenium à 119$ pour transformer votre
+   installation WordPress en un véritable système de comparateur de
+   produits en ligne. Il intègre avec lui de nombreuses fonctionnalités de
+   votes et une recherche dynamique avec auto-complétion.
+
+   Cliquez-ici pour accéder à la ressource
+
+10 thèmes WordPress pour photographes
+
+   Dans cet article, l’auteur regroupe 10 thèmes WordPress de qualités
+   pour photographe. Indispensable si vous êtes dans le métier ou juste
+   pour présenter vos photographies
+
+   Cliquez-ici pour accéder à la ressource
+
+Afficher les liens les plus tweetés de votre blog !
+
+   Ce service en ligne permet de visualiser l’ensemble de vos liens et
+   affiche le nombre de tweets effectués sur Twitter.
+
+   Cliquez-ici pour accéder à la ressource
+
+L’essentiel de la base de données WordPress !
+
+   Dans cet article en anglais, l’auteur nous re-présente la
+   hiérarchisation et les éléments présents dans la base de données de
+   WordPress, après une installation.
+
+   Cliquez-ici pour accéder à la ressource
+
+20 sites créatifs utilisant BuddyPress
+
+   Voici une lsite présentant 20 sites créatifs utilisant WordPress et la
+   plateforme communautaire BuddyPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+7 façons de lier WordPress à Tumblr
+
+   Découvrez 7 façon de lier votre installation WordPress à votre système
+   de publication en ligne Tumblr. 7 plugins efficaces pour vous faciliter
+   la vie.
+
+   Cliquez-ici pour accéder à la ressource
+
+Vérifier l’en-tête HTTP et le type de redirection d’un lien !
+
+   Redirect Checker permet de verifier l’en-tête HTTP de n’importe quel
+   lien, mais également de connaître le type de redirection effectuée par
+   votre page.
+
+   Cliquez-ici pour accéder à la ressource
+
+Un thème pour transformer WordPress en un Wiki !
+
+   Wiki Base est un thème WordPress vous permettant de transformer votre
+   installation en un Wiki complet et facile d’utilisation. Il intègre
+   avec lui des technologies avancées telles que la recherche instantanée
+   et personnalisées. Disponible pour seulement 65$
+
+   Cliquez-ici pour accéder à la ressource
+
+Utiliser SVN pour créer et maintenir un blog WordPress !
+
+   Dans cet article en anglais, l’auteur nous explique comment mettre en
+   place et maintenir un blog WordPress via SVN.
+
+   Cliquez-ici pour accéder à la ressource
+
+20 liens pour trouver des thèmes WordPress !
+
+   Dans cet article, l’auteur liste de nombreuses ressources pour trouver
+   facilement des thèmes WordPress gratuit. Certain thème sont disponibles
+   en français et peuvent ainsi être facilement correspondre à vos
+   besoins.
+
+   Cliquez-ici pour accéder à la ressource
+
+Télécharger le thème anniversaire de WordPress !
+
+   Télécharger le thème gratuit de l’anniversaire de WordPress. Le thème
+   est entièrement gratuit et est mit à disposition pour fêter la création
+   de WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+Optimiser le chargement des publicités AdSense !
+
+   Dans cet article, l’auteur décrit une solution efficace pour optimiser
+   le chargements de vos publicités Adsense de votre blog WordPress. Une
+   solution simple à mettre en place via JavaScript et CSS. Cela permet
+   tout simplement d’optimiser le chargement des publicités, mais
+   également des pages de votre blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+4 thèmes WordPress pour créer un portail de Questions-Réponses !
+
+   Dans cet article en français, l’auteur présente 4 thèmes WordPress de
+   qualités pour transformer votre blog en un site communautaire de
+   Questions/Réponses. L’utilisation d’un thème, mais également de plugins
+   avancés permettent la création d’un tel portail communautaire.
+
+   Cliquez-ici pour accéder à la ressource
+
+Nettoyer le code généré par votre menu WordPress !
+
+   Dans ce tutoriel en anglais, il est expliqué la marche à suivre pour
+   nettoyer correctement le code généré par les menus de votre blog
+   WordPress. Ces menus génères par défaut une hiérarchisation de style
+   CSS non utilisées par certain.
+
+   Cliquez-ici pour accéder à la ressource
+
+Un framework HTML5 JavaScript pour des applications mobiles !
+
+   The -M- Project est un framework HTML5 JavaScript pour la création
+   multi-plateforme d’applications mobiles.
+
+   Cliquez-ici pour accéder à la ressource
+
+Afficher des publicités à vos visiteurs provenant des moteurs de recherches !
+
+   Dans cet article en anglais, il est expliqué comment afficher des
+   publicités à vos visiteurs provenant des moteurs de recherches ! Les
+   publicités sont alors seulement affichées à ce type de visiteurs.
+
+   Cliquez-ici pour accéder à la ressource
+
+Accélérer et améliorer les performances de WordPress !
+
+   Cette infographie en anglais explique comment accélérer et améliorer
+   les performances de votre blog WordPress via un système de cache. La
+   mise en cache de vos pages, de votre base de données, du navigateur et
+   des fichiers Javascript et CSS de votre blog WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+Évaluer le niveau d’optimisation SEO de votre blog WordPress
+
+   Audit référencement gratuit. Évaluer le niveau d’optimisation de votre
+   site pour le référencement naturel SEO et obtenez une note globale.
+
+   Cliquez-ici pour accéder à la ressource
+
+Générer un Sprite CSS des images de votre blog WordPress
+
+   Générer facilement un Sprite CSS des images de votre blog via un simple
+   signet à placer dans la barre d’outil de votre navigateur. Cela permet
+   d’optimiser le temps de chargements de votre blog WordPress et de vos
+   images.
+
+   Cliquez-ici pour accéder à la ressource
+
+Les 18 meilleurs thèmes WordPress payants !
+
+   Cet article en anglais présente les 18 meilleurs thèmes WordPress
+   payant. Les thèmes sont de grandes qualités et permet d’avoir une
+   ergonomie souple, dynamique et unique pour votre blog personel ou
+   professionnel.
+
+   Cliquez-ici pour accéder à la ressource
+
+Collection d’icônes et de symboles libres de droits !
+
+   The Noun Project met à disposition de nombeuses icônes gratuites et
+   libres de droits que vous pouvez alors utiliser dans vos projets web,
+   print et autres.
+
+   Cliquez-ici pour accéder à la ressource
+
+40 affiches « Vintage » pour trouver l’inspiration !
+
+   Cet article en anglais liste plus de 40 affiches « Vintages » pour
+   trouver l’inspiration et vous aider à concevoir la vôtre ainsi qu’une
+   bonne palette de couleurs pour vos projets web, print ou autres.
+
+   Cliquez-ici pour accéder à la ressource
+
+Vérifier les positions de vos mots-clefs sur Google
+
+   L’outil référencement de cette page va vous permettre de vérifier
+   rapidement votre positionnement sur plusieurs datacenters aléatoires de
+   google et ainsi analyser le résultat de votre référencement.
+
+   Cliquez-ici pour accéder à la ressource
+
+22 requêtes MySQL indispensables pour WordPress
+
+   WordPress stocke les données (articles, pages, catégories, etc.) dans
+   une base de données MySQL. Il est donc utile de connaître certaines
+   requêtes pour intervenir rapidement et de façon massive. A ne pas
+   mettre entre toutes les mains toutefois !
+
+   Cliquez-ici pour accéder à la ressource
+
+Allez plus loins
+
+   Elementor
+
+Hello Elementor
+Thème WordPress Elementor
+
+   Elementor
+
+Elementor – L’ultime Page Builder WordPress
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » WordPress 3.0.2 disponible ! Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+WordPress 3.0.2 disponible !
+
+     * décembre 1, 2010
+
+   WordPress met à disposition une nouvelle version. Il s’agit d’une
+   version de maintenance corrigeant une faille importante, correction de
+   nombreux bugs et amélioration de la sécurité.
+
+   Télécharger WordPress 3.0.2 !
+
+   WordPress 3.0.2 corrige un problème de sécurité modéré de la fonction
+   « Membre » de votre installation. En effet, vos membres pouvez accéder
+   à de nouvelles fonctionnalités non autorisées et ainsi avoir le
+   contrôle de votre blog. Il est donc recommandé de faire la mise à jour.
+   Elle corrige également de nombreux bugs et améliore la stabilité et la
+   sécurité.
+
+   WordPress 3
+
+Allez plus loins
+
+   Elementor
+
+Hello Elementor
+Thème WordPress Elementor
+
+   Elementor
+
+Elementor – L’ultime Page Builder WordPress
+
+7 réponses
+
+    1.
+   Li-An dit :
+       1 décembre 2010 à 9 h 43 min
+       Il me semble que la version française n’est pas encore dispo à
+       l’heure où j’écris, non ?
+       Répondre
+         1.
+        [5-30x30.png] Valentin dit :
+            1 décembre 2010 à 19 h 42 min
+            Oui, elle était encore en anglais (c’est précisé) :)
+            Répondre
+              1.
+             Li-An dit :
+                 1 décembre 2010 à 22 h 05 min
+                 C’était un peu histoire de causer, en attendant la
+                 version française…
+                 Répondre
+    2.
+   Stefan dit :
+       1 décembre 2010 à 10 h 00 min
+       Elle est désormais disponible :) !
+       Répondre
+    3.
+   GIKS dit :
+       1 décembre 2010 à 10 h 24 min
+       La maj est dispo en francais
+       Répondre
+    4.
+   Crunch dit :
+       2 décembre 2010 à 11 h 31 min
+       MAJ dispo en FR, faut filer mettre à jour le bazard =P
+       Répondre
+    5.
+   Lashon Wordpress dit :
+       4 décembre 2010 à 16 h 02 min
+       Bonjour,
+       Chez moi cette version a généré une erreur pour les médias files en
+       mode wp-content dans un sousdomaine et en mode
+       multisites/buddypress. Pas eu le temps de me pencher sur le
+       pourquoi du comment.
+       Répondre
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » Bannir une adresse IP de son blog WordPress ! Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+                 Bannir une adresse IP de son blog WordPress !
+
+   [code]
+   #Interdire l’accès
+   Order Allow,Deny
+   Deny from 127.0.0.1
+   Deny from 127.0.0.2
+   Allow from all
+   [/code]
+
+   Ce bout de code est à coller dans le fichier « .htaccess » situé à la
+   racine de votre installation WordPress. Il vous permet de bannir un
+   utilisateur précis, si toutefois vous connaissez son adresse IP. Une
+   erreur de permissions est alors affichées.
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #next Geekeries.fr » Flux Geekeries.fr » Flux des commentaires
+   Geekeries.fr » Flux pour Snippets
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+Snippets
+
+Activer le partage d’utilisateurs de WordPress
+
+Ajouter un bouton personnalisé dans l’éditeur HTML de WordPress
+
+Adoptez la typographie de l’éditeur visuel de WordPress 3.3 à votre éditeur
+HTML
+
+Créer automatiquement des miniatures de sites avec WordPress
+
+Remplacer les items du tableau de bord WordPress
+
+   Page1 Page2 Page3 … Page5
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » WP Remote – Maintenez vos sites WordPress Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+WP Remote – Maintenez vos sites WordPress
+
+     * avril 19, 2017
+
+   Mettre à jour régulièrement ses sites et son réseau de sites est plus
+   qu’important. Avec les problèmes de sécurité que l’on peut rencontrer à
+   travers le web, avoir des sites à jour devient une évidence, sauf si
+   l’on souhaite voir tout son réseau détruit par les hackers. Pour vous
+   simplifier vos tâches et avoir un réseau de sites toujours à jour, il
+   existe différentes solutions, dont celle que je vous présente
+   aujourd’hui . WP Remote est un service en ligne qui vous accompagne
+   dans votre démarche.
+     __________________________________________________________________
+
+Présentation de WP Remote
+
+   Développé par Human Made Limited, WP Remote est au service des éditeurs
+   de sites et des développeurs, pour apporter son expertise et son aide à
+   la mise à jour d’un ou plusieurs sites. Grâce à cet outil, vous aurez
+   un visuel de tous vos sites afin de savoir si les plugins, les thèmes
+   et le coeur de WordPress sont à jour. L’intérêt de WP Remote réside
+   dans le fait que vous pouvez gérer la maintenance de vos sites en
+   quelques clics. Vous avez également la possibilité – et c’est un point
+   plus qu’intéressant – de sauvegarder toutes les bases de données de vos
+   sites.
+
+   Proposé gratuitement aux webmasters, le service en ligne n’est rien
+   sans son plugin. Il convient donc de l’installer sur votre WordPress si
+   vous souhaitez bénéficier de la puissance de l’outil en ligne.
+   WP Remote WP Remote
+     __________________________________________________________________
+
+Comment fonctionne le service ?
+
+   Il n’y a rien de plus simple pour utiliser WP Remote. Vous aurez besoin
+   d’installer le plugin et ensuite de vous créer un compte sur le site du
+   service. Le plugin sert juste au service de connaître les plugins
+   installés sur le site, ainsi que les thèmes. Tout se passe ensuite du
+   côté du site Internet de WP Remote. Lorsque vous vous connectez à votre
+   compte, vous voyez tous les sites que vous avez enregistrés.
+
+Ajouter un site
+
+   Rien de plus simple dans cette partie. Cliquez sur la roue crantée,
+   choisissez « Add site », entrez le nom et l’url. En cliquant sur « Add
+   Site », votre site est ajouté à votre liste. Il s’affiche ensuite sur
+   la gauche. Une clé API est donnée, vous devez la rentrer dans votre
+   plugin. Une fois ces actions effectuées, votre site peut être passé aux
+   cribles pour connaître les éventuelles mises à jour à faire.
+   WP Remote - Ajout d'un site WP Remote – Ajout d’un site
+
+Ajouter un groupe
+
+   Idéal si vous avez des PBN ou de forts réseaux de sites, les groupes
+   vous permettront de classifier vos sites en fonction de leur thématique
+   ou de critères qui vous sont propres. Vous pourrez ainsi plus
+   facilement jongler d’un site à l’autre.
+   WP Remote - Ajout d'un groupe WP Remote – Ajout d’un groupe
+     __________________________________________________________________
+
+Un gain de temps évident avec WP Remote
+
+   Des icônes apparaissent sur chaque ligne de vos sites quand vous vous
+   connectez sur le service de WP Remote. D’un simple coup d’oeil, vous
+   savez ce que vous devez faire ou non. Ces icônes vous permettent de
+   gagner du temps, si un cercle vert s’affiche, nul besoin de faire des
+   actions. En revanche, si un cercle orange ou rouge apparaît, vous aurez
+   des mises à jour à effectuer. Cliquez ainsi sur la ligne correspondante
+   au site dont des mises à jour sont disponibles. Une fenêtre s’ouvre,
+   cliquez simplement sur le bouton « Update » pour que la mise à jour
+   soit effective.
+   WP Remote - Update WP Remote – Update
+
+   Le gain de temps est bien réel, car vous ne devez pas vous connecter
+   sur toutes les installations de WordPress que vous avez. Comme un
+   multisite, vous pourrez mettre à jour tous les plugins ou thèmes d’un
+   coup, ou cliquez sur ceux qui vous intéressent.
+
+   De plus, et je finirai sur cette note, la sauvegarde via WP Remote est
+   plutôt bien faite. Non seulement vous pouvez sauvegarder votre
+   configuration incluant les thèmes et plugins installés, mais en plus
+   vous pourrez sauvegarder votre base de données. Vous pouvez même la
+   télécharger pour la stocker chez vous. Efficace et rapide !
+
+Allez plus loins
+
+   Elementor
+
+Hello Elementor
+Thème WordPress Elementor
+
+   Elementor
+
+Elementor – L’ultime Page Builder WordPress
+
+1 réponse
+
+    1.
+   Deuns26 dit :
+       13 septembre 2017 à 23 h 21 min
+       Salut,
+       le problème avec wpremote, quand tu utilise une adresse
+       personnalisé du back office, tu ne peut plus accéder directement de
+       wpremote à l’admin d’un site.
+       Deuns26 un vieux lecteur
+       Répondre
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro
+   #Geekeries.fr » Flux Geekeries.fr » Flux des commentaires Geekeries.fr
+   » 57 ressources #WordPress Flux des commentaires
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Menu
+
+     * WordPress
+          + Plugins WordPress
+     * Modifier un PDF
+     * Emoji Facebook
+     * Elegant Themes
+     * Elementor
+
+   Obtenir Elementor Pro
+
+57 ressources #WordPress
+
+     * avril 14, 2017
+
+   Avoir un site sur WordPress est une bonne chose, encore faut-il le
+   mettre convenablement en page et lui apporter les ressources
+   essentielles à son bon développement. Dans cette page, j’ai regroupé
+   toutes les ressources que je partage avec vous depuis 2011. Qu’il
+   s’agisse de ressources pour les thèmes, pour le choix d’un consultant
+   SEO ou pour des questions techniques, les plus de 50 ressources
+   WordPress présentées ici vous seront fortement utiles. Ce gestionnaire
+   de contenus est riche et propose toujours plus de personnalisation pour
+   les webmasters et développeurs. Mais s’y retrouver n’est pas toujours
+   facile, surtout lorsque l’on s’y connaît peu.
+
+   Connaisseur dans le domaine et passionné par le monde du web, je fais
+   régulièrement de la veille technique à la recherche de nouveautés.
+   Cette veille m’amène à tomber la plupart du temps sur des articles
+   intéressants permettant d’augmenter les performances d’un site ou
+   simplement d’ajouter des fonctionnalités rapides. C’est avec plaisir
+   que je vous partage ces ressources avec des liens directs vers les
+   articles sources. Certaines m’ont particulièrement aidé dans le
+   développement de mes sites. J’espère qu’à votre tour les ressources
+   WordPress diffusées ci-dessous vous aideront. N’hésitez pas à me
+   contacter si vous trouvez des ressources qui pourraient avoir leur
+   place ici. Je les ajouterai à ma liste pour que tout mon réseau puisse
+   en bénéficier.
+     __________________________________________________________________
+
+   Sommaire
+     * 1 30 thèmes de qualités pour le CMS WordPress
+     * 2 Typographies, sélection de +25 plugins WordPress
+     * 3 Busby, le nouveau thème WordPress de WPLift
+     * 4 onPlay, le nouveau thème de WPZOOM
+     * 5 30 thèmes WordPress à télécharger gratuitement
+     * 6 Sublimer votre forum bbPress avec le thème Reforum
+     * 7 Pack d’icônes « Social Media » par WPZoom
+     * 8 [Infographie] Pourquoi avez-vous besoin d’un CDN pour votre blog
+       WordPress ?
+     * 9 5 questions à poser à un consultant WordPress
+     * 10 100 choses que vous devez savoir sur WordPress
+     * 11 Ajouter de la couleur au thème Twenty Ten de WordPress !
+     * 12 Framework CSS3 pour créer des boutons GitHub !
+     * 13 3 astuces SEO pour optimiser Blogger
+     * 14 Améliorer le développement WordPress en local sur un Mac
+     * 15 WordPress SEO, les paramètres et plugins essentiels
+     * 16 TwentyTen Five, le thème WordPress en HTML5
+     * 17 10 thèmes WordPress pour portfolio et photoblog
+     * 18 Les meilleurs thèmes WordPress « rétro » et « vintage » !
+     * 19 Les fonctions de WordPress dans Coda !
+     * 20 Un filtre de recherche pour les champs personnalisés WordPress !
+     * 21 Un thème Mac OS X pour votre blog WordPress !
+     * 22 Optimiser la performance des widgets, boutons sociaux et autres
+     * 23 Les 10 meilleurs thèmes WordPress de janvier 2011
+     * 24 Détecter les applications web, frameworks et CMS d’un site
+       (Chrome)
+     * 25 70 nouvelles icônes de réseaux sociaux et blog pour vos projets
+     * 26 Fuyez les plugins, voici 100 codes sources WordPress !
+     * 27 12 ressources pour utiliser de belles typographies sur WordPress
+     * 28 5 infographies WordPress
+     * 29 5 façons d’obtenir des backlinks
+     * 30 17 ressources pour trouver un emploi WordPress
+     * 31 3 hébergements avancés pour WordPress !
+     * 32 20 plugins jQuery pour votre blog WordPress
+     * 33 Les éléments importants pour créer un thème WordPress !
+     * 34 Transformer WordPress en un comparateur de produits !
+     * 35 10 thèmes WordPress pour photographes
+     * 36 Afficher les liens les plus tweetés de votre blog !
+     * 37 L’essentiel de la base de données WordPress !
+     * 38 20 sites créatifs utilisant BuddyPress
+     * 39 7 façons de lier WordPress à Tumblr
+     * 40 Vérifier l’en-tête HTTP et le type de redirection d’un lien !
+     * 41 Un thème pour transformer WordPress en un Wiki !
+     * 42 Utiliser SVN pour créer et maintenir un blog WordPress !
+     * 43 20 liens pour trouver des thèmes WordPress !
+     * 44 Télécharger le thème anniversaire de WordPress !
+     * 45 Optimiser le chargement des publicités AdSense !
+     * 46 4 thèmes WordPress pour créer un portail de Questions-Réponses !
+     * 47 Nettoyer le code généré par votre menu WordPress !
+     * 48 Un framework HTML5 JavaScript pour des applications mobiles !
+     * 49 Afficher des publicités à vos visiteurs provenant des moteurs de
+       recherches !
+     * 50 Accélérer et améliorer les performances de WordPress !
+     * 51 Évaluer le niveau d’optimisation SEO de votre blog WordPress
+     * 52 Générer un Sprite CSS des images de votre blog WordPress
+     * 53 Les 18 meilleurs thèmes WordPress payants !
+     * 54 Collection d’icônes et de symboles libres de droits !
+     * 55 40 affiches « Vintage » pour trouver l’inspiration !
+     * 56 Vérifier les positions de vos mots-clefs sur Google
+     * 57 22 requêtes MySQL indispensables pour WordPress
+
+30 thèmes de qualités pour le CMS WordPress
+
+   Voici une sélection de 30 thèmes de qualités pour embellir votre CMS
+   WordPress. À découvrir, une sélection de 30 thèmes de qualités proposés
+   par Theme Forest, WooThemes et autres.
+
+   Cliquez-ici pour accéder à la ressource
+
+Typographies, sélection de +25 plugins WordPress
+
+   web3mantra nous propose une liste de plus de 25 plugins WordPress pour
+   la typographie. Cela nous donne quelques idées intéressantes pour une
+   meilleure gestion de la typographie au sein de nos contenus.
+
+   Cliquez-ici pour accéder à la ressource
+
+Busby, le nouveau thème WordPress de WPLift
+
+   WPLift vient de publier son premier thème WordPress. Un thème gratuit
+   de très bonne qualité pour mettre à jour le graphisme de installation
+   WordPress. Le thème dispose d’une page d’options plus que complet pour
+   personnaliser au mieux son thème.
+
+   Cliquez-ici pour accéder à la ressource
+
+onPlay, le nouveau thème de WPZOOM
+
+   onPlay est le nouveau thème de WPZOOM. Une création du designer Pavel
+   Ciorici, créateur du projet WPZOOM. Ce thème, dédié à l’univers vidéo
+   grâce à la mise en avant sur la page d’accueil des vidéos populaires
+   ainsi que celles choisies peut également être utilisé pour la création
+   de contenus relatif à l’actualité.
+
+   Cliquez-ici pour accéder à la ressource
+
+30 thèmes WordPress à télécharger gratuitement
+
+   Voici une liste de 30 thèmes WordPress sortis en 2011 à télécharger
+   gratuitement pour habiller votre structure WordPress. On y découvre du
+   WooThemes et d’autres fournisseurs de thèmes de qualités.
+
+   Cliquez-ici pour accéder à la ressource
+
+Sublimer votre forum bbPress avec le thème Reforum
+
+   Sublimer votre forum bbPress avec le nouveau thème de WPBundle
+   « Reforum ». Deux versions sont disponibles pour personnaliser le thème
+   de votre forum bbPress. Le thème bbPress est à seulement 50$.
+
+   Cliquez-ici pour accéder à la ressource
+
+Pack d’icônes « Social Media » par WPZoom
+
+   WPZoom nous propose un pack de 50 icônes « social media » pour vos
+   projets web. Disponible en deux tailles(38px, 26px) et en deux formats
+   (.png, .psd)
+
+   Cliquez-ici pour accéder à la ressource
+
+[Infographie] Pourquoi avez-vous besoin d’un CDN pour votre blog WordPress ?
+
+   Voici un infographie WordPress démontrant l’utilité et le
+   fonctionnement d’un CDN pour son blog WordPress. Cela augmente
+   considérablement la vitesse du blog et permet ainsi une meilleure
+   navigation sur votre blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+5 questions à poser à un consultant WordPress
+
+   Voici 5 questions à poser à un consultant WordPress avant de travailler
+   avec lui et lui laisser votre projet entre ses mains.
+
+   Cliquez-ici pour accéder à la ressource
+
+100 choses que vous devez savoir sur WordPress
+
+   Récapitulatifs des 10 choses que vous devez savoir sur WordPress. Cela
+   concernant l’hébergement WordPress, la configuration et l’installation
+   WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+Ajouter de la couleur au thème Twenty Ten de WordPress !
+
+   Twenty Ten Extended est un thème enfant vous permet d’améliorer les
+   graphismes du thème WordPress par défaut, vous pouvez ainsi
+   personnaliser les couleurs.
+
+   Cliquez-ici pour accéder à la ressource
+
+Framework CSS3 pour créer des boutons GitHub !
+
+   Voici un framework CSS3 pour créer facilement des boutons ergonomiques
+   dans le style du célèbre service en ligne GitHub. Simple à utiliser,
+   une page d’exemple vous explique les différents style graphique à
+   appliquer pour vos boutons/liens.
+
+   Cliquez-ici pour accéder à la ressource
+
+3 astuces SEO pour optimiser Blogger
+
+   Voici 3 astuces pour optimiser le référencement SEo de la plateforme
+   pro « Blogger ». Ceci permet d’optimiser au mieux votre structure SEO
+   de votre blog Blogger.
+
+   Cliquez-ici pour accéder à la ressource
+
+Améliorer le développement WordPress en local sur un Mac
+
+   Cet article présente les différentes manières d’améliorer le
+   développement WordPress en local sur un Mac.
+
+   Cliquez-ici pour accéder à la ressource
+
+WordPress SEO, les paramètres et plugins essentiels
+
+   Voici une liste des paramètres et plugins essentiels pour le SEO de
+   WordPress. Ils permettent ainsi d’optimiser le référencement de votre
+   blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+TwentyTen Five, le thème WordPress en HTML5
+
+   TwentyTen est le thème par défaut de WordPress. Maintenant disponible
+   en HTML5, cela permet de profiter des nouvelles expériences qu’offres
+   l’HTML5.
+
+   Cliquez-ici pour accéder à la ressource
+
+10 thèmes WordPress pour portfolio et photoblog
+
+   Voici une selection de 10 thèmes WordPress uniques et de qualités pour
+   votre portfolio et/ou photoblog.
+
+   Cliquez-ici pour accéder à la ressource
+
+Les meilleurs thèmes WordPress « rétro » et « vintage » !
+
+   WPCandy nous propose une sélection des meilleurs thèmes retro et
+   Vintage pour vos projets WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+Les fonctions de WordPress dans Coda !
+
+   Voici un outil à intégrer à l’application Coda (MAC). Il permet
+   d’écrire plus facilement les fonctions de WordPress lors de la saisie
+   sur le logiciel Coda. Lors de la saisie, une suggestion de fonctions
+   WordPress vous est proposée.
+
+   Cliquez-ici pour accéder à la ressource
+
+Un filtre de recherche pour les champs personnalisés WordPress !
+
+   Voici comment ajouter un filtre de recherche avancée sur une
+   installation WordPress pour les champs personnalisés des articles. Cela
+   permet de mieux filtrer le contenu de vos contenus selon les critères
+   de vos meta-données !
+
+   Cliquez-ici pour accéder à la ressource
+
+Un thème Mac OS X pour votre blog WordPress !
+
+   iTheme2 est un thème Mac OS X pour votre blog WordPress proposé par
+   Themify. Simple et élégant, il reprend le style du site et des produits
+   Apple.
+
+   Cliquez-ici pour accéder à la ressource
+
+Optimiser la performance des widgets, boutons sociaux et autres
+
+   Cet article nous présente les meilleurs façons d’optimiser le
+   chargement des widgets, des boutons sociaux et autres ! Un gain de
+   temps à ne pas négliger sur un blog WordPress ou sur votre site vitrine
+   !
+
+   Cliquez-ici pour accéder à la ressource
+
+Les 10 meilleurs thèmes WordPress de janvier 2011
+
+   Découvrez les 10 meilleurs thèmes WordPress gratuit de janvier 2011.
+   Une liste pour vous aider à trouver le nouveau thème de votre blog
+   WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+Détecter les applications web, frameworks et CMS d’un site (Chrome)
+
+   Chrome Sniffer est une extension pour Google Chrome qui permet de
+   détecter les applications web, frameworks, CMS et bibliothèques
+   javascript utilisés sur n’importe quel site et blog. Il détecte par
+   exemple WordPress, Drupal, Joomla, jQuery etc.
+
+   Cliquez-ici pour accéder à la ressource
+
+70 nouvelles icônes de réseaux sociaux et blog pour vos projets
+
+   Voici 70 nouvelles icônes de réseaux sociaux et blog pour vos projets
+   WordPress. Icônes entièrement gratuit, elle permet ainsi d’embellir vos
+   projets.
+
+   Cliquez-ici pour accéder à la ressource
+
+Fuyez les plugins, voici 100 codes sources WordPress !
+
+   Voici 100 codes sources, snippets et hacks pour votre blog WordPress.
+   Cela vous permet d’optimiser WordPress et d’intégrer des
+   fonctionnalités à votre blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+12 ressources pour utiliser de belles typographies sur WordPress
+
+   Dans cet article en anglais, l’auteur nous présente 12 façon d’obtenir
+   de belles typographies sur votre blog WordPress. Ressources à connaître
+   pour aiguiller la lecture de votre blog via une belle typographie.
+
+   Cliquez-ici pour accéder à la ressource
+
+5 infographies WordPress
+
+   Les 5 infographies WordPress à voir absolument. Ces infographies
+   WordPress démontre l’utilisation mondiale de WordPress ainsi que des
+   statistiques détaillés de son utilisation et des ressources disponible.
+
+   Cliquez-ici pour accéder à la ressource
+
+5 façons d’obtenir des backlinks
+
+   L’auteur nous présente 5 façons unique d’avoir des backlinks et ainsi
+   promouvoir votre site et blog WordPress sur les moteurs de recherche.
+
+   Cliquez-ici pour accéder à la ressource
+
+17 ressources pour trouver un emploi WordPress
+
+   Dans cet article en anglais, l’auteur nous présente 17 ressources en
+   ligne pour trouver un emploi en tant que freelance WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+3 hébergements avancés pour WordPress !
+
+   Dans cet article en anglais, l’auteur présente trois hébergeurs avancés
+   et de qualités pour y installer vos projets WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+20 plugins jQuery pour votre blog WordPress
+
+   Dans cet article, l’auteur nous présente 20 outils et plugins jQuery à
+   utiliser avec votre votre blog WordPress !
+
+   Cliquez-ici pour accéder à la ressource
+
+Les éléments importants pour créer un thème WordPress !
+
+   Dans cet article, l’auteur analyse la structure d’un thème WordPress
+   pour débuter la création d’un thème personnalisé. Il nous rappel
+   également l’infographie récemment sortie « Anatomie d’un thème
+   WordPress ».
+
+   Cliquez-ici pour accéder à la ressource
+
+Transformer WordPress en un comparateur de produits !
+
+   Daily WordPress publie un thème Prenium à 119$ pour transformer votre
+   installation WordPress en un véritable système de comparateur de
+   produits en ligne. Il intègre avec lui de nombreuses fonctionnalités de
+   votes et une recherche dynamique avec auto-complétion.
+
+   Cliquez-ici pour accéder à la ressource
+
+10 thèmes WordPress pour photographes
+
+   Dans cet article, l’auteur regroupe 10 thèmes WordPress de qualités
+   pour photographe. Indispensable si vous êtes dans le métier ou juste
+   pour présenter vos photographies
+
+   Cliquez-ici pour accéder à la ressource
+
+Afficher les liens les plus tweetés de votre blog !
+
+   Ce service en ligne permet de visualiser l’ensemble de vos liens et
+   affiche le nombre de tweets effectués sur Twitter.
+
+   Cliquez-ici pour accéder à la ressource
+
+L’essentiel de la base de données WordPress !
+
+   Dans cet article en anglais, l’auteur nous re-présente la
+   hiérarchisation et les éléments présents dans la base de données de
+   WordPress, après une installation.
+
+   Cliquez-ici pour accéder à la ressource
+
+20 sites créatifs utilisant BuddyPress
+
+   Voici une lsite présentant 20 sites créatifs utilisant WordPress et la
+   plateforme communautaire BuddyPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+7 façons de lier WordPress à Tumblr
+
+   Découvrez 7 façon de lier votre installation WordPress à votre système
+   de publication en ligne Tumblr. 7 plugins efficaces pour vous faciliter
+   la vie.
+
+   Cliquez-ici pour accéder à la ressource
+
+Vérifier l’en-tête HTTP et le type de redirection d’un lien !
+
+   Redirect Checker permet de verifier l’en-tête HTTP de n’importe quel
+   lien, mais également de connaître le type de redirection effectuée par
+   votre page.
+
+   Cliquez-ici pour accéder à la ressource
+
+Un thème pour transformer WordPress en un Wiki !
+
+   Wiki Base est un thème WordPress vous permettant de transformer votre
+   installation en un Wiki complet et facile d’utilisation. Il intègre
+   avec lui des technologies avancées telles que la recherche instantanée
+   et personnalisées. Disponible pour seulement 65$
+
+   Cliquez-ici pour accéder à la ressource
+
+Utiliser SVN pour créer et maintenir un blog WordPress !
+
+   Dans cet article en anglais, l’auteur nous explique comment mettre en
+   place et maintenir un blog WordPress via SVN.
+
+   Cliquez-ici pour accéder à la ressource
+
+20 liens pour trouver des thèmes WordPress !
+
+   Dans cet article, l’auteur liste de nombreuses ressources pour trouver
+   facilement des thèmes WordPress gratuit. Certain thème sont disponibles
+   en français et peuvent ainsi être facilement correspondre à vos
+   besoins.
+
+   Cliquez-ici pour accéder à la ressource
+
+Télécharger le thème anniversaire de WordPress !
+
+   Télécharger le thème gratuit de l’anniversaire de WordPress. Le thème
+   est entièrement gratuit et est mit à disposition pour fêter la création
+   de WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+Optimiser le chargement des publicités AdSense !
+
+   Dans cet article, l’auteur décrit une solution efficace pour optimiser
+   le chargements de vos publicités Adsense de votre blog WordPress. Une
+   solution simple à mettre en place via JavaScript et CSS. Cela permet
+   tout simplement d’optimiser le chargement des publicités, mais
+   également des pages de votre blog WordPress.
+
+   Cliquez-ici pour accéder à la ressource
+
+4 thèmes WordPress pour créer un portail de Questions-Réponses !
+
+   Dans cet article en français, l’auteur présente 4 thèmes WordPress de
+   qualités pour transformer votre blog en un site communautaire de
+   Questions/Réponses. L’utilisation d’un thème, mais également de plugins
+   avancés permettent la création d’un tel portail communautaire.
+
+   Cliquez-ici pour accéder à la ressource
+
+Nettoyer le code généré par votre menu WordPress !
+
+   Dans ce tutoriel en anglais, il est expliqué la marche à suivre pour
+   nettoyer correctement le code généré par les menus de votre blog
+   WordPress. Ces menus génères par défaut une hiérarchisation de style
+   CSS non utilisées par certain.
+
+   Cliquez-ici pour accéder à la ressource
+
+Un framework HTML5 JavaScript pour des applications mobiles !
+
+   The -M- Project est un framework HTML5 JavaScript pour la création
+   multi-plateforme d’applications mobiles.
+
+   Cliquez-ici pour accéder à la ressource
+
+Afficher des publicités à vos visiteurs provenant des moteurs de recherches !
+
+   Dans cet article en anglais, il est expliqué comment afficher des
+   publicités à vos visiteurs provenant des moteurs de recherches ! Les
+   publicités sont alors seulement affichées à ce type de visiteurs.
+
+   Cliquez-ici pour accéder à la ressource
+
+Accélérer et améliorer les performances de WordPress !
+
+   Cette infographie en anglais explique comment accélérer et améliorer
+   les performances de votre blog WordPress via un système de cache. La
+   mise en cache de vos pages, de votre base de données, du navigateur et
+   des fichiers Javascript et CSS de votre blog WordPress
+
+   Cliquez-ici pour accéder à la ressource
+
+Évaluer le niveau d’optimisation SEO de votre blog WordPress
+
+   Audit référencement gratuit. Évaluer le niveau d’optimisation de votre
+   site pour le référencement naturel SEO et obtenez une note globale.
+
+   Cliquez-ici pour accéder à la ressource
+
+Générer un Sprite CSS des images de votre blog WordPress
+
+   Générer facilement un Sprite CSS des images de votre blog via un simple
+   signet à placer dans la barre d’outil de votre navigateur. Cela permet
+   d’optimiser le temps de chargements de votre blog WordPress et de vos
+   images.
+
+   Cliquez-ici pour accéder à la ressource
+
+Les 18 meilleurs thèmes WordPress payants !
+
+   Cet article en anglais présente les 18 meilleurs thèmes WordPress
+   payant. Les thèmes sont de grandes qualités et permet d’avoir une
+   ergonomie souple, dynamique et unique pour votre blog personel ou
+   professionnel.
+
+   Cliquez-ici pour accéder à la ressource
+
+Collection d’icônes et de symboles libres de droits !
+
+   The Noun Project met à disposition de nombeuses icônes gratuites et
+   libres de droits que vous pouvez alors utiliser dans vos projets web,
+   print et autres.
+
+   Cliquez-ici pour accéder à la ressource
+
+40 affiches « Vintage » pour trouver l’inspiration !
+
+   Cet article en anglais liste plus de 40 affiches « Vintages » pour
+   trouver l’inspiration et vous aider à concevoir la vôtre ainsi qu’une
+   bonne palette de couleurs pour vos projets web, print ou autres.
+
+   Cliquez-ici pour accéder à la ressource
+
+Vérifier les positions de vos mots-clefs sur Google
+
+   L’outil référencement de cette page va vous permettre de vérifier
+   rapidement votre positionnement sur plusieurs datacenters aléatoires de
+   google et ainsi analyser le résultat de votre référencement.
+
+   Cliquez-ici pour accéder à la ressource
+
+22 requêtes MySQL indispensables pour WordPress
+
+   WordPress stocke les données (articles, pages, catégories, etc.) dans
+   une base de données MySQL. Il est donc utile de connaître certaines
+   requêtes pour intervenir rapidement et de façon massive. A ne pas
+   mettre entre toutes les mains toutefois !
+
+   Cliquez-ici pour accéder à la ressource
+
+Allez plus loins
+
+   Elementor
+
+Hello Elementor
+Thème WordPress Elementor
+
+   Elementor
+
+Elementor – L’ultime Page Builder WordPress
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site web dans le navigateur
+   pour mon prochain commentaire.
+
+   Laisser un commentaire
+
+   revenir sur geekeries.fr
+   Obtenir Elementor Pro

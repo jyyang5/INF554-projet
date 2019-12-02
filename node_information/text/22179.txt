@@ -1,0 +1,303 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-WMD4XF
+
+   x BBC America
+
+BBC America
+
+By BBC America
+
+   GET IT NOW
+
+   [warning-exclamation-icon.png]
+   This browser is supported only in Windows 10 and above.
+
+   Search for: ____________________ (BUTTON) Search
+   Full EpisodesMoviesSchedule
+   Social
+
+Follow BBC America
+
+     *
+     *
+     *
+
+   Get caught up in the latest full episodes of BBC America shows
+
+   See Full Schedule
+   On Now: Live TV
+   Search for: ____________________ (BUTTON) Search
+     * All Shows
+     * Movies
+     * Anglophenia
+     * GALAXY OF WOMEN
+
+   BBCA_MontyPythonsFlyingCircus_320x180
+   BBCA_MontyPythonsFlyingCircus_320x180 Monty Python's Flying Circus 5
+   Full Episodes
+   BBCA_NaturesGreatEvents_320x180 BBCA_NaturesGreatEvents_320x180
+   Nature's Great Events 6 Full Episodes
+   BBCA_TGNS_320x180 BBCA_TGNS_320x180 The Graham Norton Show 21 Full
+   Episodes
+   BBCA_KillingEve_s2_320x180 BBCA_KillingEve_s2_320x180 Killing Eve 2
+   Full Episodes
+   BBCA_OrphanBlack_320x180 BBCA_OrphanBlack_320x180 Orphan Black 51 Full
+   Episodes
+   BBCA_Xfiles_320x180 BBCA_Xfiles_320x180 The X-Files 10 Full Episodes
+   Full EpisodesMoviesSchedule
+
+My BBC America
+
+     *
+     *
+     *
+
+Profile Photo
+
+   {* photoManager *}
+
+Linked Accounts
+
+   {* linkedAccounts *} {* #linkAccountContainer *}
+   {* loginWidget *}
+   {* /linkAccountContainer *}
+
+Password
+
+   Change Password
+
+BBC America Profile
+
+   {* #editProfileForm *}
+   {* displayName *}
+   {* emailAddress *}
+   {* firstName *}
+   {* lastName *}
+   Save Changes {* savedProfileMessage *}
+   {* /editProfileForm *}
+   [popup-close-button.png]
+
+Choose your provider to watch Live TV & Full Episodes
+
+   See All Providers
+
+   To watch full episodes, you must have a cable provider that supports
+   BBC America's full episode service and you must have BBC America as
+   part of your cable package.
+   ____________________
+
+   Watch ad-free with AMC Premiere. Learn More
+   [close.svg]
+
+Are you sure you want to sign out?
+
+   OK Cancel
+
+   BBC America
+     * Schedule
+     * FAQ
+     * Contact
+     * Newsletter
+     * Shop
+     * TV Parental Guidelines
+
+     *
+     *
+     *
+     *
+     *
+
+   [USEMAP:AMCN_Corporate_Horiz_757575.svg]
+   [USEMAP:AMCN_Corporate_Stack_757575.svg]
+
+   Copyright © 2010-2019 New Video Channel America, LLC. All rights
+   reserved.
+     * Terms of Use
+     * Cookies
+     * Privacy Policy
+
+   [p?cv=2.0&cj=1&c1=2&c2=18334160&c4=http%3A%2F%2Fwww.bbcamerica.com%2Fus
+   ers%2Fsettings&c5=page&c6=none&c7=http%3A%2F%2Fwww.bbcamerica.com%2Fuse
+   rs%2Fsettings&c8=unknown&c9=http%3A%2F%2Fwww.bbcamerica.com%2Fwp-conten
+   t%2Fplugins%2Famcn-janrain%2Fjs%2Famcn-janrain.js%3Fver%3D2.0.1]
+
+Deactivated Account
+
+   Your account has been deactivated.
+
+Change password
+
+   {* #changePasswordForm *} {* currentPassword *} {* newPassword *} {*
+   newPasswordConfirm *}
+   Save
+   {* /changePasswordForm *}
+
+Deactivate your Account
+
+   Are you sure you want to deactivate your account? You will no longer
+   have access to your profile.
+   {* deactivateAccountForm *}
+   Yes No
+   {* /deactivateAccountForm *}
+
+BBC America Sign In
+
+Thank you for creating an BBC America account
+
+   A verification email has been sent, please verify your account to post
+   comments.
+   Continue
+   Continue to log in for full episodes.
+
+BBCAmerica.com Password Reset
+
+   An email has been sent with instructions for resetting your password.
+   If you do not see it in your inbox, please check your junk or spam
+   folder.
+   Close
+
+BBCAmerica.com Password Reset
+
+   {* #forgotPasswordForm *}
+   Please enter the email address associated with your account, and we'll
+   send you an email with instructions on how to reset your password.
+   {* signInEmailAddress *}
+   {* backButton *}
+   Send
+   {* /forgotPasswordForm *}
+
+   {* mergeAccounts {"custom": true} *}
+   {| rendered_current_photo |}
+   {| current_displayName |}
+   {| current_emailAddress |}
+
+   {| foundExistingAccountText |} {| current_emailAddress |}.
+   {| moreInfoHoverText |}
+   {| existing_displayName |} - {| existing_provider |} : {|
+   existing_siteName |} {| existing_createdDate |}
+   {| moreInfoText |}
+   {| rendered_existing_provider_photo |}
+   {| existing_displayName |}
+   {| existing_provider_emailAddress |}
+   Created {| existing_createdDate |} at {| existing_siteName |}
+   (*) {| connectLegacyRadioText |}
+   ( ) {| createRadioText |} {| current_provider |}
+   Validating
+   {| connect_button |} {| create_button |}
+
+Full Episodes Sign In
+
+Choose your provider to watch Live TV & Full Episodes
+
+Choose your provider to watch Live TV & Full Episodes
+
+   See All Providers
+
+   To watch full episodes, you must have a cable provider that supports
+   BBC America's full episode service and you must have BBC America as
+   part of your cable package.
+   ____________________
+
+   Watch ad-free with AMC Premiere. Learn More
+
+Your Verification Email Has Been Sent
+
+   Check your email for link to verify your account.
+
+Create a new password
+
+   We've sent an email with instructions to create a new password. Your
+   existing password has not been changed.
+   Close
+
+Create a new password
+
+   We didn't recognize that password reset code. Enter your email address
+   to get a new one.
+   {* #resetPasswordForm *} {* signInEmailAddress *}
+   Send
+   {* /resetPasswordForm *}
+
+Your password has been changed
+
+   Password has been successfully updated.
+   Sign In
+
+Change password
+
+   {* #changePasswordFormNoAuth *} {* newPassword *} {* newPasswordConfirm
+   *}
+   Submit
+   {* /changePasswordFormNoAuth *}
+
+Account Sign In
+
+Sign in to get more from BBCAmerica.com
+
+Select an account
+
+   Sign in | Sign Up
+   {* #signInForm *} {* signInEmailAddress *} {* currentPassword *}
+   Forgot Password (BUTTON) Sign In
+   {* /signInForm *}
+
+New to BBC America? Sign up now.
+
+   {* loginWidget *}
+
+New to BBC America? Sign up now.
+
+     * Resume full episodes where you left off
+     * Receive BBC America tune-in reminders
+     * Discuss your favorite shows with other fans
+
+   Back
+   Skip This Step
+
+Account Sign In
+
+Let us know more about you
+
+   {* #socialRegistrationForm *}
+   {* displayName *}
+   {* emailAddress *}
+   {* firstName *}
+   {* lastName *}
+   {* cableProvider *}
+   Continue
+   {* /socialRegistrationForm *}
+
+Sign in to complete account merge
+
+   {* #signInForm *} {* signInEmailAddress *} {* currentPassword *}
+   {* backButton *}
+   (BUTTON) Sign In
+   {* /signInForm *}
+
+BBC America Sign In
+
+Create your BBC America Account
+
+   {* #registrationForm *}
+   {* displayName *}
+   {* emailAddress *}
+   {* firstName *}
+   {* lastName *}
+   {* newPassword *}
+   {* newPasswordConfirm *}
+   {* cableProvider *}
+   Cancel
+   By clicking Continue, I agree to the Privacy Policy Continue
+   {* /registrationForm *}
+
+You did it!
+
+   Thank you for verifiying your email address.
+   Continue
+
+Verify Your Email
+
+   You must verify your account in order to post comments. Please enter
+   your email address and you'll receive a verification link to proceed.
+   {* #resendVerificationForm *} {* signInEmailAddress *}
+   Submit
+   {* /resendVerificationForm *}

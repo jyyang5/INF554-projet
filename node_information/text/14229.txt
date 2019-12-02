@@ -1,0 +1,1380 @@
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_fetch_array(): supplied argument is not a valid MySQL
+   result resource in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 25
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: Cannot modify header information - headers already sent by
+   (output started at
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php:2
+   1) in
+   /home/infopsg/www/wp-content/plugins/wp-super-cache/wp-cache-phase2.php
+   on line 1164
+   ﻿ #RSS 2.0 RSS .92 Atom 0.3
+
+   Toutes les infos et toute l'actualité du Paris Saint Germain PSG: news,
+   infos, comptes rendus de matchs, notes des joueurs, vidéos des matchs
+   et communauté de supporters
+   Rechercher..._______ Submit
+   PRONOSTICS  |  NOS PARTENAIRES  |  DEVENIR REDACTEUR  |  CONTACT
+     * La Boutique
+       La boutique boutique psg Idée cadeau: Le maillot
+       du PSG à votre nom ?
+       Devenir rédacteur kiosque psg Rejoignez l'équipe
+       de supporters INFOPSG
+       Updated soccer data here. Now downloading information from the
+       football info feed.
+
+       mercredi 25 septembre 2019
+       Paris Saint-Germain   20:00 Stade de Reims
+       samedi 28 septembre 2019
+       Girondins de Bordeaux 16:30 Paris Saint-Germain
+
+   Les mots clés les plus recherchés sur INFO PSG
+   mercato ibrahimovic qatar leonardo hoarau sakho nene pastore
+
+   Lucas va t-il partir au mercato d'hiver ?
+     * (*) Oui
+
+     * ( ) Non
+
+   Voir résultats [BUTTON Input] (not implemented)__________
+   Loading ...  Loading ...
+   nous suivre sur facebook nous suivre sut twitter flux rss
+     * Toutes les infos et toute l'actualité du Paris Saint Germain PSG:
+       news, infos, comptes rendus de matchs, notes des joueurs, vidéos
+       des matchs et communauté de supporters
+     * Actualités
+     * Les joueurs
+       du PSG
+     * Le club
+       du PSG
+          + Le Parc des Princes
+          + Le camp des loges
+          + Le centre de formation
+          + Les Records
+          + Les buteurs historiques
+          + Les Supporters
+     * Le calendrier
+       du PSG
+     * Le classement
+       du Championnat de Ligue1
+     * La Boutique
+     * Nous
+       contacter
+
+   Accueil / Les actualités du mois de juillet 2014
+
+   [INS: :INS]
+
+Les actualités du mois de juillet 2014
+
+UEFA: le PSG premier club francais au classement
+
+   C’était prévu ! L’UEFA vient de mettre à jour son classement qui prend
+   en compte les performances européennes des clubs sur les cinq dernières
+   saisons. Et à la faveur de ses deux dernières performances en ligue des
+   champions, le PSG devient le 1er club francais du classement.
+
+   0
+   com.
+
+Mercato: l’OL sur la piste de Jallet (PSG)
+
+   On le dit partant du PSG depuis quelque temps, Christophe Jallet, le
+   défenseur du PSG semble intéressé pas mal de clubs. Dernier en date à
+   évoquer le sujet, l’Olympique Lyonnais par la voix de son nouveau
+   coach.
+
+   0
+   com.
+
+   PSG: Au stage en Autriche, Laurent Blanc évoque le mercato thumbnail
+
+Blanc
+
+PSG: Au stage en Autriche, Laurent Blanc évoque le mercato
+
+   Alors que le PSG est parti depuis plusieurs jours faire son stage de
+   reprise à Stegersbach en Autriche, Laurent Blanc, le coach parisien se
+   confie dans les colonnes du Parisien sur cette reprise et sur les
+   objectifs de la préparation estivale ainsi que le mercato.
+
+   0
+   com.
+
+Mercato: Rabiot veut quitter le PSG mais pas pour l’AS Roma
+
+   Alors que la situation est des plus confuses sur la situation d’Adrien
+   Rabiot, la mère de ce dernier qui fait également office d’agent a fait
+   une mise au point dans un journal italien sur les rumeurs.
+
+   0
+   com.
+
+   Page 1 sur 11
+   [INS: :INS]
+   La boutique boutique psg Idée cadeau: le maillot
+   du PSG à votre nom ?
+   Devenir rédacteur kiosque psg Rejoignez l'équipe
+   de supporters INFOPSG
+
+A lire sur infoPSG
+
+   les infos du psg
+
+UEFA: le PSG premier club francais au classement
+
+   PSG: Au stage en Autriche, Laurent Blanc évoque le mercato thumbnail
+
+PSG: Au stage en Autriche, Laurent Blanc évoque le mercato
+
+   les infos du psg
+
+Mercato: Eden Hazard (Chelsea) ferme complètement la porte au PSG
+
+   les infos du psg
+
+Mercato du PSG: Alex officialise avec l’AC Milan
+
+   Media: la rumeur du transfert de Marquinhos (PSG) relancée thumbnail
+
+Media: la rumeur du transfert de Marquinhos (PSG) relancée
+
+InfoPSG sur Facebook
+
+                                   IFRAME:
+   http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.faceb
+   ook.com%2Fpages%2FParis-France%2FInfoPSGcom%2F227361974689&width=292&co
+    lorscheme=light&show_faces=true&stream=false&header=false&height=300
+
+Pariez sur le PSG
+
+   pmu Jusqu'à 200 euros offerts
+   lors de votre ouverture de compte
+
+nos partenaires privilégiés
+
+     * Football.fr
+     * Info football
+     * PSGInfos
+     * Football
+     * OM Soccer
+     * om
+     * rugby
+     * Manchester City
+
+infopsg à votre service
+
+     * Credit
+     * Epargne
+
+     * Cuisine
+     * Apple Ipad
+
+     * Entrepreneur
+     * Occasion auto
+
+infopsg et vous
+
+     * Ajouter InfoPSG à vos favoris
+     * Plan du site InfoPSG
+
+     * Actualités
+     * Calendrier 2011/2012
+     * L'histoire du Parc
+     * Le Camp des loges
+     * Les supporters
+
+     * Pariez !
+     * PSG.fr
+     * Nous contacter
+     * La Boutique
+     * Le Forum
+
+   Copyright 2011 - 7Ko. Tous droits réservés - Mentions légales
+
+   Nos partenaires football: Fábio Coentrão - Match en Direct - On S'en
+   Foot - MHSC - Manchester City - foot en direct
+
+   télécharger notre extension Hit-Parade Classement de sites - Inscrivez
+                                 le vôtre!
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_fetch_array(): supplied argument is not a valid MySQL
+   result resource in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 25
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: Cannot modify header information - headers already sent by
+   (output started at
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php:2
+   1) in
+   /home/infopsg/www/wp-content/plugins/wp-super-cache/wp-cache-phase2.php
+   on line 1164
+   ﻿ #RSS 2.0 RSS .92 Atom 0.3 next
+
+   Toutes les infos et toute l'actualité du Paris Saint Germain PSG: news,
+   infos, comptes rendus de matchs, notes des joueurs, vidéos des matchs
+   et communauté de supporters
+   Rechercher..._______ Submit
+   PRONOSTICS  |  NOS PARTENAIRES  |  DEVENIR REDACTEUR  |  CONTACT
+     * La Boutique
+       La boutique boutique psg Idée cadeau: Le maillot
+       du PSG à votre nom ?
+       Devenir rédacteur kiosque psg Rejoignez l'équipe
+       de supporters INFOPSG
+       Updated soccer data here. Now downloading information from the
+       football info feed.
+
+       mercredi 25 septembre 2019
+       Paris Saint-Germain   20:00 Stade de Reims
+       samedi 28 septembre 2019
+       Girondins de Bordeaux 16:30 Paris Saint-Germain
+
+   Les mots clés les plus recherchés sur INFO PSG
+   mercato ibrahimovic qatar leonardo hoarau sakho nene pastore
+
+   Lucas va t-il partir au mercato d'hiver ?
+     * (*) Oui
+
+     * ( ) Non
+
+   Voir résultats [BUTTON Input] (not implemented)__________
+   Loading ...  Loading ...
+   nous suivre sur facebook nous suivre sut twitter flux rss
+     * Toutes les infos et toute l'actualité du Paris Saint Germain PSG:
+       news, infos, comptes rendus de matchs, notes des joueurs, vidéos
+       des matchs et communauté de supporters
+     * Actualités
+     * Les joueurs
+       du PSG
+     * Le club
+       du PSG
+          + Le Parc des Princes
+          + Le camp des loges
+          + Le centre de formation
+          + Les Records
+          + Les buteurs historiques
+          + Les Supporters
+     * Le calendrier
+       du PSG
+     * Le classement
+       du Championnat de Ligue1
+     * La Boutique
+     * Nous
+       contacter
+
+   Accueil / Les actualités du mois de juin 2014
+
+   [INS: :INS]
+
+Les actualités du mois de juin 2014
+
+Mercato: Jeremy Menez au Milan AC, c’est officiel !
+
+   Arrivé ce mercredi soir à Milan, Jérémy Ménez est donc maintenant
+   officiellement un joueur du Milan AC. En fin de contrat avec le PSG,
+   l’international français a même officiellement poser en photo pour le
+   site officiel du club italien.
+
+   0
+   com.
+
+Ligue des champions: Le PSG ne devra aligner que 5 joueurs locaux
+
+   On attendait les précisions de l’UEFA sur les sanctions contre le PSG
+   et Manchester City dans le cadre de la loi du fair play financier. On
+   sait maintenant que les deux clubs pourront aligner un minimum de 5
+   joueurs locaux en Ligue des champions. Ce qui lève une contrainte sur
+   les 2 clubs.
+
+   0
+   com.
+
+Mercato: Une offre à 30 millions d’euros du PSG pour Antoine Griezmann
+
+   C’est ce qu’affirme les quotidiens anglais focalisés sur toutes les
+   rumeurs du Paris Saint-Germain… Ainsi le Daily Star croit savoir ce
+   samedi que ce ne sera ni Manchester United, ni Liverpool et pas plus
+   Arsenal qui s’attacheront les services d’Antoine Griezmann mais le PSG
+   avec une offre éclair et élevée: 30 millions d’euros.
+
+   0
+   com.
+
+Mercato: le PSG rejette une nouvelle offre de Barcelone pour Marquinhos
+
+   Les rumeurs se multiplient dans les médias espagnols qui annonçent à
+   tour de bras que le deal entre le PSG et le Barcelone serait en bonne
+   voie. Hier, des médias affirmaient côté espagnol qu’il ne manquait plus
+   que l’accord de Dani Alves pour transferer Marquinhos au FC Barcelone.
+   Une vision plus qu’optimiste de la presse catalane que le PSG s’est
+   empressé de refroidir….
+
+   0
+   com.
+
+Equipe féminine: Caroline Seger s’engage avec le PSG au mercato.
+
+   Caroline Seger, la milieu de terrain suédoise âgée de 29 ans, évoluant
+   la saison dernière sous les couleurs du club suédois du Tyresö FF,
+   s’est officiellement engagée avec le Paris Saint Germain pour la saison
+   prochaine…
+
+   0
+   com.
+
+Mercato: Dani Alves (Barcelone) réitère son intérêt pour le PSG
+
+   A 31 ans, le latéral brésilien du Barça est donné sur le départ du club
+   catalan. Et les médias depuis la fin du championnat le donne partant
+   pour le PSG. Il revient dans des déclarations aujourd’hui sur son
+   possible avenir à Paris.
+
+   0
+   com.
+
+Mercato: Eden Hazard (Chelsea) ferme complètement la porte au PSG
+
+   Actuellement avec la sélection Belge en préparation de la Coupe du
+   Monde au Brésil qui démarre dans une semaine, Eden Hazard a
+   aujourd »hui apporté une réponse cinglante aux rumeurs qui l’envoyaient
+   prochainement au PSG. En bref: Circulez ! il n’y a rien à voir !
+
+   0
+   com.
+
+Mercato du PSG: Alex officialise avec l’AC Milan
+
+   Comme attendu, le défenseur central du Paris Saint-Germain, Alex a
+   quitté à 31 ans le club de la capitale et a officialisé ce Jeudi soir
+   après la visité médicale, la signature d’un contrat avec le club
+   italien du Milan AC.
+
+   0
+   com.
+
+Formation : Le PSG lance une académie de foot au Brésil
+
+   Le PSG a annoncé en ce début de mois de Juin sa première académie en
+   Amérique du Sud. En effet le Paris Saint Germain s’appuiera sur une
+   structure de foot à cinq existante et créée par trois Français à
+   Botafogo pour accueillir des jeunes joueurs et joueuses agés de 5 à
+   16ans.
+
+   Après des académies en France, au Maroc, à New York, Doha et
+   prochainement New Delhi, le PSG débarque avec une académie au Brésil.
+   Juste à côté du siège du club de Botafogo, le PSG aura donc cette
+   structure dédiée aux garçons et filles de 5 à 16 ans. « Nous avons eu
+   28 joueurs brésiliens au PSG, 29 avec David Luiz. Le Brésil fait partie
+   de notre patrimoine génétique. Signe de notre attractivité, nous avions
+   500 000 suiveurs sur notre page Facebook il y a trois ans, aujourd’hui
+   ils sont 11 millions, dont 1,5 million de Brésiliens, soit autant que
+   de Français. » déclarent les dirigeants du club parisien.
+
+   Lucas était également présent lors de cette inauguration faisant part
+   de sa fierté d’être partie prenante « de ce club qui grandit. Il n’y a
+   aucun doute que le PSG sera parmi les plus grands dans les prochaines
+   années. »
+
+   0
+   com.
+
+Mercato: Rabiot pourrait rempiler avec le PSG
+
+   Battu par l’équipe du Brésil en finale du tournoi de Toulon, Adrien
+   Rabiot et l’équipe de France ont pris la direction des vacances. Bien
+   méritées pour certains d’entre eux comme le jeune parisien. Toutefois
+   avant de partir, ce dernier s’est fendu d’une ultime déclaration.
+
+   0
+   com.
+
+   Page 1 sur 212»
+   [INS: :INS]
+   La boutique boutique psg Idée cadeau: le maillot
+   du PSG à votre nom ?
+   Devenir rédacteur kiosque psg Rejoignez l'équipe
+   de supporters INFOPSG
+
+A lire sur infoPSG
+
+   les infos du psg
+
+UEFA: le PSG premier club francais au classement
+
+   PSG: Au stage en Autriche, Laurent Blanc évoque le mercato thumbnail
+
+PSG: Au stage en Autriche, Laurent Blanc évoque le mercato
+
+   les infos du psg
+
+Mercato: Eden Hazard (Chelsea) ferme complètement la porte au PSG
+
+   les infos du psg
+
+Mercato du PSG: Alex officialise avec l’AC Milan
+
+   Media: la rumeur du transfert de Marquinhos (PSG) relancée thumbnail
+
+Media: la rumeur du transfert de Marquinhos (PSG) relancée
+
+InfoPSG sur Facebook
+
+                                   IFRAME:
+   http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.faceb
+   ook.com%2Fpages%2FParis-France%2FInfoPSGcom%2F227361974689&width=292&co
+    lorscheme=light&show_faces=true&stream=false&header=false&height=300
+
+Pariez sur le PSG
+
+   pmu Jusqu'à 200 euros offerts
+   lors de votre ouverture de compte
+
+nos partenaires privilégiés
+
+     * Football.fr
+     * Info football
+     * PSGInfos
+     * Football
+     * OM Soccer
+     * om
+     * rugby
+     * Manchester City
+
+infopsg à votre service
+
+     * Credit
+     * Epargne
+
+     * Cuisine
+     * Apple Ipad
+
+     * Entrepreneur
+     * Occasion auto
+
+infopsg et vous
+
+     * Ajouter InfoPSG à vos favoris
+     * Plan du site InfoPSG
+
+     * Actualités
+     * Calendrier 2011/2012
+     * L'histoire du Parc
+     * Le Camp des loges
+     * Les supporters
+
+     * Pariez !
+     * PSG.fr
+     * Nous contacter
+     * La Boutique
+     * Le Forum
+
+   Copyright 2011 - 7Ko. Tous droits réservés - Mentions légales
+
+   Nos partenaires football: Fábio Coentrão - Match en Direct - On S'en
+   Foot - MHSC - Manchester City - foot en direct
+
+   télécharger notre extension Hit-Parade Classement de sites - Inscrivez
+                                 le vôtre!
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_fetch_array(): supplied argument is not a valid MySQL
+   result resource in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 25
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: Cannot modify header information - headers already sent by
+   (output started at
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php:2
+   1) in
+   /home/infopsg/www/wp-content/plugins/wp-super-cache/wp-cache-phase2.php
+   on line 1164
+   ﻿ #RSS 2.0 RSS .92 Atom 0.3 next
+
+   Toutes les infos et toute l'actualité du Paris Saint Germain PSG: news,
+   infos, comptes rendus de matchs, notes des joueurs, vidéos des matchs
+   et communauté de supporters
+   Rechercher..._______ Submit
+   PRONOSTICS  |  NOS PARTENAIRES  |  DEVENIR REDACTEUR  |  CONTACT
+     * La Boutique
+       La boutique boutique psg Idée cadeau: Le maillot
+       du PSG à votre nom ?
+       Devenir rédacteur kiosque psg Rejoignez l'équipe
+       de supporters INFOPSG
+       Updated soccer data here. Now downloading information from the
+       football info feed.
+
+       mercredi 25 septembre 2019
+       Paris Saint-Germain   20:00 Stade de Reims
+       samedi 28 septembre 2019
+       Girondins de Bordeaux 16:30 Paris Saint-Germain
+
+   Les mots clés les plus recherchés sur INFO PSG
+   mercato ibrahimovic qatar leonardo hoarau sakho nene pastore
+
+   Lucas va t-il partir au mercato d'hiver ?
+     * (*) Oui
+
+     * ( ) Non
+
+   Voir résultats [BUTTON Input] (not implemented)__________
+   Loading ...  Loading ...
+   nous suivre sur facebook nous suivre sut twitter flux rss
+     * Toutes les infos et toute l'actualité du Paris Saint Germain PSG:
+       news, infos, comptes rendus de matchs, notes des joueurs, vidéos
+       des matchs et communauté de supporters
+     * Actualités
+     * Les joueurs
+       du PSG
+     * Le club
+       du PSG
+          + Le Parc des Princes
+          + Le camp des loges
+          + Le centre de formation
+          + Les Records
+          + Les buteurs historiques
+          + Les Supporters
+     * Le calendrier
+       du PSG
+     * Le classement
+       du Championnat de Ligue1
+     * La Boutique
+     * Nous
+       contacter
+
+   Accueil / Les actualités du mois de mai 2014
+
+   [INS: :INS]
+
+Les actualités du mois de mai 2014
+
+Mercato: Pastore transferé contre son gré par le PSG ?
+
+   Alors que Javier Pastore clame qu’il ne veut pas quitter Paris, le
+   Paris Saint Germain devra peut être toutefois pousser la première
+   recrue de l’ère QSI vers la porte cette été. Ce afin de satisfaire son
+   plan de recrutement du mercato en Italie…
+
+   0
+   com.
+
+Mercato: Le plan B du PSG si la transaction avec Eden Hazard échoue…
+
+   Laurent Blanc et le PSG veulent tout deux un milieu offensif de plus à
+   l’occasion de ce mercato estival. Et si pour le PSG, le nom d’Eden
+   Hazard semble être la priorité absolue, force est de constater que les
+   dirigeants parisiens se positionnent également sur un plan B en cas
+   d’échec… Un plan du côté du Calcio italien.
+
+   0
+   com.
+
+Championnat: Reims – PSG, pour ouvrir la prochaine saison de Ligue 1
+
+   Alors que le calendrier de Ligue 1 sera dévoilé vendredi, Le quotidien
+   Le Parisien a laché aujourd’hui quelques indiscrétions quand au contenu
+   de l’annonce… Notamment au sujet des de la première rencontre de Ligue
+   1, édition 2014/2015.
+
+   0
+   com.
+
+Mercato: Le PSG préparerait une offre à 74 millions pour Eden Hazard
+(Chelsea)
+
+   Après quelques jours d’accalmie sur la rumeur suite à l’officialisation
+   du transfert de David Luiz, la rumeur de l’arrivée d’Eden Hazard au
+   PSG, repart de plus belle. Ce jeudi, c’est le quotidien anglais The
+   Mirror qui croit savoir que le PSG serait prêt à passer à l’action dans
+   ce dossier…
+
+   1
+   com.
+
+Ligue des champions: un ministre anglais demande l’exclusion du PSG
+
+   Nous nous faisons l’écho il y a quelques jours de l’investigation de
+   l’UEFA sur une plainte déposée par des supporters anglais handicapés
+   lors de PSG-Chelsea qui avaient été pris pour cibles au Parc des
+   Princes. Voilà qu’un ministre anglais s’en mele et demande pas moins
+   que l’exclusion du PSG.
+
+   0
+   com.
+
+Mercato : Epilogue du transfert de Marquinhos (PSG) à Barcelone, la semaine
+prochaine
+
+   Après une journée d’imbroglio causée par ses erreurs d’attributions
+   d’interview de la radio catalane RAC1, on a eu cette fois la version du
+   vrai Marquinhos. Où on apprend que le jeune défenseur brésilien du PSG
+   envisagera son avenir la semaine prochaine…
+
+   0
+   com.
+
+PSG – Nasser Al-Khelaifi quitte la président de BeIn Sports
+
+   En marge du mercato, mouvement aujourd’hui dans les investissements
+   qataris en France. Le président du Paris Saint-Germain, Nasser
+   Al-Khelaifi, n’est plus le président de BeInSports, remplacé par Yousef
+   Al-Obaidly, jusqu’à alors directeur général délégué de BeInSports.
+
+   1
+   com.
+
+   Mercato: Quand la radio RAC1 sème la zizanie sur le transfert de
+   Marquinhos (PSG) thumbnail
+
+Barcelone
+
+Mercato: Quand la radio RAC1 sème la zizanie sur le transfert de Marquinhos
+(PSG)
+
+   Ubuesque ! Tel est le qualificatif de l’étrange quiproquo qui a agité
+   les réseaux sociaux et les médias ces dernières heures. La radio
+   catalane RAC1 a en effet semé le trouble en diffusant une interview
+   d’un joueur identifié comme Marquinhos. En fait la radio s’est… trompé
+   de joueur.
+
+   0
+   com.
+
+Marquinhos (PSG): l’affaire du transfert tourne à l’imbroglio car le joueur
+dément
+
+   Marquinhos a t-il été trop vite en besogne pensant le deal fait lors de
+   sa déclaration à RAC1 ? Ou est il victime d’un montage radiophonique
+   dont on comprend mal l’intéret de la part de la radio Catalane – comme
+   semble l’affirmer Marquinhos. Sauf qu’on ne comprend pas très bien ce
+   que la radio catalane aurait à gagner à faire ca… sachant qu’elle peux
+   s’exposer à des poursuites.
+
+   0
+   com.
+
+Fair Play: Selon Ibrahimovic, « les autres clubs ont peur du projet du PSG »
+
+   “Les autres grands clubs ont peur de cet énorme projet, c’est pour cela
+   qu’ils utilisent le fair-play financier pour essayer de le
+   contrecarrer. » C’est avec cette phrase lapidaire que l’attaquant
+   suédois du Paris Saint Germain résume en conférence de presse sa vision
+   des sanctions énoncées contre le PSG.
+
+   1
+   com.
+
+   Page 1 sur 12123...»Dernière »
+   [INS: :INS]
+   La boutique boutique psg Idée cadeau: le maillot
+   du PSG à votre nom ?
+   Devenir rédacteur kiosque psg Rejoignez l'équipe
+   de supporters INFOPSG
+
+A lire sur infoPSG
+
+   les infos du psg
+
+UEFA: le PSG premier club francais au classement
+
+   PSG: Au stage en Autriche, Laurent Blanc évoque le mercato thumbnail
+
+PSG: Au stage en Autriche, Laurent Blanc évoque le mercato
+
+   les infos du psg
+
+Mercato: Eden Hazard (Chelsea) ferme complètement la porte au PSG
+
+   les infos du psg
+
+Mercato du PSG: Alex officialise avec l’AC Milan
+
+   Media: la rumeur du transfert de Marquinhos (PSG) relancée thumbnail
+
+Media: la rumeur du transfert de Marquinhos (PSG) relancée
+
+InfoPSG sur Facebook
+
+                                   IFRAME:
+   http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.faceb
+   ook.com%2Fpages%2FParis-France%2FInfoPSGcom%2F227361974689&width=292&co
+    lorscheme=light&show_faces=true&stream=false&header=false&height=300
+
+Pariez sur le PSG
+
+   pmu Jusqu'à 200 euros offerts
+   lors de votre ouverture de compte
+
+nos partenaires privilégiés
+
+     * Football.fr
+     * Info football
+     * PSGInfos
+     * Football
+     * OM Soccer
+     * om
+     * rugby
+     * Manchester City
+
+infopsg à votre service
+
+     * Credit
+     * Epargne
+
+     * Cuisine
+     * Apple Ipad
+
+     * Entrepreneur
+     * Occasion auto
+
+infopsg et vous
+
+     * Ajouter InfoPSG à vos favoris
+     * Plan du site InfoPSG
+
+     * Actualités
+     * Calendrier 2011/2012
+     * L'histoire du Parc
+     * Le Camp des loges
+     * Les supporters
+
+     * Pariez !
+     * PSG.fr
+     * Nous contacter
+     * La Boutique
+     * Le Forum
+
+   Copyright 2011 - 7Ko. Tous droits réservés - Mentions légales
+
+   Nos partenaires football: Fábio Coentrão - Match en Direct - On S'en
+   Foot - MHSC - Manchester City - foot en direct
+
+   télécharger notre extension Hit-Parade Classement de sites - Inscrivez
+                                 le vôtre!
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_fetch_array(): supplied argument is not a valid MySQL
+   result resource in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 25
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: Cannot modify header information - headers already sent by
+   (output started at
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php:2
+   1) in
+   /home/infopsg/www/wp-content/plugins/wp-super-cache/wp-cache-phase2.php
+   on line 1164
+   ﻿ #RSS 2.0 RSS .92 Atom 0.3 next
+
+   Toutes les infos et toute l'actualité du Paris Saint Germain PSG: news,
+   infos, comptes rendus de matchs, notes des joueurs, vidéos des matchs
+   et communauté de supporters
+   Rechercher..._______ Submit
+   PRONOSTICS  |  NOS PARTENAIRES  |  DEVENIR REDACTEUR  |  CONTACT
+     * La Boutique
+       La boutique boutique psg Idée cadeau: Le maillot
+       du PSG à votre nom ?
+       Devenir rédacteur kiosque psg Rejoignez l'équipe
+       de supporters INFOPSG
+       Updated soccer data here. Now downloading information from the
+       football info feed.
+
+       mercredi 25 septembre 2019
+       Paris Saint-Germain   20:00 Stade de Reims
+       samedi 28 septembre 2019
+       Girondins de Bordeaux 16:30 Paris Saint-Germain
+
+   Les mots clés les plus recherchés sur INFO PSG
+   mercato ibrahimovic qatar leonardo hoarau sakho nene pastore
+
+   Lucas va t-il partir au mercato d'hiver ?
+     * (*) Oui
+
+     * ( ) Non
+
+   Voir résultats [BUTTON Input] (not implemented)__________
+   Loading ...  Loading ...
+   nous suivre sur facebook nous suivre sut twitter flux rss
+     * Toutes les infos et toute l'actualité du Paris Saint Germain PSG:
+       news, infos, comptes rendus de matchs, notes des joueurs, vidéos
+       des matchs et communauté de supporters
+     * Actualités
+     * Les joueurs
+       du PSG
+     * Le club
+       du PSG
+          + Le Parc des Princes
+          + Le camp des loges
+          + Le centre de formation
+          + Les Records
+          + Les buteurs historiques
+          + Les Supporters
+     * Le calendrier
+       du PSG
+     * Le classement
+       du Championnat de Ligue1
+     * La Boutique
+     * Nous
+       contacter
+
+   Accueil / Les actualités du mois de octobre 2013
+
+   [INS: :INS]
+
+Les actualités du mois de octobre 2013
+
+PSG: Rudi Garcia apprécie les débuts de Cavani
+
+   Interrogé sur BeIN Sport, Rudi Garcia, l’entraîneur de l’AS Roma en
+   plein succès en ce début de saison, s’est prononcé sur sa perception
+   des débuts d’Edinson Cavani en Ligue 1, avec le PSG.
+
+   0
+   com.
+
+PSG: La folle rumeur brésilienne d’un départ de Lucas
+
+   La presse brésilienne, par la voix de Cosme Rimoli un journaliste
+   brésilien qui se prétend bien informer par l’entourage de Lucas Moura,
+   prédit un départ imminent du brésilien du PSG. La raison ? « Une
+   déprime ».
+
+   0
+   com.
+
+PSG: Pastore interesserait Arsenal
+
+   « Blessé » ou sanctionné mais sans nul doute en manque de temps de jeu
+   au PSG, Javier Pastore commence surement à s’interroger sur la suite de
+   son aventure parisienne. D’autant que plusieurs clubs européens
+   seraient sur les rangs pour s’attacher ses services…
+
+   0
+   com.
+
+OM – PSG: La patron des arbitres de la LFP soutient Clément Turpin mais
+reconnait une erreur
+
+   Interviewé par Luis Fernandez sur les ondes de RMC, Pascal Garibian, le
+   patron des arbitres de la LFP, a pris la défense de Clément Turpin,
+   l’arbitre du match OM-PSG dont tout le monde critiquait hier matin ses
+   erreurs de jugements en terme de cartons jaunes et surtout concernant
+   le rouge sorti sur Thiago Motta.
+
+   1
+   com.
+
+EdF: Mamadou Sakho devait quitter le PSG pour retrouver l’équipe de France
+
+   Alors que Mamadou Sakho signe son retour aujourd’hui avec la sélection
+   de l’Equipe de France, l’ancien défenseur du PSG revient – dans un
+   interviexw sur son mercato de cet été qui l’a amené à rejoindre
+   Liverpool.
+
+   0
+   com.
+
+OM – PSG: La conférence de presse d’après match de Laurent Blanc (video)
+
+   Dans la conférence de presse d’après match, Laurent Blanc revient sur
+   le regain de motivation aperçu dans son équipe à la mi-temps mais aussi
+   et surtout sur le manque de performances de l’OM sur ce match où le
+   coach parisien s’attendait « à mieux ».
+
+   0
+   com.
+
+OM – PSG: Elie Baup « On a été trop naif »
+
+   Après la victoire du PSG face à l’OM dans ce clasico au stade
+   velodrome, Elie Baup le coach marseillais analyse la grosse contre
+   performance marseillaise ce soir en championnat et plus globalement sur
+   les récentes rencontres de l’OM.
+
+   0
+   com.
+
+OM – PSG (1 – 2): Le résumé et les buts du match en vidéo
+
+   Rapidement réduits à dix et contraints de courir après le score, le
+   Paris Saint Germain a su grâce à un mental d’acier revenir au score et
+   l’emporter finalement dans ce clasico contre Marseille. Résumé vidéo du
+   match…
+
+   0
+   com.
+
+OM – PSG : Blaise Matuidi « on s’est foutu le cul par terre pour chercher un
+résultat »
+
+   Encore une fois un des meilleurs parisien ce soir face à l’OM sur la
+   pelouse du Velodrome (1-2), Blaise Matuidi après la victoire du PSG
+   (1-2) était particulièrement fier de la force mentale parisienne.
+
+   0
+   com.
+
+OM – PSG: Laurent Blanc « On a toujours su qu’on pouvait s’imposer »
+
+   Suite à la victoire du PSG lors de ce clasico face à l’OM au Stade
+   Velodrome, Laurent Blanc s’est montré lors d’une interview sur Canal
+   Plus, très satisfait du comportement de son équipe et de l’état
+   d’esprit…
+
+   0
+   com.
+
+   Page 1 sur 5123...»Dernière »
+   [INS: :INS]
+   La boutique boutique psg Idée cadeau: le maillot
+   du PSG à votre nom ?
+   Devenir rédacteur kiosque psg Rejoignez l'équipe
+   de supporters INFOPSG
+
+A lire sur infoPSG
+
+   les infos du psg
+
+UEFA: le PSG premier club francais au classement
+
+   PSG: Au stage en Autriche, Laurent Blanc évoque le mercato thumbnail
+
+PSG: Au stage en Autriche, Laurent Blanc évoque le mercato
+
+   les infos du psg
+
+Mercato: Eden Hazard (Chelsea) ferme complètement la porte au PSG
+
+   les infos du psg
+
+Mercato du PSG: Alex officialise avec l’AC Milan
+
+   Media: la rumeur du transfert de Marquinhos (PSG) relancée thumbnail
+
+Media: la rumeur du transfert de Marquinhos (PSG) relancée
+
+InfoPSG sur Facebook
+
+                                   IFRAME:
+   http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.faceb
+   ook.com%2Fpages%2FParis-France%2FInfoPSGcom%2F227361974689&width=292&co
+    lorscheme=light&show_faces=true&stream=false&header=false&height=300
+
+Pariez sur le PSG
+
+   pmu Jusqu'à 200 euros offerts
+   lors de votre ouverture de compte
+
+nos partenaires privilégiés
+
+     * Football.fr
+     * Info football
+     * PSGInfos
+     * Football
+     * OM Soccer
+     * om
+     * rugby
+     * Manchester City
+
+infopsg à votre service
+
+     * Credit
+     * Epargne
+
+     * Cuisine
+     * Apple Ipad
+
+     * Entrepreneur
+     * Occasion auto
+
+infopsg et vous
+
+     * Ajouter InfoPSG à vos favoris
+     * Plan du site InfoPSG
+
+     * Actualités
+     * Calendrier 2011/2012
+     * L'histoire du Parc
+     * Le Camp des loges
+     * Les supporters
+
+     * Pariez !
+     * PSG.fr
+     * Nous contacter
+     * La Boutique
+     * Le Forum
+
+   Copyright 2011 - 7Ko. Tous droits réservés - Mentions légales
+
+   Nos partenaires football: Fábio Coentrão - Match en Direct - On S'en
+   Foot - MHSC - Manchester City - foot en direct
+
+   télécharger notre extension Hit-Parade Classement de sites - Inscrivez
+                                 le vôtre!
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 21
+   Warning: mysql_fetch_array(): supplied argument is not a valid MySQL
+   result resource in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 25
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 39
+   Warning: mysql_query() [function.mysql-query]: Can't connect to local
+   MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: mysql_query() [function.mysql-query]: A link to the server
+   could not be established in
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php
+   on line 45
+   Warning: Cannot modify header information - headers already sent by
+   (output started at
+   /home/infopsg/www/wp-content/plugins/html-templates/htmlTemplates.php:2
+   1) in
+   /home/infopsg/www/wp-content/plugins/wp-super-cache/wp-cache-phase2.php
+   on line 1164
+   ﻿ #RSS 2.0 RSS .92 Atom 0.3 next
+
+   Toutes les infos et toute l'actualité du Paris Saint Germain PSG: news,
+   infos, comptes rendus de matchs, notes des joueurs, vidéos des matchs
+   et communauté de supporters
+   Rechercher..._______ Submit
+   PRONOSTICS  |  NOS PARTENAIRES  |  DEVENIR REDACTEUR  |  CONTACT
+     * La Boutique
+       La boutique boutique psg Idée cadeau: Le maillot
+       du PSG à votre nom ?
+       Devenir rédacteur kiosque psg Rejoignez l'équipe
+       de supporters INFOPSG
+       Updated soccer data here. Now downloading information from the
+       football info feed.
+
+       mercredi 25 septembre 2019
+       Paris Saint-Germain   20:00 Stade de Reims
+       samedi 28 septembre 2019
+       Girondins de Bordeaux 16:30 Paris Saint-Germain
+
+   Les mots clés les plus recherchés sur INFO PSG
+   mercato ibrahimovic qatar leonardo hoarau sakho nene pastore
+
+   Lucas va t-il partir au mercato d'hiver ?
+     * (*) Oui
+
+     * ( ) Non
+
+   Voir résultats [BUTTON Input] (not implemented)__________
+   Loading ...  Loading ...
+   nous suivre sur facebook nous suivre sut twitter flux rss
+     * Toutes les infos et toute l'actualité du Paris Saint Germain PSG:
+       news, infos, comptes rendus de matchs, notes des joueurs, vidéos
+       des matchs et communauté de supporters
+     * Actualités
+     * Les joueurs
+       du PSG
+     * Le club
+       du PSG
+          + Le Parc des Princes
+          + Le camp des loges
+          + Le centre de formation
+          + Les Records
+          + Les buteurs historiques
+          + Les Supporters
+     * Le calendrier
+       du PSG
+     * Le classement
+       du Championnat de Ligue1
+     * La Boutique
+     * Nous
+       contacter
+
+   Accueil / Les actualités du mois de septembre 2013
+
+   [INS: :INS]
+
+Les actualités du mois de septembre 2013
+
+Argentine: Ezequiel Lavezzi en sélection pour les qualifications du Mondial
+
+   Depuis le début de la saison il est un des parisiens les plus
+   tranchants sur ses actions poussant l’équipe de l’avant. Un travail de
+   Lavezzi qui n’est donc pas passé inaperçu. L’argentin est en effet
+   sélectionné avec l’Albiceleste.
+
+   0
+   com.
+
+PSG – TFC (2-0): Chantôme a apprécié les chants du Parc
+
+   Clément Chantôme a donc fait son retour au Parc des Princes face au PSG
+   ce samedi avec sa nouvelle équipe de Toulouse. Prêté par le PSG, le
+   joueur a apprécié ce retour et s’en est confié aux médias après la
+   rencontre.
+
+   0
+   com.
+
+Camara: l’autre bonne surprise du PSG
+
+   Titularisé en raison de l’absence de Thiago Silva et pour la première
+   fois de la saison en Ligue 1 hier face à Toulouse, Le vetéran Zoumana
+   Camara a démontré après Monaco et Valenciennes une fois de plus qu’il
+   n’avait pas perdu ses qualités…
+
+   0
+   com.
+
+PSG – TFC (2-0): Un match compliqué selon Adrien Rabiot
+
+   Toulousain la saison dernière, le jeune Adrien Rabiot reconnait que le
+   jeu parisien a eu du mal hier face à ses anciens partenaires du TFC au
+   Parc des princes et ce même si le PSG l’emporte tranquillement en
+   apparence.
+
+   0
+   com.
+
+Portugal: Benfica futur adversaire du PSG perd du terrain
+
+   Alors que le PSG a préparé au mieux son match de mercredi en ligue des
+   Champions contre le Benfica; le club portugais semble pour sa part en
+   difficulté dans son championnat.
+
+   0
+   com.
+
+Ligue 1: Pour Gomis, l’OL ne concurrencera pas cette année le PSG et Monaco
+
+   Après son match nul contre Lille. Bafé Gomis estime que l’OL ne doit
+   pas s’affoler mais rappelle que Lyon n’est clairement pas lancé dans
+   une lutte contre le PSG et Monaco.
+
+   0
+   com.
+
+Ballon d’or: Pour Thiago Silva, il faudrait un Ballon d’Or par poste
+
+   Considéré par les experts comme le meilleur défenseur du monde, le
+   capitaine du PSG et de la séléction brésilienne, Thiago Silva reste
+   toutefois lucide sur ses chances un jour de remporter le Ballon d’Or.
+   Avec la formule actuelle, il pense qu’il faudrait un exploit en coupe
+   du monde pour y arriver…
+
+   0
+   com.
+
+PSG – TFC : « Difficile d’être à 100% à chaque match » pour Ibra
+
+   Auteur d’un match sans tir cadré, Zlatan Ibrahimovic a été décevant
+   contre Toulouse samedi. L’attaquant suédois du PSG ne s’est pas pour
+   autant dérobé après la partie, où il a répondu aux questions de la
+   presse.
+
+   0
+   com.
+
+PSG – TFC (2 – 0): Pierre Menes s’en prend à l’arbitrage
+
+   Pierre Ménès n’a pas la langue dans sa poche. On le savait déjà.
+   Nouvelle preuve si besoin est, son analyse d’après-match à propos du
+   match PSG – Toulouse Football Club qui a vu la victoire des Parisiens.
+   En ligne de mire: l’arbitre de la rencontre…
+
+   0
+   com.
+
+Marquinhos (PSG): « Thiago Silva m’a beaucoup influencé… »
+
+   En l’absence de Thiago Silva blessé, on craignait clairement pour le
+   bon fonctionnement de la charnière défensive parisienne. Si Camara a
+   très bien tenu son poste, force est de reconnaître que Marquinhos a
+   surpris par son efficacité ET par des qualités offensives
+   insoupçonnées.
+
+   0
+   com.
+
+   Page 1 sur 212»
+   [INS: :INS]
+   La boutique boutique psg Idée cadeau: le maillot
+   du PSG à votre nom ?
+   Devenir rédacteur kiosque psg Rejoignez l'équipe
+   de supporters INFOPSG
+
+A lire sur infoPSG
+
+   les infos du psg
+
+UEFA: le PSG premier club francais au classement
+
+   PSG: Au stage en Autriche, Laurent Blanc évoque le mercato thumbnail
+
+PSG: Au stage en Autriche, Laurent Blanc évoque le mercato
+
+   les infos du psg
+
+Mercato: Eden Hazard (Chelsea) ferme complètement la porte au PSG
+
+   les infos du psg
+
+Mercato du PSG: Alex officialise avec l’AC Milan
+
+   Media: la rumeur du transfert de Marquinhos (PSG) relancée thumbnail
+
+Media: la rumeur du transfert de Marquinhos (PSG) relancée
+
+InfoPSG sur Facebook
+
+                                   IFRAME:
+   http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.faceb
+   ook.com%2Fpages%2FParis-France%2FInfoPSGcom%2F227361974689&width=292&co
+    lorscheme=light&show_faces=true&stream=false&header=false&height=300
+
+Pariez sur le PSG
+
+   pmu Jusqu'à 200 euros offerts
+   lors de votre ouverture de compte
+
+nos partenaires privilégiés
+
+     * Football.fr
+     * Info football
+     * PSGInfos
+     * Football
+     * OM Soccer
+     * om
+     * rugby
+     * Manchester City
+
+infopsg à votre service
+
+     * Credit
+     * Epargne
+
+     * Cuisine
+     * Apple Ipad
+
+     * Entrepreneur
+     * Occasion auto
+
+infopsg et vous
+
+     * Ajouter InfoPSG à vos favoris
+     * Plan du site InfoPSG
+
+     * Actualités
+     * Calendrier 2011/2012
+     * L'histoire du Parc
+     * Le Camp des loges
+     * Les supporters
+
+     * Pariez !
+     * PSG.fr
+     * Nous contacter
+     * La Boutique
+     * Le Forum
+
+   Copyright 2011 - 7Ko. Tous droits réservés - Mentions légales
+
+   Nos partenaires football: Fábio Coentrão - Match en Direct - On S'en
+   Foot - MHSC - Manchester City - foot en direct
+
+   télécharger notre extension Hit-Parade Classement de sites - Inscrivez
+                                 le vôtre!

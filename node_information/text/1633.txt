@@ -1,0 +1,720 @@
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+
+Search
+
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   Get my route
+   Contact sales office
+   Useful links
+   TanGO (Transports de l'Agglomération Nimoise)
+   NTecC (Nouveau transport en commun Cévenol)
+   TCRA (Transport en Commun de la Région d'Avignon)
+   Envia
+   SNCF (Société Nationale des chemins de fer)
+   TER (Transport express régional)
+   Go to the liO Facebook page (new window)
+   Download the liO iPhone app (new window)
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   var bBoucle = true; var nim = new Number(-1); //var plv = new
+   Number(6000); var timer = null; var nbEvn = 0; // ZL : création du
+   tableau des délais en JS var tabDelai = new Array(); // lecture
+   function play(reload) { bBoucle = true; // activation des boutons play
+   / pause document.getElementById("btnPlay").src =
+   "/img/default/diaporama/LIO-playOff.png";
+   document.getElementById("btnPause").src =
+   "/img/default/diaporama/LIO-pause.png"; if (reload == 1 && !timer) //
+   ZL : création du timer en remplaçant plv par le délai correspondant
+   dans le tableau tabDelai timer = setTimeout('initiate()',
+   tabDelai[nim]); return; } // pause function pause() { if (timer) {
+   clearTimeout(timer); timer = null; } bBoucle = false;
+   document.getElementById("btnPlay").src =
+   "/img/default/diaporama/LIO-play.png";
+   document.getElementById("btnPause").src =
+   "/img/default/diaporama/LIO-pauseOff.png"; return; } // affichage de
+   l'événement en cours function changeDiapo(nim) { // affichage du bon
+   DIV et intéraction avec les boutons for (i = 0; i < nbEvn; i++) { if (i
+   == nim) { document.getElementById("une"+i).style.display = "block";
+   document.getElementById("btn"+i).setAttribute("class", "btnOn");
+   document.getElementById("btn"+i).setAttribute("className", "btnOn"); }
+   else { document.getElementById("une"+i).style.display = "none";
+   document.getElementById("btn"+i).setAttribute("class", "btn");
+   document.getElementById("btn"+i).setAttribute("className", "btn"); } }
+   } // Initiate, en fait la fonction de rotation des images. function
+   initiate() { if (bBoucle) { // incrémentation du numéro d'image nim++;
+   if (nim > nbEvn - 1) { nim=0; } // commande de changement d'image
+   changeDiapo(nim); // relance après un certain temps // ZL : création du
+   timer en remplaçant plv par le délai correspondant dans le tableau
+   tabDelai timer = setTimeout("initiate()", tabDelai[nim]);
+   //alert('tabDelai[' + nim +'] = ' + tabDelai[nim]); } } // Affichage
+   forcé d'un événement function setDiapo(i) { pause(); // sélection
+   forcée de l'image nim = i; changeDiapo(i); } // Affichage de la diapo
+   suivante function nextDiapo() { // incrémentation du numéro d'image
+   nim++; if (nim > nbEvn - 1) { nim=0; } // commande de changement
+   d'image changeDiapo(nim); if (bBoucle) { if (timer) {
+   clearTimeout(timer); timer = null; } timer = setTimeout('initiate()',
+   tabDelai[nim]); } } // Affichage de la diapo précédente function
+   prevDiapo() { // incrémentation du numéro d'image nim--; if (nim < 0) {
+   nim=nbEvn - 1; } // commande de changement d'image changeDiapo(nim); if
+   (bBoucle) { if (timer) { clearTimeout(timer); timer = null; } timer =
+   setTimeout('initiate()', tabDelai[nim]); } } // Définit l'image
+   lorsqu'on survole un bouton function changeImageOnMouseOver(event){ var
+   src = this.src; var dot_pos = src.lastIndexOf("."); var extension =
+   src.slice(dot_pos); var truncated_src = src.substr(0,dot_pos);
+   if(truncated_src.slice(-3) != "_on") { this.src = truncated_src + "_on"
+   + extension; } } // Rétablit la classe du focus sur un champ function
+   changeImageOnMouseOut(event){ var src = this.src; var dot_pos =
+   src.lastIndexOf("."); var extension = src.slice(dot_pos); var
+   truncated_src = src.substr(0,dot_pos); if(truncated_src.slice(-3) ==
+   "_on") { this.src = truncated_src.substr(0,truncated_src.length - 3) +
+   extension; } }
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO - Back to the homepage
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   You are here Homepage > My departure town
+
+My departure town
+
+   Your selection
+   Date : 05/09/2019
+   1 Departure town
+
+   Departure town :
+   ____________________ Confirm
+
+   2 Arrival town
+
+   Choice of the destination town
+
+   3 Departure stop
+
+   Choice of the departure stop
+
+   4 Arrival stop
+
+   Choice of the destination stop
+
+   Top of page
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO - Back to the homepage
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   You are here Homepage > In agglomeration
+
+In agglomeration
+
+   Top of page
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO - Back to the homepage
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   You are here Homepage > List of platforms at Nimes bus station
+
+List of platforms at Nimes bus station
+
+   Top of page
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+
+Search
+
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   Get my route
+   Contact sales office
+   Useful links
+   TanGO (Transports de l'Agglomération Nimoise)
+   NTecC (Nouveau transport en commun Cévenol)
+   TCRA (Transport en Commun de la Région d'Avignon)
+   Envia
+   SNCF (Société Nationale des chemins de fer)
+   TER (Transport express régional)
+   Go to the liO Facebook page (new window)
+   Download the liO iPhone app (new window)
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   var bBoucle = true; var nim = new Number(-1); //var plv = new
+   Number(6000); var timer = null; var nbEvn = 0; // ZL : création du
+   tableau des délais en JS var tabDelai = new Array(); // lecture
+   function play(reload) { bBoucle = true; // activation des boutons play
+   / pause document.getElementById("btnPlay").src =
+   "/img/default/diaporama/LIO-playOff.png";
+   document.getElementById("btnPause").src =
+   "/img/default/diaporama/LIO-pause.png"; if (reload == 1 && !timer) //
+   ZL : création du timer en remplaçant plv par le délai correspondant
+   dans le tableau tabDelai timer = setTimeout('initiate()',
+   tabDelai[nim]); return; } // pause function pause() { if (timer) {
+   clearTimeout(timer); timer = null; } bBoucle = false;
+   document.getElementById("btnPlay").src =
+   "/img/default/diaporama/LIO-play.png";
+   document.getElementById("btnPause").src =
+   "/img/default/diaporama/LIO-pauseOff.png"; return; } // affichage de
+   l'événement en cours function changeDiapo(nim) { // affichage du bon
+   DIV et intéraction avec les boutons for (i = 0; i < nbEvn; i++) { if (i
+   == nim) { document.getElementById("une"+i).style.display = "block";
+   document.getElementById("btn"+i).setAttribute("class", "btnOn");
+   document.getElementById("btn"+i).setAttribute("className", "btnOn"); }
+   else { document.getElementById("une"+i).style.display = "none";
+   document.getElementById("btn"+i).setAttribute("class", "btn");
+   document.getElementById("btn"+i).setAttribute("className", "btn"); } }
+   } // Initiate, en fait la fonction de rotation des images. function
+   initiate() { if (bBoucle) { // incrémentation du numéro d'image nim++;
+   if (nim > nbEvn - 1) { nim=0; } // commande de changement d'image
+   changeDiapo(nim); // relance après un certain temps // ZL : création du
+   timer en remplaçant plv par le délai correspondant dans le tableau
+   tabDelai timer = setTimeout("initiate()", tabDelai[nim]);
+   //alert('tabDelai[' + nim +'] = ' + tabDelai[nim]); } } // Affichage
+   forcé d'un événement function setDiapo(i) { pause(); // sélection
+   forcée de l'image nim = i; changeDiapo(i); } // Affichage de la diapo
+   suivante function nextDiapo() { // incrémentation du numéro d'image
+   nim++; if (nim > nbEvn - 1) { nim=0; } // commande de changement
+   d'image changeDiapo(nim); if (bBoucle) { if (timer) {
+   clearTimeout(timer); timer = null; } timer = setTimeout('initiate()',
+   tabDelai[nim]); } } // Affichage de la diapo précédente function
+   prevDiapo() { // incrémentation du numéro d'image nim--; if (nim < 0) {
+   nim=nbEvn - 1; } // commande de changement d'image changeDiapo(nim); if
+   (bBoucle) { if (timer) { clearTimeout(timer); timer = null; } timer =
+   setTimeout('initiate()', tabDelai[nim]); } } // Définit l'image
+   lorsqu'on survole un bouton function changeImageOnMouseOver(event){ var
+   src = this.src; var dot_pos = src.lastIndexOf("."); var extension =
+   src.slice(dot_pos); var truncated_src = src.substr(0,dot_pos);
+   if(truncated_src.slice(-3) != "_on") { this.src = truncated_src + "_on"
+   + extension; } } // Rétablit la classe du focus sur un champ function
+   changeImageOnMouseOut(event){ var src = this.src; var dot_pos =
+   src.lastIndexOf("."); var extension = src.slice(dot_pos); var
+   truncated_src = src.substr(0,dot_pos); if(truncated_src.slice(-3) ==
+   "_on") { this.src = truncated_src.substr(0,truncated_src.length - 3) +
+   extension; } }
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO - Back to the homepage
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   You are here Homepage > My departure town
+
+My departure town
+
+   Your selection
+   Date : 05/09/2019
+   1 Departure town
+
+   Departure town :
+   ____________________ Confirm
+
+   2 Arrival town
+
+   Choice of the destination town
+
+   3 Departure stop
+
+   Choice of the departure stop
+
+   4 Arrival stop
+
+   Choice of the destination stop
+
+   Top of page
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO - Back to the homepage
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   You are here Homepage > In agglomeration
+
+In agglomeration
+
+   Top of page
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice
+   #Edgard - Actualités
+
+                                 liO - Homepage
+
+   Quick browsing :
+     * Contents |
+     * Browsing menu |
+     * Search |
+     * Site map |
+     * Help and accessibility |
+     * News feed News feed |
+     * Version française
+
+   Access the main browsing menu :
+   liO - Back to the homepage
+     * Lines
+       timetables
+          + All lines
+          + My departure town
+          + In agglomeration
+          + Timetables by school
+          + List of platforms at Nimes bus station
+     * Map of
+       Lines
+          + E-plan
+          + General simplified map
+          + Detailed map by sector
+          + Tourist map
+     * Tickets
+       & Prices
+          + Tickets
+     * Points
+       of sales
+     * Accessibility
+     * Route
+       Ideas
+          + In the Vigan country
+          + In the Cévennes
+          + At the Pont du Gard bridge
+          + Must-see towns
+          + The coast
+          + Markets
+
+   Contact liO and you
+   My space
+
+News
+
+   News
+   > See all the latest news
+
+Traffic info
+
+   Traffic info
+   > See all the latest disruptions
+   Search the site
+
+   Search by keywords
+
+   Keywords____________ OK
+
+   You are here Homepage > List of platforms at Nimes bus station
+
+List of platforms at Nimes bus station
+
+   Top of page
+   > Contact sales office
+   Allo liO ! 0810334273
+     * © la Région 2018
+     * | Legal notice

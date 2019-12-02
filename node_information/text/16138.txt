@@ -1,0 +1,260 @@
+    #RSS
+
+   LIP6 CNRS Sorbonne Université Tremplin Carnot Interfaces
+
+          Présentation
+          Informations pratiques
+          Recherche
+          Actualité
+          Emplois
+          Liens
+
+     * Accéder à la version Française
+     * Access English version
+     * Access German version
+     * Accesso alla versione italiana
+     * Acceder a la versión española
+     * Acesso a versão brasileira
+     * Truy cập vào phiên bản Vietnamien
+     *
+     *
+     * Access Chinese version
+
+          Environnement
+          LIP6 organise
+          Des liens qui intéressent le LIP6
+
+   Direct Link LIP6 » Liens » LIP6 organise
+
+RSS
+
+Le Modèle du joueur dans les jeux en réalité augmentée
+
+   17/02/2006
+   Intervenant(s) : Stéphane Natkin (CNAM), Chen Yan (France Telecom R&D)
+   Les jeux persistants, ubiquitaires, pro-actifs... introduisent un
+   ensemble de relations de plus en plus complexe entre le monde réel et
+   les mondes virtuels, certaines contrôlées, d'autres pas. Nous donnons
+   quelques exemples significatifs de ce type d'interactions. Nous les
+   modélisons comme un système réactif et proposons une classification de
+   ce type de relations. Notre objectif étant de proposer une structure de
+   narration interactive pour ce type de jeux, nous montrons que la nature
+   du modèle du joueur dans le jeu conditionne trois niveaux possibles de
+   narration: globale, locale ou personnalisée.
+   Vincent.Corruble (at) nulllip6.fr
+
+           Mentions légales
+          Carte du site |
+    #RSS
+
+   LIP6 CNRS Sorbonne Université Tremplin Carnot Interfaces
+
+          Présentation
+          Informations pratiques
+          Recherche
+          Actualité
+          Emplois
+          Liens
+
+     * Accéder à la version Française
+     * Access English version
+     * Access German version
+     * Accesso alla versione italiana
+     * Acceder a la versión española
+     * Acesso a versão brasileira
+     * Truy cập vào phiên bản Vietnamien
+     *
+     *
+     * Access Chinese version
+
+          Environnement
+          LIP6 organise
+          Des liens qui intéressent le LIP6
+
+   Direct Link LIP6 » Liens » LIP6 organise
+
+SMA RSS
+
+Jeux vidéo : Nouveaux benchmarks pour les systèmes multi-agents ?
+
+   23/01/2006
+   Intervenant(s) : Geber RAMALHO (The Federal University of Pernambuco,
+   Recife, Brésil – LIP6)
+   Quelques défis posés par le développement des jeux vidéo sont
+   présentés, en soulignant les opportunités de recherche pour la
+   communauté des Systèmes Multi-Agents (SMA). L'importance et les
+   caractéristiques souhaitables des benchmarks en IA, et en particulier
+   dans les SMA, sont discutées afin d'évaluer dans quelle mesure, au-delà
+   de l'intérêt commercial, les jeux vidéo pourraient dégager des
+   problématiques scientifiques générales.
+   Plus d'informations ici
+   Yasmine.Charif (at) nulllip6.fr
+
+           Mentions légales
+          Carte du site |
+    Équipe inconnue (id)
+
+    #RSS
+
+   LIP6 CNRS Sorbonne Université Tremplin Carnot Interfaces
+
+          Présentation
+          Informations pratiques
+          Recherche
+          Actualité
+          Emplois
+          Liens
+
+     * Accéder à la version Française
+     * Access English version
+     * Access German version
+     * Accesso alla versione italiana
+     * Acceder a la versión española
+     * Acesso a versão brasileira
+     * Truy cập vào phiên bản Vietnamien
+     *
+     *
+     * Access Chinese version
+
+          Environnement
+          LIP6 organise
+          Des liens qui intéressent le LIP6
+
+   Direct Link LIP6 » Liens » LIP6 organise
+
+RIA RSS
+
+Appel à communications pour la Revue d’Intelligence Artificielle : Numéro
+Spécial Logique et Sécurité
+
+   Date limite de soumission 21/10/2012
+   21/10/2012
+   Éditeurs: Yannick Chevalier (UPS, IRIT) et Mathieu Jaume (UPMC, LIP6)
+
+   Avec l’essor d’Internet, l’apparition d’objets communicants
+   (téléphones, tablettes, RFID, etc.), et la mise en place de systèmes
+   d’information complexes et connectés en réseaux, les personnes et
+   organisations ont aujourd’hui à relever un défi difficile : rendre
+   l’information accessible et permettre sa dissémination aux agents de
+   confiance afin de répondre à un ensemble de besoins, tout en
+   garantissant, d’une part, l’intégrité de l’information à laquelle il
+   est possible d’accéder, et d’autre part, la confidentialité de
+   l’information, afin de protéger les données sensibles. Les enjeux posés
+   sont cruciaux lorsqu’il s’agit de protéger la vie privée des personnes
+   (données médicales, etc.) ou des organisations (vote électronique,
+   etc.) et d’assurer le bon fonctionnement de systèmes critiques
+   (ferroviaire, avionique, etc.). De nombreux travaux abordant cette
+   problématique existent aujourd’hui et offrent un large panel de
+   modèles, techniques et outils. Toutefois, la maîtrise d’un nombre
+   toujours croissant d’objets et de systèmes communicants nécessite
+   désormais l’utilisation de méthodes formelles, soutenues par une
+   rigueur mathématique. Le principal atout de ces méthodes est leur
+   imperméabilité à toute ambiguı̈té lors de la spécification et le
+   développement de systèmes critiques, mais aussi la possibilité de
+   démontrer la cohérence d’un ensemble de spécifications de sécurité ou
+   encore l’adéquation d’un développement aux exigences de sécurité de la
+   spécification. De fait, les normes de développement utilisées lors de
+   l’évaluation de systèmes critiques requièrent l’utilisation de méthodes
+   formelles. La mise en oeuvre de méthodes formelles repose, entre
+   autres, sur des modèles logiques de la confiance dans les systèmes
+   multi-agents, sur des spécifications sémantiques, sur des techniques
+   d’analyse statique, ou encore sur des outils de vérification. Toutes
+   ces approches reposent sur la logique qui s’est progressivement révélée
+   être un auxiliaire indispensable pour aborder des problèmes de
+   sécurité. L’objectif de ce numéro spécial est de rassembler des
+   contributions francophones sur des thèmes aussi larges que possible
+   liant la logique et la sécurité.
+   Parmi les thèmes particuliers sur lesquels nous sollicitons des
+   contributions figurent (liste non-exhaustive):
+     * Authentification
+     * Confiance
+     * Contrôle d’accès
+     * Détection d’intrusion
+     * Flots d’information
+     * Langages de programmation
+     * Politiques de sécurité
+     * Protocoles de sécurité
+
+   Les auteurs sont invités à soumettre des articles d’environ 25 pages à
+   adresser à Mathieu.Jaume@lip6.fr et Yannick.Chevalier@irit.fr en
+   respectant le format http://ria.revuesonline.com/appel.jsp.
+
+Dates importantes
+
+   Soumission des articles : 21 octobre 2012
+   Notification des évaluations : 07 Janvier 2013
+   Remise de la version finale : Mars 2013
+   Mathieu.Jaume (at) nulllip6.fr
+
+           Mentions légales
+          Carte du site |
+    #RSS
+
+   LIP6 CNRS Sorbonne Université Tremplin Carnot Interfaces
+
+          Présentation
+          Informations pratiques
+          Recherche
+          Actualité
+          Emplois
+          Liens
+
+     * Accéder à la version Française
+     * Access English version
+     * Access German version
+     * Accesso alla versione italiana
+     * Acceder a la versión española
+     * Acesso a versão brasileira
+     * Truy cập vào phiên bản Vietnamien
+     *
+     *
+     * Access Chinese version
+
+          Environnement
+          LIP6 organise
+          Des liens qui intéressent le LIP6
+
+   Direct Link LIP6 » Liens » LIP6 organise
+
+RSS
+
+Journée Sécurité et Méthodes Formelles
+
+   22/04/2011
+   Intervenant(s) : Philippe Ayrault, Mathieu Jaume, Marie-Laure Potet,
+   Richard Imhoff, William Bartlett
+   9h30 : Soutenance de thèse de Philippe Ayrault Développement de
+   logiciels critiques en Focalize. Méthodologie et outils pour
+   l'évaluation de conformité.
+   Cette thèse repose sur l’expérience de l’auteur, en tant qu’évaluateur
+   de systèmes critiques pilotés par du logiciel et porte sur les besoins
+   en support théorique et en formalisation des études de risque, afin de
+   conforter les décisions de mise en exploitation. Après un état de l’art
+   sur la sûreté, la thèse porte sur deux aspects de la certification d’un
+   logiciel critique développé avec l’atelier de développement Focalize.
+   Celui-ci permet l’écriture de spécifications sous la forme de formules
+   du premier ordre puis le développement progressif du code, en utilisant
+   héritage, paramétrisation et modularité. Tout d’abord, un cycle de
+   développement système couvrant l’ensemble des phases de la
+   spécification à la maintenance est proposé pour Focalize et sa
+   conformité aux exigences requises par les normes de la Sûreté est
+   montrée. La thèse porte ensuite sur la réalisation d’analyses de
+   risques sur un logiciel développé en Focalize. Un outil de calcul de
+   dépendances entre Entrées/Sorties vraies d’un composant est spécifié
+   formellement en Coq et sa preuve de correction est fournie. Un
+   prototype a été réalisé et appliqué sur un régulateur de vitesse.
+   13h45-14h15 Mathieu Jaume (MdC, LIP6-SPI) Méthodes formelles pour la
+   spécification et la vérification d'équipements cryptographiques : le
+   cas de la FIPS 140-3
+   14h15-14h45 Marie-Laure Potet (Pr. ENSIMAG-VERIMAG) The use of formal
+   methods to reduce legal uncertainties : the Lise project (ANR-Sesur
+   2007-2011)
+   15h-15h30 Richard Imhoff (Conseiller Technique et Assurance Sécurité,
+   THALES Rail Signaling) Le rôle et le bon usage de la notion de niveau
+   d'intégrité (SIL)
+   15h30-16h William Bartlett (Doctorant CEDRIC-CPR/CEA-U3CAT) Preuves de
+   programmes C multi-modèles mémoire
+   Mathieu.jaume (at) nulllip6.fr
+
+           Mentions légales
+          Carte du site |

@@ -1,0 +1,370 @@
+Comparateur de prix
+
+     * Asus GeForce RTX 2070 SUPER DUAL-RTX2070S-O8G-EVO
+       Asus GeForce RTX 2070 SUP...
+       » 554.99 €
+       Cartes graphiques
+     * MSI GeForce GTX 1050 Ti GAMING 4G
+       MSI GeForce GTX 1050 Ti G...
+       » 169.90 €
+       Cartes graphiques
+     * Asus GeForce GTX 1050 Ti CERBERUS-GTX1050TI-O4G
+       Asus GeForce GTX 1050 Ti ...
+       » 194.52 €
+       Cartes graphiques
+     * MSI GeForce RTX 2080 GAMING TRIO
+       MSI GeForce RTX 2080 GAMI...
+       » 699.95 €
+       Cartes graphiques
+Shop HardWare.fr
+
+     * Achat carte graphique pas chère
+     * Achat carte graphique MSI pas chère
+     * Achat carte graphique ASUS pas chère
+   #HardWare.fr - NEWS (RSS) HardWare.fr - ARTICLES (RSS)
+
+   Hardware.fr
+     * ACTUALITES
+     * ARTICLES
+     * PRIX
+     * FORUM
+     * BASE OVERCLOCKING
+     * PC HARDWARE.FR
+
+   Shop [shop.png]
+   Rechercher
+   Rechercher VOTRE RECHERCHE_____
+   ProcesseursCartes mèresCartes graphiquesDisques dursSSDDiversTout
+   ProcesseursCartes mèresCartes graphiquesDisques dursSSDDiversTout
+   ComposantsStockageRefroidissementPériphériquesRéseauxOrdinateursVidéoTo
+   ut
+   HardwarePériphériquesPC PortablesAchats &
+   VentesLogicielsRéseauxProgrammationJeuxDiscussions
+   AMD FX AM3+AMD APU FM2/FM2+Intel Core LGA 1151Intel Core LGA
+   2011-v3Tout
+   Découvrez notre gamme de PC de bureau :OfficeFamilyGamingPower
+   GamingPower User
+
+Les solutions de streaming : Streaming local Steam et Nvidia GameStream en
+test
+
+   Tags : AMD; H.264; Intel; NVENC; Nvidia; QuickSync; Steam; Valve;
+   Publié le 26/07/2016 par Guillaume Louel
+   Imprimer
+   Twitter Facebook Google Plus
+
+   Profiter des jeux de son PC dans son salon, sans disposer d'un PC dédié
+   ou d'avoir à tout déplacer : voilà la promesse que font les diverses
+   solutions que nous avons testées aujourd'hui. Nous nous sommes en effet
+   intéressés aux solutions de streaming local spécifiques aux jeux PC,
+   afin de voir ce qu'elles proposent en pratique !
+
+                              [IMG0051341.jpg]
+
+Le jeu, un problème spécifique
+
+   Le concept de la prise de contrôle à distance d'une machine n'est pas
+   particulièrement nouveau. Passé les terminaux telnet et ssh, des
+   solutions graphiques existent déjà depuis de longues années, comme par
+   exemple le logiciel open source VNC qui permet de manipuler son bureau
+   Windows à distance. Microsoft propose aussi sa propre solution, avec
+   Remote Desktop Connection (RDC).
+
+   Particularité de ces solutions, elles exploitent le fait qu'en général,
+   un bureau dispose de grandes zones fixes qui changent très peu d'un
+   instant à l'autre. Au mieux, les modifications sont en général
+   prévisibles (déplacer une fenêtre par exemple) et les solutions
+   exploitent cela au niveau de la manière dont ils transmettent les
+   informations, permettant de limiter massivement la bande passante
+   nécessaire pour réaliser un affichage distant.
+
+   Le protocole de VNC est le plus ancien, et n'est pas lié à Windows. Il
+   se contente simplement de transférer les zones de pixels qui ont été
+   modifiées par rapport à l'écran précédent. Microsoft va un petit peu
+   plus loin avec le protocole RDP utilisé par RDC, en envoyant des
+   instructions plus génériques (par exemple, « créer une fenêtre de telle
+   hauteur et telle largeur ») qui dessineront directement le résultat à
+   destination, en plus de la possibilité de transférer des zones de
+   pixels lorsque nécessaire, bien entendu.
+
+                              [IMG0051329.png]
+
+   Résultat, on peut prendre très facilement contrôle de machines non
+   seulement dans son réseau local, mais même au travers d'Internet avec
+   un confort élevé lorsqu'il s'agit de tâches peu graphiques.
+
+Le H.264 à la rescousse
+
+   Etant donné les performances au travers d'Internet de VNC et RDC, on
+   pourrait penser que sur un réseau local, transférer les images d'un jeu
+   serait trivial ! En pratique, la déception est immédiate puisque l'on
+   se retrouve en général avec un écran noir, DirectX n'étant pas géré.
+
+   Selon les versions de Windows de chaque côté, dans certains cas, RDP
+   peut gérer des jeux DirectX (via l'extension RemoteFX ) mais en
+   pratique on a droit en général à un slide show dans le meilleur des
+   cas, une latence effroyable, et un support des contrôleurs de jeu
+   distant discutable.
+
+   Pas vraiment de miracle : ces protocoles n'ont pas été conçus pour
+   cela. Le point commun des solutions auxquelles nous nous sommes
+   intéressées aujourd'hui est qu'elles prennent le problème à l'envers :
+   plutôt que de considérer les zones qui changent d'une image à l'autre,
+   pourquoi ne pas directement encoder la sortie vidéo de l'écran, en
+   H.264, et envoyer directement ce résultat sur le réseau ? C'est après
+   tout une technique utilisée par certains logiciels de vidéo conférence,
+   comme Skype.
+
+                              [IMG0051330.jpg]
+   Les dernières versions de Skype gèrent l'encodage H.264 matériel pour
+  la vidéo conférence, et détournent cette fonctionnalité pour faire du
+                              partage d'écran
+
+   Conjugué à la multiplication des encodeurs H.264 intégrés dans le
+   matériel (et plus particulièrement, des encodeurs basse latence), c'est
+   - avec beaucoup de nuances comme nous allons le voir - le point de
+   départ utilisé par les solutions locales de streaming de jeux.
+     Les solutions évaluées Page suivante
+   Sommaire
+   1 - Un accès distant dédié aux jeux
+   2 - Les solutions évaluées
+   3 - Préalable : Écrans et moteurs des jeux
+   4 - Préalable : DXGI, Swap Chain, V-Sync, Tearing...
+   5 - Mesures de latence
+   6 - Encodage H.264, bande passante et WiFi
+   7 - Qualité d'image - Project Cars
+   8 - Qualité d'image - Act of Agression
+   9 - Qualité d'image - The Witcher 3
+   10 - Impact sur les performances, consommation
+   11 - Conclusion
+   Vos réactions
+
+Contenus relatifs
+
+     * [+] 09/05: AMD Ryzen 7 2700, Ryzen 5 2600 et I...
+     * [+] 04/05: Un Coffee Lake 8 coeurs en préparat...
+     * [+] 04/05: Nvidia abandonne son GeForce Partne...
+     * [+] 27/04: Le 10nm d'Intel (encore) retardé, l...
+     * [+] 27/04: AMD Vega 7nm en labo, Zen 2 échanti...
+     * [+] 26/04: Jim Keller rejoint... Intel !
+     * [+] 23/04: MAJ de notre test des Ryzen 7 2700X...
+     * [+] 19/04: AMD Ryzen 2700X et 2600X : Les même...
+     * [+] 19/04: 2008-2018 : tests de 62 processeurs...
+     * [+] 18/04: ASUS AREZ, l'effet GeForce Partner ...
+
+Top articles
+
+   Serveur express
+   Copyright © 1997-2019 Hardware.fr SARL.
+   Tous droits réservés.
+   Partenaires
+   Les numériques - LDLC.COM
+   - A propos  - Mentions légales -
+Comparateur de prix
+
+     * Asus GeForce RTX 2070 SUPER DUAL-RTX2070S-O8G-EVO
+       Asus GeForce RTX 2070 SUP...
+       » 554.99 €
+       Cartes graphiques
+     * MSI GeForce GTX 1050 Ti GAMING 4G
+       MSI GeForce GTX 1050 Ti G...
+       » 169.90 €
+       Cartes graphiques
+     * Asus GeForce GTX 1050 Ti CERBERUS-GTX1050TI-O4G
+       Asus GeForce GTX 1050 Ti ...
+       » 194.52 €
+       Cartes graphiques
+     * MSI GeForce RTX 2080 GAMING TRIO
+       MSI GeForce RTX 2080 GAMI...
+       » 699.95 €
+       Cartes graphiques
+Shop HardWare.fr
+
+     * Achat carte graphique pas chère
+     * Achat carte graphique MSI pas chère
+     * Achat carte graphique ASUS pas chère
+Comparateur de prix
+
+     * Asus GeForce RTX 2070 SUPER DUAL-RTX2070S-O8G-EVO
+       Asus GeForce RTX 2070 SUP...
+       » 554.99 €
+       Cartes graphiques
+     * MSI GeForce GTX 1050 Ti GAMING 4G
+       MSI GeForce GTX 1050 Ti G...
+       » 169.90 €
+       Cartes graphiques
+     * Asus GeForce GTX 1050 Ti CERBERUS-GTX1050TI-O4G
+       Asus GeForce GTX 1050 Ti ...
+       » 194.52 €
+       Cartes graphiques
+     * MSI GeForce RTX 2080 GAMING TRIO
+       MSI GeForce RTX 2080 GAMI...
+       » 699.95 €
+       Cartes graphiques
+Shop HardWare.fr
+
+     * Achat carte graphique pas chère
+     * Achat carte graphique MSI pas chère
+     * Achat carte graphique ASUS pas chère
+   #HardWare.fr - NEWS (RSS) HardWare.fr - ARTICLES (RSS)
+
+   Hardware.fr
+     * ACTUALITES
+     * ARTICLES
+     * PRIX
+     * FORUM
+     * BASE OVERCLOCKING
+     * PC HARDWARE.FR
+
+   Shop [shop.png]
+   Rechercher
+   Rechercher VOTRE RECHERCHE_____
+   ProcesseursCartes mèresCartes graphiquesDisques dursSSDDiversTout
+   ProcesseursCartes mèresCartes graphiquesDisques dursSSDDiversTout
+   ComposantsStockageRefroidissementPériphériquesRéseauxOrdinateursVidéoTo
+   ut
+   HardwarePériphériquesPC PortablesAchats &
+   VentesLogicielsRéseauxProgrammationJeuxDiscussions
+   AMD FX AM3+AMD APU FM2/FM2+Intel Core LGA 1151Intel Core LGA
+   2011-v3Tout
+   Découvrez notre gamme de PC de bureau :OfficeFamilyGamingPower
+   GamingPower User
+
+Les solutions de streaming : Streaming local Steam et Nvidia GameStream en
+test
+
+   Tags : AMD; H.264; Intel; NVENC; Nvidia; QuickSync; Steam; Valve;
+   Publié le 26/07/2016 par Guillaume Louel
+   Imprimer
+   Twitter Facebook Google Plus
+
+   Profiter des jeux de son PC dans son salon, sans disposer d'un PC dédié
+   ou d'avoir à tout déplacer : voilà la promesse que font les diverses
+   solutions que nous avons testées aujourd'hui. Nous nous sommes en effet
+   intéressés aux solutions de streaming local spécifiques aux jeux PC,
+   afin de voir ce qu'elles proposent en pratique !
+
+                              [IMG0051341.jpg]
+
+Le jeu, un problème spécifique
+
+   Le concept de la prise de contrôle à distance d'une machine n'est pas
+   particulièrement nouveau. Passé les terminaux telnet et ssh, des
+   solutions graphiques existent déjà depuis de longues années, comme par
+   exemple le logiciel open source VNC qui permet de manipuler son bureau
+   Windows à distance. Microsoft propose aussi sa propre solution, avec
+   Remote Desktop Connection (RDC).
+
+   Particularité de ces solutions, elles exploitent le fait qu'en général,
+   un bureau dispose de grandes zones fixes qui changent très peu d'un
+   instant à l'autre. Au mieux, les modifications sont en général
+   prévisibles (déplacer une fenêtre par exemple) et les solutions
+   exploitent cela au niveau de la manière dont ils transmettent les
+   informations, permettant de limiter massivement la bande passante
+   nécessaire pour réaliser un affichage distant.
+
+   Le protocole de VNC est le plus ancien, et n'est pas lié à Windows. Il
+   se contente simplement de transférer les zones de pixels qui ont été
+   modifiées par rapport à l'écran précédent. Microsoft va un petit peu
+   plus loin avec le protocole RDP utilisé par RDC, en envoyant des
+   instructions plus génériques (par exemple, « créer une fenêtre de telle
+   hauteur et telle largeur ») qui dessineront directement le résultat à
+   destination, en plus de la possibilité de transférer des zones de
+   pixels lorsque nécessaire, bien entendu.
+
+                              [IMG0051329.png]
+
+   Résultat, on peut prendre très facilement contrôle de machines non
+   seulement dans son réseau local, mais même au travers d'Internet avec
+   un confort élevé lorsqu'il s'agit de tâches peu graphiques.
+
+Le H.264 à la rescousse
+
+   Etant donné les performances au travers d'Internet de VNC et RDC, on
+   pourrait penser que sur un réseau local, transférer les images d'un jeu
+   serait trivial ! En pratique, la déception est immédiate puisque l'on
+   se retrouve en général avec un écran noir, DirectX n'étant pas géré.
+
+   Selon les versions de Windows de chaque côté, dans certains cas, RDP
+   peut gérer des jeux DirectX (via l'extension RemoteFX ) mais en
+   pratique on a droit en général à un slide show dans le meilleur des
+   cas, une latence effroyable, et un support des contrôleurs de jeu
+   distant discutable.
+
+   Pas vraiment de miracle : ces protocoles n'ont pas été conçus pour
+   cela. Le point commun des solutions auxquelles nous nous sommes
+   intéressées aujourd'hui est qu'elles prennent le problème à l'envers :
+   plutôt que de considérer les zones qui changent d'une image à l'autre,
+   pourquoi ne pas directement encoder la sortie vidéo de l'écran, en
+   H.264, et envoyer directement ce résultat sur le réseau ? C'est après
+   tout une technique utilisée par certains logiciels de vidéo conférence,
+   comme Skype.
+
+                              [IMG0051330.jpg]
+   Les dernières versions de Skype gèrent l'encodage H.264 matériel pour
+  la vidéo conférence, et détournent cette fonctionnalité pour faire du
+                              partage d'écran
+
+   Conjugué à la multiplication des encodeurs H.264 intégrés dans le
+   matériel (et plus particulièrement, des encodeurs basse latence), c'est
+   - avec beaucoup de nuances comme nous allons le voir - le point de
+   départ utilisé par les solutions locales de streaming de jeux.
+     Les solutions évaluées Page suivante
+   Sommaire
+   1 - Un accès distant dédié aux jeux
+   2 - Les solutions évaluées
+   3 - Préalable : Écrans et moteurs des jeux
+   4 - Préalable : DXGI, Swap Chain, V-Sync, Tearing...
+   5 - Mesures de latence
+   6 - Encodage H.264, bande passante et WiFi
+   7 - Qualité d'image - Project Cars
+   8 - Qualité d'image - Act of Agression
+   9 - Qualité d'image - The Witcher 3
+   10 - Impact sur les performances, consommation
+   11 - Conclusion
+   Vos réactions
+
+Contenus relatifs
+
+     * [+] 09/05: AMD Ryzen 7 2700, Ryzen 5 2600 et I...
+     * [+] 04/05: Un Coffee Lake 8 coeurs en préparat...
+     * [+] 04/05: Nvidia abandonne son GeForce Partne...
+     * [+] 27/04: Le 10nm d'Intel (encore) retardé, l...
+     * [+] 27/04: AMD Vega 7nm en labo, Zen 2 échanti...
+     * [+] 26/04: Jim Keller rejoint... Intel !
+     * [+] 23/04: MAJ de notre test des Ryzen 7 2700X...
+     * [+] 19/04: AMD Ryzen 2700X et 2600X : Les même...
+     * [+] 19/04: 2008-2018 : tests de 62 processeurs...
+     * [+] 18/04: ASUS AREZ, l'effet GeForce Partner ...
+
+Top articles
+
+   Serveur express
+   Copyright © 1997-2019 Hardware.fr SARL.
+   Tous droits réservés.
+   Partenaires
+   Les numériques - LDLC.COM
+   - A propos  - Mentions légales -
+Comparateur de prix
+
+     * Asus GeForce RTX 2070 SUPER DUAL-RTX2070S-O8G-EVO
+       Asus GeForce RTX 2070 SUP...
+       » 554.99 €
+       Cartes graphiques
+     * MSI GeForce GTX 1050 Ti GAMING 4G
+       MSI GeForce GTX 1050 Ti G...
+       » 169.90 €
+       Cartes graphiques
+     * Asus GeForce GTX 1050 Ti CERBERUS-GTX1050TI-O4G
+       Asus GeForce GTX 1050 Ti ...
+       » 194.52 €
+       Cartes graphiques
+     * MSI GeForce RTX 2080 GAMING TRIO
+       MSI GeForce RTX 2080 GAMI...
+       » 699.95 €
+       Cartes graphiques
+Shop HardWare.fr
+
+     * Achat carte graphique pas chère
+     * Achat carte graphique MSI pas chère
+     * Achat carte graphique ASUS pas chère

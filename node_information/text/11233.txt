@@ -1,0 +1,194 @@
+   Vitesse Moyenne
+   [{{ item }}]
+   Température
+   (BUTTON) - [{{ item }}] (BUTTON) +
+   Chargé à*
+   [{{ item }} kg]
+   {{ version }}
+   Autonomie
+   {{ version }}
+   {{ userSimulator.ranges[0].battery }}
+   {{ userSimulator.ranges[0].distance_range }}^{{
+   userSimulator.ranges[0].unit }}
+   Motorisation non disponible
+   OFF
+   [cursor-off.png] [cursor-ac.png] [cursor-heater.png]
+   AC
+   Chauffage
+   [cursor-heater.png]
+   Eco
+   Mode ECO ON Mode ECO OFF
+   Gain de 10% en cycles urbain et périurbain
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P655Q4D
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MR47LHW
+
+
+   Moteur
+   [{{ item }}]
+   Batterie
+   [{{ item }}]
+   Autonomie récupérée *
+   {{ userSimulator.autonomy_max }} {{ userSimulator.unit }}
+   n/a
+   Indiquez le niveau de charge initial
+   et le niveau de charge souhaité
+   100% Chargé
+   {{ index }}
+   {{{ time.wattage }}}
+   Temps de
+   chargement
+   {{ result.hours }}^h{{ result.minutes | formatMinutes }}
+   {{ userSimulator.autonomy }} {{ userSimulator.unit }}
+   * Pour un usage en cycle mixte et en conditions réelles en été. Avec
+   une autonomie réelle de 300 km pour les moteurs R90 ou R110
+   et de 280 km pour le moteur Q90, combiné à  une batterie Z.E. 40.
+   {{ time.group }}
+   {{ time.wattage }}
+   Temps de chargement
+   {{ time.hours }}^h {{ time.minutes | formatMinutes }}
+   {{ userSimulator.autonomy }} {{ userSimulator.unit }}
+   Vitesse
+   [{{ item }}]
+   Température
+   (BUTTON) - [{{ item }}] (BUTTON) +
+   Jantes
+   [{{ item }} '']
+   Autonomie
+   Moteur
+   Batterie {{ index }}
+   {{ range.distance_range }}^{{ range.unit }}
+   {{ range.engine }}
+   Motorisation non disponible
+   OFF
+   [cursor-off.png] [cursor-ac.png] [cursor-heater.png]
+   AC
+   Chauffage
+   [car.png]
+   [wheels15.png] [wheels15.png]
+   [wheels16.png] [wheels16.png]
+   [wheels17.png] [wheels17.png]
+   Eco
+   Mode ECO ON Mode ECO OFF
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P655Q4D
+
+   Moteur
+   [{{ item }}]
+   Batterie
+   [{{ item }}]
+   Autonomie
+   NEDC *
+   {{ userSimulator.autonomy_max }} {{ userSimulator.unit }}
+   n/a
+   Sélectionnez le niveau de charge souhaité
+   100% Chargé
+   {{ key }}
+   {{{ item.wattage }}}
+   Motorisation non disponible
+   Temps de
+   chargement
+   {{ result.hours }}^h{{ result.minutes | formatMinutes }}
+   *NEDC: Nouveau cycle de conduite européen
+   {{ time.group }}
+   {{ time.wattage }}
+   Temps de chargement
+   {{ time.hours }}^h {{ time.minutes | formatMinutes }}
+   Autonomie réelle
+   {{ userSimulator.autonomy }} {{ userSimulator.unit }}
+   Vitesse Moyenne
+   [{{ item }}]
+   Température
+   (BUTTON) - [{{ item }}] (BUTTON) +
+   Chargé à*
+   [{{ item }} kg]
+   {{ version }}
+   Autonomie
+   {{ version }}
+   {{ userSimulator.ranges[0].battery }}
+   {{ userSimulator.ranges[0].distance_range }}^{{
+   userSimulator.ranges[0].unit }}
+   Motorisation non disponible
+   OFF
+   [cursor-off.png] [cursor-ac.png] [cursor-heater.png]
+   AC
+   Chauffage
+   [cursor-heater.png]
+   Eco
+   Mode ECO ON Mode ECO OFF
+   Gain de 10% en cycles urbain et périurbain
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P655Q4D
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MR47LHW
+
+
+   Moteur
+   [{{ item }}]
+   Batterie
+   [{{ item }}]
+   Autonomie récupérée *
+   {{ userSimulator.autonomy_max }} {{ userSimulator.unit }}
+   n/a
+   Indiquez le niveau de charge initial
+   et le niveau de charge souhaité
+   100% Chargé
+   {{ index }}
+   {{{ time.wattage }}}
+   Temps de
+   chargement
+   {{ result.hours }}^h{{ result.minutes | formatMinutes }}
+   {{ userSimulator.autonomy }} {{ userSimulator.unit }}
+   * Pour un usage en cycle mixte et en conditions réelles en été. Avec
+   une autonomie réelle de 300 km pour les moteurs R90 ou R110
+   et de 280 km pour le moteur Q90, combiné à  une batterie Z.E. 40.
+   {{ time.group }}
+   {{ time.wattage }}
+   Temps de chargement
+   {{ time.hours }}^h {{ time.minutes | formatMinutes }}
+   {{ userSimulator.autonomy }} {{ userSimulator.unit }}
+   Vitesse
+   [{{ item }}]
+   Température
+   (BUTTON) - [{{ item }}] (BUTTON) +
+   Jantes
+   [{{ item }} '']
+   Autonomie
+   Moteur
+   Batterie {{ index }}
+   {{ range.distance_range }}^{{ range.unit }}
+   {{ range.engine }}
+   Motorisation non disponible
+   OFF
+   [cursor-off.png] [cursor-ac.png] [cursor-heater.png]
+   AC
+   Chauffage
+   [car.png]
+   [wheels15.png] [wheels15.png]
+   [wheels16.png] [wheels16.png]
+   [wheels17.png] [wheels17.png]
+   Eco
+   Mode ECO ON Mode ECO OFF
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P655Q4D
+
+   Moteur
+   [{{ item }}]
+   Batterie
+   [{{ item }}]
+   Autonomie
+   NEDC *
+   {{ userSimulator.autonomy_max }} {{ userSimulator.unit }}
+   n/a
+   Sélectionnez le niveau de charge souhaité
+   100% Chargé
+   {{ key }}
+   {{{ item.wattage }}}
+   Motorisation non disponible
+   Temps de
+   chargement
+   {{ result.hours }}^h{{ result.minutes | formatMinutes }}
+   *NEDC: Nouveau cycle de conduite européen
+   {{ time.group }}
+   {{ time.wattage }}
+   Temps de chargement
+   {{ time.hours }}^h {{ time.minutes | formatMinutes }}
+   Autonomie réelle
+   {{ userSimulator.autonomy }} {{ userSimulator.unit }}

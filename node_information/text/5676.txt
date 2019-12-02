@@ -1,0 +1,278 @@
+    #jsDelivr
+
+   (BUTTON) Toggle navigation jsDelivr
+     * Features
+     * Network
+     * Stats
+     * Sponsors
+     * Tools
+          + Debug tool
+          + Purge cache
+          +
+          + CDNPerf
+          + DNSPerf
+     * Blog
+     * Newsletter
+     *
+     *
+
+Detailed package usage and network statistics are coming soon
+
+   Want to hear about the most important news? Subscribe to our
+   newsletter. No more than a few emails per year.
+
+   Designed, developed, and maintained by:
+   [prospect-one.png]
+   Awesome companies help jsDelivr...
+   Sponsored by Quantil
+   Our sponsors
+     * © jsdelivr.com, 2012 - 2019
+     * About
+     * Privacy Policy
+     * dak@prospectone.io
+
+   [dnsperf.png] [cdnperf.png]
+    #jsDelivr
+
+   (BUTTON) Toggle navigation jsDelivr
+     * Features
+     * Network
+     * Stats
+     * Sponsors
+     * Tools
+          + Debug tool
+          + Purge cache
+          +
+          + CDNPerf
+          + DNSPerf
+     * Blog
+     * Newsletter
+     *
+     *
+
+     * Our sponsors
+     * Become our sponsor
+
+Our Sponsors
+
+PLATINUM
+
+     * Our sponsors
+     * Become our sponsor
+
+   [cloudflare.png]
+   Main backend CDN for jsDelivr offering unlimited bandwidth and
+   locations. "Offers free and commercial, cloud-based services to help
+   secure and accelerate websites."
+   Go to website
+   [stackpath.png]
+   Main backend CDN for jsDelivr offering unlimited bandwidth and
+   locations. "Make your websites and apps faster, purge and provision
+   content instantly, and get CDN analytics in real time."
+   Go to website
+   [fastly.png]
+   Main backend CDN for jsDelivr offering unlimited bandwidth and
+   locations. "Fastly's edge cloud platform powers fast, secure, and
+   scalable digital experiences."
+   Go to website
+   [ns1.png]
+   Our DNS hosting provider offering unlimited DNS queries and an
+   additional layer of failover. "Industry leading DNS traffic management
+   - managed DNS, private DNS networks, and powerful turnkey traffic
+   routing setups."
+   Go to website
+   [perfops.svg]
+   Smart cloud-based routing system that load-balances traffic based on
+   performance and uptime data. PerfOps also provides detailed performance
+   analytics and benchmarking tools.
+   Go to website
+   [heart.png] Want to become a sponsor? Click here for more details
+
+GOLD
+
+   [quantil.png]
+   Global acceleration of Mobile, Website, Download and Video content for
+   both the middle- and last-mile.
+   Go to website
+   [algolia.png]
+   Algolia Search provides hosted full-text, numerical, faceted and
+   geolocalized search.
+   Go to website
+
+BRONZE
+
+   [digitalocean.png]
+   [clever-cloud.png]
+   [cloudns.png]
+   [statuspage.png]
+   [prebid.png]
+
+   Designed, developed, and maintained by:
+   [prospect-one.png]
+   Awesome companies help jsDelivr...
+   Sponsored by Quantil
+   Our sponsors
+     * © jsdelivr.com, 2012 - 2019
+     * About
+     * Privacy Policy
+     * dak@prospectone.io
+
+   [dnsperf.png] [cdnperf.png]
+    #jsDelivr
+
+   (BUTTON) Toggle navigation jsDelivr
+     * Features
+     * Network
+     * Stats
+     * Sponsors
+     * Tools
+          + Debug tool
+          + Purge cache
+          +
+          + CDNPerf
+          + DNSPerf
+     * Blog
+     * Newsletter
+     *
+     *
+
+A debug tool is coming soon
+
+   Want to hear about the most important news? Subscribe to our
+   newsletter. No more than a few emails per year.
+
+   Designed, developed, and maintained by:
+   [prospect-one.png]
+   Awesome companies help jsDelivr...
+   Sponsored by Quantil
+   Our sponsors
+     * © jsdelivr.com, 2012 - 2019
+     * About
+     * Privacy Policy
+     * dak@prospectone.io
+
+   [dnsperf.png] [cdnperf.png]
+    #jsDelivr
+
+   (BUTTON) Toggle navigation jsDelivr
+     * Features
+     * Network
+     * Stats
+     * Sponsors
+     * Tools
+          + Debug tool
+          + Purge cache
+          +
+          + CDNPerf
+          + DNSPerf
+     * Blog
+     * Newsletter
+     *
+     *
+
+A tool for purging CDN cache is coming soon
+
+   Want to hear about the most important news? Subscribe to our
+   newsletter. No more than a few emails per year.
+
+   Designed, developed, and maintained by:
+   [prospect-one.png]
+   Awesome companies help jsDelivr...
+   Sponsored by Quantil
+   Our sponsors
+     * © jsdelivr.com, 2012 - 2019
+     * About
+     * Privacy Policy
+     * dak@prospectone.io
+
+   [dnsperf.png] [cdnperf.png]
+   #next jsDelivr Blog
+
+   [logo.png]
+
+   jsDelivr - a free open source CDN for npm and github
+
+   Blog home Website home ____________________ (BUTTON)
+
+Introducing next-gen load-balancing at jsDelivr with FlexBalancer by PerfOps
+
+   Since the beginning and up until now jsDelivr has been using Cedexis
+   Openmix to achieve its Multi-CDN load balancing between the sponsoring
+   CDNs. We were the first and still remain the only free multi-CDN for
+   open source projects.
+
+Why have
+
+   Read the full post »
+
+   03 May 2019 on optimization
+
+   Comments
+
+New origin cluster
+
+   swarm-diagram
+
+   We recently migrated our origin infrastructure to a much more reliable
+   system.
+   From now on the jsDelivr origin is hosted on Docker swarm cluster
+   consisting of:
+     * 3 manager nodes in 3 different datacenters. All hosted by
+       DigitalOcean. This means that
+
+   Read the full post »
+
+   13 January 2018
+
+   Comments
+
+How jsDelivr works - Infographic
+
+   An easy and visual way to understand how our service works and offers
+   the best uptime and performance of all public CDN providers.
+
+   https://www.jsdelivr.com/network/infographic
+
+   infographics
+   Read the full post »
+
+   12 September 2017
+
+   Comments
+
+jsDelivr reloaded 2017
+
+   thumb2
+
+   A long time has passed since the last update. Since then jsDelivr has
+   improved and grown a lot.
+
+New backend!
+
+     * A completely automated system that works by proxying npm and Github
+       directly. All a user needs to do is publish
+
+   Read the full post »
+
+   12 September 2017
+
+   Comments
+
+KeyCDN joins jsDelivr
+
+   keycdn_font_only_fb2
+
+   KeyCDN is a CDN provider based in Switzerland with a global anycast
+   network and lots of international clients. Even though they are a
+   fairly new company (2012) they already have all the features we require
+   from a core CDN provider
+   Read the full post »
+
+   27 January 2015
+
+   Comments
+
+   Page 1 of 4
+
+     * © jsdelivr.com, 2012 - 2019; designed, developed, and maintained by
+       Prospect One

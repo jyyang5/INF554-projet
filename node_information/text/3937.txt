@@ -1,0 +1,951 @@
+   #Ayuda de Mozilla
+
+     * Ir al contenido principal
+     * Cambiar idioma
+     * Ir a la búsqueda
+
+   X
+   Toca aquí para ir a una versión del sitio para dispositivos móviles.
+
+     * Voluntario
+
+     * es
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Buscar
+
+    1. Inicio
+    2. Firefox
+    3. Cookies: información que los sitios...
+
+   ____________________ (BUTTON) Buscar
+
+Firefox
+
+     * Herramientas de edición
+          + Artículo
+          + Discusión
+          + Editar artículo
+          + Mostrar traducciones
+          + Qué enlaza aquí
+          + Mostrar historial
+          +
+        Personalizar este artículo
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorar más tópicos
+
+     * Navegación básica
+     * Instalar y actualizar
+     * Sincronizar y guardar
+     * Charla y comparte
+     * Haz más con las aplicaciones
+     * Protege tu privacidad
+     * Administrar preferencias y complementos
+     * Soluciona problemas de lentitud, cierres inesperados, mensajes de
+       error y otras incidencias
+
+   ____________________ (BUTTON) Buscar
+
+   Descarga Firefox
+     * Sistemas e idiomas
+     * Qué hay de nuevo
+     * Privacidad
+
+Cookies: información que los sitios web guardan en tu equipo
+
+   (Redirigido desde Cookies)
+
+   Este documento explica qué son las cookies, cómo se usan y cómo
+   administarlas en Firefox.
+
+Tabla de contenidos
+
+     * 1 ¿Qué es una cookie?
+     * 2 Configurar las cookies
+     * 3 Resolución de problemas relacionados con cookies
+
+¿Qué es una cookie?
+
+   Una cookie es un archivo creado por un sitio de Internet para almacenar
+   información en el equipo, como por ejemplo, tus preferencias cuando
+   visitas ese sitio. Cuando visites un sitio que usa cookies, el sitio
+   puede pedirle a Firefox que guarde una o más cookies en el disco duro.
+
+   En algunos navegadores, cada cookie es un pequeño archivo, pero en
+   Firefox todas las cookies se guardan en un solo archivo ubicado en la
+   carpeta perfil.
+
+   Las cookies a menudo guardan tu configuración de los sitios web, como
+   tu idioma preferido o la ubicación. Así, cuando vuelves a ese sitio,
+   Firefox envía de nuevo las cookies que le pertenecen, lo que le permite
+   presentarte información personalizada en función de tus necesidades.
+
+   Las cookies también pueden guardar información que te identifique
+   personalmente. Esta información personal, como por ejemplo nombre,
+   correo electrónico, domicilio, domicilio de tu puesto de trabajo o
+   número de teléfono, es la que se puede usar para identificarte o
+   contactar contigo. Sin embargo, un sitio web solo tiene acceso a la
+   información personal que tú le proporcionas. Por ejemplo, un sitio web
+   no podrá determinar tu dirección de correo electrónico a menos que tú
+   la ingreses. Un sitio web tampoco podrá tener acceso a otra clase de
+   información que haya en tu equipo.
+
+   De forma predeterminada, no puedes ver esta actividad, por lo que no
+   sabes cuándo un sitio web está creando una cookie o cuándo Firefox está
+   enviando su cookie a un sitio web. Sin embargo, se puede cambiar la
+   configuración de cookies para que Firefox te permita aprobar o rechazar
+   automáticamente peticiones de almacenamiento de cookies cuando se
+   cierra Firefox y otras opciones más.
+
+Configurar las cookies
+
+   Puedes gestionar las cookies en las OpcionesPreferencias de Firefox.
+   Para acceder a ellas:
+    1. Haz clic en el botón Menú New Fx Menu Fx57Menu y elige
+       OpcionesPreferencias.
+    2. Selecciona el panel Privacidad & Seguridad.
+
+   Los ajustes de las cookies se encuentra en la sección Bloqueo de
+   contenido y Cookies y datos del sitio.
+
+   Para consultar cómo usar esos ajustes para determinadas tareas, puedes
+   leer:
+     * Habilitar y deshabilitar cookies que los sitios web utilizan para
+       rastrear tus preferencias: cómo deshabilitar o habilitar cookies en
+       Firefox.
+     * Borrar cookies: cómo eliminar cookies que ya haya guardado un sitio
+       web.
+     * Impedir que los sitios web guarden sus preferencias o estados de
+       sesión en Firefox: cómo impedir que determinados sitios web guarden
+       cookies.
+     * Deshabilitar cookies de terceros: cómo impedir que un sitio web que
+       no estés visitando guarde cookies.
+
+Resolución de problemas relacionados con cookies
+
+   Si estás experimentando problemas con Firefox que tienen que ver con
+   cookies, consulta:
+     * Los sitios web dicen que las cookies están bloqueadas:
+       desbloquéalas
+     * No puedo iniciar sesión en un sitio web
+
+   Comparte este artículo: http://mzl.la/1BAQyo7
+
+   //Esta gente maravillosa ayudó a escribir este artículo: cadista5,
+   macnolox, inma_610, Melissa Sanabria, Ángela Velo. Tú también puedes
+   ayudar: descubre cómo hacerlo.
+
+   ¿Te resultó útil este artículo? Sí No Espera por favor...
+
+   Colabora en Ayuda de Mozilla
+
+   Mozilla
+     * Mozilla
+     * Acerca de
+     * Blog
+     * Contacta con nosotros
+     * Donar
+     * Colaborar en este sitio
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Descarga Firefox
+     * Escritorio
+     * Móviles
+     * Funcionalidades
+     * Edición Beta, Nightly, Developer
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Algunos fragmentos de este contenido son ©1998–2019
+   de colaboradores particulares de mozilla.org. El contenido está
+   disponible bajo una licencia Creative Commons.
+     * Aviso de privacidad del sitio web
+     * Cookies
+     * Legal
+
+   Language Español
+   #Assistance de Mozilla
+
+     * Aller au contenu principal
+     * Changer de langue
+     * Aller à la recherche
+
+   X
+   Appuyez ici pour vous rendre sur la version mobile du site.
+
+     * Participer
+
+     * fr
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+    2. Firefox
+    3. Empêcher les sites Internet...
+
+   ____________________ (BUTTON) Rechercher
+
+Firefox
+
+     * Outils de modification
+          + Article
+          + Discussion
+          + Modifier l’article
+          + Afficher les traductions
+          + Liens vers cette page
+          + Afficher l’historique
+          +
+        Personnaliser cet article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorer d’autres sujets
+
+     * Navigation basique
+     * Installation et mise à jour
+     * Synchronisation et enregistrement
+     * Discussion et partage
+     * En faire plus avec des applications
+     * Protection de la vie privée
+     * Gestion des préférences et modules complémentaires
+     * Correction de ralentissements, plantages, messages d’erreurs et
+       autres problèmes
+
+   ____________________ (BUTTON) Rechercher
+
+   Télécharger Firefox
+     * Systèmes et langues
+     * Nouveautés
+     * Vie privée
+
+Empêcher les sites Internet d'enregistrer leurs préférences ou état de
+connexion dans Firefox
+
+   Les sites web que vous visitez conservent des cookies et d’autres
+   données de sites sur votre ordinateur. Les données enregistrées
+   contiennent des informations telles que les préférences de sites ou
+   l’état de connexion. Cet article décrit comment empêcher les sites web
+   de conserver ces données dans Firefox.
+     * Consultez l’article Où sont stockés mes noms d'utilisateur et mots
+       de passe ? pour en savoir davantage sur la connexion aux sites web.
+
+Table des matières
+
+     * 1 Bloquer les cookies d’un seul site web
+     * 2 Bloquer les cookies de plus d’un site web
+     * 3 Afficher une liste de sites bloqués
+     * 4 Bloquer les cookies pour tous les sites
+     * 5 Bloquer les cookies tiers
+
+Bloquer les cookies d’un seul site web
+
+   Vous pouvez utiliser la fenêtre d’Informations sur la page pour
+   configurer Firefox pour bloquer les cookies d’un seul site web :
+    1. Allez sur le site web en question.
+    2. Faites un clic droitMaintenez la touche control enfoncée pendant
+       que vous cliquez dans la page et sélectionnez Informations sur la
+       page
+    3. Dans la fenêtre d’Informations sur la page, sélectionnez le panneau
+       Permissions
+    4. Sous Définir des cookies, décochez Permissions par défaut.
+    5. Modifiez le réglage en cochant Bloquer.
+
+        Fx59PageInfo-BlockCookies
+
+    6. Fermez la fenêtre d’Informations sur la page.
+
+   Vous devez ensuite effacer tous les cookies que le site web a déjà
+   installés dans Firefox. À cette fin, consultez l’article Effacer les
+   cookies pour supprimer les informations que les sites internet ont
+   enregistrées sur votre ordinateur.
+
+Bloquer les cookies de plus d’un site web
+
+   S’il y a plus d’un site web que vous souhaitez bloquer, utiliser la
+   fenêtre d’Informations sur la page pour chacun des sites peut se
+   révéler chronophage. Vous pouvez empêcher des sites web particuliers de
+   placer des cookies et des données de sites comme suit :
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité et allez à la
+       section Cookies et données de sites.
+
+        Fx60Settings-CookiesAndSiteData Fx61settings-CookiesAndSiteData
+                Fx63settings-AcceptCookies Fx65CookiesAndSiteData
+
+    3. Cliquez sur Exceptions…Gérer les permissions… La boîte de dialogue
+       Exceptions – Cookies et données de sites s’ouvre.
+
+        Fx60Settings-Cookies&SiteData-Exceptions
+                Fx65CookiesAndSiteData-ManagePermissions
+
+    4. Saisissez l’adresse exacte du site que vous voulez bloquer.
+    5. Cliquez sur le bouton Bloquer
+    6. Cliquez sur le bouton Enregistrer les modifications pour terminer.
+
+   Pour supprimer les cookies déjà enregistrés, consultez l’article
+   Effacer les cookies pour supprimer les informations que les sites
+   internet ont enregistrées sur votre ordinateur.
+
+Afficher une liste de sites bloqués
+
+   Pour voir la liste des sites dont vous avez bloqué les cookies :
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité et allez à la
+       section Cookies et données de sites.
+    3. Cliquez sur Exceptions…Gérer les permissions…
+
+   La boîte de dialogue Exceptions – Cookies et données de sites qui
+   s’ouvre alors, vous montre quels sont les sites que vous avez empêchés
+   d’enregistrer des cookies.
+
+Bloquer les cookies pour tous les sites
+
+   Pour configurer Firefox afin qu’il bloque les cookies de tous les
+   sites :
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité et allez à la
+       section Cookies et données de sites.
+    3. Choisissez Bloquer les cookies et les données de sites (peut
+       empêcher certains sites de fonctionner), puis utilisez le menu
+       déroulant à côté de Type de contenu bloqué pour choisir les types
+       de cookies à bloquer. Attention ! Certains sites ne fonctionnent
+       pas correctement quand tous les cookies sont bloqués.
+
+        Fx63settings-BlockCookies
+
+    4. Fermez la page about:preferences. Toutes les modifications que vous
+       avez apportées seront automatiquement enregistrées.
+
+    1. Cliquez sur le bouton de menu fx57menu et choisissez Blocage de
+       contenu
+          + Cela vous amène à la section Blocage de contenu du panneau Vie
+            privée et sécurité des OptionsPréférences de Firefox.
+    2. Choisissez Personnalisé et cochez la case Cookies.
+
+        Fx65ContentBlocking-Cookies
+
+    3. Utilisez le menu déroulant pour choisir les types de cookies à
+       bloquer. Attention ! Certains sites ne fonctionnent pas
+       correctement quand tous les cookies sont bloqués.
+    4. Fermez la page about:preferences. Toutes les modifications que vous
+       avez apportées seront automatiquement enregistrées.
+
+   Pour davantage d’informations sur le blocage des cookies tiers,
+   consultez l’article Désactiver les cookies tiers dans Firefox pour
+   arrêter certains types de suivi par les annonceurs.
+
+   Pour supprimer les cookies qui ont été conservés au préalable,
+   consultez l’article Effacer les cookies pour supprimer les informations
+   que les sites internet ont enregistrées sur votre ordinateur.
+
+Bloquer les cookies tiers
+
+   Pour configurer Firefox afin qu’il accepte seulement les cookies des
+   sites que vous visitez actuellement, consultez l’article Désactiver les
+   cookies tiers dans Firefox pour arrêter certains types de suivi par les
+   annonceurs.
+
+   // Ces formidables personnes ont aidé à écrire cet article :Goofy,
+   scoobidiver, Mozinet, Nicolas Delebecque, Cécile, YD. Vous pouvez
+   également aider — découvrez comment.
+
+   Cet article vous a-t-il été utile ? Oui Non Veuillez patienter…
+
+   Devenir bénévole pour l’assistance de Mozilla
+
+   Mozilla
+     * Mozilla
+     * À propos
+     * Blog
+     * Nous contacter
+     * Faire un don
+     * Contribuez à ce site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Télécharger Firefox
+     * Ordinateur :
+     * Mobile
+     * Fonctionnalités
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Des parties de ce contenu sont ©1998–2019 par différents contributeurs
+   de mozilla.org. Contenu disponible sous une licence Creative Commons.
+     * Politique de confidentialité du site
+     * Cookies
+     * Mentions légales
+
+   Language Français
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox
+    3. Protect your privacy
+    4. How do I turn on the Do Not Track feature?
+
+   ____________________ (BUTTON) Search
+
+Firefox
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Sync and save
+     * Chat and share
+     * Do more with apps
+     * Protect your privacy
+     * Manage preferences and add-ons
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+   Download Firefox
+     * Systems and Languages
+     * What's New
+     * Privacy
+
+How do I turn on the Do Not Track feature?
+
+   Firefox lets you tell websites that you do not want them to track your
+   browsing behavior. This article explains what tracking is and how to
+   turn on the Do Not Track feature.
+     * See Tips to protect your online privacy for other ways to keep your
+       browsing private.
+
+Tracking
+
+   Most major websites track their visitors' behavior and then sell or
+   provide that information to other companies. This information can be
+   used to show ads, products or services specifically targeted to you.
+   Firefox has a Do Not Track feature that lets you tell every website you
+   visit, their advertisers, and content providers that you don't want
+   your browsing behavior tracked.
+
+   Honoring this setting is voluntary — individual websites are not
+   required to respect it. Websites that do honor this setting should
+   automatically stop tracking your behavior without any further action
+   from you. Turning on this feature will not affect your ability to log
+   in to websites nor cause Firefox to forget your private information,
+   such as the contents of shopping carts, location information or login
+   information.
+   Note: You may see less relevant advertising on websites if you have the
+   Do Not Track option activated.
+
+   The Do Not Track feature is turned off by default except in Private
+   Browsing, where it is always on by default. To always use Do Not Track:
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel.
+    3. Find the Tracking Protection section.
+
+        Fx57DoNotTrack Fx61TrackingProtection-DoNotTrack
+
+    4. Underneath Send websites a "Do Not Track" signal that you don't
+       want to be tracked , choose the Always setting.
+    5. Close the about:preferences page. Any changes you've made will
+       automatically be saved.
+
+    1. Click the menu button fx57menu and select Content Blocking.
+          + This takes you to the Content Blocking section of your Firefox
+            OptionsPreferences Privacy & Security panel.
+
+        Fx63ContentBlocking-DoNotTrack Fx65ContentBlocking-DoNotTrack
+
+    2. Under Send websites a "Do Not Track" signal that you don't want to
+       be tracked, choose Always.
+    3. Close the about:preferences page. Any changes you've made will
+       automatically be saved.
+
+   Share this article: http://mzl.la/WL6fUP
+
+   // These fine people helped write this article:AliceWyman, philipp,
+   Cheng Wang, Underpass, novica, Tonnes, smo, Michael Verdi, scoobidiver,
+   Swarnava Sengupta, Joergen, Rory O’Kane, Francois Marier, user832823,
+   EeyoreGray, user917725, Lan, Joni, Heather, Jon Gregory. You can help
+   too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English
+   #Assistance de Mozilla
+
+     * Aller au contenu principal
+     * Changer de langue
+     * Aller à la recherche
+
+   X
+   Appuyez ici pour vous rendre sur la version mobile du site.
+
+     * Participer
+
+     * fr
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+    2. Firefox
+    3. Autoriser et bloquer les cookies que...
+
+   ____________________ (BUTTON) Rechercher
+
+Firefox
+
+     * Outils de modification
+          + Article
+          + Discussion
+          + Modifier l’article
+          + Afficher les traductions
+          + Liens vers cette page
+          + Afficher l’historique
+          +
+        Personnaliser cet article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorer d’autres sujets
+
+     * Navigation basique
+     * Installation et mise à jour
+     * Synchronisation et enregistrement
+     * Discussion et partage
+     * En faire plus avec des applications
+     * Protection de la vie privée
+     * Gestion des préférences et modules complémentaires
+     * Correction de ralentissements, plantages, messages d’erreurs et
+       autres problèmes
+
+   ____________________ (BUTTON) Rechercher
+
+   Télécharger Firefox
+     * Systèmes et langues
+     * Nouveautés
+     * Vie privée
+
+Autoriser et bloquer les cookies que les sites web utilisent pour traquer vos
+préférences
+
+   (Redirigé depuis Activer et désactiver les cookies que les sites
+   internet utilisent pour connaître vos préférences)
+
+   Les cookies sont des fichiers stockés sur votre ordinateur par les
+   sites web que vous visitez. Ils contiennent des informations telles que
+   vos préférences de navigation ou votre statut de connexion. Cet article
+   montre comment autoriser ou bloquer les cookies dans Firefox.
+
+Table des matières
+
+     * 1 Vérifier ou modifier les paramètres des cookies
+     * 2 Supprimer les cookies à la fermeture de Firefox
+     * 3 Les sites web signalent des erreurs liées au cookies
+
+Vérifier ou modifier les paramètres des cookies
+
+   Note : les cookies sont activés par défaut dans Firefox.
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité et allez à la
+       section Cookies et données de sites.
+    3. Sélectionnez Accepter les cookies et les données de sites
+       (recommandé) pour autoriser les cookies. Pour refuser les cookies,
+       sélectionnez Bloquer les cookies et les données de sites (peut
+       empêcher certains sites de fonctionner).
+
+        Fx60Settings-CookiesAndSiteData
+
+          + Si vous rencontrez des problèmes avec des sites web,
+            assurez-vous que l’option Accepter les cookies tiers et les
+            données de sites tiers n’est PAS positionnée sur Jamais. Pour
+            de plus amples informations, consultez l’article Désactiver
+            les cookies tiers dans Firefox pour arrêter certains types de
+            suivi par les annonceurs.
+    4. Choisissez combien de temps les cookies peuvent être conservés :
+          + Les conserver jusqu’à :
+            Leur expiration : chaque cookie sera supprimé à sa date
+            d’expiration, date fixée par le site émetteur du cookie.
+            La fermeture de Firefox : les cookies enregistrés sur votre
+            ordinateur seront supprimés lorsque vous fermerez Firefox.
+    5. Fermez la page about:preferences. Toutes les modifications que vous
+       avez apportées seront automatiquement enregistrées.
+
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité et allez à la
+       section Cookies et données de sites.
+
+        Fx63settings-AcceptCookies
+
+    3. Sélectionnez Accepter les cookies et les données de site pour
+       autoriser les cookies. Pour les interdire, sélectionnez Bloquer les
+       cookies et les données de site et utilisez le menu déroulant près
+       de Type de contenu bloqué pour choisir quelle sorte de cookies
+       bloquer.
+          + Si vous rencontrez des problèmes avec des sites web,
+            assurez-vous que l’option Accepter les cookies tiers et les
+            données de sites tiers n’est PAS positionnée sur Jamais. Pour
+            davantage d’informations, consultez l’article Désactiver les
+            cookies tiers dans Firefox pour arrêter certains types de
+            suivi par les annonceurs.
+    4. Choisissez combien de temps les cookies sont autorisés à être
+       conservés :
+          + Les conserver jusqu’à
+            Leur expiration : chaque cookie est supprimé quand il atteint
+            sa date d’expiration définie par le site qui a placé le
+            cookie.
+            La fermeture de Firefox : les cookies conservés dans votre
+            ordinateur seront supprimés quand Firefox sera fermé.
+    5. Fermez la page about:preferences. Toutes les modifications que vous
+       avez apportées seront automatiquement enregistrées.
+
+   Cliquez sur le bouton de menu fx57menu et choisissez Blocage de
+   contenu. Le panneau Vie privée et sécurité des OptionsPréférences de
+   Firefox s’ouvre. C’est l’endroit où vous pouvez examiner vos paramètres
+   pour le Blocage de contenu, parmi lesquels ceux des cookies.
+
+   fx65ContentBlocking
+
+     * Si Standard est sélectionné, cela signifie que vous utilisez les
+       réglages par défaut pour le blocage de contenu et que les cookies
+       sont autorisés.
+
+   Pour bloquer les cookies : Sélectionnez Personnalisé et cochez la case
+   Cookies.
+
+   Fx65Custom-ThirdPartyCookies
+
+   Traqueurs tiers est le paramètre par défaut pour le blocage des
+   cookies. Servez-vous du menu déroulant pour modifier le type des
+   cookies bloqués. Notez que bloquer les cookies peut provoquer des
+   problèmes avec des sites web. Consultez l’article Désactiver les
+   cookies tiers dans Firefox pour arrêter certains types de suivi par les
+   annonceurs pour en apprendre davantage au sujet des cookies tiers.
+
+   Pour autoriser tous les cookies, choisissez une des options suivantes :
+     * Sélectionnez Personnalisé et décochez la case Cookies.
+     * Sélectionnez Standard pour restaurer les paramètres par défaut.
+
+   Pour mieux connaître ces paramètres, consultez l’article Blocage de
+   contenu.
+
+Supprimer les cookies à la fermeture de Firefox
+
+   Pour supprimer tous les cookies et les données de site à la fermeture
+   de Firefox :
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité et allez à la
+       rubrique Cookies et données de site.
+
+        Fx65CookiesAndSiteData
+
+    3. Cochez la case Supprimer les cookies et les données des sites à la
+       fermeture de Firefox.
+
+   À chaque fermeture de Firefox, les cookies enregistrés dans votre
+   ordinateur sont supprimés.
+
+Les sites web signalent des erreurs liées au cookies
+
+   Si un site web vous délivre un message d’erreur indiquant que les
+   cookies doivent être autorisés, assurez-vous de n’avoir pas bloqué les
+   cookies pour ce site web. Consultez l’article Les sites internet disent
+   que les cookies sont bloqués – les débloquer pour davantage
+   d’informations.
+
+   Partagez cet article : http://mzl.la/1BAQFQq
+
+   // Ces formidables personnes ont aidé à écrire cet article :Goofy, Alex
+   Paradis, scoobidiver, Banban, Imen, Aiden Fleurquin, Cécile, YD. Vous
+   pouvez également aider — découvrez comment.
+
+   Cet article vous a-t-il été utile ? Oui Non Veuillez patienter…
+
+   Devenir bénévole pour l’assistance de Mozilla
+
+   Mozilla
+     * Mozilla
+     * À propos
+     * Blog
+     * Nous contacter
+     * Faire un don
+     * Contribuez à ce site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Télécharger Firefox
+     * Ordinateur :
+     * Mobile
+     * Fonctionnalités
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Des parties de ce contenu sont ©1998–2019 par différents contributeurs
+   de mozilla.org. Contenu disponible sous une licence Creative Commons.
+     * Politique de confidentialité du site
+     * Cookies
+     * Mentions légales
+
+   Language Français
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox
+    3. Protect your privacy
+    4. Cookies and cache
+    5. Cookies
+
+   ____________________ (BUTTON) Search
+
+Firefox
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Sync and save
+     * Chat and share
+     * Do more with apps
+     * Protect your privacy
+     * Manage preferences and add-ons
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+   Download Firefox
+     * Systems and Languages
+     * What's New
+     * Privacy
+
+Cookies - Information that websites store on your computer
+
+   (Redirected from Cookies)
+
+   This article describes what "cookies" are, how they are used, and how
+   to manage them in Firefox.
+
+Table of Contents
+
+     * 1 What is a cookie?
+     * 2 Cookie settings
+     * 3 Troubleshooting cookies
+
+What is a cookie?
+
+   A cookie is information stored on your computer by a website you visit.
+
+   In some browsers, each cookie is a small file, but in Firefox, all
+   cookies are stored in a single file, located in the Firefox profile
+   folder.
+
+   Cookies often store your settings for a website, such as your preferred
+   language or location. When you return to the site, Firefox sends back
+   the cookies that belong to the site. This allows the site to present
+   you with information customized to fit your needs.
+
+   Cookies can store a wide range of information, including personally
+   identifiable information (such as your name, home address, email
+   address, or telephone number). However, this information can only be
+   stored if you provide it - websites cannot gain access to information
+   you didn't provide to them, and they can't access other files on your
+   computer.
+
+   By default, the activities of storing and sending cookies are invisible
+   to you. However, you can change your Firefox settings to allow you to
+   approve or deny cookie storage requests, delete stored cookies
+   automatically when you close Firefox, and more.
+
+Cookie settings
+
+   Cookie settings are managed in Firefox OptionsPreferences. To access
+   these settings:
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel.
+
+   Cookie settings are under Content Blocking and Cookies and Site Data.
+
+   For instructions on how to manage cookie settings for certain tasks,
+   see:
+     * Enable and disable cookies that websites use to track your
+       preferences: How to turn cookie storage off or on in Firefox.
+     * Clear cookies and site data in Firefox: How to remove cookies that
+       have already been stored by websites.
+     * Block websites from storing cookies and site data in Firefox: How
+       to block certain websites from storing cookies.
+     * Disable third-party cookies in Firefox to stop some types of
+       tracking by advertisers: How to block websites other than the one
+       you're currently visiting from storing cookies.
+
+Troubleshooting cookies
+
+   If you are having a problem with Firefox that involves cookies, see:
+     * Websites say cookies are blocked - Unblock them
+     * Fix login issues on websites that require a username and password
+
+   Share this article: http://mzl.la/1BAQyo7
+
+   // These fine people helped write this article:AliceWyman, Tonnes,
+   nfrover, Michael Verdi, scoobidiver, John99, Swarnava Sengupta, William
+   Qin, adampeebleswrites, Joni, Sayantan. You can help too - find out
+   how.
+
+   Was this article helpful? Yes No Please wait...
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English

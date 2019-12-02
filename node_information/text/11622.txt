@@ -1,0 +1,161 @@
+Aucun résultat. Veuillez élargir vos critères de recherche.
+
+Liste des établissements recherchés
+
+   {{filteredHospitals.length}} établissements correspondent à votre
+   recherche Aucun établissement ne correspond à votre recherche
+   Trier par
+   [-Sélectionner-_________________________.]
+   (*) Public ( ) Privé ( ) Privé non lucratif ( ) Tous types
+   Reinitialiser Modifier votre recherche
+   Nom de l'établissement
+   Localiser
+   Sélectionner et comparer
+   {{result.satis.cot}}
+   /100
+   {{result.n}}
+   {{statuses[result.s]}} | {{result.v}} ({{result.dpt}})
+   {{result.cert.cot}}
+   Carte
+   Ajouter Retirer Ajouter
+   VOIR MA SÉLECTION ET COMPARER
+   Chargement
+
+   Cet établissement ne correspond pas
+   à vos critères de filtre actuels
+
+{{hopital.n}}
+
+{{ presentation.contact.nom }}
+
+   {{indicators.adressepostale}}
+   {{indicators.codepostal}} {{indicators.ville}}
+   Contact Site internet Site internet
+   [recommend.svg]
+   {{indicators.recommend.valeur| number : 0}}% des patients
+   recommanderaient certainement cet établissement
+   Ajouter cet établissement à ma sélection Ajouter cet établissement à ma
+   sélection Retirer cet établissement de ma sélection
+   Lancer la comparaison Lancer la comparaison
+   Fiche détaillée
+   Liste des résultats
+
+Qualité de l'établissement
+
+   Synthèse des résultats globaux sur la qualité des soins de cet
+   établissement. Cliquez sur le bandeau coloré pour obtenir plus de
+   résultats
+   Les informations sont indisponibles pour cet établissement au regard
+   des bases de données actuelles.
+   {{dimension.nom}}
+   {{dimension.cotation}}
+   {{dimension.nom}}
+   {{dimension.cotation}}
+     * {{indicator.nom}} {{indicator.cotation}} NV NC {{indicator.valeur |
+       number : 0}}{{indicator.unite}} {{indicator.cotation}} Non
+       répondant Non validé Non concerné Données insuffisantes
+
+     * [recommend.svg]
+        {{indicator.valeur| number : 0}}% des patients hospitalisés
+       recommanderaient certainement cet établissement
+
+     * {{indicator.nom}} {{indicator.valeur}} {{indicator.cotation}} NV NC
+       {{indicator.valeur}}{{indicator.unite}} {{indicator.valeur | number
+       : 0}}/100 {{indicator.valeur}} {{indicator.cotation}} Non répondant
+       Non validé Non concerné Données insuffisantes
+
+     * {{indicator.nom}} {{indicator.cotation}} NV NC {{indicator.valeur |
+       number : 0}}{{indicator.unite}} {{indicator.cotation}} Non
+       répondant Non validé Non concerné Données insuffisantes
+
+     * [recommend.svg]
+        {{indicator.valeur| number : 0}}% des patients admis pour une
+       chirurgie ambulatoire recommanderaient certainement cet
+       établissement
+
+   VOIR TOUS LES RÉSULTATS RÉDUIRE
+SÉLECTION & COMPARAISON
+
+   Liste des résultats
+
+Vous n'avez sélectionné aucun établissement. Veuillez sélectionner au moins
+deux établissements pour pouvoir effectuer une comparaison.
+
+Votre sélection ne comporte qu’un seul établissement, veuillez ajouter
+d’autres établissements afin de rendre la comparaison possible.
+
+   Chargement
+   Jump to Navigation
+
+   Accueil
+
+   Qualité des hôpitaux & cliniques
+   Je m'informe, je choisis !
+   [has_logo.png]
+   Partager
+   Mail Google+ Twitter Facebook RSS
+   ____________________
+     * Les établissements (A-Z)
+     * Comment utiliser scope santé ?
+     * Contactez-nous
+
+   COMPARER ()
+   Comparez jusqu'à 4 établissements
+     * - {{ name }}
+
+   Vider la sélection COMPARER MAINTENANT
+   Veuillez sélectionner au moins deux établissements
+   > Toutes les infos
+
+Comment fonctionne Scope Santé ?
+
+   Prochainement, des vidéos sur l'utilisation du site Scope Santé seront
+   disponibles.
+
+
+   D'autres questions sur l'utilisation de Scope Santé ?
+
+   Consultez notre F.A.Q ou la notice d'utilisation du site
+   ou Contactez-nous.
+
+     * Scope Santé de A à Z
+     * À PROPOS
+     * F.A.Q
+     * Documents & outils
+     * Liens utiles
+     * Contactez-nous
+
+     * À propos de Scope Santé :
+     * Mentions légales
+     * CGU
+     * Qui sommes-nous ?
+     * Contactez-nous
+
+     * Un site en partenariat avec
+     * Ministère des affaires sociales et de la santé
+     * ATIH : Agence Technique de l'Information sur l'Hospitalisation
+
+   Donnez votre avis sur ce site
+     * Suivez-nous sur les réseaux sociaux
+     *
+     *
+     *
+     *
+     *
+
+Votre navigateur est obsolète
+
+   Cette application graphique dynamique nécessite pour son bon
+   fonctionnement un navigateur récent, et risque de ne pas fonctionner
+   sur votre navigateur.
+   Les navigateurs supportés sont à minima : Internet explorer 10 /
+   Mozilla Firefox 20 / Google Chrome 26 / Safari 6.
+   Vous pouvez cependant consulter la liste des établissements de santé,
+   pour chaque établissement, un lien vers sa fiche détaillée : Tous les
+   établissements.
+
+   ×
+   {{ placeholder }}
+   ____________________
+     * {{ data.nom }} ({{ count(data.ss) }})
+          + {{ child.nom }}

@@ -1,0 +1,933 @@
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Dynamique non-linéaire et transitions de phase dissipatives dans des réseaux
+de nanocavités couplées
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Ariel LEVENSON [email_small.png]
+   Financement
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 19 avril 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Dynamique non-linéaire et transitions de phase dissipatives dans des réseaux
+de nanocavités couplées
+
+Non-linear dynamics and dissipative phase transitions in nanocavity networks
+
+   Mots clés
+   dynamique non-linéaire, oscillations auto entretenues, nanophotonique,
+   chaos, transitions de phase hors équilibre, réseaux
+   Profil et compétences recherchées
+   Base solide de physique
+   Compétences en optique non linéaire et / ou quantique
+   Compétences en nanophotonique/nanofabrication seront appréciées
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Présentation détaillée du projet doctoral
+   Les démonstrations récentes réalisées dans notre équipe, à savoir la
+   brisure spontanée de symétrie dans deux nanolasers couplés [Nat Photon
+   2015] et la route hors équilibre vers la lumière super-thermique [PRX
+   2018], sont des exemples de la richesse dun champ détudes en expansion:
+   les nanocavités couplées nonlinéaires dissipatives. Le sujet de thèse
+   que l'on propose s'inscrit naturellement dans ce contexte: l'étude de
+   la dynamique non-linéaire en réseaux de nanocavités.
+   Des phénomènes de complexité spatio-temporelle telles les transitions
+   de phase hors équilibre, la cohérence et la synchronisation dans des
+   réseaux de nanolasers operant dans un régime à faible nombre de
+   photons, seront explorés. Lémergence de la synchronisation en fonction
+   des paramètres de couplage pourrait évoluer dans une riche complexité
+   spatio-temporelle, car on peut sattendre à ce que, avant la
+   synchronisation complète (verrouillage de phase), de phases de
+   coexistence de clusters spatiaux cohérents/incohérents dominent la
+   dynamique dans un environnement fortement bruité. De plus, un nouveau
+   type de synchronisation dans des réseaux à nuds ayant peu de photons
+   devrait se manifester sous la forme d'états dits de 'chimera'
+   [CHIMERA].
+   Le doctorant sera amené à concevoir, fabriquer et étudier
+   expérimentalement des réseaux de nanocavités (N>2) à cristal photonique
+   en semi-conducteurs (InP/Si). De tels systèmes nanophotoniques
+   non-linéaires permettent un degré élevé de contrôle des paramètres
+   (facteur de qualité optique, amplitude et signe du couplage, taux de
+   collection des photons, etc.). Ils constituent des briques de base pour
+   une nouvelle classe de réseaux optiques fonctionnant à température
+   ambiante et à bas seuil, ce qui représenterait un progrès majeur dans
+   le domaine de la nanophotonique non-linéaire et des circuits
+   photoniques intégrés.
+   Thématiques Domaine Contexte
+   This PhD project lies in the framework of nanocavity networks as a
+   workbench for the study of dissipative phase transitions, namely an
+   array of coupled nanolasers in order to study the built of spatial
+   coherence.
+   Nanophotonics, nonlinear-dynamics, quantum optics and networks.
+   Objectif et contexte
+   - To measure the first order coherence g(1) between two distant
+   cavities in large arrays of coupled nonlinear nanocavities in order to
+   characterize phase transitions
+   - The demonstration of collective states (synchronization,
+   self-oscillations,...) in (large) arrays of coupled cavities
+   Nonequilibrium phase transitions are among the most exciting topics of
+   non-equilibrium statistical mechanics. They have been studied in a
+   number of different physical systems, from classical to quantum ones.
+   However, as compared to their equilibrium counterparts, much less is
+   known, particularly in terms of the critical behavior in the vicinity
+   of transitions points. In driven dissipative systems, quasi equilibrium
+   is achieved by a dynamical balance of driving and dissipation,
+   replacing the standard equilibrium in statistical mechanics.
+   Méthode
+   - Numerical simulations (FDTD, C, Matlab)
+   - Clean room fabrication
+   - Experimental optical studies: PL spectroscopy, time series
+   measurements (classical detectors), correlations measurements
+   Résultats attendus
+   - Realization of large arrays of coupled nanolasers with high
+   spontaneous emission factor
+   - Demonstration of synchronization and first order coherence in
+   nanolaser arrays
+   Précision sur l'encadrement
+   The PhD will benefit from a daily exchange with the supervisor and the
+   other members of the TONIQ team at C2N. The PhD work will be followed
+   up on a basis of regular meetings and reports.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   The PHD will beneficiate from the clean-room facilities of C2N, as well
+   as a dedicated optical lab.
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Publication in high impact international reviews is expected, as well
+   as presentation at international conferences
+   Collaborations envisag&eacutees
+   The PhD will benefit for ongoing collaborations, one in France for the
+   theoretical quantum aspects, one in Spain concerning network dynamics,
+   two in the US (non-hermitian theoretical aspects and Shaia Fainmann's
+   group in University of San Diego, California) and one in New Zeland
+   about chaotic dynamics.
+   Ouverture Internationale
+   Conferences, summer schools, internships in collaborator's labs
+   Références bibliographiques
+   [Nat Photon 2015] P. Hamel, S. Haddadi, F. Raineri, P. Monnier, G.
+   Beaudoin, I. Sagnes, A. Levenson, and A. M. Yacomotti, Nat Photon 9,
+   311 (2015).
+   [PRX 2018] M. Marconi, J. Javaloyes, P. Hamel, F. Raineri, A. Levenson,
+   and A. M. Yacomotti, Phys. Rev. X 8, 011013 (2018).
+   [CHIMERA] M. Panaggio and D. Abrams, Faculty Publications - Mathematics
+   (2015), 10.1088/0951- 7715/28/3/R67.
+   Keywords
+   non linear dynamics, self oscillations, nanophotonics, chaos,
+   nonequilibrium phase transitions, networks
+   Profile and skills required
+   Good physics background
+   Skills on nonlinear and/or quantum optics
+   Skills on nanophotonics/nanofabrication will be appreciated
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Project description
+   The recent demonstrations of spontaneous symmetry breaking (SSB) [Nat
+   Photon 2015] and the far-from-equilibrium route for superthermal light
+   [PRX 2017] in two coupled nanolasers are examples of the richness of
+   this rapidly growing field of research: nonlinear dissipative coupled
+   nanocavities. This PhD project to be carried out at the Center for
+   Nanoscience and Nanotechnology (C2N) naturally fits into this context:
+   the study of non-linear dynamics and dissipative phase transitions in
+   nanocavity networks. Spatio-temporal complexity phenomena such as
+   non-equilibrium phase transitions, coherence and synchronization in
+   networks of nanolasers operating in a low-photon number regime will be
+   explored. The emergence of synchronization as a function of the
+   coupling parameters might evolve in a rich spatio-temporal complexity,
+   as it can be expected that, prior to complete synchronization (phase
+   locking), the coexistence of coherent/incoherent spatial clusters take
+   over in such a strongly noisy environment. Moreover, such a potentially
+   new kind of synchronization in few photon-node networks can be expected
+   to display so-called chimera states [CHIMERA].
+   The PhD student will be brought to design, fabricate and experimentally
+   study photonic crystal semiconductor (InP/Si) nanocavity networks
+   (N>2). Such nonlinear nanophotonic systems enable a high degree of
+   parameter control (optical quality factor, amplitude and sign of the
+   coupling, photon collection rate, and others). They are promising
+   building blocks for a new class of low threshold optical networks
+   working at room temperature, which would represent a major progress in
+   the field of nonlinear nanophotonics and photonic integrated circuits.
+   References
+   [Nat Photon 2015] P. Hamel, S. Haddadi, F. Raineri, P. Monnier, G.
+   Beaudoin, I. Sagnes, A. Levenson, and A. M. Yacomotti, Nat Photon 9,
+   311 (2015).
+   [PRX 2018] M. Marconi, J. Javaloyes, P. Hamel, F. Raineri, A. Levenson,
+   and A. M. Yacomotti, Phys. Rev. X 8, 011013 (2018).
+   [CHIMERA] M. Panaggio and D. Abrams, Faculty Publications - Mathematics
+   (2015), 10.1088/0951- 7715/28/3/R67.
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 8 mars 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Etats quantiques à triple photons, nouvelle ressource pour l'information
+quantique
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité physique quantique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Kamel BENCHEIKH [email_small.png]
+   Financement
+   Autre concours - Appel à projets - Chinese Scholarship Council
+   Début de la thèse le 1 septembre 2019
+   Date limite de candidature 31 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Etats quantiques à triple photons, nouvelle ressource pour l'information
+quantique
+
+Triple-photon quantum states, a new ressource for quantum information
+
+   Mots clés
+   Optique quantique, Optique nonlinéaire, Information quantique
+   Profil et compétences recherchées
+   Le postulant doit avoir :
+   - des connaissances en optique non-linaire
+   - des connaissances en optique quantique
+   - des compétences en informatique de programmation pour les calculs
+   théorique et pour la communication et l'acquisition expérimentale des
+   mesures.
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Présentation détaillée du projet doctoral
+   Le projet doctoral porte sur la génération de triplets de photons par
+   un processus non-linéaire du troisième ordre, donnant naissance à de
+   nouveaux états quantiques de la lumière, appelés : ETATS TRIPLETS. Ces
+   nouveaux états présentent des intrications quantiques à trois corps et
+   leur statistique va au delà de la statistique gaussienne usuelle des
+   états de lumière habituels comme les états cohérents ou les états
+   comprimés, offrant de nouveaux outils pour explorer et exploiter les
+   fondements de la mécanique quantique. Les états triplets sont obtenus
+   par conversion de fréquence dans un milieu non-linéaire. Un photon
+   pompe y est annihilé, donnant naissance simultanément à un triplet de
+   photons. C'est cette simultanéité qui confère aux triplets des
+   propriétés quantiques inédites.
+   Le projet doctoral concerne létude théorique et expérimentale des états
+   triplets, allant de leur génération à l'étude de leurs propriétés
+   quantiques remarquables. La génération se fera dans un guide KTP
+   (cristal non-linéaire) excité avec un laser pompe émettant à 532 nm.
+   Après la génération, l'étudiant(e) mettra en place le dispositif
+   expérimental pour réaliser létude des propriétés quantiques des états
+   triplets en sinteressant plus particulièrement aux intrications
+   quantiques à trois corps. Une configuration interessante à prospecter
+   est la génération des états triplets en régime de variables continues,
+   régime dans lequel les trois modes contiennent beaucoup de photons et
+   dans lequel on sintéressera aux fluctuations quantiques des champs
+   électromagnétiques associés aux états triplets. En effet, nous avons
+   récemment montré [Rojas et al., Phys. Rev. Lett. 120, 043601 (2018)]
+   quen régime de variables continues les intrications quantiques à trois
+   corps sont fortes et robustes aux pertes optiques lorsque les trois
+   modes sont initialement excités par des champs électromagnétiques. Ces
+   intrications sont dautant plus fortes que les champs dexcitation sont
+   intenses. Cette propriété est inédite et absente dans les systèmes
+   basés sur la génération de photons jumeaux. Par ailleurs, la robustesse
+   aux pertes des intrications permettra de concevoir de nouveaux
+   protocoles pour linformation quantique.
+   Le projet de recherche se déroulera au Centre de Nanosciences et de
+   Nanotechnologies (C2N), Palaiseau sur le campus de Paris-Saclay. Il se
+   fera dans le cadre du projet Franco-Suisse, «Triplets pour
+   l'information quantique: génération, détection, étude et manipulation »
+   (TRIQUI), financé par lAgence Nationale de la Recherche en 2018. Le
+   projet se fera en étroite collaboration avec les équipes de recherche
+   du consortium expertes en optique non-linéaire et en optique quantique.
+   Contexte
+   Objectif et contexte
+   This thesis proposal deals with the generation and the understanding of
+   the quantum properties of three-photon states. We are addressing
+   nonlinear and quantum fundamental issues. The achievement we expect of
+   the proposed goals would open up a new field of investigation with
+   potential interesting impacts for the development of novel optical
+   parametric sources, and quantum devices that could strongly change and
+   improve quantum information protocols.
+   The thesis project concerns three-photon quantum states produced by a
+   third-order nonlinear optical down conversion process. This new pure
+   quantum state of light exhibits statistics going beyond the usual
+   Gaussian statistics. From the fundamental point of view, the direct
+   simultaneous birth of three photons from a single one is indeed at the
+   origin of intrinsic three-body quantum properties such as
+   three-particle Greenberger- Horne-Zeilinger (GHZ) quantum entanglement
+   and Wigner functions presenting quantum interferences and negativities.
+   Furthermore, from the application point of view, the generation of
+   entangled photon pairs heralded by the detection of a third photon can
+   be used in advanced quantum communication protocols like quantum
+   repeaters, qubit amplifiers and (semi-) device independent quantum key
+   distribution.
+   Précision sur l'encadrement
+   Le candidat ou la candidate intégrera une équipe de recherche au C2N
+   ayant une forte expertise dans le domaine de la photonique, l'optique
+   quantique et l'optique non-linéaire, et sera en constante interactivité
+   avec les membres de l'équipe. Il ou elle sera encadré par le directeur
+   de thèse qui consacrera la majeure partie de son temps au projet de
+   recherche ANR TRIQUI (voir la présentation détaillée du projet
+   doctoral) et par consequent à ce projet doctoral. Le candidat ou la
+   candidate bénéficiera par ailleurs des compétences des collaborateurs
+   participants au projet de recherche ANR.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   Le projet doctoral concerne la generation et létude des propriétés
+   quantiques de triplets de photons. La partie experimental du projet
+   nécessite la réalisation dun dispositif afin de générer efficacement
+   les triplets, de collecter les photons et de les detecter. Les moyens
+   scientifiques matériels qui seront dédiés à ce projet existe en grande
+   partie au C2N. La partie manquante sera acquise dans le cadre du projet
+   TRIQUI (Présentation détaillée du projet doctoral) associé.
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Au cours de ce projet doctoral, nous envisageons de valoriser les
+   résultats par des publications scientifiques dans des revues à comité
+   de lecture et par des presentations à des conferences d'optique
+   non-linéaire, quantique ou d'information quantique.
+   Collaborations envisag&eacutees
+   La projet doctoral se fera en collaboration avec les partenaires du
+   consortium du projet de recherche ANR TRIQUI. Il s'agit du groupe de
+   Benoit Boulanger à L'institut Néel à Grenoble, Mathieu Chauvet de
+   FEMTO-ST à Besançon, et Hugo Zbinden du groupe de physique appliquée
+   (GAP), de l'université de Genève.
+   Références bibliographiques
+   E. A. R. González, A. Borne, B. Boulanger, J. A. Levenson, and K.
+   Bencheikh, Phys. Rev. Lett. 120, 043601 (2018).
+   D. Barral, N. Belabas, L. M. Procopio, V. DAuria, S. Tanzilli, K.
+   Bencheikh, and J. A. Levenson, Phys. Rev. A 96, 053822 (2017).
+   A. Borne, T. Katsura, C. Félix, B. Doppagne, P. Segonds, K. Bencheikh,
+   J. A. Levenson, and B. Boulanger, Opt. Lett. 40, 982 (2015).
+   A. Dot, A. Borne, B. Boulanger, K. Bencheikh, and J. A. Levenson, Phys.
+   Rev. A 85, 023809 (2012).
+   K. Bencheikh, S. Richard, G. Mélin, G. Krabshuis, F. Gooijer, and J. A.
+   Levenson, Opt. Lett. 37, 289 (2012).
+   Keywords
+   Quantum optics, Nonlinear optics, Quantum information
+   Profile and skills required
+   The candidate should have :
+   - good skills in quantum nonlinear and quantum optics
+   - good skills in computer programing for numerical calculations and for
+   data acquisition.
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Project description
+   The thesis project concerns the generation of triple photons through a
+   third-order nonlinear interaction producing new quantum states of
+   light, called: THREE-PHOTON STATES. These new states exhibit three-body
+   quantum entanglements and their statistics (Figure 1) go beyond the
+   usual Gaussian statistics of coherent sources and optical parametric
+   twin-photon generators, offering new tools for exploring and exploiting
+   quantum mechanics. Three-photon states are obtained by frequency
+   down-conversion in a nonlinear medium where a pump photon is
+   annihilated giving simultaneously birth to three photons, which confers
+   to the triplets unprecedented quantum properties.
+   The thesis project concerns theoretical and experimental studies of the
+   three-photon states starting form their generation to the
+   investigations of their remarquable quantum properties. The generation
+   of three-photon states will be implemented in a ridge KTP waveguide, a
+   nonlinear crystal commonly used in non-linear optics. To produce
+   three-photon states, the KTP waveguide will be pumped by a coherent
+   laser source emitting at 532 nm. After the generation and its
+   optimisation, the PhD student will built the experimental setup to
+   investigate the quantum properties of the three-photon states and more
+   particularly the three-body quantum entanglements. An interesting
+   configuration to explore is the triple-photon generation in the regime
+   of continuous variables where the three modes contain a large number of
+   photons and where we have to deal with the quantum fluctuations of the
+   fields associated with the three modes. Indeed, we have recently shown
+   [Rojas et al., Phys. Rev. Lett. 120, 043601 (2018)] that in the regime
+   of continuous variables, the three-body quantum entanglements are
+   strong and robust against optical losses when all the three modes are
+   initially seeded by electromagnetic fields. The entanglements get
+   stronger as the seeding intensity is increased. This quantum property
+   is unprecedented and missing in optical systems based on the generation
+   of twin-photons. Moreover, the robustness against losses of the
+   three-body quantum entanglements will open the route towards new
+   protocols for quantum information.
+   The host institution for the thesis project is the Centre for
+   Nanosciences and Nanotechnology (C2N), located at Palaiseau on
+   Paris-Saclay campus. The thesis project will be done in the frame of
+   the French-Swiss project « Triplets for quantum
+   information: generation, detection, study and manipulation» (TRIQUI),
+   granted in 2018 by the French National Agency of Research (ANR). The
+   thesis projet will be done in a tight collaboration with the research
+   groups of the project consortium, all expert in quantum and nonlinear
+   optics.
+   References
+   E. A. R. González, A. Borne, B. Boulanger, J. A. Levenson, and K.
+   Bencheikh, Phys. Rev. Lett. 120, 043601 (2018).
+   D. Barral, N. Belabas, L. M. Procopio, V. DAuria, S. Tanzilli, K.
+   Bencheikh, and J. A. Levenson, Phys. Rev. A 96, 053822 (2017).
+   A. Borne, T. Katsura, C. Félix, B. Doppagne, P. Segonds, K. Bencheikh,
+   J. A. Levenson, and B. Boulanger, Opt. Lett. 40, 982 (2015).
+   A. Dot, A. Borne, B. Boulanger, K. Bencheikh, and J. A. Levenson, Phys.
+   Rev. A 85, 023809 (2012).
+   K. Bencheikh, S. Richard, G. Mélin, G. Krabshuis, F. Gooijer, and J. A.
+   Levenson, Opt. Lett. 37, 289 (2012).
+   Début de la thèse le 1 septembre 2019
+   Dernière mise à jour le 26 février 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Generation of large entangled photon states with semiconductor quantum dots
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité physique quantique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Pascale SENELLART [email_small.png]
+   Financement
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 31 août 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Generation of large entangled photon states with semiconductor quantum dots
+
+Generation of large entangled photon states with semiconductor quantum dots
+
+   Mots clés
+   Single photon sources, spin-photon entanglement, semiconductor quantum
+   dot, microcavities
+   Profil et compétences recherchées
+   We welcome excellent students with solid training in quantum physics
+   and/or optics, with a real taste for experimental studies and team
+   work.
+   Niveau d'anglais requis: Avancé: Vous pouvez parler la langue de
+   manière plus complexe, spontanée et sur des sujets variés.
+   Présentation détaillée du projet doctoral
+   Quantum light is at the heart of many quantum technologies, such a
+   optical quantum computing or quantum communications. Single photons are
+   excellent quantum bits as they show no interaction with the
+   environment, hence no decoherence, and allow to propagate the quantum
+   information over long distances. One of the key resources is states of
+   light where several photons are entangled in one of their degrees of
+   freedom. A special class of such states, the cluster states, are
+   essential to scale up quantum computing.
+   The project of this internship/PhD work is to investigate the
+   generation of photon cluster states using a single semiconductor
+   quantum dot. Quantum dots are artificial atoms that have been shown to
+   generate indistinguishable single photons at the highest rate to date
+   [1,2]. Here, we will exploit an additional degree of freedom, the spin
+   state of a single carrier in the quantum dot, to generate chains of
+   entangled photons.
+   The idea, theoretically proposed in ref [3], is to make use of
+   spin-photon entanglement that results from the optical selection rules.
+   We consider for instance a trion transition in a quantum dot,
+   connecting a hole to a trion state consisting of two holes and an
+   electron. Right (left) handed circular light couples only to up (down)
+   spin ground states, so that if the spin is up, it is only excited and
+   only emits right handed circular polarized light. Starting from a spin
+   superposition |├ ⇑⟩┤+|├ ⇓⟩┤ and exciting with linearly polarized light
+   leads to the generation of an entangled spin-photon state.
+   To entangle several photons, the same optical transition will be
+   excited several times during the coherence time of the spin and each
+   produced photon will be entangled with the same spin. A N-photon
+   entangled state will be obtained upon strong measurement of the spin at
+   the end of the process.
+   Our team has long experience of single photon generation with single
+   quantum dots. Over the years, we have developed a technology that
+   allows generating single photons at the highest rate, with an
+   electrical control of a single quantum dot transition. The objective of
+   the internship will be to develop optical tools to control the state of
+   the spin in these devices. The work will be followed by a PhD project
+   dedicated to the generation of two photon-entangled state at very high
+   rate, progressively moving toward higher photon numbers.
+   Contexte
+   Objectif et contexte
+   The project of this internship/PhD work is to investigate the
+   generation of photon cluster states using a single semiconductor
+   quantum dot. Quantum dots are artificial atoms that have been shown to
+   generate indistinguishable single photons at the highest rate to date
+   [1,2]. Here, we will exploit an additional degree of freedom, the spin
+   state of a single carrier in the quantum dot, to generate chains of
+   entangled photons.
+   Quantum light is at the heart of many quantum technologies, such a
+   optical quantum computing or quantum communications. Single photons are
+   excellent quantum bits as they show no interaction with the
+   environment, hence no decoherence, and allow to propagate the quantum
+   information over long distances. One of the key resources is states of
+   light where several photons are entangled in one of their degrees of
+   freedom. A special class of such states, the cluster states, are
+   essential to scale up quantum computing.
+   Méthode
+   The idea, theoretically proposed in ref [3], is to make use of
+   spin-photon entanglement that results from the optical selection rules.
+   We consider for instance a trion transition in a quantum dot,
+   connecting a hole to a trion state consisting of two holes and an
+   electron. Right (left) handed circular light couples only to up (down)
+   spin ground states, so that if the spin is up, it is only excited and
+   only emits right handed circular polarized light. Starting from a spin
+   superposition |├ ⇑⟩┤+|├ ⇓⟩┤ and exciting with linearly polarized light
+   leads to the generation of an entangled spin-photon state.
+   To entangle several photons, the same optical transition will be
+   excited several times during the coherence time of the spin and each
+   produced photon will be entangled with the same spin. A N-photon
+   entangled state will be obtained upon strong measurement of the spin at
+   the end of the process.
+   Our team has long experience of single photon generation with single
+   quantum dots. Over the years, we have developed a technology that
+   allows generating single photons at the highest rate, with an
+   electrical control of a single quantum dot transition. The objective of
+   the internship will be to develop optical tools to control the state of
+   the spin in these devices. The work will be followed by a PhD project
+   dedicated to the generation of two photon-entangled state at very high
+   rate, progressively moving toward higher photon numbers.
+   Précision sur l'encadrement
+   Encadrement par Pascale Senellart côté expérimental, technologique et
+   théorique. Travail dans une équipe avec en moyenne 2 post-doctorants
+   pour la formation en laboratoire, interaction avec les autres 3-5
+   doctorants de l'équipe sur des sujets complémentaires. Réunion de
+   groupe hebdomadaire, publication régulière, participation aux
+   conférences du domaine dès la première année de thèse
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   The proposed work is mostly experimental, performing quantum optics on
+   single nano-objects. We use all the tools of optical confocal
+   microscopy as well as photon correlations techniques to characterize
+   and control the single photon and the quantum dot states.
+   We are applying for a DGA funding for the PhD fellowship.
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Ce travail de recherche pourra naturellement porter à valorisation, en
+   particulier vers la société Quandela.com
+   Collaborations envisag&eacutees
+   Mete Atature (Cambridge)
+   Sophia Economou ( Virginia Tech - USA)
+   Ouverture Internationale
+   All experimental expertise exists in the group, both on the
+   technological and experimental side to sucessfully lead this project.
+   Moreover, we have many collaborations with theory groups as well as
+   specialists of optical quantum computing.
+   Références bibliographiques
+   [1] Somaschi, Giesz, De Santis, Loredo, P Almeida, Hornecker, Luca
+   Portalupi, Grange, Antón, Demory, Gómez, Sagnes, Lanzillotti-Kimura,
+   Lemaítre, Auffèves, White, Lanco, and Senellart, Near-optimal
+   single-photon sources in the solid state. Nature Photonics 10, 340345
+   (2016).
+   [2] P. Senellart, G. Solomon, A. White, High-performance semiconductor
+   quantum-dot single-photon sources, Nature Nanotechnology 12, 1026
+   (2017)
+   [3] Lindner, N. H. & Rudolph, T. Proposal for Pulsed On-Demand Sources
+   of Photonic Cluster State Strings. Phys. Rev. Lett. 103, 113602 (2009)
+   Complément sur le sujet
+   [pdf.png] PDF
+   Keywords
+   Single photon sources, spin-photon entanglement, semiconductor quantum
+   dot, microcavities
+   Profile and skills required
+   We welcome excellent students with solid training in quantum physics
+   and/or optics, with a real taste for experimental studies and team
+   work.
+   Niveau d'anglais requis: Avancé: Vous pouvez parler la langue de
+   manière plus complexe, spontanée et sur des sujets variés.
+   Project description
+   Quantum light is at the heart of many quantum technologies, such a
+   optical quantum computing or quantum communications. Single photons are
+   excellent quantum bits as they show no interaction with the
+   environment, hence no decoherence, and allow to propagate the quantum
+   information over long distances. One of the key resources is states of
+   light where several photons are entangled in one of their degrees of
+   freedom. A special class of such states, the cluster states, are
+   essential to scale up quantum computing.
+   The project of this internship/PhD work is to investigate the
+   generation of photon cluster states using a single semiconductor
+   quantum dot. Quantum dots are artificial atoms that have been shown to
+   generate indistinguishable single photons at the highest rate to date
+   [1,2]. Here, we will exploit an additional degree of freedom, the spin
+   state of a single carrier in the quantum dot, to generate chains of
+   entangled photons.
+   The idea, theoretically proposed in ref [3], is to make use of
+   spin-photon entanglement that results from the optical selection rules.
+   We consider for instance a trion transition in a quantum dot,
+   connecting a hole to a trion state consisting of two holes and an
+   electron. Right (left) handed circular light couples only to up (down)
+   spin ground states, so that if the spin is up, it is only excited and
+   only emits right handed circular polarized light. Starting from a spin
+   superposition |├ ⇑⟩┤+|├ ⇓⟩┤ and exciting with linearly polarized light
+   leads to the generation of an entangled spin-photon state.
+   To entangle several photons, the same optical transition will be
+   excited several times during the coherence time of the spin and each
+   produced photon will be entangled with the same spin. A N-photon
+   entangled state will be obtained upon strong measurement of the spin at
+   the end of the process.
+   Our team has long experience of single photon generation with single
+   quantum dots. Over the years, we have developed a technology that
+   allows generating single photons at the highest rate, with an
+   electrical control of a single quantum dot transition. The objective of
+   the internship will be to develop optical tools to control the state of
+   the spin in these devices. The work will be followed by a PhD project
+   dedicated to the generation of two photon-entangled state at very high
+   rate, progressively moving toward higher photon numbers.
+   References
+   [1] Somaschi, Giesz, De Santis, Loredo, P Almeida, Hornecker, Luca
+   Portalupi, Grange, Antón, Demory, Gómez, Sagnes, Lanzillotti-Kimura,
+   Lemaítre, Auffèves, White, Lanco, and Senellart, Near-optimal
+   single-photon sources in the solid state. Nature Photonics 10, 340345
+   (2016).
+   [2] P. Senellart, G. Solomon, A. White, High-performance semiconductor
+   quantum-dot single-photon sources, Nature Nanotechnology 12, 1026
+   (2017)
+   [3] Lindner, N. H. & Rudolph, T. Proposal for Pulsed On-Demand Sources
+   of Photonic Cluster State Strings. Phys. Rev. Lett. 103, 113602 (2009)
+   Complement on the subject
+   [pdf.png] PDF
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 12 novembre 2018
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Métasurfaces accordables à symétrie Parité-Temps
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anatole LUPU [email_small.png]   Co-Directeur
+   Abderrahim RAMDANE [email_small.png]
+   Financement
+   du 01-09-2019 au 31-08-2022
+   Autre concours - Appel à projets - Chinese Scholarship Council,
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 septembre 2019
+   Date limite de candidature 4 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Métasurfaces accordables à symétrie Parité-Temps
+
+Active tunable metasurfaces based on Parity-Time symmetry optics
+
+   Mots clés
+   métasurfaces, symétrie Parité-Temps, nanophotonique
+   Profil et compétences recherchées
+   Le candidat doit avoir de bonnes connaissances en physique des
+   dispositifs optoélectroniques et plus particulièrement dans le domaine
+   de métamatériaux et de l'optique quantique.
+   Il / elle doit avoir un goût particulier pour le travail expérimental
+   et l'analyse
+   théorique.
+   La connaissance en programmation et en techniques numériques (Comsol,
+   Matlab) est un plus.
+   Présentation détaillée du projet doctoral
+   Lintérêt généré par les métasurfaces au cours de la dernière décennie
+   est déterminé par la possibilité de générer des changements abrupts de
+   phase sur des épaisseurs de propagation de seulement quelques dizaines
+   de nanomètres. Cela permet de réaliser un contrôle local de la phase,
+   amplitude et polarisation du front donde transmis ou réfléchis.
+   Lobjectif de la thèse est daller plus loin dans cette direction afin de
+   pouvoir contrôler de manière dynamique cette réponse en amplitude et en
+   phase à léchelle dune cellule élémentaire de la métasurface.
+   L'accordabilité dynamique et la reconfigurabilité des métasurfaces
+   pourraient donner lieu à: des communications à haute capacité, une mise
+   en forme dynamique du faisceau, une imagerie hyperspectrale et une
+   optique adaptative. Pour répondre à ce challenge un certain nombre de
+   méthodes ont été étudiées. Ces méthodes sont basées sur le contrôle
+   thermique, mécanique, optique et électrique de la fréquence du
+   nanorésonateur. Cependant l'inconvénient de toutes ces méthodes est que
+   les mécanismes de réglage soient sont trop lents et ne permettent pas
+   d'adresser des cellules unitaires individuelles de la métasurface
+   (contrôle thermique et mécanique), ou bien ont une plage de réglage
+   faible (contrôle électrique).
+   Le but de la thèse est de lever ce verrou en exploitant un nouveau
+   concept, à savoir la symétrie Parité-Temps. Il consiste à explorer un
+   mécanisme de réglage basé sur les technologies de modulation
+   gain-perte. Le schéma de la métasurface à symétrie temporelle-parité
+   est illustré à la Fig. 1. Contrairement aux métasurfaces classiques, le
+   mécanisme de réglage n'est pas basé sur la variation de la fréquence de
+   résonance d'un nanoantenna plasmonique. Elle repose plutôt sur une
+   modulation de la différence des facteurs de qualité de deux
+   nanoantennas couplés en appliquant un gain aux milieux environnants des
+   nanoantennas et / ou des nanoantennas eux-mêmes. Le gain peut être mis
+   en uvre soit en utilisant un substrat en matériau actif, soit en
+   overclad. L'intensité du faisceau de pompage adressant individuellement
+   chaque cellule contrôle le niveau de gain. Lobjectif de la thèse est de
+   réaliser une métasurface accordable fonctionnant dans le domaine de
+   proche infrarouge (1,5µm), permettant un contrôle efficace de la phase
+   et de l'amplitude de l'onde sortante.
+   Contexte
+   Objectif et contexte
+   Theoretical investigation and experimental realization of the first
+   Parity-Time symmeric tunable metasurface
+   Metamaterials, Parity-Time symmetry, nanophotonics
+   Méthode
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu and Dr. Abderrahim Ramdane and will benefit from candidate
+   interaction with other team members. The technological work will be
+   done in close collaboration with clean rooms technical staff
+   Précision sur l'encadrement
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu and Dr. Abderrahim Ramdane and will benefit from candidate
+   interaction with other team members. The technological work will be
+   done in close collaboration with clean rooms technical staff
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   Application for CSC-funded PhD positions
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Publications
+   Références bibliographiques
+   1. A. Lupu, H. Benisty, A. Degiron, Turning losses into a bargain with
+   parity-time symmetry, SPIE Newsroom, 7 August 2015.
+   http://spie.org/newsroom/5984-turning-losses-into-a-bargain-with-parity
+   -time-symmetry?SSO=1
+   2. A. Lupu, H. Benisty, and A. Degiron, Switching using PT symmetry in
+   plasmonic systems: positive role of the losses, Opt. Express 21,
+   21651-21668 (2013).
+   https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-18-21651
+   3. A. Lupu, V. V. Konotop, H. Benisty, Optimal PT -symmetric switch
+   features exceptional point, Scientific reports 7, 13299 (2017).
+   https://www.nature.com/articles/s41598-017-13264-9
+   Keywords
+   metasurfaces, Parity-Time symmetry, nanophotonics
+   Profile and skills required
+   The PhD student will acquire during the thesis skills in
+   opto-electronic devices modeling, in nanotechnology fabrication
+   (electron beam lithography, plasma etch, vapor deposition...), in
+   materials analysis techniques (electron microscopy), in
+   characterization of integrated optics components.The candidate should
+   have good knowledge in physics of opto-electronic devices and more
+   particularly in the field of metamaterials and quantum electronics.
+   He/she should have a particular taste for the experimental work and
+   theoretical analysis.Knowledge in programming and numerical techniques
+   (Comsol, Matlab) is a plus.Level of required English: High
+   Intermediate: You can use the language in a effective way and express
+   you exactly
+   Project description
+   Metasurfaces that control light at subwavelength scales have attracted
+   much attention during the last decade. Planar patterns of nanoantennas
+   have been used to control the phase, amplitude, and polarization of an
+   incident wave in both reflection and transmission modes. Research is
+   shifting now towards achieving tunable, switchable, nonlinear, and
+   sensing functionalities. Undoubtedly, tunability of optical
+   characteristics of metasurfaces (in particular, in spectral domain, in
+   real time and so), switching on/off for the characteristics offers
+   opportunities to develop new generation of active nanooptics devices
+   with innovative functionalities. Dynamical tunability and
+   reconfigurability of metasurfaces could lead to: high-capacity
+   communications, dynamic beam shaping, hyperspectral imaging, and
+   adaptive optics. To hit this target by modifying the spectral response
+   of plasmonic nanoresonators, a number of methods have been
+   investigated. These methods are based on thermal, mechanical, optical,
+   and electrical control. The drawback of the existing methods is that
+   the tuning mechanisms is either too slow and doesnt allow addressing
+   metasurface individual unit cells (thermal and mechanical control), or
+   is having a weak tuning range (electrical control).The goal of PhD
+   thesis is to solve this issue by exploiting a new concept, namely
+   Parity-Time symmetry. It consists in exploring a tuning mechanism based
+   on gain-loss modulation technologies. The sketch of
+   Parity-Time-symmetric metasurface is shown in Fig. 1. In contrast to
+   conventional metasurfaces, the tuning mechanism is not based on the
+   variation of the resonance frequency of a plasmonic nanoantenna.
+   Rather, it relies on modulation of the difference of quality factors of
+   two coupled nanoantennas by applying gain to surrounding media of
+   nanoantennas or/and in nanoantennas themselves. The gain can be
+   implemented either by using an active material substrate or overclad.
+   The intensity of the pump beam individually addressing each unit cell
+   controls the gain level. The targeted breakthrough is realizing a
+   tunable metasurface operating in the NIR telecom domain, allowing an
+   efficient control of the phase and amplitude of the outgoing wave.
+   References
+   1. A. Lupu, H. Benisty, A. Degiron, Turning losses into a bargain with
+   parity-time symmetry, SPIE Newsroom, 7 August 2015.
+   http://spie.org/newsroom/5984-turning-losses-into-a-bargain-with-parity
+   -time-symmetry?SSO=1
+   2. A. Lupu, H. Benisty, and A. Degiron, Switching using PT symmetry in
+   plasmonic systems: positive role of the losses, Opt. Express 21,
+   21651-21668 (2013).
+   https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-18-21651
+   3. A. Lupu, V. V. Konotop, H. Benisty, Optimal PT -symmetric switch
+   features exceptional point, Scientific reports 7, 13299 (2017).
+   https://www.nature.com/articles/s41598-017-13264-9
+   Début de la thèse le 1 septembre 2019
+   Dernière mise à jour le 19 avril 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Retour
+   [ed155.jpg]
+
+Nanolasers couplés en régime quantique
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Ariel LEVENSON [email_small.png]   Co-Encadrant
+   Alejandro GIACOMOTTI [email_small.png]
+   Financement
+   du 01-10-2019 au 01-03-2023
+   Autre concours - Appel à projets - Chinese Scholarship Council
+   Début de la thèse le 1 septembre 2019
+   Date limite de candidature 30 décembre 2018
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Nanolasers couplés en régime quantique
+
+Coupled nanolasers in the quantum regime
+
+   Mots clés
+   Nanolasers, cristaux photoniques, optique quantique
+   Profil et compétences recherchées
+   Connaissance dans au moins deux des domaines suivants:
+   - photonique, optique non-linéaire
+   - physique quantique
+   - nanotechnologie
+   Français ou anglais parlé.
+   Niveau d'anglais requis: Intermédiaire supérieur: Vous pouvez utiliser
+   la langue de manière efficace et vous exprimer précisément.
+   Présentation détaillée du projet doctoral
+   In our group at C2N, we have recently demonstrated spontaneous symmetry
+   breaking (SSB) in a nanophotonic molecule [Nature Photonics 2015].
+   Namely, we have shown a pitchfork bifurcation of the intensity of the
+   lasing mode of two coupled photonic crystal nanocavities. Such a double
+   potential well-system exhibits a transition from a delocalized state to
+   two coexisting states mirror images of each other where photons are
+   localized in each cavity. This was made possible thanks to the
+   particular engineering of the coupling barrier, allowing fine control
+   of both the amplitude and the sign of the evanescent coupling. We
+   furthe explore the photon emission statistics and demonstrated
+   superbunching effects [Physical Review X 2018]. These demonstration
+   were performed with a relatively small number of photons (100).
+   The PhD project plans to lower down the number of photons to enter the
+   quantum regime. This will be achieved by increasing the nanocavities
+   spontaneous emission rate into the laser modes. We plan to investigated
+   different coupled nanolasers topologies and explore facinating
+   nonlinear dynamical regimes in the low photon number - quantum- regime.
+   esign and fabrication of photonic crystal nanolasers to nonlinear
+   dynamics and quantum optics theoretical and experimental recognized
+   achievements.
+   Thématiques Contexte
+   In this PhD we are at the crossing of nanophotonics, semiconductor
+   physics, quantum optics.
+   Objectif et contexte
+   Demonstration of efficient room temperature quantum coupled nanolasers
+   C2N recently move to the Paris-Saclay campus and constitute an unique
+   place to efficiently combine nanotechnology and nonlinear dynamics
+   experiments with quantum information as an ultimate goal.
+   Méthode
+   The PhD will adquire several skills that will open many academic and
+   industrial possibilities for his/her future carreer. This will be
+   achieved with the help of experts on photonic design, nanofabrication
+   in the C2N clean room, photon counting measurements, time resolved
+   nonlinear ynamics measurements.
+   Résultats attendus
+   We expect to develop room-temperature efficient coupled (2, 3, ...N,
+   quantum nanolasers in different geometrical topologies.
+   Précision sur l'encadrement
+   Le doctorant sera co-encadré au quotidien et participera aux activitiés
+   et réunions du groupe TONIQ.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   Le laboratoire a récément démenagé et le candidat bénéficiera d'un
+   environnement complet expérimental et technologique. La thèse
+   bénéficiera des collaborations se déroulant dans le cadre de l'ANR
+   UNIQ.
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   We expect publications in the best international reviews of the field
+   and in general scientific reviews.
+   Collaborations envisag&eacutees
+   Some collaborations are ongoing under the ANR UNIQ project.
+   Références bibliographiques
+   Our recent publications on the subject.
+   1. Spontaneous mirror-symmetry breaking in coupled photonic crystal
+   nanolasers, P. Hamel et al., Nat. Phot. 9, 311 (2015)
+   2. Asymmetric mode scattering in strongly coupled photonic crystal
+   nanolasers, M Marconi et al., Optics Letters 41 (24), 5628 (2016)
+   3. Far-from-Equilibrium Route to Superthermal Light in Bimodal
+   Nanolasers , M. Marconi et al. Phys. Rev. X 8, 011013 (2018)
+   Complément sur le sujet
+   https://toniq.c2n.universite-paris-saclay.fr/en/activities/fewphotons/
+   Keywords
+   Nanolasers, photonic crystals, quantum optics
+   Profile and skills required
+   Skills on at least two of the following fields:
+   - photonics, nonlinear optics.
+   - quantum physics.
+   - nanotechnology
+   Fluent English or French
+   Niveau d'anglais requis: Intermédiaire supérieur: Vous pouvez utiliser
+   la langue de manière efficace et vous exprimer précisément.
+   Project description
+   In our group at C2N, we have recently demonstrated spontaneous symmetry
+   breaking (SSB) in a nanophotonic molecule [Nature Photonics 2015].
+   Namely, we have shown a pitchfork bifurcation of the intensity of the
+   lasing mode of two coupled photonic crystal nanocavities. Such a double
+   potential well-system exhibits a transition from a delocalized state to
+   two coexisting states mirror images of each other where photons are
+   localized in each cavity. This was made possible thanks to the
+   particular engineering of the coupling barrier, allowing fine control
+   of both the amplitude and the sign of the evanescent coupling. We
+   furthe explore the photon emission statistics and demonstrated
+   superbunching effects [Physical Review X 2018]. These demonstration
+   were performed with a relatively small number of photons (100).
+   The PhD project plans to lower down the number of photons to enter the
+   quantum regime. This will be achieved by increasing the nanocavities
+   spontaneous emission rate into the laser modes. We plan to investigated
+   different coupled nanolasers topologies and explore facinating
+   nonlinear dynamical regimes in the low photon number - quantum- regime.
+   This is an emerging feald were our team has interdisciplinary skills,
+   from design and fabrication of photonic crystal nanolasers to nonlinear
+   dynamics and quantum optics theoretical and experimental recognized
+   achievements.
+   References
+   Our recent publications on the subject.
+   1. Spontaneous mirror-symmetry breaking in coupled photonic crystal
+   nanolasers, P. Hamel et al., Nat. Phot. 9, 311 (2015)
+   2. Asymmetric mode scattering in strongly coupled photonic crystal
+   nanolasers, M Marconi et al., Optics Letters 41 (24), 5628 (2016)
+   3. Far-from-Equilibrium Route to Superthermal Light in Bimodal
+   Nanolasers , M. Marconi et al. Phys. Rev. X 8, 011013 (2018)
+   Début de la thèse le 1 septembre 2019
+   Dernière mise à jour le 30 novembre 2018
+   Retour

@@ -1,0 +1,199 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PXQBQ2
+
+   Skip to main content
+
+   Seattle.gov
+   (BUTTON) Menu (BUTTON) Search
+     * (BUTTON)
+     * Services & Information
+     * Departments
+     * Elected Officials
+     * Boards & Commissions
+     * Media Contacts
+     * News
+     * Events
+     * Visiting Seattle
+     *
+
+     * (BUTTON) Close
+     *
+          + Main Menu
+          + Seattle.gov
+          + Services & Information
+               o Making Seattle More Affordable
+               o Animals and Pets
+               o Arts and Culture
+               o Building and Construction
+               o Business and Economic Development
+               o City Administration
+               o City Employment
+               o City Planning and Development
+               o Court Services
+               o Education, Schools and Learning
+               o Environment and Sustainability
+               o Grants and Funding
+               o Housing, Health and Human Services
+               o Neighborhood Services
+               o Parks, Recreation and Attractions
+               o Police, Fire and Public Safety
+               o Streets, Parking and Transportation
+               o Technology
+               o Utilities
+               o Volunteering and Participating
+          + Departments
+          + Elected Officials
+          + Boards & Commissions
+               o Boards and Commissions Meeting Calendar
+          + Media Contacts
+          + Staff Directory
+          + News
+          + Events
+               o Submit Events
+               o Seattle Citywide Event Calendar Policy and Disclaimer
+               o Help with Citywide Event Calendar
+               o Public Outreach and Engagement Event Calendar
+               o Other City Calendars
+          + Visiting Seattle
+               o Points of Interest
+
+   (BUTTON)
+   __________________ (BUTTON)
+
+Home Page
+
+Explore our new web analytics dashboard
+
+New Technology Access and Adoption Survey Results Released
+
+Seattle Traffic: your online resource for the #SeattleSqueeze
+
+Applying design thinking to digital government
+
+City Council Districts
+
+Need Help? Give Us A Call. 206-684-2489(CITY)
+
+   Loading...
+   Today
+
+View the Latest News from the City of Seattle
+
+   news.seattle.gov
+   {{DaysSince(newsItem.PublishDate) }}
+
+{{newsItem.Title.Text | truncateString :100}}
+
+   {{NewsSource(newsItem.Categories)}}
+
+   Loading...
+
+Recent videos from Seattle Channel
+
+{{news.title}}
+
+Contact the Mayor
+
+   Meet the mayor and her Key Staff Members, and learn how to work within
+   her administration
+   Follow us @CityofSeattle/lists/cityofseattletweets
+
+Access Seattle City Employees' Retirement System
+
+   Access is for City of Seattle retirees only.
+   Photo Credit
+   Photo Credit: Photo by Tim Durkan
+
+Elected Officials
+
+Jenny A. Durkan
+
+   Mayor
+
+City Council
+
+Court
+
+   Seattle Municipal
+
+Pete Holmes
+
+   City Attorney
+
+See All Elected Officials
+
+Services
+
+   Affordability
+   Animals and Pets
+   Arts and Culture
+   Building and Construction
+   Business and Economic Development
+   City Administration
+   City Employment
+   City Planning and Development
+   Court Services
+   Education, Schools and Learning
+   Environment and Sustainability
+   Grants and Funding
+   Housing, Health and Human Services
+   Neighborhood Services
+   Parks, Recreation and Attractions
+   Police, Fire and Public Safety
+   Transportation
+   Technology
+   Utilities
+   Volunteering and Participating
+
+   (BUTTON) Services / Information
+     * Affordability
+     * Animals and Pets
+     * Arts and Culture
+     * Building and Construction
+     * Business and Economic Development
+     * City Administration
+     * City Employment
+     * City Planning and Development
+     * Court Services
+     * Education, Schools and Learning
+     * Environment and Sustainability
+     * Grants and Funding
+     * Housing, Health and Human Services
+     * Neighborhood Services
+     * Parks, Recreation and Attractions
+     * Police, Fire and Public Safety
+     * Transportation
+     * Technology
+     * Utilities
+     * Volunteering and Participating
+
+Customer Service
+
+   Address: City Hall, 600 Fourth Ave., Seattle, WA 98104
+   Phone: 206-684-2489
+   Report a Problem
+   Departments
+   City News Feed
+   City Events Calendar
+
+City-Wide Information
+
+     * Departments & Agencies List
+     * Elected Officials
+     * Open Data Portal
+     * Public Information Requests
+     * Services & Information
+
+Top Requests
+
+    1. Pay your utility bill
+    2. Find a City job
+    3. Pay a parking ticket
+    4. Adopt a pet
+    5. Get building permits
+
+   © Copyright 1995-2019 City of Seattle
+
+Policies
+
+   About Our Digital Properties Privacy Policy Notice of Nondiscrimination
+   ADA Notice

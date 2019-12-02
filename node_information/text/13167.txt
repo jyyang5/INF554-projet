@@ -1,0 +1,2712 @@
+User-agent: *
+# Disallow: /
+Disallow: *.pdf
+
+Disallow: /var/
+Disallow: /Media/
+Disallow: /layout/set/print/
+Disallow: /content/view/full/
+Disallow: /content/view/sitemap
+Disallow: /content/view/sitemap/
+Disallow: /content/advancedsearch/
+Disallow: /design/
+Disallow: /extension/
+Disallow: /layout/set/
+
+Sitemap: https://www.gs1.fr/sitemap.xml
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   GS1 logo
+   (BUTTON)
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Université d'été GS1 France
+
+   Inscrivez-vous !
+   rendez-vous de la traçabilité et de la Supply Chain, le 25 juin chez
+   GS1 France
+
+Les Best Practices du E-commerce
+
+   Revisionnez le webinaire
+
+Présentation de CodeOnline Vin & Spiritueux à Vinexpo Bordeaux 2019
+
+   Your browser does not support html5 video.
+    1.
+    2.
+    3.
+
+   GS1 est l’organisation mondiale de standardisation, neutre et à but non
+   lucratif, créée par les entreprises pour faciliter l’échange
+   d’information et le commerce. Avec les standards GS1, les entreprises
+   peuvent mieux vendre et digitaliser leurs produits, automatiser leurs
+   transactions, optimiser leur logistique et améliorer la traçabilité des
+   flux.
+
+   On a tous intérêt à parler le même langage.
+   Scan
+
+Actualités des filières
+
+     * Publication des besoins business sur l’information produit
+     * Fraîchement pré-validée, la fiche-produit RHD doit maintenant être
+       testée !
+     * Vos commentaires concernant la nouvelle version du standard sur les
+       caractéristiques des images produits
+     * GTIN : un outil universel de visibilité des produits sur le web
+
+   En savoir plus
+   Scan
+
+Publications
+
+   Consultez la base documentaire de GS1 France. Plus de 400 publications
+   sont à votre disposition.
+   Retrouvez nos publications
+
+Nos prochaines réunions de travail
+
+   17 septembre2019
+          Groupe de Standardisation Informations Produits
+
+   18 septembre2019
+          Groupe de Standardisation CODIFICATION
+
+   19 septembre2019
+          Comité de Standardisation - Sur invitation uniquement
+
+   Voir toutes les réunions
+
+Nos prochains événements
+
+   30 août2019
+          Université d'été 2019
+
+   24 septembre2019
+          Paris Retail Week 2019
+
+   Voir tous les événements
+   Scan
+
+GS1 Partenaires
+
+   Les partenaires offreurs de solutions sont des fabricants de matériels
+   de marquage et de lecteurs optique, des éditeurs de progiciels, des
+   SSII, des cabinets de conseil, des organismes de formation, etc…
+   intégrant les standards GS1 dans leurs solutions.
+   En savoir plus
+
+Nos prochaines formations
+
+   17 septembre2019
+          Partagez vos données grâce à la fiche produit GDSN
+
+   19 septembre2019
+          Filière santé : les obligations relatives aux dispositifs
+          médicaux (UDI)
+
+   24 septembre2019
+          Tracez vos produits tout au long de leur cycle de vie
+
+   Voir toutes les formations
+   Scan
+
+Vous voulez en savoir plus sur l’utilisation des standards GS1 ?
+
+   Découvrez de quelle manière les standards GS1 offrent une plus grande
+   visibilité à vos produits sur l’ensemble de la supply chain depuis le
+   producteur jusqu’au consommateur.
+   En savoir plus
+
+Je veux un code à barres
+
+   L'obtention des codes à barres nécessite de suivre quatre étapes :
+     * Consultez les tarifs et les CGA
+     * Remplissez le formulaire d'adhésion
+     * Choisissez votre mode de règlement
+     * Créez vos codes à barres
+
+   Obtenir un code à barres
+   Scan
+
+LEI (Legal Entity Identifier)
+
+   Commander un LEI
+   Scan
+
+Mes outils
+
+     * Les simulateurs ROI
+     * Les annuaires
+     * Calcul de clé de contrôle
+     * Règles de codification des GTIN
+     * Services additionnels de codification
+     * Service Client
+
+   En savoir plus
+   Scan
+
+Newsletter
+
+   Vous souhaitez recevoir notre newsletter ? Inscrivez vous vite.
+   S'inscrire
+   Tweets by GS1France
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   Mon espace client
+   GS1 logo
+   (BUTTON)
+   Mon espace client
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou sur votre
+site e-commerce
+
+   Scan
+   Télécharger
+
+Fiches découverte
+
+   Que vous soyez fabricant ou revendeur, que vous vendiez sur les
+   marketplaces ou sur votre site de e-commerce, ce guide vous propose des
+   réponses pratiques à vos questions :
+
+   • Comment bien identifier mes produits grâce aux codes GS1 ?
+   • Qu’est-ce que le code GS1 : GTIN/EAN* ?
+   • Comment obtenir des codes GS1 pour mes produits ?
+   • Comment référencer mes produits sur les sites e-commerce ?
+   • Comment améliorer mon référencement naturel ?
+   • Comment optimiser les expéditions de mes commandes ?
+   • Comment faciliter mes tâches administratives (facturation) ?
+   • …et d’autres conseils pour démarrer la vente en ligne, augmenter vos
+   ventes, réduire vos coûts.
+
+   * EAN est l'ancienne appellation européenne du GTIN
+
+Documents à télécharger
+
+     * Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou
+       votre site de e-commerce | Français (PDF, 1,52 MB)
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+
+   Pour vous offrir la meilleure expérience de navigation possible,
+   assurer le bon fonctionnement et la sécurité de son site, GS1 France
+   utilise des cookies. En cliquant sur 'Accepter', vous consentez à
+   l’utilisation de ces cookies.
+   (BUTTON) Accepter
+   Politique de confidentialité
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   Mon espace client
+   GS1 logo
+   (BUTTON)
+   Mon espace client
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou sur votre
+site e-commerce
+
+   Scan
+   Télécharger
+
+Fiches découverte
+
+   Que vous soyez fabricant ou revendeur, que vous vendiez sur les
+   marketplaces ou sur votre site de e-commerce, ce guide vous propose des
+   réponses pratiques à vos questions :
+
+   • Comment bien identifier mes produits grâce aux codes GS1 ?
+   • Qu’est-ce que le code GS1 : GTIN/EAN* ?
+   • Comment obtenir des codes GS1 pour mes produits ?
+   • Comment référencer mes produits sur les sites e-commerce ?
+   • Comment améliorer mon référencement naturel ?
+   • Comment optimiser les expéditions de mes commandes ?
+   • Comment faciliter mes tâches administratives (facturation) ?
+   • …et d’autres conseils pour démarrer la vente en ligne, augmenter vos
+   ventes, réduire vos coûts.
+
+   * EAN est l'ancienne appellation européenne du GTIN
+
+Documents à télécharger
+
+     * Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou
+       votre site de e-commerce | Français (PDF, 1,52 MB)
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+
+   Pour vous offrir la meilleure expérience de navigation possible,
+   assurer le bon fonctionnement et la sécurité de son site, GS1 France
+   utilise des cookies. En cliquant sur 'Accepter', vous consentez à
+   l’utilisation de ces cookies.
+   (BUTTON) Accepter
+   Politique de confidentialité
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   Mon espace client
+   GS1 logo
+   (BUTTON)
+   Mon espace client
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Université d'été GS1 France
+
+   Inscrivez-vous !
+   rendez-vous de la traçabilité et de la Supply Chain, le 25 juin chez
+   GS1 France
+
+Les Best Practices du E-commerce
+
+   Revisionnez le webinaire
+
+Présentation de CodeOnline Vin & Spiritueux à Vinexpo Bordeaux 2019
+
+   Your browser does not support html5 video.
+    1.
+    2.
+    3.
+
+   GS1 est l’organisation mondiale de standardisation, neutre et à but non
+   lucratif, créée par les entreprises pour faciliter l’échange
+   d’information et le commerce. Avec les standards GS1, les entreprises
+   peuvent mieux vendre et digitaliser leurs produits, automatiser leurs
+   transactions, optimiser leur logistique et améliorer la traçabilité des
+   flux.
+
+   On a tous intérêt à parler le même langage.
+   Scan
+
+Actualités des filières
+
+     * Publication des besoins business sur l’information produit
+     * Fraîchement pré-validée, la fiche-produit RHD doit maintenant être
+       testée !
+     * Vos commentaires concernant la nouvelle version du standard sur les
+       caractéristiques des images produits
+     * GTIN : un outil universel de visibilité des produits sur le web
+
+   En savoir plus
+   Scan
+
+Publications
+
+   Consultez la base documentaire de GS1 France. Plus de 400 publications
+   sont à votre disposition.
+   Retrouvez nos publications
+
+Nos prochaines réunions de travail
+
+   17 septembre2019
+          Groupe de Standardisation Informations Produits
+
+   18 septembre2019
+          Groupe de Standardisation CODIFICATION
+
+   19 septembre2019
+          Comité de Standardisation - Sur invitation uniquement
+
+   Voir toutes les réunions
+
+Nos prochains événements
+
+   30 août2019
+          Université d'été 2019
+
+   24 septembre2019
+          Paris Retail Week 2019
+
+   Voir tous les événements
+   Scan
+
+GS1 Partenaires
+
+   Les partenaires offreurs de solutions sont des fabricants de matériels
+   de marquage et de lecteurs optique, des éditeurs de progiciels, des
+   SSII, des cabinets de conseil, des organismes de formation, etc…
+   intégrant les standards GS1 dans leurs solutions.
+   En savoir plus
+
+Nos prochaines formations
+
+   17 septembre2019
+          Partagez vos données grâce à la fiche produit GDSN
+
+   19 septembre2019
+          Filière santé : les obligations relatives aux dispositifs
+          médicaux (UDI)
+
+   24 septembre2019
+          Tracez vos produits tout au long de leur cycle de vie
+
+   Voir toutes les formations
+   Scan
+
+Vous voulez en savoir plus sur l’utilisation des standards GS1 ?
+
+   Découvrez de quelle manière les standards GS1 offrent une plus grande
+   visibilité à vos produits sur l’ensemble de la supply chain depuis le
+   producteur jusqu’au consommateur.
+   En savoir plus
+
+Je veux un code à barres
+
+   L'obtention des codes à barres nécessite de suivre quatre étapes :
+     * Consultez les tarifs et les CGA
+     * Remplissez le formulaire d'adhésion
+     * Choisissez votre mode de règlement
+     * Créez vos codes à barres
+
+   Obtenir un code à barres
+   Scan
+
+LEI (Legal Entity Identifier)
+
+   Commander un LEI
+   Scan
+
+Mes outils
+
+     * Les simulateurs ROI
+     * Les annuaires
+     * Calcul de clé de contrôle
+     * Règles de codification des GTIN
+     * Services additionnels de codification
+     * Service Client
+
+   En savoir plus
+   Scan
+
+Newsletter
+
+   Vous souhaitez recevoir notre newsletter ? Inscrivez vous vite.
+   S'inscrire
+   Tweets by GS1France
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+
+   Pour vous offrir la meilleure expérience de navigation possible,
+   assurer le bon fonctionnement et la sécurité de son site, GS1 France
+   utilise des cookies. En cliquant sur 'Accepter', vous consentez à
+   l’utilisation de ces cookies.
+   (BUTTON) Accepter
+   Politique de confidentialité
+User-agent: *
+# Disallow: /
+Disallow: *.pdf
+
+Disallow: /var/
+Disallow: /Media/
+Disallow: /layout/set/print/
+Disallow: /content/view/full/
+Disallow: /content/view/sitemap
+Disallow: /content/view/sitemap/
+Disallow: /content/advancedsearch/
+Disallow: /design/
+Disallow: /extension/
+Disallow: /layout/set/
+
+Sitemap: https://www.gs1.fr/sitemap.xml
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   GS1 logo
+   (BUTTON)
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Université d'été GS1 France
+
+   Inscrivez-vous !
+   rendez-vous de la traçabilité et de la Supply Chain, le 25 juin chez
+   GS1 France
+
+Les Best Practices du E-commerce
+
+   Revisionnez le webinaire
+
+Présentation de CodeOnline Vin & Spiritueux à Vinexpo Bordeaux 2019
+
+   Your browser does not support html5 video.
+    1.
+    2.
+    3.
+
+   GS1 est l’organisation mondiale de standardisation, neutre et à but non
+   lucratif, créée par les entreprises pour faciliter l’échange
+   d’information et le commerce. Avec les standards GS1, les entreprises
+   peuvent mieux vendre et digitaliser leurs produits, automatiser leurs
+   transactions, optimiser leur logistique et améliorer la traçabilité des
+   flux.
+
+   On a tous intérêt à parler le même langage.
+   Scan
+
+Actualités des filières
+
+     * Publication des besoins business sur l’information produit
+     * Fraîchement pré-validée, la fiche-produit RHD doit maintenant être
+       testée !
+     * Vos commentaires concernant la nouvelle version du standard sur les
+       caractéristiques des images produits
+     * GTIN : un outil universel de visibilité des produits sur le web
+
+   En savoir plus
+   Scan
+
+Publications
+
+   Consultez la base documentaire de GS1 France. Plus de 400 publications
+   sont à votre disposition.
+   Retrouvez nos publications
+
+Nos prochaines réunions de travail
+
+   17 septembre2019
+          Groupe de Standardisation Informations Produits
+
+   18 septembre2019
+          Groupe de Standardisation CODIFICATION
+
+   19 septembre2019
+          Comité de Standardisation - Sur invitation uniquement
+
+   Voir toutes les réunions
+
+Nos prochains événements
+
+   30 août2019
+          Université d'été 2019
+
+   24 septembre2019
+          Paris Retail Week 2019
+
+   Voir tous les événements
+   Scan
+
+GS1 Partenaires
+
+   Les partenaires offreurs de solutions sont des fabricants de matériels
+   de marquage et de lecteurs optique, des éditeurs de progiciels, des
+   SSII, des cabinets de conseil, des organismes de formation, etc…
+   intégrant les standards GS1 dans leurs solutions.
+   En savoir plus
+
+Nos prochaines formations
+
+   17 septembre2019
+          Partagez vos données grâce à la fiche produit GDSN
+
+   19 septembre2019
+          Filière santé : les obligations relatives aux dispositifs
+          médicaux (UDI)
+
+   24 septembre2019
+          Tracez vos produits tout au long de leur cycle de vie
+
+   Voir toutes les formations
+   Scan
+
+Vous voulez en savoir plus sur l’utilisation des standards GS1 ?
+
+   Découvrez de quelle manière les standards GS1 offrent une plus grande
+   visibilité à vos produits sur l’ensemble de la supply chain depuis le
+   producteur jusqu’au consommateur.
+   En savoir plus
+
+Je veux un code à barres
+
+   L'obtention des codes à barres nécessite de suivre quatre étapes :
+     * Consultez les tarifs et les CGA
+     * Remplissez le formulaire d'adhésion
+     * Choisissez votre mode de règlement
+     * Créez vos codes à barres
+
+   Obtenir un code à barres
+   Scan
+
+LEI (Legal Entity Identifier)
+
+   Commander un LEI
+   Scan
+
+Mes outils
+
+     * Les simulateurs ROI
+     * Les annuaires
+     * Calcul de clé de contrôle
+     * Règles de codification des GTIN
+     * Services additionnels de codification
+     * Service Client
+
+   En savoir plus
+   Scan
+
+Newsletter
+
+   Vous souhaitez recevoir notre newsletter ? Inscrivez vous vite.
+   S'inscrire
+   Tweets by GS1France
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   Mon espace client
+   GS1 logo
+   (BUTTON)
+   Mon espace client
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou sur votre
+site e-commerce
+
+   Scan
+   Télécharger
+
+Fiches découverte
+
+   Que vous soyez fabricant ou revendeur, que vous vendiez sur les
+   marketplaces ou sur votre site de e-commerce, ce guide vous propose des
+   réponses pratiques à vos questions :
+
+   • Comment bien identifier mes produits grâce aux codes GS1 ?
+   • Qu’est-ce que le code GS1 : GTIN/EAN* ?
+   • Comment obtenir des codes GS1 pour mes produits ?
+   • Comment référencer mes produits sur les sites e-commerce ?
+   • Comment améliorer mon référencement naturel ?
+   • Comment optimiser les expéditions de mes commandes ?
+   • Comment faciliter mes tâches administratives (facturation) ?
+   • …et d’autres conseils pour démarrer la vente en ligne, augmenter vos
+   ventes, réduire vos coûts.
+
+   * EAN est l'ancienne appellation européenne du GTIN
+
+Documents à télécharger
+
+     * Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou
+       votre site de e-commerce | Français (PDF, 1,52 MB)
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+
+   Pour vous offrir la meilleure expérience de navigation possible,
+   assurer le bon fonctionnement et la sécurité de son site, GS1 France
+   utilise des cookies. En cliquant sur 'Accepter', vous consentez à
+   l’utilisation de ces cookies.
+   (BUTTON) Accepter
+   Politique de confidentialité
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   Mon espace client
+   GS1 logo
+   (BUTTON)
+   Mon espace client
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou sur votre
+site e-commerce
+
+   Scan
+   Télécharger
+
+Fiches découverte
+
+   Que vous soyez fabricant ou revendeur, que vous vendiez sur les
+   marketplaces ou sur votre site de e-commerce, ce guide vous propose des
+   réponses pratiques à vos questions :
+
+   • Comment bien identifier mes produits grâce aux codes GS1 ?
+   • Qu’est-ce que le code GS1 : GTIN/EAN* ?
+   • Comment obtenir des codes GS1 pour mes produits ?
+   • Comment référencer mes produits sur les sites e-commerce ?
+   • Comment améliorer mon référencement naturel ?
+   • Comment optimiser les expéditions de mes commandes ?
+   • Comment faciliter mes tâches administratives (facturation) ?
+   • …et d’autres conseils pour démarrer la vente en ligne, augmenter vos
+   ventes, réduire vos coûts.
+
+   * EAN est l'ancienne appellation européenne du GTIN
+
+Documents à télécharger
+
+     * Les 7 étapes pour mieux vendre en ligne sur les marketplaces ou
+       votre site de e-commerce | Français (PDF, 1,52 MB)
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+
+   Pour vous offrir la meilleure expérience de navigation possible,
+   assurer le bon fonctionnement et la sécurité de son site, GS1 France
+   utilise des cookies. En cliquant sur 'Accepter', vous consentez à
+   l’utilisation de ces cookies.
+   (BUTTON) Accepter
+   Politique de confidentialité
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRWFXTG
+
+   GS1 logo
+
+Bienvenue chez GS1 France
+The Global Language of Business
+
+   ____________________
+   (BUTTON)
+     * Besoin d'aide
+
+   Mon espace client
+   GS1 logo
+   (BUTTON)
+   Mon espace client
+     * Obtenir un code à barres
+          +
+
+Découvrez le code à barres
+
+Choisissez GS1
+
+Adhérez à GS1
+
+Tarifs et conditions générales
+
+Créez vos codes
+
+Nous contacter
+
+Spécial Market Place
+            Vous vendez sur internet et/ou en magasin ?
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Notre offre
+          +
+
+Produit digitalisé
+               o Offre Produit Digitalisé
+               o Des codes et des barres
+               o Information Produit
+               o Qualité des données
+               o Lutte anti-contrefaçon
+               o Traçabilité
+               o E-Content
+               o Nos services Produit Digitalisé
+               o Nos Communautés d’intérêt
+
+Supply Chain Interconnectée
+               o Offre Supply Chain Interconnectée
+               o Codification
+               o Excellence Logistique & Traçabilité
+               o Excellence Transport
+               o La facture électronique
+               o L'EDI (Echange de données informatisé)
+               o Nouveaux modèles
+               o Nos services Supply Chain Interconnectée
+
+Commerce omnicanal
+               o Offre Commerce Omnicanal
+               o Des codes pour le web
+               o Store Management / RFID
+               o Informations Consommateur (INCO)
+               o Coupon de réduction GS1 DATAMATRIX
+               o Magasin connecté
+               o Nos services Commerce Omnicanal
+
+Le programme Scalechain
+            Le programme Scalechain
+
+Une question sur notre offre ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez votre demande.
+     * Nos filières
+          +
+
+PGC
+
+Parfumerie sélective
+
+Bâtiment & Bricolage
+
+Fiduciaire
+
+Industries techniques
+               o Ferroviaire
+               o Energie
+
+E-commerce
+
+Vin & spiritueux
+
+Jeu & Jouet
+
+Monde Agricole
+
+Textile
+
+Santé
+
+RHD Foodservice
+
+Electroménager
+
+Arts de la Table
+
+Les actualites des filières
+            Retrouvez nos dernières actualités...
+     * ColLABorative Center
+          +
+
+Le LAB
+               o Le LAB
+               o Espace Actualités : Innovation et Partenariats
+               o Pharmacie et Hôpital : La sécurité du patient
+               o Vin et FoodService : l’authenticité
+               o Retail : l'offre GS1
+               o Textile et Parfumerie Sélective : L'expérience client
+
+Vidéos
+
+Communiqués & Dossiers de Presse
+
+Evénements
+               o Agenda des conférences
+               o Archives conférences 2019
+               o Archives conférences 2018
+               o Archives conférences 2017
+
+Newsletters
+
+Autour des standards
+               o Le partage d'information entre entreprise grâce aux
+                 standards GS1
+               o Nouveau groupe règles codification Santé
+               o Travaux internationaux fiche-produit GS1
+
+Publications
+               o Rechercher une publication
+
+Groupe de travail
+            La Participation aux groupes de travail est ouverte à tous les
+            représentants d'entreprises ou d'organisations intéressées par
+            les travaux.
+            Pour accéder à l'agenda des réunions organisées, cliquez ici.
+     * Nos services
+          +
+
+Les Services Essentiels
+               o Services additionnels de codification
+               o Service Client
+               o Règles de codification des GTIN
+               o Calcul de clé de contrôle
+               o Les annuaires
+               o Les simulateurs ROI
+
+GS1 Partenaires
+               o Les offreurs de solutions partenaires
+               o Liste des solutions qualifiées GS1
+               o Trouver un offreur de solution
+               o Les actualités
+
+Les Services Premium
+               o Qualité
+               o Conseil
+               o Formations
+
+Nous contacter
+               o Contact Service Client
+               o FAQ
+
+LEI (Legal Entity Identifier)
+               o LEI (Legal Entity Identifier)
+               o Nos Tarifs
+               o Commander un LEI
+               o Transférer un LEI
+
+Location d'espaces
+               o Présentation
+               o Le colLABorative centre
+               o Les salles "Classiques"
+               o La salle du conseil
+               o Les salles "Smart"
+
+Besoin d'aide ?
+            Contactez notre service client au 01 40 22 18 00 ou
+            envoyez-nous votre demande.
+     * A propos
+          +
+
+Qui sommes-nous ?
+               o Notre mission
+               o Notre activité
+               o La gouvernance
+               o L’organisation GS1 dans le monde
+               o Notre histoire
+
+Organisations partenaires
+               o Partenaires institutionnels
+
+Carrières
+               o Travailler chez GS1 France
+               o Notre ADN
+               o Nos métiers
+               o Témoignages
+               o Nos offres d'emploi
+
+Université d'été GS1 France
+
+   Inscrivez-vous !
+   rendez-vous de la traçabilité et de la Supply Chain, le 25 juin chez
+   GS1 France
+
+Les Best Practices du E-commerce
+
+   Revisionnez le webinaire
+
+Présentation de CodeOnline Vin & Spiritueux à Vinexpo Bordeaux 2019
+
+   Your browser does not support html5 video.
+    1.
+    2.
+    3.
+
+   GS1 est l’organisation mondiale de standardisation, neutre et à but non
+   lucratif, créée par les entreprises pour faciliter l’échange
+   d’information et le commerce. Avec les standards GS1, les entreprises
+   peuvent mieux vendre et digitaliser leurs produits, automatiser leurs
+   transactions, optimiser leur logistique et améliorer la traçabilité des
+   flux.
+
+   On a tous intérêt à parler le même langage.
+   Scan
+
+Actualités des filières
+
+     * Publication des besoins business sur l’information produit
+     * Fraîchement pré-validée, la fiche-produit RHD doit maintenant être
+       testée !
+     * Vos commentaires concernant la nouvelle version du standard sur les
+       caractéristiques des images produits
+     * GTIN : un outil universel de visibilité des produits sur le web
+
+   En savoir plus
+   Scan
+
+Publications
+
+   Consultez la base documentaire de GS1 France. Plus de 400 publications
+   sont à votre disposition.
+   Retrouvez nos publications
+
+Nos prochaines réunions de travail
+
+   17 septembre2019
+          Groupe de Standardisation Informations Produits
+
+   18 septembre2019
+          Groupe de Standardisation CODIFICATION
+
+   19 septembre2019
+          Comité de Standardisation - Sur invitation uniquement
+
+   Voir toutes les réunions
+
+Nos prochains événements
+
+   30 août2019
+          Université d'été 2019
+
+   24 septembre2019
+          Paris Retail Week 2019
+
+   Voir tous les événements
+   Scan
+
+GS1 Partenaires
+
+   Les partenaires offreurs de solutions sont des fabricants de matériels
+   de marquage et de lecteurs optique, des éditeurs de progiciels, des
+   SSII, des cabinets de conseil, des organismes de formation, etc…
+   intégrant les standards GS1 dans leurs solutions.
+   En savoir plus
+
+Nos prochaines formations
+
+   17 septembre2019
+          Partagez vos données grâce à la fiche produit GDSN
+
+   19 septembre2019
+          Filière santé : les obligations relatives aux dispositifs
+          médicaux (UDI)
+
+   24 septembre2019
+          Tracez vos produits tout au long de leur cycle de vie
+
+   Voir toutes les formations
+   Scan
+
+Vous voulez en savoir plus sur l’utilisation des standards GS1 ?
+
+   Découvrez de quelle manière les standards GS1 offrent une plus grande
+   visibilité à vos produits sur l’ensemble de la supply chain depuis le
+   producteur jusqu’au consommateur.
+   En savoir plus
+
+Je veux un code à barres
+
+   L'obtention des codes à barres nécessite de suivre quatre étapes :
+     * Consultez les tarifs et les CGA
+     * Remplissez le formulaire d'adhésion
+     * Choisissez votre mode de règlement
+     * Créez vos codes à barres
+
+   Obtenir un code à barres
+   Scan
+
+LEI (Legal Entity Identifier)
+
+   Commander un LEI
+   Scan
+
+Mes outils
+
+     * Les simulateurs ROI
+     * Les annuaires
+     * Calcul de clé de contrôle
+     * Règles de codification des GTIN
+     * Services additionnels de codification
+     * Service Client
+
+   En savoir plus
+   Scan
+
+Newsletter
+
+   Vous souhaitez recevoir notre newsletter ? Inscrivez vous vite.
+   S'inscrire
+   Tweets by GS1France
+     __________________________________________________________________
+
+Obtenir un code à barres
+
+     * Choisissez GS1
+     * Adhérez à GS1
+     * Calculer ma clé de contrôle
+     * Services additionnels de codification
+
+Notre offre
+
+     * LEI (Legal Entity Identifier)
+     * Produit digitalisé
+     * Supply chain interconnectée
+     * Commerce omnicanal
+     * Les services premium
+
+Nos filières
+
+     * P.G.C.
+     * E-commerce
+     * Santé
+     * Parfumerie sélective
+
+A propos
+
+     * Qui sommes-nous ?
+     * Publications
+     * Evénements
+     * Carrières
+
+Contact
+
+   01 40 22 17 00
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Mentions légales | Politique de Confidentialité | Tarifs et CGA |
+   Contact | Besoin d'aide ? | Glossaire
+   GS1 is a registered trademark of GS1 AISBL. All contents copyright ©
+   GS1 AISBL 2019.
+
+   Pour vous offrir la meilleure expérience de navigation possible,
+   assurer le bon fonctionnement et la sécurité de son site, GS1 France
+   utilise des cookies. En cliquant sur 'Accepter', vous consentez à
+   l’utilisation de ces cookies.
+   (BUTTON) Accepter
+   Politique de confidentialité

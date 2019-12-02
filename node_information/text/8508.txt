@@ -1,0 +1,180 @@
+   Loading...
+   The system can't perform the operation now. Try again later.
+
+Citations per year
+
+Duplicate citations
+
+   The following articles are merged in Scholar. Their combined citations
+   are counted only for the first article.
+
+Merged citations
+
+   This "Cited by" count includes citations to the following articles in
+   Scholar. The ones marked * may be different from the article in the
+   profile.
+
+Add co-authorsCo-authors
+
+   (BUTTON)
+
+   Upload PDF
+   (BUTTON) (BUTTON) (BUTTON) PDF (BUTTON) Restore (BUTTON) Delete Forever
+   (BUTTON)
+
+Follow this author
+
+   New articles by this author
+   New citations to this author
+   New articles related to this author's research
+   Email address for updates
+   ____________________
+   (BUTTON) Done
+   My profileMy libraryMetricsAlerts
+   Settings
+   Sign in
+   __________________________________________________
+   (BUTTON)
+   Sign in
+   ____________________
+   Get my own profile
+
+Cited by (BUTTON) View all
+
+             All  Since 2014
+   Citations 1617 314
+   h-index   18   8
+   i10-index 25   6
+   0
+   90
+   45
+   19891990199119921993199419951996199719981999200020012002200320042005200
+   62007200820092010201120122013201420152016201720182019193840453324363734
+   29232625204483858373758674707990596164514633
+
+Co-authors
+
+     * Giuseppe Castagna Giuseppe CastagnaDirecteur de Recherche CNRS,
+       Université de ParisVerified email at univ-paris-diderot.fr
+     * Évelyne Contejean Évelyne ContejeanChargée de recherche CNRS, LRI,
+       Université Paris-SudVerified email at u-psud.fr
+     * Kim Nguyen Kim NguyenAssistant Professor of Computer Science,
+       Université Paris-Sud, FranceVerified email at lri.fr
+     * Yannis Papakonstantinou Yannis PapakonstantinouUCSDVerified email
+       at eng.ucsd.edu
+     * David Maier David MaierProfessor of Computer Science, Portland
+       State UniversityVerified email at cs.pdx.edu
+     * Benjamin C. Pierce Benjamin C. PierceProfessor of Computer and
+       Information Science, University of PennsylvaniaVerified email at
+       cis.upenn.edu
+     * Stijn Vansummeren Stijn VansummerenProfessor of Computer Science,
+       Université Libre de BruxellesVerified email at ulb.ac.be
+
+   (BUTTON) Follow
+   Véronique Benzaken
+   Véronique Benzaken
+   Université Paris Sud 11
+   Verified email at u-psud.fr - Homepage
+   data centric languages and systemsprogramming languagestype
+   systemsstatic analysisintensive data management system mec
+   ArticlesCited byCo-authors
+   Title Cited by Year
+   ℂDuce: an XML-centric general-purpose language
+   V Benzaken, G Castagna, A Frisch
+   ACM SIGPLAN Notices 38 (9), 51-63, 2003
+   384 2003
+   The design and implementation of O [2], an object-oriented database
+   system
+   F Bancilhon, G Barbedette, V Benzaken, C Delobel, S Gamerman, ...
+   International Workshop on Object-Oriented Database Systems, 1-22, 1988
+   221 1988
+   Semantic subtyping: Dealing set-theoretically with function, union,
+   intersection, and negation types
+   A Frisch, G Castagna, V Benzaken
+   Journal of the ACM (JACM) 55 (4), 19, 2008
+   127 2008
+   Semantic subtyping
+   A Frisch, G Castagna, V Benzaken
+   Proceedings 17th Annual IEEE Symposium on Logic in Computer Science,
+   137-146, 2002
+   102 2002
+   Structured materialized views for XML queries
+   A Arion, V Benzaken, I Manolescu, Y Papakonstantinou
+   Proceedings of the 33rd international conference on Very large data
+   bases, 87-98, 2007
+   92 2007
+   Enhancing Performance in a Persistent Object Store: Clustering
+   Strategies in O_2
+   V Benzaken, C Delobel
+   85 1995
+   Type-based XML projection
+   V Benzaken, G Castagna, D Colazzo, K Nguyên
+   Proceedings of the 32nd international conference on Very large data
+   bases …, 2006
+   65 2006
+   Static and dynamic semantics for NoSQL languages
+   V Benzaken, G Castagna, K Nguyên, J Siméon
+   Proceedings of the 40th annual ACM SIGPLAN International Symposium
+   on …, 2013
+   54 2013
+   Thémis: A database programming language handling integrity constraints
+   V Benzaken, A Doucet
+   The VLDB Journal 4 (3), 493-517, 1995
+   48 1995
+   An evaluation model for clustering strategies in the O2 object-oriented
+   database system
+   V Benzaken
+   ICDT'90, 126-140, 1990
+   36 1990
+   Static integrity constraint management in object-oriented database
+   programming languages via predicate transformers
+   V Benzaken, X Schaefer
+   European Conference on Object-Oriented Programming, 60-84, 1997
+   34 1997
+   XML Access Modules: Towards Physical Data Independence in XML
+   Databases.
+   A Arion, V Benzaken, I Manolescu
+   XIME-P, 2005
+   30 2005
+   Algebra-based identification of tree patterns in XQuery
+   A Arion, V Benzaken, I Manolescu, Y Papakonstantinou, R Vijay
+   International Conference on Flexible Query Answering Systems, 13-25,
+   2006
+   28 2006
+   A Coq Formalization of the Relational Data Model
+   V Benzaken, É Contejean, S Dumbrava
+   ESOP-23rd European Symposium on Programming, 2014
+   25 2014
+   A full pattern-based paradigm for XML query processing
+   V Benzaken, G Castagna, C Miachon
+   International Workshop on Practical Aspects of Declarative Languages,
+   235-252, 2005
+   22* 2005
+   Dynamic clustering strategies in the O2 object-oriented database system
+   V Benzaken, C Delobel
+   4th International Workshop on Persistent Object Systems: Design …, 1990
+   20 1990
+   Clustering strategies in o2: an overview
+   V Benzaken, C Delobel, G Harrus
+   19 1995
+   EdiFlow: data-intensive interactive workflows for visual analytics
+   V Benzaken, JD Fekete, PL Hémery, W Khemiri, I Manolescu
+   2011 IEEE 27th International Conference on Data Engineering, 780-791,
+   2011
+   18 2011
+   Static management of integrity in object-oriented databases: Design and
+   implementation
+   V Benzaken, X Schaefer
+   International Conference on Extending Database Technology, 309-325,
+   1998
+   17 1998
+   Ensuring efficiently the integrity of persistent object systems via
+   abstract interpretation
+   V Benzaken, X Schaefer, LRI Bat
+   Seventh International Workshop on Persistent Object Systems, 72-88,
+   1997
+   17* 1997
+   The system can't perform the operation now. Try again later.
+   Articles 1–20
+   (BUTTON) Show more
+   HelpPrivacyTerms

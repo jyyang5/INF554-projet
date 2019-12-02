@@ -1,0 +1,1059 @@
+schema.org
+
+     * Documentation
+     * Schemas
+     * Home
+
+BusinessEntityType
+
+Thing > Intangible > Enumeration > BusinessEntityType
+
+   A business entity type is a conceptual entity representing the legal
+   form, the size, the main line of business, the position in the value
+   chain, or any combination thereof, of an organization or business
+   person.
+   Commonly used values:
+     * http://purl.org/goodrelations/v1#Business
+     * http://purl.org/goodrelations/v1#Enduser
+     * http://purl.org/goodrelations/v1#PublicInstitution
+     * http://purl.org/goodrelations/v1#Reseller
+
+   [more...]
+   [X]
+     * Canonical URL: http://schema.org/BusinessEntityType
+
+     Leave public feedback on this term 💬
+
+     Check for open issues.
+
+    Acknowledgement
+
+   This class is derived from the GoodRelations Vocabulary for E-Commerce,
+   created by Martin Hepp. GoodRelations is a data model for sharing
+   e-commerce data on the Web that can be expressed in a variety of
+   syntaxes, including RDFa and HTML5 Microdata. More information about
+   GoodRelations can be found at http://purl.org/goodrelations/.
+schema.org
+
+     * Documentation
+     * Schemas
+     * Home
+
+IndividualProduct
+
+Thing > Product > IndividualProduct
+
+   A single, identifiable product instance (e.g. a laptop with a
+   particular serial number).
+   [more...]
+   [X]
+     * Canonical URL: http://schema.org/IndividualProduct
+
+     Leave public feedback on this term 💬
+
+     Check for open issues.
+
+     Property   Expected Type Description
+     Properties from IndividualProduct
+   serialNumber
+
+   Text  The serial number or any alphanumeric identifier of a particular
+   product. When attached to an offer, it is a shortcut for the serial
+   number of the product included in the offer.
+   Properties from Product
+   additionalProperty
+   PropertyValue  A property-value pair representing an additional
+   characteristics of the entitity, e.g. a product feature or another
+   characteristic for which there is no matching property in schema.org.
+   Note: Publishers should be aware that applications designed to use
+   specific schema.org properties (e.g. http://schema.org/width,
+   http://schema.org/color, http://schema.org/gtin13, ...) will typically
+   expect such data to be provided using those properties, rather than
+   using the generic property/value mechanism.
+   aggregateRating
+   AggregateRating  The overall rating, based on a collection of reviews
+   or ratings, of the item.
+   audience
+   Audience  An intended audience, i.e. a group for whom something was
+   created. Supersedes serviceAudience.
+   award
+   Text  An award won by or for this item. Supersedes awards.
+   brand
+   Brand  or
+   Organization  The brand(s) associated with a product or service, or the
+   brand(s) maintained by an organization or business person.
+   category
+   PhysicalActivityCategory  or
+   Text  or
+   Thing  A category for the item. Greater signs or slashes can be used to
+   informally indicate a category hierarchy.
+   color
+   Text  The color of the product.
+   depth
+   Distance  or
+   QuantitativeValue  The depth of the item.
+   gtin
+   Text  A Global Trade Item Number (GTIN). GTINs identify trade items,
+   including products and services, using numeric identification codes.
+   The gtin property generalizes the earlier gtin8, gtin12, gtin13, and
+   gtin14 properties. The GS1 digital link specifications express GTINs as
+   URLs. A correct gtin value should be a valid GTIN, which means that it
+   should be an all-numeric string of either 8, 12, 13 or 14 digits, or a
+   "GS1 Digital Link" URL based on such a string. The numeric component
+   should also have a valid GS1 check digit and meet the other rules for
+   valid GTINs. See also GS1's GTIN Summary and Wikipedia for more
+   details. Left-padding of the gtin values is not required or encouraged.
+   gtin12
+   Text  The GTIN-12 code of the product, or the product to which the
+   offer refers. The GTIN-12 is the 12-digit GS1 Identification Key
+   composed of a U.P.C. Company Prefix, Item Reference, and Check Digit
+   used to identify trade items. See GS1 GTIN Summary for more details.
+   gtin13
+   Text  The GTIN-13 code of the product, or the product to which the
+   offer refers. This is equivalent to 13-digit ISBN codes and EAN UCC-13.
+   Former 12-digit UPC codes can be converted into a GTIN-13 code by
+   simply adding a preceeding zero. See GS1 GTIN Summary for more details.
+   gtin14
+   Text  The GTIN-14 code of the product, or the product to which the
+   offer refers. See GS1 GTIN Summary for more details.
+   gtin8
+   Text  The GTIN-8 code of the product, or the product to which the offer
+   refers. This code is also known as EAN/UCC-8 or 8-digit EAN. See GS1
+   GTIN Summary for more details.
+   hasProductReturnPolicy
+   ProductReturnPolicy  Indicates a ProductReturnPolicy that may be
+   applicable.
+   height
+   Distance  or
+   QuantitativeValue  The height of the item.
+   isAccessoryOrSparePartFor
+   Product  A pointer to another product (or multiple products) for which
+   this product is an accessory or spare part.
+   isConsumableFor
+   Product  A pointer to another product (or multiple products) for which
+   this product is a consumable.
+   isRelatedTo
+   Product  or
+   Service  A pointer to another, somehow related product (or multiple
+   products).
+   isSimilarTo
+   Product  or
+   Service  A pointer to another, functionally similar product (or
+   multiple products).
+   itemCondition
+   OfferItemCondition  A predefined value from OfferItemCondition or a
+   textual description of the condition of the product or service, or the
+   products or services included in the offer.
+   logo
+   ImageObject  or
+   URL  An associated logo.
+   manufacturer
+   Organization  The manufacturer of the product.
+   material
+   Product  or
+   Text  or
+   URL  A material that something is made from, e.g. leather, wool,
+   cotton, paper.
+   model
+   ProductModel  or
+   Text  The model of the product. Use with the URL of a ProductModel or a
+   textual representation of the model identifier. The URL of the
+   ProductModel can be from an external source. It is recommended to
+   additionally provide strong product identifiers via the
+   gtin8/gtin13/gtin14 and mpn properties.
+   mpn
+   Text  The Manufacturer Part Number (MPN) of the product, or the product
+   to which the offer refers.
+   nsn
+   Text  Indicates the NATO stock number (nsn) of a Product.
+   offers
+   Offer  An offer to provide this item—for example, an offer to sell a
+   product, rent the DVD of a movie, perform a service, or give away
+   tickets to an event.
+   productID
+   Text  The product identifier, such as ISBN. For example: meta
+   itemprop="productID" content="isbn:123-456-789".
+   productionDate
+   Date  The date of production of the item, e.g. vehicle.
+   purchaseDate
+   Date  The date the item e.g. vehicle was purchased by the current
+   owner.
+   releaseDate
+   Date  The release date of a product or product model. This can be used
+   to distinguish the exact variant of a product.
+   review
+   Review  A review of the item. Supersedes reviews.
+   sku
+   Text  The Stock Keeping Unit (SKU), i.e. a merchant-specific identifier
+   for a product or service, or the product to which the offer refers.
+   slogan
+   Text  A slogan or motto associated with the item.
+   weight
+   QuantitativeValue  The weight of the product or person.
+   width
+   Distance  or
+   QuantitativeValue  The width of the item.
+   Properties from Thing
+   additionalType
+   URL  An additional type for the item, typically used for adding more
+   specific types from external vocabularies in microdata syntax. This is
+   a relationship between something and a class that the thing is in. In
+   RDFa syntax, it is better to use the native RDFa syntax - the 'typeof'
+   attribute - for multiple types. Schema.org tools may have only weaker
+   understanding of extra types, in particular those defined externally.
+   alternateName
+   Text  An alias for the item.
+   description
+   Text  A description of the item.
+   disambiguatingDescription
+   Text  A sub property of description. A short description of the item
+   used to disambiguate from other, similar items. Information from other
+   properties (in particular, name) may be necessary for the description
+   to be useful for disambiguation.
+   identifier
+   PropertyValue  or
+   Text  or
+   URL  The identifier property represents any kind of identifier for any
+   kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org
+   provides dedicated properties for representing many of these, either as
+   textual strings or as URL (URI) links. See background notes for more
+   details.
+   image
+   ImageObject  or
+   URL  An image of the item. This can be a URL or a fully described
+   ImageObject.
+   mainEntityOfPage
+   CreativeWork  or
+   URL  Indicates a page (or other CreativeWork) for which this thing is
+   the main entity being described. See background notes for details.
+   Inverse property: mainEntity.
+   name
+   Text  The name of the item.
+   potentialAction
+   Action  Indicates a potential Action, which describes an idealized
+   action in which this thing would play an 'object' role.
+   sameAs
+   URL  URL of a reference Web page that unambiguously indicates the
+   item's identity. E.g. the URL of the item's Wikipedia page, Wikidata
+   entry, or official website.
+   subjectOf
+   CreativeWork  or
+   Event  A CreativeWork or Event about this Thing.
+   Inverse property: about.
+   url
+   URL  URL of the item.
+
+    Acknowledgement
+
+   This class is derived from the GoodRelations Vocabulary for E-Commerce,
+   created by Martin Hepp. GoodRelations is a data model for sharing
+   e-commerce data on the Web that can be expressed in a variety of
+   syntaxes, including RDFa and HTML5 Microdata. More information about
+   GoodRelations can be found at http://purl.org/goodrelations/.
+   Examples
+
+   Example 1
+
+   Without Markup Microdata RDFa JSON-LD
+<div>
+ACME Racing Bike in black (2008). ACME Racing Bike, bought 8/2008, almost new, w
+ith
+a signature of Eddy Merckx on the frame.
+</div>
+
+We use the IndividualProduct type when we are concerned with the specific item,
+rather than a set of indistinguishably similar items.
+<div itemscope itemtype="http://schema.org/IndividualProduct" itemid="#product">
+ <link itemprop="additionalType" href="http://www.productontology.org/id/Racing_
+bicycle" />
+ <span itemprop="name">ACME Racing Bike in black (2008)</span>
+ <span itemprop="description">ACME Racing Bike, bought 8/2008, almost new, with
+a signature of
+Eddy Merckx on the frame.</span>
+</div>
+
+We use the IndividualProduct type when we are concerned with the specific item,
+rather than a set of indistinguishably similar items.
+<div  typeof="IndividualProduct" resource="#product">
+ <link property="additionalType" href="http://www.productontology.org/id/Racing_
+bicycle" />
+ <span property="name">ACME Racing Bike in black (2008)</span>
+ <span property="description">ACME Racing Bike, bought 8/2008, almost new, with
+a signature of
+Eddy Merckx on the frame.</span>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "IndividualProduct",
+  "additionalType": "http://www.productontology.org/id/Racing_bicycle",
+  "description": "ACME Racing Bike, bought 8/2008, almost new, with a signature
+of Eddy Merckx on the frame.",
+  "name": "ACME Racing Bike in black (2008)"
+}
+</script>
+schema.org
+
+     * Documentation
+     * Schemas
+     * Home
+
+Permit
+
+Thing > Intangible > Permit
+
+   A permit issued by an organization, e.g. a parking pass.
+   [more...]
+   [X]
+     * Canonical URL: http://schema.org/Permit
+
+     Leave public feedback on this term 💬
+
+     Check for open issues.
+
+   Property Expected Type Description
+        Properties from Permit
+   issuedBy
+
+   Organization  The organization issuing the ticket or permit.
+   issuedThrough
+   Service  The service through with the permit was granted.
+   permitAudience
+   Audience  The target audience for this permit.
+   validFor
+   Duration  The duration of validity of a permit or similar thing.
+   validFrom
+   Date  or
+   DateTime  The date when the item becomes valid.
+   validIn
+   AdministrativeArea  The geographic area where a permit or similar thing
+   is valid.
+   validUntil
+   Date  The date when the item is no longer valid.
+   Properties from Thing
+   additionalType
+   URL  An additional type for the item, typically used for adding more
+   specific types from external vocabularies in microdata syntax. This is
+   a relationship between something and a class that the thing is in. In
+   RDFa syntax, it is better to use the native RDFa syntax - the 'typeof'
+   attribute - for multiple types. Schema.org tools may have only weaker
+   understanding of extra types, in particular those defined externally.
+   alternateName
+   Text  An alias for the item.
+   description
+   Text  A description of the item.
+   disambiguatingDescription
+   Text  A sub property of description. A short description of the item
+   used to disambiguate from other, similar items. Information from other
+   properties (in particular, name) may be necessary for the description
+   to be useful for disambiguation.
+   identifier
+   PropertyValue  or
+   Text  or
+   URL  The identifier property represents any kind of identifier for any
+   kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org
+   provides dedicated properties for representing many of these, either as
+   textual strings or as URL (URI) links. See background notes for more
+   details.
+   image
+   ImageObject  or
+   URL  An image of the item. This can be a URL or a fully described
+   ImageObject.
+   mainEntityOfPage
+   CreativeWork  or
+   URL  Indicates a page (or other CreativeWork) for which this thing is
+   the main entity being described. See background notes for details.
+   Inverse property: mainEntity.
+   name
+   Text  The name of the item.
+   potentialAction
+   Action  Indicates a potential Action, which describes an idealized
+   action in which this thing would play an 'object' role.
+   sameAs
+   URL  URL of a reference Web page that unambiguously indicates the
+   item's identity. E.g. the URL of the item's Wikipedia page, Wikidata
+   entry, or official website.
+   subjectOf
+   CreativeWork  or
+   Event  A CreativeWork or Event about this Thing.
+   Inverse property: about.
+   url
+   URL  URL of the item.
+   More specific Types
+     * GovernmentPermit
+schema.org
+
+     * Documentation
+     * Schemas
+     * Home
+
+WarrantyPromise
+
+Thing > Intangible > StructuredValue > WarrantyPromise
+
+   A structured value representing the duration and scope of services that
+   will be provided to a customer free of charge in case of a defect or
+   malfunction of a product.
+   [more...]
+   [X]
+     * Canonical URL: http://schema.org/WarrantyPromise
+
+     Leave public feedback on this term 💬
+
+     Check for open issues.
+
+        Property      Expected Type Description
+         Properties from WarrantyPromise
+   durationOfWarranty
+
+   QuantitativeValue  The duration of the warranty promise. Common
+   unitCode values are ANN for year, MON for months, or DAY for days.
+   warrantyScope
+   WarrantyScope  The scope of the warranty promise.
+   Properties from Thing
+   additionalType
+   URL  An additional type for the item, typically used for adding more
+   specific types from external vocabularies in microdata syntax. This is
+   a relationship between something and a class that the thing is in. In
+   RDFa syntax, it is better to use the native RDFa syntax - the 'typeof'
+   attribute - for multiple types. Schema.org tools may have only weaker
+   understanding of extra types, in particular those defined externally.
+   alternateName
+   Text  An alias for the item.
+   description
+   Text  A description of the item.
+   disambiguatingDescription
+   Text  A sub property of description. A short description of the item
+   used to disambiguate from other, similar items. Information from other
+   properties (in particular, name) may be necessary for the description
+   to be useful for disambiguation.
+   identifier
+   PropertyValue  or
+   Text  or
+   URL  The identifier property represents any kind of identifier for any
+   kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org
+   provides dedicated properties for representing many of these, either as
+   textual strings or as URL (URI) links. See background notes for more
+   details.
+   image
+   ImageObject  or
+   URL  An image of the item. This can be a URL or a fully described
+   ImageObject.
+   mainEntityOfPage
+   CreativeWork  or
+   URL  Indicates a page (or other CreativeWork) for which this thing is
+   the main entity being described. See background notes for details.
+   Inverse property: mainEntity.
+   name
+   Text  The name of the item.
+   potentialAction
+   Action  Indicates a potential Action, which describes an idealized
+   action in which this thing would play an 'object' role.
+   sameAs
+   URL  URL of a reference Web page that unambiguously indicates the
+   item's identity. E.g. the URL of the item's Wikipedia page, Wikidata
+   entry, or official website.
+   subjectOf
+   CreativeWork  or
+   Event  A CreativeWork or Event about this Thing.
+   Inverse property: about.
+   url
+   URL  URL of the item.
+
+   Instances of WarrantyPromise may appear as values for the following
+   properties
+
+   Property On Types Description
+   warranty Demand  or
+   Offer  The warranty promise(s) included in the offer. Supersedes,
+   warrantyPromise.
+
+    Acknowledgement
+
+   This class is derived from the GoodRelations Vocabulary for E-Commerce,
+   created by Martin Hepp. GoodRelations is a data model for sharing
+   e-commerce data on the Web that can be expressed in a variety of
+   syntaxes, including RDFa and HTML5 Microdata. More information about
+   GoodRelations can be found at http://purl.org/goodrelations/.
+schema.org
+
+     * Documentation
+     * Schemas
+     * Home
+
+SoftwareApplication
+
+Thing > CreativeWork > SoftwareApplication
+
+   A software application.
+   [more...]
+   [X]
+     * Canonical URL: http://schema.org/SoftwareApplication
+
+     Leave public feedback on this term 💬
+
+     Check for open issues.
+
+         Property      Expected Type Description
+       Properties from SoftwareApplication
+   applicationCategory
+
+   Text  or
+   URL  Type of software application, e.g. 'Game, Multimedia'.
+   applicationSubCategory
+   Text  or
+   URL  Subcategory of the application, e.g. 'Arcade Game'.
+   applicationSuite
+   Text  The name of the application suite to which the application
+   belongs (e.g. Excel belongs to Office).
+   availableOnDevice
+   Text  Device required to run the application. Used in cases where a
+   specific make/model is required to run the application. Supersedes
+   device.
+   countriesNotSupported
+   Text  Countries for which the application is not supported. You can
+   also provide the two-letter ISO 3166-1 alpha-2 country code.
+   countriesSupported
+   Text  Countries for which the application is supported. You can also
+   provide the two-letter ISO 3166-1 alpha-2 country code.
+   downloadUrl
+   URL  If the file can be downloaded, URL to download the binary.
+   featureList
+   Text  or
+   URL  Features or modules provided by this application (and possibly
+   required by other applications).
+   fileSize
+   Text  Size of the application / package (e.g. 18MB). In the absence of
+   a unit (MB, KB etc.), KB will be assumed.
+   installUrl
+   URL  URL at which the app may be installed, if different from the URL
+   of the item.
+   memoryRequirements
+   Text  or
+   URL  Minimum memory requirements.
+   operatingSystem
+   Text  Operating systems supported (Windows 7, OSX 10.6, Android 1.6).
+   permissions
+   Text  Permission(s) required to run the app (for example, a mobile app
+   may require full internet access or may run only on wifi).
+   processorRequirements
+   Text  Processor architecture required to run the application (e.g.
+   IA64).
+   releaseNotes
+   Text  or
+   URL  Description of what changed in this version.
+   screenshot
+   ImageObject  or
+   URL  A link to a screenshot image of the app.
+   softwareAddOn
+   SoftwareApplication  Additional content for a software application.
+   softwareHelp
+   CreativeWork  Software application help.
+   softwareRequirements
+   Text  or
+   URL  Component dependency requirements for application. This includes
+   runtime environments and shared libraries that are not included in the
+   application distribution package, but required to run the application
+   (Examples: DirectX, Java or .NET runtime). Supersedes requirements.
+   softwareVersion
+   Text  Version of the software instance.
+   storageRequirements
+   Text  or
+   URL  Storage requirements (free space required).
+   supportingData
+   DataFeed  Supporting data for a SoftwareApplication.
+   Properties from CreativeWork
+   about
+   Thing  The subject matter of the content.
+   Inverse property: subjectOf.
+   accessMode
+   Text  The human sensory perceptual system or cognitive faculty through
+   which a person may process or perceive information. Expected values
+   include: auditory, tactile, textual, visual, colorDependent,
+   chartOnVisual, chemOnVisual, diagramOnVisual, mathOnVisual,
+   musicOnVisual, textOnVisual.
+   accessModeSufficient
+   ItemList  A list of single or combined accessModes that are sufficient
+   to understand all the intellectual content of a resource. Expected
+   values include: auditory, tactile, textual, visual.
+   accessibilityAPI
+   Text  Indicates that the resource is compatible with the referenced
+   accessibility API (WebSchemas wiki lists possible values).
+   accessibilityControl
+   Text  Identifies input methods that are sufficient to fully control the
+   described resource (WebSchemas wiki lists possible values).
+   accessibilityFeature
+   Text  Content features of the resource, such as accessible media,
+   alternatives and supported enhancements for accessibility (WebSchemas
+   wiki lists possible values).
+   accessibilityHazard
+   Text  A characteristic of the described resource that is
+   physiologically dangerous to some users. Related to WCAG 2.0 guideline
+   2.3 (WebSchemas wiki lists possible values).
+   accessibilitySummary
+   Text  A human-readable summary of specific accessibility features or
+   deficiencies, consistent with the other accessibility metadata but
+   expressing subtleties such as "short descriptions are present but long
+   descriptions will be needed for non-visual users" or "short
+   descriptions are present and no long descriptions are needed."
+   accountablePerson
+   Person  Specifies the Person that is legally accountable for the
+   CreativeWork.
+   aggregateRating
+   AggregateRating  The overall rating, based on a collection of reviews
+   or ratings, of the item.
+   alternativeHeadline
+   Text  A secondary title of the CreativeWork.
+   associatedMedia
+   MediaObject  A media object that encodes this CreativeWork. This
+   property is a synonym for encoding.
+   audience
+   Audience  An intended audience, i.e. a group for whom something was
+   created. Supersedes serviceAudience.
+   audio
+   AudioObject  or
+   Clip  An embedded audio object.
+   author
+   Organization  or
+   Person  The author of this content or rating. Please note that author
+   is special in that HTML 5 provides a special mechanism for indicating
+   authorship via the rel tag. That is equivalent to this and may be used
+   interchangeably.
+   award
+   Text  An award won by or for this item. Supersedes awards.
+   character
+   Person  Fictional person connected with a creative work.
+   citation
+   CreativeWork  or
+   Text  A citation or reference to another creative work, such as another
+   publication, web page, scholarly article, etc.
+   comment
+   Comment  Comments, typically from users.
+   commentCount
+   Integer  The number of comments this CreativeWork (e.g. Article,
+   Question or Answer) has received. This is most applicable to works
+   published in Web sites with commenting system; additional comments may
+   exist elsewhere.
+   conditionsOfAccess
+   Text  Conditions that affect the availability of, or method(s) of
+   access to, an item. Typically used for real world items such as an
+   ArchiveComponent held by an ArchiveOrganization. This property is not
+   suitable for use as a general Web access control mechanism. It is
+   expressed only in natural language.
+   For example "Available by appointment from the Reading Room" or
+   "Accessible only from logged-in accounts ".
+   contentLocation
+   Place  The location depicted or described in the content. For example,
+   the location in a photograph or painting.
+   contentRating
+   Rating  or
+   Text  Official rating of a piece of content—for example,'MPAA PG-13'.
+   contentReferenceTime
+   DateTime  The specific time described by a creative work, for works
+   (e.g. articles, video objects etc.) that emphasise a particular moment
+   within an Event.
+   contributor
+   Organization  or
+   Person  A secondary contributor to the CreativeWork or Event.
+   copyrightHolder
+   Organization  or
+   Person  The party holding the legal copyright to the CreativeWork.
+   copyrightYear
+   Number  The year during which the claimed copyright for the
+   CreativeWork was first asserted.
+   correction
+   CorrectionComment  or
+   Text  or
+   URL  Indicates a correction to a CreativeWork, either via a
+   CorrectionComment, textually or in another document.
+   creativeWorkStatus
+   DefinedTerm  or
+   Text  The status of a creative work in terms of its stage in a
+   lifecycle. Example terms include Incomplete, Draft, Published,
+   Obsolete. Some organizations define a set of terms for the stages of
+   their publication lifecycle.
+   creator
+   Organization  or
+   Person  The creator/author of this CreativeWork. This is the same as
+   the Author property for CreativeWork.
+   dateCreated
+   Date  or
+   DateTime  The date on which the CreativeWork was created or the item
+   was added to a DataFeed.
+   dateModified
+   Date  or
+   DateTime  The date on which the CreativeWork was most recently modified
+   or when the item's entry was modified within a DataFeed.
+   datePublished
+   Date  Date of first broadcast/publication.
+   discussionUrl
+   URL  A link to the page containing the comments of the CreativeWork.
+   editor
+   Person  Specifies the Person who edited the CreativeWork.
+   educationalAlignment
+   AlignmentObject  An alignment to an established educational framework.
+   educationalUse
+   Text  The purpose of a work in the context of education; for example,
+   'assignment', 'group work'.
+   encoding
+   MediaObject  A media object that encodes this CreativeWork. This
+   property is a synonym for associatedMedia. Supersedes encodings.
+   Inverse property: encodesCreativeWork.
+   encodingFormat
+   Text  or
+   URL  Media type typically expressed using a MIME format (see IANA site
+   and MDN reference) e.g. application/zip for a SoftwareApplication
+   binary, audio/mpeg for .mp3 etc.).
+   In cases where a CreativeWork has several media type representations,
+   encoding can be used to indicate each MediaObject alongside particular
+   encodingFormat information.
+   Unregistered or niche encoding and file formats can be indicated
+   instead via the most appropriate URL, e.g. defining Web page or a
+   Wikipedia/Wikidata entry. Supersedes fileFormat.
+   exampleOfWork
+   CreativeWork  A creative work that this work is an
+   example/instance/realization/derivation of.
+   Inverse property: workExample.
+   expires
+   Date  Date the content expires and is no longer useful or available.
+   For example a VideoObject or NewsArticle whose availability or
+   relevance is time-limited, or a ClaimReview fact check whose publisher
+   wants to indicate that it may no longer be relevant (or helpful to
+   highlight) after some date.
+   funder
+   Organization  or
+   Person  A person or organization that supports (sponsors) something
+   through some kind of financial contribution.
+   genre
+   Text  or
+   URL  Genre of the creative work, broadcast channel or group.
+   hasPart
+   CreativeWork  Indicates an item or CreativeWork that is part of this
+   item, or CreativeWork (in some sense).
+   Inverse property: isPartOf.
+   headline
+   Text  Headline of the article.
+   inLanguage
+   Language  or
+   Text  The language of the content or performance or used in an action.
+   Please use one of the language codes from the IETF BCP 47 standard. See
+   also availableLanguage. Supersedes language.
+   interactionStatistic
+   InteractionCounter  The number of interactions for the CreativeWork
+   using the WebSite or SoftwareApplication. The most specific child type
+   of InteractionCounter should be used. Supersedes interactionCount.
+   interactivityType
+   Text  The predominant mode of learning supported by the learning
+   resource. Acceptable values are 'active', 'expositive', or 'mixed'.
+   isAccessibleForFree
+   Boolean  A flag to signal that the item, event, or place is accessible
+   for free. Supersedes free.
+   isBasedOn
+   CreativeWork  or
+   Product  or
+   URL  A resource from which this work is derived or from which it is a
+   modification or adaption. Supersedes isBasedOnUrl.
+   isFamilyFriendly
+   Boolean  Indicates whether this content is family friendly.
+   isPartOf
+   CreativeWork  Indicates an item or CreativeWork that this item, or
+   CreativeWork (in some sense), is part of.
+   Inverse property: hasPart.
+   keywords
+   Text  Keywords or tags used to describe this content. Multiple entries
+   in a keywords list are typically delimited by commas.
+   learningResourceType
+   Text  The predominant type or kind characterizing the learning
+   resource. For example, 'presentation', 'handout'.
+   license
+   CreativeWork  or
+   URL  A license document that applies to this content, typically
+   indicated by URL.
+   locationCreated
+   Place  The location where the CreativeWork was created, which may not
+   be the same as the location depicted in the CreativeWork.
+   mainEntity
+   Thing  Indicates the primary entity described in some page or other
+   CreativeWork.
+   Inverse property: mainEntityOfPage.
+   material
+   Product  or
+   Text  or
+   URL  A material that something is made from, e.g. leather, wool,
+   cotton, paper.
+   materialExtent
+   QuantitativeValue  or
+   Text  The quantity of the materials being described or an expression of
+   the physical space they occupy.
+   mentions
+   Thing  Indicates that the CreativeWork contains a reference to, but is
+   not necessarily about a concept.
+   offers
+   Offer  An offer to provide this item—for example, an offer to sell a
+   product, rent the DVD of a movie, perform a service, or give away
+   tickets to an event.
+   position
+   Integer  or
+   Text  The position of an item in a series or sequence of items.
+   producer
+   Organization  or
+   Person  The person or organization who produced the work (e.g. music
+   album, movie, tv/radio series etc.).
+   provider
+   Organization  or
+   Person  The service provider, service operator, or service performer;
+   the goods producer. Another party (a seller) may offer those services
+   or goods on behalf of the provider. A provider may also serve as the
+   seller. Supersedes carrier.
+   publication
+   PublicationEvent  A publication event associated with the item.
+   publisher
+   Organization  or
+   Person  The publisher of the creative work.
+   publisherImprint
+   Organization  The publishing division which published the comic.
+   publishingPrinciples
+   CreativeWork  or
+   URL  The publishingPrinciples property indicates (typically via URL) a
+   document describing the editorial principles of an Organization (or
+   individual e.g. a Person writing a blog) that relate to their
+   activities as a publisher, e.g. ethics or diversity policies. When
+   applied to a CreativeWork (e.g. NewsArticle) the principles are those
+   of the party primarily responsible for the creation of the
+   CreativeWork.
+   While such policies are most typically expressed in natural language,
+   sometimes related information (e.g. indicating a funder) can be
+   expressed using schema.org terminology.
+   recordedAt
+   Event  The Event where the CreativeWork was recorded. The CreativeWork
+   may capture all or part of the event.
+   Inverse property: recordedIn.
+   releasedEvent
+   PublicationEvent  The place and time the release was issued, expressed
+   as a PublicationEvent.
+   review
+   Review  A review of the item. Supersedes reviews.
+   schemaVersion
+   Text  or
+   URL  Indicates (by URL or string) a particular version of a schema used
+   in some CreativeWork. For example, a document could declare a
+   schemaVersion using an URL such as http://schema.org/version/2.0/ if
+   precise indication of schema version was required by some application.
+   sdDatePublished
+   Date  Indicates the date on which the current structured data was
+   generated / published. Typically used alongside sdPublisher
+   sdLicense
+   CreativeWork  or
+   URL  A license document that applies to this structured data, typically
+   indicated by URL.
+   sdPublisher
+   Organization  or
+   Person  Indicates the party responsible for generating and publishing
+   the current structured data markup, typically in cases where the
+   structured data is derived automatically from existing published
+   content but published on a different site. For example, student
+   projects and open data initiatives often re-publish existing content
+   with more explicitly structured metadata. The sdPublisher property
+   helps make such practices more explicit.
+   sourceOrganization
+   Organization  The Organization on whose behalf the creator was working.
+   spatial
+   Place  The "spatial" property can be used in cases when more specific
+   properties (e.g. locationCreated, spatialCoverage, contentLocation) are
+   not known to be appropriate.
+   spatialCoverage
+   Place  The spatialCoverage of a CreativeWork indicates the place(s)
+   which are the focus of the content. It is a subproperty of
+   contentLocation intended primarily for more technical and detailed
+   materials. For example with a Dataset, it indicates areas that the
+   dataset describes: a dataset of New York weather would have
+   spatialCoverage which was the place: the state of New York.
+   sponsor
+   Organization  or
+   Person  A person or organization that supports a thing through a
+   pledge, promise, or financial contribution. e.g. a sponsor of a Medical
+   Study or a corporate sponsor of an event.
+   temporal
+   DateTime  or
+   Text  The "temporal" property can be used in cases where more specific
+   properties (e.g. temporalCoverage, dateCreated, dateModified,
+   datePublished) are not known to be appropriate.
+   temporalCoverage
+   DateTime  or
+   Text  or
+   URL  The temporalCoverage of a CreativeWork indicates the period that
+   the content applies to, i.e. that it describes, either as a DateTime or
+   as a textual string indicating a time period in ISO 8601 time interval
+   format. In the case of a Dataset it will typically indicate the
+   relevant time period in a precise notation (e.g. for a 2011 census
+   dataset, the year 2011 would be written "2011/2012"). Other forms of
+   content e.g. ScholarlyArticle, Book, TVSeries or TVEpisode may indicate
+   their temporalCoverage in broader terms - textually or via well-known
+   URL. Written works such as books may sometimes have precise temporal
+   coverage too, e.g. a work set in 1939 - 1945 can be indicated in ISO
+   8601 interval format format via "1939/1945".
+   Open-ended date ranges can be written with ".." in place of the end
+   date. For example, "2015-11/.." indicates a range beginning in November
+   2015 and with no specified final date. This is tentative and might be
+   updated in future when ISO 8601 is officially updated. Supersedes
+   datasetTimeInterval.
+   text
+   Text  The textual content of this CreativeWork.
+   thumbnailUrl
+   URL  A thumbnail image relevant to the Thing.
+   timeRequired
+   Duration  Approximate or typical time it takes to work with or through
+   this learning resource for the typical intended target audience, e.g.
+   'PT30M', 'PT1H25M'.
+   translationOfWork
+   CreativeWork  The work that this work has been translated from. e.g.
+   物种起源 is a translationOf “On the Origin of Species”
+   Inverse property: workTranslation.
+   translator
+   Organization  or
+   Person  Organization or person who adapts a creative work to different
+   languages, regional differences and technical requirements of a target
+   market, or that translates during some event.
+   typicalAgeRange
+   Text  The typical expected age range, e.g. '7-9', '11-'.
+   version
+   Number  or
+   Text  The version of the CreativeWork embodied by a specified resource.
+   video
+   Clip  or
+   VideoObject  An embedded video object.
+   workExample
+   CreativeWork  Example/instance/realization/derivation of the concept of
+   this creative work. eg. The paperback edition, first edition, or eBook.
+   Inverse property: exampleOfWork.
+   workTranslation
+   CreativeWork  A work that is a translation of the content of this work.
+   e.g. 西遊記 has an English workTranslation “Journey to the West”,a German
+   workTranslation “Monkeys Pilgerfahrt” and a Vietnamese translation Tây
+   du ký bình khảo.
+   Inverse property: translationOfWork.
+   Properties from Thing
+   additionalType
+   URL  An additional type for the item, typically used for adding more
+   specific types from external vocabularies in microdata syntax. This is
+   a relationship between something and a class that the thing is in. In
+   RDFa syntax, it is better to use the native RDFa syntax - the 'typeof'
+   attribute - for multiple types. Schema.org tools may have only weaker
+   understanding of extra types, in particular those defined externally.
+   alternateName
+   Text  An alias for the item.
+   description
+   Text  A description of the item.
+   disambiguatingDescription
+   Text  A sub property of description. A short description of the item
+   used to disambiguate from other, similar items. Information from other
+   properties (in particular, name) may be necessary for the description
+   to be useful for disambiguation.
+   identifier
+   PropertyValue  or
+   Text  or
+   URL  The identifier property represents any kind of identifier for any
+   kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org
+   provides dedicated properties for representing many of these, either as
+   textual strings or as URL (URI) links. See background notes for more
+   details.
+   image
+   ImageObject  or
+   URL  An image of the item. This can be a URL or a fully described
+   ImageObject.
+   mainEntityOfPage
+   CreativeWork  or
+   URL  Indicates a page (or other CreativeWork) for which this thing is
+   the main entity being described. See background notes for details.
+   Inverse property: mainEntity.
+   name
+   Text  The name of the item.
+   potentialAction
+   Action  Indicates a potential Action, which describes an idealized
+   action in which this thing would play an 'object' role.
+   sameAs
+   URL  URL of a reference Web page that unambiguously indicates the
+   item's identity. E.g. the URL of the item's Wikipedia page, Wikidata
+   entry, or official website.
+   subjectOf
+   CreativeWork  or
+   Event  A CreativeWork or Event about this Thing.
+   Inverse property: about.
+   url
+   URL  URL of the item.
+
+   Instances of SoftwareApplication may appear as values for the following
+   properties
+
+   Property On Types Description
+   actionApplication EntryPoint  An application that can complete the
+   request. Supersedes, application.
+   interactionService InteractionCounter  The WebSite or
+   SoftwareApplication where the interactions took place.
+   softwareAddOn SoftwareApplication  Additional content for a software
+   application.
+   targetProduct SoftwareSourceCode  Target Operating System / Product to
+   which the code applies. If applies to several versions, just the
+   product name can be used.
+
+   More specific Types
+     * MobileApplication
+     * VideoGame
+     * WebApplication
+
+   Examples
+
+   Example 1
+
+   Without Markup Microdata RDFa JSON-LD
+A Restaurant named "Tartine Bakery" with a ViewAction as a
+potentialAction, with several target endpoints including
+the simple url http://example.com/player?id=123 and
+full EntryPoint descriptions for Windows and iOS SoftwareApplication
+apps.
+
+This example is JSON only.
+
+This example is JSON only.
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Restaurant",
+  "name": "Tartine Bakery",
+  "potentialAction": {
+    "@type": "ViewAction",
+    "target": [
+      "http://www.urbanspoon.com/r/6/92204",
+      {
+        "@type": "EntryPoint",
+        "urlTemplate": "http://api.urbanspoon.com/r/6/92204",
+        "contentType": "application/json+ld"
+      },
+      "android-app://com.urbanspoon/http/www.urbanspoon.com/r/6/92204",
+      {
+        "@type": "EntryPoint",
+        "urlTemplate": "urbanspoon://r/6/92204",
+        "actionApplication": {
+          "@type": "SoftwareApplication",
+          "@id": "284708449",
+          "name": "Urbanspoon iPhone & iPad App",
+          "operatingSystem": "iOS"
+        }
+      },
+      {
+        "@type": "EntryPoint",
+        "urlTemplate": "urbanspoon://r/6/92204",
+        "actionApplication": {
+          "@type": "SoftwareApplication",
+          "@id": "5b23b738-bb64-4829-9296-5bcb59bb0d2d",
+          "name": "Windows Phone App",
+          "operatingSystem": "Windows Phone 8"
+        }
+      }
+    ]
+  }
+}
+</script>

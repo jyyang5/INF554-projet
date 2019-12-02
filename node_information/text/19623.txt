@@ -1,0 +1,1300 @@
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires alternate
+   alternate
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+AUDACITY, enregistreur éditeur audio
+
+  Ce site a pour but de présenter à la communauté francophone le logiciel
+                             opensource AUDACITY
+         et de proposer un téléchargement sécurisé du logiciel.
+
+   Téléchargez Audacity pour Windows / MacOS / Linux sur le site offciel
+
+Logiciel libre, facile d’utilisation pour Windows, MacOS, GNU/Linux.
+
+   Audacity permet d’enregistrer, de jouer, d’importer et d’exporter des
+   données en plusieurs formats dont WAV, AIFF et MP3.
+
+   Vous pourrez traiter vos sons avec les commandes Couper, Copier et
+   Coller (avec annulations illimitées), combiner les pistes et ajouter
+   des effets à vos enregistrements.
+
+   Audacity intègre également un éditeur d’enveloppe de volume et permet
+   l’analyse du son grâce à l’affichage paramétrable de spectrogrammes.
+
+                audacity spectrogramme audacity spectrogramme
+
+   Vous pourrez l’utilisez pour:
+     * Enregistrer en direct,
+     * Convertir vos disques et cassettes sur support numérique,
+     * Editer des fichiers audio Ogg Vorbis, MP3 et WAV
+     * Coupez, copiez, coller et assembler des extraits sonores,
+     * Modifier la vitesse ou la hauteur d’un enregistrement,
+     * Et bien plus encore! (Liste complète des fonctionnalités)
+
+Audacity est une solution d’édition et de montage audio
+
+   Une fois votre composition musicale réalisée, vient le temps de
+   l’édition de vos projets. D’aucun ne saurait contredire la suprématie
+   d’Audacity dont la réputation n’est plus à faire.
+
+   Permettant à la fois d’enregistrer des données audio numériques, de
+   couper, copier, coller des sons sur plusieurs pistes, d’appliquer des
+   filtres et effets variés, le logiciel open source apporte une
+   plus-value incontestable au mastering de vos morceaux musicaux.
+
+   Audacity se targue d’une interface certes désuète mais hautement
+   fonctionnelle, rendant son utilisation accessible aux utilisateurs les
+   moins chevronnés mais les plus motivés.
+
+   La gestion parfaite de formats populaires et plus confidentiels en fait
+   un outil exhaustif qu’il est aujourd’hui difficile de négliger dans le
+   paysage de l’édition musicale.
+
+   Sans oublier d’évoquer la qualité sonore honorable (jusque 96 kHZ / 32
+   bits) aussi bien des enregistrements que des formats convertis.
+
+                    interface audacity interface audacity
+
+Adacity Fonctionnalités
+
+   Voici une liste des fonctionnalités offertes par Audacity, l’éditeur
+   audio libre. Pour plus d’informations concernant l’utilisation de ces
+   fonctions, consultez les pages d’aide sur le site officiel.
+
+Enregistrement
+
+   Audacity peut enregistrer en direct des sons issus d’un microphone ou
+   d’une table de mixage, mais aussi numériser vos cassettes audio,
+   disques vyniles et minidisques. Avec certaines cartes sons, il peut
+   également saisir des flux audio.
+     * Enregistrez à partir d’un microphone, d’une entrée en ligne, ou de
+       bien d’autres sources encore,
+     * Postsynchronisez des pistes existantes pour en faire un
+       enregistrement multipistes,
+     * Enregistrez jusqu’à 16 pistes en simultané (nécessite de disposer
+       d’un matériel multipistes),
+     * Des indicateurs de niveau vous permettent de contrôler les niveaux
+       sonores avant, pendant et après enregistrement.
+
+Import et export
+
+   Importez des fichiers audio, éditez-les, et assemblez-les avec d’autres
+   fichiers ou de nouveaux enregistrements. Exportez vos enregistrements
+   sous divers formats courants.
+     * Importez et exportez des fichiers WAV, AIFF, AU et Ogg Vorbis,
+     * Importez des fichiers MPEG (dont MP2 et MP3) grâce à libmad,
+     * Exportez des MP3 avec la bibliothèque d’encodage LAME (en option),
+     * Créez des fichiers WAV ou AIFF pouvant être gravé sur CD audio,
+     * Importez et exporter tous les formats de fichiers supportés par
+       libsndfile,
+     * Ouvrez des fichiers de données audio à l’état brut (sans entête)
+       avec la fonction “Importer Raw”.
+
+Edition
+
+     * Editez facilement avec couper, copier, coller et effacer,
+     * Annulez de manière illimitée,
+     * Editez rapidement de fichiers volumineux,
+     * Editez et mixez un nombre illimité de pistes,
+     * Utilisez un outil graphique pour modifier les échantillons
+       individuellement,
+     * Utilisez les effets de fondu en ouverture et/ou en fermeture avec
+       l’outil d’édition d’enveloppe.
+
+Effets
+
+     * Modifiez la hauteur sans altérer le tempo, et inversement,
+     * Supprimez les bruits de fond stationnaires,
+     * Jouez sur les fréquences avec l’équaliseur, le filtre FFT et
+       l’effet d’amplification des basses,
+     * Ajustez les niveaux sonores avec les fonctions de compression,
+       d’amplification et de normalisation.
+     * Et encore plus de fonctions:
+          + Echo,
+          + Phaser,
+          + Wah-wah,
+          + Inversion de sens.
+
+Qualité sonore
+
+     * Enregistrez et éditez en 16/24/32 bits (en virgule flottante),
+     * Enregistrez jusqu’à 96kHz,
+     * Les taux d’échantillonnage et les formats sont convertis à l’aide
+       d’un lisseur et d’un convertisseur d’échantillonnage de
+       haute-qualité,
+     * Combinez des pistes avec des fréquences d’échantillonnage ou des
+       formats différents, qu’Audacity convertira automatiquement en temps
+       réel.
+
+Modules
+
+     * Ajoutez de nouveaux effets avec LADSPA plugins,
+     * Audacity comporte quelques exemples de modules de Steve Harris,
+     * Chargez les effets VST de Windows et Mac avec VST Enabler
+       (optionnel),
+     * Composez de nouveaux effets avec le langage de programmation
+       intégré Nyquist.
+
+Analyse
+
+     * Mode spectrogramme pour visualiser le contenu fréquentiel,
+     * Fonction “Tracer le spectre” pour une analyse fréquentielle
+       détaillée,
+
+Libre et multi-plateformes
+
+     * Distribué sous la GNU General Public License (GPL),
+     * Fonctionne sous Mac OS X, Windows et GNU/Linux.
+
+Autres liens utiles
+
+     * Manuel d’utilisation d’Audacity pour l’enregistrement de podcast
+     * Audacity-French : liste d’entraide francophone pour l’utilisation
+       d’Audacity.
+     * Le site officiel (EN) est : Audacityteam.org
+     * Pour les utilisateurs de systèmes MacOS, des choix de lecteurs
+       audios sont proposés sur AudiosMac.com.
+
+   Téléchargez Audacity pour Windows / MacOS / Linux sur le site offciel
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires Audacity.fr
+   - Télécharger Audacity pour PC et Mac » Flux de résultats de la
+   recherche pour "{search_term_string}"
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Search Results for: {search_term_string}
+
+Nothing Found
+
+   Sorry, but nothing matched your search criteria. Please try again with
+   some different keywords.
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires alternate
+   alternate
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Non classé ➛ Audacity pour MacOS X
+
+Audacity pour MacOS X
+
+   Que les utilisateurs sous MacOS X se rassurent : le montage audio
+   facile et gratuit avec Audacity est aussi disponible sur leur
+   plateforme préférée ! Avec plus de 73 millions de téléchargement en mai
+   2019, la part d’utilisateurs sous des systèmes autres que Microsoft
+   Windows est non négligeable et le système d’Apple est sans conteste un
+   poids lourd dans ce découpage.
+
+   En plus de vous permettre d’enregistrer du son depuis de multiples
+   sources d’acquisition audio, Audacity peut être utilisé pour du
+   post-traitement de tous types de formats audio, incluant les podcasts
+   en ajoutant des effets tels que le trimming, le fading in et le fading
+   out, etc.
+
+   Pour vous convaincre de la popularité du logiciel, sachez que l’OCR
+   britannique (organisme de certification public) base ses cours de
+   niveau 2 sur Audacity pour apprendre les métiers de la « création
+   sonore ». Le logiciel a également permis l’enregistrement puis le mix
+   de 100% de l’album du groupe Tune-Yards (entre autres).
+
+   interface audacity macos interface audacity macos
+
+    Audacity pour MacOS X propose les fonctionnalités suivantes :
+     * 4 thèmes graphiques afin de choisir votre environnement et de
+       donner un certain look à Audacity !
+     * Choisissez entre 4 modes d’affichage des courbes sonores dans les
+       pistes audio.
+     * Enregistrez vos contenus sonores et jouez vos bibliothèques de sons
+       en toute simplicité.
+     * Planifiez vos enregistrements : définissez un timer pour vos
+       enregistrements afin de ne plus dépasser la taille maximale que
+       vous souhaitez atteindre, ou définissez le moment exact où la
+       capture du son devra être lancée.
+     * Utilisez la fonction MIDI playback pour mieux gérer les diverses
+       pistes de fonds sonores.
+     * Éditez à la volée vos pistes avec l’enregistrement « Punch and
+       Roll ».
+     * Réalisez vos montages sonores le plus simplement du monde avec les
+       options copier/couper/coller qui seront toujours annulables :
+       Audacity garde un historique complet de vos retouches afin de
+       toujours pouvoir revenir en arrière.
+     * Profitez de nombreuses options modernes d’un logiciel audio
+       multipiste comme des contrôles de navigation simplifiés, un système
+       de zoom et d’édition d’une seule piste très pratique, faire des
+       opérations non-destructives sur les effets et bien d’autres encore.
+     * Réglez différentes amplitudes pour vos pistes.
+     * Définissez avec précision le tempo (la vitesse audio) alors que
+       vous maintenez le pitch à son état naturel afin de synchroniser en
+       même temps une vidéo ou une période définie.
+     * Convertissez vos anciennes cassettes (« K7 » pour les intimes !) en
+       pistes digitales tout en splittant la source audio en plusieurs
+       pistes en se basant sur les silences de la bande originale.
+     * Utilisez Audacity sur d’autres systèmes d’exploitation (si
+       besoin !).
+     * Utilisez la librairie wxWidgets pour Audacity afin de garder un
+       environnement graphique similaire sur différents systèmes
+       d’exploitation.
+     * Bénéficiez d’un très large choix d’effets digitaux et sonores sous
+       forme de plugins. Des effets sonores supplémentaires peuvent être
+       créés avec Nyquist, un dialecte de Lisp en programmation
+       informatique.
+     * Audacity est créé à partir de LADSPA (Linux Audio Developer’s
+       Simple Plugin API), de VST 32-bits (Virtual Studio Technology ainsi
+       que le support des plugins Nyquist.
+     * Réduisez le bruit en vous basant sur un sample.
+     * Utilisez la fonction scrubbing (depuis la version 2.1.1 et +).
+     * Isolez les voix de vos pistes audio ou réduisez celles-ci. Cela
+       permet par exemple de créer vos musiques pour des soirées karaoké !
+     * Ajustez le pitch audio tout en maintenant la vitesse et/ou ajustez
+       la vitesse audio tout en maintenant le pitch.
+     * Les effets fournis par LADSPA, VST et Audio Unit (pour MacOS/OS X)
+       sont désormais disponibles en previews en temps réel.
+     * Sauvegardez puis chargez plus tard vos préférences et réglages
+       utilisateurs pour utiliser vos effets sur plusieurs sessions
+       d’utilisation.
+     * Gagnez en efficacité avec la possibilité de mixer plusieurs pistes
+       audio en même temps.
+     * Audacity supporte le mode multi-channel avec des samplings de 96
+       kHz avec 32 bits par sample.
+     * Utilisez l’algorithme de Fourrier pour mieux voir vos spectres
+       audio.
+     * Importez et exportez en format WAV, AIFF, MP3, Ogg Vorbis et les
+       formats de fichier supportés par la librairie libsndfile. Au-delà
+       de la version Audacity 1.3.2 vous pourrez également utiliser les
+       formats FLAC (Free Lossless Audio Codec, puis dès la version 1.3.6
+       les formats WMA, AAC, AMR et AC3 via la librairie optionnelle
+       FFmpeg.
+     * Audacity sait détecter les erreurs lors d’enregistrements avec un
+       processeur en surcharge.
+     * Depuis la version 2.3.2, vous pouvez activer dans Audacity la prise
+       en charge de Python grâce au mod-script-pipe.
+     * Un manuel très complet est disponible en anglais pour les
+       utilisateurs d’Audacity, mais de très nombreux tutoriels et cours
+       gratuits existent sur internet.
+
+Une utilisation idéale sur MacOS X en version portable
+
+   Simple et léger, Audacity s’installe le plus simplement du monde sur
+   votre Mac. Cependant, pour ceux qui travaillent sur Mac Book, les
+   développeurs ont pensé à proposer une version « portable ». Audacity
+   version portable n’est pas conçu pour les smartphones mais pour une
+   utilisation extrêmement légère car sans installation du logiciel sur
+   votre système.
+
+   Néanmoins, l’utilisation d’Audacity portable sur MacOS X suggère que
+   vous n’avez que très peu d’espace disque, hors le montage audio est
+   plutôt gourmand en stockage, surtout si vous devez ajouter des effets,
+   traiter des pistes dans des fichiers à part, etc.
+
+   Si vous vous retrouvez donc confronté à ce souci, une des solutions les
+   plus simples est d’utiliser un logiciel tel que Clean My Mac qui vous
+   permettra de visualiser très rapidement où se situent vos fichiers
+   temporaires et/ou trop gourmands en espace disque en quelques clics. A
+   noter que Clean My Mac est disponible en version X pour bénéficier de
+   toutes les fonctionnalités de ce puissant logiciel de nettoyage pour
+   Mac.
+
+   L’utilisation d’une version portable demandera à votre ordinateur de
+   charger en mémoire Audacity (sans l’installer), ce qui peut prendre
+   plus ou moins de temps par rapport aux fichiers temporaires et autres
+   sources de ralentissements système.
+
+   Clean My Mac vous permettra donc en plus du nettoyage de disque
+   d’améliorer les performances de votre Mac et donc de pouvoir profiter
+   d’Audacity version portable sans un seul ralentissement. Dans sa
+   version X, Clean My Mac propose également d’optimiser vos performances
+   pour agir en amont et ainsi de gérer au mieux tous les réglages de
+   votre matériel et de vos logiciels.
+   Ci-dessus, Audacity portable sur Mac : toujours aussi complet mais sans
+   installation !
+
+   Si vous utilisez une version portable d’Audacity, sachez que vous
+   pouvez très bien embarquer celle-ci sur une clef USB ou disque dur
+   externe pour pouvoir l’utiliser sans installation depuis n’importe quel
+   ordinateur sous MacOS X.
+
+   Ces versions légères sont si pratiques que vous pouvez également
+   prendre avec vous la version portable pour Windows si jamais vous avez
+   besoin d’utiliser Audacity en urgence sur un poste qui ne tourne pas
+   sous Mac.
+
+Quelle version d’Audacity choisir pour Mac ?
+
+   macOS/OS X      Audacity
+   De 10.6 à 10.14 2.3.2
+   10.5            2.1.1
+   10.4            2.0.6
+   10.0            1.2.6a
+
+   Audacity est sans conteste le logiciel de retouche audio gratuit le
+   plus complet et le plus simple, mais également le plus léger grâce à sa
+   version portable fonctionnant aussi sous MacOS X. L’essayer, c’est
+   l’adopter et… il est gratuit !
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires alternate
+   alternate
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Non classé ➛ Audacity et le mobile : l’avenir du montage
+   audio ?
+
+Audacity et le mobile : l’avenir du montage audio ?
+
+   Nous avons pu remarquer suite à l’un de nos articles sur la version
+   portable d’Audacity que beaucoup d’utilisateurs étaient énormément
+   déçus de ne pouvoir retrouver leur logiciel de montage favori sous
+   Android ou sous iOS.
+
+   Nous en profitons donc pour faire un tour d’horizon des solutions qui
+   s’offrent à vous tout en espérant que des développeurs nous proposeront
+   un portage d’Audacity pour nos smartphones.
+   audacity mobile interface audacity mobile interface
+
+        La retouche audio et le montage son existe aussi sur mobile.
+
+Le montage audio sur Android
+
+   Si comme beaucoup de personnes vous avez tendance à récupérer un
+   fichier Mp3 d’une vidéo Youtube pour obtenir une chanson, il se peut
+   que vous vous retrouviez avec plein de passages à couper qui ne servent
+   qu’au clip vidéo.
+
+   Comme ce n’est pas tout le monde qui possède un ordinateur (et oui),
+   vous aurez la possibilité avec ces 3 logiciels de montages audio de
+   faire vos retouches directement sur votre smartphone Android.
+
+   NOTE : Nous avons utilisé un Samsung s7 avec ses écouteurs d’origine
+   pour nos tests.
+
+   • Audio Evolution Mobile Studio
+   Presque aussi avancé qu’Audacity, c’est à nos yeux la solution de
+   contournement la plus intéressante à ce jour sous Android.
+
+   Vous pourrez travailler sur un nombre illimité de pistes (en théorie
+   car tout dépendra de la puissance CPU et RAM de votre smartphone) ainsi
+   que de plein de fonctionnalités intéressantes comme la possibilité de
+   faire des enregistrements multipistes et MIDI.
+
+   Plus sympathique encore, vous pourrez insérer des sons que vous pouvez
+   directement créer depuis l’application grâce à une liste d’instruments
+   virtuels. Des effets sonores sont également présents comme l’effet
+   réverbération, chorus ou encore compresseur.
+
+   Il existe une version d’essai gratuite sous le Play Store quand la
+   version complète ne coûte que 6,99 $. Très complète, cette application
+   rivalise parfaitement avec Audacity sachant qu’il existe même des
+   tutoriels pour apprendre à l’utiliser. De quoi faire ses montages de
+   sons du bout des doigts sur sa tablette Android.
+
+   • Voice PRO
+   Cette application d’édition audio fonctionne avec plus d’une centaine
+   de formats de fichiers. De la simple retouche qui permet de fusionner
+   deux fichiers audio (même de formats différents) à des manipulations
+   plus évoluées, Voice PRO est très robuste.
+
+   Ce qui peut être très intéressant avec Voice PRO, c’est que vous pouvez
+   ajouter des plugins (comme sous Audacity) et ainsi gagner en nouvelles
+   fonctionnalités.
+
+   Vous pouvez par exemple ajouter une fonctionnalité de chiffrement et
+   déchiffrement de vos enregistrements ainsi que de permettre à
+   l’application de transférer vos fichiers audio directement sur le
+   cloud.
+
+   Nous apprécions tout particulièrement le Widget fourni avec pour
+   pouvoir l’incruster à votre page d’accueil. En édition audio, on peut
+   dire que Voice Pro tient vraiment la route et brille de part une
+   interface utilisateur « sexy » par rapport à ses concurrents sous
+   Android.
+
+   • Lexis Audio Editor
+
+   Notre dernier choix s’est porté sur Lexis Audio Editor qui est devenu
+   le plus célèbre de tous même s’il n’est pas le plus complet.
+
+   Totalement gratuit (on retrouve donc bien là le même esprit que pour
+   Audacity), vous pourrez éditer vos fichiers et les enregistrer dans une
+   multitude de formats audio.
+
+   La présentation générale du logiciel reste très proche d’Audacity pour
+   ne pas s’y perdre, et vous pourrez facilement modifier le tempo, la
+   vitesse et le pitch de vos fichiers audio tout en pouvant insérer ou
+   supprimer des silences ou encore en ajoutant des effets de fondu.
+
+   La qualité sonore est plus qu’acceptable avec des rendus qui iront
+   jusqu’à 320 kBps en Mp3 et 16 bits PCM WAV. Étant gratuite,
+   l’application a su séduire énormément de monde et propose des
+   fonctionnalités qui sont d’habitude payantes, de quoi pouvoir donc la
+   tester en tout premier !
+
+    Le site Pixypia.com propose (selon les arrivages) des coques XR pour
+                  Iphone avec haut-parleur Hi-Fi intégré.
+
+Le montage audio sur Iphone, Ipad et Ipod Touch (iOS)
+
+   Les utilisateurs de smartphones Apple ou de tablettes graphiques sous
+   iOS bénéficient également de leurs propres logiciels de montage audio.
+   Nous vous en proposons trois là aussi et qui ont retenu toute notre
+   attention.
+
+   Nous avons pu tester ces 3 applications avec une coque protectrice pour
+   iPhone XR de Pixypia qui ajoute au smartphone (en plus d’une batterie
+   de secours) un haut-parleur Hi-Fi pour pouvoir ainsi profiter de la
+   meilleure qualité audio en sortie, mais sur haut-parleur et non sur
+   casque pour ces tests.
+
+   • Medly
+
+   L’application de montage audio Medly propose gratuitement de faire des
+   manipulations de base mais également d’ajouter de nombreux effets.
+
+   Vous pourrez choisir jusqu’à 8 pistes d’instruments virtuels pour
+   composer votre propre musique, mais aussi ajouter des filtres et bien
+   évidemment faire vos montages en découpant vos morceaux de chansons.
+
+   Si la version gratuite est déjà bien complète, sachez qu’il existe
+   d’autres instruments virtuels à télécharger dans le Store Medley. Un
+   système de transfert sur le cloud est également disponible (SoundCloud)
+   pour partager vos fichiers Mp3, MIDI ou Medly.
+
+   Medly nous a semblé être la plus complète des applications iOS
+   gratuites pour du montage vidéo, mais il faut reconnaître que son
+   utilisation n’est pas ce qu’il y a de plus indiquée pour les
+   professionnels. Nous vous recommandons donc Medly pour une utilisation
+   tout public.
+
+   • Music Maker Jam
+
+   Cette application vous permettra aussi bien d’enregistrer vos sons que
+   d’éditer vos fichiers sonores. Cette application est si complète qu’il
+   faut bien souvent avoir recours à son tutoriel mais heureusement, si
+   vous avez l’habitude d’Audacity vous devriez vous y retrouver sans
+   aide.
+
+   Il existe plus de 100 styles différents comme jazz, ambiant, techno,
+   trap, dubstep, drum and bass, hip hop ou encore funk. Vous pourrez
+   effectuer des enregistrements depuis l’application en utilisant des
+   filtres qui seront appliqués en temps réel.
+
+   music maker jam music maker jam
+
+   L’interface graphique de Music Maker Jam est des plus recherchée et des
+   plus agréables sur tablette tactile (Ipad) d’après tous les avis
+   utilisateurs positifs que nous avons pu lire. Vous pourrez là aussi
+   télécharger directement vos fichiers où les uploadez sur Sound Cloud.
+
+   Il est ce qu’il y a de plus abouti pour les professionnels qui
+   souhaitent faire leurs montages audio sur un IPhone ou un IPad.
+
+   • Hokusai Audio Editor
+
+   Notre dernier choix d’application iOS pour faire du montage audio est
+   Hokusai qui permet l’importation directe de pistes et de les modifier à
+   volonté. C’est grâce à son grand choix d’options et de fonctionnalités
+   que cette application a su se faire un nom.
+
+   La liste des choix des filtres et des effets spéciaux est tout
+   simplement impressionnante. De plus, vous aurez la totale liberté de
+   modifier ou de créer votre musique à l’aide d’une interface graphique
+   fournissant une excellente expérience utilisateur.
+
+   Des effets de fondu ou la normalisation du volume et réglages de la
+   résonance sont également disponibles avec de quoi pouvoir en quelques
+   manipulations améliorer grandement la qualité sonore de vos titres déjà
+   existants sur votre IPhone ou IPod Touch !
+
+Et pour Audacity sur mobile ?
+
+   Nous espérons sincèrement qu’une version d’Audacity pour nos
+   smartphones puisse sortir au plus vite. Vous pourrez constater par
+   cette liste de choix que les applications proposant de la retouche de
+   son sur smartphone ne manquent pas à l’appel, il ne manque donc plus
+   qu’Android et iOS pour qu’Audacity devienne multiplateforme à 100% et
+   cela, toujours gratuitement !
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires Audacity.fr
+   - Télécharger Audacity pour PC et Mac » Flux de la catégorie Actus du
+   logiciel
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Actus du logiciel
+
+Actus du logiciel
+
+Créer un Jingle radio
+
+   Créer un Jingle radio avec Audacity Vous ne connaissez rien au monde de
+   la radio et encore moins à celui de la webradio ? Vous voilà tombé(e) à
+   la bonne adresse ! Nous nous adressons ici à un public de débutants qui
+   entend bien quitter ce tutoriel en étant en …
+   Read More »
+
+Ranger les pistes dans Audacity
+
+   Découvrez quelques aménagements de l’interface à effectuer pour
+   travailler plus efficacement dans le logiciel de montage audio. Avant
+   de vous lancer dans votre travail d’agencement des sons les uns par
+   rapport aux autres, dans des coupes, des copier-coller, et toute autre
+   manipulation de vos fichiers sons, vous devez vous offrir …
+   Read More »
+
+Personnaliser l’interface Audacity
+
+   Personnalisation de votre environnement de montage sous Audacity Le
+   logiciel de montage audio reste un espace de création pure et
+   personnel. Parce que chaque créateur se doit de disposer d’un
+   environnement personnalisé pour travailler et inspirer, il est possible
+   de modifier l’apparence de l’interface de Audacity. À bien y regarder,
+   …
+   Read More »
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires alternate
+   alternate
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+AUDACITY, enregistreur éditeur audio
+
+  Ce site a pour but de présenter à la communauté francophone le logiciel
+                             opensource AUDACITY
+         et de proposer un téléchargement sécurisé du logiciel.
+
+   Téléchargez Audacity pour Windows / MacOS / Linux sur le site offciel
+
+Logiciel libre, facile d’utilisation pour Windows, MacOS, GNU/Linux.
+
+   Audacity permet d’enregistrer, de jouer, d’importer et d’exporter des
+   données en plusieurs formats dont WAV, AIFF et MP3.
+
+   Vous pourrez traiter vos sons avec les commandes Couper, Copier et
+   Coller (avec annulations illimitées), combiner les pistes et ajouter
+   des effets à vos enregistrements.
+
+   Audacity intègre également un éditeur d’enveloppe de volume et permet
+   l’analyse du son grâce à l’affichage paramétrable de spectrogrammes.
+
+                audacity spectrogramme audacity spectrogramme
+
+   Vous pourrez l’utilisez pour:
+     * Enregistrer en direct,
+     * Convertir vos disques et cassettes sur support numérique,
+     * Editer des fichiers audio Ogg Vorbis, MP3 et WAV
+     * Coupez, copiez, coller et assembler des extraits sonores,
+     * Modifier la vitesse ou la hauteur d’un enregistrement,
+     * Et bien plus encore! (Liste complète des fonctionnalités)
+
+Audacity est une solution d’édition et de montage audio
+
+   Une fois votre composition musicale réalisée, vient le temps de
+   l’édition de vos projets. D’aucun ne saurait contredire la suprématie
+   d’Audacity dont la réputation n’est plus à faire.
+
+   Permettant à la fois d’enregistrer des données audio numériques, de
+   couper, copier, coller des sons sur plusieurs pistes, d’appliquer des
+   filtres et effets variés, le logiciel open source apporte une
+   plus-value incontestable au mastering de vos morceaux musicaux.
+
+   Audacity se targue d’une interface certes désuète mais hautement
+   fonctionnelle, rendant son utilisation accessible aux utilisateurs les
+   moins chevronnés mais les plus motivés.
+
+   La gestion parfaite de formats populaires et plus confidentiels en fait
+   un outil exhaustif qu’il est aujourd’hui difficile de négliger dans le
+   paysage de l’édition musicale.
+
+   Sans oublier d’évoquer la qualité sonore honorable (jusque 96 kHZ / 32
+   bits) aussi bien des enregistrements que des formats convertis.
+
+                    interface audacity interface audacity
+
+Adacity Fonctionnalités
+
+   Voici une liste des fonctionnalités offertes par Audacity, l’éditeur
+   audio libre. Pour plus d’informations concernant l’utilisation de ces
+   fonctions, consultez les pages d’aide sur le site officiel.
+
+Enregistrement
+
+   Audacity peut enregistrer en direct des sons issus d’un microphone ou
+   d’une table de mixage, mais aussi numériser vos cassettes audio,
+   disques vyniles et minidisques. Avec certaines cartes sons, il peut
+   également saisir des flux audio.
+     * Enregistrez à partir d’un microphone, d’une entrée en ligne, ou de
+       bien d’autres sources encore,
+     * Postsynchronisez des pistes existantes pour en faire un
+       enregistrement multipistes,
+     * Enregistrez jusqu’à 16 pistes en simultané (nécessite de disposer
+       d’un matériel multipistes),
+     * Des indicateurs de niveau vous permettent de contrôler les niveaux
+       sonores avant, pendant et après enregistrement.
+
+Import et export
+
+   Importez des fichiers audio, éditez-les, et assemblez-les avec d’autres
+   fichiers ou de nouveaux enregistrements. Exportez vos enregistrements
+   sous divers formats courants.
+     * Importez et exportez des fichiers WAV, AIFF, AU et Ogg Vorbis,
+     * Importez des fichiers MPEG (dont MP2 et MP3) grâce à libmad,
+     * Exportez des MP3 avec la bibliothèque d’encodage LAME (en option),
+     * Créez des fichiers WAV ou AIFF pouvant être gravé sur CD audio,
+     * Importez et exporter tous les formats de fichiers supportés par
+       libsndfile,
+     * Ouvrez des fichiers de données audio à l’état brut (sans entête)
+       avec la fonction “Importer Raw”.
+
+Edition
+
+     * Editez facilement avec couper, copier, coller et effacer,
+     * Annulez de manière illimitée,
+     * Editez rapidement de fichiers volumineux,
+     * Editez et mixez un nombre illimité de pistes,
+     * Utilisez un outil graphique pour modifier les échantillons
+       individuellement,
+     * Utilisez les effets de fondu en ouverture et/ou en fermeture avec
+       l’outil d’édition d’enveloppe.
+
+Effets
+
+     * Modifiez la hauteur sans altérer le tempo, et inversement,
+     * Supprimez les bruits de fond stationnaires,
+     * Jouez sur les fréquences avec l’équaliseur, le filtre FFT et
+       l’effet d’amplification des basses,
+     * Ajustez les niveaux sonores avec les fonctions de compression,
+       d’amplification et de normalisation.
+     * Et encore plus de fonctions:
+          + Echo,
+          + Phaser,
+          + Wah-wah,
+          + Inversion de sens.
+
+Qualité sonore
+
+     * Enregistrez et éditez en 16/24/32 bits (en virgule flottante),
+     * Enregistrez jusqu’à 96kHz,
+     * Les taux d’échantillonnage et les formats sont convertis à l’aide
+       d’un lisseur et d’un convertisseur d’échantillonnage de
+       haute-qualité,
+     * Combinez des pistes avec des fréquences d’échantillonnage ou des
+       formats différents, qu’Audacity convertira automatiquement en temps
+       réel.
+
+Modules
+
+     * Ajoutez de nouveaux effets avec LADSPA plugins,
+     * Audacity comporte quelques exemples de modules de Steve Harris,
+     * Chargez les effets VST de Windows et Mac avec VST Enabler
+       (optionnel),
+     * Composez de nouveaux effets avec le langage de programmation
+       intégré Nyquist.
+
+Analyse
+
+     * Mode spectrogramme pour visualiser le contenu fréquentiel,
+     * Fonction “Tracer le spectre” pour une analyse fréquentielle
+       détaillée,
+
+Libre et multi-plateformes
+
+     * Distribué sous la GNU General Public License (GPL),
+     * Fonctionne sous Mac OS X, Windows et GNU/Linux.
+
+Autres liens utiles
+
+     * Manuel d’utilisation d’Audacity pour l’enregistrement de podcast
+     * Audacity-French : liste d’entraide francophone pour l’utilisation
+       d’Audacity.
+     * Le site officiel (EN) est : Audacityteam.org
+     * Pour les utilisateurs de systèmes MacOS, des choix de lecteurs
+       audios sont proposés sur AudiosMac.com.
+
+   Téléchargez Audacity pour Windows / MacOS / Linux sur le site offciel
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires Audacity.fr
+   - Télécharger Audacity pour PC et Mac » Flux de résultats de la
+   recherche pour "{search_term_string}"
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Search Results for: {search_term_string}
+
+Nothing Found
+
+   Sorry, but nothing matched your search criteria. Please try again with
+   some different keywords.
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires alternate
+   alternate
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Non classé ➛ Audacity pour MacOS X
+
+Audacity pour MacOS X
+
+   Que les utilisateurs sous MacOS X se rassurent : le montage audio
+   facile et gratuit avec Audacity est aussi disponible sur leur
+   plateforme préférée ! Avec plus de 73 millions de téléchargement en mai
+   2019, la part d’utilisateurs sous des systèmes autres que Microsoft
+   Windows est non négligeable et le système d’Apple est sans conteste un
+   poids lourd dans ce découpage.
+
+   En plus de vous permettre d’enregistrer du son depuis de multiples
+   sources d’acquisition audio, Audacity peut être utilisé pour du
+   post-traitement de tous types de formats audio, incluant les podcasts
+   en ajoutant des effets tels que le trimming, le fading in et le fading
+   out, etc.
+
+   Pour vous convaincre de la popularité du logiciel, sachez que l’OCR
+   britannique (organisme de certification public) base ses cours de
+   niveau 2 sur Audacity pour apprendre les métiers de la « création
+   sonore ». Le logiciel a également permis l’enregistrement puis le mix
+   de 100% de l’album du groupe Tune-Yards (entre autres).
+
+   interface audacity macos interface audacity macos
+
+    Audacity pour MacOS X propose les fonctionnalités suivantes :
+     * 4 thèmes graphiques afin de choisir votre environnement et de
+       donner un certain look à Audacity !
+     * Choisissez entre 4 modes d’affichage des courbes sonores dans les
+       pistes audio.
+     * Enregistrez vos contenus sonores et jouez vos bibliothèques de sons
+       en toute simplicité.
+     * Planifiez vos enregistrements : définissez un timer pour vos
+       enregistrements afin de ne plus dépasser la taille maximale que
+       vous souhaitez atteindre, ou définissez le moment exact où la
+       capture du son devra être lancée.
+     * Utilisez la fonction MIDI playback pour mieux gérer les diverses
+       pistes de fonds sonores.
+     * Éditez à la volée vos pistes avec l’enregistrement « Punch and
+       Roll ».
+     * Réalisez vos montages sonores le plus simplement du monde avec les
+       options copier/couper/coller qui seront toujours annulables :
+       Audacity garde un historique complet de vos retouches afin de
+       toujours pouvoir revenir en arrière.
+     * Profitez de nombreuses options modernes d’un logiciel audio
+       multipiste comme des contrôles de navigation simplifiés, un système
+       de zoom et d’édition d’une seule piste très pratique, faire des
+       opérations non-destructives sur les effets et bien d’autres encore.
+     * Réglez différentes amplitudes pour vos pistes.
+     * Définissez avec précision le tempo (la vitesse audio) alors que
+       vous maintenez le pitch à son état naturel afin de synchroniser en
+       même temps une vidéo ou une période définie.
+     * Convertissez vos anciennes cassettes (« K7 » pour les intimes !) en
+       pistes digitales tout en splittant la source audio en plusieurs
+       pistes en se basant sur les silences de la bande originale.
+     * Utilisez Audacity sur d’autres systèmes d’exploitation (si
+       besoin !).
+     * Utilisez la librairie wxWidgets pour Audacity afin de garder un
+       environnement graphique similaire sur différents systèmes
+       d’exploitation.
+     * Bénéficiez d’un très large choix d’effets digitaux et sonores sous
+       forme de plugins. Des effets sonores supplémentaires peuvent être
+       créés avec Nyquist, un dialecte de Lisp en programmation
+       informatique.
+     * Audacity est créé à partir de LADSPA (Linux Audio Developer’s
+       Simple Plugin API), de VST 32-bits (Virtual Studio Technology ainsi
+       que le support des plugins Nyquist.
+     * Réduisez le bruit en vous basant sur un sample.
+     * Utilisez la fonction scrubbing (depuis la version 2.1.1 et +).
+     * Isolez les voix de vos pistes audio ou réduisez celles-ci. Cela
+       permet par exemple de créer vos musiques pour des soirées karaoké !
+     * Ajustez le pitch audio tout en maintenant la vitesse et/ou ajustez
+       la vitesse audio tout en maintenant le pitch.
+     * Les effets fournis par LADSPA, VST et Audio Unit (pour MacOS/OS X)
+       sont désormais disponibles en previews en temps réel.
+     * Sauvegardez puis chargez plus tard vos préférences et réglages
+       utilisateurs pour utiliser vos effets sur plusieurs sessions
+       d’utilisation.
+     * Gagnez en efficacité avec la possibilité de mixer plusieurs pistes
+       audio en même temps.
+     * Audacity supporte le mode multi-channel avec des samplings de 96
+       kHz avec 32 bits par sample.
+     * Utilisez l’algorithme de Fourrier pour mieux voir vos spectres
+       audio.
+     * Importez et exportez en format WAV, AIFF, MP3, Ogg Vorbis et les
+       formats de fichier supportés par la librairie libsndfile. Au-delà
+       de la version Audacity 1.3.2 vous pourrez également utiliser les
+       formats FLAC (Free Lossless Audio Codec, puis dès la version 1.3.6
+       les formats WMA, AAC, AMR et AC3 via la librairie optionnelle
+       FFmpeg.
+     * Audacity sait détecter les erreurs lors d’enregistrements avec un
+       processeur en surcharge.
+     * Depuis la version 2.3.2, vous pouvez activer dans Audacity la prise
+       en charge de Python grâce au mod-script-pipe.
+     * Un manuel très complet est disponible en anglais pour les
+       utilisateurs d’Audacity, mais de très nombreux tutoriels et cours
+       gratuits existent sur internet.
+
+Une utilisation idéale sur MacOS X en version portable
+
+   Simple et léger, Audacity s’installe le plus simplement du monde sur
+   votre Mac. Cependant, pour ceux qui travaillent sur Mac Book, les
+   développeurs ont pensé à proposer une version « portable ». Audacity
+   version portable n’est pas conçu pour les smartphones mais pour une
+   utilisation extrêmement légère car sans installation du logiciel sur
+   votre système.
+
+   Néanmoins, l’utilisation d’Audacity portable sur MacOS X suggère que
+   vous n’avez que très peu d’espace disque, hors le montage audio est
+   plutôt gourmand en stockage, surtout si vous devez ajouter des effets,
+   traiter des pistes dans des fichiers à part, etc.
+
+   Si vous vous retrouvez donc confronté à ce souci, une des solutions les
+   plus simples est d’utiliser un logiciel tel que Clean My Mac qui vous
+   permettra de visualiser très rapidement où se situent vos fichiers
+   temporaires et/ou trop gourmands en espace disque en quelques clics. A
+   noter que Clean My Mac est disponible en version X pour bénéficier de
+   toutes les fonctionnalités de ce puissant logiciel de nettoyage pour
+   Mac.
+
+   L’utilisation d’une version portable demandera à votre ordinateur de
+   charger en mémoire Audacity (sans l’installer), ce qui peut prendre
+   plus ou moins de temps par rapport aux fichiers temporaires et autres
+   sources de ralentissements système.
+
+   Clean My Mac vous permettra donc en plus du nettoyage de disque
+   d’améliorer les performances de votre Mac et donc de pouvoir profiter
+   d’Audacity version portable sans un seul ralentissement. Dans sa
+   version X, Clean My Mac propose également d’optimiser vos performances
+   pour agir en amont et ainsi de gérer au mieux tous les réglages de
+   votre matériel et de vos logiciels.
+   Ci-dessus, Audacity portable sur Mac : toujours aussi complet mais sans
+   installation !
+
+   Si vous utilisez une version portable d’Audacity, sachez que vous
+   pouvez très bien embarquer celle-ci sur une clef USB ou disque dur
+   externe pour pouvoir l’utiliser sans installation depuis n’importe quel
+   ordinateur sous MacOS X.
+
+   Ces versions légères sont si pratiques que vous pouvez également
+   prendre avec vous la version portable pour Windows si jamais vous avez
+   besoin d’utiliser Audacity en urgence sur un poste qui ne tourne pas
+   sous Mac.
+
+Quelle version d’Audacity choisir pour Mac ?
+
+   macOS/OS X      Audacity
+   De 10.6 à 10.14 2.3.2
+   10.5            2.1.1
+   10.4            2.0.6
+   10.0            1.2.6a
+
+   Audacity est sans conteste le logiciel de retouche audio gratuit le
+   plus complet et le plus simple, mais également le plus léger grâce à sa
+   version portable fonctionnant aussi sous MacOS X. L’essayer, c’est
+   l’adopter et… il est gratuit !
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires alternate
+   alternate
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Non classé ➛ Audacity et le mobile : l’avenir du montage
+   audio ?
+
+Audacity et le mobile : l’avenir du montage audio ?
+
+   Nous avons pu remarquer suite à l’un de nos articles sur la version
+   portable d’Audacity que beaucoup d’utilisateurs étaient énormément
+   déçus de ne pouvoir retrouver leur logiciel de montage favori sous
+   Android ou sous iOS.
+
+   Nous en profitons donc pour faire un tour d’horizon des solutions qui
+   s’offrent à vous tout en espérant que des développeurs nous proposeront
+   un portage d’Audacity pour nos smartphones.
+   audacity mobile interface audacity mobile interface
+
+        La retouche audio et le montage son existe aussi sur mobile.
+
+Le montage audio sur Android
+
+   Si comme beaucoup de personnes vous avez tendance à récupérer un
+   fichier Mp3 d’une vidéo Youtube pour obtenir une chanson, il se peut
+   que vous vous retrouviez avec plein de passages à couper qui ne servent
+   qu’au clip vidéo.
+
+   Comme ce n’est pas tout le monde qui possède un ordinateur (et oui),
+   vous aurez la possibilité avec ces 3 logiciels de montages audio de
+   faire vos retouches directement sur votre smartphone Android.
+
+   NOTE : Nous avons utilisé un Samsung s7 avec ses écouteurs d’origine
+   pour nos tests.
+
+   • Audio Evolution Mobile Studio
+   Presque aussi avancé qu’Audacity, c’est à nos yeux la solution de
+   contournement la plus intéressante à ce jour sous Android.
+
+   Vous pourrez travailler sur un nombre illimité de pistes (en théorie
+   car tout dépendra de la puissance CPU et RAM de votre smartphone) ainsi
+   que de plein de fonctionnalités intéressantes comme la possibilité de
+   faire des enregistrements multipistes et MIDI.
+
+   Plus sympathique encore, vous pourrez insérer des sons que vous pouvez
+   directement créer depuis l’application grâce à une liste d’instruments
+   virtuels. Des effets sonores sont également présents comme l’effet
+   réverbération, chorus ou encore compresseur.
+
+   Il existe une version d’essai gratuite sous le Play Store quand la
+   version complète ne coûte que 6,99 $. Très complète, cette application
+   rivalise parfaitement avec Audacity sachant qu’il existe même des
+   tutoriels pour apprendre à l’utiliser. De quoi faire ses montages de
+   sons du bout des doigts sur sa tablette Android.
+
+   • Voice PRO
+   Cette application d’édition audio fonctionne avec plus d’une centaine
+   de formats de fichiers. De la simple retouche qui permet de fusionner
+   deux fichiers audio (même de formats différents) à des manipulations
+   plus évoluées, Voice PRO est très robuste.
+
+   Ce qui peut être très intéressant avec Voice PRO, c’est que vous pouvez
+   ajouter des plugins (comme sous Audacity) et ainsi gagner en nouvelles
+   fonctionnalités.
+
+   Vous pouvez par exemple ajouter une fonctionnalité de chiffrement et
+   déchiffrement de vos enregistrements ainsi que de permettre à
+   l’application de transférer vos fichiers audio directement sur le
+   cloud.
+
+   Nous apprécions tout particulièrement le Widget fourni avec pour
+   pouvoir l’incruster à votre page d’accueil. En édition audio, on peut
+   dire que Voice Pro tient vraiment la route et brille de part une
+   interface utilisateur « sexy » par rapport à ses concurrents sous
+   Android.
+
+   • Lexis Audio Editor
+
+   Notre dernier choix s’est porté sur Lexis Audio Editor qui est devenu
+   le plus célèbre de tous même s’il n’est pas le plus complet.
+
+   Totalement gratuit (on retrouve donc bien là le même esprit que pour
+   Audacity), vous pourrez éditer vos fichiers et les enregistrer dans une
+   multitude de formats audio.
+
+   La présentation générale du logiciel reste très proche d’Audacity pour
+   ne pas s’y perdre, et vous pourrez facilement modifier le tempo, la
+   vitesse et le pitch de vos fichiers audio tout en pouvant insérer ou
+   supprimer des silences ou encore en ajoutant des effets de fondu.
+
+   La qualité sonore est plus qu’acceptable avec des rendus qui iront
+   jusqu’à 320 kBps en Mp3 et 16 bits PCM WAV. Étant gratuite,
+   l’application a su séduire énormément de monde et propose des
+   fonctionnalités qui sont d’habitude payantes, de quoi pouvoir donc la
+   tester en tout premier !
+
+    Le site Pixypia.com propose (selon les arrivages) des coques XR pour
+                  Iphone avec haut-parleur Hi-Fi intégré.
+
+Le montage audio sur Iphone, Ipad et Ipod Touch (iOS)
+
+   Les utilisateurs de smartphones Apple ou de tablettes graphiques sous
+   iOS bénéficient également de leurs propres logiciels de montage audio.
+   Nous vous en proposons trois là aussi et qui ont retenu toute notre
+   attention.
+
+   Nous avons pu tester ces 3 applications avec une coque protectrice pour
+   iPhone XR de Pixypia qui ajoute au smartphone (en plus d’une batterie
+   de secours) un haut-parleur Hi-Fi pour pouvoir ainsi profiter de la
+   meilleure qualité audio en sortie, mais sur haut-parleur et non sur
+   casque pour ces tests.
+
+   • Medly
+
+   L’application de montage audio Medly propose gratuitement de faire des
+   manipulations de base mais également d’ajouter de nombreux effets.
+
+   Vous pourrez choisir jusqu’à 8 pistes d’instruments virtuels pour
+   composer votre propre musique, mais aussi ajouter des filtres et bien
+   évidemment faire vos montages en découpant vos morceaux de chansons.
+
+   Si la version gratuite est déjà bien complète, sachez qu’il existe
+   d’autres instruments virtuels à télécharger dans le Store Medley. Un
+   système de transfert sur le cloud est également disponible (SoundCloud)
+   pour partager vos fichiers Mp3, MIDI ou Medly.
+
+   Medly nous a semblé être la plus complète des applications iOS
+   gratuites pour du montage vidéo, mais il faut reconnaître que son
+   utilisation n’est pas ce qu’il y a de plus indiquée pour les
+   professionnels. Nous vous recommandons donc Medly pour une utilisation
+   tout public.
+
+   • Music Maker Jam
+
+   Cette application vous permettra aussi bien d’enregistrer vos sons que
+   d’éditer vos fichiers sonores. Cette application est si complète qu’il
+   faut bien souvent avoir recours à son tutoriel mais heureusement, si
+   vous avez l’habitude d’Audacity vous devriez vous y retrouver sans
+   aide.
+
+   Il existe plus de 100 styles différents comme jazz, ambiant, techno,
+   trap, dubstep, drum and bass, hip hop ou encore funk. Vous pourrez
+   effectuer des enregistrements depuis l’application en utilisant des
+   filtres qui seront appliqués en temps réel.
+
+   music maker jam music maker jam
+
+   L’interface graphique de Music Maker Jam est des plus recherchée et des
+   plus agréables sur tablette tactile (Ipad) d’après tous les avis
+   utilisateurs positifs que nous avons pu lire. Vous pourrez là aussi
+   télécharger directement vos fichiers où les uploadez sur Sound Cloud.
+
+   Il est ce qu’il y a de plus abouti pour les professionnels qui
+   souhaitent faire leurs montages audio sur un IPhone ou un IPad.
+
+   • Hokusai Audio Editor
+
+   Notre dernier choix d’application iOS pour faire du montage audio est
+   Hokusai qui permet l’importation directe de pistes et de les modifier à
+   volonté. C’est grâce à son grand choix d’options et de fonctionnalités
+   que cette application a su se faire un nom.
+
+   La liste des choix des filtres et des effets spéciaux est tout
+   simplement impressionnante. De plus, vous aurez la totale liberté de
+   modifier ou de créer votre musique à l’aide d’une interface graphique
+   fournissant une excellente expérience utilisateur.
+
+   Des effets de fondu ou la normalisation du volume et réglages de la
+   résonance sont également disponibles avec de quoi pouvoir en quelques
+   manipulations améliorer grandement la qualité sonore de vos titres déjà
+   existants sur votre IPhone ou IPod Touch !
+
+Et pour Audacity sur mobile ?
+
+   Nous espérons sincèrement qu’une version d’Audacity pour nos
+   smartphones puisse sortir au plus vite. Vous pourrez constater par
+   cette liste de choix que les applications proposant de la retouche de
+   son sur smartphone ne manquent pas à l’appel, il ne manque donc plus
+   qu’Android et iOS pour qu’Audacity devienne multiplateforme à 100% et
+   cela, toujours gratuitement !
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es
+   #Audacity.fr - Télécharger Audacity pour PC et Mac » Flux Audacity.fr -
+   Télécharger Audacity pour PC et Mac » Flux des commentaires Audacity.fr
+   - Télécharger Audacity pour PC et Mac » Flux de la catégorie Actus du
+   logiciel
+
+Audacity.fr – Télécharger Audacity pour PC et Mac Audacity.fr – Télécharger
+Audacity pour PC et Mac Audacity permet d’enregistrer, de jouer, d’importer
+et d’exporter des données en plusieurs formats dont WAV, AIFF et MP3.
+
+     * Accueil
+     * Audacity pour MacOS X
+     * Audacity et le mobile
+     * Audacity et les Podcasts
+
+   Accueil ➛ Actus du logiciel
+
+Actus du logiciel
+
+Créer un Jingle radio
+
+   Créer un Jingle radio avec Audacity Vous ne connaissez rien au monde de
+   la radio et encore moins à celui de la webradio ? Vous voilà tombé(e) à
+   la bonne adresse ! Nous nous adressons ici à un public de débutants qui
+   entend bien quitter ce tutoriel en étant en …
+   Read More »
+
+Ranger les pistes dans Audacity
+
+   Découvrez quelques aménagements de l’interface à effectuer pour
+   travailler plus efficacement dans le logiciel de montage audio. Avant
+   de vous lancer dans votre travail d’agencement des sons les uns par
+   rapport aux autres, dans des coupes, des copier-coller, et toute autre
+   manipulation de vos fichiers sons, vous devez vous offrir …
+   Read More »
+
+Personnaliser l’interface Audacity
+
+   Personnalisation de votre environnement de montage sous Audacity Le
+   logiciel de montage audio reste un espace de création pure et
+   personnel. Parce que chaque créateur se doit de disposer d’un
+   environnement personnalisé pour travailler et inspirer, il est possible
+   de modifier l’apparence de l’interface de Audacity. À bien y regarder,
+   …
+   Read More »
+
+   Fermer et accepter
+   Confidentialité et cookies : ce site utilise des cookies. En continuant
+   à naviguer sur ce site, vous acceptez que nous en utilisions.
+   Pour en savoir plus, y compris sur la façon de contrôler les cookies,
+   reportez-vous à ce qui suit : Politique relative aux cookies
+   ➛ Visiter le site officiel
+   ➛ Contactez-nous
+   ➛ Mentions Légales
+   Audacity.fr est un site non officiel dédié à la communauté francophone.
+   Audacity.fr depuis 2007.
+   Partenaires : Audacity.it | Audacity.pl | Audacity.es

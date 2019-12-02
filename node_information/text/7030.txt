@@ -1,0 +1,2156 @@
+   #PubMed New and Noteworthy PubMed search
+
+   Warning: The NCBI web site requires JavaScript to function. more...
+     * NCBI NCBI Logo
+     * Skip to main content
+     * Skip to navigation
+     * Resources
+          + All Resources
+          + Chemicals & Bioassays
+               o BioSystems
+               o PubChem BioAssay
+               o PubChem Compound
+               o PubChem Structure Search
+               o PubChem Substance
+               o All Chemicals & Bioassays Resources...
+          + DNA & RNA
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o E-Utilities
+               o GenBank
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o Primer-BLAST
+               o ProSplign
+               o Reference Sequence (RefSeq)
+               o RefSeqGene
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All DNA & RNA Resources...
+          + Data & Software
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o Cn3D
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome ProtMap
+               o Genome Workbench
+               o Primer-BLAST
+               o ProSplign
+               o PubChem Structure Search
+               o SNP Submission Tool
+               o Splign
+               o Vector Alignment Search Tool (VAST)
+               o All Data & Software Resources...
+          + Domains & Structures
+               o BioSystems
+               o Cn3D
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Structure (Molecular Modeling Database)
+               o Vector Alignment Search Tool (VAST)
+               o All Domains & Structures Resources...
+          + Genes & Expression
+               o BioSystems
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o E-Utilities
+               o Gene
+               o Gene Expression Omnibus (GEO) Database
+               o Gene Expression Omnibus (GEO) Datasets
+               o Gene Expression Omnibus (GEO) Profiles
+               o Genome Workbench
+               o HomoloGene
+               o Online Mendelian Inheritance in Man (OMIM)
+               o RefSeqGene
+               o All Genes & Expression Resources...
+          + Genetics & Medicine
+               o Bookshelf
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Genetic Testing Registry
+               o Influenza Virus
+               o Online Mendelian Inheritance in Man (OMIM)
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o RefSeqGene
+               o All Genetics & Medicine Resources...
+          + Genomes & Maps
+               o Database of Genomic Structural Variation (dbVar)
+               o GenBank: tbl2asn
+               o Genome
+               o Genome Project
+               o Genome Data Viewer (GDV)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o ProSplign
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All Genomes & Maps Resources...
+          + Homology
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o HomoloGene
+               o Protein Clusters
+               o All Homology Resources...
+          + Literature
+               o Bookshelf
+               o E-Utilities
+               o Journals in NCBI Databases
+               o MeSH Database
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o All Literature Resources...
+          + Proteins
+               o BioSystems
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o ProSplign
+               o Protein Clusters
+               o Protein Database
+               o Reference Sequence (RefSeq)
+               o All Proteins Resources...
+          + Sequence Analysis
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Primer-BLAST
+               o ProSplign
+               o Splign
+               o All Sequence Analysis Resources...
+          + Taxonomy
+               o Taxonomy
+               o Taxonomy Browser
+               o Taxonomy Common Tree
+               o All Taxonomy Resources...
+          + Training & Tutorials
+               o NCBI Education Page
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o All Training & Tutorials Resources...
+          + Variation
+               o Database of Genomic Structural Variation (dbVar)
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Database of Single Nucleotide Polymorphisms (dbSNP)
+               o SNP Submission Tool
+               o All Variation Resources...
+     * How To
+          + All How To
+          + Chemicals & Bioassays
+          + DNA & RNA
+          + Data & Software
+          + Domains & Structures
+          + Genes & Expression
+          + Genetics & Medicine
+          + Genomes & Maps
+          + Homology
+          + Literature
+          + Proteins
+          + Sequence Analysis
+          + Taxonomy
+          + Training & Tutorials
+          + Variation
+     * About NCBI Accesskeys
+
+   My NCBISign in to NCBISign Out
+
+PubMed
+
+   US National Library of Medicine National Institutes of Health
+   Search database[PubMed__________________]
+   Search term
+   Bourc’his, D. (201__
+   (BUTTON) Search
+     * Create RSS
+
+       RSS Settings
+
+          + Search: Bourc’his, D. (2010) [Fundamentals of epigenetics].
+            Bull Acad ...
+          + Number of items displayed:[15_]
+          + Feed name: Bourc’his, D. (201__
+       (BUTTON) Create RSS
+
+     * Create alert
+     * Advanced
+     * Help
+
+Result Filters
+
+     * Format: Abstract
+
+   Format
+
+     * ( ) Summary
+     * ( ) Summary (text)
+     * (*) Abstract
+     * ( ) Abstract (text)
+     * ( ) MEDLINE
+     * ( ) XML
+     * ( ) PMID List
+
+   (BUTTON) Apply
+
+Send to
+
+   Choose Destination
+
+     * (*) File
+     * ( ) Clipboard
+     * ( ) Collections
+     * ( ) E-mail
+     * ( ) Order
+     * ( ) My Bibliography
+     * ( ) Citation manager
+
+     * Format[Abstract (text)]
+
+   (BUTTON) Create File
+
+     * Search: 21166118[uid]
+     * Format[Abstract_______] [ ] MeSH and Other Data
+     * E-mail ____________________
+     * Subject 21166118[uid] - PubMed_________________
+     * Additional text
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+     *
+
+   (BUTTON) E-mail
+   Didn't get the message? Find out why...
+
+   (BUTTON) Add to Clipboard
+
+   (BUTTON) Add to Collections
+   (BUTTON) Order articles
+
+   Fetching bibliography...
+     * (*) My Bibliography
+
+   (BUTTON) Add to Bibliography
+
+   Generate a file for use with external citation management software.
+
+   (BUTTON) Create File
+
+See 1 citation found using an alternative search:
+
+   Bull Acad Natl Med. 2010 Feb;194(2):271-81; discussion 281-5.
+
+[Fundamentals of epigenetics].
+
+   [Article in French]
+   Bourc'his D^1.
+
+Author information
+
+   1
+          Unité de génétique et biologie du développement, UMR
+          3215--Inserm U934, Institut Curie, 26, rue d'Ulm, 75005 Paris.
+          deborah.bourchis@curie.fr
+
+Abstract
+
+   The genetic code cannot alone explain the diversity of cellular and
+   individual phenotypes. Epigenetics provides an additional level of
+   information that is not encoded in the DNA molecule but nonetheless
+   influences its activity in a stable and heritable manner through cell
+   divisions. This effect on gene expression results from variations in
+   chromatin states and is induced by biochemical modifications targeting
+   the DNA molecule or associated histone proteins. Epigenetic regulation
+   can convert a developmental or transient environmental signal into a
+   stable transcriptional response, which will then be perpetuated even in
+   the absence of the original stimulus. Epigenetic regulation explains
+   how, starting from a unique genome, the pluripotent embryo can generate
+   a variety of tissues and maintain their identity throughout
+   development. Epigenetics has a broad impact on development, by
+   controlling pluripotent and differentiated states. An increasing number
+   of pathological situations are being attributed to abnormal
+   establishment or maintenance of epigenetic patterns. Given the mitotic
+   heritability of epigenetic states, a key question is whether epigenetic
+   information can also be transmitted through generations.
+
+   PMID:
+          21166118
+
+          [Indexed for MEDLINE]
+
+   Share
+
+Publication type, MeSH terms
+
+Publication type
+
+     * English Abstract
+
+MeSH terms
+
+     * DNA Methylation
+     * Epigenomics*
+     * Humans
+
+     *
+
+Supplemental Content
+
+   Loading ...
+
+   21166118[uid]_________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   (BUTTON) Search
+   See more...
+   You are here: NCBI > Literature > PubMed
+   Support Center
+
+Simple NCBI Directory
+
+     * Getting Started
+     * NCBI Education
+     * NCBI Help Manual
+     * NCBI Handbook
+     * Training & Tutorials
+     * Submit Data
+
+     * Resources
+     * Chemicals & Bioassays
+     * Data & Software
+     * DNA & RNA
+     * Domains & Structures
+     * Genes & Expression
+     * Genetics & Medicine
+     * Genomes & Maps
+     * Homology
+     * Literature
+     * Proteins
+     * Sequence Analysis
+     * Taxonomy
+     * Variation
+
+     * Popular
+     * PubMed
+     * Bookshelf
+     * PubMed Central
+     * BLAST
+     * Nucleotide
+     * Genome
+     * SNP
+     * Gene
+     * Protein
+     * PubChem
+
+     * Featured
+     * Genetic Testing Registry
+     * GenBank
+     * Reference Sequences
+     * Gene Expression Omnibus
+     * Genome Data Viewer
+     * Human Genome
+     * Mouse Genome
+     * Influenza Virus
+     * Primer-BLAST
+     * Sequence Read Archive
+
+     * NCBI Information
+     * About NCBI
+     * Research at NCBI
+     * NCBI News & Blog
+     * NCBI FTP Site
+     * NCBI on Facebook
+     * NCBI on Twitter
+     * NCBI on YouTube
+     * Privacy Policy
+
+   External link. Please review our privacy policy.
+   NLM
+   NIH
+   DHHS
+   USA.gov
+
+   National Center for Biotechnology Information, U.S. National Library of
+   Medicine 8600 Rockville Pike, Bethesda MD, 20894 USA
+   Policies and Guidelines | Contact
+   #PubMed New and Noteworthy PubMed search
+
+   Warning: The NCBI web site requires JavaScript to function. more...
+     * NCBI NCBI Logo
+     * Skip to main content
+     * Skip to navigation
+     * Resources
+          + All Resources
+          + Chemicals & Bioassays
+               o BioSystems
+               o PubChem BioAssay
+               o PubChem Compound
+               o PubChem Structure Search
+               o PubChem Substance
+               o All Chemicals & Bioassays Resources...
+          + DNA & RNA
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o E-Utilities
+               o GenBank
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o Primer-BLAST
+               o ProSplign
+               o Reference Sequence (RefSeq)
+               o RefSeqGene
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All DNA & RNA Resources...
+          + Data & Software
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o Cn3D
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome ProtMap
+               o Genome Workbench
+               o Primer-BLAST
+               o ProSplign
+               o PubChem Structure Search
+               o SNP Submission Tool
+               o Splign
+               o Vector Alignment Search Tool (VAST)
+               o All Data & Software Resources...
+          + Domains & Structures
+               o BioSystems
+               o Cn3D
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Structure (Molecular Modeling Database)
+               o Vector Alignment Search Tool (VAST)
+               o All Domains & Structures Resources...
+          + Genes & Expression
+               o BioSystems
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o E-Utilities
+               o Gene
+               o Gene Expression Omnibus (GEO) Database
+               o Gene Expression Omnibus (GEO) Datasets
+               o Gene Expression Omnibus (GEO) Profiles
+               o Genome Workbench
+               o HomoloGene
+               o Online Mendelian Inheritance in Man (OMIM)
+               o RefSeqGene
+               o All Genes & Expression Resources...
+          + Genetics & Medicine
+               o Bookshelf
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Genetic Testing Registry
+               o Influenza Virus
+               o Online Mendelian Inheritance in Man (OMIM)
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o RefSeqGene
+               o All Genetics & Medicine Resources...
+          + Genomes & Maps
+               o Database of Genomic Structural Variation (dbVar)
+               o GenBank: tbl2asn
+               o Genome
+               o Genome Project
+               o Genome Data Viewer (GDV)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o ProSplign
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All Genomes & Maps Resources...
+          + Homology
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o HomoloGene
+               o Protein Clusters
+               o All Homology Resources...
+          + Literature
+               o Bookshelf
+               o E-Utilities
+               o Journals in NCBI Databases
+               o MeSH Database
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o All Literature Resources...
+          + Proteins
+               o BioSystems
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o ProSplign
+               o Protein Clusters
+               o Protein Database
+               o Reference Sequence (RefSeq)
+               o All Proteins Resources...
+          + Sequence Analysis
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Primer-BLAST
+               o ProSplign
+               o Splign
+               o All Sequence Analysis Resources...
+          + Taxonomy
+               o Taxonomy
+               o Taxonomy Browser
+               o Taxonomy Common Tree
+               o All Taxonomy Resources...
+          + Training & Tutorials
+               o NCBI Education Page
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o All Training & Tutorials Resources...
+          + Variation
+               o Database of Genomic Structural Variation (dbVar)
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Database of Single Nucleotide Polymorphisms (dbSNP)
+               o SNP Submission Tool
+               o All Variation Resources...
+     * How To
+          + All How To
+          + Chemicals & Bioassays
+          + DNA & RNA
+          + Data & Software
+          + Domains & Structures
+          + Genes & Expression
+          + Genetics & Medicine
+          + Genomes & Maps
+          + Homology
+          + Literature
+          + Proteins
+          + Sequence Analysis
+          + Taxonomy
+          + Training & Tutorials
+          + Variation
+     * About NCBI Accesskeys
+
+   My NCBISign in to NCBISign Out
+
+PubMed
+
+   US National Library of Medicine National Institutes of Health
+   Search database[PubMed__________________]
+   Search term
+   Feinberg AP, Tycko B
+   (BUTTON) Search
+     * Create RSS
+
+       RSS Settings
+
+          + Search: Feinberg AP, Tycko B. The history of cancer
+            epigenetics. Nat R...
+          + Number of items displayed:[15_]
+          + Feed name: Feinberg AP, Tycko B
+       (BUTTON) Create RSS
+
+     * Create alert
+     * Advanced
+     * Help
+
+Result Filters
+
+     * Format: Abstract
+
+   Format
+
+     * ( ) Summary
+     * ( ) Summary (text)
+     * (*) Abstract
+     * ( ) Abstract (text)
+     * ( ) MEDLINE
+     * ( ) XML
+     * ( ) PMID List
+
+   (BUTTON) Apply
+
+Send to
+
+   Choose Destination
+
+     * (*) File
+     * ( ) Clipboard
+     * ( ) Collections
+     * ( ) E-mail
+     * ( ) Order
+     * ( ) My Bibliography
+     * ( ) Citation manager
+
+     * Format[Abstract (text)]
+
+   (BUTTON) Create File
+
+     * Search: 14732866[uid]
+     * Format[Abstract_______] [ ] MeSH and Other Data
+     * E-mail ____________________
+     * Subject 14732866[uid] - PubMed_________________
+     * Additional text
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+     *
+
+   (BUTTON) E-mail
+   Didn't get the message? Find out why...
+
+   (BUTTON) Add to Clipboard
+
+   (BUTTON) Add to Collections
+   (BUTTON) Order articles
+
+   Fetching bibliography...
+     * (*) My Bibliography
+
+   (BUTTON) Add to Bibliography
+
+   Generate a file for use with external citation management software.
+
+   (BUTTON) Create File
+
+See 1 citation found using an alternative search:
+
+   Nat Rev Cancer. 2004 Feb;4(2):143-53. doi: 10.1038/nrc1279.
+
+The history of cancer epigenetics.
+
+   Feinberg AP^1, Tycko B.
+
+Author information
+
+   1
+          Department of Medicine, Johns Hopkins University School of
+          Medicine, Baltimore, Maryland 21205, USA. afeinberg@jhu.edu
+
+   PMID:
+          14732866
+
+   DOI:
+          10.1038/nrc1279
+
+          [Indexed for MEDLINE]
+
+   Share
+
+Publication types, MeSH terms, Substances, Grant support
+
+Publication types
+
+     * Research Support, U.S. Gov't, P.H.S.
+     * Review
+
+MeSH terms
+
+     * Antineoplastic Agents/pharmacology
+     * Chromatin/metabolism
+     * DNA Methylation*
+     * Epigenesis, Genetic*
+     * Gene Expression Regulation, Neoplastic*
+     * Gene Silencing
+     * Genes, Tumor Suppressor
+     * Genomic Imprinting
+     * Humans
+     * Models, Theoretical*
+     * Neoplasms/genetics*
+     * Neoplasms/physiopathology*
+     * Risk Factors
+
+Substances
+
+     * Antineoplastic Agents
+     * Chromatin
+
+Grant support
+
+     * R01 CA054358/CA/NCI NIH HHS/United States
+     * R37 CA054358/CA/NCI NIH HHS/United States
+     * R37 CA054358-14/CA/NCI NIH HHS/United States
+
+LinkOut - more resources
+
+Full Text Sources
+
+     * Nature Publishing Group
+
+Other Literature Sources
+
+     * Cited by Patents in - The Lens
+
+     *
+
+Supplemental Content
+
+Full text links
+
+   Icon for Nature Publishing Group
+   Loading ...
+
+   14732866[uid]_________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   (BUTTON) Search
+   See more...
+   You are here: NCBI > Literature > PubMed
+   Support Center
+
+Simple NCBI Directory
+
+     * Getting Started
+     * NCBI Education
+     * NCBI Help Manual
+     * NCBI Handbook
+     * Training & Tutorials
+     * Submit Data
+
+     * Resources
+     * Chemicals & Bioassays
+     * Data & Software
+     * DNA & RNA
+     * Domains & Structures
+     * Genes & Expression
+     * Genetics & Medicine
+     * Genomes & Maps
+     * Homology
+     * Literature
+     * Proteins
+     * Sequence Analysis
+     * Taxonomy
+     * Variation
+
+     * Popular
+     * PubMed
+     * Bookshelf
+     * PubMed Central
+     * BLAST
+     * Nucleotide
+     * Genome
+     * SNP
+     * Gene
+     * Protein
+     * PubChem
+
+     * Featured
+     * Genetic Testing Registry
+     * GenBank
+     * Reference Sequences
+     * Gene Expression Omnibus
+     * Genome Data Viewer
+     * Human Genome
+     * Mouse Genome
+     * Influenza Virus
+     * Primer-BLAST
+     * Sequence Read Archive
+
+     * NCBI Information
+     * About NCBI
+     * Research at NCBI
+     * NCBI News & Blog
+     * NCBI FTP Site
+     * NCBI on Facebook
+     * NCBI on Twitter
+     * NCBI on YouTube
+     * Privacy Policy
+
+   External link. Please review our privacy policy.
+   NLM
+   NIH
+   DHHS
+   USA.gov
+
+   National Center for Biotechnology Information, U.S. National Library of
+   Medicine 8600 Rockville Pike, Bethesda MD, 20894 USA
+   Policies and Guidelines | Contact
+   #PubMed New and Noteworthy PubMed search
+
+   Warning: The NCBI web site requires JavaScript to function. more...
+     * NCBI NCBI Logo
+     * Skip to main content
+     * Skip to navigation
+     * Resources
+          + All Resources
+          + Chemicals & Bioassays
+               o BioSystems
+               o PubChem BioAssay
+               o PubChem Compound
+               o PubChem Structure Search
+               o PubChem Substance
+               o All Chemicals & Bioassays Resources...
+          + DNA & RNA
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o E-Utilities
+               o GenBank
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o Primer-BLAST
+               o ProSplign
+               o Reference Sequence (RefSeq)
+               o RefSeqGene
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All DNA & RNA Resources...
+          + Data & Software
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o Cn3D
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome ProtMap
+               o Genome Workbench
+               o Primer-BLAST
+               o ProSplign
+               o PubChem Structure Search
+               o SNP Submission Tool
+               o Splign
+               o Vector Alignment Search Tool (VAST)
+               o All Data & Software Resources...
+          + Domains & Structures
+               o BioSystems
+               o Cn3D
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Structure (Molecular Modeling Database)
+               o Vector Alignment Search Tool (VAST)
+               o All Domains & Structures Resources...
+          + Genes & Expression
+               o BioSystems
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o E-Utilities
+               o Gene
+               o Gene Expression Omnibus (GEO) Database
+               o Gene Expression Omnibus (GEO) Datasets
+               o Gene Expression Omnibus (GEO) Profiles
+               o Genome Workbench
+               o HomoloGene
+               o Online Mendelian Inheritance in Man (OMIM)
+               o RefSeqGene
+               o All Genes & Expression Resources...
+          + Genetics & Medicine
+               o Bookshelf
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Genetic Testing Registry
+               o Influenza Virus
+               o Online Mendelian Inheritance in Man (OMIM)
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o RefSeqGene
+               o All Genetics & Medicine Resources...
+          + Genomes & Maps
+               o Database of Genomic Structural Variation (dbVar)
+               o GenBank: tbl2asn
+               o Genome
+               o Genome Project
+               o Genome Data Viewer (GDV)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o ProSplign
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All Genomes & Maps Resources...
+          + Homology
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o HomoloGene
+               o Protein Clusters
+               o All Homology Resources...
+          + Literature
+               o Bookshelf
+               o E-Utilities
+               o Journals in NCBI Databases
+               o MeSH Database
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o All Literature Resources...
+          + Proteins
+               o BioSystems
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o ProSplign
+               o Protein Clusters
+               o Protein Database
+               o Reference Sequence (RefSeq)
+               o All Proteins Resources...
+          + Sequence Analysis
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Primer-BLAST
+               o ProSplign
+               o Splign
+               o All Sequence Analysis Resources...
+          + Taxonomy
+               o Taxonomy
+               o Taxonomy Browser
+               o Taxonomy Common Tree
+               o All Taxonomy Resources...
+          + Training & Tutorials
+               o NCBI Education Page
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o All Training & Tutorials Resources...
+          + Variation
+               o Database of Genomic Structural Variation (dbVar)
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Database of Single Nucleotide Polymorphisms (dbSNP)
+               o SNP Submission Tool
+               o All Variation Resources...
+     * How To
+          + All How To
+          + Chemicals & Bioassays
+          + DNA & RNA
+          + Data & Software
+          + Domains & Structures
+          + Genes & Expression
+          + Genetics & Medicine
+          + Genomes & Maps
+          + Homology
+          + Literature
+          + Proteins
+          + Sequence Analysis
+          + Taxonomy
+          + Training & Tutorials
+          + Variation
+     * About NCBI Accesskeys
+
+   My NCBISign in to NCBISign Out
+
+PubMed
+
+   US National Library of Medicine National Institutes of Health
+   Search database[PubMed__________________]
+   Search term
+   Gabory, A., Attig, L
+   (BUTTON) Search
+     * Create alert
+     * Advanced
+     * Help
+
+Result Filters
+
+     *
+
+Article types
+       Clear
+          + Clinical Trial
+          + Review
+          + Customize ...
+
+     *
+
+Text availability
+       Clear
+          + Abstract
+          + Free full text
+          + Full text
+
+     *
+
+Publication dates
+       clear
+          + 5 years
+          + 10 years
+          + Custom range...
+            (BUTTON) x
+
+Custom date range
+            Start Year ____Start Month __Start Day __toEnd Year ____End
+            Month __End Day __
+            (BUTTON) Apply (BUTTON) Clear
+
+     *
+
+Species
+       Clear
+          + Humans
+          + Other Animals
+
+     * Clear all
+
+     * Show additional filters
+       (BUTTON) x
+
+Additional filters
+          + [ ] Article types
+          + [ ] Text availability
+          + [ ] Publication dates
+          + [ ] Species
+          + [ ] Languages
+          + [ ] Sex
+          + [ ] Subjects
+          + [ ] Journal categories
+          + [ ] Ages
+          + [ ] Search fields
+       (BUTTON) Show
+
+See 3 citations found using an alternative search:
+
+   Developmental programming and epigenetics. Gabory A et al. Am J Clin
+   Nutr. (2011)
+
+   Epigenetic mechanisms involved in developmental nutritional
+   programming. Gabory A et al. World J Diabetes. (2011)
+
+   Early nutrition and epigenetic programming: chasing shadows. Attig L et
+   al. Curr Opin Clin Nutr Metab Care. (2010)
+
+Search results
+
+Items: 0
+
+     * No documents match your search terms
+
+Supplemental Content
+
+   Loading ...
+
+   (Gabory[All Fields] AND Attig[
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   (BUTTON) Search
+   See more...
+   You are here: NCBI > Literature > PubMed
+   Support Center
+
+Simple NCBI Directory
+
+     * Getting Started
+     * NCBI Education
+     * NCBI Help Manual
+     * NCBI Handbook
+     * Training & Tutorials
+     * Submit Data
+
+     * Resources
+     * Chemicals & Bioassays
+     * Data & Software
+     * DNA & RNA
+     * Domains & Structures
+     * Genes & Expression
+     * Genetics & Medicine
+     * Genomes & Maps
+     * Homology
+     * Literature
+     * Proteins
+     * Sequence Analysis
+     * Taxonomy
+     * Variation
+
+     * Popular
+     * PubMed
+     * Bookshelf
+     * PubMed Central
+     * BLAST
+     * Nucleotide
+     * Genome
+     * SNP
+     * Gene
+     * Protein
+     * PubChem
+
+     * Featured
+     * Genetic Testing Registry
+     * GenBank
+     * Reference Sequences
+     * Gene Expression Omnibus
+     * Genome Data Viewer
+     * Human Genome
+     * Mouse Genome
+     * Influenza Virus
+     * Primer-BLAST
+     * Sequence Read Archive
+
+     * NCBI Information
+     * About NCBI
+     * Research at NCBI
+     * NCBI News & Blog
+     * NCBI FTP Site
+     * NCBI on Facebook
+     * NCBI on Twitter
+     * NCBI on YouTube
+     * Privacy Policy
+
+   External link. Please review our privacy policy.
+   NLM
+   NIH
+   DHHS
+   USA.gov
+
+   National Center for Biotechnology Information, U.S. National Library of
+   Medicine 8600 Rockville Pike, Bethesda MD, 20894 USA
+   Policies and Guidelines | Contact
+   #PubMed New and Noteworthy PubMed search
+
+   Warning: The NCBI web site requires JavaScript to function. more...
+     * NCBI NCBI Logo
+     * Skip to main content
+     * Skip to navigation
+     * Resources
+          + All Resources
+          + Chemicals & Bioassays
+               o BioSystems
+               o PubChem BioAssay
+               o PubChem Compound
+               o PubChem Structure Search
+               o PubChem Substance
+               o All Chemicals & Bioassays Resources...
+          + DNA & RNA
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o E-Utilities
+               o GenBank
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o Primer-BLAST
+               o ProSplign
+               o Reference Sequence (RefSeq)
+               o RefSeqGene
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All DNA & RNA Resources...
+          + Data & Software
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o Cn3D
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome ProtMap
+               o Genome Workbench
+               o Primer-BLAST
+               o ProSplign
+               o PubChem Structure Search
+               o SNP Submission Tool
+               o Splign
+               o Vector Alignment Search Tool (VAST)
+               o All Data & Software Resources...
+          + Domains & Structures
+               o BioSystems
+               o Cn3D
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Structure (Molecular Modeling Database)
+               o Vector Alignment Search Tool (VAST)
+               o All Domains & Structures Resources...
+          + Genes & Expression
+               o BioSystems
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o E-Utilities
+               o Gene
+               o Gene Expression Omnibus (GEO) Database
+               o Gene Expression Omnibus (GEO) Datasets
+               o Gene Expression Omnibus (GEO) Profiles
+               o Genome Workbench
+               o HomoloGene
+               o Online Mendelian Inheritance in Man (OMIM)
+               o RefSeqGene
+               o All Genes & Expression Resources...
+          + Genetics & Medicine
+               o Bookshelf
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Genetic Testing Registry
+               o Influenza Virus
+               o Online Mendelian Inheritance in Man (OMIM)
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o RefSeqGene
+               o All Genetics & Medicine Resources...
+          + Genomes & Maps
+               o Database of Genomic Structural Variation (dbVar)
+               o GenBank: tbl2asn
+               o Genome
+               o Genome Project
+               o Genome Data Viewer (GDV)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o ProSplign
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All Genomes & Maps Resources...
+          + Homology
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o HomoloGene
+               o Protein Clusters
+               o All Homology Resources...
+          + Literature
+               o Bookshelf
+               o E-Utilities
+               o Journals in NCBI Databases
+               o MeSH Database
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o All Literature Resources...
+          + Proteins
+               o BioSystems
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o ProSplign
+               o Protein Clusters
+               o Protein Database
+               o Reference Sequence (RefSeq)
+               o All Proteins Resources...
+          + Sequence Analysis
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Primer-BLAST
+               o ProSplign
+               o Splign
+               o All Sequence Analysis Resources...
+          + Taxonomy
+               o Taxonomy
+               o Taxonomy Browser
+               o Taxonomy Common Tree
+               o All Taxonomy Resources...
+          + Training & Tutorials
+               o NCBI Education Page
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o All Training & Tutorials Resources...
+          + Variation
+               o Database of Genomic Structural Variation (dbVar)
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Database of Single Nucleotide Polymorphisms (dbSNP)
+               o SNP Submission Tool
+               o All Variation Resources...
+     * How To
+          + All How To
+          + Chemicals & Bioassays
+          + DNA & RNA
+          + Data & Software
+          + Domains & Structures
+          + Genes & Expression
+          + Genetics & Medicine
+          + Genomes & Maps
+          + Homology
+          + Literature
+          + Proteins
+          + Sequence Analysis
+          + Taxonomy
+          + Training & Tutorials
+          + Variation
+     * About NCBI Accesskeys
+
+   My NCBISign in to NCBISign Out
+
+PubMed
+
+   US National Library of Medicine National Institutes of Health
+   Search database[PubMed__________________]
+   Search term
+   Epigenetic biomarker
+   (BUTTON) Search
+     * Create RSS
+
+       RSS Settings
+
+          + Search: Epigenetic biomarkers in skin cancer Cancer Letters
+            342 (2014)...
+          + Number of items displayed:[15_]
+          + Feed name: Epigenetic biomarker
+       (BUTTON) Create RSS
+
+     * Create alert
+     * Advanced
+     * Help
+
+Result Filters
+
+     * Format: Abstract
+
+   Format
+
+     * ( ) Summary
+     * ( ) Summary (text)
+     * (*) Abstract
+     * ( ) Abstract (text)
+     * ( ) MEDLINE
+     * ( ) XML
+     * ( ) PMID List
+
+   (BUTTON) Apply
+
+Send to
+
+   Choose Destination
+
+     * (*) File
+     * ( ) Clipboard
+     * ( ) Collections
+     * ( ) E-mail
+     * ( ) Order
+     * ( ) My Bibliography
+     * ( ) Citation manager
+
+     * Format[Abstract (text)]
+
+   (BUTTON) Create File
+
+     * Search: 22289720[uid]
+     * Format[Abstract_______] [ ] MeSH and Other Data
+     * E-mail ____________________
+     * Subject 22289720[uid] - PubMed_________________
+     * Additional text
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+     *
+
+   (BUTTON) E-mail
+   Didn't get the message? Find out why...
+
+   (BUTTON) Add to Clipboard
+
+   (BUTTON) Add to Collections
+   (BUTTON) Order articles
+
+   Fetching bibliography...
+     * (*) My Bibliography
+
+   (BUTTON) Add to Bibliography
+
+   Generate a file for use with external citation management software.
+
+   (BUTTON) Create File
+
+See 1 citation found using an alternative search:
+
+   Cancer Lett. 2014 Jan 28;342(2):170-7. doi:
+   10.1016/j.canlet.2012.01.020. Epub 2012 Jan 27.
+
+Epigenetic biomarkers in skin cancer.
+
+   Greenberg ES^1, Chong KK, Huynh KT, Tanaka R, Hoon DS.
+
+Author information
+
+   1
+          Department of Molecular Oncology, John Wayne Cancer Institute at
+          Saint John's Health Center, Santa Monica, CA, USA.
+
+Abstract
+
+   Epigenetic aberrations have been associated with cutaneous melanoma
+   tumorigenesis and progression including dysregulated DNA gene promoter
+   region methylation, histone modification, and microRNA. Several of
+   these major epigenetic aberrations have been developed into biomarkers.
+   Epigenetic biomarkers can be detected in tissue and in blood as
+   circulating DNA in melanoma patients. There is strong evidence that
+   biomarkers in cutaneous melanoma will have an important role as
+   companions to therapeutics and overall patient management. Important
+   progress has been made in epigenetic melanoma biomarker development and
+   verification of clinical utility, and this review discusses some of the
+   key current developments and existing challenges.
+
+   Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.
+
+KEYWORDS:
+
+   BC; BCC; BM; Biomarker; CAE; CIMP; CTC; CTCL; ChIP; CoBRA; CpG island
+   methylator phenotype; DNA methyltransferase; DNMT; Epigenetics; IHC;
+   LINE-1; MCC; MINT; MSP; Melanoma; Methylation; MicroRNA; OS; PCR;
+   Prognosis; ROC; SBM; SCC; TMZ; TRG; UTR; basal cell carcinoma;
+   biochemotherapy; biomarker; capillary array electrophoresis; cell-free
+   circulating nucleic acid; cf-CNA; chromatin immunoprecipitation;
+   circulating tumor cell; combined bisulfite restriction analysis;
+   cutaneous T-cell lymphoma; immunohistochemistry; long interspersed
+   nuclear element-1; merkel cell carcinoma; methylated-in-tumor;
+   methylation-specific realtime PCR; miRNA; micro-RNAs; overall survival;
+   polymerase chain reaction; receiver operating characteristics; sodium
+   bisulfite modification; squamous cell carcinoma; temozolomide;
+   tumor-related genes; untranslated region
+
+   PMID:
+          22289720
+
+   PMCID:
+          PMC3391356
+
+   DOI:
+          10.1016/j.canlet.2012.01.020
+
+          [Indexed for MEDLINE]
+
+   Free PMC Article
+   Share
+   Images from this publication.See all images (3)Free text
+   Figure 1
+   Figure 1
+   Epigenomic BMs and studied applications.
+   Epigenetic Biomarkers in Skin Cancer
+   Cancer Lett. ;342(2):10.1016/j.canlet.2012.01.020.
+   Figure 2
+   Figure 2
+   (A) Kaplan-Meier survival curves of biochemotherapy (BC) patients:
+   Correlation of pre-BC serum RASSF1A methylation BM with overall
+   survival (log-rank test, P = .013). Methylated: Patients with serum
+   methylation of RASSF1A. Nonmethylated: Patients with no serum
+   methylation of RASSF1A. (B) Correlation of pre-BC serum RARβ-2
+   methylation status with overall survival (log-rank test, P = .02).
+   Methylated: Patients with serum methylation of RARβ-2. Nonmethylated:
+   Patients with no serum methylation of RARβ-2. (C) Correlation of pre-BC
+   serum methylation of at least one BM with overall survival (log-rank
+   test, P = .01). ≥ 1 methylated: Patients with serum methylation of at
+   least one BM. Nonmethylated: Patients with no serum methylation of
+   genes. Figure reproduced with permission from Mori et al. 2005 [].
+   Epigenetic Biomarkers in Skin Cancer
+   Cancer Lett. ;342(2):10.1016/j.canlet.2012.01.020.
+   Figure 3
+   Figure 3
+   (A) Kaplan-Meier curves showing the correlation of pre-BC serum ER-α
+   methylation status with progression-free survival (Cox proportional
+   hazard, P = 0.004). Methylated, patients with serum methylated ER-α
+   DNA. No methylation, patients with no detectable serum methylated ER-α.
+   (B) Kaplan-Meier curves showing the correlation of pre-biochemotherapy
+   serum ER-α methylation status with OS (Cox proportional hazard, P =
+   0.003). Figure reproduced with permission from Mori et al. 2006 [].
+   Epigenetic Biomarkers in Skin Cancer
+   Cancer Lett. ;342(2):10.1016/j.canlet.2012.01.020.
+
+Publication types, MeSH terms, Substances, Grant support
+
+Publication types
+
+     * Research Support, N.I.H., Extramural
+     * Research Support, Non-U.S. Gov't
+     * Review
+
+MeSH terms
+
+     * Animals
+     * Biomarkers, Tumor/genetics*
+     * Biomarkers, Tumor/metabolism
+     * DNA Methylation
+     * Epigenesis, Genetic*
+     * Gene Expression Regulation, Neoplastic
+     * Genetic Predisposition to Disease
+     * Genetic Testing
+     * Histones/metabolism
+     * Humans
+     * Melanoma/diagnosis
+     * Melanoma/genetics*
+     * Melanoma/metabolism
+     * Melanoma/therapy
+     * MicroRNAs/genetics
+     * Phenotype
+     * Predictive Value of Tests
+     * Prognosis
+     * Skin Neoplasms/diagnosis
+     * Skin Neoplasms/genetics*
+     * Skin Neoplasms/metabolism
+     * Skin Neoplasms/therapy
+
+Substances
+
+     * Biomarkers, Tumor
+     * Histones
+     * MicroRNAs
+
+Grant support
+
+     * P01 CA012582/CA/NCI NIH HHS/United States
+     * P01 CA012582-35S1/CA/NCI NIH HHS/United States
+     * P01 CA029605/CA/NCI NIH HHS/United States
+     * P01 CA029605-30/CA/NCI NIH HHS/United States
+
+LinkOut - more resources
+
+Full Text Sources
+
+     * Elsevier Science
+     * ClinicalKey
+     * Europe PubMed Central - Author Manuscript
+     * PubMed Central - Author Manuscript
+
+Medical
+
+     * Skin Cancer - MedlinePlus Health Information
+     * Melanoma - MedlinePlus Health Information
+
+Miscellaneous
+
+     * NCI CPTC Antibody Characterization Program
+
+     *
+
+Supplemental Content
+
+Full text links
+
+   Icon for Elsevier Science Icon for PubMed Central
+   Loading ...
+
+   22289720[uid]_________________
+   ______________________________
+   ______________________________
+   ______________________________
+   ______________________________
+   (BUTTON) Search
+   See more...
+   You are here: NCBI > Literature > PubMed
+   Support Center
+
+Simple NCBI Directory
+
+     * Getting Started
+     * NCBI Education
+     * NCBI Help Manual
+     * NCBI Handbook
+     * Training & Tutorials
+     * Submit Data
+
+     * Resources
+     * Chemicals & Bioassays
+     * Data & Software
+     * DNA & RNA
+     * Domains & Structures
+     * Genes & Expression
+     * Genetics & Medicine
+     * Genomes & Maps
+     * Homology
+     * Literature
+     * Proteins
+     * Sequence Analysis
+     * Taxonomy
+     * Variation
+
+     * Popular
+     * PubMed
+     * Bookshelf
+     * PubMed Central
+     * BLAST
+     * Nucleotide
+     * Genome
+     * SNP
+     * Gene
+     * Protein
+     * PubChem
+
+     * Featured
+     * Genetic Testing Registry
+     * GenBank
+     * Reference Sequences
+     * Gene Expression Omnibus
+     * Genome Data Viewer
+     * Human Genome
+     * Mouse Genome
+     * Influenza Virus
+     * Primer-BLAST
+     * Sequence Read Archive
+
+     * NCBI Information
+     * About NCBI
+     * Research at NCBI
+     * NCBI News & Blog
+     * NCBI FTP Site
+     * NCBI on Facebook
+     * NCBI on Twitter
+     * NCBI on YouTube
+     * Privacy Policy
+
+   External link. Please review our privacy policy.
+   NLM
+   NIH
+   DHHS
+   USA.gov
+
+   National Center for Biotechnology Information, U.S. National Library of
+   Medicine 8600 Rockville Pike, Bethesda MD, 20894 USA
+   Policies and Guidelines | Contact
+   #PubMed New and Noteworthy PubMed search
+
+   Warning: The NCBI web site requires JavaScript to function. more...
+     * NCBI NCBI Logo
+     * Skip to main content
+     * Skip to navigation
+     * Resources
+          + All Resources
+          + Chemicals & Bioassays
+               o BioSystems
+               o PubChem BioAssay
+               o PubChem Compound
+               o PubChem Structure Search
+               o PubChem Substance
+               o All Chemicals & Bioassays Resources...
+          + DNA & RNA
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o E-Utilities
+               o GenBank
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o Primer-BLAST
+               o ProSplign
+               o Reference Sequence (RefSeq)
+               o RefSeqGene
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All DNA & RNA Resources...
+          + Data & Software
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o Cn3D
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o GenBank: BankIt
+               o GenBank: Sequin
+               o GenBank: tbl2asn
+               o Genome ProtMap
+               o Genome Workbench
+               o Primer-BLAST
+               o ProSplign
+               o PubChem Structure Search
+               o SNP Submission Tool
+               o Splign
+               o Vector Alignment Search Tool (VAST)
+               o All Data & Software Resources...
+          + Domains & Structures
+               o BioSystems
+               o Cn3D
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Structure (Molecular Modeling Database)
+               o Vector Alignment Search Tool (VAST)
+               o All Domains & Structures Resources...
+          + Genes & Expression
+               o BioSystems
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o E-Utilities
+               o Gene
+               o Gene Expression Omnibus (GEO) Database
+               o Gene Expression Omnibus (GEO) Datasets
+               o Gene Expression Omnibus (GEO) Profiles
+               o Genome Workbench
+               o HomoloGene
+               o Online Mendelian Inheritance in Man (OMIM)
+               o RefSeqGene
+               o All Genes & Expression Resources...
+          + Genetics & Medicine
+               o Bookshelf
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Genetic Testing Registry
+               o Influenza Virus
+               o Online Mendelian Inheritance in Man (OMIM)
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o RefSeqGene
+               o All Genetics & Medicine Resources...
+          + Genomes & Maps
+               o Database of Genomic Structural Variation (dbVar)
+               o GenBank: tbl2asn
+               o Genome
+               o Genome Project
+               o Genome Data Viewer (GDV)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Nucleotide Database
+               o PopSet
+               o ProSplign
+               o Sequence Read Archive (SRA)
+               o Splign
+               o Trace Archive
+               o All Genomes & Maps Resources...
+          + Homology
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o HomoloGene
+               o Protein Clusters
+               o All Homology Resources...
+          + Literature
+               o Bookshelf
+               o E-Utilities
+               o Journals in NCBI Databases
+               o MeSH Database
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o PubMed
+               o PubMed Central (PMC)
+               o PubMed Clinical Queries
+               o All Literature Resources...
+          + Proteins
+               o BioSystems
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Database (CDD)
+               o Conserved Domain Search Service (CD Search)
+               o E-Utilities
+               o ProSplign
+               o Protein Clusters
+               o Protein Database
+               o Reference Sequence (RefSeq)
+               o All Proteins Resources...
+          + Sequence Analysis
+               o BLAST (Basic Local Alignment Search Tool)
+               o BLAST (Stand-alone)
+               o BLAST Link (BLink)
+               o Conserved Domain Search Service (CD Search)
+               o Genome ProtMap
+               o Genome Workbench
+               o Influenza Virus
+               o Primer-BLAST
+               o ProSplign
+               o Splign
+               o All Sequence Analysis Resources...
+          + Taxonomy
+               o Taxonomy
+               o Taxonomy Browser
+               o Taxonomy Common Tree
+               o All Taxonomy Resources...
+          + Training & Tutorials
+               o NCBI Education Page
+               o NCBI Handbook
+               o NCBI Help Manual
+               o NCBI News & Blog
+               o All Training & Tutorials Resources...
+          + Variation
+               o Database of Genomic Structural Variation (dbVar)
+               o Database of Genotypes and Phenotypes (dbGaP)
+               o Database of Single Nucleotide Polymorphisms (dbSNP)
+               o SNP Submission Tool
+               o All Variation Resources...
+     * How To
+          + All How To
+          + Chemicals & Bioassays
+          + DNA & RNA
+          + Data & Software
+          + Domains & Structures
+          + Genes & Expression
+          + Genetics & Medicine
+          + Genomes & Maps
+          + Homology
+          + Literature
+          + Proteins
+          + Sequence Analysis
+          + Taxonomy
+          + Training & Tutorials
+          + Variation
+     * About NCBI Accesskeys
+
+   My NCBISign in to NCBISign Out
+
+PubMed
+
+   US National Library of Medicine National Institutes of Health
+   Search database[PubMed__________________]
+   Search term
+   ____________________
+   (BUTTON) Search
+     * Advanced
+     * Help
+
+Result Filters
+
+     * Format: Abstract
+
+   Format
+
+     * ( ) Summary
+     * ( ) Summary (text)
+     * (*) Abstract
+     * ( ) Abstract (text)
+     * ( ) MEDLINE
+     * ( ) XML
+     * ( ) PMID List
+
+   (BUTTON) Apply
+
+Send to
+
+   Choose Destination
+
+     * (*) File
+     * ( ) Clipboard
+     * ( ) Collections
+     * ( ) E-mail
+     * ( ) Order
+     * ( ) My Bibliography
+     * ( ) Citation manager
+
+     * Format[Abstract (text)]
+
+   (BUTTON) Create File
+
+     * 1 selected item: 23749751
+     * Format[Abstract_______] [ ] MeSH and Other Data
+     * E-mail ____________________
+     * Subject 1 selected item: 23749751 - PubMed_____
+     * Additional text
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+       ____________________________________________________________
+     *
+
+   (BUTTON) E-mail
+   Didn't get the message? Find out why...
+
+   (BUTTON) Add to Clipboard
+
+   (BUTTON) Add to Collections
+   (BUTTON) Order articles
+
+   Fetching bibliography...
+     * (*) My Bibliography
+
+   (BUTTON) Add to Bibliography
+
+   Generate a file for use with external citation management software.
+
+   (BUTTON) Create File
+   Carcinogenesis. 2013 Sep;34(9):1955-67. doi: 10.1093/carcin/bgt212.
+   Epub 2013 Jun 7.
+
+Towards incorporating epigenetic mechanisms into carcinogen identification
+and evaluation.
+
+   Herceg Z^1, Lambert MP, van Veldhoven K, Demetriou C, Vineis P, Smith
+   MT, Straif K, Wild CP.
+
+Author information
+
+   1
+          International Agency for Research on Cancer (IARC), 150 Cours
+          Albert Thomas, F-69008 Lyon, France.
+
+Abstract
+
+   Remarkable progress in the field of epigenetics has turned academic,
+   medical and public attention to the potential applications of these new
+   advances in medicine and various fields of biomedical research. The
+   result is a broader appreciation of epigenetic phenomena in the a
+   etiology of common human diseases, most notably cancer. These advances
+   also represent an exciting opportunity to incorporate epigenetics and
+   epigenomics into carcinogen identification and safety assessment.
+   Current epigenetic studies, including major international sequencing
+   projects, are expected to generate information for establishing the
+   'normal' epigenome of tissues and cell types as well as the
+   physiological variability of the epigenome against which carcinogen
+   exposure can be assessed. Recently, epigenetic events have emerged as
+   key mechanisms in cancer development, and while our search of the
+   Monograph Volume 100 revealed that epigenetics have played a modest
+   role in evaluating human carcinogens by the International Agency for
+   Research on Cancer (IARC) Monographs so far, epigenetic data might play
+   a pivotal role in the future. Here, we review (i) the current status of
+   incorporation of epigenetics in carcinogen evaluation in the IARC
+   Monographs Programme, (ii) potential modes of action for epigenetic
+   carcinogens, (iii) current in vivo and in vitro technologies to detect
+   epigenetic carcinogens, (iv) genomic regions and epigenetic
+   modifications and their biological consequences and (v) critical
+   technological and biological issues in assessment of epigenetic
+   carcinogens. We also discuss the issues related to opportunities and
+   challenges in the application of epigenetic testing in carcinogen
+   identification and evaluation. Although the application of epigenetic
+   assays in carcinogen evaluation is still in its infancy, important data
+   are being generated and valuable scientific resources are being
+   established that should catalyse future applications of epigenetic
+   testing.
+
+   PMID:
+          23749751
+
+   PMCID:
+          PMC3765050
+
+   DOI:
+          10.1093/carcin/bgt212
+
+          [Indexed for MEDLINE]
+
+   Free PMC Article
+   Share
+   Images from this publication.See all images (2)Free text
+   Fig. 1.
+   Fig. 1.
+   Epigenetic mechanisms regulate key cellular processes (such as gene
+   transcription, DNA repair and differentiation) and play critical roles
+   in cellular responses to environmental exposures and endogenous
+   stimuli. Deregulation of epigenetic mechanisms may promote the
+   development of abnormal phenotypes and cancer. There is a crosstalk
+   between epigenetic and genetic changes in the process of cancer
+   development and progression. Given that epigenetic and genetic changes
+   coexist in all cancers, it is often unclear what are the primary and
+   secondary events pertinent to carcinogenesis.
+   Towards incorporating epigenetic mechanisms into carcinogen
+   identification and evaluation
+   Carcinogenesis. 2013 Sep;34(9):1955-1967.
+   Fig. 2.
+   Fig. 2.
+   Testing the effects of maternal diet on the phenotype of the offspring
+   using the Avy/a mouse model. (A) The effect of dietary supplementation
+   of female mice before or after mating with male Avy/a agouti mice can
+   be tested. (B) The effect of maternal dietary supplementation on the
+   epigenome can be ‘read’ by coat-colour distribution in Avy/a offspring.
+   (C) The effect of DNA methylation at the intracisternal A particle
+   (IAP) on agouti gene expression. Maternal dietary supplementation may
+   shift the coat-colour distribution of the offspring. This shift is a
+   result of change in methylation at IAP element upstream of the agouti
+   gene. Adapted from ref. ().
+   Towards incorporating epigenetic mechanisms into carcinogen
+   identification and evaluation
+   Carcinogenesis. 2013 Sep;34(9):1955-1967.
+
+Publication types, MeSH terms, Substances, Grant support
+
+Publication types
+
+     * Research Support, Non-U.S. Gov't
+     * Review
+
+MeSH terms
+
+     * Carcinogens*/classification
+     * Carcinogens*/isolation & purification
+     * Carcinogens*/toxicity
+     * DNA Methylation/drug effects
+     * DNA Methylation/genetics*
+     * Epigenesis, Genetic/drug effects
+     * Epigenesis, Genetic/genetics*
+     * Epigenomics
+     * Histones/genetics
+     * Histones/metabolism
+     * Humans
+     * Neoplasms/chemically induced*
+     * Neoplasms/genetics
+     * Neoplasms/pathology
+
+Substances
+
+     * Carcinogens
+     * Histones
+
+Grant support
+
+     * P42 ES004705/ES/NIEHS NIH HHS/United States
+
+LinkOut - more resources
+
+Full Text Sources
+
+     * Silverchair Information Systems
+     * Europe PubMed Central
+     * Ovid Technologies, Inc.
+     * PubMed Central
+
+Molecular Biology Databases
+
+     * Mouse Genome Informatics (MGI)
+
+     *
+
+Supplemental Content
+
+Full text links
+
+   Icon for Silverchair Information Systems Icon for PubMed Central
+   Loading ...
+   You are here: NCBI > Literature > PubMed
+   Support Center
+
+Simple NCBI Directory
+
+     * Getting Started
+     * NCBI Education
+     * NCBI Help Manual
+     * NCBI Handbook
+     * Training & Tutorials
+     * Submit Data
+
+     * Resources
+     * Chemicals & Bioassays
+     * Data & Software
+     * DNA & RNA
+     * Domains & Structures
+     * Genes & Expression
+     * Genetics & Medicine
+     * Genomes & Maps
+     * Homology
+     * Literature
+     * Proteins
+     * Sequence Analysis
+     * Taxonomy
+     * Variation
+
+     * Popular
+     * PubMed
+     * Bookshelf
+     * PubMed Central
+     * BLAST
+     * Nucleotide
+     * Genome
+     * SNP
+     * Gene
+     * Protein
+     * PubChem
+
+     * Featured
+     * Genetic Testing Registry
+     * GenBank
+     * Reference Sequences
+     * Gene Expression Omnibus
+     * Genome Data Viewer
+     * Human Genome
+     * Mouse Genome
+     * Influenza Virus
+     * Primer-BLAST
+     * Sequence Read Archive
+
+     * NCBI Information
+     * About NCBI
+     * Research at NCBI
+     * NCBI News & Blog
+     * NCBI FTP Site
+     * NCBI on Facebook
+     * NCBI on Twitter
+     * NCBI on YouTube
+     * Privacy Policy
+
+   External link. Please review our privacy policy.
+   NLM
+   NIH
+   DHHS
+   USA.gov
+
+   National Center for Biotechnology Information, U.S. National Library of
+   Medicine 8600 Rockville Pike, Bethesda MD, 20894 USA
+   Policies and Guidelines | Contact

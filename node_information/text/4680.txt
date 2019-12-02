@@ -1,0 +1,928 @@
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/L
+
+   assez facile Exercice corrigé
+
+Courbe représentative de la fonction «cube»
+
+   Soit \mathscr C la courbe représentative de la fonction x \mapsto x^{3}
+   (définie sur \mathbb{R} )
+   Pour chacun des points ci-dessous, indiquer s’il appartient à \mathscr
+   C
+
+     A\left(0; 1\right)
+
+     B\left(-1; -1\right)
+
+     C\left(0; 0\right)
+
+     D\left(-2; 8\right)
+
+     E\left(-\frac{1}{2}; -\frac{1}{8}\right)
+
+Corrigé
+
+     A \notin \mathscr C
+   car 0^{3}=0\neq 1
+
+     B \in \mathscr C
+   car \left(-1\right)^{3}=-1
+
+     C \in \mathscr C
+   car 0^{3}=0
+
+     D \notin \mathscr C
+   car \left(-2\right)^{3}=-8\neq 8
+
+     E \in \mathscr C
+   car \left(-\frac{1}{2}\right)^{3}=-\frac{1}{8}
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Comparaison de racines carrées
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Échelle de Beaufort
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/LPremière S
+
+   assez facile Exercice non corrigé
+
+Comparaison de racines carrées
+
+   Compléter à l’aide du signe > ou < , en indiquant la propriété
+   utilisée.
+    1. \sqrt{2} … \sqrt{3}
+    2. \sqrt{5} … 2
+    3. \sqrt{3} … -2
+    4. -\sqrt{7} … -3
+    5. \frac{\sqrt{5}}{2} … 1
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Échelle de Beaufort
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/L
+
+   assez facile Exercice corrigé
+
+Courbe représentative de la fonction «racine carrée»
+
+   Soit \mathscr C la courbe représentative de la fonction x \mapsto
+   \sqrt{x} (définie sur \left[0; +\infty \right[ )
+   Pour chacun des points ci-dessous, indiquer s’il appartient à \mathscr
+   C
+    1. A\left(0; 0\right)
+    2. B\left(1; 1\right)
+    3. C\left(-1; -1\right)
+    4. D\left(2; 4\right)
+    5. E\left(4; 2\right)
+
+Corrigé
+
+    1. A \in \mathscr C
+       car \sqrt{0}=0
+    2. B \in \mathscr C
+       car \sqrt{1}=1
+    3. C \notin \mathscr C
+       car \sqrt{x} n’est pas défini pour x=-1
+    4. D \notin \mathscr C
+       car \sqrt{2}\neq 4
+    5. E \in \mathscr C
+       car \sqrt{4}=2
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Comparaison de racines carrées
+     * difficulté moyenne Échelle de Beaufort
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/L
+
+   difficulté moyenne Exercice non corrigé
+
+Échelle de Beaufort
+
+   L’échelle de Beaufort est une échelle de mesure empirique, comportant
+   13 degrés (de 0 à 12), de la vitesse moyenne du vent sur une durée de
+   dix minutes utilisée dans les milieux maritimes. (source : Wikipedia)
+   La vitesse moyenne du vent v en km/h est donnée en fonction du degré
+   Beaufort d par la formule :
+   v = 3 \sqrt{d} ^{3}
+    1. A quelle vitesse en km/h, correspond un vent de force 7 sur
+       l’échelle de Beaufort ?
+    2. Montrer que la fonction d \mapsto 3 \sqrt{d} ^{3} est strictement
+       croissante sur l’intervalle \left[0; +\infty \right[
+    3. Une tempête correspond à un vent de force 10 ou supérieure sur
+       l’échelle de Beaufort. Que peut-on alors dire de la vitesse du vent
+       en km/h ?
+    4. À la calculatrice tracer la courbe de la fonction x \mapsto 3
+       \sqrt{x} ^{3}. A l’aide de cette courbe déterminer la force en
+       Beaufort (arrondie à l’unité) correspondant à un vent soufflant à
+       20km/h.
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Comparaison de racines carrées
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/LPremière S
+
+   difficulté moyenne Exercice corrigé
+
+Sens de variation
+
+   a et b sont 2 nombres réels strictement positifs tels que a < b.
+   Pour chacune des inégalités suivantes, dire si elle est vraie, fausse
+   ou si on ne peut pas conclure.
+    1. a^{2} < b^{2}
+    2. \frac{1}{a} < \frac{1}{b}
+    3. \sqrt{a} < \sqrt{b}
+    4. a^{3} < b^{3}
+    5. \sqrt{a^{2}+1} < \sqrt{b^{2}+1}
+
+Corrigé
+
+    1. Vrai car la fonction carrée est strictement croissante sur
+       \left[0;+\infty \right[.
+    2. Faux car la fonction inverse est strictement décroissante sur
+       \left]0;+\infty \right[.
+    3. Vrai car la fonction racine carrée est strictement croissante sur
+       \left[0;+\infty \right[.
+    4. Vrai car la fonction cube est strictement croissante \mathbb{R}
+       (donc sur \left]0;+\infty \right[).
+    5. Vrai
+       a < b \Rightarrow a^{2} < b^{2} car la fonction carrée est
+       strictement croissante sur \left[0;+\infty \right[
+       \phantom{a < b} \Rightarrow a^{2}+1 < b^{2}+1 car on a ajouté le
+       même nombre à chaque membre
+       \phantom{a < b} \Rightarrow \sqrt{a^{2}+1} < \sqrt{b^{2}+1} car
+       a^{2}+1 et b^{2}+1 sont positifs et la fonction racine carrée est
+       strictement croissante sur \left[0;+\infty \right[.
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Comparaison de racines carrées
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Échelle de Beaufort
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/L
+
+   assez facile Exercice corrigé
+
+Courbe représentative de la fonction «cube»
+
+   Soit \mathscr C la courbe représentative de la fonction x \mapsto x^{3}
+   (définie sur \mathbb{R} )
+   Pour chacun des points ci-dessous, indiquer s’il appartient à \mathscr
+   C
+
+     A\left(0; 1\right)
+
+     B\left(-1; -1\right)
+
+     C\left(0; 0\right)
+
+     D\left(-2; 8\right)
+
+     E\left(-\frac{1}{2}; -\frac{1}{8}\right)
+
+Corrigé
+
+     A \notin \mathscr C
+   car 0^{3}=0\neq 1
+
+     B \in \mathscr C
+   car \left(-1\right)^{3}=-1
+
+     C \in \mathscr C
+   car 0^{3}=0
+
+     D \notin \mathscr C
+   car \left(-2\right)^{3}=-8\neq 8
+
+     E \in \mathscr C
+   car \left(-\frac{1}{2}\right)^{3}=-\frac{1}{8}
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Comparaison de racines carrées
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Échelle de Beaufort
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/LPremière S
+
+   assez facile Exercice non corrigé
+
+Comparaison de racines carrées
+
+   Compléter à l’aide du signe > ou < , en indiquant la propriété
+   utilisée.
+    1. \sqrt{2} … \sqrt{3}
+    2. \sqrt{5} … 2
+    3. \sqrt{3} … -2
+    4. -\sqrt{7} … -3
+    5. \frac{\sqrt{5}}{2} … 1
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Échelle de Beaufort
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/L
+
+   assez facile Exercice corrigé
+
+Courbe représentative de la fonction «racine carrée»
+
+   Soit \mathscr C la courbe représentative de la fonction x \mapsto
+   \sqrt{x} (définie sur \left[0; +\infty \right[ )
+   Pour chacun des points ci-dessous, indiquer s’il appartient à \mathscr
+   C
+    1. A\left(0; 0\right)
+    2. B\left(1; 1\right)
+    3. C\left(-1; -1\right)
+    4. D\left(2; 4\right)
+    5. E\left(4; 2\right)
+
+Corrigé
+
+    1. A \in \mathscr C
+       car \sqrt{0}=0
+    2. B \in \mathscr C
+       car \sqrt{1}=1
+    3. C \notin \mathscr C
+       car \sqrt{x} n’est pas défini pour x=-1
+    4. D \notin \mathscr C
+       car \sqrt{2}\neq 4
+    5. E \in \mathscr C
+       car \sqrt{4}=2
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Comparaison de racines carrées
+     * difficulté moyenne Échelle de Beaufort
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/L
+
+   difficulté moyenne Exercice non corrigé
+
+Échelle de Beaufort
+
+   L’échelle de Beaufort est une échelle de mesure empirique, comportant
+   13 degrés (de 0 à 12), de la vitesse moyenne du vent sur une durée de
+   dix minutes utilisée dans les milieux maritimes. (source : Wikipedia)
+   La vitesse moyenne du vent v en km/h est donnée en fonction du degré
+   Beaufort d par la formule :
+   v = 3 \sqrt{d} ^{3}
+    1. A quelle vitesse en km/h, correspond un vent de force 7 sur
+       l’échelle de Beaufort ?
+    2. Montrer que la fonction d \mapsto 3 \sqrt{d} ^{3} est strictement
+       croissante sur l’intervalle \left[0; +\infty \right[
+    3. Une tempête correspond à un vent de force 10 ou supérieure sur
+       l’échelle de Beaufort. Que peut-on alors dire de la vitesse du vent
+       en km/h ?
+    4. À la calculatrice tracer la courbe de la fonction x \mapsto 3
+       \sqrt{x} ^{3}. A l’aide de cette courbe déterminer la force en
+       Beaufort (arrondie à l’unité) correspondant à un vent soufflant à
+       20km/h.
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Comparaison de racines carrées
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Sens de variation
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+    #Maths-cours » Flux Maths-cours » Flux des commentaires
+
+   Maths-cours
+
+   Cours & exercices de mathématiques
+
+     * Troisième
+     * Seconde
+     * Première ES/L
+     * Première S
+     * Terminale ES/L
+     * Terminale S
+     * Quiz
+
+     * 3ème
+     * 2nde
+     * 1ES/L
+     * 1S
+     * TES/L
+     * TS
+
+   Première ES/LPremière S
+
+   difficulté moyenne Exercice corrigé
+
+Sens de variation
+
+   a et b sont 2 nombres réels strictement positifs tels que a < b.
+   Pour chacune des inégalités suivantes, dire si elle est vraie, fausse
+   ou si on ne peut pas conclure.
+    1. a^{2} < b^{2}
+    2. \frac{1}{a} < \frac{1}{b}
+    3. \sqrt{a} < \sqrt{b}
+    4. a^{3} < b^{3}
+    5. \sqrt{a^{2}+1} < \sqrt{b^{2}+1}
+
+Corrigé
+
+    1. Vrai car la fonction carrée est strictement croissante sur
+       \left[0;+\infty \right[.
+    2. Faux car la fonction inverse est strictement décroissante sur
+       \left]0;+\infty \right[.
+    3. Vrai car la fonction racine carrée est strictement croissante sur
+       \left[0;+\infty \right[.
+    4. Vrai car la fonction cube est strictement croissante \mathbb{R}
+       (donc sur \left]0;+\infty \right[).
+    5. Vrai
+       a < b \Rightarrow a^{2} < b^{2} car la fonction carrée est
+       strictement croissante sur \left[0;+\infty \right[
+       \phantom{a < b} \Rightarrow a^{2}+1 < b^{2}+1 car on a ajouté le
+       même nombre à chaque membre
+       \phantom{a < b} \Rightarrow \sqrt{a^{2}+1} < \sqrt{b^{2}+1} car
+       a^{2}+1 et b^{2}+1 sont positifs et la fonction racine carrée est
+       strictement croissante sur \left[0;+\infty \right[.
+
+     Signaler une erreur
+
+Dans ce chapitre...
+
+Cours
+
+     * Etude de fonctions
+
+Exercices
+
+     * assez facile Courbe représentative de la fonction «cube»
+     * assez facile Comparaison de racines carrées
+     * assez facile Courbe représentative de la fonction «racine carrée»
+     * difficulté moyenne Échelle de Beaufort
+
+QCM
+
+     * assez facile Vrai/Faux – Sens de variation
+
+VOIR AUSSI…
+
+   [INS: :INS]
+
+   ____________________ Chercher
+
+   [INS: :INS]
+
+Derniers quiz
+
+    1. [1esl]Pourcentages (moyen)
+    2. [Ts]Limites de fonctions (moyen)
+    3. [1s]Second degré (facile)
+    4. [2nde]Les fonctions (facile)
+    5. [Ts]Les suites (facile)
+
+   [INS: :INS]
+
+   [INS: :INS]
+
+   © 2019 - Maths-cours.fr - Nous contacter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok

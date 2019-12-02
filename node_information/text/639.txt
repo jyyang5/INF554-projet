@@ -1,0 +1,40 @@
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /0.html
+   Redirecting to: https://www.pinterest.fr/robots.txt
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /1.html
+   Redirecting to: https://www.pinterest.fr/creditagricole
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /2.html
+   Redirecting to: https://www.pinterest.fr/bibamagazine
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /3.html
+   Redirecting to: https://www.pinterest.fr/MagAvantages/
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /4.html
+   Redirecting to: https://www.pinterest.fr/enviedefraise/
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /0.html
+   Redirecting to: https://www.pinterest.fr/robots.txt
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /1.html
+   Redirecting to: https://www.pinterest.fr/creditagricole
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /2.html
+   Redirecting to: https://www.pinterest.fr/bibamagazine
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /3.html
+   Redirecting to: https://www.pinterest.fr/MagAvantages/
+   REFRESH(0 sec):
+   file://localhost/datadisks/datadisk2/frcrawl_all_other/fr.pinterest.com
+   /4.html
+   Redirecting to: https://www.pinterest.fr/enviedefraise/

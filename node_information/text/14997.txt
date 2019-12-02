@@ -1,0 +1,586 @@
+   Dernière mise à jour 11/06/2019 Accueil » LA SCPP » Les rapports
+   annuels
+   [Françaiss]
+   English
+   Français
+   logoSCPP
+
+   [search-FR.gif] ___________________________________
+   [search_go.gif]-Submit
+
+   [rubrique_lascpp.gif]
+   Rapports annuels
+   RAPPORT D'ACTIVITE DE LA SCPP
+
+
+   Chaque année, la SCPP publie et met en ligne son rapport
+   d'activité, son rapport financier et l'arrêté des comptes.
+
+   Ces documents peuvent être téléchargés ci-dessous.
+
+   Vous pouvez aussi obtenir une version papier de ces documents en en
+   faisant la demande au service de la communication, par mail
+   (anouchka.roggeman@scpp.fr) ou par téléphone 01 41 43 03 03.
+
+
+   Télécharger le rapport d'activité 2018
+
+   RAPPORT DE LA COMMISSION DE CONTROLE DES ORGANISMES DE GESTION DES
+   DROITS D'AUTEUR ET DROITS VOISINS
+
+   Télécharger le rapport de la Commission de contrôle des organismes de
+   gestion des droits d’auteur et droits voisins 2018
+
+
+
+
+
+   Haut de page Page précédente MENTIONS LEGALES    C.G.U    Politique de
+   confidentialité    PLAN DU SITE   CONTACT
+   Dernière mise à jour 11/06/2019 Accueil » LA SCPP » Mission de la SCPP:
+   Administrer le code ISRC » Guide pratique ISRC
+   [Françaiss]
+   English
+   Français
+   logoSCPP
+
+   [search-FR.gif] ___________________________________
+   [search_go.gif]-Submit
+
+   [rubrique_lascpp.gif]
+   Le code ISRC
+
+   L’Agence Française de gestion des codes ISRC publie son portail.
+   La gestion simplifiée de vos demandes de codes ISRC est disponible à
+   l’adresse suivante : http://www.isrcfrance.fr
+     __________________________________________________________________
+
+   Le code ISRC identifie les enregistrements en tant que tels et non pas
+   les produits physiques (support son). Il est destiné à l'usage des
+   producteurs d'enregistrements sonores et audiovisuels aussi bien qu'aux
+   sociétés de gestion des droits de propriété intellectuelle, de
+   radiodiffusions, aux bibliothèques, etc.
+
+   Il a été mis au point afin de faciliter la communication d'informations
+   afférentes aux enregistrements et d'en simplifier la gestion.
+
+
+   1 - Description du code ISRC
+
+     * Généralités
+     * Fonctions et contenu du code ISRC
+
+   2 - Champ d'application du code ISRC
+   3 - Principes et procédures à respecter par les producteurs
+
+   4 - Mise en oeuvre du code ISRC
+
+     * Généralités
+     * Exemples de mises en oeuvre du code ISRC
+     * Les vidéomusiques
+     * Difficultés rencontrées dans l'usage quotidien
+
+
+   5 - L'impression du code ISRC
+
+   6 - Les agences ISRC dans le monde
+
+
+
+     __________________________________________________________________
+
+
+
+   L'International Standard Recording Code (ISRC) ou le Code International
+   Normalisé des Enregistrements (ISRC) procure un moyen d'identification
+   international des enregistrements sonores et audiovisuels. Le code ISRC
+   identifie les enregistrements en tant que tels et non pas les produits
+   physiques (support son), il n'entre pas en conflit avec le système de
+   numérotation des produits des catalogues (référence commerciale,
+   code-barres) avec lequel il co-existera.
+
+   Un code ISRC identifie l'enregistrement pendant toute sa durée de vie.
+   Il est destiné à l'usage des producteurs d'enregistrements sonores et
+   audiovisuels aussi bien qu'aux sociétés de gestion des droits de
+   propriété intellectuelle, de radiodiffusions, aux bibliothèques, etc.
+
+   Le code ISRC a été mis au point afin de faciliter la communication
+   d'informations afférentes aux enregistrements et d'en simplifier la
+   gestion.
+
+   Chaque enregistrement ou élément individualisé d'un enregistrement doit
+   se voir attribuer son propre code ISRC. Le code ISRC doit figurer dans
+   toute documentation relative à l'enregistrement en question.
+
+   Un nouvel enregistrement ou un enregistrement modifié doit obtenir un
+   nouveau code ISRC. Afin de préserver le caractère unique et distinct de
+   l'identification fournie par le code ISRC, il est interdit de
+   réutiliser un code ISRC qui a déjà été attribué. Le code ISRC demeure
+   inchangé au cas où le premier propriétaire cède un enregistrement après
+   sa publication, dans sa forme initiale.
+
+
+
+
+     *
+
+   Le code ISRC est composé de 12 caractères représentant:
+   - le pays (2 caractères),
+   - le producteur détenteur des droits sur le phonogramme, appelé le
+   déclarant (3 caractères),
+   - l'année de référence qui est l'année de l'attribution du code ISRC au
+   phonogramme (2 caractères)
+   - l'enregistrement (5 caractères).
+   Le code ISRC est alpha-numérique et utilise les chiffres arabes (0-9)
+   et les lettres de l'alphabet.
+
+   Il est divisé en 4 parties, séparées par des traits d'union (-), dont
+   l'ordre est le suivant:
+   1° pays
+   2° code du déclarant
+   3° année de référence
+   4° code de l'enregistrement
+
+   Pour une bonne présentation visuelle, un code ISRC doit toujours être
+   précédé de la mention "ISRC".
+
+   EXEMPLE DE STRUCTURE DE CODE : Code ISRC FR-Z03-98-00001
+   ISRC
+
+                                     FR
+
+                                     Z03
+
+                                     98
+
+                                    00001
+
+                                Code du pays
+                                 FR= France
+                               (2 caractères)
+
+                             Code du déclarant
+                            Z03 = Mercury France
+                               (3 caractères)
+
+                            Année de référence
+                                  98 = 1998
+                               (2 caractères)
+
+                         Code de l’enregistrement
+                               (5 caractères)
+
+
+
+     * Fonctions et contenu du code ISRC
+
+   Le code du Pays
+   Le code du pays identifie le pays de résidence du déclarant,
+   c'est-à-dire du producteur ou propriétaire de l'enregistrement au
+   moment de l'attribution du code ISRC
+   Il est composé de deux lettres qui ont été attribuées à chaque pays par
+   l'ISO. Les agences nationales ISRC doivent informer les producteurs de
+   leur code pays.
+
+   Exemple : SE = Suède - FR = France
+
+   Le code du déclarant (producteur de l'enregistrement)
+   Le déclarant du phonogramme est le producteur ou propriétaire de
+   l'enregistrement au moment de l'attribution du code ISRC. L'indication
+   (P) sur un enregistrement doit être utilisée comme un guide pour
+   l'attribution correcte du code identifiant le producteur.
+   Cependant, si le producteur d'un phonogramme l'a vendu en cédant tous
+   ses droits avant la codification, l'acquéreur sera considéré comme le
+   déclarant.
+   Le déclarant d'un enregistrement est responsable de l'attribution du
+   code ISRC à l'enregistrement. Il est chargé d'informer l'agence
+   nationale du code attribué.
+   Le code du déclarant est alpha-numérique. Il est composé de 3
+   caractères. Il est attribué par les agences nationales ISRC.
+
+   Exemple : Z03 = MERCURY FRANCE
+
+   Le code de l'année de référence
+   Le code de l'année de référence indique l'année au cours de laquelle le
+   phonogramme a été immatriculé avec le code ISRC. Le code est composé
+   des deux derniers caractères de l'année.
+   Les producteurs détenteurs d'un code de déclarant sont responsables de
+   l'attribution du code de l'année de référence.
+
+   Exemples : 92 pour 1992 - 00 pour 2000
+   Le code de l'enregistrement
+   Le code de l'enregistrement est composé de 5 chiffres attribués en
+   principe chronologiquement par le premier propriétaire. Ces chiffres
+   sont attribués dans une suite séquentielle et ne peuvent être
+   réutilisés dans l'année de l'enregistrement.
+   Pour chaque année de 00001 à 99999.
+   Les producteurs sont responsables de l'attribution du code de
+   l'enregistrement. Ils peuvent affecter ce code comme ils le souhaitent,
+   et par exemple, affecter une série à chacun de leurs labels.
+
+   Distinction entre les enregistrements audios (phonogrammes) et les
+   enregistrements audiovisuels (vidéomusiques)
+   Les dispositions législatives relatives à la protection des droits de
+   la propriété intellectuelle distinguent phonogrammes et vidéogrammes,
+   aussi les numéros ISRC doivent identifier le type de l'enregistrement
+   afin de faciliter la gestion des droits.
+   Chaque producteur dispose d'un code de "déclarant" pour ses
+   vidéomusiques et d'un code de "déclarant" pour identifier ses
+   phonogrammes.
+
+   Exemples
+   AA2 = code du déclarant ISRC pour les enregistrements audio de la "
+   société X "
+   ZZ8 = code du déclarant ISRC pour les enregistrements vidéo de la "
+   société X "
+
+
+
+   2 - Champ d'application du code ISRC
+
+   Le code international normalisé des enregistrements fournit un moyen
+   international d'identification des phonogrammes et des vidéomusiques.
+   Il n'est pas destiné à l'identification des produits physiques (support
+   de son) audio, vidéo ou audiovisuels.
+
+
+
+   3 - Principes et procédures à respecter par les producteurs
+
+   Chaque producteur doit désigner une personne responsable de
+   l'attribution du code ISRC et de l'application des réglementations s'y
+   rapportant.
+
+   A chaque producteur est attribué un code du déclarant phonographique
+   par la SCPP.
+
+   Chaque producteur est responsable de l'attribution du code de ses
+   phonogrammes (cf. I.2.4).
+
+   Chaque producteur doit tenir un registre de tous les codes ISRC qu'il
+   attribue.
+
+   Afin de permettre l'utilisation des informations relatives aux
+   phonogrammes, les producteurs doivent communiquer le code ISRC des
+   phonogrammes lorsqu'ils les déclarent à la SCPP.
+
+
+
+   4 - Mise en oeuvre du code ISRC
+
+     * Généralités
+
+   Un code ISRC doit être attribué à chaque phonogramme mais pas à chaque
+   nouvelle reproduction de ce phonogramme.
+
+
+     * Exemples de mises en oeuvre du code ISRC
+
+   Exemple 1 : Nouveau phonogramme
+   Pour un album de dix phonogrammes à partir d'une matrice réalisée en
+   1991.
+   ISRC FR-Z03-91-00001 (enregistrement N°1)
+   ISRC FR-Z03-91-00002 (enregistrement N°2)
+   ISRC FR-Z03-91-00003 (enregistrement N°3)
+   ...
+   ISRC FR-Z03-91-00010 (enregistrement N°10)
+
+   Exemple 2 : Compilation
+   Pour la création d 'un nouvel album à partir de phonogrammes
+   précédemment publiés.
+
+   a. Compilation reprenant des phonogrammes préexistants dans leur
+   intégralité : reprise des codes ISRC déjà attribués aux enregistrements
+   originaux.
+   ISRC FR-Z03-91-00001 (enregistrement N°1)
+   ISRC FR-Z03-90-00065 (enregistrement N°2)
+   ISRC FR-Z03-89-00050 (enregistrement N°3)
+   ...
+   ISRC FR-Z03-88-00025 (enregistrement N°10)
+
+   b. Exemples reprenant uniquement certains extraits de phonogrammes
+   préexistants: si l'écart de durée est au-delà de plus ou moins 5
+   secondes, affectation d'un nouveau code ISRC.
+   ISRC FR-Z03-91-00152 (enregistrement N°1)
+   ISRC FR-Z03-90-00080 (enregistrement N°2)
+   ISRC FR-Z03-89-00325 (enregistrement N°3)
+   ISRC FR-Z03-88-00100 (enregistrement N°10)
+
+
+     * Les vidéomusiques
+
+
+   Les recommandations émises par l'IFPI en août 1989 pour les
+   vidéomusiques promotionnelles stipulent que le numéro d'identification
+   individuel de la vidéomusique doit comporter 5 caractères numériques
+   avec un trait d'union (-) après le quatrième caractère, le cinquième
+   étant toujours à "0".
+
+   Exemple : ISRC FR-A03-89-1234-0
+   Comme un phonogramme peut également être identifié par un "0", la SCPP
+   qui a mis en œuvre les recommandations de 1989, dans le but d'éviter
+   toute confusion, attribue pour les phonogrammes un code du déclarant
+   différent de celui qui a été attribué pour les vidéomusiques au même
+   producteur (cf. I.2.5).
+
+
+     * Difficultés rencontrées dans l'usage quotidien
+
+
+   Les situations suivantes correspondent à certaines difficultés
+   quotidiennes de mise en pratique du code ISRC.
+
+   Re-mixage
+   Un nouveau code ISRC sera attribué à tout nouvel enregistrement produit
+   par re-mixage, mais les codes ISRC initiaux des phonogrammes remixés
+   doivent être archivés par le producteur.
+
+   Modification de la durée d'un phonogramme
+   La durée d'un phonogramme est une caractéristique importante car elle
+   sert aux sociétés de gestion de droits à répartir les rémunérations
+   collectées.
+   Si la durée est modifiée (plus ou moins 10 secondes) par l'ayant droit,
+   un nouveau code ISRC doit être attribué par celui-ci. Toutefois, ceci
+   ne modifie pas l'obligation de chaque producteur déclarant ses
+   phonogrammes à la SCPP de déclarer leur durée exacte avec une tolérance
+   de 5 secondes.
+   Exemple :
+   - Singin'in the rain / Sheila & B. Devotion
+   - Propriétaire : Carrère, France
+   - Version originale (pour 33 tours, durée 7'13") ISRC FR-Z16-77-00100
+   - Version abrégée (pour 45 tours, durée 3'14") ISRC FR-Z16-77-00101
+   Des difficultés peuvent survenir dans l'établissement de la durée, du
+   fait de la multiplicité des méthodes d'estimation possibles.
+   Pour le système ISRC, la durée est établie ainsi :
+   Un phonogramme débute avec la première modulation enregistrée et se
+   termine avec la dernière modulation enregistrée.
+   Un nouveau code ISRC doit être attribué dès que la durée varie de plus
+   ou moins 10 secondes par rapport à l'enregistrement original.
+
+   Compilations
+   Lors de la compilation de phonogrammes déjà publiés, l'attribution du
+   code ISRC doit se faire comme suit :
+   a - lorsque les phonogrammes précédemment diffusés sont repris
+   intégralement, le code ISRC original doit être conservé,
+   b - lorsque les enregistrements précédemment diffusés ne sont repris
+   que partiellement, de nouveaux codes ISRC doivent être attribués aux
+   enregistrements pour tenir compte de la différence de durée (plus ou
+   moins 10 secondes).
+
+   Nettoyage d'enregistrements historiques
+   Les technologies actuelles de remasterisation (re-pitching,
+   re-equalising, de-noising, de-cliking, etc réajustement de la vitesse,
+   rééquilibrage des fréquences, suppression du bruit de fond, suppression
+   des pétillements et craquements.) permettent de traiter les
+   enregistrements historiques de plusieurs façons, afin d'obtenir une
+   qualité proche des normes actuelles. Lorsque l'on restaure complètement
+   la qualité sonore d'un enregistrement historique, on obtient une
+   déclinaison de l'enregistrement original qui ne doit pas nécessairement
+   recevoir un nouveau ISRC. Toutefois, lorsque des procédures internes
+   d'un producteur imposent l'attribution d'un nouveau code, ceci ne doit
+   en aucun cas modifier la date d'enregistrement du phonogramme, ni bien
+   évidemment sa date de 1ère publication. Ces deux dates restent celles
+   de l'enregistrement d'origine. La remasterisation ne proroge pas la
+   durée de protection du phonogramme.
+
+   Codage des phonogrammes enregistrés avant 1992
+   Un code ISRC doit être attribué par le propriétaire actuel des droits à
+   chaque phonogramme enregistré avant 1992 et réédité sur un support
+   numérique.
+
+   Un code ISRC ne doit sous aucun prétexte être réutilisé
+   Une fois attribué, un code ISRC ne doit être réutilisé sous aucun
+   prétexte. Il est admis que, du fait d'erreurs techniques, certains
+   chiffres peuvent être attribués à tort. Dans une telle hypothèse, le
+   chiffre en question doit être rayé de la liste des chiffres disponibles
+   et ne doit être attribué à aucun autre enregistrement. Les producteurs
+   doivent informer leur agence nationale respective des chiffres ainsi
+   rayés et des enregistrements auxquels ils avaient été attribués par
+   erreur.
+
+   Les coproductions
+   Les sociétés concernées par des coproductions doivent désigner la
+   société responsable de l'immatriculation ISRC. Les codes ISRC attribués
+   doivent respecter les règles pour être uniques quels que soient les
+   pays.
+   Il faut indiquer aux utilisateurs et aux sociétés de perception de
+   chaque pays (lorsqu'elles existent) quels sont les titulaires des
+   droits des enregistrements.
+   Le code PAYS du code ISRC ne correspond pas nécessairement au
+   territoire dans lequel les droits peuvent être exercés.
+
+   Les répertoires en licence
+   Les codes ISRC doivent être attribués par le producteur des
+   enregistrements et communiqués au licencié.
+   Le licencié doit informer le producteur de la marche à suivre pour
+   obtenir un code du déclarant.
+   Le licencié peut toutefois, dans le cadre d'un accord entre les deux
+   sociétés, être chargé par le producteur d'administrer ses codes ISRC.
+
+   Remastering
+   Lorsque l'on utilise un phonogramme déjà publié sur un nouveau master
+   pour fabriquer un nouveau support, et que l'on ne procède à aucun
+   traitement d'amélioration de la qualité sonore, il n'est pas nécessaire
+   d'attribuer un nouveau code ISRC.
+
+
+
+   5 - L'impression du code ISRC
+
+   Le code ISRC doit être attribué dès que la décision de publier
+   commercialement un phonogramme a été prise. L'attribution du code ISRC
+   est associée au processus d'approbation du "Label Copy approval
+   process". Le code ISRC doit être encodé avant l'établissement définitif
+   de la matrice.
+
+   Pour le premastering d'un CD, on peut utiliser des cassettes U-MATIC,
+   des Exabyte, des CD-R ou des CD-MO. Pour le premastering des DVD, on
+   utilise des cassettes Digital Linear (DLT).
+
+   Dans les cassettes U-MATIC et dans les autres supports utilisés pour
+   les CD, les codes ISRC et les autres données des zones PQ sont encodées
+   dans le sous-code du disque, lors du mastering du disque. C'est
+   pourquoi il faut encoder les codes ISRC de chaque plage du master du
+   CD. On utilise généralement un Editeur PQ pour coder les codes ISRC,
+   les inhibiteurs de copie SCMS et les codes commerciaux (EAN/UPC) lors
+   du pre-mastering qui permet de fabriquer les cassettes masters à partir
+   du master original.
+
+   Le master du CD peut également servir à fabriquer des MD (minidisc).
+   Dans ce cas, il faut s'assurer que le système utilisé pour les MD
+   permet de transférer les codes ISRC.
+
+   Pour les vidéogrammes musicaux (analogiques), le code ISRC doit être
+   indiqué dans la zone "durée". Il est préférable de mentionner le code
+   ISRC sur la boîte contenant la cassette du vidéogramme.
+
+
+   6 - Les agences ISRC dans le monde
+
+   Télécharger la liste des agences
+
+
+
+
+
+
+
+   Haut de page Page précédente MENTIONS LEGALES    C.G.U    Politique de
+   confidentialité    PLAN DU SITE   CONTACT
+   Dernière mise à jour 11/06/2019
+   Accueil » REPERTOIRE » Catalogue » Choix_catalogue
+   [Françaiss]
+   English
+   Français
+   logoSCPP
+
+   [search-FR.gif] ___________________________________
+   [search_go.gif]-Submit
+
+   [rubrique_repertoire.gif]
+   Catalogue
+
+   Consultation en ligne des bases phonogrammes et vidéomusiques de la
+   SCPP.
+   Consultation des phonogrammes
+   Un phonogramme est la fixation de l'interprétation d'une oeuvre publiée
+   sur un support (disque, compact disque, K7). Toutefois pour la
+   rémunération équitable la séquence de son n'est pas nécessairement la
+   fixation d'une oeuvre, mais peut être par exemple, celle d'un bruitage
+   ("fixation d'une séquence de son", Art. 21 de la loi du 3 juillet
+   1985).
+
+   Le phonogramme est distingué par :
+     * son titre
+     * sa durée
+     * son ou ses interprètes
+     * sa date de fixation
+
+
+   En conséquence si :
+     * une même oeuvre a été interprétée successivement par deux artistes,
+     * un artiste a enregistré plusieurs fois un même titre, ou si son
+       interprétation a été remixée,
+     * une interprétation est publiée sous deux formes : version normale
+       et version longue (Maxi), il s'agit alors de deux phonogrammes
+       différents.
+
+   Un phonogramme est souvent publié sur plusieurs supports
+   phonographiques.
+
+
+   Consultation des vidéomusiques
+   Par « vidéomusique », on entend l'oeuvre audiovisuelle originale
+   produite en fixant des images incorporant un phonogramme qu’elle
+   illustre, telle qu'appelée dans le langage courant « vidéoclip ».
+   Haut de page Page précédente MENTIONS LEGALES    C.G.U    Politique de
+   confidentialité    PLAN DU SITE   CONTACT
+   Dernière mise à jour 05/06/2009 Accueil » UTILISATEURS » Utilisateurs -
+   Tarifs - Sonorisation lieux publics
+   [Françaiss]
+   English
+   Français
+   Société
+   civile des
+   Producteurs
+   Phonographiques
+
+   [search-FR.gif] ___________________________________
+   [search_go.gif]-Submit
+
+   [rubrique_utilisateurs.gif]
+
+Le design sonore.
+
+Le design sonore, qui concerne l’élaboration de programmes musicaux, entre
+dans le cadre du mandat confié à la SCPP par les producteurs de phonogrammes.
+
+   Le design sonore est une technique d’utilisation du son sur des points
+   de vente ou de contact clientèle à des fins de marketing sonore.
+   Il est assimilé, au niveau autorisation et droits musicaux à une
+   sonorisation de lieux publics, gérée par la SCPP pour le compte des
+   producteurs de phonogrammes, dès lors qu’il s’agit de reproduction d’
+   extraits musicaux ou de titres entiers provenant de la musique du
+   commerce.
+   Dans cette mesure, la SCPP collectera, en vertu d’un contrat général
+   d’intérêt commun les droits voisins du droit d’auteur qui reviennent à
+   ses membres.
+
+   Voir nos contrats
+
+   Haut de page Page précédente design musical - droit de web radio -
+   créer une web radio     PLAN DU SITE     CONTACT
+   Dernière mise à jour 05/06/2009 Accueil » UTILISATEURS » Utilisateurs -
+   Tarifs - Sonorisation lieux publics
+   [Françaiss]
+   English
+   Français
+   Société
+   civile des
+   Producteurs
+   Phonographiques
+
+   [search-FR.gif] ___________________________________
+   [search_go.gif]-Submit
+
+   [rubrique_utilisateurs.gif]
+
+Faire écouter de la musique.
+
+Faire écouter de la musique par web radio ou dans un lieu public génère des
+droits pour les producteurs.
+
+   Faire écouter de la musique dans des lieux publics : magasins, galerie
+   marchande, etc. ou par le biais d’une webradio, avec ou sans
+   abonnement, génère des droits musicaux qui sont qualifiés de droits
+   voisins du droit d’auteur.
+   Ces droits sont collectés par la SCPP qui propose aux utilisateurs de
+   musique des contrats type avec des tarifs différenciés par secteur,
+   consultables sur son site Internet.
+   La diffusion de musique par ces canaux requiert une autorisation,
+   également délivrée par la SCPP.
+
+   Voir nos contrats
+
+   Haut de page Page précédente sonorisation musique - droits musique -
+   borne de musique     PLAN DU SITE     CONTACT

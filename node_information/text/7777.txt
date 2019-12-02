@@ -1,0 +1,274 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Tap to Unmute
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Official SiteLatest NewsBuy NowPre-Order Now
+
+LINK
+
+   {{video.permalink_ga
+
+EMBED
+
+   {{video.embed_code}}
+
+SOCIAL
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Tap to Unmute
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Official SiteLatest NewsBuy NowPre-Order Now
+
+LINK
+
+   {{video.permalink_ga
+
+EMBED
+
+   {{video.embed_code}}
+
+SOCIAL
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Tap to Unmute
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Official SiteLatest NewsBuy NowPre-Order Now
+
+LINK
+
+   {{video.permalink_ga
+
+EMBED
+
+   {{video.embed_code}}
+
+SOCIAL
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Toucher pour activer le son
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Site officielDernières nouvellesAcheter maintenantPrécommander
+   maintenant
+
+LIEN
+
+   {{video.permalink_ga
+
+INTÉGRER
+
+   {{video.embed_code}}
+
+RÉSEAUX SOCIAUX
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Toucher pour activer le son
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Site officielDernières nouvellesAcheter maintenantPrécommander
+   maintenant
+
+LIEN
+
+   {{video.permalink_ga
+
+INTÉGRER
+
+   {{video.embed_code}}
+
+RÉSEAUX SOCIAUX
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Tap to Unmute
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Official SiteLatest NewsBuy NowPre-Order Now
+
+LINK
+
+   {{video.permalink_ga
+
+EMBED
+
+   {{video.embed_code}}
+
+SOCIAL
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Tap to Unmute
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Official SiteLatest NewsBuy NowPre-Order Now
+
+LINK
+
+   {{video.permalink_ga
+
+EMBED
+
+   {{video.embed_code}}
+
+SOCIAL
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Tap to Unmute
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Official SiteLatest NewsBuy NowPre-Order Now
+
+LINK
+
+   {{video.permalink_ga
+
+EMBED
+
+   {{video.embed_code}}
+
+SOCIAL
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Toucher pour activer le son
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Site officielDernières nouvellesAcheter maintenantPrécommander
+   maintenant
+
+LIEN
+
+   {{video.permalink_ga
+
+INTÉGRER
+
+   {{video.embed_code}}
+
+RÉSEAUX SOCIAUX
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+
+   Toucher pour activer le son
+   {{!timeRemaining ? (getCurrentTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   {{!timeRemaining ? (getTotalTime() | toTime) : "-" +
+   (getTimeRemaining() | toTime)}} / {{getTotalTime() | toTime}}
+   Site officielDernières nouvellesAcheter maintenantPrécommander
+   maintenant
+
+LIEN
+
+   {{video.permalink_ga
+
+INTÉGRER
+
+   {{video.embed_code}}
+
+RÉSEAUX SOCIAUX
+
+     * {{file.resolution}}
+
+   {{video.game.title}} - {{video.title}}
+
+   {{video.title}}
+
+   {{video.title}}

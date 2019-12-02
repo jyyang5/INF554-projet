@@ -1,0 +1,4586 @@
+   #PDF Full-Text HTML Full-Text XML Full-Text MDPI Publishing - Latest
+   articles
+
+   Next Article in Journal
+   A Computation-Efficient Group Key Distribution Protocol Based on a New
+   Secret Sharing Scheme
+   Next Article in Special Issue
+   Using an Exponential Random Graph Model to Recommend Academic
+   Collaborators
+
+   Previous Article in Journal
+   Interactivity in Cybermedia News: An Interview with Journalists in
+   Colombia, Peru, and Ecuador
+   Previous Article in Special Issue
+   Optimizing Parallel Collaborative Filtering Approaches for Improving
+   Recommendation Systems Performance
+
+Journals
+
+Information
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+   Article Processing Charges Open Access Policy Institutional Open Access
+   Program Editorial Process English Editing Service MDPI Blog
+
+Author Services
+
+Initiatives
+
+   Sciforum Preprints Scilit MDPI Books Encyclopedia
+
+About
+
+   Sign In / Sign Up
+
+Notice
+
+   You can make submissions to other journals here.
+   clear
+
+   You seem to have javascript disabled. Please note that many of the page
+   functionalities won't work as expected without javascript enabled.
+
+   MDPI Open Access Journals
+   clear search menu
+
+   MDPI Open Access Journals
+     * Journals
+     * Information
+          +
+               o For Authors
+               o For Reviewers
+               o For Editors
+               o For Librarians
+               o For Publishers
+               o For Societies
+               o Article Processing Charges
+               o Open Access Policy
+               o Institutional Open Access Program
+               o Editorial Process
+               o MDPI Blog
+     * Author Services
+     * Initiatives
+          +
+               o Sciforum
+               o Preprints
+               o Scilit
+               o MDPI Books
+               o Encyclopedia
+     * About
+
+   Sign In / Sign Up Submit
+
+   Search for Articles:
+   Title / Keyword
+   ____________________
+   Author / Affiliation
+   ____________________
+   Journal
+   [Information___________________________________________________________
+   _____...]
+   Article Type
+   [All Article Types....]
+
+   Search
+
+   Advanced Search
+
+   Section
+   []
+   Special Issue
+   []
+   Volume
+   ____________________
+   Issue
+   ____________________
+   Number
+   ____________________
+   Page
+   ____________________
+
+   You can use * to search for partial matches.
+     Search
+
+
+   Logical OperatorOperator
+   [AND]
+   Search Text
+   ____________________
+   Search Type
+   [All fields..]
+
+   add_circle_outline
+   remove_circle_outline
+
+   Journals
+   Information
+   Volume 10
+   Issue 5
+   10.3390/info10050174
+   information-logo
+   Submit to this Journal Review for this Journal Edit a Special Issue
+   ► ▼ Article Menu
+
+Article Menu
+
+     * Article Overview
+          + Abstract
+          + Share and Cite
+          + Article Metrics
+          + Related Articles
+          + Order Article Reprints
+     * Article Versions
+          + Abstract
+          + Article Versions Notes
+          + Full-Text HTML
+          + Full-Text PDF
+          + Full-Text XML
+          + Full-Text Epub
+     * Export Article
+          + BibTeX
+          + EndNote
+          + RIS
+     * Related Info Links
+          + Google Scholar
+     * More by Authors Links
+          + on DOAJ
+               o Monti, D.
+               o
+               o Palumbo, E.
+               o
+               o Rizzo, G.
+               o
+               o Morisio, M.
+               o
+          + on Google Scholar
+               o Monti, D.
+               o
+               o Palumbo, E.
+               o
+               o Rizzo, G.
+               o
+               o Morisio, M.
+               o
+          + on PubMed
+               o Monti, D.
+               o
+               o Palumbo, E.
+               o
+               o Rizzo, G.
+               o
+               o Morisio, M.
+               o
+     * Full Article Text
+
+   /ajax/scifeed/subscribe
+   share announcement textsms
+   ...
+
+Need Help?
+
+Support
+
+   Find support for a specific problem on the support section of our
+   website.
+   Get Support
+
+Feedback
+
+   Please let us know what you think of our products and services.
+   Give Feedback
+
+Information
+
+   Our dedicated information section provides allows you to learn more
+   about MDPI.
+   Get Information
+   clear
+
+   Open Access This article is
+     * freely available
+     * re-usable
+
+   Information 2019, 10(5), 174; https://doi.org/10.3390/info10050174
+   Article
+   Sequeval: An Offline Evaluation Framework for Sequence-Based
+   Recommender Systems
+   by [masked-unknown-user.png] Diego Monti ^1,*^ OrcID ,
+   [masked-unknown-user.png] Enrico Palumbo ^1,2,3 OrcID ,
+   [masked-unknown-user.png] Giuseppe Rizzo ^4 OrcID and
+   [masked-unknown-user.png] Maurizio Morisio ^1 OrcID
+   ^1
+   Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Turin, Italy
+   ^2
+   Istituto Superiore Mario Boella, Via Pier Carlo Boggio 61, 10138 Turin,
+   Italy
+   ^3
+   EURECOM, Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
+   ^4
+   LINKS Foundation, Via Pier Carlo Boggio 61, 10138 Turin, Italy
+   ^*
+   Author to whom correspondence should be addressed.
+   Received: 15 April 2019 / Accepted: 7 May 2019 / Published: 10 May 2019
+
+Abstract
+
+   :
+   Recommender systems have gained a lot of popularity due to their large
+   adoption in various industries such as entertainment and tourism.
+   Numerous research efforts have focused on formulating and advancing
+   state-of-the-art of systems that recommend the right set of items to
+   the right person. However, these recommender systems are hard to
+   compare since the published evaluation results are computed on diverse
+   datasets and obtained using different methodologies. In this paper, we
+   researched and prototyped an offline evaluation framework called
+   Sequeval that is designed to evaluate recommender systems capable of
+   suggesting sequences of items. We provide a mathematical definition of
+   such sequence-based recommenders, a methodology for performing their
+   evaluation, and the implementation details of eight metrics. We report
+   the lessons learned using this framework for assessing the performance
+   of four baselines and two recommender systems based on Conditional
+   Random Fields (CRF) and Recurrent Neural Networks (RNN), considering
+   two different datasets. Sequeval is publicly available and it aims to
+   become a focal point for researchers and practitioners when
+   experimenting with sequence-based recommender systems, providing
+   comparable and objective evaluation results.
+   Keywords:
+   evaluation framework; offline evaluation; sequence; sequence-based
+   recommender systems; recommender systems; metrics
+
+1. Introduction
+
+   Recommender Systems (RSs) are software tools capable of suggesting
+   items to users according to their preferences [1]. A popular
+   recommendation technique, called Collaborative Filtering (CF), consists
+   of learning users’ preferences by only relying on their interactions
+   with the items available in a catalog. For example, using a
+   nearest-neighbor search (memory-based CF) or a machine learning model
+   (model-based CF), it is possible to select the most relevant items for
+   each user who has interacted enough with the system [2]. An alternative
+   approach to this problem is represented by content-based RSs, which can
+   generate suggestions by matching users’ profiles with the features of
+   the items [3,4]. Another family of recommendation methods proposed in
+   the literature is represented by hybrid algorithms, capable of
+   combining both collaborative and content-based filtering for mitigating
+   the individual weaknesses of the previous techniques [5].
+   While these recommendation approaches usually guarantee interesting
+   results in traditional domains, such as movie recommendation, they are
+   not capable of capturing the temporal evolution of users’
+   preferences [6]. For example, different authors [7,8,9] argue that
+   movies watched recently provide more useful information about a certain
+   user than those she consumed in a distant past. It is, in fact,
+   reasonable to assume that a recent item may have a high influence on
+   the choice of the next one.
+   Therefore, a RS that exploits sequential data for predicting the sole
+   next item that will be consumed by a user can be defined as sequential
+   recommender [10]. Several works related to sequential recommenders are
+   available in the literature. For example, Zhou et al. [11] exploited a
+   sequential pattern mining algorithm for recommending which page to
+   visit next in a website, while Rendle et al. [8] relied on Markov
+   chains for suggesting products considering previous purchases.
+   Recently, He et al. [9] designed a recommender system capable of
+   modeling how users’ interests evolve over time. While all these methods
+   usually consider user preferences observed during the training phase as
+   sequences, no temporal ordering is available at recommendation time, as
+   only one item, or a list of items ranked by relevance, is suggested to
+   users. Because of the popularity of CF techniques, most of sequential
+   recommenders are based on such approaches [12], but in principle it is
+   also possible to design systems capable of analyzing sequences
+   according to content-based methods.
+   In general, even if the problem of creating a sequence of words
+   starting from an initial one is a well-known task inside the natural
+   language processing community [13], the idea of creating personalized
+   sequences of items is less widespread in the context of RSs [14]. For
+   this reason, it would be interesting to be able to exploit the temporal
+   ordering not only during the training phase but also for generating
+   sequences of recommended items, such as in the task of language
+   modeling. Some solutions to this problem have already been proposed in
+   industry, and also few researchers have discussed how to automatically
+   construct music playlists [15] or suggest sequences of
+   points-of-interest to tourists [16] starting from seed items.
+   However, early studies conducted in this field lack of a common
+   definition of the problem that they are trying to address. For example,
+   session-based RSs only consider the last session of the current
+   user [17], while sequence-aware recommenders also exploit the history
+   of past sessions [12] and they can be considered equivalent to
+   sequential recommenders. Furthermore, it is not clear if item
+   repetitions are allowed in the suggestions or not.
+   In this work, we argue that it is possible to consider RSs capable of
+   creating personalized sequences of an arbitrary length as a
+   generalization of a sequential recommender because the latter is only
+   able of creating sequences of length one. In contrast to traditional
+   RSs that usually create lists of items ranked by relevance, in the
+   following we will define a recommender that exploits a temporal
+   dimension both in the training and in the generation phase as a
+   sequence-based recommender, as it observes and suggests sequences of
+   items meant be consumed in a particular order.
+   On the other side, several evaluation protocols and metrics for
+   analyzing novel RSs via offline experiments are available, to capture
+   the different aspects of the recommendation algorithm [18]. However,
+   the lack of a standardized way of performing such in vitro experiments
+   leads to results that are often incomparable [19]. To the best of our
+   knowledge, no evaluation framework for sequence-based RSs has already
+   been proposed. The motivating hypothesis of this study is that in the
+   context of sequence-based RSs, traditional evaluation metrics need to
+   be computed at the level of sequences instead of the level of users.
+   In our view, an evaluation framework consists of a methodology for
+   performing an experimental comparison, a set of metrics, and a software
+   tool that implements them. Therefore, the main aim of this work is to
+   address the following research questions and to introduce an offline
+   evaluation framework for sequence-based RSs that we called Sequeval.
+
+   RQ1
+          What is the formal definition of a sequence-based recommender
+          system?
+
+   RQ2
+          How already established metrics can be extended and adapted for
+          evaluating a sequence-based recommender system?
+
+   RQ3
+          Against which baselines a sequence-based recommender system can
+          be compared?
+
+   Because our evaluation approach is agnostic with respect to the
+   implementation details of the algorithms under analysis, it can be
+   successfully exploited to also assess the performance of systems based
+   on alternative recommendation methods [20] or dealing with
+   unconventional categories of items, for example 3D movies [21] or
+   cultural digital contents [22], especially if they are supposed to be
+   consumed by users in a sequential order.
+   Besides, by openly releasing a Python implementation of Sequeval, we
+   aim to encourage the use of the proposed framework as an attempt to
+   standardize the evaluation of sequence-based RSs, mitigating the
+   comparability problem in RSs research.
+   The remainder of this paper is organized as follows: in Section 2 we
+   review related works; in Section 3 we present the mathematical
+   definition of a sequence-based recommender system; in Section 4 we
+   introduce Sequeval by describing its evaluation protocol, metrics, and
+   implementation details; in Section 5 we perform an empirical analysis
+   of the framework with two different datasets. Finally, in Section 6, we
+   formulate our conclusions and we outline future works.
+
+2. Related Work
+
+   In this section, we distinguish among works related to RSs capable of
+   exploiting sequences of items (Section 2.1), evaluation protocols and
+   metrics for performing an offline comparison (Section 2.2), and their
+   experimental reproducibility (Section 2.3).
+
+2.1. Sequential Recommenders
+
+   Several examples of sequential recommenders are available in the
+   literature [12]. Zhou et al. [11] proposed a web recommender system
+   based on a sequential pattern mining algorithm. The recommender is
+   trained with the access logs of a website and its goal is to predict
+   the pages that are likely to be visited by a certain user, given her
+   previously visited pages. The authors proposed to store the model in a
+   tree-like structure, relying on a technique originally designed for
+   matching substrings over a finite alphabet of characters. A
+   recommendation is then created by matching the sequence of pages
+   already visited by the target user with the sequences previously
+   analyzed by the algorithm.
+   In the context of market basket analysis, it is also possible to
+   exploit the sequence of previous transactions to predict what a
+   customer is going to buy next [23]. Rendle et al. [8] proposed a method
+   based on personalized transition graphs over Markov chains, while Wang
+   et al. [10] designed a recommender capable of modeling both the
+   sequential information from previous purchases and the overall
+   preferences by a hybrid representation.
+   Bellogín and Sánchez [24] proposed a similarity metric designed to
+   compare users in the context of CF RSs. This metric takes into account
+   the temporal sequence of users’ ratings to identify common behaviors.
+   The authors argue that it is possible to consider a sequence of items
+   as a string, where each character represents an item, and compare them
+   using the longest common subsequence algorithm [25].
+   Recently, He et al. [9] introduced the concept of translation-based
+   recommendation. While a traditional RS only considers the pairwise
+   interactions between items and users, their idea is to model a
+   third-order relationship among a user, the items she interacted with in
+   the past, and the item she is going to visit next. Each user can be
+   represented as a vector in a transition space: given the current item,
+   it is possible to compute where the next one will be located. At
+   recommendation time, it is possible to generate a list of suggested
+   items by relying on a nearest-neighbor search.
+   On the other hand, the task of generating recommendations of sequences
+   was already discussed and presented in a seminal work by Herlocker et
+   al. [14]. The authors suggested that it would be intriguing to be able
+   to suggest, in the music domain, not only the songs that will be
+   probably liked by a certain user, but also a playlist of songs that is
+   globally pleasing. Moreover, they also proposed to apply this
+   recommendation methodology in the context of scientific literature,
+   where it is necessary to read a sequence of articles to become familiar
+   with a certain topic of interest.
+   The former problem was later addressed by Chen et al. [15], who
+   designed and implemented a recommender system capable of generating
+   personalized playlists by modeling them as Markov chains. Their
+   algorithm is capable of learning, from a set of training playlists, how
+   to represent each song as a point in a latent space. Then, starting
+   from a seed song, it is possible to create a playlist of an arbitrary
+   length by repeatedly sampling the transition probabilities between
+   adjacent songs. The resulting playlist is personalized because of the
+   chosen seed. Furthermore, each user can influence the generation
+   process by specifying some parameters: for example, a user might be
+   more interested in popular songs, while another one in songs that are
+   strictly related to the given seed.
+   Another typical application for a sequence-based recommender is the
+   next point-of-interest (POI) prediction problem [12]. Given some
+   training sequences of previously liked geographical locations, this
+   task consists of predicting a sequence of venues that is pleasing for a
+   given user. Feng et al. [16] proposed an algorithm capable of creating
+   sequences of POIs that have not been already visited. The authors
+   developed a Metric Embedding algorithm that captures both the
+   sequential information and individual preference. Such metric is then
+   exploited to create a Markov chain model capable of representing the
+   transition probabilities between a given POI and the next one. The key
+   features that are implicitly considered in the embedding creation phase
+   are the conceptual similarity and the geographical distance of the
+   analyzed venues.
+   A different line of research is represented by recommenders capable of
+   analyzing sequences of multimedia objects. For example, Albanese et
+   al. [26] proposed a hybrid recommender system for retrieving multimedia
+   content based on the theory of social choice and capable of exploiting,
+   among other signals, the implicit browsing preferences of its users.
+   Later, the authors of [27] introduced a multimedia recommendation
+   algorithm capable of combining semantic descriptors and usage patterns.
+   The proposed approach can manage different media types and it enables
+   users to explore several multimedia channels at the same time. Possible
+   applications of such technologies are represented by browsing tools for
+   virtual museums [28] and recommenders of cultural heritage sites [29].
+   Differently from the previously reported works, our main aim is not to
+   propose a novel recommendation algorithm, but a general method to
+   standardize how the sequences of recommended items are generated and
+   evaluated in an offline setting.
+
+2.2. Offline Evaluation
+
+   To the best of our knowledge, the first survey that deals with the
+   problem of evaluating a recommender system was conducted by Herlocker
+   et al. [14]. In their work, the authors discuss when it is appropriate
+   to perform an offline evaluation and when it is necessary to carry on
+   an online, or in vivo, experiment. The former is particularly useful to
+   select a small set of potentially good candidates that will be further
+   compared in a real scenario. However, to be complete and trustworthy,
+   such a evaluation needs to rely on a set of well-defined metrics, that
+   should be able to capture all characteristics of the recommended items.
+   They review several accuracy metrics usually exploited by different
+   authors and they classify them into three categories: predictive
+   accuracy metrics, classification accuracy metrics, and rank accuracy
+   metrics. These groups are strictly related to the purpose of the
+   recommender system: predicting a rating for each user-item pair,
+   identifying an item as appropriate or not for a user, and creating an
+   ordered list of recommended items for a user. Furthermore, the authors
+   suggest that it is necessary to avoid relying only on accuracy to draw
+   a reliable conclusion: for this reason, they also review and discuss
+   the metrics of coverage, learning rate, novelty, serendipity, and
+   confidence.
+   Gunawardana and Shani [18] proposed a set of general guidelines for
+   designing experiments with the purpose of evaluating RSs. Such
+   experiments can be classified as offline trails, user studies, or
+   online analysis that involve a live system. Several properties of a
+   recommender system can be evaluated: for example, the most common ones
+   are user preference, prediction accuracy, coverage, and utility. The
+   authors argue that the possibility of measuring these properties is
+   strongly influenced by the kind of study and, in the most extreme
+   scenario, some of them cannot be obtained. For example, it is very
+   difficult to measure users’ preference in an offline setting.
+   For each property, different commonly exploited metrics are presented
+   and discussed. Even if the main metrics proposed for evaluating the
+   most popular properties are widely known and understood, usually there
+   is little agreement about the most appropriate metrics for
+   characterizing the least common properties. For example, several
+   definitions, and several metrics, related to the property of utility
+   are available in the literature. The authors also point out that a key
+   decision of offline experiment design is the splitting protocol because
+   this choice will greatly influence the final outcome of the measures.
+
+2.3. Experimental Reproducibility
+
+   Different authors analyzed the experimental reproducibility of offline
+   evaluations. For example, Jannach et al. [19] compared several
+   recommendation algorithms in an offline experiment, analyzing their
+   performance by relying on a comprehensive evaluation framework. The
+   authors considered different splitting protocols and metrics, designed
+   to characterize both the accuracy, in terms of rating and ranking, and
+   the coverage of the suggested items. The results of the experimental
+   trails suggest that some common algorithms, despite their high
+   accuracy, tend to only recommend popular items that are probably not
+   very interesting for the users of a real system. This problem is
+   related to the popularity biases introduced by the offline evaluation
+   protocol: for this reason, it is not advisable to compare different
+   algorithms by relying only on measures related to their accuracy. In
+   addition, different splitting protocols produce significantly different
+   and non-comparable outcomes.
+   Bellogín et al. [30] proposed an evaluation framework designed
+   following the methodologies of the Information Retrieval (IR) field.
+   They suggest that the evaluation procedures available in IR are
+   widespread: for this reason, they could be successfully exploited by
+   the RS community to create a shared evaluation protocol based on
+   ranking, as this setting is more similar to the one of a live system.
+   Unfortunately, three different decisions need to be taken to achieve
+   this goal.
+   The items considered for the evaluation could be all items available in
+   the dataset, or only the items available in the test set. The
+   non-relevant items for a certain user could be represented by all items
+   in the test set not rated by that user, or by a subset of it with a
+   fixed size. Finally, the global metric could be computed by averaging
+   its value on all users, or on all ratings available in the test set.
+   Different design choices will result in different evaluation protocols
+   and results. The authors also identify two sources of biases in offline
+   evaluations protocols: the sparsity bias and the popularity bias.
+   Several software tools are available with the purpose of simplifying
+   the process of comparing the performance of recommendation algorithms.
+   They typically include some evaluation protocols and a reference
+   implementation of well-known techniques. Said and Bellogín [31]
+   compared several of these tools to check if their results are
+   consistent. They discovered that the values obtained with the same
+   dataset and algorithm may vary significantly among different
+   frameworks. For this reason, it is not feasible to directly compare the
+   scores reported by these tools, because they are obtained relying on
+   several protocols. The discrepancies reported by the authors are mainly
+   caused by the data splitting protocol, the strategy used to generate
+   the candidate items, and the implementation choices related to the
+   evaluation metrics.
+
+3. Sequence-Based Recommender Systems
+
+   Before analyzing the evaluation framework, we introduce the problem of
+   recommending sequences and we provide an answer to RQ1. In a
+   traditional recommender system, users express positive or negative
+   preferences about a certain item. An item may be, for example, a
+   product, a song, or a place. In contrast, we assume that when a user
+   consumes or interacts with an item, she expresses an implicit rating
+   about it. This assumption in the literature goes under the name of
+   implicit feedback [14]. Because we are also considering the temporal
+   dimension to build the sequences, each rating is associated with a
+   timestamp that represents the point in time when it was recorded.
+   Definition 1.
+   Given the space of items
+   [MATH: <semantics> <mi mathvariant="script">I</mi> </semantics> :MATH]
+   , the space of users
+   [MATH: <semantics> <mi mathvariant="script">U</mi> </semantics> :MATH]
+   , the space of timestamps
+   [MATH: <semantics> <mi mathvariant="script">T</mi> </semantics> :MATH]
+   , a rating
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">r</mi> <mo>∈</mo> <mi
+   mathvariant="script">R</mi> </mrow> </semantics> :MATH]
+   is a tuple
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">r</mi> <mo>=</mo>
+   <mo>(</mo> <mi>ι</mi> <mo>,</mo> <mi>υ</mi> <mo>,</mo> <mi>τ</mi>
+   <mo>)</mo> </mrow> </semantics> :MATH]
+   , where
+   [MATH: <semantics> <mrow> <mi>ι</mi> <mo>∈</mo> <mi
+   mathvariant="script">I</mi> </mrow> </semantics> :MATH]
+   is the item for which the user
+   [MATH: <semantics> <mrow> <mi>υ</mi> <mo>∈</mo> <mi
+   mathvariant="script">U</mi> </mrow> </semantics> :MATH]
+   expressed a positive preference at the timestamp
+   [MATH: <semantics> <mrow> <mi>τ</mi> <mo>∈</mo> <mi
+   mathvariant="script">T</mi> </mrow> </semantics> :MATH]
+   .
+   By relying on the set of ratings
+   [MATH: <semantics> <mi mathvariant="script">R</mi> </semantics> :MATH]
+   available in the system, it is possible to construct the sequences that
+   will be used to train and to evaluate the recommender. Each sequence
+   only includes the ratings expressed by a single user. On the other
+   hand, each user may produce several sequences.
+   The concept of sequence is similar to the concept of session in a
+   traditional web interaction: if two ratings are distant in time more
+   than an interval
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   , then they belong to different sequences. Some ratings may be isolated
+   and, for this reason, not part of any sequence. The most appropriate
+   value for
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   depends on the domain: for example, in the POI recommendation scenario,
+   it could be considered of a few hours as reported in [16].
+   Definition 2.
+   A sequence
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo> <mi
+   mathvariant="script">S</mi> </mrow> </semantics> :MATH]
+   is a temporally ordered list of ratings
+   [MATH: <semantics> <mrow> <mo>〈</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>n</mi> </msub>
+   <mo>〉</mo> </mrow> </semantics> :MATH]
+   created by a particular user
+   [MATH: <semantics> <mrow> <mi>υ</mi> <mo>∈</mo> <mi
+   mathvariant="script">U</mi> </mrow> </semantics> :MATH]
+   , i.e., for each i,
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi>
+   <mi>i</mi> </msub> <mo>=</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mi>i</mi> </msub> <mo>,</mo> <mi>υ</mi> <mo>,</mo> <msub> <mi>τ</mi>
+   <mi>i</mi> </msub> <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   and
+   [MATH: <semantics> <mrow> <msub> <mi>τ</mi> <mi>i</mi> </msub>
+   <mo><</mo> <msub> <mi>τ</mi> <mrow> <mi>i</mi> <mo>+</mo> <mn>1</mn>
+   </mrow> </msub> </mrow> </semantics> :MATH]
+   .
+   In Algorithm 1, we list the procedure for creating the set
+   [MATH: <semantics> <mi mathvariant="script">S</mi> </semantics> :MATH]
+   , given the set of users
+   [MATH: <semantics> <mi mathvariant="script">U</mi> </semantics> :MATH]
+   , the set of ratings
+   [MATH: <semantics> <mi mathvariant="script">R</mi> </semantics> :MATH]
+   , and a time interval
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   . Please note that we do not allow the creation of sequences of length
+   one because they do not encode a meaningful temporal order.
+   Algorithm 1 Generation of the set
+   [MATH: <semantics> <mi mathvariant="script">S</mi> </semantics> :MATH]
+   , given
+   [MATH: <semantics> <mi mathvariant="script">U</mi> </semantics> :MATH]
+   ,
+   [MATH: <semantics> <mi mathvariant="script">R</mi> </semantics> :MATH]
+   , and
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   .
+   Require:
+   [MATH: <semantics> <mrow> <mi mathvariant="script">U</mi> <mo>≠</mo>
+   <mrow> <mo>{</mo> <mi>∅</mi> <mo>}</mo> </mrow> <mo>∧</mo> <mi
+   mathvariant="script">R</mi> <mo>≠</mo> <mrow> <mo>{</mo> <mi>∅</mi>
+   <mo>}</mo> </mrow> <mo>∧</mo> <mi>δ</mi> <mi>τ</mi> <mo>≐</mo> <msub>
+   <mi>τ</mi> <mi>i</mi> </msub> <mo>−</mo> <msub> <mi>τ</mi> <mi>j</mi>
+   </msub> </mrow> </semantics> :MATH]
+
+   1:
+          [MATH: <semantics> <mrow> <mi mathvariant="script">S</mi>
+          <mo>←</mo> <mo>{</mo> <mi>∅</mi> <mo>}</mo> </mrow> </semantics>
+          :MATH]
+
+   2:
+          for all
+          [MATH: <semantics> <mrow> <mi>υ</mi> <mo>∈</mo> <mi
+          mathvariant="script">U</mi> </mrow> </semantics> :MATH]
+          do
+
+   3:
+
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>←</mo> <mi>⌀</mi> </mrow> </semantics> :MATH]
+
+   4:
+              for all
+          [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi>
+          <mi>i</mi> </msub> <mo>∈</mo> <msub> <mi
+          mathvariant="script">R</mi> <mi>υ</mi> </msub> <mo>:</mo> <msub>
+          <mi>τ</mi> <mrow> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow>
+          </msub> <mo><</mo> <msub> <mi>τ</mi> <mi>i</mi> </msub>
+          <mo>∧</mo> <mi>i</mi> <mo>></mo> <mn>1</mn> </mrow> </semantics>
+          :MATH]
+          do
+
+   5:
+                  if
+          [MATH: <semantics> <mrow> <msub> <mi>τ</mi> <mi>i</mi> </msub>
+          <mo><</mo> <msub> <mi>τ</mi> <mrow> <mi>i</mi> <mo>−</mo>
+          <mn>1</mn> </mrow> </msub> <mo>+</mo> <mi>δ</mi> <mi>τ</mi>
+          </mrow> </semantics> :MATH]
+          then
+
+   6:
+                      if
+          [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics>
+          :MATH]
+          is ⌀ then
+
+   7:
+
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>←</mo> <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi>
+          <mrow> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow> </msub>
+          <mo>〉</mo> </mrow> </semantics> :MATH]
+
+   8:
+                      end if
+
+   9:
+
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>←</mo> <mi mathvariant="bold">s</mi> <mo>+</mo> <mo>〈</mo>
+          <msub> <mi mathvariant="bold">r</mi> <mi>i</mi> </msub>
+          <mo>〉</mo> </mrow> </semantics> :MATH]
+
+   10:
+                  else
+
+   11:
+                      if
+          [MATH: <semantics> <mrow> <mrow> <mo>|</mo> </mrow> <msub> <mi
+          mathvariant="script">R</mi> <mi mathvariant="bold">s</mi>
+          </msub> <mrow> <mo>|</mo> <mo>></mo> <mn>1</mn> </mrow> </mrow>
+          </semantics> :MATH]
+          then
+
+   12:
+
+          [MATH: <semantics> <mrow> <mi mathvariant="script">S</mi>
+          <mo>←</mo> <mi mathvariant="script">S</mi> <mo>∪</mo> <mo>{</mo>
+          <mi mathvariant="bold">s</mi> <mo>}</mo> </mrow> </semantics>
+          :MATH]
+
+   13:
+
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>←</mo> <mi>⌀</mi> </mrow> </semantics> :MATH]
+
+   14:
+                      end if
+
+   15:
+                  end if
+
+   16:
+              end for
+
+   17:
+          end for
+
+   18:
+          return
+          [MATH: <semantics> <mi mathvariant="script">S</mi> </semantics>
+          :MATH]
+
+   A sequence-based recommender is an RS capable of suggesting a
+   personalized sequence that is built starting from a seed rating
+   [MATH: <semantics> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn>
+   </msub> </semantics> :MATH]
+   , considering the example sequences already available in the system and
+   the specific behavior of a certain user. The seed rating is
+   characterized by a seed item
+   [MATH: <semantics> <msub> <mi>ι</mi> <mn>0</mn> </msub> </semantics>
+   :MATH]
+   , a target user
+   [MATH: <semantics> <mi>υ</mi> </semantics> :MATH]
+   , and an initial timestamp
+   [MATH: <semantics> <msub> <mi>τ</mi> <mn>0</mn> </msub> </semantics>
+   :MATH]
+   . The seed item can be represented by any item that belongs to the
+   catalog, but, more in general, it is a point in the space of items
+   [MATH: <semantics> <mi mathvariant="script">I</mi> </semantics> :MATH]
+   . For example, in the music domain, it could identify not only a
+   particular song, but also an artist, a genre, or a mood. The target
+   user is the user to whom the sequence is recommended, while the initial
+   timestamp represents the point in time in which the recommendation is
+   created. The generated sequence is of a fixed length and it contains
+   exactly k ratings. Please note that if
+   [MATH: <semantics> <mrow> <mi>k</mi> <mo>=</mo> <mn>1</mn> </mrow>
+   </semantics> :MATH]
+   , we are dealing with a sequential RS as defined in [10].
+   Definition 3.
+   Given a seed rating
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi>
+   <mn>0</mn> </msub> <mo>∈</mo> <mi mathvariant="script">R</mi>
+   <mo>:</mo> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn> </msub>
+   <mo>=</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>0</mn> </msub>
+   <mo>,</mo> <mi>υ</mi> <mo>,</mo> <msub> <mi>τ</mi> <mn>0</mn> </msub>
+   <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   , and a length
+   [MATH: <semantics> <mrow> <mi>k</mi> <mo>∈</mo> <mi
+   mathvariant="double-struck">N</mi> </mrow> </semantics> :MATH]
+   , a sequence-based recommender is the function
+   [MATH: <semantics> <mrow> <mi>sequence</mi> <mo>:</mo> <mi
+   mathvariant="script">R</mi> <mo>×</mo> <mi
+   mathvariant="double-struck">N</mi> <mo>→</mo> <mi
+   mathvariant="script">S</mi> </mrow> </semantics> :MATH]
+   , i.e.,
+   [MATH: <semantics> <mrow> <mi>sequence</mi> <mrow> <mo>(</mo> <msub>
+   <mi mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>,</mo> <mi>k</mi>
+   <mo>)</mo> </mrow> <mo>=</mo> <mrow> <mo>〈</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>k</mi> </msub>
+   <mo>〉</mo> </mrow> <mo>:</mo> <msub> <mi mathvariant="bold">r</mi>
+   <mi>i</mi> </msub> <mo>=</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mi>i</mi> </msub> <mo>,</mo> <mi>υ</mi> <mo>,</mo> <msub> <mi>τ</mi>
+   <mi>i</mi> </msub> <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   .
+   Most sequence-based recommenders are based on probability models, and
+   therefore they can be interpreted as a sampling function
+   [MATH: <semantics> <mi>σ</mi> </semantics> :MATH]
+   applied to the conditional probability
+   [MATH: <semantics> <mrow> <mi>P</mi> <mo>(</mo> <mrow> <mo>〈</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>k</mi>
+   </msub> <mo>〉</mo> </mrow> <mo>|</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>)</mo> </mrow>
+   </semantics> :MATH]
+   :
+   [MATH: <semantics> <mrow> <mi>sequence</mi> <mrow> <mo>(</mo> <msub>
+   <mi mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>,</mo> <mi>k</mi>
+   <mo>)</mo> </mrow> <mo>=</mo> <mi>σ</mi> <mrow> <mo>(</mo> <mi>P</mi>
+   <mrow> <mo>(</mo> <mrow> <mo>〈</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>k</mi> </msub>
+   <mo>〉</mo> </mrow> <mo>|</mo> <msub> <mi mathvariant="bold">r</mi>
+   <mn>0</mn> </msub> <mo>)</mo> </mrow> <mo>)</mo> </mrow> </mrow>
+   </semantics> :MATH]
+   (1)
+   Using the chain rule, the sequence probability
+   [MATH: <semantics> <mrow> <mi>P</mi> <mo>(</mo> <mrow> <mo>〈</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>k</mi>
+   </msub> <mo>〉</mo> </mrow> <mo>|</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>)</mo> </mrow>
+   </semantics> :MATH]
+   can be written as:
+   [MATH: <semantics> <mtable displaystyle="true"> <mtr> <mtd
+   columnalign="right"> <mrow> <mi>P</mi> <mo>(</mo> <mrow> <mo>〈</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>k</mi>
+   </msub> <mo>〉</mo> </mrow> <mo>|</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>)</mo> <mo>=</mo>
+   </mrow> </mtd> <mtd columnalign="left"> <mrow> <mi>P</mi> <mo>(</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mi>k</mi> </msub> <mo>|</mo>
+   <mrow> <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn>
+   </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mrow> <mi>k</mi> <mo>−</mo> <mn>1</mn>
+   </mrow> </msub> <mo>〉</mo> </mrow> <mo>)</mo> <mo>·</mo> </mrow> </mtd>
+   </mtr> <mtr> <mtd /> <mtd columnalign="left"> <mrow> <mi>P</mi> <mrow>
+   <mo>(</mo> <msub> <mi mathvariant="bold">r</mi> <mrow> <mi>k</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>|</mo> <mrow> <mo>〈</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mrow>
+   <mi>k</mi> <mo>−</mo> <mn>2</mn> </mrow> </msub> <mo>〉</mo> </mrow>
+   <mo>)</mo> </mrow> <mo>…</mo> <mi>P</mi> <mrow> <mo>(</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>|</mo> <mrow>
+   <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn> </msub>
+   <mo>〉</mo> </mrow> <mo>)</mo> </mrow> </mrow> </mtd> </mtr> </mtable>
+   </semantics> :MATH]
+   (2)
+   For example, in the case of a Markov chain, each rating depends on the
+   previous one, i.e.,
+   [MATH: <semantics> <mrow> <mi>P</mi> <mrow> <mo>(</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mi>k</mi> </msub> <mo>|</mo> <mrow>
+   <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn> </msub>
+   <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi>
+   <mrow> <mi>k</mi> <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>〉</mo>
+   </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mi>P</mi> <mrow> <mo>(</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mi>k</mi> </msub> <mo>|</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mrow> <mi>k</mi> <mo>−</mo>
+   <mn>1</mn> </mrow> </msub> <mo>)</mo> </mrow> </mrow> </semantics>
+   :MATH]
+   :
+   [MATH: <semantics> <mrow> <mi>P</mi> <mrow> <mo>(</mo> <mrow>
+   <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>1</mn> </msub>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mn>2</mn> </msub>
+   <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi>
+   <mi>k</mi> </msub> <mo>〉</mo> </mrow> <mo>|</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>)</mo> </mrow>
+   <mo>=</mo> <mi>P</mi> <mrow> <mo>(</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mi>k</mi> </msub> <mo>|</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mrow> <mi>k</mi> <mo>−</mo> <mn>1</mn>
+   </mrow> </msub> <mo>)</mo> </mrow> <mi>P</mi> <mrow> <mo>(</mo> <msub>
+   <mi mathvariant="bold">r</mi> <mrow> <mi>k</mi> <mo>−</mo> <mn>1</mn>
+   </mrow> </msub> <mo>|</mo> <msub> <mi mathvariant="bold">r</mi> <mrow>
+   <mi>k</mi> <mo>−</mo> <mn>2</mn> </mrow> </msub> <mo>)</mo> </mrow>
+   <mo>…</mo> <mi>P</mi> <mrow> <mo>(</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>|</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>)</mo> </mrow> </mrow>
+   </semantics> :MATH]
+   (3)
+   Thus, a sequence-based recommender system typically works by learning
+   from a set of sequences
+   [MATH: <semantics> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>r</mi> <mi>a</mi> <mi>i</mi> <mi>n</mi> <mi>i</mi>
+   <mi>n</mi> <mi>g</mi> </mrow> </msub> </semantics> :MATH]
+   the conditional probability of the next rating
+   [MATH: <semantics> <msub> <mi mathvariant="bold">r</mi> <mi>k</mi>
+   </msub> </semantics> :MATH]
+   to the sequence of previous ones
+   [MATH: <semantics> <mrow> <mo>〈</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>0</mn> </msub> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mrow> <mi>k</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>〉</mo> </mrow> </semantics>
+   :MATH]
+   , i.e., the factors of the right-hand side of Equation (2). Sampling
+   sequences directly from Equation (2) would require computing the
+   probabilities of all the
+   [MATH: <semantics> <msup> <mrow> <mo>|</mo> <mi>I</mi> <mo>|</mo>
+   </mrow> <mi>k</mi> </msup> </semantics> :MATH]
+   possible sequences, where
+   [MATH: <semantics> <mrow> <mo>|</mo> <mi>I</mi> <mo>|</mo> </mrow>
+   </semantics> :MATH]
+   is the size of the vocabulary of items and k is the length of the
+   sequences. Since this becomes easily computationally unfeasible, we opt
+   for a greedy approach, in which at each step we sample the next most
+   likely item. A sampling function
+   [MATH: <semantics> <mi>ρ</mi> </semantics> :MATH]
+   is defined to select a particular next rating from the previous ones at
+   each step:
+   [MATH: <semantics> <mrow> <msub> <mover accent="true"> <mi
+   mathvariant="bold">r</mi> <mo>^</mo> </mover> <mi>k</mi> </msub>
+   <mo>=</mo> <mi>ρ</mi> <mrow> <mo>(</mo> <mi>P</mi> <mrow> <mo>(</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mi>k</mi> </msub> <mo>|</mo>
+   <mrow> <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn>
+   </msub> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mn>1</mn>
+   </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mrow> <mi>k</mi> <mo>−</mo> <mn>1</mn>
+   </mrow> </msub> <mo>〉</mo> </mrow> <mo>)</mo> </mrow> <mo>)</mo>
+   </mrow> </mrow> </semantics> :MATH]
+   (4)
+   A trivial example of
+   [MATH: <semantics> <mi>ρ</mi> </semantics> :MATH]
+   is the
+   [MATH: <semantics> <mrow> <mi>a</mi> <mi>r</mi> <mi>g</mi> <mi>m</mi>
+   <mi>a</mi> <mi>x</mi> </mrow> </semantics> :MATH]
+   function, which simply selects the most probable next rating. In the
+   following, we will assume that
+   [MATH: <semantics> <mi>ρ</mi> </semantics> :MATH]
+   is implemented by a weighted random sampling function.
+   Algorithm 2 formalizes the procedure for generating a personalized
+   sequence, given a seed rating
+   [MATH: <semantics> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn>
+   </msub> </semantics> :MATH]
+   , and a length k, i.e., it describes the sampling function
+   [MATH: <semantics> <mi>σ</mi> </semantics> :MATH]
+   . For k times, the next rating of the recommended sequence is generated
+   using the function
+   [MATH: <semantics> <mrow> <mi>p</mi> <mi>r</mi> <mi>e</mi> <mi>d</mi>
+   <mi>i</mi> <mi>c</mi> <mi>t</mi> </mrow> </semantics> :MATH]
+   . The function
+   [MATH: <semantics> <mrow> <mi>p</mi> <mi>r</mi> <mi>e</mi> <mi>d</mi>
+   <mi>i</mi> <mi>c</mi> <mi>t</mi> <mo>:</mo> <mi
+   mathvariant="script">S</mi> <mo>→</mo> <mi mathvariant="script">R</mi>
+   </mrow> </semantics> :MATH]
+   implements the sampling function
+   [MATH: <semantics> <mi>ρ</mi> </semantics> :MATH]
+   and it returns the most probable next rating for the current input
+   sequence. In practice, the sequence-based recommender system can
+   estimate the probability that the next rating of the current sequence
+   will include a particular item at a certain timestamp.
+   Please note that the greedy procedure described in Algorithm 2 is not
+   the only way to create samples of sequences, and thus, the user of the
+   evaluation framework or the designer of the recommendation method are
+   free to define other ways and strategies for that end.
+   Algorithm 2 Recommendation of a sequence of length k.
+   Require:
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi>
+   <mn>0</mn> </msub> <mo>∈</mo> <mi mathvariant="script">R</mi>
+   <mo>∧</mo> <mi>k</mi> <mo>></mo> <mn>0</mn> </mrow> </semantics> :MATH]
+
+   1:
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>←</mo> <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi>
+          <mn>0</mn> </msub> <mo>〉</mo> </mrow> </semantics> :MATH]
+
+   2:
+          for
+          [MATH: <semantics> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn>
+          </mrow> </semantics> :MATH]
+          tokdo
+
+   3:
+
+          [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi>
+          <mi>i</mi> </msub> <mo>←</mo> <mi>predict</mi> <mrow> <mo>(</mo>
+          <mi mathvariant="bold">s</mi> <mo>)</mo> </mrow> </mrow>
+          </semantics> :MATH]
+
+   4:
+
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>←</mo> <mi mathvariant="bold">s</mi> <mo>+</mo> <mo>〈</mo>
+          <msub> <mi mathvariant="bold">r</mi> <mi>i</mi> </msub>
+          <mo>〉</mo> </mrow> </semantics> :MATH]
+
+   5:
+          end for
+
+   6:
+          return
+          [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi>
+          <mo>−</mo> <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi>
+          <mn>0</mn> </msub> <mo>〉</mo> </mrow> </semantics> :MATH]
+
+   To compute some metrics that are part of the evaluation framework, it
+   is necessary to know the number of items that are associated with a
+   certain sequence. For this reason, we define the set
+   [MATH: <semantics> <msub> <mi mathvariant="script">I</mi> <mi
+   mathvariant="bold">s</mi> </msub> </semantics> :MATH]
+   as the set of items that are part of the sequence
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   , and the set
+   [MATH: <semantics> <msub> <mi mathvariant="script">R</mi> <mi
+   mathvariant="bold">s</mi> </msub> </semantics> :MATH]
+   as the set of ratings that are part of the sequence
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   . Therefore,
+   [MATH: <semantics> <mrow> <mrow> <mo>|</mo> </mrow> <msub> <mi
+   mathvariant="script">I</mi> <mi mathvariant="bold">s</mi> </msub>
+   <mrow> <mo>|</mo> </mrow> </mrow> </semantics> :MATH]
+   is the number of distinct items available in
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   , while
+   [MATH: <semantics> <mrow> <mrow> <mo>|</mo> </mrow> <msub> <mi
+   mathvariant="script">R</mi> <mi mathvariant="bold">s</mi> </msub>
+   <mrow> <mo>|</mo> </mrow> </mrow> </semantics> :MATH]
+   represents the length of
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   , i.e., the number of ratings available in
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   .
+   For instance, we can suppose that the set of ratings
+   [MATH: <semantics> <mi mathvariant="script">R</mi> </semantics> :MATH]
+   is equal to
+   [MATH: <semantics> <mrow> <mo>{</mo> <mrow> <mo>(</mo> <msub>
+   <mi>ι</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn>
+   </msub> <mo>,</mo> <msub> <mi>τ</mi> <mn>1</mn> </msub> <mo>)</mo>
+   </mrow> <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>2</mn>
+   </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub> <mo>,</mo>
+   <msub> <mi>τ</mi> <mn>2</mn> </msub> <mo>)</mo> </mrow> <mo>,</mo>
+   <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>3</mn> </msub> <mo>,</mo>
+   <msub> <mi>υ</mi> <mn>2</mn> </msub> <mo>,</mo> <msub> <mi>τ</mi>
+   <mn>3</mn> </msub> <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo>
+   <msub> <mi>ι</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi>
+   <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>τ</mi> <mn>4</mn> </msub>
+   <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mn>2</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>2</mn> </msub>
+   <mo>,</mo> <msub> <mi>τ</mi> <mn>5</mn> </msub> <mo>)</mo> </mrow>
+   <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>3</mn> </msub>
+   <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub> <mo>,</mo> <msub>
+   <mi>τ</mi> <mn>6</mn> </msub> <mo>)</mo> </mrow> <mo>}</mo> </mrow>
+   </semantics> :MATH]
+   . Then, if we assume that the only pair of timestamps that violates the
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   constraint is
+   [MATH: <semantics> <mrow> <mo>(</mo> <msub> <mi>τ</mi> <mn>4</mn>
+   </msub> <mo>,</mo> <msub> <mi>τ</mi> <mn>6</mn> </msub> <mo>)</mo>
+   </mrow> </semantics> :MATH]
+   , we can create two sequences:
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">s</mi>
+   <mn>1</mn> </msub> <mo>=</mo> <mrow> <mo>〈</mo> <mrow> <mo>(</mo>
+   <msub> <mi>ι</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi>
+   <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>τ</mi> <mn>1</mn> </msub>
+   <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mn>2</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub>
+   <mo>,</mo> <msub> <mi>τ</mi> <mn>2</mn> </msub> <mo>)</mo> </mrow>
+   <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>1</mn> </msub>
+   <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub> <mo>,</mo> <msub>
+   <mi>τ</mi> <mn>4</mn> </msub> <mo>)</mo> </mrow> <mo>〉</mo> </mrow>
+   </mrow> </semantics> :MATH]
+   , and
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">s</mi>
+   <mn>2</mn> </msub> <mo>=</mo> <mrow> <mo>〈</mo> <mrow> <mo>(</mo>
+   <msub> <mi>ι</mi> <mn>3</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi>
+   <mn>2</mn> </msub> <mo>,</mo> <msub> <mi>τ</mi> <mn>3</mn> </msub>
+   <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mn>2</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>2</mn> </msub>
+   <mo>,</mo> <msub> <mi>τ</mi> <mn>5</mn> </msub> <mo>)</mo> </mrow>
+   <mo>〉</mo> </mrow> </mrow> </semantics> :MATH]
+   . The rating
+   [MATH: <semantics> <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>3</mn>
+   </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub> <mo>,</mo>
+   <msub> <mi>τ</mi> <mn>6</mn> </msub> <mo>)</mo> </mrow> </semantics>
+   :MATH]
+   is not part of any sequence because it was created at some point in
+   time later than
+   [MATH: <semantics> <mrow> <msub> <mi>τ</mi> <mn>4</mn> </msub>
+   <mo>+</mo> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics> :MATH]
+   and we do not have any subsequent rating expressed by
+   [MATH: <semantics> <msub> <mi>υ</mi> <mn>1</mn> </msub> </semantics>
+   :MATH]
+   . We also observe that
+   [MATH: <semantics> <mrow> <mrow> <mo>|</mo> </mrow> <msub> <mi
+   mathvariant="script">I</mi> <msub> <mi mathvariant="bold">s</mi>
+   <mn>1</mn> </msub> </msub> <mrow> <mo>|</mo> <mo>=</mo> <mn>2</mn>
+   </mrow> </mrow> </semantics> :MATH]
+   and
+   [MATH: <semantics> <mrow> <mrow> <mo>|</mo> </mrow> <msub> <mi
+   mathvariant="script">R</mi> <msub> <mi mathvariant="bold">s</mi>
+   <mn>1</mn> </msub> </msub> <mrow> <mo>|</mo> <mo>=</mo> <mn>3</mn>
+   </mrow> </mrow> </semantics> :MATH]
+   . We would like to recommend a sequence
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   of length two to user
+   [MATH: <semantics> <msub> <mi>υ</mi> <mn>1</mn> </msub> </semantics>
+   :MATH]
+   starting from item
+   [MATH: <semantics> <msub> <mi>ι</mi> <mn>3</mn> </msub> </semantics>
+   :MATH]
+   at timestamp
+   [MATH: <semantics> <msub> <mi>τ</mi> <mrow> <mi
+   mathvariant="bold">s</mi> <mo>,</mo> <mn>0</mn> </mrow> </msub>
+   </semantics> :MATH]
+   . In fact, it is not required that the item
+   [MATH: <semantics> <msub> <mi>ι</mi> <mn>3</mn> </msub> </semantics>
+   :MATH]
+   already appeared in the sequences related to user
+   [MATH: <semantics> <msub> <mi>υ</mi> <mn>1</mn> </msub> </semantics>
+   :MATH]
+   . A possible solution to this problem is to define
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi> <mrow>
+   <mi mathvariant="bold">s</mi> <mo>,</mo> <mn>0</mn> </mrow> </msub>
+   <mo>=</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi> <mn>3</mn> </msub>
+   <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub> <mo>,</mo> <msub>
+   <mi>τ</mi> <mrow> <mi mathvariant="bold">s</mi> <mo>,</mo> <mn>0</mn>
+   </mrow> </msub> <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   and then to recommend
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi> <mo>=</mo>
+   <mi>sequence</mi> <mrow> <mo>(</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mrow> <mi mathvariant="bold">s</mi>
+   <mo>,</mo> <mn>0</mn> </mrow> </msub> <mo>,</mo> <mn>2</mn> <mo>)</mo>
+   </mrow> <mo>=</mo> <mrow> <mo>〈</mo> <mrow> <mo>(</mo> <msub>
+   <mi>ι</mi> <mn>2</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn>
+   </msub> <mo>,</mo> <msub> <mi>τ</mi> <mrow> <mi
+   mathvariant="bold">s</mi> <mo>,</mo> <mn>1</mn> </mrow> </msub>
+   <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>υ</mi> <mn>1</mn> </msub>
+   <mo>,</mo> <msub> <mi>τ</mi> <mrow> <mi mathvariant="bold">s</mi>
+   <mo>,</mo> <mn>2</mn> </mrow> </msub> <mo>)</mo> </mrow> <mo>〉</mo>
+   </mrow> </mrow> </semantics> :MATH]
+   , where
+   [MATH: <semantics> <msub> <mi>τ</mi> <mrow> <mi
+   mathvariant="bold">s</mi> <mo>,</mo> <mn>1</mn> </mrow> </msub>
+   </semantics> :MATH]
+   and
+   [MATH: <semantics> <msub> <mi>τ</mi> <mrow> <mi
+   mathvariant="bold">s</mi> <mo>,</mo> <mn>2</mn> </mrow> </msub>
+   </semantics> :MATH]
+   may be used to suggest when consuming the items.
+
+4. Sequeval
+
+   Comparing the performance of several recommenders with an experiment
+   that involves a live system is not always feasible or appropriate. For
+   this reason, it is necessary to first perform a preliminary evaluation
+   in an offline scenario [18]. In such a setting, we can assess the
+   performance of the algorithms by comparing with baselines,
+   understanding the strengths and weaknesses of those, and thus avoiding
+   affecting real users negatively in their experience with the system.
+   The results of an offline experiment will be less trustworthy than the
+   ones obtained from an online study because there was no real
+   interaction with the system [32], but they are usually exploited as the
+   first stage in the preparation of the in vivo experimentation.
+   Even if an offline study is only the first step in the process of
+   evaluating a recommender, it is necessary to rely on a solid evaluation
+   protocol and a set of well-defined metrics that are able to capture all
+   the characteristics of the analyzed algorithm [33]. In the following,
+   we will introduce an offline evaluation framework for sequence-based
+   RSs that we called Sequeval.
+   Our framework is based on the concept of sequence as formalized in
+   Section 3. First, an initial dataset is transformed into a set of
+   sequences following Algorithm 1. Then, the sequences are split between
+   training and test sets. At this point, one or more external
+   recommenders are plugged into the framework: they are exposed to the
+   training sequences and they are asked to create suggested sequences
+   starting from the same seeds of the test ones. A possible strategy for
+   suggesting additional sequences is described in Algorithm 2, but the
+   user can define other approaches. Finally, considering the
+   recommendations available, the framework can compute different
+   evaluation metrics.
+   In details, Sequeval is made of an evaluation protocol, presented in
+   Section 4.1, a set of evaluation metrics, described in Section 4.2, and
+   a software implementation that is introduced in Section 4.3.
+
+4.1. Evaluation Protocol
+
+   One of the first problems that an evaluation framework should consider
+   is how to split the dataset between the training set and the test set.
+   This task is not trivial, as it will deeply influence the outcome of
+   the experimentation [31]. Since we are dealing with sequences, we need
+   to split the set of sequences
+   [MATH: <semantics> <mi mathvariant="script">S</mi> </semantics> :MATH]
+   in a training and test set such that
+   [MATH: <semantics> <mrow> <mi mathvariant="script">S</mi> <mo>=</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>r</mi>
+   <mi>a</mi> <mi>i</mi> <mi>n</mi> <mi>i</mi> <mi>n</mi> <mi>g</mi>
+   </mrow> </msub> <mo>∪</mo> <msub> <mi mathvariant="script">S</mi>
+   <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub>
+   </mrow> </semantics> :MATH]
+   .
+   Several solutions to this problem are possible: a simple but effective
+   one is to perform the splitting by randomly assigning sequences to
+   these sets according to a certain ratio, typically the
+   [MATH: <semantics> <mrow> <mn>80</mn> <mo>%</mo> </mrow> </semantics>
+   :MATH]
+   for training and the
+   [MATH: <semantics> <mrow> <mn>20</mn> <mo>%</mo> </mrow> </semantics>
+   :MATH]
+   for testing. If the number of sequences available is limited, it is
+   necessary to perform a cross-validation. Another possibility is to
+   identify an appropriate point in time and to consider all the sequences
+   created before it as part of the training set, and after it as part of
+   the test set. This protocol simulates the behavior of a recommender
+   introduced at that point in time and it avoids too optimistic results
+   caused by the knowledge of future events [34]. The latter solution can
+   be considered the most reliable one, but if we do not have any temporal
+   information because the sequences have already been created, it is
+   necessary to adopt a random protocol.
+   More in general, it is impossible to identify a splitting method that
+   is appropriate for every experiment, as it depends on the domain and on
+   the dataset available. For this reason, Sequeval does not impose the
+   adoption of a particular splitting protocol, but the experimenter can
+   choose the most appropriate one.
+   To compute the metrics that are part of the evaluation framework, the
+   sequence-based recommender is trained with all the sequences
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>r</mi>
+   <mi>a</mi> <mi>i</mi> <mi>n</mi> <mi>i</mi> <mi>n</mi> <mi>g</mi>
+   </mrow> </msub> </mrow> </semantics> :MATH]
+   . Then, for each test sequence
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi>
+   <mi>s</mi> <mi>t</mi> </mrow> </msub> <mo>:</mo> <mi
+   mathvariant="bold">s</mi> <mo>=</mo> <mrow> <mo>〈</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>n</mi> </msub>
+   <mo>〉</mo> </mrow> </mrow> </semantics> :MATH]
+   , we predict a recommended sequence
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   of length k using
+   [MATH: <semantics> <mrow> <msub> <mi mathvariant="bold">r</mi>
+   <mn>1</mn> </msub> <mo>=</mo> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mn>1</mn> </msub> <mo>,</mo> <mi>υ</mi> <mo>,</mo> <msub> <mi>τ</mi>
+   <mn>1</mn> </msub> <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   as seed rating, i.e.,
+   [MATH: <semantics> <mrow> <mover> <mi mathvariant="bold">s</mi>
+   <mo>¯</mo> </mover> <mo>=</mo> <mi>sequence</mi> <mrow> <mo>(</mo>
+   <msub> <mi mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo>
+   <mi>k</mi> <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   . Therefore,
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   is a sequence suggested by the recommender, for the same user and
+   starting from the same item of
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   . We also define
+   [MATH: <semantics> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> </semantics> :MATH]
+   as the reference sequence, i.e.,
+   [MATH: <semantics> <mrow> <msup> <mi mathvariant="bold">s</mi>
+   <mo>′</mo> </msup> <mo>=</mo> <mrow> <mo>〈</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>2</mn> </msub> <mo>,</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>3</mn> </msub> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <msub> <mi mathvariant="bold">r</mi> <mi>n</mi> </msub>
+   <mo>〉</mo> </mrow> </mrow> </semantics> :MATH]
+   or
+   [MATH: <semantics> <mrow> <msup> <mi mathvariant="bold">s</mi>
+   <mo>′</mo> </msup> <mo>=</mo> <mi mathvariant="bold">s</mi> <mo>−</mo>
+   <mrow> <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>1</mn>
+   </msub> <mo>〉</mo> </mrow> </mrow> </semantics> :MATH]
+   . The reference sequence is equal to the original sequence, but the
+   first rating is omitted, as it was already exploited for creating the
+   recommended sequence. This procedure is graphically illustrated in
+   Figure 1.
+
+4.2. Evaluation Metrics
+
+   The second component of Sequeval is a set of eight metrics that we
+   present in the following. In order to address RQ2, we include in such
+   set not only classic metrics such as coverage and precision but also
+   less widespread ones such as novelty, diversity, and serendipity.
+   Furthermore, we introduce the metric of perplexity, as it is explicitly
+   designed for characterizing sequences [35]. In contrast, we decided to
+   avoid measuring recall because it is clear that the number of
+   recommended items is often likely to be much lower than the total
+   number of relevant items.
+
+4.2.1. Coverage
+
+   In general, the coverage of a recommender is a measure that captures
+   the number of items in the catalog over which the system can make
+   suggestions [18]. For example, in an online store scenario, it could
+   represent the percentage of products that are recommended to users in a
+   certain period of time. An algorithm with a higher coverage is
+   generally considered more useful because it better helps users to
+   explore the catalog.
+   We generate a set of recommended sequences considering as seed the
+   first rating of all sequences in the test set
+   [MATH: <semantics> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub>
+   </semantics> :MATH]
+   for a recommender that suggests sequences of length k. Afterward, we
+   compute the distinct number of items available in the sequences created
+   and we divide the result by the cardinality of the set
+   [MATH: <semantics> <mi mathvariant="script">I</mi> </semantics> :MATH]
+   .
+   [MATH: <semantics> <mrow> <mi>coverage</mi> <mrow> <mo>(</mo>
+   <mi>k</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mrow> <mrow>
+   <mo>|</mo> </mrow> <msub> <mo>⋃</mo> <mrow> <mi
+   mathvariant="bold">s</mi> <mo>∈</mo> <msub> <mi
+   mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   <mi>t</mi> </mrow> </msub> </mrow> </msub> <msub> <mi
+   mathvariant="script">I</mi> <mrow> <mi>sequence</mi> <mo>(</mo> <msub>
+   <mi mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <mi>k</mi>
+   <mo>)</mo> </mrow> </msub> <mrow> <mo>|</mo> </mrow> </mrow> <mrow>
+   <mo>|</mo> <mi mathvariant="script">I</mi> <mo>|</mo> </mrow> </mfrac>
+   </mrow> </semantics> :MATH]
+   (5)
+   This metric expresses the percentage of items that the sequence-based
+   recommender can suggest when generating sequences similar to the ones
+   available in the test set and it is strictly related to its
+   cardinality. This approach is similar to the metric of prediction
+   coverage described by Herlocker et al. [14].
+
+4.2.2. Precision
+
+   Precision is a widespread metric in the context of IR evaluation [36]
+   and it represents the fraction of retrieved documents that are
+   relevant. For a traditional recommender system, precision measures the
+   fraction of recommended items that are relevant for a certain
+   user [37]. If we consider a sequence-based recommender, it is necessary
+   to compute this metric for each sequence
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi>
+   <mi>s</mi> <mi>t</mi> </mrow> </msub> </mrow> </semantics> :MATH]
+   , instead of each user.
+   [MATH: <semantics> <mrow> <mi>precision</mi> <mrow> <mo>(</mo>
+   <mi>k</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow>
+   <mrow> <mo>|</mo> </mrow> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub> <mrow>
+   <mo>|</mo> </mrow> </mrow> </mfrac> <mo>·</mo> <munder> <mo>∑</mo>
+   <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo> <msub> <mi
+   mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   <mi>t</mi> </mrow> </msub> </mrow> </munder> <mfrac> <mrow>
+   <mi>hit</mi> <mo>(</mo> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> <mo>,</mo> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> <mo>)</mo> </mrow> <mrow> <mi>min</mi> <mo>(</mo> <mo>|</mo>
+   <msub> <mi mathvariant="script">R</mi> <msup> <mi
+   mathvariant="bold">s</mi> <mo>′</mo> </msup> </msub> <mo>|</mo>
+   <mo>,</mo> <mi>k</mi> <mo>)</mo> </mrow> </mfrac> </mrow> </semantics>
+   :MATH]
+   (6)
+   The function
+   [MATH: <semantics> <mrow> <mi>h</mi> <mi>i</mi> <mi>t</mi> <mo>:</mo>
+   <mi mathvariant="script">S</mi> <mo>×</mo> <mi
+   mathvariant="script">S</mi> <mo>→</mo> <mi
+   mathvariant="double-struck">N</mi> </mrow> </semantics> :MATH]
+   returns the number of items in
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   that are also available in
+   [MATH: <semantics> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> </semantics> :MATH]
+   . If the same item is present in
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   multiple times, it is considered a hit only if it is repeated also in
+   [MATH: <semantics> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> </semantics> :MATH]
+   . This is an extension to the traditional definition of precision that
+   also considers the fact that an item may appear multiple times inside a
+   sequence.
+   The number of relevant items is divided by the minimum number between
+   the length of the reference sequence
+   [MATH: <semantics> <mrow> <mrow> <mo>|</mo> </mrow> <msub> <mi
+   mathvariant="script">R</mi> <msup> <mi mathvariant="bold">s</mi>
+   <mo>′</mo> </msup> </msub> <mrow> <mo>|</mo> </mrow> </mrow>
+   </semantics> :MATH]
+   and the length of the recommended sequence k. We decided to adopt this
+   solution to avoid penalizing an algorithm that is evaluated considering
+   reference sequences shorter than the recommended sequences.
+
+4.2.3. nDPM
+
+   The Normalized Distance-based Performance Metric (nDPM) was originally
+   proposed by Yao in the context of information retrieval [38]. The
+   intuition of the author is that in order to compare a system ranking
+   with a reference user ranking, it is necessary to consider all the
+   possible pairs of items available in the system ranking: they can be
+   agreeing, contradictory, or compatible with respect to the user
+   ranking. We decided to adopt such a metric instead of the Normalized
+   Discounted Cumulative Gain (nDCG) [39] because, in a sequence of
+   recommendations, it is not necessarily true that the first items are
+   more important than the last ones.
+   [MATH: <semantics> <mrow> <mi>nDPM</mi> <mrow> <mo>(</mo> <mi>k</mi>
+   <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow> <mrow>
+   <mo>|</mo> </mrow> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub> <mrow>
+   <mo>|</mo> </mrow> </mrow> </mfrac> <mo>·</mo> <munder> <mo>∑</mo>
+   <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo> <msub> <mi
+   mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   <mi>t</mi> </mrow> </msub> </mrow> </munder> <mfrac> <mrow> <mn>2</mn>
+   <mspace width="0.166667em" /> <msup> <mi>pairs</mi> <mo>−</mo> </msup>
+   <mrow> <mo>(</mo> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> <mo>,</mo> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> <mo>)</mo> </mrow> <mo>+</mo> <msup> <mi>pairs</mi> <mi>u</mi>
+   </msup> <mrow> <mo>(</mo> <msup> <mi mathvariant="bold">s</mi>
+   <mo>′</mo> </msup> <mo>,</mo> <mover> <mi mathvariant="bold">s</mi>
+   <mo>¯</mo> </mover> <mo>)</mo> </mrow> </mrow> <mrow> <mn>2</mn>
+   <mspace width="0.166667em" /> <mi>pairs</mi> <mo>(</mo> <mover> <mi
+   mathvariant="bold">s</mi> <mo>¯</mo> </mover> <mo>)</mo> </mrow>
+   </mfrac> </mrow> </semantics> :MATH]
+   (7)
+   The function
+   [MATH: <semantics> <mrow> <mi>p</mi> <mi>a</mi> <mi>i</mi> <mi>r</mi>
+   <msup> <mi>s</mi> <mo>−</mo> </msup> <mo>:</mo> <mi
+   mathvariant="script">S</mi> <mo>×</mo> <mi mathvariant="script">S</mi>
+   <mo>→</mo> <mi mathvariant="double-struck">N</mi> </mrow> </semantics>
+   :MATH]
+   returns the number of pairs in the sequence
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   that are in the opposite order with respect to the reference sequence
+   [MATH: <semantics> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> </semantics> :MATH]
+   . The function
+   [MATH: <semantics> <mrow> <mi>p</mi> <mi>a</mi> <mi>i</mi> <mi>r</mi>
+   <msup> <mi>s</mi> <mi>u</mi> </msup> <mo>:</mo> <mi
+   mathvariant="script">S</mi> <mo>×</mo> <mi mathvariant="script">S</mi>
+   <mo>→</mo> <mi mathvariant="double-struck">N</mi> </mrow> </semantics>
+   :MATH]
+   returns the number of pairs in the sequence
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   for which the ordering is irrelevant, i.e., when at least one of the
+   items is not available in
+   [MATH: <semantics> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> </semantics> :MATH]
+   or when at least one of the items is available multiple times in
+   [MATH: <semantics> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> </semantics> :MATH]
+   . Finally, the function
+   [MATH: <semantics> <mrow> <mi>p</mi> <mi>a</mi> <mi>i</mi> <mi>r</mi>
+   <mi>s</mi> <mo>:</mo> <mi mathvariant="script">S</mi> <mo>→</mo> <mi
+   mathvariant="double-struck">N</mi> </mrow> </semantics> :MATH]
+   returns the number of all possible pairs available in the recommended
+   sequence
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   . The pairs are created without considering the ordering of the items
+   inside a pair: for example, if we have the sequence
+   [MATH: <semantics> <mrow> <mo>〈</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi>
+   <mo>,</mo> <mi>c</mi> <mo>〉</mo> </mrow> </semantics> :MATH]
+   , the possible pairs are
+   [MATH: <semantics> <mrow> <mo>(</mo> <mi>a</mi> <mo>,</mo> <mi>b</mi>
+   <mo>)</mo> <mo>,</mo> <mo>(</mo> <mi>a</mi> <mo>,</mo> <mi>c</mi>
+   <mo>)</mo> <mo>,</mo> <mo>(</mo> <mi>b</mi> <mo>,</mo> <mi>c</mi>
+   <mo>)</mo> </mrow> </semantics> :MATH]
+   .
+   The value of this metric will result close to 1 when the sequences
+   generated by the recommender are contradictory, to 0 when they have the
+   same ranking, and to
+   [MATH: <semantics> <mrow> <mn>0.5</mn> </mrow> </semantics> :MATH]
+   when the ordering is irrelevant because they contain different items. A
+   low precision will imply a nDPM very close to
+   [MATH: <semantics> <mrow> <mn>0.5</mn> </mrow> </semantics> :MATH]
+   .
+
+4.2.4. Diversity
+
+   The metric of sequence diversity included in this framework is inspired
+   by the metric of Intra-List Similarity proposed by Ziegler et al. [40].
+   The recommended sequences are considered to be lists of items and the
+   obtained value is not related to their internal ordering. The purpose
+   of this metric is understanding if the sequences contain items that are
+   sufficiently diverse. A higher diversity may be beneficial for the
+   users, as they are encouraged to better explore the catalog [41].
+   [MATH: <semantics> <mrow> <mi>diversity</mi> <mrow> <mo>(</mo>
+   <mi>k</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow>
+   <mrow> <mo>|</mo> </mrow> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub> <mrow>
+   <mo>|</mo> </mrow> </mrow> </mfrac> <mo>·</mo> <munder> <mo>∑</mo>
+   <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo> <msub> <mi
+   mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   <mi>t</mi> </mrow> </msub> </mrow> </munder> <mfrac> <mrow> <msubsup>
+   <mo>∑</mo> <mrow> <mo>∀</mo> <mi>i</mi> <mo>,</mo> <mo>∀</mo>
+   <mi>j</mi> <mo>:</mo> <mn>0</mn> <mo><</mo> <mi>i</mi> <mo><</mo>
+   <mi>j</mi> </mrow> <mi>k</mi> </msubsup> <mn>1</mn> <mo>−</mo>
+   <mi>sim</mi> <mrow> <mo>(</mo> <msub> <mover> <mi>ι</mi> <mo>¯</mo>
+   </mover> <mi>i</mi> </msub> <mo>,</mo> <msub> <mover> <mi>ι</mi>
+   <mo>¯</mo> </mover> <mi>j</mi> </msub> <mo>)</mo> </mrow> </mrow>
+   <mrow> <mi>k</mi> <mo>×</mo> <mo>(</mo> <mi>k</mi> <mo>−</mo>
+   <mn>1</mn> <mo>)</mo> </mrow> </mfrac> </mrow> </semantics> :MATH]
+   (8)
+   The function
+   [MATH: <semantics> <mrow> <mi>s</mi> <mi>i</mi> <mi>m</mi> <mo>:</mo>
+   <mi mathvariant="script">I</mi> <mo>×</mo> <mi
+   mathvariant="script">I</mi> <mo>→</mo> <mo>[</mo> <mo>−</mo> <mn>1</mn>
+   <mo>,</mo> <mn>1</mn> <mo>]</mo> </mrow> </semantics> :MATH]
+   is a generic similarity measure between two items. This measure may be
+   taxonomy-driven or content-based: for example, a possible content-based
+   similarity measure is the cosine similarity. The resulting value is a
+   number in the interval
+   [MATH: <semantics> <mrow> <mo>[</mo> <mn>0</mn> <mo>,</mo> <mn>2</mn>
+   <mo>]</mo> </mrow> </semantics> :MATH]
+   : higher values represent a higher diversity.
+
+4.2.5. Novelty
+
+   Vargas et al. [42] suggested that it would be useful to be able to
+   characterize the novelty of the recommendations. They proposed a metric
+   that rewards algorithms capable of identifying items that have a low
+   probability of being already known by a specific user because they
+   belong to the long-tail of the catalog. We have included such metric in
+   our framework to assess whether the items available in the suggested
+   sequences are not too obvious.
+   [MATH: <semantics> <mrow> <mi>novelty</mi> <mrow> <mo>(</mo> <mi>k</mi>
+   <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mfrac> <mn>1</mn> <mrow>
+   <mrow> <mo>|</mo> </mrow> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub> <mrow>
+   <mo>|</mo> <mo>×</mo> <mi>k</mi> </mrow> </mrow> </mfrac> <mo>·</mo>
+   <munder> <mo>∑</mo> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi>
+   <mi>s</mi> <mi>t</mi> </mrow> </msub> </mrow> </munder> <munderover>
+   <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>k</mi>
+   </munderover> <msub> <mo form="prefix">log</mo> <mn>2</mn> </msub>
+   <mi>freq</mi> <mrow> <mo>(</mo> <msub> <mover> <mi>ι</mi> <mo>¯</mo>
+   </mover> <mi>i</mi> </msub> <mo>)</mo> </mrow> </mrow> </semantics>
+   :MATH]
+   (9)
+   The function
+   [MATH: <semantics> <mrow> <mi>f</mi> <mi>r</mi> <mi>e</mi> <mi>q</mi>
+   <mo>:</mo> <mi mathvariant="script">I</mi> <mo>→</mo> <mo>[</mo>
+   <mn>0</mn> <mo>,</mo> <mn>1</mn> <mo>]</mo> </mrow> </semantics> :MATH]
+   returns the normalized frequency of a certain item
+   [MATH: <semantics> <mrow> <mi>ι</mi> <mo>∈</mo> <mi
+   mathvariant="script">I</mi> </mrow> </semantics> :MATH]
+   , i.e., the probability of observing that item in a given sequence
+   [MATH: <semantics> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>r</mi>
+   <mi>a</mi> <mi>i</mi> <mi>n</mi> <mi>i</mi> <mi>n</mi> <mi>g</mi>
+   </mrow> </msub> </mrow> </semantics> :MATH]
+   . We can define the probability of observing the item
+   [MATH: <semantics> <mi>ι</mi> </semantics> :MATH]
+   as the number of ratings related to
+   [MATH: <semantics> <mi>ι</mi> </semantics> :MATH]
+   in the training sequences divided by the total number of ratings
+   available. We also assume that
+   [MATH: <semantics> <mrow> <msub> <mo form="prefix">log</mo> <mn>2</mn>
+   </msub> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> <mo>≐</mo>
+   <mn>0</mn> </mrow> </semantics> :MATH]
+   by definition, to avoid considering as novel items for which we do not
+   have any information, i.e., the items that do not appear in the
+   training sequences.
+
+4.2.6. Serendipity
+
+   Serendipity can be defined as the capability of identifying items that
+   are both attractive and unexpected [43]. Ge et al. proposed to measure
+   the serendipity of a recommender by relying on the precision of the
+   generated lists after having discarded the items that are too
+   obvious [33].
+   To create a list of obvious items, it is possible to exploit a
+   primitive recommender that is a recommender only capable of making
+   obvious suggestions. For example, a primitive recommender could be
+   implemented using the Most Popular (MP) baseline, which is defined in
+   Section 4.3. It is reasonable to assume that popular items do not
+   contribute to the serendipity of the recommendations because they are
+   already well known by many users.
+   By modifying the metric of precision described in Section 4.2.2, it is
+   possible to introduce the concept of serendipity in the evaluation of a
+   sequence-based recommender. In this case, the primitive recommender
+   will always create a sequence of length k that contains the items that
+   are have been observed with the highest frequency in the training set.
+   [MATH: <semantics> <mrow> <mi>serendipity</mi> <mrow> <mo>(</mo>
+   <mi>k</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow>
+   <mrow> <mo>|</mo> </mrow> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub> <mrow>
+   <mo>|</mo> </mrow> </mrow> </mfrac> <mo>·</mo> <munder> <mo>∑</mo>
+   <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo> <msub> <mi
+   mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   <mi>t</mi> </mrow> </msub> </mrow> </munder> <mfrac> <mrow>
+   <mi>hit</mi> <mo>(</mo> <msup> <mi mathvariant="bold">s</mi> <mo>′</mo>
+   </msup> <mo>,</mo> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> <mo>−</mo> <mover accent="true"> <mi mathvariant="bold">s</mi>
+   <mo>^</mo> </mover> <mo>)</mo> </mrow> <mrow> <mi>min</mi> <mo>(</mo>
+   <mo>|</mo> <msub> <mi mathvariant="script">R</mi> <msup> <mi
+   mathvariant="bold">s</mi> <mo>′</mo> </msup> </msub> <mo>|</mo>
+   <mo>,</mo> <mi>k</mi> <mo>)</mo> </mrow> </mfrac> </mrow> </semantics>
+   :MATH]
+   (10)
+   We define
+   [MATH: <semantics> <mover accent="true"> <mi mathvariant="bold">s</mi>
+   <mo>^</mo> </mover> </semantics> :MATH]
+   as the sequence generated by the primitive recommender from the same
+   seed of
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   , i.e.,
+   [MATH: <semantics> <mrow> <mover accent="true"> <mi
+   mathvariant="bold">s</mi> <mo>^</mo> </mover> <mo>=</mo>
+   <mi>primitive</mi> <mrow> <mo>(</mo> <msub> <mi
+   mathvariant="bold">r</mi> <mn>1</mn> </msub> <mo>,</mo> <mi>k</mi>
+   <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   . Moreover, the sequence
+   [MATH: <semantics> <mrow> <mover> <mi mathvariant="bold">s</mi>
+   <mo>¯</mo> </mover> <mo>−</mo> <mover accent="true"> <mi
+   mathvariant="bold">s</mi> <mo>^</mo> </mover> </mrow> </semantics>
+   :MATH]
+   contains all the ratings related to the items available in
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   that are not present in
+   [MATH: <semantics> <mover accent="true"> <mi mathvariant="bold">s</mi>
+   <mo>^</mo> </mover> </semantics> :MATH]
+   . The resulting value will be a number in the interval
+   [MATH: <semantics> <mrow> <mo>[</mo> <mn>0</mn> <mo>,</mo> <mn>1</mn>
+   <mo>]</mo> </mrow> </semantics> :MATH]
+   , lower than or equal to precision. The difference between precision
+   and serendipity represents the percentage of obvious items that are
+   correctly suggested.
+
+4.2.7. Confidence
+
+   The metric of confidence reflects how much the system trusts its own
+   suggestions and it is useful for understanding how robust the learned
+   model is [44]. It is usually computed as the average probability that
+   the suggested items are correct. This metric expresses the point of
+   view of the recommender, as the probability is reported by the model.
+   Therefore, the metric is always equal to 1 with the MP recommender, as
+   it is certain of the predictions.
+   A sequence-based recommender generates the next item of the sequence by
+   considering all the previous items. For this reason, we can interpret
+   the conditional probability of obtaining a certain item, given the
+   sequence of previous ones, as the confidence that the system has in
+   that suggestion.
+   [MATH: <semantics> <mrow> <mi>confidence</mi> <mrow> <mo>(</mo>
+   <mi>k</mi> <mo>)</mo> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow>
+   <mrow> <mo>|</mo> </mrow> <msub> <mi mathvariant="script">S</mi> <mrow>
+   <mi>t</mi> <mi>e</mi> <mi>s</mi> <mi>t</mi> </mrow> </msub> <mrow>
+   <mo>|</mo> <mo>×</mo> <mi>k</mi> </mrow> </mrow> </mfrac> <mo>·</mo>
+   <munder> <mo>∑</mo> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi>
+   <mi>s</mi> <mi>t</mi> </mrow> </msub> </mrow> </munder> <munderover>
+   <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>1</mn> </mrow> <mi>k</mi>
+   </munderover> <mi>P</mi> <mrow> <mo>(</mo> <msub> <mover> <mi>ι</mi>
+   <mo>¯</mo> </mover> <mi>i</mi> </msub> <mo>|</mo> <msub> <mover>
+   <mi>ι</mi> <mo>¯</mo> </mover> <mrow> <mi>i</mi> <mo>−</mo> <mn>1</mn>
+   </mrow> </msub> <mo>,</mo> <msub> <mover> <mi>ι</mi> <mo>¯</mo>
+   </mover> <mrow> <mi>i</mi> <mo>−</mo> <mn>2</mn> </mrow> </msub>
+   <mo>,</mo> <mo>…</mo> <mo>)</mo> </mrow> </mrow> </semantics> :MATH]
+   (11)
+   We also define
+   [MATH: <semantics> <mrow> <msub> <mover> <mi>ι</mi> <mo>¯</mo> </mover>
+   <mn>0</mn> </msub> <mo>≐</mo> <msub> <mi>ι</mi> <mn>1</mn> </msub>
+   </mrow> </semantics> :MATH]
+   , i.e., the zero-th item of the recommended sequence is its seed item.
+   Therefore, this metric is computed by also considering the probability
+   of obtaining the first item
+   [MATH: <semantics> <msub> <mover> <mi>ι</mi> <mo>¯</mo> </mover>
+   <mn>1</mn> </msub> </semantics> :MATH]
+   , given the seed item of
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   .
+
+4.2.8. Perplexity
+
+   Perplexity is a widespread metric in the context of neural language
+   modeling evaluation [35], typically used to measure the quality of the
+   generated phrases. Because there is a strong similarity between
+   creating a sequence of natural language words and sequence of
+   recommended items given an initial seed, perplexity can be also
+   successfully exploited in this context.
+   This metric can be defined as the exponential in base 2 of the average
+   negative log-likelihood of the model, i.e., the cross-entropy of the
+   model. For models based on the cross-entropy loss function such as
+   neural networks, the perplexity can also be seen as a measure of
+   convergence of the learning algorithm. Differently from the metric of
+   confidence, the conditional probability
+   [MATH: <semantics> <mrow> <mi>P</mi> <mo>(</mo> <msub> <mi>ι</mi>
+   <mrow> <mi>i</mi> <mo>+</mo> <mn>1</mn> </mrow> </msub> <mo>|</mo>
+   <msub> <mi>ι</mi> <mi>i</mi> </msub> <mo>,</mo> <msub> <mi>ι</mi>
+   <mrow> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>)</mo> </mrow> </semantics> :MATH]
+   is computed considering the items of the test sequence
+   [MATH: <semantics> <mi mathvariant="bold">s</mi> </semantics> :MATH]
+   , and not of the recommended sequence
+   [MATH: <semantics> <mover> <mi mathvariant="bold">s</mi> <mo>¯</mo>
+   </mover> </semantics> :MATH]
+   . For this reason, it does not express the point of view of the
+   recommender.
+   [MATH: <semantics> <mrow> <mi>perplexity</mi> <mo>=</mo> <msup>
+   <mn>2</mn> <mrow> <mo>−</mo> <mfrac> <mn>1</mn> <mrow> <msub>
+   <mo>∑</mo> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo> <msub> <mi
+   mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi> <mi>s</mi>
+   <mi>t</mi> </mrow> </msub> </mrow> </msub> <mrow> <mo>|</mo> <msub> <mi
+   mathvariant="script">R</mi> <mi mathvariant="bold">s</mi> </msub>
+   <mo>|</mo> </mrow> <mo>−</mo> <mn>1</mn> </mrow> </mfrac> <mo>·</mo>
+   <msub> <mo>∑</mo> <mrow> <mi mathvariant="bold">s</mi> <mo>∈</mo>
+   <msub> <mi mathvariant="script">S</mi> <mrow> <mi>t</mi> <mi>e</mi>
+   <mi>s</mi> <mi>t</mi> </mrow> </msub> </mrow> </msub> <msubsup>
+   <mo>∑</mo> <mrow> <mi>i</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow>
+   <mrow> <mo>|</mo> </mrow> <msub> <mi mathvariant="script">R</mi> <mi
+   mathvariant="bold">s</mi> </msub> <mrow> <mo>|</mo> <mo>−</mo>
+   <mn>1</mn> </mrow> </mrow> </msubsup> <msub> <mo form="prefix">log</mo>
+   <mn>2</mn> </msub> <mi>P</mi> <mrow> <mo>(</mo> <msub> <mi>ι</mi>
+   <mrow> <mi>i</mi> <mo>+</mo> <mn>1</mn> </mrow> </msub> <mo>|</mo>
+   <msub> <mi>ι</mi> <mi>i</mi> </msub> <mo>,</mo> <msub> <mi>ι</mi>
+   <mrow> <mi>i</mi> <mo>−</mo> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> <mo>)</mo> </mrow> </mrow> </msup> </mrow> </semantics>
+   :MATH]
+   (12)
+   Intuitively, the obtained value represents the number of items from
+   which an equivalent random recommender should choose to obtain a
+   similar sequence. The lower is the perplexity, the better is the system
+   under evaluation. Therefore, the perplexity of a random recommender is
+   equal to
+   [MATH: <semantics> <mrow> <mo>|</mo> <mi mathvariant="script">I</mi>
+   <mo>|</mo> </mrow> </semantics> :MATH]
+   . If the performance of the recommender is worse than a random one, the
+   perplexity will be higher than
+   [MATH: <semantics> <mrow> <mo>|</mo> <mi mathvariant="script">I</mi>
+   <mo>|</mo> </mrow> </semantics> :MATH]
+   : for example, if only one conditional probability is equal to zero,
+   then
+   [MATH: <semantics> <mrow> <mi>perplexity</mi> <mo>=</mo> <mo>+</mo>
+   <mo>∞</mo> </mrow> </semantics> :MATH]
+   .
+
+4.3. Implementation
+
+   The third component of Sequeval is sequeval [45], a Python
+   implementation of the evaluation framework which is publicly available
+   on GitHub (https://github.com/D2KLab/sequeval). This implementation is
+   based on the protocol presented in Section 4.1 and it includes the
+   metrics described in Section 4.2.
+   In details, sequeval is a Python package designed following a modular
+   structure. For each component, we defined an abstract class and then we
+   realized one or more possible implementations to enable software
+   extensibility. For example, we have implemented an input module capable
+   of processing a textual file in a MovieLens-like format (UIRT), but the
+   support to other dataset formats can be easily added. The module
+   representing the recommender system under analysis includes an abstract
+   class that is based on the sequence generation logic formalized in
+   Algorithm 2.
+   To exploit the proposed framework, it is necessary to realize an
+   implementation of the abstract recommender that must be capable, given
+   the user and the current item of the sequence, of predicting the
+   probabilities for the possible items of being the next one inside the
+   recommended sequence. If the weighted random sampling generation logic
+   is not appropriate, it is possible to override the relative method and
+   to define an alternative recommendation approach.
+   For obtaining the experimental results, it is necessary to write an
+   evaluation script that relies on this library. We provide a simple
+   evaluation script which can be used to perform different experiments.
+   This script can be easily modified to accommodate novel recommendation
+   techniques.
+   We also created an extensive test suite achieving the 98% of code
+   coverage for validating the robustness of our implementation and for
+   better supporting future improvements. The total development cost of
+   this Python library could be estimated around 40 h.
+   For demonstrative purposes, we have implemented four baseline
+   recommenders, which are illustrated in the following and represent our
+   answer to RQ3. These baselines can be interpreted as an adaptation of
+   classic non-personalized recommendation techniques to our
+   sequence-based scenario.
+     * Most Popular The MP recommender analyzes the sequences available in
+       the training set to compute the popularity of each item, i.e., the
+       number of times an item appears in the training sequences. Then, at
+       recommendation time, it ignores the seed rating, and it always
+       creates a sequence that contains the MP item as the first rating,
+       the second MP item as the second rating, and so on. More formally,
+       the probability that the item
+       [MATH: <semantics> <msub> <mi>ι</mi> <mi>i</mi> </msub>
+       </semantics> :MATH]
+       will appear in the i-th rating of the sequence is
+       [MATH: <semantics> <mrow> <mi>P</mi> <mo>(</mo> <msub> <mi>ι</mi>
+       <mi>i</mi> </msub> <mo>)</mo> <mo>=</mo> <mn>1</mn> </mrow>
+       </semantics> :MATH]
+       , where i also represents the position of the item in the ranking
+       of the MP ones.
+     * Random The random recommender simply creates sequences composed of
+       ratings that contain an item randomly sampled from a uniform
+       probability distribution. The seed rating is discarded and the
+       probability of observing the item
+       [MATH: <semantics> <msub> <mi>ι</mi> <mi>i</mi> </msub>
+       </semantics> :MATH]
+       is
+       [MATH: <semantics> <mrow> <mi>P</mi> <mo>(</mo> <msub> <mi>ι</mi>
+       <mi>i</mi> </msub> <mo>)</mo> <mo>=</mo> <mn>1</mn> <mo>/</mo>
+       <mo>|</mo> <mi mathvariant="script">I</mi> <mo>|</mo> </mrow>
+       </semantics> :MATH]
+       , where
+       [MATH: <semantics> <mrow> <mo>|</mo> <mi
+       mathvariant="script">I</mi> <mo>|</mo> </mrow> </semantics> :MATH]
+       represents the number of items available in the system.
+     * Unigram The unigram recommender can generate sequences that contain
+       ratings with items sampled with a probability proportional to the
+       number of times they were observed in the training sequences. In
+       particular, the probability of observing the item
+       [MATH: <semantics> <msub> <mi>ι</mi> <mi>i</mi> </msub>
+       </semantics> :MATH]
+       is equal to the number of ratings containing
+       [MATH: <semantics> <msub> <mi>ι</mi> <mi>i</mi> </msub>
+       </semantics> :MATH]
+       divided by the total number of ratings available in the training
+       sequences. As with the previous baselines, the seed rating is
+       ignored during the recommendation phase.
+     * Bigram The bigram recommender estimates the 1-st order transition
+       probabilities among all possible pair of items available in the
+       training sequences. The add-one smoothing technique is exploited to
+       avoid the attribution of a strict zero probability to the pairs
+       that were not observed during the training phase [46]. At
+       recommendation time, the seed rating is exploited for selecting the
+       first item, and then each item will influence the choice of the
+       next one. The probability of sampling item
+       [MATH: <semantics> <msub> <mi>ι</mi> <mi>i</mi> </msub>
+       </semantics> :MATH]
+       after item
+       [MATH: <semantics> <msub> <mi>ι</mi> <mrow> <mi>i</mi> <mo>−</mo>
+       <mn>1</mn> </mrow> </msub> </semantics> :MATH]
+       is equal to the number of times this transition occurred in the
+       training sequences plus one divided by the total number of
+       transitions available.
+
+5. Experimental Analysis
+
+   In this section, we perform an experimental analysis of Sequeval by
+   relying on its implementation described in Section 4.3 for comparing
+   the behavior of the four baselines with a recommender system based on
+   Conditional Random Fields (CRF) [47] and another one that exploits
+   Recurrent Neural Networks (RNN) [48]. The purpose of this comparison is
+   to assess the validity of the framework by conducting an offline
+   evaluation in a realistic scenario. Furthermore, we aim to investigate
+   the efficiency of the proposed approach by analyzing the amount of time
+   required to compute the numerical scores per each recommender system,
+   considering datasets of different sizes.
+
+5.1. Experimental Setup
+
+   The main parameters that need to be specified according to our
+   evaluation framework are the
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   value used to generate the sequences, the splitting protocol, and the
+   length of the recommended sequences k. The
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   value and the splitting protocol depend on the dataset and they are
+   reported in Section 5.2. For performing this empirical analysis, we
+   have decided to exploit the
+   [MATH: <semantics> <mrow> <mn>80</mn> <mo>%</mo> </mrow> </semantics>
+   :MATH]
+   of the dataset for training the recommenders and the remaining
+   [MATH: <semantics> <mrow> <mn>20</mn> <mo>%</mo> </mrow> </semantics>
+   :MATH]
+   for testing purposes. The length of the recommended sequences depends
+   on the specifications of the target application: for this evaluation,
+   we have chosen to set
+   [MATH: <semantics> <mrow> <mi>k</mi> <mo>=</mo> <mn>5</mn> </mrow>
+   </semantics> :MATH]
+   .
+   To compute the metric of diversity, we have selected the cosine
+   similarity among the training sequences as the proximity measure
+   between two items. In fact, we assume that two items are similar if
+   they appear the same number of times inside the same training
+   sequences. Furthermore, we have assumed that if an item is unknown, its
+   similarity with another one is zero by definition.
+   In the following, we provide the rationale for the usage and the
+   implementation details of the two RSs based on CRF and RNN.
+
+   CRF
+          We have implemented a CRF-based recommender system using the
+          CRFsuite software package
+          (http://www.chokkan.org/software/crfsuite). Since we are
+          interested in predicting an item given the previous one, we have
+          considered to be feature vectors the training sequences without
+          their last rating and as corresponding output vectors the same
+          sequences without their first rating. We have used the gradient
+          descent algorithm with the L-BFGS method [49] as the training
+          technique. We have chosen to generate both the state and the
+          transition features that do not occur in the dataset and we have
+          set the maximum number of iterations allowed for the
+          optimization algorithm to 100.
+
+   RNN
+          We have also experimented with a sequence recommender,
+          originally designed for the tourism domain, based on RNN [50]
+          that are specifically meant to deal with sequential data.
+          The hyper-parameters of the network have been optimized through
+          a manual search on the validation set in [50], obtaining:
+          [MATH: <semantics> <mrow> <mi mathvariant="normal">n</mi>
+          <mo>_</mo> <mi>layers</mi> <mo>=</mo> <mn>3</mn> </mrow>
+          </semantics> :MATH]
+          ,
+          [MATH: <semantics> <mrow> <mi>dropout</mi> <mo>=</mo>
+          <mn>0.2</mn> </mrow> </semantics> :MATH]
+          ,
+          [MATH: <semantics> <mrow> <mi>learning</mi> <mo>_</mo>
+          <mi>rate</mi> <mo>=</mo> <mn>0.0001</mn> </mrow> </semantics>
+          :MATH]
+          ,
+          [MATH: <semantics> <mrow> <mi mathvariant="normal">n</mi>
+          <mo>_</mo> <mi>hidden</mi> <mo>=</mo> <mn>64</mn> </mrow>
+          </semantics> :MATH]
+          , and
+          [MATH: <semantics> <mrow> <mi mathvariant="normal">n</mi>
+          <mo>_</mo> <mi>epochs</mi> <mo>=</mo> <mn>10</mn> </mrow>
+          </semantics> :MATH]
+          . The main difference of RNNs with respect to standard
+          feed-forward neural networks is the presence of a hidden state
+          variable
+          [MATH: <semantics> <msub> <mi>h</mi> <mi>t</mi> </msub>
+          </semantics> :MATH]
+          , whose value depends both on the input data presented at time
+          [MATH: <semantics> <msub> <mi>x</mi> <mi>t</mi> </msub>
+          </semantics> :MATH]
+          and on the previously hidden state
+          [MATH: <semantics> <msub> <mi>h</mi> <mrow> <mi>t</mi>
+          <mo>−</mo> <mn>1</mn> </mrow> </msub> </semantics> :MATH]
+           [48] using loop connections. A typical application of RNNs in
+          neural language modeling is the generation of text by
+          recursively applying a “next word prediction” [51]. In the same
+          spirit, we address the problem of next item prediction. The
+          probability of the next rating given the previous ones
+          [MATH: <semantics> <mrow> <mi>P</mi> <mo>(</mo> <msub> <mi
+          mathvariant="bold">r</mi> <mi>k</mi> </msub> <mo>|</mo> <mrow>
+          <mo>〈</mo> <msub> <mi mathvariant="bold">r</mi> <mn>0</mn>
+          </msub> <mo>,</mo> <msub> <mi mathvariant="bold">r</mi>
+          <mn>1</mn> </msub> <mo>,</mo> <mo>…</mo> <mo>,</mo> <msub> <mi
+          mathvariant="bold">r</mi> <mrow> <mi>k</mi> <mo>−</mo>
+          <mn>1</mn> </mrow> </msub> <mo>〉</mo> </mrow> <mo>)</mo> </mrow>
+          </semantics> :MATH]
+          is learned during the training process of the neural network
+          without the need for specifying a particular memory window as in
+          Markov models.
+
+   For conducting this experimental campaign, we relied on a machine
+   equipped with two 12-cores Intel Xeon processors (E5-2680 v3 at
+   2.50 GHz) and 128 GB of RAM. However, note that sequeval is a
+   single-threaded application and its memory requirements are actually
+   much lower, around 2.5 GB with the most demanding dataset at our
+   disposal.
+
+5.2. Datasets
+
+   We have performed the experimental analysis considering two different
+   datasets, namely Yes.com and Foursquare. The former is related to the
+   musical domain, while the latter deals with check-ins performed at
+   specific POIs.
+   Because we are interested in modeling sequences, it is important that
+   the temporal information available is actually meaningful. For example,
+   the popular MovieLens datasets [52] cannot be exploited for our
+   purposes because the timestamps are associated with the action of
+   assigning a rating on the platform and not with the action of watching
+   a movie. This hypothesis is supported by the fact that, if we apply
+   Algorithm 1 to the MovieLens 1M dataset with
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> <mo>=</mo> <mn>1</mn>
+   <mspace width="4pt" /> <mi mathvariant="normal">h</mi> </mrow>
+   </semantics> :MATH]
+   , we obtain unrealistic sequences with an average length of about 56
+   movies.
+   The Yes.com and Foursquare datasets are characterized by a different
+   distribution of their items, i.e., songs and venue categories, as it
+   can be observed from Figure 2. In particular, Foursquare contains few
+   items that are extremely popular, while Yes.com presents a plot that is
+   smoother. This conclusion is numerically supported by the values of
+   entropy [53] obtained for the two distributions, which are
+   [MATH: <semantics> <mrow> <mn>4.95</mn> </mrow> </semantics> :MATH]
+   for Foursquare and
+   [MATH: <semantics> <mrow> <mn>6.75</mn> </mrow> </semantics> :MATH]
+   for Yes.com. Furthermore, the number of sequences available in
+   Foursquare is about 40 times higher with respect to Yes.com. Table 1
+   summarizes the number of users, items, ratings, and sequences available
+   in these datasets, which are described in detail in the following
+   sections.
+
+5.2.1. Yes.com
+
+   This dataset contains several playlists originally collected by Shuo
+   Chen from Yes.com in the context of his research on Metric
+   Embedding [15]. Such website provided a set of APIs
+   (http://web.archive.org/web/20150316134941/http://api.yes.com) for
+   programmatically retrieving songs aired by different radio stations in
+   the United States. By crawling them in the period from December 2010 to
+   May 2011, he managed to obtain
+   [MATH: <semantics> <mrow> <mn>2</mn> <mo>,</mo> <mn>840</mn> <mo>,</mo>
+   <mn>553</mn> </mrow> </semantics> :MATH]
+   transitions. Even if Yes.com is no longer active, the playlist dataset
+   is publicly available
+   (https://www.cs.cornell.edu/~shuochen/lme/data_page.html).
+   Yes.com does not include the timestamps, but only the playlists.
+   Therefore, we have assumed that each playlist represents a sequence, as
+   defined in our evaluation framework. In this case, it is not necessary
+   to apply Algorithm 1 because the sequences are already available in the
+   dataset in an explicit form. Because a timestamp-based splitting is not
+   feasible, we have selected, for this dataset, a random splitting
+   protocol for dividing the sequences between training and test set.
+   Since we do not have any information regarding the radio stations, it
+   is necessary to consider the playlists as if they were created by the
+   same user. This approximation is acceptable in the context of sequence
+   recommendation and it is allowed by the evaluation framework. In fact,
+   differently from traditional evaluation approaches, all the metrics
+   that we propose are averaged over the sequences and not over the users.
+   Because of the computational complexity of the task, we have randomly
+   reduced the complete dataset 10 times its original size and we have
+   pruned the songs that appear less than 50 times.
+
+5.2.2. Foursquare
+
+   The second dataset that we have selected for performing the
+   experimental evaluation of the framework is similar to the one
+   described in [50] and it was created following the same protocol.
+   We collected the check-ins performed by the users of the Foursquare
+   Swarm mobile application (https://www.swarmapp.com) and publicly shared
+   on Twitter from the Twitter API. Then, we retrieved the category of the
+   place associated with the check-in thanks to the Foursquare API. For
+   this reason, the items of the dataset are represented by the venue
+   categories available in the Foursquare taxonomy
+   (https://developer.foursquare.com/docs/resources/categories). The
+   collection phase lasted from October to December 2017.
+   To avoid exploiting the interactions generated by automated scripts, we
+   have discarded the users that performed multiple check-ins in less than
+   one minute. We have also pruned the check-ins associated with the venue
+   categories that are usually not of interest for a tourist, for example
+   the ones related to workplaces. For generating the sequences more
+   efficiently, we decided to also remove the users that have performed
+   less than 10 check-ins in total.
+   We have set the
+   [MATH: <semantics> <mrow> <mi>δ</mi> <mi>τ</mi> </mrow> </semantics>
+   :MATH]
+   parameter of the evaluation framework to 8 h. Regarding the splitting
+   protocol, we have selected the timestamp-based one, considering the
+   timestamp associated with the first rating as the timestamp of the
+   sequence.
+
+5.3. Results
+
+   Table 2 summarizes the figures of the evaluation conducted with
+   Yes.com. The MP recommender achieved a fair precision, but at the price
+   of a very low coverage, because its predictions are deterministic.
+   Unsurprisingly, the lowest precision and the highest novelty and
+   diversity are associated with the random recommender. In contrast, the
+   unigram, the bigram, and the CRF recommenders obtained comparable
+   scores of precision, but the bigram is the most appealing of these
+   three techniques, because of its lower perplexity and higher novelty.
+   We can observe that the RNN recommender achieved the highest precision
+   and the lowest perplexity, resulting in be the most promising algorithm
+   for future online experimentations. Its nDPM is slightly lower than
+   [MATH: <semantics> <mrow> <mn>0.5</mn> </mrow> </semantics> :MATH]
+   , meaning that the items are usually predicted in the correct order. We
+   can also observe that its serendipity is close to the value of
+   precision: for this reason, it is possible to assume that most of the
+   sequences are not obvious.
+   Table 3 lists, instead, the results obtained with Foursquare. In this
+   case, the MP recommender system accounted for the highest precision,
+   meaning that the top-5 items are extremely widespread, but, as usual,
+   its coverage is very limited, and it achieved the lowest novelty. On
+   the other hand, the random recommender scored the lowest precision, and
+   the highest coverage and novelty. The differences among the unigram,
+   the bigram, and the CRF recommenders are more striking than in the
+   previous experiment: with this dataset, the unigram accounted for
+   higher precision because of the popularity of some items, while the
+   bigram for the lowest perplexity.
+   The RNN recommender system obtained the second-best precision and
+   perplexity, resulting in a good compromise if we are interested in
+   optimizing both these metrics. Its fair coverage and the low value of
+   serendipity are other hints of the fact that the Foursquare dataset
+   contains few items that are very popular: this characteristic was, in
+   fact, learned and exploited by the recommender.
+   Finally, we report in Table 4 the amount of time needed for computing
+   the previously described evaluation metrics per recommendation
+   algorithm with the Foursquare and Yes.com datasets. We observe that in
+   the worst case, the evaluation framework was able to conduct an
+   experimental campaign in a few hours. The metric of diversity was the
+   most computationally expensive one because of the time needed to
+   compute the cosine similarity. This fact is particularly evident if we
+   consider the seconds spent to evaluate the random recommender with the
+   Foursquare dataset.
+   As expected, the baseline recommenders are less demanding with respect
+   to the CRF and RNN models. However, this analysis is beyond the scope
+   of this work, as we are only interested in optimizing the evaluation
+   framework. If we do not consider the metric of diversity, we observe
+   that the time required for the evaluation phase is linear with respect
+   to the size of the dataset.
+
+5.4. Discussion
+
+   In the following, we will analyze the results of the empirical analysis
+   to justify the answers to the research questions that were provided in
+   Section 3 and in Section 4. In particular, our main aim is to explain
+   why it is necessary to rely on a framework that includes several
+   metrics to evaluate a sequence-based recommender system.
+   In Section 3 we have introduced the concept of rating and we have
+   defined it considering three different elements: an item, a user, and a
+   timestamp. The idea of associating a user with an item is the basic
+   principle of almost every recommender, while the timestamp is necessary
+   in order to introduce a temporal dimension, and, therefore, the
+   possibility of creating and suggesting sequences, as proposed in RQ1.
+   Nevertheless, we have successfully applied our evaluation framework in
+   an experiment based on the Yes.com dataset, which does not include any
+   user. Even though a more general use case has been considered during
+   its formalization, it is possible to also exploit it in other
+   scenarios, still obtaining an interesting picture of the recommenders.
+   As described in Section 4.2, our answer to RQ2 is an evaluation
+   framework that includes eight different metrics, capable of capturing
+   the various characteristics of the algorithms available. For example,
+   even if the precision of the MP recommender system is very high when
+   tested with Foursquare, we can immediately discard it because of its
+   low coverage. In the same way, the interesting values of diversity and
+   novelty achieved by the random recommender are associated with an
+   unacceptable score of perplexity.
+   In Table 5 we present an interpretation of the metrics available in the
+   framework. These descriptions are meant to offer a human understanding
+   of the results of the offline evaluation. It is worth noticing that
+   these metrics consider only some of the properties of a recommender
+   system [18]. However, it is our opinion that those properties are the
+   most salient ones that can be analyzed in our context, without
+   realizing a live system.
+   The different characteristics of the datasets exploited during the
+   empirical analysis are reflected in their respective figures. In
+   particular, while the values of precision obtained by the random
+   recommender in the two experiments are comparable, the figures
+   associated with both MP and unigram methods are dramatically different.
+   This fact suggests that Foursquare contains a few items that are
+   extremely popular, as it was already clear from Figure 2.
+   On the other hand, the RNN recommender obtained, with both datasets,
+   comparable values of precision, but a very different coverage. For this
+   reason, we can suppose that this approach, differently from the CRF
+   recommender, is capable of better adapting itself to the
+   characteristics of the dataset. The fact that we can draw such a
+   conclusion supports the validity of Sequeval.
+   Furthermore, we have observed that the amount of time required to
+   compute the evaluation metrics is linear with respect to the dataset
+   size, if we do not consider the metric of diversity. In fact, the
+   computational cost of the cosine similarity was too elevated when we
+   analyzed the behavior of the random recommender with a more demanding
+   dataset. However, because of the modular structure of sequeval, it is
+   easy to avoid computing the metric of diversity for such a recommender.
+   In line with RQ3, we have described in Section 4.3 four different
+   baseline recommenders. From the results of the experiments, it is
+   possible to observe that the values obtained by some of them are fixed.
+   For example, the MP recommender will always achieve a serendipity equal
+   to 0, and a confidence equal to 1. Its perplexity is usually
+   [MATH: <semantics> <mrow> <mo>+</mo> <mo>∞</mo> </mrow> </semantics>
+   :MATH]
+   , if at least one of the recommended sequences is incorrect. The items
+   suggested are, in fact, considered obvious by definition, and the
+   algorithm is certain of the recommendation because its behavior is
+   deterministic. In a similar way, the perplexity of the random
+   recommender is equal to the total number of items available, i.e.,
+   [MATH: <semantics> <mrow> <mo>|</mo> <mi mathvariant="script">I</mi>
+   <mo>|</mo> </mrow> </semantics> :MATH]
+   , because of the definition of perplexity provided in Section 4.2.8.
+   These two baselines are methods commonly exploited in the literature
+   for evaluating RSs. Additionally, we have proposed two techniques
+   better suited for the sequence recommendation problem. The unigram
+   recommender is similar to the MP one, but it is non-deterministic, and
+   it obtained a higher novelty. In contrast, the bigram recommender is
+   the most complex baseline, because it considers the previous item to
+   suggest the next one. For this reason, it always achieved the lowest
+   perplexity among the baselines considered.
+
+6. Conclusions
+
+   In this paper, we have discussed the problem of recommending sequences
+   of items tailored to the needs of a certain user. We have introduced an
+   offline evaluation framework, called Sequeval, capable of handling this
+   novel family of RSs in an offline scenario and we have developed an
+   implementation of it that is publicly available on GitHub. We have
+   included in such a framework an evaluation protocol and eight different
+   metrics, to better capture the characteristics of the algorithms
+   considered.
+   We have performed an empirical analysis of Sequeval by relying on it
+   for conducting a comparison among four baselines, a CRF recommender,
+   and an RNN-based one. The results have highlighted the fact that this
+   framework is flexible, as it can be successfully applied in
+   non-standard recommendation scenarios, such as with Yes.com, and
+   complete, because of the different metrics included that consider
+   several dimensions of the recommended sequences. In addition, we have
+   observed that the RNN recommender system can effectively adapt itself
+   to the characteristics of the training dataset. This conclusion
+   supports the validity of Sequeval as a tool for conducting an offline
+   experimentation.
+   Nevertheless, it is important being aware of the limitations of such a
+   framework. The availability of many metrics may produce results which
+   are difficult to interpret, especially if we are uncertain of what are
+   the most relevant dimensions in our recommendation scenario. More in
+   general, this is a common limitation of offline experiments, and it
+   needs to be addressed by comparing the most promising algorithms in a
+   subsequent online trail.
+   The formal definitions provided in Section 3 have been conceived as an
+   extension of the seminal works on RSs capable of recommending
+   sequences. For this reason, it is possible to set the length of the
+   recommended sequences to 1 if we are interested in obtaining a single
+   item. In a similar way, the item included in the seed rating can be
+   exploited in order to set the context of the recommendation, but it can
+   also be ignored if we want a sequence only based on the target user.
+   As future work, we plan to study in more depth what are the
+   relationships among the different metrics included in the framework,
+   with the purpose of integrating them in a final value that expresses
+   the overall quality of the recommender. Such global score should be
+   related to the recommendation scenario: for example, diversity may be
+   important when recommending POIs to a tourist, but less useful in the
+   musical domain.
+   Furthermore, it would be desirable to be able to create an evaluation
+   framework that is adopted by a community of researcher when testing
+   their algorithms, harmonizing the evaluation protocols and the
+   interpretation of the performance of sequence-based RSs. For this
+   reason, it is necessary to identify and to include in it some
+   meaningful datasets, related to different domains that could be
+   exploited during the evaluation phase, as well as other baselines and
+   new RSs. The strategic choice of publicly releasing sequeval fosters
+   further reuse and extension.
+   Finally, we would like to expand our evaluation framework to also
+   support the online experimentation that should be performed after the
+   offline analysis. The final goal of this work is, in fact, to enable
+   researchers to spend more time in realizing the recommendation
+   algorithm as they can rely on an evaluation framework that has already
+   been designed and validated.
+
+Author Contributions
+
+   Conceptualization, D.M. and E.P.; methodology, G.R.; software, D.M.;
+   validation, G.R. and M.M.; data curation, E.P.; Writing—Original Draft
+   preparation, D.M.; Writing—Review and Editing, E.P., G.R. and M.M.;
+   visualization, D.M.; supervision, M.M.
+
+Funding
+
+   This work has been partially supported by the innovation activity
+   PasTime (no. 17164) of EIT Digital.
+
+Acknowledgments
+
+   Computational resources were provided by [email protected]
+   (http://hpc.polito.it).
+
+Conflicts of Interest
+
+   The authors declare no conflict of interest.
+
+References
+
+    1. Ricci, F.; Rokach, L.; Shapira, B. Recommender Systems:
+       Introduction and Challenges. In Recommender Systems Handbook, 2nd
+       ed.; Springer: New York, NY, USA, 2015; Chapter 1; pp. 1–34.
+       [Google Scholar] [CrossRef]
+    2. Su, X.; Khoshgoftaar, T.M. A Survey of Collaborative Filtering
+       Techniques. Adv. Artif. Intell. 2009, 1–19. [Google Scholar]
+       [CrossRef]
+    3. Balabanović, M.; Shoham, Y. Fab: Content-based, collaborative
+       recommendation. ACM Commun. 1997, 40, 66–72. [Google Scholar]
+       [CrossRef]
+    4. Basu, C.; Hirsh, H.; Cohen, W. Recommendation As Classification:
+       Using Social and Content-based Information in Recommendation. In
+       Proceedings of the Fifteenth National Conference on Artificial
+       Intelligence, Madison, WI, USA, 26–30 July 1998; AAAI Press: Menlo
+       Park, CA, USA, 1998; pp. 714–720. [Google Scholar]
+    5. Stai, E.; Kafetzoglou, S.; Tsiropoulou, E.E.; Papavassiliou, S. A
+       holistic approach for personalization, relevance feedback &
+       recommendation in enriched multimedia content. Multimed. Tools
+       Appl. 2016, 77, 283–326. [Google Scholar] [CrossRef]
+    6. Campos, P.G.; Díez, F.; Cantador, I. Time-aware recommender
+       systems: A comprehensive survey and analysis of existing evaluation
+       protocols. User Model. User-Adapt. Interact. 2013, 24, 67–119.
+       [Google Scholar] [CrossRef]
+    7. Ding, Y.; Li, X. Time weight collaborative filtering. In
+       Proceedings of the 14th ACM International Conference on Information
+       and Knowledge Management, Bremen, Germany, 31 October–5 November
+       2005; ACM Press: New York, NY, USA, 2005; pp. 485–492. [Google
+       Scholar] [CrossRef]
+    8. Rendle, S.; Freudenthaler, C.; Schmidt-Thieme, L. Factorizing
+       personalized Markov chains for next-basket recommendation. In
+       Proceedings of the 19th International Conference on World Wide Web,
+       Raleigh, NC, USA, 26–30 April 2010; ACM Press: New York, NY, USA,
+       2010; pp. 811–820. [Google Scholar] [CrossRef][Green Version]
+    9. He, R.; Kang, W.C.; McAuley, J. Translation-based Recommendation.
+       In Proceedings of the Eleventh ACM Conference on Recommender
+       Systems, Como, Italy, 27–31 August 2017; ACM Press: New York, NY,
+       USA, 2017; pp. 161–169. [Google Scholar] [CrossRef][Green Version]
+   10. Wang, P.; Guo, J.; Lan, Y.; Xu, J.; Wan, S.; Cheng, X. Learning
+       Hierarchical Representation Model for Next Basket Recommendation.
+       In Proceedings of the 38th International ACM SIGIR Conference on
+       Research and Development in Information Retrieval, Santiago, Chile,
+       9–13 August 2015; ACM Press: New York, NY, USA, 2015; pp. 403–412.
+       [Google Scholar] [CrossRef]
+   11. Zhou, B.; Hui, S.; Chang, K. An intelligent recommender system
+       using sequential Web access patterns. In Proceedings of the IEEE
+       Conference on Cybernetics and Intelligent Systems, Singapore, 1–3
+       December 2004; pp. 393–398. [Google Scholar] [CrossRef]
+   12. Quadrana, M.; Cremonesi, P.; Jannach, D. Sequence-Aware Recommender
+       Systems. ACM Comput. Surv. 2018, 51, 1–36. [Google Scholar]
+       [CrossRef]
+   13. Jurafsky, D.; Martin, J.H. Speech and Language Processing; Prentice
+       Hall: Upper Saddle River, NJ, USA, 2008. [Google Scholar]
+   14. Herlocker, J.L.; Konstan, J.A.; Terveen, L.G.; Riedl, J.T.
+       Evaluating collaborative filtering recommender systems. ACM Trans.
+       Inf. Syst. 2004, 22, 5–53. [Google Scholar] [CrossRef][Green
+       Version]
+   15. Chen, S.; Moore, J.L.; Turnbull, D.; Joachims, T. Playlist
+       prediction via metric embedding. In Proceedings of the 18th ACM
+       SIGKDD International Conference on Knowledge Discovery and Data
+       Mining, Beijing, China, 12–16 August 2012; ACM Press: New York, NY,
+       USA, 2012; pp. 714–722. [Google Scholar] [CrossRef]
+   16. Feng, S.; Li, X.; Zeng, Y.; Cong, G.; Chee, Y.M.; Yuan, Q.
+       Personalized Ranking Metric Embedding for Next New POI
+       Recommendation. In Proceedings of the 24th International Conference
+       on Artificial Intelligence, Buenos Aires, Argentina, 25–31 July
+       2015; AAAI Press: Menlo Park, CA, USA, 2015; pp. 2069–2075. [Google
+       Scholar]
+   17. Ludewig, M.; Jannach, D. Evaluation of session-based recommendation
+       algorithms. User Model. User-Adapt. Interact. 2018, 28, 331–390.
+       [Google Scholar] [CrossRef]
+   18. Gunawardana, A.; Shani, G. Evaluating Recommender Systems. In
+       Recommender Systems Handbook, 2nd ed.; Springer: New York, NY, USA,
+       2015; Chapter 8; pp. 265–308. [Google Scholar] [CrossRef]
+   19. Jannach, D.; Lerche, L.; Kamehkhosh, I.; Jugovac, M. What
+       recommenders recommend: An analysis of recommendation biases and
+       possible countermeasures. User Model. User-Adapt. Interact. 2015,
+       25, 427–491. [Google Scholar] [CrossRef]
+   20. Costa, A.; Roda, F. Recommender systems by means of information
+       retrieval. In Proceedings of the International Conference on Web
+       Intelligence, Mining and Semantics, Sogndal, Norway, 25–27 May
+       2011; ACM Press: New York, NY, USA, 2011. [Google Scholar]
+       [CrossRef][Green Version]
+   21. Pouli, V.; Kafetzoglou, S.; Tsiropoulou, E.E.; Dimitriou, A.;
+       Papavassiliou, S. Personalized multimedia content retrieval through
+       relevance feedback techniques for enhanced user experience. In
+       Proceedings of the IEEE 13th International Conference on
+       Telecommunications, Graz, Austria, 13–15 July 2015. [Google
+       Scholar] [CrossRef]
+   22. Albanese, M.; d’Acierno, A.; Moscato, V.; Persia, F.; Picariello,
+       A. A Multimedia Semantic Recommender System for Cultural Heritage
+       Applications. In Proceedings of the IEEE Fifth International
+       Conference on Semantic Computing, Palo Alto, CA, USA, 18–21
+       September 2011. [Google Scholar] [CrossRef]
+   23. Aggarwal, C.C. Mining Discrete Sequences. In Data Mining; Springer
+       International Publishing: New York, NY, USA, 2015; Chapter 15; pp.
+       493–529. [Google Scholar] [CrossRef]
+   24. Bellogín, A.; Sánchez, P. Collaborative filtering based on
+       subsequence matching: A new approach. Inf. Sci. 2017, 418–419,
+       432–446. [Google Scholar] [CrossRef]
+   25. Hirschberg, D.S. A linear space algorithm for computing maximal
+       common subsequences. ACM Commun. 1975, 18, 341–343. [Google
+       Scholar] [CrossRef][Green Version]
+   26. Albanese, M.; Chianese, A.; d’Acierno, A.; Moscato, V.; Picariello,
+       A. A multimedia recommender integrating object features and user
+       behavior. Multimed. Tools Appl. 2010, 50, 563–585. [Google Scholar]
+       [CrossRef]
+   27. Albanese, M.; d’Acierno, A.; Moscato, V.; Persia, F.; Picariello,
+       A. A Multimedia Recommender System. ACM Trans. Internet Technol.
+       2013, 13, 1–32. [Google Scholar] [CrossRef]
+   28. Amato, F.; Moscato, V.; Picariello, A.; Sperli, G. KIRA: A System
+       for Knowledge-Based Access to Multimedia Art Collections. In
+       Proceedings of the IEEE 11th International Conference on Semantic
+       Computing, San Diego, CA, USA, 30 January–1 February 2017. [Google
+       Scholar] [CrossRef]
+   29. Su, X.; Sperli, G.; Moscato, V.; Picariello, A.; Esposito, C.;
+       Choi, C. An Edge Intelligence Empowered Recommender System Enabling
+       Cultural Heritage Applications. IEEE Trans. Ind. Inform. 2019, 1.
+       [Google Scholar] [CrossRef]
+   30. Bellogín, A.; Castells, P.; Cantador, I. Statistical biases in
+       Information Retrieval metrics for recommender systems. Inf. Retr.
+       J. 2017, 20, 606–634. [Google Scholar] [CrossRef]
+   31. Said, A.; Bellogín, A. Comparative recommender system evaluation.
+       In Proceedings of the 8th ACM Conference on Recommender Systems,
+       Foster City, CA, USA, 6–10 October 2014; ACM Press: New York, NY,
+       USA, 2014; pp. 129–136. [Google Scholar] [CrossRef][Green Version]
+   32. Turpin, A.H.; Hersh, W. Why batch and user evaluations do not give
+       the same results. In Proceedings of the 24th Annual International
+       ACM SIGIR Conference on Research and Development in Information
+       Retrieval, New Orleans, LA, USA, 9–12 September 2001; ACM Press:
+       New York, NY, USA, 2001; pp. 225–231. [Google Scholar] [CrossRef]
+   33. Ge, M.; Delgado-Battenfeld, C.; Jannach, D. Beyond Accuracy:
+       Evaluating Recommender Systems by Coverage and Serendipity. In
+       Proceedings of the Fourth ACM Conference on Recommender Systems,
+       Barcelona, Spain, 26–30 September 2010; ACM Press: New York, NY,
+       USA, 2010; pp. 257–260. [Google Scholar] [CrossRef]
+   34. Paraschakis, D.; Nilsson, B.J.; Hollander, J. Comparative
+       Evaluation of Top-N Recommenders in e-Commerce: An Industrial
+       Perspective. In Proceedings of the IEEE 14th International
+       Conference on Machine Learning and Applications, Miami, FL, USA,
+       9–11 December 2015; pp. 1024–1031. [Google Scholar] [CrossRef]
+   35. Bengio, Y.; Ducharme, R.; Vincent, P.; Jauvin, C. A Neural
+       Probabilistic Language Model. J. Mach. Learn. Res. 2003, 3,
+       1137–1155. [Google Scholar]
+   36. Rijsbergen, C.J.V. Information Retrieval; Butterworth-Heinemann:
+       Oxford, UK, 1979. [Google Scholar]
+   37. Sarwar, B.; Karypis, G.; Konstan, J.; Riedl, J. Analysis of
+       recommendation algorithms for e-commerce. In Proceedings of the 2nd
+       ACM Conference on Electronic Commerce, Minneapolis, MN, USA, 17–20
+       October 2000; ACM Press: New York, NY, USA, 2000; pp. 158–167.
+       [Google Scholar] [CrossRef][Green Version]
+   38. Yao, Y. Measuring retrieval effectiveness based on user preference
+       of documents. J. Am. Soc. Inf. Sci. 1995, 46, 133–145. [Google
+       Scholar] [CrossRef][Green Version]
+   39. Järvelin, K.; Kekäläinen, J. Cumulated gain-based evaluation of IR
+       techniques. ACM Trans. Inf. Syst. 2002, 20, 422–446. [Google
+       Scholar] [CrossRef][Green Version]
+   40. Ziegler, C.N.; McNee, S.M.; Konstan, J.A.; Lausen, G. Improving
+       recommendation lists through topic diversification. In Proceedings
+       of the 14th International Conference on World Wide Web, Chiba,
+       Japan, 10–14 May 2005; ACM Press: New York, NY, USA, 2005; pp.
+       22–32. [Google Scholar] [CrossRef]
+   41. Noia, T.D.; Ostuni, V.C.; Rosati, J.; Tomeo, P.; Sciascio, E.D. An
+       analysis of users’ propensity toward diversity in recommendations.
+       In Proceedings of the 8th ACM Conference on Recommender Systems,
+       Foster City, CA, USA, 6–10 October 2014; ACM Press: New York, NY,
+       USA, 2014; pp. 285–288. [Google Scholar] [CrossRef]
+   42. Vargas, S.; Castells, P. Rank and relevance in novelty and
+       diversity metrics for recommender systems. In Proceedings of the
+       Fifth ACM Conference on Recommender Systems, Chicago, IL, USA,
+       23–27 October 2011; ACM Press: New York, NY, USA, 2011; pp.
+       109–116. [Google Scholar] [CrossRef]
+   43. De Gemmis, M.; Lops, P.; Semeraro, G.; Musto, C. An investigation
+       on the serendipity problem in recommender systems. Inf. Process.
+       Manag. 2015, 51, 695–717. [Google Scholar] [CrossRef]
+   44. Herlocker, J.L.; Konstan, J.A.; Riedl, J. Explaining collaborative
+       filtering recommendations. In Proceedings of the 2000 ACM
+       Conference on Computer Supported Cooperative Work, Philadelphia,
+       PA, USA, 2–6 December 2000; ACM Press: New York, NY, USA, 2000; pp.
+       241–250. [Google Scholar] [CrossRef][Green Version]
+   45. Monti, D.; Palumbo, E.; Rizzo, G.; Morisio, M. Sequeval: A
+       framework to assess and benchmark sequence-based recommender
+       systems. In Proceedings of the Workshop on Offline Evaluation for
+       Recommender Systems at the 12th ACM Conference on Recommender
+       Systems, Vancouver, BC, Canada, 2 October 2018. [Google Scholar]
+   46. Chen, S.F.; Goodman, J. An empirical study of smoothing techniques
+       for language modeling. Comput. Speech Lang. 1999, 13, 359–393.
+       [Google Scholar] [CrossRef][Green Version]
+   47. Sutton, C.; McCallum, A. An Introduction to Conditional Random
+       Fields. Found. Trends Mach. Learn. 2011, 4, 267–373. [Google
+       Scholar] [CrossRef]
+   48. Goodfellow, I.; Bengio, Y.; Courville, A. Deep Learning; MIT Press:
+       Cambridge, MA, USA, 2016; Available online:
+       http://www.deeplearningbook.org (accessed on 8 May 2019).
+   49. Nocedal, J. Updating quasi-Newton matrices with limited storage.
+       Math. Comput. 1980, 35, 773–782. [Google Scholar] [CrossRef]
+   50. Palumbo, E.; Rizzo, G.; Troncy, R.; Baralis, E. Predicting Your
+       Next Stop-over from Location-based Social Network Data with
+       Recurrent Neural Networks. In Proceedings of the 2nd Workshop on
+       Recommenders in Tourism Co-Located with 11th ACM Conference on
+       Recommender Systems, Como, Italy, 27 August 2017; pp. 1–8. [Google
+       Scholar]
+   51. Sutskever, I.; Martens, J.; Hinton, G. Generating text with
+       recurrent neural networks. In Proceedings of the 28th International
+       Conference on Machine Learning, Bellevue, WA, USA, 28 June–2 July
+       2011; pp. 1017–1024. [Google Scholar]
+   52. Harper, F.M.; Konstan, J.A. The MovieLens Datasets: History and
+       Context. ACM Trans. Interact. Intell. Syst. 2015, 5, 1–19. [Google
+       Scholar] [CrossRef]
+   53. Shannon, C.E. A Mathematical Theory of Communication. Bell Syst.
+       Tech. J. 1948, 27, 379–423. [Google Scholar] [CrossRef]
+
+   Information 10 00174 g001 550
+   Figure 1. An illustration of the evaluation procedure. First, the set
+   of sequences is split between training and test set. Then, the
+   recommender is trained with the sequences available in the training
+   set. Finally, the recommender is asked to generate a sequence for each
+   seed from the test set; such sequences are compared with the
+   corresponding reference sequences.
+   Figure 1. An illustration of the evaluation procedure. First, the set
+   of sequences is split between training and test set. Then, the
+   recommender is trained with the sequences available in the training
+   set. Finally, the recommender is asked to generate a sequence for each
+   seed from the test set; such sequences are compared with the
+   corresponding reference sequences.
+   Information 10 00174 g001
+   Information 10 00174 g002 550
+   Figure 2. A stacked bar plot with a logarithmic scale representing the
+   number of ratings for each item. Note the different shapes of their
+   long-tail distributions: it is possible to observe that Foursquare has
+   more popular items than Yes.com.
+   Figure 2. A stacked bar plot with a logarithmic scale representing the
+   number of ratings for each item. Note the different shapes of their
+   long-tail distributions: it is possible to observe that Foursquare has
+   more popular items than Yes.com.
+   Information 10 00174 g002
+   Table
+   Table 1. The number of users, items, ratings, and sequences after the
+   preprocessing steps.
+   Table 1. The number of users, items, ratings, and sequences after the
+   preprocessing steps.
+   Dataset
+   [MATH: <semantics> <mstyle mathvariant="bold"> <mrow> <mo>|</mo> <mi
+   mathvariant="bold-script">U</mi> <mo>|</mo> </mrow> </mstyle>
+   </semantics> :MATH]
+   [MATH: <semantics> <mstyle mathvariant="bold"> <mrow> <mo>|</mo> <mi
+   mathvariant="bold-script">I</mi> <mo>|</mo> </mrow> </mstyle>
+   </semantics> :MATH]
+   [MATH: <semantics> <mstyle mathvariant="bold"> <mrow> <mo>|</mo> <mi
+   mathvariant="bold-script">R</mi> <mo>|</mo> </mrow> </mstyle>
+   </semantics> :MATH]
+   [MATH: <semantics> <mstyle mathvariant="bold"> <mrow> <mo>|</mo> <mi
+   mathvariant="bold-script">S</mi> <mo>|</mo> </mrow> </mstyle>
+   </semantics> :MATH]
+   Yes.com 1 1089 118,022 10,551
+   Foursquare 44,319 651 1,047,429 400,261
+   Table
+   Table 2. Overview of the results of the baselines and both CRF and RNN
+   with Yes.com.
+   Table 2. Overview of the results of the baselines and both CRF and RNN
+   with Yes.com.
+     Metric      MP   Random Unigram Bigram  CRF    RNN
+    Coverage   0.0046 1.0000 0.9945  1.0000 0.9991 0.9458
+    Precision  0.0503 0.0090 0.0127  0.0103 0.0190 0.0782
+      nDPM     0.5007 0.5000 0.5000  0.5000 0.5000 0.4986
+    Diversity  0.6925 0.9900 0.9815  0.9854 0.9788 0.9052
+     Novelty   7.2383 10.380 9.7349  10.315 9.8449 9.5762
+   Serendipity 0.0000 0.0089 0.0107  0.0095 0.0179 0.0706
+   Confidence  1.0000 0.0009 0.0016  0.0011 0.0020 0.0123
+   Perplexity
+   [MATH: <semantics> <mrow> <mo>+</mo> <mo>∞</mo> </mrow> </semantics>
+   :MATH]
+     1089.0    848.96 637.53 747.33  183.49
+   Table
+   Table 3. Overview of the results of the baselines and both CRF and RNN
+   with Foursquare.
+   Table 3. Overview of the results of the baselines and both CRF and RNN
+   with Foursquare.
+     Metric      MP   Random Unigram Bigram  CRF    RNN
+    Coverage   0.0077 1.0000 0.9616  1.0000 0.9677 0.5069
+    Precision  0.2259 0.0080 0.0774  0.0607 0.0754 0.0962
+      nDPM     0.4998 0.5000 0.4994  0.4998 0.4993 0.4991
+    Diversity  0.9194 0.9971 0.9616  0.9777 0.9621 0.9469
+     Novelty   4.6056 12.300 7.1421  9.0216 7.3710 6.8374
+   Serendipity 0.0000 0.0060 0.0256  0.0230 0.0252 0.0365
+   Confidence  1.0000 0.0015 0.0171  0.0140 0.0179 0.0264
+   Perplexity
+   [MATH: <semantics> <mrow> <mo>+</mo> <mo>∞</mo> </mrow> </semantics>
+   :MATH]
+     651.00    141.41 122.99 147.49  140.39
+   Table
+   Table 4. The time in seconds required to evaluate different algorithms
+   with our framework. We do not consider the time for training the CRF
+   and RNN models. To improve the efficiency of the framework it is
+   possible to avoid computing the computationally expensive metric of
+   diversity.
+   Table 4. The time in seconds required to evaluate different algorithms
+   with our framework. We do not consider the time for training the CRF
+   and RNN models. To improve the efficiency of the framework it is
+   possible to avoid computing the computationally expensive metric of
+   diversity.
+    Dataset   Diversity  MP   Random  Unigram Bigram   CRF     RNN
+    Yes.com      Yes    0.84   4.25    3.97    4.05  963.65   66.04
+    Yes.com      No     0.78   1.14    0.98    1.05  865.17   60.68
+   Foursquare    Yes    15.88 1326.31  58.64  101.73 4096.78 1223.26
+   Foursquare    No     13.75  24.63   13.05  16.78  3989.17 1194.52
+   Table
+   Table 5. A human readable interpretation of the metrics.
+   Table 5. A human readable interpretation of the metrics.
+   Metric Interpretation
+   Coverage The percentage of items that are recommended in the evaluation
+   Precision The percentage of items that are correctly recommended
+   nDPM The correctness of the ordering inside the sequences
+   Diversity How diverse are the items inside the sequences
+   Novelty How unexpected are the recommended items
+   Serendipity The percentage of non-obvious items that are correct
+   Confidence The confidence that the recommender has about its
+   predictions
+   Perplexity How much the recommender is “surprised” by the test
+   sequences
+
+   © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article
+   is an open access article distributed under the terms and conditions of
+   the Creative Commons Attribution (CC BY) license
+   (http://creativecommons.org/licenses/by/4.0/).
+
+   Information, EISSN 2078-2489, Published by MDPI AG
+   RSS Content Alert
+
+Further Information
+
+   Article Processing Charges Pay an Invoice Open Access Policy Privacy
+   Policy Contact MDPI Jobs at MDPI
+
+Guidelines
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+
+MDPI Initiatives
+
+   Institutional Open Access Program (IOAP) Sciforum Preprints Scilit MDPI
+   Books Encyclopedia MDPI Blog
+
+Follow MDPI
+
+   LinkedIn Facebook Twitter
+   MDPI
+
+   Subscribe to receive issue release notifications and newsletters from
+   MDPI journals
+   [_] Acoustics
+   [_] Actuators
+   [_] Administrative Sciences
+   [_] Aerospace
+   [_] Agriculture
+   [_] AgriEngineering
+   [_] Agronomy
+   [_] Algorithms
+   [_] Animals
+   [_] Antibiotics
+   [_] Antibodies
+   [_] Antioxidants
+   [_] Applied Sciences
+   [_] Applied System Innovation
+   [_] Arts
+   [_] Atmosphere
+   [_] Atoms
+   [_] Axioms
+   [_] Batteries
+   [_] Behavioral Sciences
+   [_] Beverages
+   [_] Big Data and Cognitive Computing
+   [_] Bioengineering
+   [_] Biology
+   [_] Biomedicines
+   [_] Biomimetics
+   [_] Biomolecules
+   [_] Biosensors
+   [_] Brain Sciences
+   [_] Buildings
+   [_] C — Journal of Carbon Research
+   [_] Cancers
+   [_] Catalysts
+   [_] Cells
+   [_] Ceramics
+   [_] Challenges
+   [_] ChemEngineering
+   [_] Chemistry
+   [_] Chemosensors
+   [_] Children
+   [_] Clean Technologies
+   [_] Climate
+   [_] Clocks & Sleep
+   [_] Coatings
+   [_] Colloids and Interfaces
+   [_] Computation
+   [_] Computers
+   [_] Condensed Matter
+   [_] Cosmetics
+   [_] Cryptography
+   [_] Crystals
+   [_] Data
+   [_] Dentistry Journal
+   [_] Designs
+   [_] Diagnostics
+   [_] Diseases
+   [_] Diversity
+   [_] Drones
+   [_] Econometrics
+   [_] Economies
+   [_] Education Sciences
+   [_] Electronics
+   [_] Energies
+   [_] Entropy
+   [_] Environments
+   [_] Epigenomes
+   [_] European Journal of Burn Care
+   [_] European Journal of Investigation in Health, Psychology and
+   Education
+   [_] Fermentation
+   [_] Fibers
+   [_] Fire
+   [_] Fishes
+   [_] Fluids
+   [_] Foods
+   [_] Forecasting
+   [_] Forests
+   [_] Fractal and Fractional
+   [_] Future Internet
+   [_] Galaxies
+   [_] Games
+   [_] Gastrointestinal Disorders
+   [_] Gels
+   [_] Genealogy
+   [_] Genes
+   [_] Geosciences
+   [_] Geriatrics
+   [_] Healthcare
+   [_] Heritage
+   [_] High-Throughput
+   [_] Horticulturae
+   [_] Humanities
+   [_] Hydrology
+   [_] Informatics
+   [_] Information
+   [_] Infrastructures
+   [_] Inorganics
+   [_] Insects
+   [_] Instruments
+   [_] International Journal of Environmental Research and Public Health
+   [_] International Journal of Financial Studies
+   [_] International Journal of Molecular Sciences
+   [_] International Journal of Neonatal Screening
+   [_] International Journal of Turbomachinery, Propulsion and Power
+   [_] Inventions
+   [_] ISPRS International Journal of Geo-Information
+   [_] J — Multidisciplinary Scientific Journal
+   [_] Journal of Cardiovascular Development and Disease
+   [_] Journal of Clinical Medicine
+   [_] Journal of Composites Science
+   [_] Journal of Developmental Biology
+   [_] Journal of Functional Biomaterials
+   [_] Journal of Functional Morphology and Kinesiology
+   [_] Journal of Fungi
+   [_] Journal of Imaging
+   [_] Journal of Intelligence
+   [_] Journal of Low Power Electronics and Applications
+   [_] Journal of Manufacturing and Materials Processing
+   [_] Journal of Marine Science and Engineering
+   [_] Journal of Open Innovation: Technology, Market, and Complexity
+   [_] Journal of Personalized Medicine
+   [_] Journal of Risk and Financial Management
+   [_] Journal of Sensor and Actuator Networks
+   [_] Land
+   [_] Languages
+   [_] Laws
+   [_] Life
+   [_] Logistics
+   [_] Lubricants
+   [_] Machine Learning and Knowledge Extraction
+   [_] Machines
+   [_] Magnetochemistry
+   [_] Marine Drugs
+   [_] Materials
+   [_] Mathematical and Computational Applications
+   [_] Mathematics
+   [_] Medical Sciences
+   [_] Medicina
+   [_] Medicines
+   [_] Membranes
+   [_] Metabolites
+   [_] Metals
+   [_] Methods and Protocols
+   [_] Micromachines
+   [_] Microorganisms
+   [_] Minerals
+   [_] Molbank
+   [_] Molecules
+   [_] Multimodal Technologies and Interaction
+   [_] Nanomaterials
+   [_] Non-Coding RNA
+   [_] Nutrients
+   [_] Oceans
+   [_] Particles
+   [_] Pathogens
+   [_] Pharmaceuticals
+   [_] Pharmaceutics
+   [_] Pharmacy
+   [_] Philosophies
+   [_] Photonics
+   [_] Physics
+   [_] Plants
+   [_] Plasma
+   [_] Polymers
+   [_] Proceedings
+   [_] Processes
+   [_] Prosthesis
+   [_] Proteomes
+   [_] Psych
+   [_] Publications
+   [_] Quantum Beam Science
+   [_] Quantum Reports
+   [_] Quaternary
+   [_] Recycling
+   [_] Religions
+   [_] Remote Sensing
+   [_] Reports
+   [_] Resources
+   [_] Risks
+   [_] Robotics
+   [_] Safety
+   [_] Sci
+   [_] Scientia Pharmaceutica
+   [_] Sensors
+   [_] Separations
+   [_] Smart Cities
+   [_] Social Sciences
+   [_] Societies
+   [_] Soil Systems
+   [_] Sports
+   [_] Stats
+   [_] Surfaces
+   [_] Sustainability
+   [_] Symmetry
+   [_] Systems
+   [_] Technologies
+   [_] Toxics
+   [_] Toxins
+   [_] Tropical Medicine and Infectious Disease
+   [_] Universe
+   [_] Urban Science
+   [_] Vaccines
+   [_] Vehicles
+   [_] Veterinary Sciences
+   [_] Vibration
+   [_] Viruses
+   [_] Vision
+   [_] Water
+   [_] World Electric Vehicle Journal
+   ____________________ (BUTTON) Subscribe
+   © 1996-2019 MDPI (Basel, Switzerland) unless otherwise stated
+   Terms and Conditions Privacy Policy
+
+   We use cookies on our website to ensure you get the best experience.
+   Read more about our cookies here.
+   Accept
+
+   We have just recently launched a new version of our website.
+   Help us to further improve by taking part in this short 5 minute survey
+   here. here.
+   Never show this again
+
+Share Link
+
+   ____________________
+   Copy
+   clear
+
+   Back to TopTop
+   #PDF Full-Text HTML Full-Text XML Full-Text MDPI Publishing - Latest
+   articles
+
+   Next Article in Journal
+   A Computation-Efficient Group Key Distribution Protocol Based on a New
+   Secret Sharing Scheme
+   Next Article in Special Issue
+   Using an Exponential Random Graph Model to Recommend Academic
+   Collaborators
+
+   Previous Article in Journal
+   Interactivity in Cybermedia News: An Interview with Journalists in
+   Colombia, Peru, and Ecuador
+   Previous Article in Special Issue
+   Optimizing Parallel Collaborative Filtering Approaches for Improving
+   Recommendation Systems Performance
+
+Journals
+
+Information
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+   Article Processing Charges Open Access Policy Institutional Open Access
+   Program Editorial Process English Editing Service MDPI Blog
+
+Author Services
+
+Initiatives
+
+   Sciforum Preprints Scilit MDPI Books Encyclopedia
+
+About
+
+   Sign In / Sign Up
+
+Notice
+
+   You can make submissions to other journals here.
+   clear
+
+   You seem to have javascript disabled. Please note that many of the page
+   functionalities won't work as expected without javascript enabled.
+
+   MDPI Open Access Journals
+   clear search menu
+
+   MDPI Open Access Journals
+     * Journals
+     * Information
+          +
+               o For Authors
+               o For Reviewers
+               o For Editors
+               o For Librarians
+               o For Publishers
+               o For Societies
+               o Article Processing Charges
+               o Open Access Policy
+               o Institutional Open Access Program
+               o Editorial Process
+               o MDPI Blog
+     * Author Services
+     * Initiatives
+          +
+               o Sciforum
+               o Preprints
+               o Scilit
+               o MDPI Books
+               o Encyclopedia
+     * About
+
+   Sign In / Sign Up Submit
+
+   Search for Articles:
+   Title / Keyword
+   ____________________
+   Author / Affiliation
+   ____________________
+   Journal
+   [Information___________________________________________________________
+   _____...]
+   Article Type
+   [All Article Types....]
+
+   Search
+
+   Advanced Search
+
+   Section
+   []
+   Special Issue
+   []
+   Volume
+   ____________________
+   Issue
+   ____________________
+   Number
+   ____________________
+   Page
+   ____________________
+
+   You can use * to search for partial matches.
+     Search
+
+
+   Logical OperatorOperator
+   [AND]
+   Search Text
+   ____________________
+   Search Type
+   [All fields..]
+
+   add_circle_outline
+   remove_circle_outline
+
+   Journals
+   Information
+   Volume 10
+   Issue 5
+   10.3390/info10050174
+   information-logo
+   Submit to this Journal Review for this Journal Edit a Special Issue
+   ► ▼ Article Menu
+
+Article Menu
+
+     * Article Overview
+          + Abstract
+          + Share and Cite
+          + Article Metrics
+          + Related Articles
+          + Order Article Reprints
+     * Article Versions
+          + Abstract
+          + Article Versions Notes
+          + Full-Text HTML
+          + Full-Text PDF
+          + Full-Text PDF With Cover
+          + Full-Text XML
+          + Full-Text Epub
+     * Export Article
+          + BibTeX
+          + EndNote
+          + RIS
+     * Related Info Links
+          + Google Scholar
+     * More by Authors Links
+          + on DOAJ
+               o Monti, D.
+               o
+               o Palumbo, E.
+               o
+               o Rizzo, G.
+               o
+               o Morisio, M.
+               o
+          + on Google Scholar
+               o Monti, D.
+               o
+               o Palumbo, E.
+               o
+               o Rizzo, G.
+               o
+               o Morisio, M.
+               o
+          + on PubMed
+               o Monti, D.
+               o
+               o Palumbo, E.
+               o
+               o Rizzo, G.
+               o
+               o Morisio, M.
+               o
+
+   /ajax/scifeed/subscribe
+   Views
+   Downloads
+   Citations -
+   Altmetrics
+   share announcement textsms
+   ...
+
+Need Help?
+
+Support
+
+   Find support for a specific problem on the support section of our
+   website.
+   Get Support
+
+Feedback
+
+   Please let us know what you think of our products and services.
+   Give Feedback
+
+Information
+
+   Our dedicated information section provides allows you to learn more
+   about MDPI.
+   Get Information
+   clear
+
+MOL Viewer
+
+   clear
+   Open AccessArticle
+
+Sequeval: An Offline Evaluation Framework for Sequence-Based Recommender
+Systems
+
+   by [masked-unknown-user.png] Diego Monti ^1,*^ OrcID ,
+   [masked-unknown-user.png] Enrico Palumbo ^1,2,3 OrcID ,
+   [masked-unknown-user.png] Giuseppe Rizzo ^4 OrcID and
+   [masked-unknown-user.png] Maurizio Morisio ^1 OrcID
+   ^1
+   Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Turin, Italy
+   ^2
+   Istituto Superiore Mario Boella, Via Pier Carlo Boggio 61, 10138 Turin,
+   Italy
+   ^3
+   EURECOM, Campus SophiaTech, 450 Route des Chappes, 06410 Biot, France
+   ^4
+   LINKS Foundation, Via Pier Carlo Boggio 61, 10138 Turin, Italy
+   ^*
+   Author to whom correspondence should be addressed.
+   Information 2019, 10(5), 174; https://doi.org/10.3390/info10050174
+   Received: 15 April 2019 / Revised: 30 April 2019 / Accepted: 7 May 2019
+   / Published: 10 May 2019
+   (This article belongs to the Special Issue Modern Recommender Systems:
+   Approaches, Challenges and Applications)
+   View Full-Text Download PDF
+   Browse Figures
+
+Abstract
+
+   Recommender systems have gained a lot of popularity due to their large
+   adoption in various industries such as entertainment and tourism.
+   Numerous research efforts have focused on formulating and advancing
+   state-of-the-art of systems that recommend the right set of items to
+   the right person. However, these recommender systems are hard to
+   compare since the published evaluation results are computed on diverse
+   datasets and obtained using different methodologies. In this paper, we
+   researched and prototyped an offline evaluation framework called
+   Sequeval that is designed to evaluate recommender systems capable of
+   suggesting sequences of items. We provide a mathematical definition of
+   such sequence-based recommenders, a methodology for performing their
+   evaluation, and the implementation details of eight metrics. We report
+   the lessons learned using this framework for assessing the performance
+   of four baselines and two recommender systems based on Conditional
+   Random Fields (CRF) and Recurrent Neural Networks (RNN), considering
+   two different datasets. Sequeval is publicly available and it aims to
+   become a focal point for researchers and practitioners when
+   experimenting with sequence-based recommender systems, providing
+   comparable and objective evaluation results. View Full-Text
+   Keywords: evaluation framework; offline evaluation; sequence;
+   sequence-based recommender systems; recommender systems; metrics
+   evaluation framework; offline evaluation; sequence; sequence-based
+   recommender systems; recommender systems; metrics
+   ►▼ Show Figures
+
+   Figure 1
+   This is an open access article distributed under the Creative Commons
+   Attribution License which permits unrestricted use, distribution, and
+   reproduction in any medium, provided the original work is properly
+   cited
+   SciFeed
+
+Share and Cite
+
+   MDPI and ACS Style
+
+   Monti, D.; Palumbo, E.; Rizzo, G.; Morisio, M. Sequeval: An Offline
+   Evaluation Framework for Sequence-Based Recommender Systems.
+   Information 2019, 10, 174.
+   AMA Style
+
+   Monti D, Palumbo E, Rizzo G, Morisio M. Sequeval: An Offline Evaluation
+   Framework for Sequence-Based Recommender Systems. Information. 2019;
+   10(5):174.
+   Chicago/Turabian Style
+
+   Monti, Diego; Palumbo, Enrico; Rizzo, Giuseppe; Morisio, Maurizio.
+   2019. "Sequeval: An Offline Evaluation Framework for Sequence-Based
+   Recommender Systems." Information 10, no. 5: 174.
+   Find Other Styles
+   ____________________
+   Show more citation formats Show less citations formats
+   Note that from the first issue of 2016, MDPI journals use article
+   numbers instead of page numbers. See further details here.
+
+Article Metrics
+
+   No
+   No
+
+Article Access Statistics
+
+   For more information on the journal statistics, click here.
+   Multiple requests from the same IP address are counted as one view.
+   Abstract views Pdf views Html views
+
+Article Access Map by Country/Region
+
+   1
+
+Related Articles
+
+   Zoom | Orient | As Lines | As Sticks | As Cartoon | As Surface |
+   Previous Scene | Next Scene
+   Information, EISSN 2078-2489, Published by MDPI AG
+   RSS Content Alert
+
+Further Information
+
+   Article Processing Charges Pay an Invoice Open Access Policy Privacy
+   Policy Contact MDPI Jobs at MDPI
+
+Guidelines
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+
+MDPI Initiatives
+
+   Institutional Open Access Program (IOAP) Sciforum Preprints Scilit MDPI
+   Books Encyclopedia MDPI Blog
+
+Follow MDPI
+
+   LinkedIn Facebook Twitter
+   MDPI
+
+   Subscribe to receive issue release notifications and newsletters from
+   MDPI journals
+   [_] Acoustics
+   [_] Actuators
+   [_] Administrative Sciences
+   [_] Aerospace
+   [_] Agriculture
+   [_] AgriEngineering
+   [_] Agronomy
+   [_] Algorithms
+   [_] Animals
+   [_] Antibiotics
+   [_] Antibodies
+   [_] Antioxidants
+   [_] Applied Sciences
+   [_] Applied System Innovation
+   [_] Arts
+   [_] Atmosphere
+   [_] Atoms
+   [_] Axioms
+   [_] Batteries
+   [_] Behavioral Sciences
+   [_] Beverages
+   [_] Big Data and Cognitive Computing
+   [_] Bioengineering
+   [_] Biology
+   [_] Biomedicines
+   [_] Biomimetics
+   [_] Biomolecules
+   [_] Biosensors
+   [_] Brain Sciences
+   [_] Buildings
+   [_] C — Journal of Carbon Research
+   [_] Cancers
+   [_] Catalysts
+   [_] Cells
+   [_] Ceramics
+   [_] Challenges
+   [_] ChemEngineering
+   [_] Chemistry
+   [_] Chemosensors
+   [_] Children
+   [_] Clean Technologies
+   [_] Climate
+   [_] Clocks & Sleep
+   [_] Coatings
+   [_] Colloids and Interfaces
+   [_] Computation
+   [_] Computers
+   [_] Condensed Matter
+   [_] Cosmetics
+   [_] Cryptography
+   [_] Crystals
+   [_] Data
+   [_] Dentistry Journal
+   [_] Designs
+   [_] Diagnostics
+   [_] Diseases
+   [_] Diversity
+   [_] Drones
+   [_] Econometrics
+   [_] Economies
+   [_] Education Sciences
+   [_] Electronics
+   [_] Energies
+   [_] Entropy
+   [_] Environments
+   [_] Epigenomes
+   [_] European Journal of Burn Care
+   [_] European Journal of Investigation in Health, Psychology and
+   Education
+   [_] Fermentation
+   [_] Fibers
+   [_] Fire
+   [_] Fishes
+   [_] Fluids
+   [_] Foods
+   [_] Forecasting
+   [_] Forests
+   [_] Fractal and Fractional
+   [_] Future Internet
+   [_] Galaxies
+   [_] Games
+   [_] Gastrointestinal Disorders
+   [_] Gels
+   [_] Genealogy
+   [_] Genes
+   [_] Geosciences
+   [_] Geriatrics
+   [_] Healthcare
+   [_] Heritage
+   [_] High-Throughput
+   [_] Horticulturae
+   [_] Humanities
+   [_] Hydrology
+   [_] Informatics
+   [_] Information
+   [_] Infrastructures
+   [_] Inorganics
+   [_] Insects
+   [_] Instruments
+   [_] International Journal of Environmental Research and Public Health
+   [_] International Journal of Financial Studies
+   [_] International Journal of Molecular Sciences
+   [_] International Journal of Neonatal Screening
+   [_] International Journal of Turbomachinery, Propulsion and Power
+   [_] Inventions
+   [_] ISPRS International Journal of Geo-Information
+   [_] J — Multidisciplinary Scientific Journal
+   [_] Journal of Cardiovascular Development and Disease
+   [_] Journal of Clinical Medicine
+   [_] Journal of Composites Science
+   [_] Journal of Developmental Biology
+   [_] Journal of Functional Biomaterials
+   [_] Journal of Functional Morphology and Kinesiology
+   [_] Journal of Fungi
+   [_] Journal of Imaging
+   [_] Journal of Intelligence
+   [_] Journal of Low Power Electronics and Applications
+   [_] Journal of Manufacturing and Materials Processing
+   [_] Journal of Marine Science and Engineering
+   [_] Journal of Open Innovation: Technology, Market, and Complexity
+   [_] Journal of Personalized Medicine
+   [_] Journal of Risk and Financial Management
+   [_] Journal of Sensor and Actuator Networks
+   [_] Land
+   [_] Languages
+   [_] Laws
+   [_] Life
+   [_] Logistics
+   [_] Lubricants
+   [_] Machine Learning and Knowledge Extraction
+   [_] Machines
+   [_] Magnetochemistry
+   [_] Marine Drugs
+   [_] Materials
+   [_] Mathematical and Computational Applications
+   [_] Mathematics
+   [_] Medical Sciences
+   [_] Medicina
+   [_] Medicines
+   [_] Membranes
+   [_] Metabolites
+   [_] Metals
+   [_] Methods and Protocols
+   [_] Micromachines
+   [_] Microorganisms
+   [_] Minerals
+   [_] Molbank
+   [_] Molecules
+   [_] Multimodal Technologies and Interaction
+   [_] Nanomaterials
+   [_] Non-Coding RNA
+   [_] Nutrients
+   [_] Oceans
+   [_] Particles
+   [_] Pathogens
+   [_] Pharmaceuticals
+   [_] Pharmaceutics
+   [_] Pharmacy
+   [_] Philosophies
+   [_] Photonics
+   [_] Physics
+   [_] Plants
+   [_] Plasma
+   [_] Polymers
+   [_] Proceedings
+   [_] Processes
+   [_] Prosthesis
+   [_] Proteomes
+   [_] Psych
+   [_] Publications
+   [_] Quantum Beam Science
+   [_] Quantum Reports
+   [_] Quaternary
+   [_] Recycling
+   [_] Religions
+   [_] Remote Sensing
+   [_] Reports
+   [_] Resources
+   [_] Risks
+   [_] Robotics
+   [_] Safety
+   [_] Sci
+   [_] Scientia Pharmaceutica
+   [_] Sensors
+   [_] Separations
+   [_] Smart Cities
+   [_] Social Sciences
+   [_] Societies
+   [_] Soil Systems
+   [_] Sports
+   [_] Stats
+   [_] Surfaces
+   [_] Sustainability
+   [_] Symmetry
+   [_] Systems
+   [_] Technologies
+   [_] Toxics
+   [_] Toxins
+   [_] Tropical Medicine and Infectious Disease
+   [_] Universe
+   [_] Urban Science
+   [_] Vaccines
+   [_] Vehicles
+   [_] Veterinary Sciences
+   [_] Vibration
+   [_] Viruses
+   [_] Vision
+   [_] Water
+   [_] World Electric Vehicle Journal
+   ____________________ (BUTTON) Subscribe
+   © 1996-2019 MDPI (Basel, Switzerland) unless otherwise stated
+   Terms and Conditions Privacy Policy
+   We use cookies on our website to ensure you get the best experience.
+   Read more about our cookies here.
+   Accept
+   We have just recently launched a new version of our website.
+   Help us to further improve by taking part in this short 5 minute survey
+   here. here.
+   Never show this again
+
+Share Link
+
+   ____________________
+   Copy
+   clear
+
+   Back to TopTop
+
+
+   #PDF Full-Text HTML Full-Text XML Full-Text MDPI Publishing - Latest
+   articles
+
+   Next Article in Journal
+   Does the Absence of a Supportive Family Environment Influence the
+   Outcome of a Universal Intervention for the Prevention of Depression?
+   Next Article in Special Issue
+   Phthalate Exposure and Health-Related Outcomes in Specific Types of
+   Work Environment
+
+   Previous Article in Journal
+   The Effects of Fine Particulate Air Pollution on Daily Mortality: A
+   Case-Crossover Study in a Subtropical City, Taipei, Taiwan
+   Previous Article in Special Issue
+   Simulation of Population-Based Commuter Exposure to NO[2] Using
+   Different Air Pollution Models
+
+Journals
+
+Information
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+   Article Processing Charges Open Access Policy Institutional Open Access
+   Program Editorial Process English Editing Service MDPI Blog
+
+Author Services
+
+Initiatives
+
+   Sciforum Preprints Scilit MDPI Books Encyclopedia
+
+About
+
+   Sign In / Sign Up
+
+Notice
+
+   You can make submissions to other journals here.
+   clear
+
+   You seem to have javascript disabled. Please note that many of the page
+   functionalities won't work as expected without javascript enabled.
+
+   MDPI Open Access Journals
+   clear search menu
+
+   MDPI Open Access Journals
+     * Journals
+     * Information
+          +
+               o For Authors
+               o For Reviewers
+               o For Editors
+               o For Librarians
+               o For Publishers
+               o For Societies
+               o Article Processing Charges
+               o Open Access Policy
+               o Institutional Open Access Program
+               o Editorial Process
+               o MDPI Blog
+     * Author Services
+     * Initiatives
+          +
+               o Sciforum
+               o Preprints
+               o Scilit
+               o MDPI Books
+               o Encyclopedia
+     * About
+
+   Sign In / Sign Up Submit
+
+   Search for Articles:
+   Title / Keyword
+   ____________________
+   Author / Affiliation
+   ____________________
+   Journal
+   [International Journal of Environmental Research and Public Health (IJE
+   RPH)_...]
+   Article Type
+   [All Article Types....]
+
+   Search
+
+   Advanced Search
+
+   Section
+   []
+   Special Issue
+   []
+   Volume
+   ____________________
+   Issue
+   ____________________
+   Number
+   ____________________
+   Page
+   ____________________
+
+   You can use * to search for partial matches.
+     Search
+
+
+   Logical OperatorOperator
+   [AND]
+   Search Text
+   ____________________
+   Search Type
+   [All fields..]
+
+   add_circle_outline
+   remove_circle_outline
+
+   Journals
+   IJERPH
+   Volume 11
+   Issue 5
+   10.3390/ijerph110505094
+   ijerph-logo
+   Submit to this Journal Review for this Journal Edit a Special Issue
+   ► ▼ Article Menu
+
+Article Menu
+
+     * Article Overview
+          + Abstract
+          + Share and Cite
+          + Article Metrics
+          + Supplementary Material
+          + Related Articles
+          + Order Article Reprints
+     * Article Versions
+          + Abstract
+          + Article Versions Notes
+          + Full-Text HTML
+          + Full-Text PDF
+          + Full-Text XML
+          + Full-Text Epub
+     * Export Article
+          + BibTeX
+          + EndNote
+          + RIS
+     * Related Info Links
+          + PubMed/Medline
+          + Google Scholar
+     * More by Authors Links
+          + on DOAJ
+               o Fensterer, V.
+               o
+               o Küchenhoff, H.
+               o
+               o Maier, V.
+               o
+               o Wichmann, H.
+               o
+               o Breitner, S.
+               o
+               o Peters, A.
+               o
+               o Gu, J.
+               o
+               o Cyrys, J.
+               o
+          + on Google Scholar
+               o Fensterer, V.
+               o
+               o Küchenhoff, H.
+               o
+               o Maier, V.
+               o
+               o Wichmann, H.
+               o
+               o Breitner, S.
+               o
+               o Peters, A.
+               o
+               o Gu, J.
+               o
+               o Cyrys, J.
+               o
+          + on PubMed
+               o Fensterer, V.
+               o
+               o Küchenhoff, H.
+               o
+               o Maier, V.
+               o
+               o Wichmann, H.
+               o
+               o Breitner, S.
+               o
+               o Peters, A.
+               o
+               o Gu, J.
+               o
+               o Cyrys, J.
+               o
+
+   /ajax/scifeed/subscribe
+   Views
+   Downloads
+   Citations -
+   Altmetrics
+   share announcement textsms
+   ...
+
+Need Help?
+
+Support
+
+   Find support for a specific problem on the support section of our
+   website.
+   Get Support
+
+Feedback
+
+   Please let us know what you think of our products and services.
+   Give Feedback
+
+Information
+
+   Our dedicated information section provides allows you to learn more
+   about MDPI.
+   Get Information
+   clear
+
+MOL Viewer
+
+   clear
+   Open AccessArticle
+
+Evaluation of the Impact of Low Emission Zone and Heavy Traffic Ban in Munich
+(Germany) on the Reduction of PM[10] in Ambient Air
+
+   by Veronika Fensterer^ 1,*^, Helmut Küchenhoff^ 1, Verena Maier^ 1,
+   Heinz-Erich Wichmann^ 2, Susanne Breitner^ 3, Annette Peters^ 3,
+   Jianwei Gu^ 3,4 and Josef Cyrys^ 3,4
+   ^1
+   Statistical Consulting Unit, Department of Statistics,
+   Ludwig-Maximilians-Universität, Akademiestr. 1, Munich 80799, Germany
+   ^2
+   Helmholtz Zentrum München, Institute of Epidemiology I, Ingolstädter
+   Landstr. 1, Neuherberg 85764, Germany
+   ^3
+   Helmholtz Zentrum München, Institute of Epidemiology II, Ingolstädter
+   Landstr. 1, Neuherberg 85764, Germany
+   ^4
+   Environment Science Center, Universität Augsburg, Universitätsstr. 1a,
+   Augsburg 86159, Germany
+   ^*
+   Author to whom correspondence should be addressed.
+   Int. J. Environ. Res. Public Health 2014, 11(5), 5094-5112;
+   https://doi.org/10.3390/ijerph110505094
+   Received: 31 March 2014 / Revised: 5 May 2014 / Accepted: 5 May 2014 /
+   Published: 13 May 2014
+   (This article belongs to the Special Issue Environment and Health -
+   Bridging South, North, East and West: Proceedings from the ISEE, ISES
+   and ISIAQ Conference 2013)
+   View Full-Text Download PDF
+   Browse Figures
+
+Abstract
+
+   Concentrations of ambient fine particles (PM[10]: particles with an
+   aerodynamic diameter ≤ 10 µm) are still exceeding current air quality
+   standards in many European cities. In Munich (Germany), low emission
+   zone and transit bans for heavy-duty vehicles were introduced in 2008
+   aiming at reduction of traffic emissions contribution to PM[10]. The
+   effects of those measures on PM[10] mass concentrations in Munich were
+   investigated with a semiparametric regression model for modeling PM[10]
+   levels adjusted for time, background pollution, public holidays and
+   wind direction. The reduction of PM[10] concentration after the
+   introduction of the measures was larger at a traffic monitoring site
+   (13.0 %, 19.6 % in summer, and 6.8 % in winter) and smaller in urban
+   background (4.5 %, 5.7 % in summer, and 3.2 % in winter). The effect
+   was most pronounced on Fridays and on the weekends in summer. View
+   Full-Text
+   Keywords: fine particles; PM[10]; low emission zone; truck ban; Munich
+   fine particles; PM[10]; low emission zone; truck ban; Munich
+   ►▼ Show Figures
+
+   Figure 1
+   This is an open access article distributed under the Creative Commons
+   Attribution License
+   SciFeed
+
+Share and Cite
+
+   MDPI and ACS Style
+
+   Fensterer, V.; Küchenhoff, H.; Maier, V.; Wichmann, H.-E.; Breitner,
+   S.; Peters, A.; Gu, J.; Cyrys, J. Evaluation of the Impact of Low
+   Emission Zone and Heavy Traffic Ban in Munich (Germany) on the
+   Reduction of PM[10] in Ambient Air. Int. J. Environ. Res. Public Health
+   2014, 11, 5094-5112.
+   AMA Style
+
+   Fensterer V, Küchenhoff H, Maier V, Wichmann H-E, Breitner S, Peters A,
+   Gu J, Cyrys J. Evaluation of the Impact of Low Emission Zone and Heavy
+   Traffic Ban in Munich (Germany) on the Reduction of PM[10] in Ambient
+   Air. International Journal of Environmental Research and Public Health.
+   2014; 11(5):5094-5112.
+   Chicago/Turabian Style
+
+   Fensterer, Veronika; Küchenhoff, Helmut; Maier, Verena; Wichmann,
+   Heinz-Erich; Breitner, Susanne; Peters, Annette; Gu, Jianwei; Cyrys,
+   Josef. 2014. "Evaluation of the Impact of Low Emission Zone and Heavy
+   Traffic Ban in Munich (Germany) on the Reduction of PM[10] in Ambient
+   Air." Int. J. Environ. Res. Public Health 11, no. 5: 5094-5112.
+   Find Other Styles
+   ____________________
+   Show more citation formats Show less citations formats
+
+Article Metrics
+
+   No
+   No
+
+Article Access Statistics
+
+   For more information on the journal statistics, click here.
+   Multiple requests from the same IP address are counted as one view.
+   Abstract views Pdf views Html views
+
+Article Access Map by Country/Region
+
+   1
+   Only visits after 24 November 2015 are recorded.
+
+Supplementary Material
+
+     * Supplementary File 1:
+       Supplementary Information (PDF, 397 KB)
+
+Related Articles
+
+   Zoom | Orient | As Lines | As Sticks | As Cartoon | As Surface |
+   Previous Scene | Next Scene
+   Int. J. Environ. Res. Public Health, EISSN 1660-4601, Published by MDPI
+   AG
+   RSS Content Alert
+
+Further Information
+
+   Article Processing Charges Pay an Invoice Open Access Policy Privacy
+   Policy Contact MDPI Jobs at MDPI
+
+Guidelines
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+
+MDPI Initiatives
+
+   Institutional Open Access Program (IOAP) Sciforum Preprints Scilit MDPI
+   Books Encyclopedia MDPI Blog
+
+Follow MDPI
+
+   LinkedIn Facebook Twitter
+   MDPI
+
+   Subscribe to receive issue release notifications and newsletters from
+   MDPI journals
+   [_] Acoustics
+   [_] Actuators
+   [_] Administrative Sciences
+   [_] Aerospace
+   [_] Agriculture
+   [_] AgriEngineering
+   [_] Agronomy
+   [_] Algorithms
+   [_] Animals
+   [_] Antibiotics
+   [_] Antibodies
+   [_] Antioxidants
+   [_] Applied Sciences
+   [_] Applied System Innovation
+   [_] Arts
+   [_] Atmosphere
+   [_] Atoms
+   [_] Axioms
+   [_] Batteries
+   [_] Behavioral Sciences
+   [_] Beverages
+   [_] Big Data and Cognitive Computing
+   [_] Bioengineering
+   [_] Biology
+   [_] Biomedicines
+   [_] Biomimetics
+   [_] Biomolecules
+   [_] Biosensors
+   [_] Brain Sciences
+   [_] Buildings
+   [_] C — Journal of Carbon Research
+   [_] Cancers
+   [_] Catalysts
+   [_] Cells
+   [_] Ceramics
+   [_] Challenges
+   [_] ChemEngineering
+   [_] Chemistry
+   [_] Chemosensors
+   [_] Children
+   [_] Clean Technologies
+   [_] Climate
+   [_] Clocks & Sleep
+   [_] Coatings
+   [_] Colloids and Interfaces
+   [_] Computation
+   [_] Computers
+   [_] Condensed Matter
+   [_] Cosmetics
+   [_] Cryptography
+   [_] Crystals
+   [_] Data
+   [_] Dentistry Journal
+   [_] Designs
+   [_] Diagnostics
+   [_] Diseases
+   [_] Diversity
+   [_] Drones
+   [_] Econometrics
+   [_] Economies
+   [_] Education Sciences
+   [_] Electronics
+   [_] Energies
+   [_] Entropy
+   [_] Environments
+   [_] Epigenomes
+   [_] European Journal of Burn Care
+   [_] European Journal of Investigation in Health, Psychology and
+   Education
+   [_] Fermentation
+   [_] Fibers
+   [_] Fire
+   [_] Fishes
+   [_] Fluids
+   [_] Foods
+   [_] Forecasting
+   [_] Forests
+   [_] Fractal and Fractional
+   [_] Future Internet
+   [_] Galaxies
+   [_] Games
+   [_] Gastrointestinal Disorders
+   [_] Gels
+   [_] Genealogy
+   [_] Genes
+   [_] Geosciences
+   [_] Geriatrics
+   [_] Healthcare
+   [_] Heritage
+   [_] High-Throughput
+   [_] Horticulturae
+   [_] Humanities
+   [_] Hydrology
+   [_] Informatics
+   [_] Information
+   [_] Infrastructures
+   [_] Inorganics
+   [_] Insects
+   [_] Instruments
+   [_] International Journal of Environmental Research and Public Health
+   [_] International Journal of Financial Studies
+   [_] International Journal of Molecular Sciences
+   [_] International Journal of Neonatal Screening
+   [_] International Journal of Turbomachinery, Propulsion and Power
+   [_] Inventions
+   [_] ISPRS International Journal of Geo-Information
+   [_] J — Multidisciplinary Scientific Journal
+   [_] Journal of Cardiovascular Development and Disease
+   [_] Journal of Clinical Medicine
+   [_] Journal of Composites Science
+   [_] Journal of Developmental Biology
+   [_] Journal of Functional Biomaterials
+   [_] Journal of Functional Morphology and Kinesiology
+   [_] Journal of Fungi
+   [_] Journal of Imaging
+   [_] Journal of Intelligence
+   [_] Journal of Low Power Electronics and Applications
+   [_] Journal of Manufacturing and Materials Processing
+   [_] Journal of Marine Science and Engineering
+   [_] Journal of Open Innovation: Technology, Market, and Complexity
+   [_] Journal of Personalized Medicine
+   [_] Journal of Risk and Financial Management
+   [_] Journal of Sensor and Actuator Networks
+   [_] Land
+   [_] Languages
+   [_] Laws
+   [_] Life
+   [_] Logistics
+   [_] Lubricants
+   [_] Machine Learning and Knowledge Extraction
+   [_] Machines
+   [_] Magnetochemistry
+   [_] Marine Drugs
+   [_] Materials
+   [_] Mathematical and Computational Applications
+   [_] Mathematics
+   [_] Medical Sciences
+   [_] Medicina
+   [_] Medicines
+   [_] Membranes
+   [_] Metabolites
+   [_] Metals
+   [_] Methods and Protocols
+   [_] Micromachines
+   [_] Microorganisms
+   [_] Minerals
+   [_] Molbank
+   [_] Molecules
+   [_] Multimodal Technologies and Interaction
+   [_] Nanomaterials
+   [_] Non-Coding RNA
+   [_] Nutrients
+   [_] Oceans
+   [_] Particles
+   [_] Pathogens
+   [_] Pharmaceuticals
+   [_] Pharmaceutics
+   [_] Pharmacy
+   [_] Philosophies
+   [_] Photonics
+   [_] Physics
+   [_] Plants
+   [_] Plasma
+   [_] Polymers
+   [_] Proceedings
+   [_] Processes
+   [_] Prosthesis
+   [_] Proteomes
+   [_] Psych
+   [_] Publications
+   [_] Quantum Beam Science
+   [_] Quantum Reports
+   [_] Quaternary
+   [_] Recycling
+   [_] Religions
+   [_] Remote Sensing
+   [_] Reports
+   [_] Resources
+   [_] Risks
+   [_] Robotics
+   [_] Safety
+   [_] Sci
+   [_] Scientia Pharmaceutica
+   [_] Sensors
+   [_] Separations
+   [_] Smart Cities
+   [_] Social Sciences
+   [_] Societies
+   [_] Soil Systems
+   [_] Sports
+   [_] Stats
+   [_] Surfaces
+   [_] Sustainability
+   [_] Symmetry
+   [_] Systems
+   [_] Technologies
+   [_] Toxics
+   [_] Toxins
+   [_] Tropical Medicine and Infectious Disease
+   [_] Universe
+   [_] Urban Science
+   [_] Vaccines
+   [_] Vehicles
+   [_] Veterinary Sciences
+   [_] Vibration
+   [_] Viruses
+   [_] Vision
+   [_] Water
+   [_] World Electric Vehicle Journal
+   ____________________ (BUTTON) Subscribe
+   © 1996-2019 MDPI (Basel, Switzerland) unless otherwise stated
+   Terms and Conditions Privacy Policy
+   We use cookies on our website to ensure you get the best experience.
+   Read more about our cookies here.
+   Accept
+   We have just recently launched a new version of our website.
+   Help us to further improve by taking part in this short 5 minute survey
+   here. here.
+   Never show this again
+
+Share Link
+
+   ____________________
+   Copy
+   clear
+
+   Back to TopTop
+   #PDF Full-Text HTML Full-Text XML Full-Text MDPI Publishing - Latest
+   articles
+
+   Next Article in Journal
+   Does the Absence of a Supportive Family Environment Influence the
+   Outcome of a Universal Intervention for the Prevention of Depression?
+   Next Article in Special Issue
+   Phthalate Exposure and Health-Related Outcomes in Specific Types of
+   Work Environment
+
+   Previous Article in Journal
+   The Effects of Fine Particulate Air Pollution on Daily Mortality: A
+   Case-Crossover Study in a Subtropical City, Taipei, Taiwan
+   Previous Article in Special Issue
+   Simulation of Population-Based Commuter Exposure to NO[2] Using
+   Different Air Pollution Models
+
+Journals
+
+Information
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+   Article Processing Charges Open Access Policy Institutional Open Access
+   Program Editorial Process English Editing Service MDPI Blog
+
+Author Services
+
+Initiatives
+
+   Sciforum Preprints Scilit MDPI Books Encyclopedia
+
+About
+
+   Sign In / Sign Up
+
+Notice
+
+   You can make submissions to other journals here.
+   clear
+
+   You seem to have javascript disabled. Please note that many of the page
+   functionalities won't work as expected without javascript enabled.
+
+   MDPI Open Access Journals
+   clear search menu
+
+   MDPI Open Access Journals
+     * Journals
+     * Information
+          +
+               o For Authors
+               o For Reviewers
+               o For Editors
+               o For Librarians
+               o For Publishers
+               o For Societies
+               o Article Processing Charges
+               o Open Access Policy
+               o Institutional Open Access Program
+               o Editorial Process
+               o MDPI Blog
+     * Author Services
+     * Initiatives
+          +
+               o Sciforum
+               o Preprints
+               o Scilit
+               o MDPI Books
+               o Encyclopedia
+     * About
+
+   Sign In / Sign Up Submit
+
+   Search for Articles:
+   Title / Keyword
+   ____________________
+   Author / Affiliation
+   ____________________
+   Journal
+   [International Journal of Environmental Research and Public Health (IJE
+   RPH)_...]
+   Article Type
+   [All Article Types....]
+
+   Search
+
+   Advanced Search
+
+   Section
+   []
+   Special Issue
+   []
+   Volume
+   ____________________
+   Issue
+   ____________________
+   Number
+   ____________________
+   Page
+   ____________________
+
+   You can use * to search for partial matches.
+     Search
+
+
+   Logical OperatorOperator
+   [AND]
+   Search Text
+   ____________________
+   Search Type
+   [All fields..]
+
+   add_circle_outline
+   remove_circle_outline
+
+   Journals
+   IJERPH
+   Volume 11
+   Issue 5
+   10.3390/ijerph110505094
+   ijerph-logo
+   Submit to this Journal Review for this Journal Edit a Special Issue
+   ► ▼ Article Menu
+
+Article Menu
+
+     * Article Overview
+          + Abstract
+          + Share and Cite
+          + Article Metrics
+          + Supplementary Material
+          + Related Articles
+          + Order Article Reprints
+     * Article Versions
+          + Abstract
+          + Article Versions Notes
+          + Full-Text HTML
+          + Full-Text PDF
+          + Full-Text XML
+          + Full-Text Epub
+     * Export Article
+          + BibTeX
+          + EndNote
+          + RIS
+     * Related Info Links
+          + PubMed/Medline
+          + Google Scholar
+     * More by Authors Links
+          + on DOAJ
+               o Fensterer, V.
+               o
+               o Küchenhoff, H.
+               o
+               o Maier, V.
+               o
+               o Wichmann, H.
+               o
+               o Breitner, S.
+               o
+               o Peters, A.
+               o
+               o Gu, J.
+               o
+               o Cyrys, J.
+               o
+          + on Google Scholar
+               o Fensterer, V.
+               o
+               o Küchenhoff, H.
+               o
+               o Maier, V.
+               o
+               o Wichmann, H.
+               o
+               o Breitner, S.
+               o
+               o Peters, A.
+               o
+               o Gu, J.
+               o
+               o Cyrys, J.
+               o
+          + on PubMed
+               o Fensterer, V.
+               o
+               o Küchenhoff, H.
+               o
+               o Maier, V.
+               o
+               o Wichmann, H.
+               o
+               o Breitner, S.
+               o
+               o Peters, A.
+               o
+               o Gu, J.
+               o
+               o Cyrys, J.
+               o
+
+   /ajax/scifeed/subscribe
+   Views
+   Downloads
+   Citations -
+   Altmetrics
+   share announcement textsms
+   ...
+
+Need Help?
+
+Support
+
+   Find support for a specific problem on the support section of our
+   website.
+   Get Support
+
+Feedback
+
+   Please let us know what you think of our products and services.
+   Give Feedback
+
+Information
+
+   Our dedicated information section provides allows you to learn more
+   about MDPI.
+   Get Information
+   clear
+
+MOL Viewer
+
+   clear
+   Open AccessArticle
+
+Evaluation of the Impact of Low Emission Zone and Heavy Traffic Ban in Munich
+(Germany) on the Reduction of PM[10] in Ambient Air
+
+   by [masked-unknown-user.png] Veronika Fensterer ^1,*^,
+   [masked-unknown-user.png] Helmut Küchenhoff ^1,
+   [masked-unknown-user.png] Verena Maier ^1, [masked-unknown-user.png]
+   Heinz-Erich Wichmann ^2, [masked-unknown-user.png] Susanne Breitner ^3,
+   [masked-unknown-user.png] Annette Peters ^3, [masked-unknown-user.png]
+   Jianwei Gu ^3,4 and [masked-unknown-user.png] Josef Cyrys ^3,4
+   ^1
+   Statistical Consulting Unit, Department of Statistics,
+   Ludwig-Maximilians-Universität, Akademiestr. 1, Munich 80799, Germany
+   ^2
+   Helmholtz Zentrum München, Institute of Epidemiology I, Ingolstädter
+   Landstr. 1, Neuherberg 85764, Germany
+   ^3
+   Helmholtz Zentrum München, Institute of Epidemiology II, Ingolstädter
+   Landstr. 1, Neuherberg 85764, Germany
+   ^4
+   Environment Science Center, Universität Augsburg, Universitätsstr. 1a,
+   Augsburg 86159, Germany
+   ^*
+   Author to whom correspondence should be addressed.
+   Int. J. Environ. Res. Public Health 2014, 11(5), 5094-5112;
+   https://doi.org/10.3390/ijerph110505094
+   Received: 31 March 2014 / Revised: 5 May 2014 / Accepted: 5 May 2014 /
+   Published: 13 May 2014
+   (This article belongs to the Special Issue Environment and Health -
+   Bridging South, North, East and West: Proceedings from the ISEE, ISES
+   and ISIAQ Conference 2013)
+   View Full-Text Download PDF
+   Browse Figures
+
+Abstract
+
+   Concentrations of ambient fine particles (PM[10]: particles with an
+   aerodynamic diameter ≤ 10 µm) are still exceeding current air quality
+   standards in many European cities. In Munich (Germany), low emission
+   zone and transit bans for heavy-duty vehicles were introduced in 2008
+   aiming at reduction of traffic emissions contribution to PM[10]. The
+   effects of those measures on PM[10] mass concentrations in Munich were
+   investigated with a semiparametric regression model for modeling PM[10]
+   levels adjusted for time, background pollution, public holidays and
+   wind direction. The reduction of PM[10] concentration after the
+   introduction of the measures was larger at a traffic monitoring site
+   (13.0 %, 19.6 % in summer, and 6.8 % in winter) and smaller in urban
+   background (4.5 %, 5.7 % in summer, and 3.2 % in winter). The effect
+   was most pronounced on Fridays and on the weekends in summer. View
+   Full-Text
+   Keywords: fine particles; PM[10]; low emission zone; truck ban; Munich
+   fine particles; PM[10]; low emission zone; truck ban; Munich
+   ►▼ Show Figures
+
+   Figure 1
+   This is an open access article distributed under the Creative Commons
+   Attribution License
+   SciFeed
+
+Share and Cite
+
+   MDPI and ACS Style
+
+   Fensterer, V.; Küchenhoff, H.; Maier, V.; Wichmann, H.-E.; Breitner,
+   S.; Peters, A.; Gu, J.; Cyrys, J. Evaluation of the Impact of Low
+   Emission Zone and Heavy Traffic Ban in Munich (Germany) on the
+   Reduction of PM[10] in Ambient Air. Int. J. Environ. Res. Public Health
+   2014, 11, 5094-5112.
+   AMA Style
+
+   Fensterer V, Küchenhoff H, Maier V, Wichmann H-E, Breitner S, Peters A,
+   Gu J, Cyrys J. Evaluation of the Impact of Low Emission Zone and Heavy
+   Traffic Ban in Munich (Germany) on the Reduction of PM[10] in Ambient
+   Air. International Journal of Environmental Research and Public Health.
+   2014; 11(5):5094-5112.
+   Chicago/Turabian Style
+
+   Fensterer, Veronika; Küchenhoff, Helmut; Maier, Verena; Wichmann,
+   Heinz-Erich; Breitner, Susanne; Peters, Annette; Gu, Jianwei; Cyrys,
+   Josef. 2014. "Evaluation of the Impact of Low Emission Zone and Heavy
+   Traffic Ban in Munich (Germany) on the Reduction of PM[10] in Ambient
+   Air." Int. J. Environ. Res. Public Health 11, no. 5: 5094-5112.
+   Find Other Styles
+   ____________________
+   Show more citation formats Show less citations formats
+
+Article Metrics
+
+   No
+   No
+
+Article Access Statistics
+
+   For more information on the journal statistics, click here.
+   Multiple requests from the same IP address are counted as one view.
+   Abstract views Pdf views Html views
+
+Article Access Map by Country/Region
+
+   1
+   Only visits after 24 November 2015 are recorded.
+
+Supplementary Material
+
+     * Supplementary File 1:
+       Supplementary Information (PDF, 397 KB)
+
+Related Articles
+
+   Zoom | Orient | As Lines | As Sticks | As Cartoon | As Surface |
+   Previous Scene | Next Scene
+   Int. J. Environ. Res. Public Health, EISSN 1660-4601, Published by MDPI
+   AG
+   RSS Content Alert
+
+Further Information
+
+   Article Processing Charges Pay an Invoice Open Access Policy Privacy
+   Policy Contact MDPI Jobs at MDPI
+
+Guidelines
+
+   For Authors For Reviewers For Editors For Librarians For Publishers For
+   Societies
+
+MDPI Initiatives
+
+   Institutional Open Access Program (IOAP) Sciforum Preprints Scilit MDPI
+   Books Encyclopedia MDPI Blog
+
+Follow MDPI
+
+   LinkedIn Facebook Twitter
+   MDPI
+
+   Subscribe to receive issue release notifications and newsletters from
+   MDPI journals
+   [_] Acoustics
+   [_] Actuators
+   [_] Administrative Sciences
+   [_] Aerospace
+   [_] Agriculture
+   [_] AgriEngineering
+   [_] Agronomy
+   [_] Algorithms
+   [_] Animals
+   [_] Antibiotics
+   [_] Antibodies
+   [_] Antioxidants
+   [_] Applied Sciences
+   [_] Applied System Innovation
+   [_] Arts
+   [_] Atmosphere
+   [_] Atoms
+   [_] Axioms
+   [_] Batteries
+   [_] Behavioral Sciences
+   [_] Beverages
+   [_] Big Data and Cognitive Computing
+   [_] Bioengineering
+   [_] Biology
+   [_] Biomedicines
+   [_] Biomimetics
+   [_] Biomolecules
+   [_] Biosensors
+   [_] Brain Sciences
+   [_] Buildings
+   [_] C — Journal of Carbon Research
+   [_] Cancers
+   [_] Catalysts
+   [_] Cells
+   [_] Ceramics
+   [_] Challenges
+   [_] ChemEngineering
+   [_] Chemistry
+   [_] Chemosensors
+   [_] Children
+   [_] Clean Technologies
+   [_] Climate
+   [_] Clocks & Sleep
+   [_] Coatings
+   [_] Colloids and Interfaces
+   [_] Computation
+   [_] Computers
+   [_] Condensed Matter
+   [_] Cosmetics
+   [_] Cryptography
+   [_] Crystals
+   [_] Data
+   [_] Dentistry Journal
+   [_] Designs
+   [_] Diagnostics
+   [_] Diseases
+   [_] Diversity
+   [_] Drones
+   [_] Econometrics
+   [_] Economies
+   [_] Education Sciences
+   [_] Electronics
+   [_] Energies
+   [_] Entropy
+   [_] Environments
+   [_] Epigenomes
+   [_] European Journal of Burn Care
+   [_] European Journal of Investigation in Health, Psychology and
+   Education
+   [_] Fermentation
+   [_] Fibers
+   [_] Fire
+   [_] Fishes
+   [_] Fluids
+   [_] Foods
+   [_] Forecasting
+   [_] Forests
+   [_] Fractal and Fractional
+   [_] Future Internet
+   [_] Galaxies
+   [_] Games
+   [_] Gastrointestinal Disorders
+   [_] Gels
+   [_] Genealogy
+   [_] Genes
+   [_] Geosciences
+   [_] Geriatrics
+   [_] Healthcare
+   [_] Heritage
+   [_] High-Throughput
+   [_] Horticulturae
+   [_] Humanities
+   [_] Hydrology
+   [_] Informatics
+   [_] Information
+   [_] Infrastructures
+   [_] Inorganics
+   [_] Insects
+   [_] Instruments
+   [_] International Journal of Environmental Research and Public Health
+   [_] International Journal of Financial Studies
+   [_] International Journal of Molecular Sciences
+   [_] International Journal of Neonatal Screening
+   [_] International Journal of Turbomachinery, Propulsion and Power
+   [_] Inventions
+   [_] ISPRS International Journal of Geo-Information
+   [_] J — Multidisciplinary Scientific Journal
+   [_] Journal of Cardiovascular Development and Disease
+   [_] Journal of Clinical Medicine
+   [_] Journal of Composites Science
+   [_] Journal of Developmental Biology
+   [_] Journal of Functional Biomaterials
+   [_] Journal of Functional Morphology and Kinesiology
+   [_] Journal of Fungi
+   [_] Journal of Imaging
+   [_] Journal of Intelligence
+   [_] Journal of Low Power Electronics and Applications
+   [_] Journal of Manufacturing and Materials Processing
+   [_] Journal of Marine Science and Engineering
+   [_] Journal of Open Innovation: Technology, Market, and Complexity
+   [_] Journal of Personalized Medicine
+   [_] Journal of Risk and Financial Management
+   [_] Journal of Sensor and Actuator Networks
+   [_] Land
+   [_] Languages
+   [_] Laws
+   [_] Life
+   [_] Logistics
+   [_] Lubricants
+   [_] Machine Learning and Knowledge Extraction
+   [_] Machines
+   [_] Magnetochemistry
+   [_] Marine Drugs
+   [_] Materials
+   [_] Mathematical and Computational Applications
+   [_] Mathematics
+   [_] Medical Sciences
+   [_] Medicina
+   [_] Medicines
+   [_] Membranes
+   [_] Metabolites
+   [_] Metals
+   [_] Methods and Protocols
+   [_] Micromachines
+   [_] Microorganisms
+   [_] Minerals
+   [_] Molbank
+   [_] Molecules
+   [_] Multimodal Technologies and Interaction
+   [_] Nanomaterials
+   [_] Non-Coding RNA
+   [_] Nutrients
+   [_] Oceans
+   [_] Particles
+   [_] Pathogens
+   [_] Pharmaceuticals
+   [_] Pharmaceutics
+   [_] Pharmacy
+   [_] Philosophies
+   [_] Photonics
+   [_] Physics
+   [_] Plants
+   [_] Plasma
+   [_] Polymers
+   [_] Proceedings
+   [_] Processes
+   [_] Prosthesis
+   [_] Proteomes
+   [_] Psych
+   [_] Publications
+   [_] Quantum Beam Science
+   [_] Quantum Reports
+   [_] Quaternary
+   [_] Recycling
+   [_] Religions
+   [_] Remote Sensing
+   [_] Reports
+   [_] Resources
+   [_] Risks
+   [_] Robotics
+   [_] Safety
+   [_] Sci
+   [_] Scientia Pharmaceutica
+   [_] Sensors
+   [_] Separations
+   [_] Smart Cities
+   [_] Social Sciences
+   [_] Societies
+   [_] Soil Systems
+   [_] Sports
+   [_] Stats
+   [_] Surfaces
+   [_] Sustainability
+   [_] Symmetry
+   [_] Systems
+   [_] Technologies
+   [_] Toxics
+   [_] Toxins
+   [_] Tropical Medicine and Infectious Disease
+   [_] Universe
+   [_] Urban Science
+   [_] Vaccines
+   [_] Vehicles
+   [_] Veterinary Sciences
+   [_] Vibration
+   [_] Viruses
+   [_] Vision
+   [_] Water
+   [_] World Electric Vehicle Journal
+   ____________________ (BUTTON) Subscribe
+   © 1996-2019 MDPI (Basel, Switzerland) unless otherwise stated
+   Terms and Conditions Privacy Policy
+   We use cookies on our website to ensure you get the best experience.
+   Read more about our cookies here.
+   Accept
+   We have just recently launched a new version of our website.
+   Help us to further improve by taking part in this short 5 minute survey
+   here. here.
+   Never show this again
+
+Share Link
+
+   ____________________
+   Copy
+   clear
+
+   Back to TopTop

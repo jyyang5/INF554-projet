@@ -1,0 +1,394 @@
+   Fatal error: Uncaught Error: Call to undefined function rwmb_meta() in
+   /home/preprodfjv/www/wp-content/themes/fondation_ratp/map.php:160 Stack
+   trace: #0
+   /home/preprodfjv/www/wp-content/themes/fondation_ratp/single-fichesasso
+   .php(25): prepareMap('fiche', 2847, false, '600px', '650px', 5) #1
+   /home/preprodfjv/www/wp-includes/template-loader.php(74):
+   include('/home/preprodfj...') #2
+   /home/preprodfjv/www/wp-blog-header.php(19):
+   require_once('/home/preprodfj...') #3
+   /home/preprodfjv/www/index.php(17): require('/home/preprodfj...') #4
+   {main} thrown in
+   /home/preprodfjv/www/wp-content/themes/fondation_ratp/map.php on line
+   160
+   #alternate alternate next
+
+   Rechercher : ____________________ Rechercher
+
+   Fondation Groupe RATP
+
+   (BUTTON) Principal
+     * La Fondation
+          + Histoire
+          + Le mot de la Présidente
+          + Nos missions
+          + Organisation
+               o La gouvernance
+               o Le comité des projets
+               o L’équipe
+          + Les rapports d’activité de la Fondation
+     * Emploi
+     * Éducation
+     * Culture
+     * Transition
+       écologique
+     * L’engagement
+       des salariés
+          + L’engagement des salariés
+          + Les Mentors
+     * Associations
+          + L’évaluation des projets
+
+CONSULTER LE RAPPORT
+
+L'accès à l'emploi avec Sapiens Brushing
+
+La Fondation, partenaire de la Semaine étudiante du Développement durable
+
+Actualités
+
+     *
+
+A « Choeur Battant », rien d’impossible !
+     *
+
+La Fondation, impliquée dans la transition écologique
+     *
+
+La Fondation à la une sur Mecenova
+
+   TOUTES LES ACTUALITÉS
+
+EMPLOI
+
+   La Fondation accompagne tous les profils et tous les parcours, en ayant
+   à coeur de développer mixité et égalité professionnelle.
+   En savoir plus
+
+ÉDUCATION
+
+   La Fondation favorise la réussite des jeunes en difficulté, quels que
+   soient leur origine ou leur parcours.
+   En savoir plus
+
+CULTURE
+
+   La Fondation combat l’isolement ou les freins des personnes
+   défavorisées, et leur redonne le goût de la découverte.
+   En savoir plus
+
+TRANSITION
+ÉCOLOGIQUE
+
+   La Fondation encourage à renouveler les façons de consommer, produire,
+   travailler et vivre ensemble pour répondre aux enjeux environnementaux.
+   En savoir plus
+
+   La RATP
+   c'est plus de
+   salariés !
+
+   Et si on devenait
+   tous bénévoles ?
+
+     * Contact
+     * Liens utiles
+     * Actualités
+     * Mentions légales
+     * www.ratp.fr
+
+     * La Fondation sur Twitter
+     * Le groupe RATP sur Twitter
+     * Le groupe RATP sur Facebook
+     * Le groupe RATP sur LinkedIn
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.Ok
+   #alternate alternate next
+
+   Rechercher : ____________________ Rechercher
+
+   Fondation Groupe RATP
+
+   (BUTTON) Principal
+     * La Fondation
+          + Histoire
+          + Le mot de la Présidente
+          + Nos missions
+          + Organisation
+               o La gouvernance
+               o Le comité des projets
+               o L’équipe
+          + Les rapports d’activité de la Fondation
+     * Emploi
+     * Éducation
+     * Culture
+     * Transition
+       écologique
+     * L’engagement
+       des salariés
+          + L’engagement des salariés
+          + Les Mentors
+     * Associations
+          + L’évaluation des projets
+
+CONSULTER LE RAPPORT
+
+L'accès à l'emploi avec Sapiens Brushing
+
+La Fondation, partenaire de la Semaine étudiante du Développement durable
+
+Actualités
+
+     *
+
+A « Choeur Battant », rien d’impossible !
+     *
+
+La Fondation, impliquée dans la transition écologique
+     *
+
+La Fondation à la une sur Mecenova
+
+   TOUTES LES ACTUALITÉS
+
+EMPLOI
+
+   La Fondation accompagne tous les profils et tous les parcours, en ayant
+   à coeur de développer mixité et égalité professionnelle.
+   En savoir plus
+
+ÉDUCATION
+
+   La Fondation favorise la réussite des jeunes en difficulté, quels que
+   soient leur origine ou leur parcours.
+   En savoir plus
+
+CULTURE
+
+   La Fondation combat l’isolement ou les freins des personnes
+   défavorisées, et leur redonne le goût de la découverte.
+   En savoir plus
+
+TRANSITION
+ÉCOLOGIQUE
+
+   La Fondation encourage à renouveler les façons de consommer, produire,
+   travailler et vivre ensemble pour répondre aux enjeux environnementaux.
+   En savoir plus
+
+   La RATP
+   c'est plus de
+   salariés !
+
+   Et si on devenait
+   tous bénévoles ?
+
+     * Contact
+     * Liens utiles
+     * Actualités
+     * Mentions légales
+     * www.ratp.fr
+
+     * La Fondation sur Twitter
+     * Le groupe RATP sur Twitter
+     * Le groupe RATP sur Facebook
+     * Le groupe RATP sur LinkedIn
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.Ok
+   #alternate alternate next
+
+   Rechercher : ____________________ Rechercher
+
+   Fondation Groupe RATP
+
+   (BUTTON) Principal
+     * La Fondation
+          + Histoire
+          + Le mot de la Présidente
+          + Nos missions
+          + Organisation
+               o La gouvernance
+               o Le comité des projets
+               o L’équipe
+          + Les rapports d’activité de la Fondation
+     * Emploi
+     * Éducation
+     * Culture
+     * Transition
+       écologique
+     * L’engagement
+       des salariés
+          + L’engagement des salariés
+          + Les Mentors
+     * Associations
+          + L’évaluation des projets
+
+CONSULTER LE RAPPORT
+
+L'accès à l'emploi avec Sapiens Brushing
+
+La Fondation, partenaire de la Semaine étudiante du Développement durable
+
+Actualités
+
+     *
+
+A « Choeur Battant », rien d’impossible !
+     *
+
+La Fondation, impliquée dans la transition écologique
+     *
+
+La Fondation à la une sur Mecenova
+
+   TOUTES LES ACTUALITÉS
+
+EMPLOI
+
+   La Fondation accompagne tous les profils et tous les parcours, en ayant
+   à coeur de développer mixité et égalité professionnelle.
+   En savoir plus
+
+ÉDUCATION
+
+   La Fondation favorise la réussite des jeunes en difficulté, quels que
+   soient leur origine ou leur parcours.
+   En savoir plus
+
+CULTURE
+
+   La Fondation combat l’isolement ou les freins des personnes
+   défavorisées, et leur redonne le goût de la découverte.
+   En savoir plus
+
+TRANSITION
+ÉCOLOGIQUE
+
+   La Fondation encourage à renouveler les façons de consommer, produire,
+   travailler et vivre ensemble pour répondre aux enjeux environnementaux.
+   En savoir plus
+
+   La RATP
+   c'est plus de
+   salariés !
+
+   Et si on devenait
+   tous bénévoles ?
+
+     * Contact
+     * Liens utiles
+     * Actualités
+     * Mentions légales
+     * www.ratp.fr
+
+     * La Fondation sur Twitter
+     * Le groupe RATP sur Twitter
+     * Le groupe RATP sur Facebook
+     * Le groupe RATP sur LinkedIn
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.Ok
+   #alternate alternate
+
+   Search for: ____________________ Search
+
+   Fondation Groupe RATP
+
+   (BUTTON) Main
+     * Who we are
+          + Le mot de la Présidente
+          + Les missions de la Fondation
+          + Organisation
+               o La gouvernance
+               o L’équipe de la Fondation
+     * What we do
+     * Territory-based projects
+          + Carte de France
+          + Projects per program
+     * Employees’ commitment
+          + Les Mentors
+     * Media & toolbox
+          + Media
+          + Press review
+               o Foundation at glance
+               o Press kit & release
+          + Toolbox
+               o Communication kit
+               o Want to volunteer?
+
+programme for intellectually disabled
+in Seoul, South Korea
+
+Educational programme in Johannesburg, South Africa
+
+Educational & cultural programme
+in Washington D.C., USA
+
+Day care center for young girls
+in Mumbay, India
+
+Latest news
+
+     *
+
+Some news from the Burundi project
+     *
+
+Enhancing social realm volunteers at the Louvre museum
+     *
+
+Tramway Eyes – UK traduction
+
+   TOUTES LES ACTUALITÉS
+
+EMPLOI
+
+   La Fondation accompagne tous les profils et tous les parcours, en ayant
+   à coeur de développer mixité et égalité professionnelle.
+   En savoir plus
+
+ÉDUCATION
+
+   La Fondation favorise la réussite des jeunes en difficulté, quels que
+   soient leur origine ou leur parcours.
+   En savoir plus
+
+CULTURE
+
+   La Fondation combat l’isolement ou les freins des personnes
+   défavorisées, et leur redonne le goût de la découverte.
+   En savoir plus
+
+TRANSITION
+ÉCOLOGIQUE
+
+   La Fondation encourage à renouveler les façons de consommer, produire,
+   travailler et vivre ensemble pour répondre aux enjeux environnementaux.
+   En savoir plus
+
+   La RATP
+   c'est plus de
+   salariés !
+
+   Et si on devenait
+   tous bénévoles ?
+
+     * Contact
+     * Links
+     * Site map
+     * Search
+     * Mentions légales
+     * www.ratp.fr
+
+     * Subscribe
+     * Group RATP on Twitter
+     * Group RATP on Facebook
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.Ok

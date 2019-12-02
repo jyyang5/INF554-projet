@@ -1,0 +1,341 @@
+   #AFSCM.org - Guide d'achat dédié au Terminal de paiement (TPE) » Flux
+   AFSCM.org - Guide d'achat dédié au Terminal de paiement (TPE) » Flux
+   des commentaires AFSCM.org - Guide d'achat dédié au Terminal de
+   paiement (TPE) » Flux de résultats de la recherche pour
+   "{search_term_string}"
+
+   img
+
+     * Comparatif terminal de paiement mobile
+     * Avis par marques
+          + iZettle avis
+          + SumUp avis
+          + Smile and Pay avis
+          + Mypos avis
+     * Liens utiles
+          + Comment choisir ?
+          + Conseils
+     * Qui sommes-nous ?
+
+   {search_term_string} (BUTTON)
+
+Search: {search_term_string}
+
+   HomeSearch: {search_term_string}
+   AFSCM.org - Guide d'achat dédié au Terminal de paiement (TPE)Vous
+   cherchez des informations sur le terminal de paiement (TPE) ? Ce
+   portail spécialisé vous aide à choisir le bon modèle gratuitement.
+
+     * Comparatif terminal de paiement mobile
+     * Avis par marques
+          + iZettle avis
+          + SumUp avis
+          + Smile and Pay avis
+          + Mypos avis
+     * Liens utiles
+          + Comment choisir ?
+          + Conseils
+     * Qui sommes-nous ?
+
+   {search_term_string} (BUTTON)
+
+No results
+
+We're sorry, but your search "{search_term_string}" did not match
+
+   Can't find what you need? Take a moment and do a search below or start
+   from our homepage.
+   {search_term_string} (BUTTON)
+
+   afscm.org © 2019 - L'expérience du paiement en France - Mentions
+   legales - CGU - Contact - Linkedin - Facebook - Twitter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.OkPolitique de confidentialité
+                     Index of /wp-includes/js/mediaelement
+
+     Name Last modified Size Description
+     __________________________________________________________________
+
+     Parent Directory   -
+     mediaelement-and-pla..> 2017-10-16 23:37 257K
+     mediaelement-and-pla..> 2017-10-16 23:37 153K
+     mediaelement-migrate.js 2017-10-16 23:37 2.8K
+     mediaelement-migrate..> 2017-10-18 07:56 1.2K
+     mediaelement.js 2017-10-16 23:37 118K
+     mediaelement.min.js 2017-10-16 23:37 66K
+     mediaelementplayer-l..> 2017-08-29 00:59 15K
+     mediaelementplayer-l..> 2017-08-29 00:59 11K
+     mediaelementplayer.css 2017-08-29 00:59 15K
+     mediaelementplayer.m..> 2017-08-29 00:59 11K
+     mejs-controls.png 2017-08-01 10:13 2.8K
+     mejs-controls.svg 2017-08-01 10:13 4.5K
+     renderers/ 2019-07-27 18:34 -
+     wp-mediaelement.css 2017-10-17 04:32 4.8K
+     wp-mediaelement.js 2018-01-24 07:21 2.3K
+     wp-mediaelement.min.css 2018-12-11 21:43 4.1K
+     wp-mediaelement.min.js 2018-01-24 07:21 914
+     wp-playlist.js 2018-01-30 05:26 5.2K
+     wp-playlist.min.js 2018-01-30 05:26 3.4K
+     __________________________________________________________________
+                     Index of /wp-includes/js/mediaelement
+
+     Name Last modified Size Description
+     __________________________________________________________________
+
+     Parent Directory   -
+     mediaelement-and-pla..> 2017-10-16 23:37 257K
+     mediaelement-and-pla..> 2017-10-16 23:37 153K
+     mediaelement-migrate.js 2017-10-16 23:37 2.8K
+     mediaelement-migrate..> 2017-10-18 07:56 1.2K
+     mediaelement.js 2017-10-16 23:37 118K
+     mediaelement.min.js 2017-10-16 23:37 66K
+     mediaelementplayer-l..> 2017-08-29 00:59 15K
+     mediaelementplayer-l..> 2017-08-29 00:59 11K
+     mediaelementplayer.css 2017-08-29 00:59 15K
+     mediaelementplayer.m..> 2017-08-29 00:59 11K
+     mejs-controls.png 2017-08-01 10:13 2.8K
+     mejs-controls.svg 2017-08-01 10:13 4.5K
+     renderers/ 2019-07-27 18:34 -
+     wp-mediaelement.css 2017-10-17 04:32 4.8K
+     wp-mediaelement.js 2018-01-24 07:21 2.3K
+     wp-mediaelement.min.css 2018-12-11 21:43 4.1K
+     wp-mediaelement.min.js 2018-01-24 07:21 914
+     wp-playlist.js 2018-01-30 05:26 5.2K
+     wp-playlist.min.js 2018-01-30 05:26 3.4K
+     __________________________________________________________________
+   #prev next AFSCM.org - Guide d'achat dédié au Terminal de paiement
+   (TPE) » Flux AFSCM.org - Guide d'achat dédié au Terminal de paiement
+   (TPE) » Flux des commentaires
+
+   img
+
+     * Comparatif terminal de paiement mobile
+     * Avis par marques
+          + iZettle avis
+          + SumUp avis
+          + Smile and Pay avis
+          + Mypos avis
+     * Liens utiles
+          + Comment choisir ?
+          + Conseils
+     * Qui sommes-nous ?
+
+   ____________________ (BUTTON)
+   AFSCM.org - Guide d'achat dédié au Terminal de paiement (TPE)Vous
+   cherchez des informations sur le terminal de paiement (TPE) ? Ce
+   portail spécialisé vous aide à choisir le bon modèle gratuitement.
+
+     * Comparatif terminal de paiement mobile
+     * Avis par marques
+          + iZettle avis
+          + SumUp avis
+          + Smile and Pay avis
+          + Mypos avis
+     * Liens utiles
+          + Comment choisir ?
+          + Conseils
+     * Qui sommes-nous ?
+
+   ____________________ (BUTTON)
+
+   Quelle est la différence entre un terminal de point de vente (TPV) et
+   un terminal de paiement électronique (TPE) ?
+
+Quelle est la différence entre un terminal de point de vente (TPV) et un
+terminal de paiement électronique (TPE) ?
+
+   Actualité septembre 2, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   Le Terminal de Point de Vente est souvent présent dans la presse sous
+   son acronyme : TPV. Le Terminal de Paiement Électronique est
+   vulgairement appelé TPE ou « Terminal de Paiement ». Ce sont deux
+   systèmes différents. Néanmoins, ils sont complémentaires dans certains
+   cas. Sur ce site Internet, nous avons testé quatre marques différentes
+   que sont SumUp, iZettle, myPOS et Smile and…
+
+   Read more
+
+   Mon terminal de paiement électronique m’affiche « alert irruption » que
+   faire ?
+
+Mon terminal de paiement électronique m’affiche « alert irruption » que faire
+?
+
+   Actualité septembre 2, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   Les terminaux de paiement électroniques sont des objets de la
+   technologie. Ils peuvent rencontrer des problèmes plus ou moins
+   importants. Ces erreurs sont symbolisées par des messages et des codes.
+   Pour comprendre ce qu’il se passe, nous allons en lister quelques-uns
+   et vous indiquer la démarche à suivre. Alert Irruption C’est un
+   problème à ne pas prendre à la légère.…
+
+   Read more
+
+   Meilleur terminal de paiement mobile : Comparatif TPE 2019
+
+Meilleur terminal de paiement mobile : Comparatif TPE 2019
+
+   Actualité septembre 2, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   Depuis quelques années, on voit émerger un nouveau type de terminal de
+   paiement mobile sur le marché. Ce sont des appareils compacts, simples,
+   pas chers et bien performants. Ils regorgent d’avantages et sont
+   parfaits pour les microentrepreneurs ainsi que les petites boutiques
+   physiques. L’objectif de ce lecteur de cartes bancaires est de pouvoir
+   encaisser de l’argent facilement et simplement. Seulement,…
+
+   Read more
+
+   Les différents modèles de TPE (fixe, mobile, santé, portable, Pinpad,
+   Virtuel)
+
+Les différents modèles de TPE (fixe, mobile, santé, portable, Pinpad,
+Virtuel)
+
+   Actualité septembre 2, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   Les terminaux de paiement sont nombreux sur le marché. On va retrouver
+   plusieurs types de TPE. Il y a le TPE fixe, le TPE mobile, le TPE
+   santé, le TPE portable, le TPE Pinpad et le TPE virtuel. Chaque modèle
+   possède ses avantages et ses inconvénients. Ce sont des produits qui
+   sont là pour répondre à un besoin principal :…
+
+   Read more
+
+   Smile and Pay mon compte & connexion : Guide complet
+
+Smile and Pay mon compte & connexion : Guide complet
+
+   Actualité août 20, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   Smile and Pay est une solution utilisée par les commerçants pour
+   encaisser de l’argent. Contrairement à d’autres concurrentes comme
+   iZettle, SumUp et myPOS, Smile and Pay est une entreprise 100%
+   française. L’utilisation de ce boîtier n’est pas compliquée, le mode de
+   fonctionnement est simple. Les atouts de cette société sont multiples :
+   pas d’engagement, pas de frais mensuels, un tarif…
+
+   Read more
+
+   myPOS mon compte & connexion guide complet de démarrage
+
+myPOS mon compte & connexion guide complet de démarrage
+
+   Actualité août 20, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   myPOS est un service complet. Il permet aux commerçants d’encaisser de
+   l’argent, mais ce n’est pas tout. C’est aussi un compte bancaire
+   (obligatoire) qu’il faut avoir pour bénéficier du lecteur de cartes. Ce
+   service, dont le siège est basé à Londres, est très performant, mais il
+   ne s’adresse pas à tous les métiers. Il conviendra surtout aux
+   personnes qui vont…
+
+   Read more
+
+   iZettle mon compte & connexion : Guide complet de démarrage
+
+iZettle mon compte & connexion : Guide complet de démarrage
+
+   Actualité août 19, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   iZettle est un terminal de paiement qui appartient à la société Paypal.
+   Cet outil peut être complété par une caisse enregistreuse et des
+   accessoires divers pour le rendre plus complet et performant. iZettle
+   ne possède qu’un seul terminal de paiement qui peut être décliné en
+   deux couleurs : noir et blanc. Ce TPE est très efficace et répond à
+   plusieurs…
+
+   Read more
+
+   SumUp mon compte & connexion : Guide de démarrage complet
+
+SumUp mon compte & connexion : Guide de démarrage complet
+
+   Actualité août 19, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   SumUp est un outil bien pratique pour encaisser de l’argent très
+   facilement. Il s’agit d’un terminal de paiement qui s’achète à bas prix
+   (moins de 50€), qui ne possède pas d’engagement, qui s’utilise aisément
+   et peut convenir à plusieurs métiers. À l’heure actuelle, la grande
+   problématique est d’obtenir un terminal de paiement, par les banques,
+   qui sont soumises à diverses…
+
+   Read more
+
+   Comment activer mon terminal de paiement ?
+
+Comment activer mon terminal de paiement ?
+
+   Actualité août 13, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   L’activation du terminal de paiement n’est pas compliquée. Selon les
+   fabricants, il peut y avoir des variantes, mais les démarches restent
+   sensiblement les mêmes. Nous allons vous présenter les étapes à suivre
+   pour iZettle et SumUp. Activer le terminal de paiement iZettle Les
+   manipulations à réaliser pour activer iZettle ne sont pas complexes. En
+   très peu de temps, vous pourrez…
+
+   Read more
+
+   Existe t-il un terminal de paiement et carte vitale en même temps ?
+
+Existe t-il un terminal de paiement et carte vitale en même temps ?
+
+   Actualité août 13, 2019 Vincent Ricard
+   ShareTrx_addons_twitterTrx_addons_facebookGoogle+Trx_addons_tumblrE-mai
+   l
+
+   Les professionnels de la santé sont à la recherche d’une solution
+   efficace et performante pour gérer les prestations médicales.
+   Rappelez-vous, pendant un temps, les médecins n’acceptaient que les
+   chèques ou l’espèce, plutôt que la carte bancaire. Ou alors, ils ne
+   proposaient que très peu de service à domicile, en raison d’impayés.
+   Désormais, cette époque est révolue. Les chèques sont en…
+
+   Read more
+   Newest posts Older posts
+
+   ____________________ (BUTTON)
+
+Nos derniers tests de terminal de paiement
+
+   Terminal de paiement SumUp avis
+   Terminal de paiement Mypos avis
+   Terminal de paiement iZettle avis
+   Terminal de paiement Smile and Pay avis
+
+Articles récents
+
+     * Terminal de paiement Smile and Pay avis
+     * Terminal de paiement iZettle avis
+     * Terminal de paiement Mypos avis
+     * Terminal de paiement SumUp avis
+     * Comparatif terminal de paiement 2019 : Comment choisir son TPE ?
+
+   afscm.org © 2019 - L'expérience du paiement en France - Mentions
+   legales - CGU - Contact - Linkedin - Facebook - Twitter
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.OkPolitique de confidentialité

@@ -1,0 +1,23 @@
+   [v2logo_white.gif]
+
+There has been an error of some kind. Ack!
+
+FeedBurner could not deliver this feed to you because of the specific problem
+listed below:
+
+   Feed Address:
+
+   HTTP Error (Code) and Message: (404) Feed not found error: FeedBurner
+   cannot locate this feed URI.
+
+What can I do about this?
+
+    1. If you are a potential or current subscriber, contact the publisher
+       to notify them that their feed content is not available. This may
+       be temporary problem that requires their intervention to resolve,
+       or the publisher may have permanently removed the feed from
+       FeedBurner.
+    2. If you are the publisher of this feed, sign into FeedBurner and
+       visit your feed's “Troubleshootize” tab to view FeedMedic, our
+       automated diagnostic report for your feed. A cause for the problem,
+       and tips for troubleshooting it, may be found there.

@@ -1,0 +1,2887 @@
+   #alternate alternate alternate alternate alternate
+
+   ____________________ 検索
+   キャンセル
+
+Search History
+
+ブックマーク
+
+   Please log in  to show your saved searches.
+   保護機能付きHブリッジ･モータドライバ VIPower® 保護機能付きHブリッジ･モータドライバ VIPower®
+
+車載シート･アジャスト機能に先進性を。
+
+   保護機能付きHブリッジ･モータドライバ VIPower®
+
+   保護機能付きHブリッジ･モータドライバ VIPower®
+   詳細情報
+   STM32G4マイコン搭載 デジタル電源 / モータ制御用リファレンス設計 STM32G4マイコン搭載 デジタル電源 /
+   モータ制御用リファレンス設計
+
+STM32G4マイコン搭載 デジタル電源 / モータ制御用リファレンス設計
+
+   詳細情報
+   もっと高効率に。 MDmesh™パワーMOSFET もっと高効率に。 MDmesh™パワーMOSFET
+
+もっと高効率に。 MDmesh™パワーMOSFET
+
+   誕生20周年、累積出荷数が50億個を突破
+
+   誕生20周年 累積出荷数50億個突破
+   詳細情報
+   低THD & 高力率LEDドライバ HVLED007 低THD & 高力率LEDドライバ HVLED007
+
+低THD & 高力率LEDドライバ HVLED007
+
+   入力電流シェーパ内蔵LEDドライバが、照明システムの低THD（全高調波歪み）と高力率を可能に
+
+   照明システムの低THD（全高調波歪み）と高力率を可能に
+   詳細情報
+   ST製品 & ソリューション 最新技術を駆使したSTの広範な半導体製品はさまざまなアプリケーションに応用されています。 ST製品 &
+   ソリューション
+   オンライン設計 eDesignSuiteにより、アプリケーションに最適な製品やソリューションを簡単に検索できます。 オンライン設計
+   ツール & ソフトウェア STのツールとソフトウェアは、開発期間の短縮や開発コストの低減に貢献します。 ツール & ソフトウェア
+   コミュニティ & トレーニング STコミュニティへの参加、トレーニング資料の閲覧やビデオの視聴ができます。 コミュニティ & トレーニング
+
+STについて
+
+   マイクロエレクトロニクス技術が人々の暮らしに役立つあらゆるシーンにおいて、STは活躍しています。STは、生活をより豊かにする技術革新を通じ、「
+   life.augmented」の実現に取り組んでいます。
+
+   46,000
+
+   従業員数
+
+   100,000+
+
+   取引顧客数
+
+   7,400
+
+   R&D & 設計技術者数
+   会社概要
+
+製品
+
+   業界で最も広範な技術ポートフォリオを擁するSTの半導体製品は、さまざまな革新的エレクトロニクス・システムに使用されています。
+   製品情報
+
+アプリケーション
+
+   STはあらゆるエレクトロニクス・システムの技術革新を推進する半導体技術を提供します。
+   アプリケーション
+
+eDesignSuite
+
+   eDesignSuiteは、アプリケーションの要件に最適なST製品を使ったソリューションを提案する包括的で使いやすいソフトウェア･ツールです。
+
+eDesignSuite
+
+   eDesignSuiteは、アプリケーションの要件に最適なST製品を使ったソリューションを提案する包括的で使いやすいソフトウェア･ツールです。
+   続きを読む
+   eDesignSuiteは、アプリケーションの要件に最適なST製品を使ったソリューションを提案する包括的で使いやすいソフトウェア･ツールです。
+     * コンバータ
+     * 太陽電池
+     * フィルタ
+     * ダイオード
+     * LEDドライバ
+     * バッテリ･チャージャ
+     * アンテナ設計
+     * ESDプロテクション
+
+   コンバータ
+   (*) DC/DC ( ) AC/DC
+
+   Input
+
+   [プリセット電圧��ット電圧]
+   (*) 50 Hz ( ) 60 Hz
+   Volt. Min ____________________ V This option is required. And must be
+   less than or equal to Volt. Max [V]
+   Volt. Max ____________________ V This option is required. And must be
+   greater than or equal to Volt. Min [V]
+
+   Output Power
+
+   Voltage ____________________ V This option is required and must be a
+   number.
+   Current ____________________ A This option is required and must be a
+   number.
+
+   (設計開始) 設計開始
+   Voltage ____________________ V This option is required and must be a
+   number.
+   Current ____________________ A This option is required and must be a
+   number.
+
+   太陽電池充電器
+
+   入力パネル
+
+   Vmp ____________________ V This option is required. And must be less
+   than or equal to Voc [V]
+   Voc ____________________ V This option is required. And must be greater
+   than or equal to Vmp [V]
+   Imp ____________________ A This option is required. And must be less
+   than or equal to Isc [A]
+   Isc ____________________ A This option is required. And must be greater
+   than or equal to Imp [A]
+
+   出力バッテリ
+
+   Voltage ____________________ V This option is required.
+   Current ____________________ A This option is required.
+
+   (設計開始) 設計開始
+   Voltage ____________________ V This option is required and must be a
+   number.
+   Current ____________________ A This option is required and must be a
+   number.
+
+   アクティブ･アナログ･フィルタ
+   (*) Low Pass ( ) High Pass ( ) Band Pass
+
+   Cutoff Freq (Fc) ____________________ Hz This option is required.
+   Gain (G0) ____________________ V/V Please input a number from 1 to
+   1000.
+   Bandwidth (BW) ____________________ Hz This option is required.
+
+   (設計開始) 設計開始
+   Voltage ____________________ V This option is required and must be a
+   number.
+   Current ____________________ A This option is required and must be a
+   number.
+
+   ダイオード（パワー･ショットキー & FERD）スマート･セレクタ
+
+   [設計開始]
+   (設計開始) 設計開始
+
+   LEDドライバ
+   (*) DC/DC ( ) AC/DC
+
+   Input
+
+   [プリセット電圧��ット電圧]
+   (*) 50 Hz ( ) 60 Hz
+   Volt. Min ____________________ V This option is required. And must be
+   less than or equal to Volt. Max [V]
+   Volt. Max ____________________ V This option is required. And must be
+   greater than or equal to Volt. Min [V]
+
+   カスタムLED
+
+   VF ____________________ V This option is required.
+   IF ____________________ A This option is required.
+   Rd ____________________ Ω This option is required.
+
+   LEDs
+
+   in the string 1___________________ This option is required. And must be
+   a whole positive number between 1 and 20.
+   number of strings 1___________________ This option is required. And
+   must be a whole positive number between 1 and 20.
+
+   (設計開始) 設計開始
+
+   バッテリ･チャージャ
+
+   Input
+
+   [プリセット電圧��ット電圧]
+   (*) 50 Hz ( ) 60 Hz
+   Volt. Min ____________________ V This option is required. And must be
+   less than or equal to Volt. Max [V]
+   Volt. Max ____________________ V This option is required. And must be
+   greater than or equal to Volt. Min [V]
+
+   Output Power
+
+   Voltage ____________________ V This option is required and must be a
+   number.
+   Current ____________________ A This option is required and must be a
+   number.
+
+   (設計開始) 設計開始
+   Voltage ____________________ V This option is required and must be a
+   number.
+   Current ____________________ A This option is required and must be a
+   number.
+
+   アンテナ設計
+
+   Length ____________________ mm This option is required.
+   幅 ____________________ mm This option is required.
+
+   (設計開始) 設計開始
+
+   TVSスマート･セレクタ
+
+   (設計開始) 設計開始
+
+ソフトウェア･ツール
+
+   STとパートナー各社は、開発者をサポートするため、多様なソフトウェア･ツールで構築される包括的なエコシステムを提供しています。これには、マイク
+   ロコントローラ･ファミリ（STM32、STM8、SPC5）用のツールに加え、オーディオIC、デジタル電力変換、モータ制御などのツール、および多
+   数のシミュレータが含まれています。これらのツールは、st.comからの無料ダウンロード、またはパートナーを通じて入手可能です。
+
+   詳細情報
+
+評価ツール
+
+   STは、製品とソリューションの包括的な評価を可能にするさまざまな評価ボードを提供しています。これらの評価ボードは、選択した製品やアプリケーショ
+   ンの設計に最適化されたシステム･ソリューションの機能や性能の評価に役立ちます。ボードの多くは、ハードウェア設計を簡略化するための回路図、部品リ
+   スト、およびGerberファイルが公開されており、必要に応じてデモンストレーション･ソフトウェア･パッケージが利用可能です。
+
+   詳細情報
+
+組込みソフトウェア
+
+   STとパートナー各社は、ST製品を使用する開発者をサポートするための幅広い組込みソフトウェアを提供しています。st.comからの無料ダウンロー
+   ドや、パートナー各社のウェブサイトで入手可能です。マイクロコントローラ用（STM32、STM8、SPC5など）の組込みソフトウェアに加え、NF
+   C /
+   RFIDソリューション（ST25）、MEMSとセンサ、モータ制御、オーディオ、およびセキュア･マイコンなどの評価･開発キット向けソフトウェアも
+   提供しています。
+
+   詳細情報
+
+ハードウェア開発ツール
+
+   STのプログラマブル製品は、デバッグ &
+   プログラミング･ツールによってサポートされています。このツールには、エミュレータと低コストのインサーキット･デバッガ/プログラマが含まれていま
+   す。すべてのツールは、無料の統合開発環境およびCコンパイラに対応しています。またパートナー各社も、統合開発環境とJTAGアプリケーション･イン
+   タフェースを備えたイン･サーキット･デバッガ/プログラマを完備したソリューションを提供しています。
+
+   詳細情報
+
+コミュニティ
+
+   STコミュニティでは、技術的な質問や、専門家とのディスカッション、あなたが現在取り組んでいることの共有などができます。
+
+   詳細情報
+
+ビデオ
+
+   製品ファミリの紹介、入門用から詳細な手法解説まで、ST製品の理解と利用に役立つビデオおよびeプレゼンテーションをご覧いただけます。
+
+   ビデオ･センター
+
+ラーニング
+
+   ST製品とその使用方法について詳しく学習することができます。STは、セミナーやトレーニング･コースに加え、ST製品を解説するビデオやeプレゼン
+   テーションも提供しています。
+
+   詳細情報
+
+ST Wiki
+
+   ST wikiでは、開発者がSTの製品やソリューションに関する情報をシェアすることができます。
+
+   詳細情報
+
+ハイライト情報
+
+   サージから回路を保護する超薄型TVSダイオード
+   現行品よりも55%薄いSMA Flatパッケージに封止されたTVSシリーズが、175℃の高温環境下で最大600Wのサージに対応します。
+   続きを読む
+   CANトランシーバICをESDから保護
+   SOT323-3Lに封止されたデュアルラインTVSが、12V / 24V系車載システムのCANバス / CAN-FD /
+   FlexRayインタフェースをESDから保護します。
+   続きを読む
+   中耐圧入力 300mA LDOレギュレータ
+   超低暗電流 5uAのLDOレギュレータであるST730は、入力電圧が高く、常時電源接続またはバッテリ駆動のシステムに最適です。
+   続きを読む
+   二輪車エンジン用リファレンス設計
+   よりスマートに二輪車のエンジンを制御するためのソフトウェア･ライブラリやデモ機能を含む、二輪車エンジン用リファレンス設計です。
+   続きを読む
+   コンパクトな開発ツール「STLINK-V3MINI」
+   STLINK-V3MINIは、STM32マイコンのソフトウェア開発、およびFlashメモリのプログラミング用の、コンパクトで使いやすい開発ツー
+   ルです。
+   続きを読む
+   パワー･マネージメント ソリューション･ガイド
+   パワー･マネージメント･システムの設計に最適な幅広い製品、開発ツールおよびリファレンス設計などを紹介する最新のソリューション･ガイドです。
+   続きを読む
+   ADAS向け先進ソリューション ADAS向け先進ソリューション
+
+ADAS向け先進ソリューション
+
+   次世代ADASシステムの設計に役立つ先進的な製品･開発リソース
+
+   次世代ADASシステムの設計に役立つ 先進的な製品･開発リソース
+   詳細情報
+   NFCでサプライ･チェーンに革新を NFCでサプライ･チェーンに革新を
+
+NFCでサプライ･チェーンに革新を
+
+   セキュアで効率的なエンド・ツー・エンド実現に向けたホワイト･ペーパー
+
+   セキュアで効率的なエンド・ツー・エンド実現に向けたホワイト･ペーパー
+   詳細情報
+
+イベント & 技術セミナー
+
+   APS SUMMIT 2019 SEP
+
+   27 Sep - 27 Sep, 2019 | 横浜, 日本
+
+   詳細情報
+
+   STM32マイコン体験セミナー（導入編）
+
+   18 Oct - 19 Oct, 2019 | 東京, 日本
+
+   詳細情報
+
+   【大阪開催】STM32マイコン体験セミナー （導入編）
+
+   25 Oct - 25 Oct, 2019 | 大阪, 日本
+
+   詳細情報
+
+   STM32マイコン体験セミナー（RTOS編）
+
+   05 Nov - 05 Nov, 2019 | 東京, 日本
+
+   詳細情報
+
+   STM32マイコン体験セミナー（導入編）
+
+   18 Dec - 18 Dec, 2019 | 東京, 日本
+
+   詳細情報
+   全イベント
+
+ST 最新情報
+
+   Sep 24, 2019
+   STMicroelectronics to Reveal its Latest Products and Solutions at
+   electronica India and SmartCards Expo
+   STMicroelectronics (NYSE: STM ), a global semiconductor leader serving
+   customers across the spectrum of electronics applications, announced
+   that it will exhibit at electronica India and SmartCards Expo, both
+   scheduled to take place from Sep 25 to 27, 2019 at the India Exposition
+   Mart in Greater Noida, India.
+   続きを読む
+   A Nano-Quiescent Step-Down Converter With the Lowest Output in the
+   Industry
+   May 13, 2019
+   A Nano-Quiescent Step-Down Converter With the Lowest Output in the
+   Industry
+   続きを読む
+   Sep 23, 2019
+   STMicroelectronics Announces Status of Common Share Repurchase Program
+   STMicroelectronics N.V. (the “Company” or “STMicroelectronics”), a
+   global semiconductor leader serving customers across the spectrum of
+   electronics applications, announces full details of its common share
+   repurchase progra(the “Program”) disclosed via a press release dated
+   November 5, 2018. The Program was approved by a shareholder resolution
+   dated May 31, 2018 and by the supervisory board.
+   続きを読む
+   STM32CubeIDE: The First Free ST IDE with STM32CubeMX Built-in
+   May 08, 2019
+   STM32CubeIDE: The First Free ST IDE with STM32CubeMX Built-in
+   続きを読む
+   STMicroelectronics Brings 32-Bit-MCU Possibilities to Simple
+   Applications with First 8-Pin STM32 Microcontrollers
+   Sep 19, 2019
+   STMicroelectronics Brings 32-Bit-MCU Possibilities to Simple
+   Applications with First 8-Pin STM32 Microcontrollers
+   STM32 microcontrollers (MCU) from STMicroelectronics are now available
+   in an 8-pin package, enabling simple embedded projects to leverage
+   32-bit performance and flexibility in a compact and cost-effective
+   outline.
+   続きを読む
+   SensorTile in a Box: More Powerful Sensors and Three User Modes
+   May 07, 2019
+   SensorTile in a Box: More Powerful Sensors and Three User Modes
+   続きを読む
+   STマイクロエレクトロニクス、省電力照明向けに歪み除去機能付き高電圧AC/DC LEDドライバを発表
+   Sep 16, 2019
+   STマイクロエレクトロニクス、省電力照明向けに歪み除去機能付き高電圧AC/DC LEDドライバを発表
+   STマイクロエレクトロニクス（NYSE：STM、以下ST）は、新しい歪み除去技術による入力電流整形（ICS）回路を搭載した高電圧AC/DC
+   LEDドライバである、HVLED007を発表しました。同製品は、ますます厳しくなる照明関連の規制に準拠する省電力のソリッド・ステート照明の開発
+   に役立ちます。
+   続きを読む
+   Do You Speak NFC? New Online Courses to Design for Readers and Tags
+   May 02, 2019
+   Do You Speak NFC? New Online Courses to Design for Readers and Tags
+   続きを読む
+   STマイクロエレクトロニクス、STM32G4マイコンを使用したデジタル電源とモータ制御の開発を支援する新しい開発キットおよびファームウェアを発
+   表
+   Sep 11, 2019
+   STマイクロエレクトロニクス、STM32G4マイコンを使用したデジタル電源とモータ制御の開発を支援する新しい開発キットおよびファームウェアを発
+   表
+   STマイクロエレクトロニクス（NYSE：STM、以下ST）は、STM32G4マイクロコントローラ（マイコン）
+   のサポートを拡充し、デジタル電源およびモータ制御用の開発キットを提供するとともに、最新のSTM32CubeG4ソフトウェア・パッケージ （v
+   1.1.0）に新しいファームウェア・サンプルを追加することを発表しました。
+   これらは、レース用ドローン、プロシューマ・ドローン、サーバなどに向けたデジタル電源およびモータ制御の開発に活用されます。
+   続きを読む
+   2-in-1, ST’s First Accelerometer with Built-In Absolute Thermometer
+   Apr 23, 2019
+   2-in-1, ST’s First Accelerometer with Built-In Absolute Thermometer
+   続きを読む
+   ニュース・センター ブログ
+
+     * 製品
+     * EMIフィルタ & シグナル･コンディション
+          + 製品
+          + Browse all EMIフィルタ & シグナル･コンディション
+          + EMIフィルタリング＆ESDプロテクション
+               o EMIフィルタ & シグナル･コンディション
+               o Browse all EMIフィルタリング＆ESDプロテクション
+               o ECMFシリーズ（IPAD）
+               o HDMIシリーズ (IPAD)
+               o USBインタフェース向けIPAD
+               o オーディオ＆ビデオ機能向けIPAD
+               o コンピュータ＆コンスーマ機器インタフェース向けIPAD
+               o ディスプレイ＆カメラ＆キーパッド向けIPAD
+               o メモリ＆SIMカード向けIPAD
+               o 標準マルチライン･バスIPAD
+          + RFフロント･エンド向けIPD
+               o EMIフィルタ & シグナル･コンディション
+               o Browse all RFフロント･エンド向けIPD
+               o RFフィルタ
+               o カプラ
+               o ダイプレクサ
+               o バラン
+          + アンテナ･チューナ
+               o EMIフィルタ & シグナル･コンディション
+               o Browse all アンテナ･チューナ
+               o RFフロントエンド & SPIコントロールIC
+               o RF用チューナブル・キャパシタ
+     * MEMS & センサ
+          + 製品
+          + Browse all MEMS & センサ
+          + MEMSマイク
+          + T-Plus
+          + iNEMO慣性モジュール
+          + ジャイロ･センサ（角速度センサ）
+          + 加速度センサ
+          + 大気圧センサ
+          + 温度センサ
+          + 測距センサ
+          + 湿度センサ
+          + 車載用MEMSセンサ
+          + 電子コンパス
+     * NFC
+          + 製品
+          + Browse all NFC
+          + ST25 NFC/RFID タグ＆リーダ
+               o NFC
+               o Browse all ST25 NFC/RFID タグ＆リーダ
+               o ST25 NFC/RFIDタグ
+                    # ST25 NFC/RFID タグ＆リーダ
+                    # Browse all ST25 NFC/RFIDタグ
+                    # ST25TAシリーズNFCタグ
+                    # ST25TBシリーズNFCタグ
+                    # ST25TVシリーズNFCタグ
+               o ST25 NFC/RFIDリーダライタ
+               o ST25 ダイナミックNFCタグ
+                    # ST25 NFC/RFID タグ＆リーダ
+                    # Browse all ST25 ダイナミックNFCタグ
+                    # M24LRシリーズ･ダイナミックNFCタグ
+                    # M24SRシリーズ･ダイナミックNFCタグ
+                    # ST25DV-PWMシリーズ・ダイナミックNFCタグ
+                    # ST25DVシリーズ･ダイナミックNFCタグ
+     * SiCデバイス
+          + 製品
+          + Browse all SiCデバイス
+          + SiCダイオード
+          + SiCパワーMOSFET
+     * イメージング & フォトニクス･ソリューション
+          + 製品
+          + Browse all イメージング & フォトニクス･ソリューション
+          + CMOSイメージング･センサ
+          + CMOSフォトニクス・センサ
+          + Proximity Sensors
+          + イメージング･プロセッサ
+     * インタフェース & コネクティビティIC
+          + 製品
+          + Browse all インタフェース & コネクティビティIC
+          + I/Oエクスパンダ ＆ レベル･トランスレータ
+               o インタフェース & コネクティビティIC
+               o Browse all I/Oエクスパンダ ＆ レベル･トランスレータ
+               o I/Oエクスパンダ
+               o レベル･トランスレータ
+          + RS-232
+          + RS-422/423＆RE-485
+          + USB
+               o インタフェース & コネクティビティIC
+               o Browse all USB
+               o USB Transceivers
+               o USB Type-C＆Power Delivery
+               o USBチャージング・コントローラ
+          + スマートカード･インタフェース
+          + ダーリントン･アレイ
+          + 電力線トランシーバ
+     * オペアンプ & コンパレータ
+          + 製品
+          + Browse all オペアンプ & コンパレータ
+          + オペアンプ
+               o オペアンプ & コンパレータ
+               o Browse all オペアンプ
+               o 標準オペアンプ
+                    # オペアンプ
+                    # Browse all 標準オペアンプ
+                    # 高性能標準オペアンプ
+               o 車載用オペアンプ
+               o 高精度オペアンプ (<50MHz)
+                    # オペアンプ
+                    # Browse all 高精度オペアンプ (<50MHz)
+                    # レール･ツー･レール･オペアンプ
+                    # 低オフセット電圧オペアンプ(<1mV)
+                    # 低入力バイアス電流オペアンプ
+                    # 低消費電力オペアンプ(<1mA)
+                    # 高電圧オペアンプ(10V～36V)
+               o 高速オペアンプ(>50MHz)
+          + コンパレータ
+               o オペアンプ & コンパレータ
+               o Browse all コンパレータ
+               o 低消費電力コンパレータ
+               o 標準コンパレータ
+                    # コンパレータ
+                    # Browse all 標準コンパレータ
+                    # 高性能標準コンパレータ
+               o 車載用コンパレータ
+               o 高速コンパレータ
+          + パワー･オペアンプ
+          + ビデオ･アンプ
+          + 電流センス･アンプ
+     * オーディオ用IC
+          + 製品
+          + Browse all オーディオ用IC
+          + MEMSマイク
+          + Sound Terminal™ デジタル･オーディオ･サブシステム
+          + オーディオ･アンプ
+               o オーディオ用IC
+               o Browse all オーディオ･アンプ
+               o AB級オーディオ･パワー･アンプ
+               o D級オーディオ･パワー･アンプ
+               o デジタル･オーディオ･パワーアンプ
+               o ヘッドフォン用アンプ
+                    # オーディオ･アンプ
+                    # Browse all ヘッドフォン用アンプ
+                    # G級アンプ
+                    # ヘッドフォン
+                    # 低消費電力オペアンプ
+          + オーディオ･プロセッサ
+               o オーディオ用IC
+               o Browse all オーディオ･プロセッサ
+               o アナログ･オーディオ･プロセッサ
+               o オーディオ･コーデック
+               o デジタル･オーディオ･プロセッサ＆ドライバ
+     * クロック & タイマ
+          + 製品
+          + Browse all クロック & タイマ
+          + タイマ
+          + リアル･タイム･クロック(RTC)
+               o クロック & タイマ
+               o Browse all リアル･タイム･クロック(RTC)
+               o RTC(シリアル･インターフェース)
+               o RTCパラレル・インターフェース(タイムキーパ)
+               o バッテリ＆クリスタル搭載タイムキーパ
+     * サイリスタ(SCR)＆ACスイッチ
+          + 製品
+          + Browse all サイリスタ(SCR)＆ACスイッチ
+          + ACスイッチ
+               o サイリスタ(SCR)＆ACスイッチ
+               o Browse all ACスイッチ
+               o ロジック・レベル・ゲートACSシリーズ
+               o 過渡電圧保護ACSTシリーズ
+          + Triac（トライアック）
+               o サイリスタ(SCR)＆ACスイッチ
+               o Browse all Triac（トライアック）
+               o DIAC（ダイアック）
+               o 標準/スナバレス･トライアック
+               o 自動電圧切替えスイッチ
+               o 高温対応トライアック
+                    # Triac（トライアック）
+                    # Browse all 高温対応トライアック
+                    # Hシリーズ・トライアック
+                    # Tシリーズ・トライアック
+          + アプリケーション専用サイリスタ
+               o サイリスタ(SCR)＆ACスイッチ
+               o Browse all アプリケーション専用サイリスタ
+               o アプリケーション専用サイリスタ
+          + サイリスタ（SCR）
+               o サイリスタ(SCR)＆ACスイッチ
+               o Browse all サイリスタ（SCR）
+               o ロジック･レベル･ゲート･サイリスタ（SCR）
+               o 標準サイリスタ（SCR）
+               o 高温度対応サイリスタ（SCR）
+     * スイッチ & マルチプレクサ
+          + 製品
+          + Browse all スイッチ & マルチプレクサ
+          + USBチャージ・コントローラ内蔵パワー･スイッチ
+          + アナログ･スイッチ / マルチプレクサ
+          + データ/シグナル･スイッチ
+          + パワー･スイッチ/ハイサイド･スイッチ
+          + 高電圧 / 高速超音波パルサーIC
+     * セキュア･マイクロコントローラ
+          + 製品
+          + Browse all セキュア･マイクロコントローラ
+          + SIM & eSIM
+          + セキュアNFCソリューション
+          + セキュア･ウェアラブル･ソリューション
+          + セキュア･ハードウェア･プラットフォーム
+               o セキュア･マイクロコントローラ
+               o Browse all セキュア･ハードウェア･プラットフォーム
+               o ST23
+               o ST31 Arm SC000
+               o ST32 Armコア
+               o ST33 Arm SC300
+          + 認証 & セキュアIoT向けセキュア･マイコン
+               o セキュア･マイクロコントローラ
+               o Browse all 認証 & セキュアIoT向けセキュア･マイコン
+               o IoTセキュア･ソリューション
+               o 組込みセキュリティ･コンピューティング･ソリューション
+          + 車載セキュリティ向けセキュア･マイコン
+          + 銀行向けセキュア･マイコン
+     * タッチ & ディスプレイ･コントローラ
+          + 製品
+          + Browse all タッチ & ディスプレイ･コントローラ
+          + Display Controllers
+          + タッチスクリーン･コントローラ
+     * ダイオード
+          + 製品
+          + Browse all ダイオード
+          + ショットキー･バリア･ダイオード
+               o ダイオード
+               o Browse all ショットキー･バリア･ダイオード
+               o シグナル･ショットキー･ダイオード
+               o パワー･ショットキー･ダイオード
+                    # ショットキー･バリア･ダイオード
+                    # Browse all パワー･ショットキー･ダイオード
+                    # 中VF＆IRパワー・ショットキー
+                    # 低VFパワー・ショットキー
+                    # 高温パワーショットキー
+          + シリコン･カーバイド･ダイオード
+          + ブリッジ整流ダイオード
+          + 超高速整流ダイオード
+               o ダイオード
+               o Browse all 超高速整流ダイオード
+               o 200V～400V超高速整流ダイオード
+                    # 超高速整流ダイオード
+                    # Browse all 200V～400V超高速整流ダイオード
+                    # 超高速 - low QRR (200V - 400V)
+                    # 超高速 Low VF (200V - 400V)
+                    # 超高速 Medium VF and QRR (200V - 400V)
+               o 600V超高速整流ダイオード
+                    # 超高速整流ダイオード
+                    # Browse all 600V超高速整流ダイオード
+                    # 超高速 - low QRR (600V)
+                    # 超高速 Low VF (600V)
+                    # 超高速 Medium VF and QRR (600V)
+                    # 超高速タンデム
+               o 800V～1200V超高速整流ダイオード
+          + 車載用ダイオード
+               o ダイオード
+               o Browse all 車載用ダイオード
+               o 車載用ショットキー･ダイオード
+               o 車載用シリコン・カーバイド・ダイオード
+               o 車載用ブリッジ整流ダイオード
+               o 車載用超高速ダイオード
+          + 電界効果整流ダイオード
+     * デジタルSTB用IC
+          + 製品
+          + Browse all デジタルSTB用IC
+          + HD/SD STBプロセッサ
+          + UHD STBプロセッサ
+          + デモジュレータ＆チューナ
+               o デジタルSTB用IC
+               o Browse all デモジュレータ＆チューナ
+               o シリコン･チューナ
+               o 衛星放送デモジュレータ
+          + レガシー製品
+               o デジタルSTB用IC
+               o Browse all レガシー製品
+               o デジタルAV用スイッチ / バッファ
+               o レガシー・プロセッサ
+     * データ･コンバーター
+          + 製品
+          + Browse all データ･コンバーター
+          + AD-DAコンバータ
+          + 電力計測用IC
+     * パワー・トランジスタ
+          + 製品
+          + Browse all パワー・トランジスタ
+          + IGBT
+               o パワー・トランジスタ
+               o Browse all IGBT
+               o 1200V～1250V IGBT
+                    # IGBT
+                    # Browse all 1200V～1250V IGBT
+                    # 1200V Hシリーズ：高速(20～100kHz)
+                    # 1200V Mシリーズ：低損失(2～20kHz)
+                    # 1200V Sシリーズ：ロー・ドロップ(最大8kHz)
+                    # 1250V IHシリーズ：ソフト・スイッチング(20～60kHz)
+               o 300～400V IGBT
+               o 600～650V IGBT
+                    # IGBT
+                    # Browse all 600～650V IGBT
+                    # 600V Hシリーズ：中速度(8～30kHz)
+                    # 600V Vシリーズ：超高速(50～100kHz)
+                    # 650V HB2シリーズ：高速(16～60kHz)
+                    # 650V HBシリーズ：高速(16～60kHz)
+                    # 650V IHシリーズ：ソフト・スイッチング(20～60kHz)
+                    # 650V Mシリーズ：低損失(2～20kHz)
+               o ベアダイIGBT
+          + パワーMOSFET
+               o パワー・トランジスタ
+               o Browse all パワーMOSFET
+               o NチャネルMDmesh（350V～700V）
+                    # パワーMOSFET
+                    # Browse all NチャネルMDmesh（350V～700V）
+                    # MDmesh DM2シリーズ
+                    # MDmesh DM6シリーズ
+                    # MDmesh M2シリーズ
+                    # MDmesh M5シリーズ
+                    # MDmesh M6シリーズ
+               o NチャネルMDmesh（700V～）
+                    # パワーMOSFET
+                    # Browse all NチャネルMDmesh（700V～）
+                    # MDmesh DK5シリーズ
+                    # MDmesh K5シリーズ
+               o NチャネルSTripFET（12V～30V）
+                    # パワーMOSFET
+                    # Browse all NチャネルSTripFET（12V～30V）
+                    # STripFET H7シリーズ
+               o NチャネルSTripFET（30V～350V）
+                    # パワーMOSFET
+                    # Browse all NチャネルSTripFET（30V～350V）
+                    # STripFET F7シリーズ
+               o PチャネルSTripFET（-20V～500V）
+          + パワー･バイポーラ･トランジスタ
+               o パワー・トランジスタ
+               o Browse all パワー･バイポーラ･トランジスタ
+               o 1000V～2000Vパワー・バイポーラ・トランジスタ
+               o 500V～1000Vパワー・バイポーラ・トランジスタ
+               o ダーリントン
+               o 最大500Vパワー・バイポーラ・トランジスタ
+          + ワイドバンドギャップ･トランジスタ
+               o パワー・トランジスタ
+               o Browse all ワイドバンドギャップ･トランジスタ
+               o SiC MOSFET
+     * パワー･マネージメント
+          + 製品
+          + Browse all パワー･マネージメント
+          + AC-DCコンバータ
+               o パワー･マネージメント
+               o Browse all AC-DCコンバータ
+               o PFC(力率改善)コントローラ
+               o PWMコントローラ
+               o 共振 / 擬似共振コントローラ
+               o 同期整流コントローラ
+               o 電圧 / 電流コントローラ
+               o 高電圧コンバータ
+                    # AC-DCコンバータ
+                    # Browse all 高電圧コンバータ
+                    # Altair
+                    # VIPer
+                    # VIPerPlus
+          + DC-DCスイッチング・コンバータ
+               o パワー･マネージメント
+               o Browse all DC-DCスイッチング・コンバータ
+               o 48Vダイレクト変換コンバータ
+               o 単相スイッチングDC/DCコントローラ
+               o 多機能レギュレータ
+               o 多相スイッチングDC-DCコントローラ
+               o 昇圧レギュレータ
+               o 降圧レギュレータ
+               o 降圧･昇圧レギュレータ
+          + LEDドライバ
+               o パワー･マネージメント
+               o Browse all LEDドライバ
+               o LEDアレイ･ドライバ
+               o LEDマトリクス･ドライバ
+               o オフラインLEDドライバ
+                    # LEDドライバ
+                    # Browse all オフラインLEDドライバ
+                    # HVLED
+               o ブースト電流レギュレータ
+               o リニア電流レギュレータ
+               o 降圧電流レギュレータ
+               o 高効率LEDフラッシュ電源IC
+          + LNB用電源IC
+               o パワー･マネージメント
+               o Browse all LNB用電源IC
+               o スイッチングLNB用電源IC
+          + MOSFET & IGBT ゲート･ドライバ
+               o パワー･マネージメント
+               o Browse all MOSFET & IGBT ゲート･ドライバ
+               o シングルチャネル･ドライバ
+               o マルチチャネル・ドライバ
+               o 絶縁型ゲート・ドライバ
+               o 高電圧ハーフブリッジ・ドライバ
+          + インテリジェント･パワー・スイッチ
+               o パワー･マネージメント
+               o Browse all インテリジェント･パワー・スイッチ
+               o ハイサイド / ローサイド･スイッチ
+                    # インテリジェント･パワー・スイッチ
+                    # Browse all ハイサイド / ローサイド･スイッチ
+                    # IO-Linkトランシーバ
+               o ハイサイド･パワースイッチ
+               o ローサイド･パワースイッチ
+          + エナジー・ハーべスティング＆ソーラー・チャージャIC
+          + ディスプレイ･サプライ＆コントローラ
+               o パワー･マネージメント
+               o Browse all ディスプレイ･サプライ＆コントローラ
+               o LCD / OLEDディスプレイ用パワーマネージメントIC
+               o VFD / LEDフロント･パネル･コントローラ
+          + バッテリ･マネージメントIC
+               o パワー･マネージメント
+               o Browse all バッテリ･マネージメントIC
+               o バッテリ･モニタリング
+               o 充電器
+          + パワー･オーバー･イーサネット
+          + ホットスワップ･パワー・マネージメント
+               o パワー･マネージメント
+               o Browse all ホットスワップ･パワー・マネージメント
+               o Eヒューズ
+               o 電源ブレーカ＆その他ホットスワップIC
+          + ボルテージ・リファレンス
+          + リニア･ボルテージ・レギュレータ
+               o パワー･マネージメント
+               o Browse all リニア･ボルテージ・レギュレータ
+               o LDOリニア・レギュレータ
+                    # リニア･ボルテージ・レギュレータ
+                    # Browse all LDOリニア・レギュレータ
+                    # 低Iq LDO レギュレータ
+                    # 超低ドロップ・アウト（ULDO）レギュレータ
+                    # 高PSRR LDOレギュレータ
+               o スタンダード正電圧レギュレータ
+          + ワイヤレス・チャージャIC
+          + 太陽光発電用IC
+               o パワー･マネージメント
+               o Browse all 太陽光発電用IC
+               o MPPT内蔵DC-DCコンバータ
+          + 照明用IC
+               o パワー･マネージメント
+               o Browse all 照明用IC
+               o デジタル･バラスト･コントロール
+               o 蛍光ランプ用高耐圧ドライバ
+          + 高密度パワー・ドライバ
+     * パワー･モジュール
+          + 製品
+          + Browse all パワー･モジュール
+          + ACEPACK パワー・モジュール
+               o パワー･モジュール
+               o Browse all ACEPACK パワー・モジュール
+               o CIB
+               o Six Pack モジュール
+          + SLLIMMインテリジェント・パワー･モジュール
+               o パワー･モジュール
+               o Browse all SLLIMMインテリジェント・パワー･モジュール
+               o IGBTインテリジェント･モジュール(SLLIMM)
+                    # SLLIMMインテリジェント・パワー･モジュール
+                    # Browse all IGBTインテリジェント･モジュール(SLLIMM)
+                    # SLLIMM
+                    # SLLIMM 2nd series
+                    # SLLIMM nano
+                    # SLLIMM nano 2nd series
+                    # SLLIMM nano SMD
+     * プロテクション･デバイス
+          + 製品
+          + Browse all プロテクション･デバイス
+          + EOS 10/1000μs サージ･プロテクション
+               o プロテクション･デバイス
+               o Browse all EOS 10/1000μs サージ･プロテクション
+               o 1500W TVS（過渡電圧サプレッサ）
+               o 400W TVS（過渡電圧サプレッサ）
+               o 600W TVS（過渡電圧サプレッサ）
+               o > 1500W TVS（過渡電圧サプレッサ）
+               o 高電力密度TVS （過渡電圧サプレッサ）
+          + EOS 8/20μs サージ･プロテクション
+               o プロテクション･デバイス
+               o Browse all EOS 8/20μs サージ･プロテクション
+               o データライン用プロテクション:サージ電流< 24A
+               o パワーライン用プロテクション：サージ電流>24A
+          + ESDプロテクション
+               o プロテクション･デバイス
+               o Browse all ESDプロテクション
+               o USBポート･プロテクション
+               o アンテナ･プロテクション
+                    # ESDプロテクション
+                    # Browse all アンテナ･プロテクション
+                    # NFCアンテナ・プロテクション
+                         @ アンテナ･プロテクション
+                         @ Browse all NFCアンテナ・プロテクション
+                         @ NFCアンテナ・プロテクション
+               o 汎用ESDプロテクション
+               o 高速ポート･プロテクション
+          + カレント･リミッタ
+          + 車載用プロテクション･デバイス
+               o プロテクション･デバイス
+               o Browse all 車載用プロテクション･デバイス
+               o 車載用データライン用ESDプロテクション
+               o 車載用パワーレールTVSプロテクション
+               o 車載用ロードダンプ･プロテクション
+          + 雷サージ･プロテクション
+               o プロテクション･デバイス
+               o Browse all 雷サージ･プロテクション
+               o SLICプロテクション
+                    # 雷サージ･プロテクション
+                    # Browse all SLICプロテクション
+                    # ライン･カード･プロテクション･シリーズ
+               o xDSL回線プロテクション
+               o その他通信回線プロテクション
+               o イーサネット回線プロテクション
+               o ディスクリート･サージ･サプレッサ
+                    # 雷サージ･プロテクション
+                    # Browse all ディスクリート･サージ･サプレッサ
+                    # 第二世代Trisils （トリシル）
+     * マイクロコントローラ & マイクロプロセッサ
+          + 製品
+          + Browse all マイクロコントローラ & マイクロプロセッサ
+          + STM32 Arm Cortex マイクロプロセッサ
+               o マイクロコントローラ & マイクロプロセッサ
+               o Browse all STM32 Arm Cortex マイクロプロセッサ
+               o STM32MP1シリーズ
+                    # STM32 Arm Cortex マイクロプロセッサ
+                    # Browse all STM32MP1シリーズ
+                    # STM32MP151
+                    # STM32MP153
+                    # STM32MP157
+          + STM32 Arm-Cortex 32bitマイクロコントローラ
+               o マイクロコントローラ & マイクロプロセッサ
+               o Browse all STM32 Arm-Cortex 32bitマイクロコントローラ
+               o STM32 ハイパフォーマンス・マイクロコントローラ
+                    # STM32 Arm-Cortex 32bitマイクロコントローラ
+                    # Browse all STM32 ハイパフォーマンス・マイクロコントローラ
+                    # STM32F2シリーズ
+                         @ STM32 ハイパフォーマンス・マイクロコントローラ
+                         @ Browse all STM32F2シリーズ
+                         @ STM32F2x5
+                         @ STM32F2x7
+                    # STM32F4シリーズ
+                         @ STM32 ハイパフォーマンス・マイクロコントローラ
+                         @ Browse all STM32F4シリーズ
+                         @ STM32F401
+                         @ STM32F405/415
+                         @ STM32F407/417
+                         @ STM32F410
+                         @ STM32F411
+                         @ STM32F412
+                         @ STM32F413/423
+                         @ STM32F427/437
+                         @ STM32F429/439
+                         @ STM32F446
+                         @ STM32F469/479
+                    # STM32F7シリーズ
+                         @ STM32 ハイパフォーマンス・マイクロコントローラ
+                         @ Browse all STM32F7シリーズ
+                         @ STM32F7x0 バリュー・ライン
+                         @ STM32F7x2
+                         @ STM32F7x3
+                         @ STM32F7x5
+                         @ STM32F7x6
+                         @ STM32F7x7
+                         @ STM32F7x9
+                    # STM32H7シリーズ
+                         @ STM32 ハイパフォーマンス・マイクロコントローラ
+                         @ Browse all STM32H7シリーズ
+                         @ STM32H742
+                         @ STM32H743/753
+                         @ STM32H745/755
+                         @ STM32H747/757
+                         @ STM32H750 バリュー･ライン
+               o STM32 メインストリーム・マイクロコントローラ
+                    # STM32 Arm-Cortex 32bitマイクロコントローラ
+                    # Browse all STM32 メインストリーム・マイクロコントローラ
+                    # STM32F0シリーズ
+                         @ STM32 メインストリーム・マイクロコントローラ
+                         @ Browse all STM32F0シリーズ
+                         @ STM32F0x0バリュー・ライン
+                         @ STM32F0x1
+                         @ STM32F0x2
+                         @ STM32F0x8
+                    # STM32F1シリーズ
+                         @ STM32 メインストリーム・マイクロコントローラ
+                         @ Browse all STM32F1シリーズ
+                         @ STM32F100バリュー･ライン
+                         @ STM32F101
+                         @ STM32F102
+                         @ STM32F103
+                         @ STM32F105/107
+                    # STM32F3シリーズ
+                         @ STM32 メインストリーム・マイクロコントローラ
+                         @ Browse all STM32F3シリーズ
+                         @ STM32F301
+                         @ STM32F302
+                         @ STM32F303
+                         @ STM32F334
+                         @ STM32F373
+                         @ STM32F3x8
+                    # STM32G0シリーズ
+                         @ STM32 メインストリーム・マイクロコントローラ
+                         @ Browse all STM32G0シリーズ
+                         @ STM32G0x0 バリュー・ライン
+                         @ STM32G0x1
+                    # STM32G4シリーズ
+                         @ STM32 メインストリーム・マイクロコントローラ
+                         @ Browse all STM32G4シリーズ
+                         @ STM32G4x1
+                         @ STM32G4x3
+                         @ STM32G4x4
+               o STM32 ワイヤレス・マイクロコントローラ
+                    # STM32 Arm-Cortex 32bitマイクロコントローラ
+                    # Browse all STM32 ワイヤレス・マイクロコントローラ
+                    # STM32WBシリーズ
+                         @ STM32 ワイヤレス・マイクロコントローラ
+                         @ Browse all STM32WBシリーズ
+                         @ STM32WBx5
+               o STM32 超低消費電力マイクロコントローラ
+                    # STM32 Arm-Cortex 32bitマイクロコントローラ
+                    # Browse all STM32 超低消費電力マイクロコントローラ
+                    # STM32 L1シリーズ
+                         @ STM32 超低消費電力マイクロコントローラ
+                         @ Browse all STM32 L1シリーズ
+                         @ STM32L100バリュー・ライン
+                         @ STM32L151/152
+                         @ STM32L162ライン
+                    # STM32 L4シリーズ
+                         @ STM32 超低消費電力マイクロコントローラ
+                         @ Browse all STM32 L4シリーズ
+                         @ STM32L4x1
+                         @ STM32L4x2
+                         @ STM32L4x3
+                         @ STM32L4x5
+                         @ STM32L4x6
+                    # STM32L0シリーズ
+                         @ STM32 超低消費電力マイクロコントローラ
+                         @ Browse all STM32L0シリーズ
+                         @ STM32L0x0 バリュー・ライン
+                         @ STM32L0x1
+                         @ STM32L0x2
+                         @ STM32L0x3
+                    # STM32L4+シリーズ
+                         @ STM32 超低消費電力マイクロコントローラ
+                         @ Browse all STM32L4+シリーズ
+                         @ STM32L4R5/S5
+                         @ STM32L4R7/S7
+                         @ STM32L4R9/S9
+                    # STM32L5シリーズ
+                         @ STM32 超低消費電力マイクロコントローラ
+                         @ Browse all STM32L5シリーズ
+                         @ STM32L5x2
+          + STM8 8bitマイクロコントローラ
+               o マイクロコントローラ & マイクロプロセッサ
+               o Browse all STM8 8bitマイクロコントローラ
+               o STM8AFシリーズ
+                    # STM8 8bitマイクロコントローラ
+                    # Browse all STM8AFシリーズ
+                    # STM8AF52
+                    # STM8AF62
+                    # STM8AF63
+               o STM8ALシリーズ
+                    # STM8 8bitマイクロコントローラ
+                    # Browse all STM8ALシリーズ
+                    # STM8AL31
+                    # STM8AL3L
+               o STM8Lシリーズ
+                    # STM8 8bitマイクロコントローラ
+                    # Browse all STM8Lシリーズ
+                    # STM8L051/052 バリューライン
+                    # STM8L101
+                    # STM8L151/152
+                    # STM8L162
+               o STM8Sシリーズ
+                    # STM8 8bitマイクロコントローラ
+                    # Browse all STM8Sシリーズ
+                    # STM8S003/005/007バリューライン
+                    # STM8S103/105
+                    # STM8S207/208
+                    # STM8Sアプリケーション専用ライン
+               o STM8Tシリーズ
+                    # STM8 8bitマイクロコントローラ
+                    # Browse all STM8Tシリーズ
+                    # STM8TL52/L53
+          + レガシー･マイクロコントローラ
+               o マイクロコントローラ & マイクロプロセッサ
+               o Browse all レガシー･マイクロコントローラ
+               o ST10 16bitマイクロコントローラ
+               o ST7 8bitマイクロコントローラ
+               o ST9 8bitマイクロコントローラ
+               o STR7 32bit ARM7マイクロコントローラ
+     * メモリ
+          + 製品
+          + Browse all メモリ
+          + シリアルEEPROM
+               o メモリ
+               o Browse all シリアルEEPROM
+               o 標準シリアルEEPROM
+                    # シリアルEEPROM
+                    # Browse all 標準シリアルEEPROM
+                    # Standard Microwire EEPROM
+                    # Standard SPI EEPROM
+                    # 標準シリアルEEPROM
+               o 特定用途向けシリアルEEPROM
+               o 車載用シリアルEEPROM
+          + 不揮発性RAM
+               o メモリ
+               o Browse all 不揮発性RAM
+               o ゼロパワー
+               o バッテリ･オプション
+     * モータ･ドライバ
+          + 製品
+          + Browse all モータ･ドライバ
+          + MOSFET & IGBT ゲート･ドライバ
+               o モータ･ドライバ
+               o Browse all MOSFET & IGBT ゲート･ドライバ
+               o シングルチャネル・ドライバ
+               o マルチチャネル･ドライバ
+               o 絶縁型ドライバ
+               o 高電圧ハーフブリッジ･ドライバ
+          + ステッピング・モータ・ドライバ
+          + ブラシレスDCモータ・ドライバ
+          + ブラシ付きDCモータ・ドライバ
+               o モータ･ドライバ
+               o Browse all ブラシ付きDCモータ・ドライバ
+               o 3相ベクトル制御（FOC）
+                    # ブラシ付きDCモータ・ドライバ
+                    # Browse all 3相ベクトル制御（FOC）
+                    # ブラシレスDCモータ・ドライバ
+     * リセット & スーパーバイザIC
+          + 製品
+          + Browse all リセット & スーパーバイザIC
+          + ウォッチドッグ･タイマ
+          + オン / オフ・コントローラ
+          + スマート･リセットIC
+          + マイクロプロセッサ･スーパーバイザ
+          + リセット＆電圧検出
+          + 電圧保護IC
+     * ワイヤレス･コネクティビティ
+          + 製品
+          + Browse all ワイヤレス･コネクティビティ
+          + 60GHz近距離無線通信トランシーバ
+          + Bluetooth Low Enregy
+          + LoRaWAN Technology
+          + RFソリューション
+               o ワイヤレス･コネクティビティ
+               o Browse all RFソリューション
+               o RF PLLシンセイザ
+               o RFダウンコンバータ
+          + Sigfox
+          + Sub 1GHz RF ICs
+          + Wi-Fi
+     * 測位IC
+          + 製品
+          + Browse all 測位IC
+          + GNSS IC
+          + GNSSモジュール
+     * 車載用ADASデバイス
+          + 製品
+          + Browse all 車載用ADASデバイス
+          + 車載用イメージ・シグナル・プロセッサ
+          + 車載用レーダー・トランシーバ
+     * 車載用アナログ & パワーIC
+          + 製品
+          + Browse all 車載用アナログ & パワーIC
+          + High and Low Side Drivers/Switches
+               o 車載用アナログ & パワーIC
+               o Browse all High and Low Side Drivers/Switches
+               o 24Vアプリケーション(トラック)用ハイサイド･スイッチ
+               o SPI搭載＆非対称出力ハイサイド･スイッチ
+               o コンフィギュラブル･ローサイド / ハイサイド・スイッチ
+               o ハイサイド･スイッチ
+               o ローサイド･スイッチ
+          + LEDドライバ
+          + アプリケーション専用機能
+          + シャーシ＆セーフティ用IC
+               o 車載用アナログ & パワーIC
+               o Browse all シャーシ＆セーフティ用IC
+               o エアバッグ用IC
+               o ステアリング用IC
+               o ブレーキ用IC
+          + ドア･モジュール･ドライバ
+          + バルブ･ドライバIC
+          + パワー・マネジメント＆システム・ベースIC
+          + パワー･トレインIC
+               o 車載用アナログ & パワーIC
+               o Browse all パワー･トレインIC
+               o イグニッション･コントローラ･ドライバ
+               o エンジン・コントロールIC
+               o オルタネータ･レギュレータ
+               o トランスミッション
+          + マルチ出力ドライバ
+          + モータ･ドライバ
+          + リニア・ボルテージ･レギュレータ
+          + 車載用オペアンプ
+          + 車載用コンパレータ
+          + 車載用パワー・ディスクリート
+               o 車載用アナログ & パワーIC
+               o Browse all 車載用パワー・ディスクリート
+               o 車載用IGBT
+               o 車載用SiCダイオード
+               o 車載用サイリスタ
+               o 車載用パワーMOSFET
+               o 車載用パワー・ショットキー・ダイオード
+               o 車載用ブリッジ整流ダイオード
+               o 車載用プロテクション＆フィルタ
+               o 車載用超高速ダイオード
+          + 車載用通信トランシーバ
+     * 車載用インフォテインメント＆テレマティクス
+          + 製品
+          + Browse all 車載用インフォテインメント＆テレマティクス
+          + テレマティクス＆コネクティビティ・プロセッサ
+          + ベースバンド＆RFフロント･エンド･レシーバ
+          + ラジオ受信機
+               o 車載用インフォテインメント＆テレマティクス
+               o Browse all ラジオ受信機
+               o AM / FMチューナ
+          + 車載用インフォテインメントSoC
+               o 車載用インフォテインメント＆テレマティクス
+               o Browse all 車載用インフォテインメントSoC
+               o インフォテインメント・プロセッサ
+          + 車載用オーディオ・パワー・アンプ
+               o 車載用インフォテインメント＆テレマティクス
+               o Browse all 車載用オーディオ・パワー・アンプ
+               o 車載用AB級オーディオ･パワーアンプ
+               o 車載用D級オーディオ･パワーアンプ
+          + 車載用オーディオ・プロセッサ
+     * 車載用マイクロコントローラ
+          + 製品
+          + Browse all 車載用マイクロコントローラ
+          + SPC5 車載用32bitマイクロコントローラ
+               o 車載用マイクロコントローラ
+               o Browse all SPC5 車載用32bitマイクロコントローラ
+               o SPC5 G スタンダード・マイクロコントローラ
+                    # SPC5 車載用32bitマイクロコントローラ
+                    # Browse all SPC5 G スタンダード・マイクロコントローラ
+                    # SPC56 Bライン
+                    # SPC56 Cライン
+                    # SPC56 Dライン
+                    # SPC58 2Bライン
+                    # SPC58 4Bライン
+                    # SPC58 Cライン
+                    # SPC58 Gライン
+                    # SPC58 Hライン
+               o SPC5 P 高性能マイクロコントローラ
+                    # SPC5 車載用32bitマイクロコントローラ
+                    # Browse all SPC5 P 高性能マイクロコントローラ
+                    # SPC56 Aライン
+                    # SPC56 Lライン
+                    # SPC56 Mライン
+                    # SPC56 Pライン
+                    # SPC57 0Sライン
+                    # SPC57 2Lライン
+                    # SPC57 Kライン
+                    # SPC58 Eライン
+          + ST10 車載用16bitマイクロコントローラ
+     * 車載用ロジックIC
+          + 製品
+          + Browse all 車載用ロジックIC
+          + カウンタ / エンコーダ / デコーダ
+          + ゲート
+          + バッファ / ドライバ
+          + フリップフロップ（FlipFlop）/レジスタ
+     * 高信頼性 & 航空宇宙機器用IC
+          + 製品
+          + Browse all 高信頼性 & 航空宇宙機器用IC
+          + 耐放射性バイボーラ・トランジスタ
+          + 耐放射性パワー･マネージメント
+               o 高信頼性 & 航空宇宙機器用IC
+               o Browse all 耐放射性パワー･マネージメント
+               o 耐放射線PWMコントローラ
+               o 耐放射線カレント・リミッタ
+               o 耐放射線ゲート･ドライバ
+               o 耐放射線ボルテージ･レギュレータ
+          + 耐放射線ASICプラットフォーム
+          + 耐放射線LVDS
+          + 耐放射線オペアンプ & コンパレータ
+          + 耐放射線ダイオード & 整流ダイオード
+          + 耐放射線データ･コンバータ
+          + 耐放射線パワーMOSFET
+          + 耐放射線ボルテージ･リファレンス
+          + 耐放射線ロジックIC
+               o 高信頼性 & 航空宇宙機器用IC
+               o Browse all 耐放射線ロジックIC
+               o 耐放射線54 AC / ACTシリーズ
+               o 耐放射線54 HC / HCTシリーズ
+               o 耐放射線54VCXシリーズ
+               o 耐放射線CMOS4000Bシリーズ
+     * 高周波トランジスタ
+          + 製品
+          + Browse all 高周波トランジスタ
+          + RF DMOSトランジスタ
+               o 高周波トランジスタ
+               o Browse all RF DMOSトランジスタ
+               o 100 / 150V DMOS トランジスタ
+               o 工業･科学･医療＆放送機器用DMOSトランジスタ
+          + RF LDMOSトランジスタ
+               o 高周波トランジスタ
+               o Browse all RF LDMOSトランジスタ
+               o 13.6V RF LDMOS トランジスタ （HF～2GHz）
+               o 28 / 32V RF LDMOS トランジスタ（HF～1GH）
+               o 28 / 32V RF LDMOS トランジスタ（HF～2GH）
+               o 7V RF LDMOS トランジスタ（HF～2GH）
+               o 航空電子工学＆レーダー･アプリケーション用 36V RF LDMOS トランジスタ
+
+     * アプリケーション
+     * インダストリアル
+          + アプリケーション
+          + Browse all Industrial
+          + LED照明 & 制御
+               o インダストリアル
+               o Browse all LED照明 & 制御
+               o LEDディスプレイ & 標識
+               o LED照明
+               o 照明制御
+               o 蛍光照明
+          + POS & 小売物流
+               o インダストリアル
+               o Browse all POS & 小売物流
+               o POS
+               o バンキング･オートメーション
+               o 小売物流
+          + エネルギー生成 & ディストリビューション
+               o インダストリアル
+               o Browse all エネルギー生成 & ディストリビューション
+               o エネルギー･ディストリビューション
+               o 分散型太陽光発電
+               o 集中型太陽光発電
+          + スマート農業
+               o インダストリアル
+               o Browse all スマート農業
+               o トラクタ
+               o 灌がいシステム
+               o 畜産用位置 & 生体情報モニタ
+               o 農産物トラッキング
+          + ファクトリ･オートメーション
+               o インダストリアル
+               o Browse all ファクトリ･オートメーション
+               o トラッキング
+               o プログラマブル･ロジック･コントローラ（PLC）
+               o 状態監視 / 予知保全
+               o 産業システム向け通信ソリューション
+               o 産業用センサ･システム
+               o 産業用ロボット
+          + ホーム / ビル / シティ･オートメーション
+               o インダストリアル
+               o Browse all ホーム / ビル / シティ･オートメーション
+               o Smart City
+               o Smart Home
+               o ビル･セーフティ & セキュリティ
+               o 空調制御
+          + メディカル & ヘルスケア
+               o インダストリアル
+               o Browse all メディカル & ヘルスケア
+               o 医療用イメージング機器
+               o 治療装置
+               o 診断機器
+          + メータ
+               o インダストリアル
+               o Browse all メータ
+               o ガス･メータ
+               o 水道メータ
+               o 熱メータ
+               o 電力メータ
+          + 宇宙
+               o インダストリアル
+               o Browse all 宇宙
+               o 荷重 & プラットフォーム
+               o 電源システム
+          + 家庭用 & 業務用電気製品
+               o インダストリアル
+               o Browse all 家庭用 & 業務用電気製品
+               o ガーデニング･ロボット & 用具
+               o 大型家電製品
+               o 小型家電製品 & 調理器具
+          + 産業用モータ制御
+               o インダストリアル
+               o Browse all 産業用モータ制御
+               o PMSM/ブラシレスDCモータ
+               o スイッチト･リラクタンス･モータ
+               o ステッピング･モータ
+               o ブラシ付きモータ
+               o 誘導モータ
+          + 産業用電源 / 産業用装置
+               o インダストリアル
+               o Browse all 産業用電源 / 産業用装置
+               o 産業用装置
+          + 産業用駆動装置
+               o インダストリアル
+               o Browse all 産業用駆動装置
+               o ACドライバ
+               o サーボ･ドライバ
+               o ファン
+               o フォークリフト
+               o ポンプ
+          + 電源 & コンバータ
+               o インダストリアル
+               o Browse all 電源 & コンバータ
+               o AC-DCコンバータ
+               o DC-DCコンバータ
+               o TV電源
+               o サーバ & 通信電源
+               o デジタル電源
+               o 充電器 & アダプタ
+               o 産業用電源
+               o 補助電源
+     * オートモーティブ
+          + アプリケーション
+          + Browse all Automotive
+          + ADAS（高度運転支援システム）
+               o オートモーティブ
+               o Browse all ADAS（高度運転支援システム）
+               o 24GHzレーダー
+               o 77GHzレーダー
+               o マシン･ビジョン･システム
+               o 車内サーマル･カメラ
+               o 車載用スマート･カメラ
+               o 高解像度サーマル･カメラ
+          + ICE（内燃エンジン）用パワートレイン
+               o オートモーティブ
+               o Browse all ICE（内燃エンジン）用パワートレイン
+               o CNG（圧縮天然ガス）エンジン制御
+               o LPG（液化石油ガス）エンジン制御
+               o オルタネータ･レギュレータ
+               o ガソリン直噴射（GDI）
+               o ガソリン･マルチポイント･インジェクション
+               o グロー･プラグ制御
+               o ディーゼル直噴射
+               o トランスミッション制御
+               o モータサイクル･エンジン制御
+               o 燃料ポンプ
+               o 選択触媒還元（SCR）システム
+          + eモビリティ
+               o オートモーティブ
+               o Browse all eモビリティ
+               o 48Vマイルド･ハイブリッド･システム
+               o Acoustic Vehicle Alerting System (AVAS)
+               o EV/HEV用DC-DCコンバータ
+               o EV充電
+               o オンボード･チャージャ（OBC）
+               o メイン･インバータ（電気トラクション）
+               o 小型電動車両
+               o 車両制御ユニット（VCU）
+          + シャーシ & セーフティ
+               o オートモーティブ
+               o Browse all シャーシ & セーフティ
+               o ABS
+               o アクティブ･サスペンション
+               o エアバッグ
+               o 横滑り防止装置（ESC）
+               o 電動パワー･ステアリング（EPS）
+               o 電動パーキング･ブレーキ（EPB）
+               o 電動ブレーキ･ブースタ
+          + テレマティクス & ネットワーキング
+               o オートモーティブ
+               o Browse all テレマティクス & ネットワーキング
+               o FOTA（Firmware Over-The-Air）
+               o スマート･アンテナ
+               o セキュア･コネクティビティ･モジュール
+               o テレマティクス & コネクティビティ制御ユニット
+               o 車車間･路車間通信（V2X）
+               o 車載ゲートウェイ
+          + ボディ & コンビニエンス
+               o オートモーティブ
+               o Browse all ボディ & コンビニエンス
+               o LEDライト
+               o NFCキーレス･エントリ
+               o シート制御
+               o トランク制御
+               o ドア制御モジュール
+               o ドア･ロック
+               o ドーム･モジュール
+               o パワー･ディストリビューション
+               o ヒーティング･システム
+               o ヘッドアップ･ディスプレイ（HUD）
+               o ボディ制御モジュール（BCM）
+               o 冷暖房空調制御
+               o 車載ゲートウェイ
+               o 車載用USB Type-C Power Delivery
+               o 車載用ライト
+          + モビリティ･サービス
+               o オートモーティブ
+               o Browse all モビリティ･サービス
+               o Automatic Tolling System
+               o Telematics Box
+               o eCall
+               o カー･シェアリング車載機器
+               o 車両管理システム用車載機器
+               o 電動自転車
+          + 車載インフォテインメント（IVI）
+               o オートモーティブ
+               o Browse all 車載インフォテインメント（IVI）
+               o インフォテインメント･モジュール
+               o カー･オーディオ
+               o 車内サーマル･カメラ
+          + 車載用モータ制御
+               o オートモーティブ
+               o Browse all 車載用モータ制御
+               o 車載用バイポーラ･ステッピング･モータ
+               o 車載用ブラシレスDCモータ
+               o 車載用ブラシ付きDCモータ
+     * パーソナル電子機器
+          + アプリケーション
+          + Browse all Personal Electronics
+          + VR/AR
+               o パーソナル電子機器
+               o Browse all VR/AR
+               o ARヘッドセット & グラス
+               o VRコントローラ
+               o VRヘッド･マウント･ディスプレイ（HMD）
+          + ウェアラブル
+               o パーソナル電子機器
+               o Browse all ウェアラブル
+               o スポーツ関連機器
+               o スマート･ウォッチ
+               o 活動量計
+          + オーディオ & ビデオ
+               o パーソナル電子機器
+               o Browse all オーディオ & ビデオ
+               o TV
+               o スピーカ
+               o デジタル･カメラ
+               o ヘッドセット
+               o メディア･プレーヤ
+               o リモコン
+          + ゲーム & ドローン
+               o パーソナル電子機器
+               o Browse all ゲーム & ドローン
+               o ゲーム･コンソール
+               o ゲーム･コントローラ
+               o ドローン
+          + スマートフォン / タブレット / 電子リーダ
+               o パーソナル電子機器
+               o Browse all スマートフォン / タブレット / 電子リーダ
+               o スマートフォン / タブレット / 電子リーダ
+          + パーソナル･ケア & 衛生用品
+               o パーソナル電子機器
+               o Browse all パーソナル･ケア & 衛生用品
+               o ポータブル･マッサージ器
+               o マッサージ器
+               o 体組成計
+               o 電動歯ブラシ
+               o 電気シェーバー / 脱毛器 / トリマー
+     * 通信機器 / コンピュータ / 周辺機器
+          + アプリケーション
+          + Browse all Communications Equipment, Computers and Peripherals
+          + SOHOサーバ
+               o 通信機器 / コンピュータ / 周辺機器
+               o Browse all SOHOサーバ
+               o サーバ･マザーボード
+               o ネットワーク接続ストレージ（NAS）
+               o 企業用SSD（ソリッド･ステート･ドライブ）
+          + コンピュータ & 周辺機器
+               o 通信機器 / コンピュータ / 周辺機器
+               o Browse all コンピュータ & 周辺機器
+               o PC周辺機器
+               o デスクトップPC
+               o ノートPC
+          + データ･センター
+               o 通信機器 / コンピュータ / 周辺機器
+               o Browse all データ･センター
+               o サーバ
+               o ストレージ
+               o パワー･ディストリビューション
+               o 冷暖房空調設備
+          + 通信インフラ
+               o 通信機器 / コンピュータ / 周辺機器
+               o Browse all 通信インフラ
+               o 通信システム電源
+     * IoTアプリケーション
+          + アプリケーション
+          + Browse all IoT Applications
+          + IIOT（Industrial Internet of Things）
+               o IoTアプリケーション
+               o Browse all IIOT（Industrial Internet of Things）
+               o トラッキング
+               o プログラマブル･ロジック･コントローラ（PLC）
+               o 状態監視 / 予知保全
+               o 産業システム向け通信ソリューション
+               o 産業用センサ･システム
+               o 産業用ロボット
+               o 産業用装置
+               o 産業用駆動装置
+          + IoT（Internet of Things）
+               o IoTアプリケーション
+               o Browse all IoT（Internet of Things）
+               o ウェアラブル
+               o オーディオ & ビデオ
+               o 治療装置
+               o 診断機器
+          + スマート･ホーム & スマート･シティ用IoT
+               o IoTアプリケーション
+               o Browse all スマート･ホーム & スマート･シティ用IoT
+               o POS
+               o ガス / 熱 / 水道メータ
+               o ガーデニング･ロボット & 用具
+               o バンキング･オートメーション
+               o 大型家電製品
+               o 小型家電製品 & 調理器具
+               o 小売物流
+               o 電力メータ
+     * 機能
+          + アプリケーション
+          + Browse all Functions
+          + クラウド接続
+               o 機能
+               o Browse all クラウド接続
+               o アプリ & ゲートウェイ方式センサ･ノード接続
+               o 直接通信方式IoTノード
+          + コネクティビティ
+               o 機能
+               o Browse all コネクティビティ
+               o 有線通信
+               o 無線通信
+          + セキュリティ
+          + センシング
+               o 機能
+               o Browse all センシング
+               o イメージ･センシング
+               o サウンド･センシング
+               o モーション･センシング
+               o 圧力センシング
+               o 環境センシング
+               o 近接 / 測距センシング
+               o 電気的センシング
+          + 産業用モータ制御
+               o 機能
+               o Browse all 産業用モータ制御
+               o PMSM/ブラシレスDCモータ
+               o スイッチト･リラクタンス･モータ
+               o ステッピング･モータ
+               o ブラシ付きモータ
+               o 誘導モータ
+          + 車載用モータ制御
+               o 機能
+               o Browse all 車載用モータ制御
+               o 車載用バイポーラ･ステッピング･モータ
+               o 車載用ブラシレスDCモータ
+               o 車載用ブラシ付きDCモータ
+
+     * ツール & ソフトウェア
+     * 評価ツール
+          + ツール & ソフトウェア
+          + Browse all Evaluation Tools
+          + ソリューション用評価ボード
+               o 評価ツール
+               o Browse all Solution Evaluation Tools
+               o LED＆一般照明機器用評価ボード
+               o PC周辺機器用評価ボード
+               o エネルギー＆スマートグリッド･ソリューション用評価ボード
+               o コンスーマ機器用評価ボード
+               o センサIC用評価ボード
+               o プロセス･コントロール＆オートメーション･ソリューション用評価ボード
+               o ヘルスケア＆ウェルネス･ソリューション用評価ボード
+               o モータ制御ソリューション用評価ボード
+               o 交通システム･ソリューション用評価ボード
+               o 家電製品コントロール
+               o 建築技術ソリューション用評価ボード
+               o 通信＆コネクティビティ･ソリューション用評価ボード
+               o 電源＆コンバータ･ソリューション用評価ボード
+          + 評価ツール
+               o 評価ツール
+               o Browse all 評価ツール
+               o GNSS ICs Eval Boards
+               o MEMSモーションセンサ用評価ボード
+               o RFパワートランジスタ用評価ボード
+               o Secure MCU Eval Boards
+               o STM32 Nucleo expansion boards
+               o イメージングIC用評価ボード
+               o オペアンプ＆コンパレータIC用評価ボード
+               o オーディオIC用評価ボード
+               o マイクロコントローラ用評価ツール
+               o メモリIC用評価ボード
+               o 組込みマイクロプロセッサ用評価ボード
+               o 航空･宇宙機器IC用評価ボード
+               o 車載用IC評価ボード
+     * 開発ツール
+          + ツール & ソフトウェア
+          + Browse all Development Tools
+          + ハードウェア 開発ツール
+               o 開発ツール
+               o Browse all Hardware Development Tools
+               o Development Tool Hardware from Partners
+               o Security Hardware Development Tools
+               o SPC5ｘマイクロコントローラ用デバッグ･ハードウェア
+               o STM32マイクロコントローラ用デバッグ･ハードウェア
+               o STM8マイクロコントローラ用プログラミング・ハードウェア
+               o レガシー･マイコン開発キット用アクセサリ
+          + ソフトウェア開発ツール
+               o 開発ツール
+               o Browse all Software Development Tools
+               o Audio ICs Software Development Tools
+               o Digital Power Conversion Software Development Tools
+               o Legacy MCUs Software Development Tools
+               o Motor Control Software Development Tools
+               o Simulators
+               o SPC5 Software Development Tools
+               o SPEARプロセッサ用ソフトウェア
+               o STM32 Software Development Tools
+               o STM8 Software Development Tools
+               o デジタルAV用システム評価ボード
+     * カリキュレータ/製品セレクタ/シミュレータ
+          + ツール & ソフトウェア
+          + Browse all Calculators, Selectors, Simulators
+          + eDesignSuite
+          + Calculators
+          + Selectors
+          + Simulators and Models
+     * 組込み用ソフトウェア
+          + ツール & ソフトウェア
+          + Browse all Embedded Software
+          + MEMS用ソフトウェア
+               o 組込み用ソフトウェア
+               o Browse all MEMS用ソフトウェア
+               o Drivers for MEMS
+               o iNemoエンジン用ソフトウェア･ライブラリ
+               o Open.MEMS
+          + マイクロコントローラ用ソフトウェア
+               o 組込み用ソフトウェア
+               o Browse all マイクロコントローラ用ソフトウェア
+               o SPC5x マイクロコントローラ用ソフトウェア
+               o STM32マイクロコントローラ用ソフトウェア
+               o STM8 マイクロコントローラ用ソフトウェア
+               o レガシー･マイコン用ソフトウェア
+     * 開発環境
+          + ツール & ソフトウェア
+          + Browse all Ecosystems
+          + STM32 Open Development Environment
+               o 開発環境
+               o Browse all STM32 Open Development Environment
+               o STM32 Nucleo
+               o STM32 Nucleo Expansion Boards
+               o STM32 ODE Function Packs
+               o STM32Cube
+               o STM32Cube Expansion Software
+          + クラウド
+          + コンポーネント&モジュール
+          + STM32 Graphic User Interface
+          + Neural Network solutions on STM32
+          + STM32Cube Ecosystem
+          + MadeForSTM32™
+          + STM32Trust
+
+     * マイアカウント
+     * マイスペース
+     * マイアカウント
+     * ログアウト
+
+   logo
+   製品
+   ____________________
+   検索
+     * (*) 製品
+     * ( ) ツール & ソフトウェア
+     * ( ) リソース
+     * ( ) ビデオ
+     * ( ) ソリューション
+     * ( ) アプリケーション
+     * ( ) クロスリファレンス
+     * ( ) 全サイト
+
+Search History
+
+ブックマーク
+
+   Please log in to show your saved searches.
+     * お問い合わせ
+     * 日本語
+          + 日本語
+          + English
+          + 中文
+
+     * 製品
+          +
+          + EMIフィルタ & シグナル･コンディション
+          + MEMS & センサ
+          + NFC
+          + SiCデバイス
+          + イメージング & フォトニクス･ソリューション
+          + インタフェース & コネクティビティIC
+          + オペアンプ & コンパレータ
+          + オーディオ用IC
+          + クロック & タイマ
+          + サイリスタ(SCR)＆ACスイッチ
+          + スイッチ & マルチプレクサ
+          + セキュア･マイクロコントローラ
+          + タッチ & ディスプレイ･コントローラ
+          + ダイオード
+          + デジタルSTB用IC
+          + データ･コンバーター
+          + パワー・トランジスタ
+          + パワー･マネージメント
+          + パワー･モジュール
+          + プロテクション･デバイス
+          + マイクロコントローラ & マイクロプロセッサ
+          + メモリ
+          + モータ･ドライバ
+          + リセット & スーパーバイザIC
+          + ワイヤレス･コネクティビティ
+          + 測位IC
+          + 車載用ADASデバイス
+          + 車載用アナログ & パワーIC
+          + 車載用インフォテインメント＆テレマティクス
+          + 車載用マイクロコントローラ
+          + 車載用ロジックIC
+          + 高信頼性 & 航空宇宙機器用IC
+          + 高周波トランジスタ
+       ブラウズ EMIフィルタ & シグナル･コンディション
+       EMIフィルタリング＆ESDプロテクション
+          + ECMFシリーズ（IPAD）
+          + HDMIシリーズ (IPAD)
+          + USBインタフェース向けIPAD
+          + オーディオ＆ビデオ機能向けIPAD
+          + コンピュータ＆コンスーマ機器インタフェース向けIPAD
+          + ディスプレイ＆カメラ＆キーパッド向けIPAD
+          + メモリ＆SIMカード向けIPAD
+          + 標準マルチライン･バスIPAD
+       RFフロント･エンド向けIPD
+          + RFフィルタ
+          + カプラ
+          + ダイプレクサ
+          + バラン
+       アンテナ･チューナ
+          + RFフロントエンド & SPIコントロールIC
+          + RF用チューナブル・キャパシタ
+       ブラウズ MEMS & センサ
+       MEMSマイク
+       T-Plus
+       iNEMO慣性モジュール
+       ジャイロ･センサ（角速度センサ）
+       加速度センサ
+       大気圧センサ
+       温度センサ
+       測距センサ
+       湿度センサ
+       車載用MEMSセンサ
+       電子コンパス
+       ブラウズ NFC
+       ST25 NFC/RFID タグ＆リーダ
+          + ST25 NFC/RFIDタグ
+          + ST25 NFC/RFIDリーダライタ
+          + ST25 ダイナミックNFCタグ
+       ブラウズ SiCデバイス
+       SiCダイオード
+       SiCパワーMOSFET
+       ブラウズ イメージング & フォトニクス･ソリューション
+       CMOSイメージング･センサ
+       CMOSフォトニクス・センサ
+       Proximity Sensors
+       イメージング･プロセッサ
+       ブラウズ インタフェース & コネクティビティIC
+       I/Oエクスパンダ ＆ レベル･トランスレータ
+          + I/Oエクスパンダ
+          + レベル･トランスレータ
+       RS-232
+       RS-422/423＆RE-485
+       USB
+          + USB Transceivers
+          + USB Type-C＆Power Delivery
+          + USBチャージング・コントローラ
+       スマートカード･インタフェース
+       ダーリントン･アレイ
+       電力線トランシーバ
+       ブラウズ オペアンプ & コンパレータ
+       オペアンプ
+          + 標準オペアンプ
+          + 車載用オペアンプ
+          + 高精度オペアンプ (<50MHz)
+          + 高速オペアンプ(>50MHz)
+       コンパレータ
+          + 低消費電力コンパレータ
+          + 標準コンパレータ
+          + 車載用コンパレータ
+          + 高速コンパレータ
+       パワー･オペアンプ
+       ビデオ･アンプ
+       電流センス･アンプ
+       ブラウズ オーディオ用IC
+       MEMSマイク
+       Sound Terminal™ デジタル･オーディオ･サブシステム
+       オーディオ･アンプ
+          + AB級オーディオ･パワー･アンプ
+          + D級オーディオ･パワー･アンプ
+          + デジタル･オーディオ･パワーアンプ
+          + ヘッドフォン用アンプ
+       オーディオ･プロセッサ
+          + アナログ･オーディオ･プロセッサ
+          + オーディオ･コーデック
+          + デジタル･オーディオ･プロセッサ＆ドライバ
+       ブラウズ クロック & タイマ
+       タイマ
+       リアル･タイム･クロック(RTC)
+          + RTC(シリアル･インターフェース)
+          + RTCパラレル・インターフェース(タイムキーパ)
+          + バッテリ＆クリスタル搭載タイムキーパ
+       ブラウズ サイリスタ(SCR)＆ACスイッチ
+       ACスイッチ
+          + ロジック・レベル・ゲートACSシリーズ
+          + 過渡電圧保護ACSTシリーズ
+       Triac（トライアック）
+          + DIAC（ダイアック）
+          + 標準/スナバレス･トライアック
+          + 自動電圧切替えスイッチ
+          + 高温対応トライアック
+       アプリケーション専用サイリスタ
+          + アプリケーション専用サイリスタ
+       サイリスタ（SCR）
+          + ロジック･レベル･ゲート･サイリスタ（SCR）
+          + 標準サイリスタ（SCR）
+          + 高温度対応サイリスタ（SCR）
+       ブラウズ スイッチ & マルチプレクサ
+       USBチャージ・コントローラ内蔵パワー･スイッチ
+       アナログ･スイッチ / マルチプレクサ
+       データ/シグナル･スイッチ
+       パワー･スイッチ/ハイサイド･スイッチ
+       高電圧 / 高速超音波パルサーIC
+       ブラウズ セキュア･マイクロコントローラ
+       SIM & eSIM
+       セキュアNFCソリューション
+       セキュア･ウェアラブル･ソリューション
+       セキュア･ハードウェア･プラットフォーム
+          + ST23
+          + ST31 Arm SC000
+          + ST32 Armコア
+          + ST33 Arm SC300
+       認証 & セキュアIoT向けセキュア･マイコン
+          + IoTセキュア･ソリューション
+          + 組込みセキュリティ･コンピューティング･ソリューション
+       車載セキュリティ向けセキュア･マイコン
+       銀行向けセキュア･マイコン
+       ブラウズ タッチ & ディスプレイ･コントローラ
+       Display Controllers
+       タッチスクリーン･コントローラ
+       ブラウズ ダイオード
+       ショットキー･バリア･ダイオード
+          + シグナル･ショットキー･ダイオード
+          + パワー･ショットキー･ダイオード
+       シリコン･カーバイド･ダイオード
+       ブリッジ整流ダイオード
+       超高速整流ダイオード
+          + 200V～400V超高速整流ダイオード
+          + 600V超高速整流ダイオード
+          + 800V～1200V超高速整流ダイオード
+       車載用ダイオード
+          + 車載用ショットキー･ダイオード
+          + 車載用シリコン・カーバイド・ダイオード
+          + 車載用ブリッジ整流ダイオード
+          + 車載用超高速ダイオード
+       電界効果整流ダイオード
+       ブラウズ デジタルSTB用IC
+       HD/SD STBプロセッサ
+       UHD STBプロセッサ
+       デモジュレータ＆チューナ
+          + シリコン･チューナ
+          + 衛星放送デモジュレータ
+       レガシー製品
+          + デジタルAV用スイッチ / バッファ
+          + レガシー・プロセッサ
+       ブラウズ データ･コンバーター
+       AD-DAコンバータ
+       電力計測用IC
+       ブラウズ パワー・トランジスタ
+       IGBT
+          + 1200V～1250V IGBT
+          + 300～400V IGBT
+          + 600～650V IGBT
+          + ベアダイIGBT
+       パワーMOSFET
+          + NチャネルMDmesh（350V～700V）
+          + NチャネルMDmesh（700V～）
+          + NチャネルSTripFET（12V～30V）
+          + NチャネルSTripFET（30V～350V）
+          + PチャネルSTripFET（-20V～500V）
+       パワー･バイポーラ･トランジスタ
+          + 1000V～2000Vパワー・バイポーラ・トランジスタ
+          + 500V～1000Vパワー・バイポーラ・トランジスタ
+          + ダーリントン
+          + 最大500Vパワー・バイポーラ・トランジスタ
+       ワイドバンドギャップ･トランジスタ
+          + SiC MOSFET
+       ブラウズ パワー･マネージメント
+       AC-DCコンバータ
+          + PFC(力率改善)コントローラ
+          + PWMコントローラ
+          + 共振 / 擬似共振コントローラ
+          + 同期整流コントローラ
+          + 電圧 / 電流コントローラ
+          + 高電圧コンバータ
+       DC-DCスイッチング・コンバータ
+          + 48Vダイレクト変換コンバータ
+          + 単相スイッチングDC/DCコントローラ
+          + 多機能レギュレータ
+          + 多相スイッチングDC-DCコントローラ
+          + 昇圧レギュレータ
+          + 降圧レギュレータ
+          + 降圧･昇圧レギュレータ
+       LEDドライバ
+          + LEDアレイ･ドライバ
+          + LEDマトリクス･ドライバ
+          + オフラインLEDドライバ
+          + ブースト電流レギュレータ
+          + リニア電流レギュレータ
+          + 降圧電流レギュレータ
+          + 高効率LEDフラッシュ電源IC
+       LNB用電源IC
+          + スイッチングLNB用電源IC
+       MOSFET & IGBT ゲート･ドライバ
+          + シングルチャネル･ドライバ
+          + マルチチャネル・ドライバ
+          + 絶縁型ゲート・ドライバ
+          + 高電圧ハーフブリッジ・ドライバ
+       インテリジェント･パワー・スイッチ
+          + ハイサイド / ローサイド･スイッチ
+          + ハイサイド･パワースイッチ
+          + ローサイド･パワースイッチ
+       エナジー・ハーべスティング＆ソーラー・チャージャIC
+       ディスプレイ･サプライ＆コントローラ
+          + LCD / OLEDディスプレイ用パワーマネージメントIC
+          + VFD / LEDフロント･パネル･コントローラ
+       バッテリ･マネージメントIC
+          + バッテリ･モニタリング
+          + 充電器
+       パワー･オーバー･イーサネット
+       ホットスワップ･パワー・マネージメント
+          + Eヒューズ
+          + 電源ブレーカ＆その他ホットスワップIC
+       ボルテージ・リファレンス
+       リニア･ボルテージ・レギュレータ
+          + LDOリニア・レギュレータ
+          + スタンダード正電圧レギュレータ
+       ワイヤレス・チャージャIC
+       太陽光発電用IC
+          + MPPT内蔵DC-DCコンバータ
+       照明用IC
+          + デジタル･バラスト･コントロール
+          + 蛍光ランプ用高耐圧ドライバ
+       高密度パワー・ドライバ
+       ブラウズ パワー･モジュール
+       ACEPACK パワー・モジュール
+          + CIB
+          + Six Pack モジュール
+       SLLIMMインテリジェント・パワー･モジュール
+          + IGBTインテリジェント･モジュール(SLLIMM)
+       ブラウズ プロテクション･デバイス
+       EOS 10/1000μs サージ･プロテクション
+          + 1500W TVS（過渡電圧サプレッサ）
+          + 400W TVS（過渡電圧サプレッサ）
+          + 600W TVS（過渡電圧サプレッサ）
+          + > 1500W TVS（過渡電圧サプレッサ）
+          + 高電力密度TVS （過渡電圧サプレッサ）
+       EOS 8/20μs サージ･プロテクション
+          + データライン用プロテクション:サージ電流< 24A
+          + パワーライン用プロテクション：サージ電流>24A
+       ESDプロテクション
+          + USBポート･プロテクション
+          + アンテナ･プロテクション
+          + 汎用ESDプロテクション
+          + 高速ポート･プロテクション
+       カレント･リミッタ
+       車載用プロテクション･デバイス
+          + 車載用データライン用ESDプロテクション
+          + 車載用パワーレールTVSプロテクション
+          + 車載用ロードダンプ･プロテクション
+       雷サージ･プロテクション
+          + SLICプロテクション
+          + xDSL回線プロテクション
+          + その他通信回線プロテクション
+          + イーサネット回線プロテクション
+          + ディスクリート･サージ･サプレッサ
+       ブラウズ マイクロコントローラ & マイクロプロセッサ
+       STM32 Arm Cortex マイクロプロセッサ
+          + STM32MP1シリーズ
+       STM32 Arm-Cortex 32bitマイクロコントローラ
+          + STM32 ハイパフォーマンス・マイクロコントローラ
+          + STM32 メインストリーム・マイクロコントローラ
+          + STM32 ワイヤレス・マイクロコントローラ
+          + STM32 超低消費電力マイクロコントローラ
+       STM8 8bitマイクロコントローラ
+          + STM8AFシリーズ
+          + STM8ALシリーズ
+          + STM8Lシリーズ
+          + STM8Sシリーズ
+          + STM8Tシリーズ
+       レガシー･マイクロコントローラ
+          + ST10 16bitマイクロコントローラ
+          + ST7 8bitマイクロコントローラ
+          + ST9 8bitマイクロコントローラ
+          + STR7 32bit ARM7マイクロコントローラ
+       ブラウズ メモリ
+       シリアルEEPROM
+          + 標準シリアルEEPROM
+          + 特定用途向けシリアルEEPROM
+          + 車載用シリアルEEPROM
+       不揮発性RAM
+          + ゼロパワー
+          + バッテリ･オプション
+       ブラウズ モータ･ドライバ
+       MOSFET & IGBT ゲート･ドライバ
+          + シングルチャネル・ドライバ
+          + マルチチャネル･ドライバ
+          + 絶縁型ドライバ
+          + 高電圧ハーフブリッジ･ドライバ
+       ステッピング・モータ・ドライバ
+       ブラシレスDCモータ・ドライバ
+       ブラシ付きDCモータ・ドライバ
+          + 3相ベクトル制御（FOC）
+       ブラウズ リセット & スーパーバイザIC
+       ウォッチドッグ･タイマ
+       オン / オフ・コントローラ
+       スマート･リセットIC
+       マイクロプロセッサ･スーパーバイザ
+       リセット＆電圧検出
+       電圧保護IC
+       ブラウズ ワイヤレス･コネクティビティ
+       60GHz近距離無線通信トランシーバ
+       Bluetooth Low Enregy
+       LoRaWAN Technology
+       RFソリューション
+          + RF PLLシンセイザ
+          + RFダウンコンバータ
+       Sigfox
+       Sub 1GHz RF ICs
+       Wi-Fi
+       ブラウズ 測位IC
+       GNSS IC
+       GNSSモジュール
+       ブラウズ 車載用ADASデバイス
+       車載用イメージ・シグナル・プロセッサ
+       車載用レーダー・トランシーバ
+       ブラウズ 車載用アナログ & パワーIC
+       High and Low Side Drivers/Switches
+          + 24Vアプリケーション(トラック)用ハイサイド･スイッチ
+          + SPI搭載＆非対称出力ハイサイド･スイッチ
+          + コンフィギュラブル･ローサイド / ハイサイド・スイッチ
+          + ハイサイド･スイッチ
+          + ローサイド･スイッチ
+       LEDドライバ
+       アプリケーション専用機能
+       シャーシ＆セーフティ用IC
+          + エアバッグ用IC
+          + ステアリング用IC
+          + ブレーキ用IC
+       ドア･モジュール･ドライバ
+       バルブ･ドライバIC
+       パワー・マネジメント＆システム・ベースIC
+       パワー･トレインIC
+          + イグニッション･コントローラ･ドライバ
+          + エンジン・コントロールIC
+          + オルタネータ･レギュレータ
+          + トランスミッション
+       マルチ出力ドライバ
+       モータ･ドライバ
+       リニア・ボルテージ･レギュレータ
+       車載用オペアンプ
+       車載用コンパレータ
+       車載用パワー・ディスクリート
+          + 車載用IGBT
+          + 車載用SiCダイオード
+          + 車載用サイリスタ
+          + 車載用パワーMOSFET
+          + 車載用パワー・ショットキー・ダイオード
+          + 車載用ブリッジ整流ダイオード
+          + 車載用プロテクション＆フィルタ
+          + 車載用超高速ダイオード
+       車載用通信トランシーバ
+       ブラウズ 車載用インフォテインメント＆テレマティクス
+       テレマティクス＆コネクティビティ・プロセッサ
+       ベースバンド＆RFフロント･エンド･レシーバ
+       ラジオ受信機
+          + AM / FMチューナ
+       車載用インフォテインメントSoC
+          + インフォテインメント・プロセッサ
+       車載用オーディオ・パワー・アンプ
+          + 車載用AB級オーディオ･パワーアンプ
+          + 車載用D級オーディオ･パワーアンプ
+       車載用オーディオ・プロセッサ
+       ブラウズ 車載用マイクロコントローラ
+       SPC5 車載用32bitマイクロコントローラ
+          + SPC5 G スタンダード・マイクロコントローラ
+          + SPC5 P 高性能マイクロコントローラ
+       ST10 車載用16bitマイクロコントローラ
+       ブラウズ 車載用ロジックIC
+       カウンタ / エンコーダ / デコーダ
+       ゲート
+       バッファ / ドライバ
+       フリップフロップ（FlipFlop）/レジスタ
+       ブラウズ 高信頼性 & 航空宇宙機器用IC
+       耐放射性バイボーラ・トランジスタ
+       耐放射性パワー･マネージメント
+          + 耐放射線PWMコントローラ
+          + 耐放射線カレント・リミッタ
+          + 耐放射線ゲート･ドライバ
+          + 耐放射線ボルテージ･レギュレータ
+       耐放射線ASICプラットフォーム
+       耐放射線LVDS
+       耐放射線オペアンプ & コンパレータ
+       耐放射線ダイオード & 整流ダイオード
+       耐放射線データ･コンバータ
+       耐放射線パワーMOSFET
+       耐放射線ボルテージ･リファレンス
+       耐放射線ロジックIC
+          + 耐放射線54 AC / ACTシリーズ
+          + 耐放射線54 HC / HCTシリーズ
+          + 耐放射線54VCXシリーズ
+          + 耐放射線CMOS4000Bシリーズ
+       ブラウズ 高周波トランジスタ
+       RF DMOSトランジスタ
+          + 100 / 150V DMOS トランジスタ
+          + 工業･科学･医療＆放送機器用DMOSトランジスタ
+       RF LDMOSトランジスタ
+          + 13.6V RF LDMOS トランジスタ （HF～2GHz）
+          + 28 / 32V RF LDMOS トランジスタ（HF～1GH）
+          + 28 / 32V RF LDMOS トランジスタ（HF～2GH）
+          + 7V RF LDMOS トランジスタ（HF～2GH）
+          + 航空電子工学＆レーダー･アプリケーション用 36V RF LDMOS トランジスタ
+          + 新製品
+          + STM32ファミリ
+     * アプリケーション
+          + インダストリアル
+          + オートモーティブ
+          + パーソナル電子機器
+          + 通信機器 / コンピュータ / 周辺機器
+          + IoTアプリケーション
+          + 機能
+       ブラウズ Industrial
+       LED照明 & 制御
+          + LEDディスプレイ & 標識
+          + LED照明
+          + 照明制御
+          + 蛍光照明
+       POS & 小売物流
+          + POS
+          + バンキング･オートメーション
+          + 小売物流
+       エネルギー生成 & ディストリビューション
+          + エネルギー･ディストリビューション
+          + 分散型太陽光発電
+          + 集中型太陽光発電
+       スマート農業
+          + トラクタ
+          + 灌がいシステム
+          + 畜産用位置 & 生体情報モニタ
+          + 農産物トラッキング
+       ファクトリ･オートメーション
+          + トラッキング
+          + プログラマブル･ロジック･コントローラ（PLC）
+          + 状態監視 / 予知保全
+          + 産業システム向け通信ソリューション
+          + 産業用センサ･システム
+          + 産業用ロボット
+       ホーム / ビル / シティ･オートメーション
+          + Smart City
+          + Smart Home
+          + ビル･セーフティ & セキュリティ
+          + 空調制御
+       メディカル & ヘルスケア
+          + 医療用イメージング機器
+          + 治療装置
+          + 診断機器
+       メータ
+          + ガス･メータ
+          + 水道メータ
+          + 熱メータ
+          + 電力メータ
+       宇宙
+          + 荷重 & プラットフォーム
+          + 電源システム
+       家庭用 & 業務用電気製品
+          + ガーデニング･ロボット & 用具
+          + 大型家電製品
+          + 小型家電製品 & 調理器具
+       産業用モータ制御
+          + PMSM/ブラシレスDCモータ
+          + スイッチト･リラクタンス･モータ
+          + ステッピング･モータ
+          + ブラシ付きモータ
+          + 誘導モータ
+       産業用電源 / 産業用装置
+          + 産業用装置
+       産業用駆動装置
+          + ACドライバ
+          + サーボ･ドライバ
+          + ファン
+          + フォークリフト
+          + ポンプ
+       電源 & コンバータ
+          + AC-DCコンバータ
+          + DC-DCコンバータ
+          + TV電源
+          + サーバ & 通信電源
+          + デジタル電源
+          + 充電器 & アダプタ
+          + 産業用電源
+          + 補助電源
+       ブラウズ Automotive
+       ADAS（高度運転支援システム）
+          + 24GHzレーダー
+          + 77GHzレーダー
+          + マシン･ビジョン･システム
+          + 車内サーマル･カメラ
+          + 車載用スマート･カメラ
+          + 高解像度サーマル･カメラ
+       ICE（内燃エンジン）用パワートレイン
+          + CNG（圧縮天然ガス）エンジン制御
+          + LPG（液化石油ガス）エンジン制御
+          + オルタネータ･レギュレータ
+          + ガソリン直噴射（GDI）
+          + ガソリン･マルチポイント･インジェクション
+          + グロー･プラグ制御
+          + ディーゼル直噴射
+          + トランスミッション制御
+          + モータサイクル･エンジン制御
+          + 燃料ポンプ
+          + 選択触媒還元（SCR）システム
+       eモビリティ
+          + 48Vマイルド･ハイブリッド･システム
+          + Acoustic Vehicle Alerting System (AVAS)
+          + EV/HEV用DC-DCコンバータ
+          + EV充電
+          + オンボード･チャージャ（OBC）
+          + メイン･インバータ（電気トラクション）
+          + 小型電動車両
+          + 車両制御ユニット（VCU）
+       シャーシ & セーフティ
+          + ABS
+          + アクティブ･サスペンション
+          + エアバッグ
+          + 横滑り防止装置（ESC）
+          + 電動パワー･ステアリング（EPS）
+          + 電動パーキング･ブレーキ（EPB）
+          + 電動ブレーキ･ブースタ
+       テレマティクス & ネットワーキング
+          + FOTA（Firmware Over-The-Air）
+          + スマート･アンテナ
+          + セキュア･コネクティビティ･モジュール
+          + テレマティクス & コネクティビティ制御ユニット
+          + 車車間･路車間通信（V2X）
+          + 車載ゲートウェイ
+       ボディ & コンビニエンス
+          + LEDライト
+          + NFCキーレス･エントリ
+          + シート制御
+          + トランク制御
+          + ドア制御モジュール
+          + ドア･ロック
+          + ドーム･モジュール
+          + パワー･ディストリビューション
+          + ヒーティング･システム
+          + ヘッドアップ･ディスプレイ（HUD）
+          + ボディ制御モジュール（BCM）
+          + 冷暖房空調制御
+          + 車載ゲートウェイ
+          + 車載用USB Type-C Power Delivery
+          + 車載用ライト
+       モビリティ･サービス
+          + Automatic Tolling System
+          + Telematics Box
+          + eCall
+          + カー･シェアリング車載機器
+          + 車両管理システム用車載機器
+          + 電動自転車
+       車載インフォテインメント（IVI）
+          + インフォテインメント･モジュール
+          + カー･オーディオ
+          + 車内サーマル･カメラ
+       車載用モータ制御
+          + 車載用バイポーラ･ステッピング･モータ
+          + 車載用ブラシレスDCモータ
+          + 車載用ブラシ付きDCモータ
+       ブラウズ Personal Electronics
+       VR/AR
+          + ARヘッドセット & グラス
+          + VRコントローラ
+          + VRヘッド･マウント･ディスプレイ（HMD）
+       ウェアラブル
+          + スポーツ関連機器
+          + スマート･ウォッチ
+          + 活動量計
+       オーディオ & ビデオ
+          + TV
+          + スピーカ
+          + デジタル･カメラ
+          + ヘッドセット
+          + メディア･プレーヤ
+          + リモコン
+       ゲーム & ドローン
+          + ゲーム･コンソール
+          + ゲーム･コントローラ
+          + ドローン
+       スマートフォン / タブレット / 電子リーダ
+          + スマートフォン / タブレット / 電子リーダ
+       パーソナル･ケア & 衛生用品
+          + ポータブル･マッサージ器
+          + マッサージ器
+          + 体組成計
+          + 電動歯ブラシ
+          + 電気シェーバー / 脱毛器 / トリマー
+       ブラウズ Communications Equipment, Computers and Peripherals
+       SOHOサーバ
+          + サーバ･マザーボード
+          + ネットワーク接続ストレージ（NAS）
+          + 企業用SSD（ソリッド･ステート･ドライブ）
+       コンピュータ & 周辺機器
+          + PC周辺機器
+          + デスクトップPC
+          + ノートPC
+       データ･センター
+          + サーバ
+          + ストレージ
+          + パワー･ディストリビューション
+          + 冷暖房空調設備
+       通信インフラ
+          + 通信システム電源
+       ブラウズ IoT Applications
+       IIOT（Industrial Internet of Things）
+          + トラッキング
+          + プログラマブル･ロジック･コントローラ（PLC）
+          + 状態監視 / 予知保全
+          + 産業システム向け通信ソリューション
+          + 産業用センサ･システム
+          + 産業用ロボット
+          + 産業用装置
+          + 産業用駆動装置
+       IoT（Internet of Things）
+          + ウェアラブル
+          + オーディオ & ビデオ
+          + 治療装置
+          + 診断機器
+       スマート･ホーム & スマート･シティ用IoT
+          + POS
+          + ガス / 熱 / 水道メータ
+          + ガーデニング･ロボット & 用具
+          + バンキング･オートメーション
+          + 大型家電製品
+          + 小型家電製品 & 調理器具
+          + 小売物流
+          + 電力メータ
+       ブラウズ Functions
+       クラウド接続
+          + アプリ & ゲートウェイ方式センサ･ノード接続
+          + 直接通信方式IoTノード
+       コネクティビティ
+          + 有線通信
+          + 無線通信
+       セキュリティ
+       センシング
+          + イメージ･センシング
+          + サウンド･センシング
+          + モーション･センシング
+          + 圧力センシング
+          + 環境センシング
+          + 近接 / 測距センシング
+          + 電気的センシング
+       産業用モータ制御
+          + PMSM/ブラシレスDCモータ
+          + スイッチト･リラクタンス･モータ
+          + ステッピング･モータ
+          + ブラシ付きモータ
+          + 誘導モータ
+       車載用モータ制御
+          + 車載用バイポーラ･ステッピング･モータ
+          + 車載用ブラシレスDCモータ
+          + 車載用ブラシ付きDCモータ
+          + 新製品
+          + STM32ファミリ
+     * ツール & ソフトウェア
+          + 評価ツール
+          + 開発ツール
+          + カリキュレータ/製品セレクタ/シミュレータ
+          + 組込み用ソフトウェア
+          + 開発環境
+       ブラウズ Evaluation Tools
+       ソリューション用評価ボード
+          + LED＆一般照明機器用評価ボード
+          + PC周辺機器用評価ボード
+          + エネルギー＆スマートグリッド･ソリューション用評価ボード
+          + コンスーマ機器用評価ボード
+          + センサIC用評価ボード
+          + プロセス･コントロール＆オートメーション･ソリューション用評価ボード
+          + ヘルスケア＆ウェルネス･ソリューション用評価ボード
+          + モータ制御ソリューション用評価ボード
+          + 交通システム･ソリューション用評価ボード
+          + 家電製品コントロール
+          + 建築技術ソリューション用評価ボード
+          + 通信＆コネクティビティ･ソリューション用評価ボード
+          + 電源＆コンバータ･ソリューション用評価ボード
+       評価ツール
+          + GNSS ICs Eval Boards
+          + MEMSモーションセンサ用評価ボード
+          + RFパワートランジスタ用評価ボード
+          + Secure MCU Eval Boards
+          + STM32 Nucleo expansion boards
+          + イメージングIC用評価ボード
+          + オペアンプ＆コンパレータIC用評価ボード
+          + オーディオIC用評価ボード
+          + マイクロコントローラ用評価ツール
+          + メモリIC用評価ボード
+          + 組込みマイクロプロセッサ用評価ボード
+          + 航空･宇宙機器IC用評価ボード
+          + 車載用IC評価ボード
+       ブラウズ Development Tools
+       ハードウェア 開発ツール
+          + Development Tool Hardware from Partners
+          + Security Hardware Development Tools
+          + SPC5ｘマイクロコントローラ用デバッグ･ハードウェア
+          + STM32マイクロコントローラ用デバッグ･ハードウェア
+          + STM8マイクロコントローラ用プログラミング・ハードウェア
+          + レガシー･マイコン開発キット用アクセサリ
+       ソフトウェア開発ツール
+          + Audio ICs Software Development Tools
+          + Digital Power Conversion Software Development Tools
+          + Legacy MCUs Software Development Tools
+          + Motor Control Software Development Tools
+          + Simulators
+          + SPC5 Software Development Tools
+          + SPEARプロセッサ用ソフトウェア
+          + STM32 Software Development Tools
+          + STM8 Software Development Tools
+          + デジタルAV用システム評価ボード
+       ブラウズ Calculators, Selectors, Simulators
+       eDesignSuite
+       Calculators
+       Selectors
+       Simulators and Models
+       ブラウズ Embedded Software
+       MEMS用ソフトウェア
+          + Drivers for MEMS
+          + iNemoエンジン用ソフトウェア･ライブラリ
+          + Open.MEMS
+       マイクロコントローラ用ソフトウェア
+          + SPC5x マイクロコントローラ用ソフトウェア
+          + STM32マイクロコントローラ用ソフトウェア
+          + STM8 マイクロコントローラ用ソフトウェア
+          + レガシー･マイコン用ソフトウェア
+       ブラウズ Ecosystems
+       STM32 Open Development Environment
+          + STM32 Nucleo
+          + STM32 Nucleo Expansion Boards
+          + STM32 ODE Function Packs
+          + STM32Cube
+          + STM32Cube Expansion Software
+       クラウド
+       コンポーネント&モジュール
+       STM32 Graphic User Interface
+       Neural Network solutions on STM32
+       STM32Cube Ecosystem
+       MadeForSTM32™
+       STM32Trust
+          + 新製品
+          + STM32ファミリ
+     * STについて
+          + 企業情報
+          + イノベーション & テクノロジー
+          + 品質 & 信頼性
+          + イベント
+          + メディア センター
+          + 投資家情報（IR）
+          + 採用情報
+          + 持続可能性
+          + 購買
+       ブラウズ Company Information
+       基本情報
+       経営陣
+       ST Code of Conduct
+       ブログ
+       ブラウズ Innovation & Technology
+       イノベーション & テクノロジー
+       人工知能（AI）
+       BCD
+       VIPower
+       SiC
+       窒化ガリウム
+       BiCMOS
+       FD-SOI
+          + FD-SOIの詳細
+          + FD-SOI: 効率とメリット
+          + FD-SOI Technology Platform
+       RF-SOI
+       PCM
+       MEMS
+          + 車載システム･産業機器向けMEMS
+       イメージング･プレミアム･ファンドリ
+       ブラウズ Quality and Reliability
+       顧客満足度
+          + 顧客満足度向上への取組み
+          + 5つの卓越性
+          + 顧客満足度指標
+       Quality Strategy
+       Customer Quality
+          + Complaint Management
+          + Customer Requirements
+          + Returns Process
+       Change Management
+          + 通知
+       Quality in Product and Technology Development
+          + ST industry domains
+          + Failure Mode Knowledge Matrix
+          + Development flow
+       Manufacturing and Supply Chain Quality
+          + Non-conformity Management
+          + Supplier Quality Management
+          + Traceability
+       People in Quality
+       Business Process, Tools and Indicators
+          + Quality Management System
+          + Quality audits
+       Economic Value of Quality
+       Product Environmental Compliance
+          + 材料宣誓書
+       Certifications
+       Product Longevity
+       ブラウズ Events
+       イベント & 技術セミナー
+          + 過去のイベント
+       ブラウズ Media Center
+       プレスリリース配信登録
+       報道関係者お問合せ
+       参考情報
+       ニュースルーム
+       ブラウズ Investor Relations
+       投資家情報（IR）
+       企業ニュース
+       アニュアル/セミアニュアル レポート
+       四半期業績
+       カレンダー & プレゼンテーション
+       株主総会
+       株式情報
+       配当金
+       米国SEC提出書類
+       Institutional Coverage
+       IRお問合せ
+       メールアラート
+       情報請求
+       RSS feeds
+       コーポレート･ガバナンス
+       ブラウズ Careers at ST
+       採用情報検索
+       インターンシップ & 論文研究
+       働く環境
+          + 人事制度
+          + 機会均等
+          + 福利厚生
+          + キャリア開発
+          + 健康プログラム
+       ブラウズ Sustainability
+       サステナビリティへの取組み
+          + サステナビリティ戦略
+          + コーポレート･ガバナンス
+          + ステークホルダーとの対話
+          + Value Chain
+          + 業界団体・国際機関への参加
+          + サステナビリティ格付 & ランキング
+       Sustainability Priorities
+          + Education & Volunteering
+          + Health & Safety
+          + イノベーション
+          + Labor & Human Rights
+          + People Development & Engagement
+          + カスタマー･リレーション
+          + Supply Chain Responsibility
+          + Sustainable Profit
+          + 持続可能な技術
+          + 化学
+          + Energy & Climate Change
+          + Waste
+          + Water
+          + Diversity & Inclusion
+       サステナビリティ･リポート
+       ブラウズ Procurement
+       General terms and conditions
+          + 新製品
+          + STM32ファミリ
+
+     * サンプル & 購入
+          + eSToreから購入
+          + STセールスオフィス & 販売代理店
+     * サポート & コミュニティ
+          + Support Home
+          + お問い合わせ
+              _________________________________________________________
+
+          + パートナー・プログラム
+              _________________________________________________________
+
+          + Learning Home
+          + ビデオ・センター
+              _________________________________________________________
+
+          + STコミュニティ
+     * ログイン
+
+   サポート & フィードバック
+
+Let us help you!
+
+   サポート
+
+   さまざまなサポートを選択できます
+
+   お問合せ
+
+   STのセールオフィスや販売代理店の検索はこちら
+
+   ウェブサイトに関するご意見をSTコミュニティにお寄せください
+   (BUTTON) 閉じる
+
+     * STマイクロエレクトロニクスについて
+     * 基本情報
+     * 投資家情報（IR）
+     * サステナビリティへの取組み
+     * イノベーション & テクノロジー
+     * 採用情報
+
+     * お問合せ
+     * STオフィス
+     * STセールスオフィス & 販売代理店
+     * コミュニティ
+     * メディア センター
+     * イベント & 技術セミナー
+
+     * 個人情報
+     * 個人情報保護方針
+     * Cookieポリシー
+     * ユーザの権利行使
+
+     * ニュースレター 登録
+     * ____________________ 送信
+       x
+       Subscription to ST newsletters
+       Email: *
+       ____________________
+       [ ]
+       STの最新情報を受け取る
+       私は、STが、個人情報保護方針によるところのデータ管理者として、私のアクセス履歴を記録し、その情報ならびに私がSTに通知した個人データ
+       を、私の興味に関連するマーケティング目的のために使用すること、ならびに私の個人データが、ヨーロッパ連合内およびヨーロッパ連合外の国にあ
+       るSTの関連会社およびSTの販売代理店に対し、当該マーケティング目的のために提供されることに同意します。
+       [read_more_ja.png]
+       ---------
+       私は、私が受け取る連絡に含まれるオプトアウトリンクを通じて、または私のアカウント設定により、いつでも私の同意を撤回できること、ならびに
+       個人情報保護方針の定めにより、私がそれ以外のユーザーの権利をいつでも行使することができることを認識しています。
+       ST will retain your browsing history and use details of the
+       products and services that you have previously accessed, purchased
+       or downloaded to make suggestions to you for other products and
+       services which ST believe you will also be interested in.
+       ST uses the personal data that you provide directly to it and
+       through your activity on ST websites in accordance with the Privacy
+       Policy, to send you (directly or via ST local affiliates or
+       distributors) newsletters, advertisements or other specific and
+       targeted marketing material about ST products and services. Your
+       personal data will be provided to ST local affiliates and
+       distributors in countries located in the European Union and outside
+       of the European Union. You can consult the list of ST local
+       affiliates and distributors in our website’s Privacy Policy. To
+       send you specific and targeted marketing material, the information
+       that you provide directly to ST and/or through your activity on ST
+       websites may also be combined with other information that ST
+       obtains from you in another context (e.g. if you enter into a
+       business relationship with ST, its local affiliates or
+       distributors).
+       [ ] I have read and understood the Terms of Use  and Privacy Policy
+       *
+       続行
+       x
+       Your newsletter subscription has been successfully submitted!
+
+To validate your subscription, please click on the link inside the email that
+has been sent to you. This link will be valid for 24 hours. Please check your
+spam filters in case you did not receive the email.
+
+   フォローする
+   ST 最新情報
+   STMicroelectronics to Reveal its Latest Products and Solutions at
+   electronica India and SmartCards Expo
+
+   Sep 24, 2019
+
+   STMicroelectronics to Reveal its Latest Products and Solutions at
+   electronica India and SmartCards Expo
+   STMicroelectronics Brings 32-Bit-MCU Possibilities to Simple
+   Applications with First 8-Pin STM32 Microcontrollers
+
+   Sep 19, 2019
+
+   STMicroelectronics Brings 32-Bit-MCU Possibilities to Simple
+   Applications with First 8-Pin STM32 Microcontrollers
+   New VIPer Converter from STMicroelectronics Features Market’s Highest
+   MOSFET Breakdown Voltage, 1050V, for Robust and Reliable Power Supplies
+
+   Jul 29, 2019
+
+   New VIPer Converter from STMicroelectronics Features Market’s Highest
+   MOSFET Breakdown Voltage, 1050V, for Robust and Reliable Power Supplies
+   STMicroelectronics Strengthens STM32 Microcontroller Ecosystem with
+   MadeForSTM32 Quality Label
+
+   Jul 11, 2019
+
+   STMicroelectronics Strengthens STM32 Microcontroller Ecosystem with
+   MadeForSTM32 Quality Label
+   embOS: The RTOS in Billions of Devices and Its Optimizations for STM32
+
+   Jul 10, 2019
+
+   embOS: The RTOS in Billions of Devices and Its Optimizations for STM32
+   Unison RTOS for STM32 at the Crossroads of Hardware and Software
+
+   Jul 9, 2019
+
+   Unison RTOS for STM32 at the Crossroads of Hardware and Software
+   STM32L4 and STM32H7 in a Solar Car Unveiled in Canada and Racing in
+   Australia
+
+   Jul 4, 2019
+
+   STM32L4 and STM32H7 in a Solar Car Unveiled in Canada and Racing in
+   Australia
+   All rights reserved © 2019 STMicroelectronics
+   サイトのご利用条件 | 販売取引条件 | 個人情報保護方針 | Cookieポリシー | ユーザの権利行使
+
+   logo
+
+   製品
+   アプリケーション
+   ツール & ソフトウェア
+   ログイン
+
+     * サポート & コミュニティ
+          + 戻る
+          + Support Home
+          + お問い合わせ
+          + パートナー・プログラム
+          + Learning Home
+          + ビデオ・センター
+          + STコミュニティ
+     * サンプル & 購入
+          + 戻る
+          + eSToreから購入
+          + STセールスオフィス & 販売代理店
+     * STについて
+          + 戻る
+          + 企業情報
+          + イノベーション & テクノロジー
+          + 品質 & 信頼性
+          + イベント
+          + メディア センター
+          + 投資家情報（IR）
+          + 採用情報
+          + 持続可能性
+          + 購買
+     * お問い合わせ
+     * Language: Japanese
+          + 戻る
+          + English
+          + 中文
+          + 日本語
+
+Sorry! Your browser is out-of-date
+
+   This browser is out of date and not supported by st.com.
+   As a result, you may be unable to access certain features.
+   Consider that modern browsers:
+     * are more secure and protect better during navigation
+     * are faster
+     * are more compatible with newer technologies
+     * provide a better experience and features
+
+   [ ] Don't show this message again
+   (BUTTON) I got it
+
+   So why not taking the opportunity to update your browser and see this
+   site correctly?
+   Google Chrome Mozilla Firefox

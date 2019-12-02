@@ -1,0 +1,1186 @@
+   Aller au contenu principal
+
+   iGeneration
+    ▼
+     * Actualités
+     * Tests
+     * Galerie
+     * Forums
+     * Contact
+     * Nous soutenir
+
+   ☰
+
+     * MacGeneration
+     * WatchGeneration
+     * iOccasion
+     * RefurbGeneration
+     * Shop
+
+   Se connecter/S’inscrire
+   Comment trouver le bon câble USB-C
+   Saisissez vos mots-clés
+   ____________________________________________________________
+   Rechercher
+   Saisissez vos mots-clés
+   ____________________________________________________________
+   Rechercher
+
+     * MacGeneration
+     * WatchGeneration
+     * iOccasion
+     * RefurbGeneration
+     * Shop
+
+     * Actualités
+     * Tests
+     * Galerie
+     * Forums
+     * Contact
+     * Nous soutenir
+
+   App Store
+   8 commentaires
+
+Hudway diffuse les infos GPS de l’iPhone sur le pare-brise
+
+   François Tsunamida | 19/11/2013 à 14:20
+
+   Les systèmes de navigation par satellite simplifient la conduite. Mais
+   le fait de devoir fréquemment jeter un coup d'œil à l'écran sur lequel
+   s'affiche le plan -et donc à quitter la route des yeux un instant-,
+   reste potentiellement dangereux.
+
+   [macgpic-1384866617-204982692154907-sc-op.jpg]
+
+   L'application Hudway du russe Russian Informational Technologies (RIT)
+   Soft propose une solution : elle se sert d'un iPhone (ou d'un iPad)
+   pour afficher sur la vitre du pare-brise l'aspect de la route (droite,
+   virages, ronds-points ou croisements…) que le véhicule parcourra dans
+   quelques minutes plus tard (sans équipement supplémentaire).
+
+   [macgpic-1384866699-205063995938836-sc-op.jpg]
+
+   Cette simulation d'affichage tête haute dépend bien sûr de différents
+   facteurs (luminosité, propreté du pare-brise, conditions
+   météorologiques…). Mais son point fort reste sa simplicité : il suffit
+   de poser le terminal iOS sur le tableau de bord sans avoir à se munir
+   d'accessoires (casque ou des lunettes spéciales) ou de film plastique à
+   coller sur le pare-brise. L'application, gratuite au téléchargement,
+   comporte en effet des achats in-app : 0,89 € pour se débarrasser des
+   publicités qui défilent au bas de l'écran, et 1,79 € pour utiliser la
+   version pro, qui affiche des informations complémentaires.
+
+   [macgpic-1384866733-205098850602019-sc-op.jpg]
+
+   Après avoir sélectionné la destination où l'on se rend, le chemin à
+   parcourir apparaît grâce au GPS, mais de façon inversée sur l'écran
+   afin de s'afficher correctement reflétée sur le pare-brise. La carte
+   routière se télécharge via un réseau WiFi avant de partir si l'on
+   souhaite se passer d'une connexion permanente au réseau cellulaire,
+   permettant de se servir d'Hudway dans des zones mal couvertes ou pas
+   couvertes du tout. L'application vide la batterie de l'iPhone/iPad
+   assez rapidement, car elle passe son temps à faire des calculs pour
+   faire coïncider les données fournies par le GPS avec la carte, et doit
+   afficher en permanence à l'écran la direction que prend la route de
+   façon suffisamment claire.
+
+   [macgpic-1384866757-205122231014245-sc-op.jpg]
+
+   Outre l'indication que va prendre la route sur laquelle on chemine,
+   Hudway affiche la vitesse du véhicule et la distance qui le sépare du
+   virage potentiellement dangereux. Lorsque la route prend un angle un
+   peu trop accentué, le virage s'affiche en rouge pour attirer
+   l'attention du conducteur. Des repères visuels sont affichés tous les
+   50 mètres le long de la route permettent d'avoir une idée instantanée
+   de la distance séparant d'un tournant, par exemple, en cas de
+   brouillard ou lors d'une nuit profonde.
+   [14:41 | Hudway diffuse les infos GPS de l’iPhone sur le pare-brise______
+   ________...]
+   Tags
+   #hudway
+
+À la une
+
+   Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient
+   aussi concernés
+
+Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient aussi
+concernés
+
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+
+Apple Watch : Apple lance un programme de remplacement pour des écrans
+fissurés
+
+   Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+   domicile
+
+Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+domicile
+
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+Ailleurs sur le web
+
+8 commentaires
+
+   avatar bde245 |  19/11/2013 à 14:39
+   À voir mais en principe un dispositif de visu tête haute comme il en
+   existe dans les avions et sur quelques voitures haut-de-gamme, utilise
+   un dispositif optique (en général holographique) pour placer les
+   éléments projetés à l'équivalent d'une distance infinie. Faute de quoi
+   l'œil va regarder le pare-brise et pas la route.
+   avatar Billytyper2 |  19/11/2013 à 15:58
+   On attend juste la version iOS d'Aperture ou Lightroom pour que Hudway
+   soit réellement fonctionnel. Le premier pour flouter le parre-brise et
+   le deuxième va pouvoir enfin s'afficher clairement?
+   avatar jibu |  19/11/2013 à 16:17
+   Hyper dangereux si on laisse s'afficher les publicités!!! Et comme dit
+   plus haut, la distance d'accommodation de l'œil n'est pas la même, ce
+   qui n'est bon.
+   avatar cadillacaca |  19/11/2013 à 17:58
+   Et le nouveau rond-point pas encore repéré, c'est pas dangereux ?
+   avatar voodoo10 |  19/11/2013 à 19:55
+   J'ai jamais compris pourquoi les autres applications GPS ne le font pas
+   depuis longtemps... Il me semble même qu'il y a un utilitaire qui
+   permet d'inverser l'image de l'écran pour le faire avec n'importe quel
+   App... Même si on voit flou la route, on la garde dans son champ de
+   vision, contrairement au GPS ou il faut détourner le regard...
+
+   CONNEXION UTILISATEUR
+   Nom d'utilisateur * _______________
+   Mot de passe * _______________
+     * Créer un nouveau compte
+     * Demander un nouveau mot de passe
+
+   Se connecter
+
+Actualités
+
+   Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient
+   aussi concernés
+   12:52 | 8 commentaires
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+   11:12
+   iOS 13 : des références pointent vers des lunettes AR
+   11:12
+   Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+   domicile
+   | 01/09 10:00 | 66 commentaires
+   Découvrez le 1er tensiomètre avec avec ECG & stéthoscope électronique
+   Partenaire
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+   31/08 10:00 | 32 commentaires
+   Des étuis en disent un peu plus sur l'iPhone 11
+   30/08 22:19 | 96 commentaires
+   Enfin un boîtier de protection pour l'Apple Card 😅
+   | 30/08 21:51 | 56 commentaires
+   Europe : Apple a-t-elle enfreint le RGPD avec le programme d'écoute de
+   Siri ?
+   30/08 21:23 | 38 commentaires
+   Apple Tag : une idée du design du traqueur d'objets d'Apple
+   30/08 20:48 | 81 commentaires
+   Aux États-Unis, Apple Pay toujours loin derrière la carte de crédit
+   30/08 19:49 | 24 commentaires
+   Ces AirPods en or 18 carats sont absolument brillants
+   | 30/08 18:15 | 54 commentaires
+   iPhone 11 : une commercialisation attendue entre les 13 et 20 septembre
+   30/08 17:10 | 71 commentaires
+   Apple va encore durcir ses conditions de reprise des iPhone
+   | 30/08 11:30 | 29 commentaires
+   iOccasion encore plus pratique pour vos petites annonces !
+   30/08 09:20
+   Des iPhone ont pu être piratés pendant des années, démontre Google
+   30/08 08:31 | 214 commentaires
+   Avec le Galaxy Note10+, Samsung tient enfin un smartphone plus rapide
+   que l'iPhone XS Max
+   29/08 21:57 | 122 commentaires
+   L'enceinte Galaxy Home n'est pas encore sortie que la version mini fait
+   son apparition
+   29/08 21:00 | 4 commentaires
+   Canal+ pourrait distribuer Netflix
+   29/08 20:14 | 54 commentaires
+   Officiel : Apple présentera les iPhone 2019 le 10 septembre
+   29/08 18:05 | 158 commentaires
+   Les réparateurs indépendants vont pouvoir se fournir chez Apple pour
+   réparer l'iPhone hors garantie
+   29/08 15:35
+
+Tests
+
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+   Test des enceintes Symfonisk du duo IKEA-Sonos
+
+Test des enceintes Symfonisk du duo IKEA-Sonos
+
+Galerie
+
+   Enfin un boîtier de protection pour l'Apple Card 😅
+
+Enfin un boîtier de protection pour l'Apple Card 😅
+
+   Ces AirPods en or 18 carats sont absolument brillants
+
+Ces AirPods en or 18 carats sont absolument brillants
+
+iOccasion
+
+   (BUTTON) Vip (BUTTON) Mac (BUTTON) iPad (BUTTON) iPhone (BUTTON) Watch
+
+RefurbGeneration
+
+   Créer une alerte →
+   iPhone X
+
+iPhone X
+
+   879 €
+   iPad Pro 9,7 pouces Wi-Fi
+
+iPad Pro 9,7 pouces Wi-Fi
+
+   489 €
+   iPad Pro 10,5 pouces Wi-Fi
+
+iPad Pro 10,5 pouces Wi-Fi
+
+   539 €
+   iPhone 8 Plus
+
+iPhone 8 Plus
+
+   679 €
+
+Sur MacG et WatchG
+
+   Orange prévient ses abonnés que BFM TV pourrait couper
+   10:50
+   iOS 13 : des références pointent vers des lunettes AR
+   10:37
+   L'iMac 21,5 pouces début 2013 est obsolète
+   31/08 18:47
+   Des fonds d'écran venus de l'espace à télécharger gratuitement
+   31/08 14:22
+   iOccasion encore plus pratique pour vos petites annonces !
+   31/08 09:20
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+   31/08 08:47
+   Siri lacera sans se lasser les nouvelles chaussures de Nike
+   29/08 18:00
+   Les AirPods 2 à induction à 169 € sur Amazon, leur meilleur prix
+   jusqu'à présent
+   29/08 16:02
+   Fitbit lance une Versa 2 compatible Alexa et un nouvel abonnement
+   28/08 16:10
+
+Sondage
+
+   Voir les résultats →
+   Utilisez-vous des applications de services de VTC ?
+   Choix
+   (_) Oui, régulièrement
+   (_) Oui, de temps en temps
+   (_) Non, je préfère les taxis
+   (_) Non, c'est trop cher
+   (_) J'ai une voiture/je prend les transports en commun
+   (_) Sans avis
+   Voter
+     * Sondages plus anciens
+     * Résultats
+
+   Continuez à lire iGeneration :  sur votre iPhone sur votre Mac
+   sur Twitter sur Facebook par RSS par mail
+
+   Continuez à lire iGeneration :
+
+                                  Actualités
+
+     * iPhone
+     * iPad
+     * iOS
+     * App Store
+     * Domotique
+     * Télécoms
+     * Accessoires
+     * Android
+     * Ailleurs
+     * Services
+     * Apple TV
+
+                                    Galeries
+
+     * Photos
+     * Vidéos
+
+                                     Tests
+
+     * Matériel
+     * Accessoire
+     * Logiciel
+
+                           À propos de MacGeneration
+
+     * Mentions légales
+     * Conditions générales d’utilisation
+     * Politique de gestion des données personnelles
+     * Notre équipe
+     * Notre entreprise
+     *
+
+                           Les sites de MacGeneration
+
+     * MacGeneration
+     * iGeneration
+     * WatchGeneration
+     * Je veux le.top
+     * iOccasion
+     * RefurbGeneration
+
+                         Les services de MacGeneration
+
+     * Test de débit
+     * Boutique MacG
+     __________________________________________________________________
+
+   Fièrement publié depuis 1999 par MacGeneration SARL.
+
+   Service de presse en ligne reconnu par la CCPAP sous le numéro 0919 W
+   93490. Tous droits réservés.
+
+   Version 1.3. Choix des cookies .
+   Aller au contenu principal
+
+   iGeneration
+
+          Hudway diffuse les infos GPS de l’iPhone sur le pare-brise
+
+   François Tsunamida | 19/11/2013 à 14:20
+
+   Les systèmes de navigation par satellite simplifient la conduite. Mais
+   le fait de devoir fréquemment jeter un coup d'œil à l'écran sur lequel
+   s'affiche le plan -et donc à quitter la route des yeux un instant-,
+   reste potentiellement dangereux.
+
+   L'application Hudway du russe Russian Informational Technologies (RIT)
+   Soft propose une solution : elle se sert d'un iPhone (ou d'un iPad)
+   pour afficher sur la vitre du pare-brise l'aspect de la route (droite,
+   virages, ronds-points ou croisements…) que le véhicule parcourra dans
+   quelques minutes plus tard (sans équipement supplémentaire).
+
+   Cette simulation d'affichage tête haute dépend bien sûr de différents
+   facteurs (luminosité, propreté du pare-brise, conditions
+   météorologiques…). Mais son point fort reste sa simplicité : il suffit
+   de poser le terminal iOS sur le tableau de bord sans avoir à se munir
+   d'accessoires (casque ou des lunettes spéciales) ou de film plastique à
+   coller sur le pare-brise. L'application, gratuite au téléchargement,
+   comporte en effet des achats in-app : 0,89 € pour se débarrasser des
+   publicités qui défilent au bas de l'écran, et 1,79 € pour utiliser la
+   version pro, qui affiche des informations complémentaires.
+
+   Après avoir sélectionné la destination où l'on se rend, le chemin à
+   parcourir apparaît grâce au GPS, mais de façon inversée sur l'écran
+   afin de s'afficher correctement reflétée sur le pare-brise. La carte
+   routière se télécharge via un réseau WiFi avant de partir si l'on
+   souhaite se passer d'une connexion permanente au réseau cellulaire,
+   permettant de se servir d'Hudway dans des zones mal couvertes ou pas
+   couvertes du tout. L'application vide la batterie de l'iPhone/iPad
+   assez rapidement, car elle passe son temps à faire des calculs pour
+   faire coïncider les données fournies par le GPS avec la carte, et doit
+   afficher en permanence à l'écran la direction que prend la route de
+   façon suffisamment claire.
+
+   Outre l'indication que va prendre la route sur laquelle on chemine,
+   Hudway affiche la vitesse du véhicule et la distance qui le sépare du
+   virage potentiellement dangereux. Lorsque la route prend un angle un
+   peu trop accentué, le virage s'affiche en rouge pour attirer
+   l'attention du conducteur. Des repères visuels sont affichés tous les
+   50 mètres le long de la route permettent d'avoir une idée instantanée
+   de la distance séparant d'un tournant, par exemple, en cas de
+   brouillard ou lors d'une nuit profonde.
+
+Téléchargez nos applications
+
+   Sur iPhone | Sur Android
+   Accédez aux commentaires de l'article
+
+À la une
+
+Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient aussi
+concernés
+
+Apple Watch : Apple lance un programme de remplacement pour des écrans
+fissurés
+
+Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+domicile
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+   Continuez à lire iGeneration :
+
+   Fièrement publié depuis 1999 par MacGeneration SARL.
+   Aller au contenu principal
+
+   iGeneration
+    ▼
+     * Actualités
+     * Tests
+     * Galerie
+     * Forums
+     * Contact
+     * Nous soutenir
+
+   ☰
+
+     * MacGeneration
+     * WatchGeneration
+     * iOccasion
+     * RefurbGeneration
+     * Shop
+
+   Se connecter/S’inscrire
+   Comment trouver le bon câble USB-C
+   Saisissez vos mots-clés
+   ____________________________________________________________
+   Rechercher
+   Saisissez vos mots-clés
+   ____________________________________________________________
+   Rechercher
+
+     * MacGeneration
+     * WatchGeneration
+     * iOccasion
+     * RefurbGeneration
+     * Shop
+
+     * Actualités
+     * Tests
+     * Galerie
+     * Forums
+     * Contact
+     * Nous soutenir
+
+   App Store
+   8 commentaires
+
+Hudway diffuse les infos GPS de l’iPhone sur le pare-brise
+
+   François Tsunamida | 19/11/2013 à 14:20
+
+   Les systèmes de navigation par satellite simplifient la conduite. Mais
+   le fait de devoir fréquemment jeter un coup d'œil à l'écran sur lequel
+   s'affiche le plan -et donc à quitter la route des yeux un instant-,
+   reste potentiellement dangereux.
+
+   [macgpic-1384866617-204982692154907-sc-op.jpg]
+
+   L'application Hudway du russe Russian Informational Technologies (RIT)
+   Soft propose une solution : elle se sert d'un iPhone (ou d'un iPad)
+   pour afficher sur la vitre du pare-brise l'aspect de la route (droite,
+   virages, ronds-points ou croisements…) que le véhicule parcourra dans
+   quelques minutes plus tard (sans équipement supplémentaire).
+
+   [macgpic-1384866699-205063995938836-sc-op.jpg]
+
+   Cette simulation d'affichage tête haute dépend bien sûr de différents
+   facteurs (luminosité, propreté du pare-brise, conditions
+   météorologiques…). Mais son point fort reste sa simplicité : il suffit
+   de poser le terminal iOS sur le tableau de bord sans avoir à se munir
+   d'accessoires (casque ou des lunettes spéciales) ou de film plastique à
+   coller sur le pare-brise. L'application, gratuite au téléchargement,
+   comporte en effet des achats in-app : 0,89 € pour se débarrasser des
+   publicités qui défilent au bas de l'écran, et 1,79 € pour utiliser la
+   version pro, qui affiche des informations complémentaires.
+
+   [macgpic-1384866733-205098850602019-sc-op.jpg]
+
+   Après avoir sélectionné la destination où l'on se rend, le chemin à
+   parcourir apparaît grâce au GPS, mais de façon inversée sur l'écran
+   afin de s'afficher correctement reflétée sur le pare-brise. La carte
+   routière se télécharge via un réseau WiFi avant de partir si l'on
+   souhaite se passer d'une connexion permanente au réseau cellulaire,
+   permettant de se servir d'Hudway dans des zones mal couvertes ou pas
+   couvertes du tout. L'application vide la batterie de l'iPhone/iPad
+   assez rapidement, car elle passe son temps à faire des calculs pour
+   faire coïncider les données fournies par le GPS avec la carte, et doit
+   afficher en permanence à l'écran la direction que prend la route de
+   façon suffisamment claire.
+
+   [macgpic-1384866757-205122231014245-sc-op.jpg]
+
+   Outre l'indication que va prendre la route sur laquelle on chemine,
+   Hudway affiche la vitesse du véhicule et la distance qui le sépare du
+   virage potentiellement dangereux. Lorsque la route prend un angle un
+   peu trop accentué, le virage s'affiche en rouge pour attirer
+   l'attention du conducteur. Des repères visuels sont affichés tous les
+   50 mètres le long de la route permettent d'avoir une idée instantanée
+   de la distance séparant d'un tournant, par exemple, en cas de
+   brouillard ou lors d'une nuit profonde.
+   [14:41 | Hudway diffuse les infos GPS de l’iPhone sur le pare-brise______
+   ________...]
+   Tags
+   #hudway
+
+À la une
+
+   Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient
+   aussi concernés
+
+Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient aussi
+concernés
+
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+
+Apple Watch : Apple lance un programme de remplacement pour des écrans
+fissurés
+
+   Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+   domicile
+
+Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+domicile
+
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+Ailleurs sur le web
+
+8 commentaires
+
+   avatar bde245 |  19/11/2013 à 14:39
+   À voir mais en principe un dispositif de visu tête haute comme il en
+   existe dans les avions et sur quelques voitures haut-de-gamme, utilise
+   un dispositif optique (en général holographique) pour placer les
+   éléments projetés à l'équivalent d'une distance infinie. Faute de quoi
+   l'œil va regarder le pare-brise et pas la route.
+   avatar Billytyper2 |  19/11/2013 à 15:58
+   On attend juste la version iOS d'Aperture ou Lightroom pour que Hudway
+   soit réellement fonctionnel. Le premier pour flouter le parre-brise et
+   le deuxième va pouvoir enfin s'afficher clairement?
+   avatar jibu |  19/11/2013 à 16:17
+   Hyper dangereux si on laisse s'afficher les publicités!!! Et comme dit
+   plus haut, la distance d'accommodation de l'œil n'est pas la même, ce
+   qui n'est bon.
+   avatar cadillacaca |  19/11/2013 à 17:58
+   Et le nouveau rond-point pas encore repéré, c'est pas dangereux ?
+   avatar voodoo10 |  19/11/2013 à 19:55
+   J'ai jamais compris pourquoi les autres applications GPS ne le font pas
+   depuis longtemps... Il me semble même qu'il y a un utilitaire qui
+   permet d'inverser l'image de l'écran pour le faire avec n'importe quel
+   App... Même si on voit flou la route, on la garde dans son champ de
+   vision, contrairement au GPS ou il faut détourner le regard...
+
+   CONNEXION UTILISATEUR
+   Nom d'utilisateur * _______________
+   Mot de passe * _______________
+     * Créer un nouveau compte
+     * Demander un nouveau mot de passe
+
+   Se connecter
+
+Actualités
+
+   Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient
+   aussi concernés
+   12:52 | 8 commentaires
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+   11:12
+   iOS 13 : des références pointent vers des lunettes AR
+   11:12
+   Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+   domicile
+   | 01/09 10:00 | 66 commentaires
+   Découvrez le 1er tensiomètre avec avec ECG & stéthoscope électronique
+   Partenaire
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+   31/08 10:00 | 32 commentaires
+   Des étuis en disent un peu plus sur l'iPhone 11
+   30/08 22:19 | 96 commentaires
+   Enfin un boîtier de protection pour l'Apple Card 😅
+   | 30/08 21:51 | 56 commentaires
+   Europe : Apple a-t-elle enfreint le RGPD avec le programme d'écoute de
+   Siri ?
+   30/08 21:23 | 38 commentaires
+   Apple Tag : une idée du design du traqueur d'objets d'Apple
+   30/08 20:48 | 81 commentaires
+   Aux États-Unis, Apple Pay toujours loin derrière la carte de crédit
+   30/08 19:49 | 24 commentaires
+   Ces AirPods en or 18 carats sont absolument brillants
+   | 30/08 18:15 | 54 commentaires
+   iPhone 11 : une commercialisation attendue entre les 13 et 20 septembre
+   30/08 17:10 | 71 commentaires
+   Apple va encore durcir ses conditions de reprise des iPhone
+   | 30/08 11:30 | 29 commentaires
+   iOccasion encore plus pratique pour vos petites annonces !
+   30/08 09:20
+   Des iPhone ont pu être piratés pendant des années, démontre Google
+   30/08 08:31 | 214 commentaires
+   Avec le Galaxy Note10+, Samsung tient enfin un smartphone plus rapide
+   que l'iPhone XS Max
+   29/08 21:57 | 122 commentaires
+   L'enceinte Galaxy Home n'est pas encore sortie que la version mini fait
+   son apparition
+   29/08 21:00 | 4 commentaires
+   Canal+ pourrait distribuer Netflix
+   29/08 20:14 | 54 commentaires
+   Officiel : Apple présentera les iPhone 2019 le 10 septembre
+   29/08 18:05 | 158 commentaires
+   Les réparateurs indépendants vont pouvoir se fournir chez Apple pour
+   réparer l'iPhone hors garantie
+   29/08 15:35
+
+Tests
+
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+   Test des enceintes Symfonisk du duo IKEA-Sonos
+
+Test des enceintes Symfonisk du duo IKEA-Sonos
+
+Galerie
+
+   Enfin un boîtier de protection pour l'Apple Card 😅
+
+Enfin un boîtier de protection pour l'Apple Card 😅
+
+   Ces AirPods en or 18 carats sont absolument brillants
+
+Ces AirPods en or 18 carats sont absolument brillants
+
+iOccasion
+
+   (BUTTON) Vip (BUTTON) Mac (BUTTON) iPad (BUTTON) iPhone (BUTTON) Watch
+
+RefurbGeneration
+
+   Créer une alerte →
+   iPhone X
+
+iPhone X
+
+   879 €
+   iPad Pro 9,7 pouces Wi-Fi
+
+iPad Pro 9,7 pouces Wi-Fi
+
+   489 €
+   iPad Pro 10,5 pouces Wi-Fi
+
+iPad Pro 10,5 pouces Wi-Fi
+
+   539 €
+   iPhone 8 Plus
+
+iPhone 8 Plus
+
+   679 €
+
+Sur MacG et WatchG
+
+   Orange prévient ses abonnés que BFM TV pourrait couper
+   10:50
+   iOS 13 : des références pointent vers des lunettes AR
+   10:37
+   L'iMac 21,5 pouces début 2013 est obsolète
+   31/08 18:47
+   Des fonds d'écran venus de l'espace à télécharger gratuitement
+   31/08 14:22
+   iOccasion encore plus pratique pour vos petites annonces !
+   31/08 09:20
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+   31/08 08:47
+   Siri lacera sans se lasser les nouvelles chaussures de Nike
+   29/08 18:00
+   Les AirPods 2 à induction à 169 € sur Amazon, leur meilleur prix
+   jusqu'à présent
+   29/08 16:02
+   Fitbit lance une Versa 2 compatible Alexa et un nouvel abonnement
+   28/08 16:10
+
+Sondage
+
+   Voir les résultats →
+   Utilisez-vous des applications de services de VTC ?
+   Choix
+   (_) Oui, régulièrement
+   (_) Oui, de temps en temps
+   (_) Non, je préfère les taxis
+   (_) Non, c'est trop cher
+   (_) J'ai une voiture/je prend les transports en commun
+   (_) Sans avis
+   Voter
+     * Sondages plus anciens
+     * Résultats
+
+   Continuez à lire iGeneration :  sur votre iPhone sur votre Mac
+   sur Twitter sur Facebook par RSS par mail
+
+   Continuez à lire iGeneration :
+
+                                  Actualités
+
+     * iPhone
+     * iPad
+     * iOS
+     * App Store
+     * Domotique
+     * Télécoms
+     * Accessoires
+     * Android
+     * Ailleurs
+     * Services
+     * Apple TV
+
+                                    Galeries
+
+     * Photos
+     * Vidéos
+
+                                     Tests
+
+     * Matériel
+     * Accessoire
+     * Logiciel
+
+                           À propos de MacGeneration
+
+     * Mentions légales
+     * Conditions générales d’utilisation
+     * Politique de gestion des données personnelles
+     * Notre équipe
+     * Notre entreprise
+     *
+
+                           Les sites de MacGeneration
+
+     * MacGeneration
+     * iGeneration
+     * WatchGeneration
+     * Je veux le.top
+     * iOccasion
+     * RefurbGeneration
+
+                         Les services de MacGeneration
+
+     * Test de débit
+     * Boutique MacG
+     __________________________________________________________________
+
+   Fièrement publié depuis 1999 par MacGeneration SARL.
+
+   Service de presse en ligne reconnu par la CCPAP sous le numéro 0919 W
+   93490. Tous droits réservés.
+
+   Version 1.3. Choix des cookies .
+   Aller au contenu principal
+
+   iGeneration
+    ▼
+     * Actualités
+     * Tests
+     * Galerie
+     * Forums
+     * Contact
+     * Nous soutenir
+
+   ☰
+
+     * MacGeneration
+     * WatchGeneration
+     * iOccasion
+     * RefurbGeneration
+     * Shop
+
+   Se connecter/S’inscrire
+   Comment trouver le bon câble USB-C
+   Saisissez vos mots-clés
+   ____________________________________________________________
+   Rechercher
+   Saisissez vos mots-clés
+   ____________________________________________________________
+   Rechercher
+
+     * MacGeneration
+     * WatchGeneration
+     * iOccasion
+     * RefurbGeneration
+     * Shop
+
+     * Actualités
+     * Tests
+     * Galerie
+     * Forums
+     * Contact
+     * Nous soutenir
+
+   Ailleurs
+   16 commentaires
+
+Le Moto G disponible chez SFR
+
+   monsieursapin | 19/11/2013 à 12:41
+
+   Le Moto G, deuxième smartphone réalisé sous l'égide de Google est
+   disponible chez SFR. L'opérateur français est l'un des premiers à le
+   commercialiser. S'attaquant directement au marché d'entrée de gamme, il
+   est proposé à partir de 9,99 € avec un forfait Carré 24h/24 + 3Go à
+   39,99 €/mois (avec un engagement de 24 mois). Avec une carte prépayé,
+   le Moto G coûte 229,99 €. Avec le forfait sans engagement SFR Red, le
+   Moto G coûte seulement 169,99 € — on pourra le désimlocker gratuitement
+   au bout de trois mois.
+
+   On le trouve aussi sur Amazon en précommande à 199 €.
+
+   Pour rappel, le smartphone embarque un équipement tout à fait correct :
+   écran TFT 4,5" 720p (1 280 × 720), processeur Snapdragon 400 quatre
+   coeurs à 1,2 GHz, 1 Go de RAM. Le capteur photo de 5 millions de pixels
+   est limité au 720p pour la vidéo. Pas de port microSD mais Google offre
+   50 Go de stockage sur Google Drive. Pas de 4G LTE non plus. Il tourne
+   sous Android 4.3 Jelly Bean, sans surcouche et sera mis à jour pour
+   Android KitKat en janvier 2014.
+   [14:41 | Le Moto G disponible chez SFR_________________________________
+   __________...]
+   Tags
+   #sfr #moto g
+
+À la une
+
+   Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient
+   aussi concernés
+
+Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient aussi
+concernés
+
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+
+Apple Watch : Apple lance un programme de remplacement pour des écrans
+fissurés
+
+   Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+   domicile
+
+Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+domicile
+
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+Ailleurs sur le web
+
+16 commentaires
+
+   avatar painmar |  19/11/2013 à 12:46
+   Mdr je sors à l'instant de la boutique SFR ils me disent a non on a pas
+   d'infos sur le moto G. Dispos le 5 décembre. Pfff bras cassés. Allez
+   direction une autre boutique.
+   avatar agerber |  19/11/2013 à 13:56
+   Excellent prix. Vers une démocratisation des smartphones. Et enfin des
+   téléphones sans marge façon icahn.
+   avatar Florian1293 |  19/11/2013 à 14:07
+   @rikki finefleur : Ben oui après tout, pourquoi diable vendre avec de
+   la marge?! C'est pas comme si une entreprise avait besoin de faire de
+   la marge pour s'en sortir.... Google et son modèle économique lié aux
+   revenus de la PUB sont en train de pourrir le bons sens économique de
+   ses clients. Qu'on ne viennent pas soûler avec les Apple fan's victime
+   du monde de la consommation, sans lui, Google n'existerait simplement
+   pas!
+   avatar m_enfin |  19/11/2013 à 14:57
+   "Qu'on ne viennent pas soûler avec les Apple fan's victime du monde de
+   la consommation, sans lui, Google n'existerait simplement pas!" Uh ?
+   avatar agerber |  19/11/2013 à 15:31
+   @Nicolas 1/ suffit de voir mes marges faites sur les smartphones. 2/
+   Quand tu vois qu'"un telephone de 4,5' vaut le prix d'une tele d'un
+   mètre tu t'interroges. 3/ Chacun est libre de ne pas payer cher un
+   smartphone quitte a ne pas faire plaisir à icahn. 4/ toi tu ne te
+   réjouis pas d'une baisse des prix ? Pourquoi tu ne payes pas ton litre
+   d'essence 5 euros dans ce cas afin que total marge encore davantage.
+   Juste absurde.
+
+   CONNEXION UTILISATEUR
+   Nom d'utilisateur * _______________
+   Mot de passe * _______________
+     * Créer un nouveau compte
+     * Demander un nouveau mot de passe
+
+   Se connecter
+
+Actualités
+
+   Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient
+   aussi concernés
+   12:52 | 8 commentaires
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+   11:12
+   iOS 13 : des références pointent vers des lunettes AR
+   11:12
+   Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+   domicile
+   | 01/09 10:00 | 66 commentaires
+   Découvrez le 1er tensiomètre avec avec ECG & stéthoscope électronique
+   Partenaire
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+   31/08 10:00 | 32 commentaires
+   Des étuis en disent un peu plus sur l'iPhone 11
+   30/08 22:19 | 96 commentaires
+   Enfin un boîtier de protection pour l'Apple Card 😅
+   | 30/08 21:51 | 56 commentaires
+   Europe : Apple a-t-elle enfreint le RGPD avec le programme d'écoute de
+   Siri ?
+   30/08 21:23 | 38 commentaires
+   Apple Tag : une idée du design du traqueur d'objets d'Apple
+   30/08 20:48 | 81 commentaires
+   Aux États-Unis, Apple Pay toujours loin derrière la carte de crédit
+   30/08 19:49 | 24 commentaires
+   Ces AirPods en or 18 carats sont absolument brillants
+   | 30/08 18:15 | 54 commentaires
+   iPhone 11 : une commercialisation attendue entre les 13 et 20 septembre
+   30/08 17:10 | 71 commentaires
+   Apple va encore durcir ses conditions de reprise des iPhone
+   | 30/08 11:30 | 29 commentaires
+   iOccasion encore plus pratique pour vos petites annonces !
+   30/08 09:20
+   Des iPhone ont pu être piratés pendant des années, démontre Google
+   30/08 08:31 | 214 commentaires
+   Avec le Galaxy Note10+, Samsung tient enfin un smartphone plus rapide
+   que l'iPhone XS Max
+   29/08 21:57 | 122 commentaires
+   L'enceinte Galaxy Home n'est pas encore sortie que la version mini fait
+   son apparition
+   29/08 21:00 | 4 commentaires
+   Canal+ pourrait distribuer Netflix
+   29/08 20:14 | 54 commentaires
+   Officiel : Apple présentera les iPhone 2019 le 10 septembre
+   29/08 18:05 | 158 commentaires
+   Les réparateurs indépendants vont pouvoir se fournir chez Apple pour
+   réparer l'iPhone hors garantie
+   29/08 15:35
+
+Tests
+
+   Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie
+   et serveur
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+   Test des enceintes Symfonisk du duo IKEA-Sonos
+
+Test des enceintes Symfonisk du duo IKEA-Sonos
+
+Galerie
+
+   Enfin un boîtier de protection pour l'Apple Card 😅
+
+Enfin un boîtier de protection pour l'Apple Card 😅
+
+   Ces AirPods en or 18 carats sont absolument brillants
+
+Ces AirPods en or 18 carats sont absolument brillants
+
+iOccasion
+
+   (BUTTON) Vip (BUTTON) Mac (BUTTON) iPad (BUTTON) iPhone (BUTTON) Watch
+
+RefurbGeneration
+
+   Créer une alerte →
+   iPhone X
+
+iPhone X
+
+   879 €
+   iPad Pro 9,7 pouces Wi-Fi
+
+iPad Pro 9,7 pouces Wi-Fi
+
+   489 €
+   iPad Pro 10,5 pouces Wi-Fi
+
+iPad Pro 10,5 pouces Wi-Fi
+
+   539 €
+   iPhone 8 Plus
+
+iPhone 8 Plus
+
+   679 €
+
+Sur MacG et WatchG
+
+   Orange prévient ses abonnés que BFM TV pourrait couper
+   10:50
+   iOS 13 : des références pointent vers des lunettes AR
+   10:37
+   L'iMac 21,5 pouces début 2013 est obsolète
+   31/08 18:47
+   Des fonds d'écran venus de l'espace à télécharger gratuitement
+   31/08 14:22
+   iOccasion encore plus pratique pour vos petites annonces !
+   31/08 09:20
+   Apple Watch : Apple lance un programme de remplacement pour des écrans
+   fissurés
+   31/08 08:47
+   Siri lacera sans se lasser les nouvelles chaussures de Nike
+   29/08 18:00
+   Les AirPods 2 à induction à 169 € sur Amazon, leur meilleur prix
+   jusqu'à présent
+   29/08 16:02
+   Fitbit lance une Versa 2 compatible Alexa et un nouvel abonnement
+   28/08 16:10
+
+Sondage
+
+   Voir les résultats →
+   Utilisez-vous des applications de services de VTC ?
+   Choix
+   (_) Oui, régulièrement
+   (_) Oui, de temps en temps
+   (_) Non, je préfère les taxis
+   (_) Non, c'est trop cher
+   (_) J'ai une voiture/je prend les transports en commun
+   (_) Sans avis
+   Voter
+     * Sondages plus anciens
+     * Résultats
+
+   Continuez à lire iGeneration :  sur votre iPhone sur votre Mac
+   sur Twitter sur Facebook par RSS par mail
+
+   Continuez à lire iGeneration :
+
+                                  Actualités
+
+     * iPhone
+     * iPad
+     * iOS
+     * App Store
+     * Domotique
+     * Télécoms
+     * Accessoires
+     * Android
+     * Ailleurs
+     * Services
+     * Apple TV
+
+                                    Galeries
+
+     * Photos
+     * Vidéos
+
+                                     Tests
+
+     * Matériel
+     * Accessoire
+     * Logiciel
+
+                           À propos de MacGeneration
+
+     * Mentions légales
+     * Conditions générales d’utilisation
+     * Politique de gestion des données personnelles
+     * Notre équipe
+     * Notre entreprise
+     *
+
+                           Les sites de MacGeneration
+
+     * MacGeneration
+     * iGeneration
+     * WatchGeneration
+     * Je veux le.top
+     * iOccasion
+     * RefurbGeneration
+
+                         Les services de MacGeneration
+
+     * Test de débit
+     * Boutique MacG
+     __________________________________________________________________
+
+   Fièrement publié depuis 1999 par MacGeneration SARL.
+
+   Service de presse en ligne reconnu par la CCPAP sous le numéro 0919 W
+   93490. Tous droits réservés.
+
+   Version 1.3. Choix des cookies .
+   Aller au contenu principal
+
+   iGeneration
+
+                         Le Moto G disponible chez SFR
+
+   monsieursapin | 19/11/2013 à 12:41
+
+   Le Moto G, deuxième smartphone réalisé sous l'égide de Google est
+   disponible chez SFR. L'opérateur français est l'un des premiers à le
+   commercialiser. S'attaquant directement au marché d'entrée de gamme, il
+   est proposé à partir de 9,99 € avec un forfait Carré 24h/24 + 3Go à
+   39,99 €/mois (avec un engagement de 24 mois). Avec une carte prépayé,
+   le Moto G coûte 229,99 €. Avec le forfait sans engagement SFR Red, le
+   Moto G coûte seulement 169,99 € — on pourra le désimlocker gratuitement
+   au bout de trois mois.
+
+   On le trouve aussi sur Amazon en précommande à 199 €.
+
+   Pour rappel, le smartphone embarque un équipement tout à fait correct :
+   écran TFT 4,5" 720p (1 280 × 720), processeur Snapdragon 400 quatre
+   coeurs à 1,2 GHz, 1 Go de RAM. Le capteur photo de 5 millions de pixels
+   est limité au 720p pour la vidéo. Pas de port microSD mais Google offre
+   50 Go de stockage sur Google Drive. Pas de 4G LTE non plus. Il tourne
+   sous Android 4.3 Jelly Bean, sans surcouche et sera mis à jour pour
+   Android KitKat en janvier 2014.
+
+Téléchargez nos applications
+
+   Sur iPhone | Sur Android
+   Accédez aux commentaires de l'article
+
+À la une
+
+Piratages d'iPhone : les Ouïghours visés, Android et Windows seraient aussi
+concernés
+
+Apple Watch : Apple lance un programme de remplacement pour des écrans
+fissurés
+
+Comment Raccourcis sur iPhone a soulagé le quotidien d'une dialysée à
+domicile
+
+Test du Netgear Nighthawk M1, un modem mobile qui fait aussi batterie et
+serveur
+
+   Continuez à lire iGeneration :
+
+   Fièrement publié depuis 1999 par MacGeneration SARL.

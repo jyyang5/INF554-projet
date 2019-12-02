@@ -1,0 +1,2845 @@
+   #Tom's Hardware
+
+   alternate alternate prev next
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-BPDQ
+
+     * Tom's Guide
+     * / Tom's Hardware
+     * / Laptop Mag
+     * / TopTenReviews
+     * / AnandTech
+
+   [ ] [ ] [ ]
+
+   ____________________
+   (BUTTON) Go
+     * Product Reviews
+          +
+               o Best Overall
+               o Cheap CPUs
+               o CPUs
+               o GPUs
+               o PSUs
+               o SSDs
+               o Cooling
+               o Cases
+               o Motherboards
+               o Memory
+               o Thermal Paste
+               o Best Builds
+               o External Hard Drives
+          +
+               o Best for Gaming
+               o Gaming CPUs
+               o Gaming Monitors
+               o 4K Gaming Monitors
+               o Gaming Desktops
+               o Gaming Laptops
+               o Gaming Keyboards
+               o Gaming Mice
+               o VR Headsets
+          +
+               o Motherboards
+               o AMD
+               o Intel
+               o Coffee Lake Compatible
+          +
+               o GPU Roundups
+               o Nvidia GeForce GTX 1060
+               o Nvidia GeForce GTX 1070
+               o Nvidia GeForce GTX 1080
+               o AMD Radeon RX 560
+               o AMD Radeon RX 570
+               o AMD Radeon RX 580
+               o AMD Radeon RX 480
+          +
+               o Reviews
+               o CPUs
+               o Graphics
+               o Cases
+               o Laptops
+               o Monitors
+               o Motherboards
+               o Power Supplies
+               o SSDs
+               o Cooling
+               o Memory
+               o Storage
+               o Virtual Reality
+               o Keyboards
+     * [ ] Buying Guides
+          + Monitors
+          + Motherboards
+          + Gaming Laptops
+          + Graphics Cards
+          + SSDs
+          + PSUs
+          + CPUs
+     * Raspberry Pi
+          +
+               o Raspberry Pi 4
+               o Pi 4 Review and Tests
+               o Overclocking the Pi 4
+               o Where to Buy Pi 4
+               o Upgrade to Raspbian Buster
+          +
+               o Getting Started
+               o Setting Up for First Time
+               o Headless Install
+               o Why You Should Buy a Pi
+               o 25+ Linux Commands
+               o How Windows 10 Runs on a Pi
+               o 10 Pi Facts You Didn't Know
+          +
+               o Tutorials / Projects
+               o Make a News Ticker Shirt
+               o Run Windows 10 on a Pi
+               o Set Up a Web Server
+               o Pi GPIO Pinout
+               o Make a VPN Gateway
+     * Deals
+     * Forum
+     *
+
+     * CPUs
+
+     Review
+
+      AMD Ryzen 9 3900X and Ryzen 7 3700X Review: Zen 2 and 7nm Unleashed
+
+   by Paul Alcorn July 7, 2019 at 7:07 AM
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   180 Comments
+
+   [ ] ( ) (*) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )
+   Page 1:Into the 7nm Era
+   Page 2:7nm Process, Zen 2, and the X570 Chipset
+   Page 3:Ryzen 3000 IPC Measurements and Power Consumption
+   Page 4:Overclocking and Ryzen Master
+   Page 5:Updated Test Metholodgy and Setup
+   Page 6:VRmark, 3DMark and AotS: Escalation
+   Page 7:Civilization VI Graphics and AI, Dawn of War III
+   Page 8:Far Cry 5 and Final Fantasy XV
+   Page 9:GTA: V and Hitman 2
+   Page 10:Project Cars 2, The Division 2, and World of Tanks enCore
+   Page 11:Office, Web Browser, and Productivity
+   Page 12:Rendering, Encoding, Compression, Encryption
+   Page 13:Conclusion
+     *
+
+Page 1:Into the 7nm Era
+     *
+
+Page 2:7nm Process, Zen 2, and the X570 Chipset
+     *
+
+Page 3:Ryzen 3000 IPC Measurements and Power Consumption
+     *
+
+Page 4:Overclocking and Ryzen Master
+     *
+
+Page 5:Updated Test Metholodgy and Setup
+     *
+
+Page 6:VRmark, 3DMark and AotS: Escalation
+     *
+
+Page 7:Civilization VI Graphics and AI, Dawn of War III
+     *
+
+Page 8:Far Cry 5 and Final Fantasy XV
+     *
+
+Page 9:GTA: V and Hitman 2
+     *
+
+Page 10:Project Cars 2, The Division 2, and World of Tanks enCore
+     *
+
+Page 11:Office, Web Browser, and Productivity
+     *
+
+Page 12:Rendering, Encoding, Compression, Encryption
+     *
+
+Page 13:Conclusion
+
+7nm Process, Zen 2, and the X570 Chipset
+
+TSMC 7nm Process
+
+   AMD tapped TSMC's 7nm process for the Ryzen 3000 series processors.
+   AMD's first-gen Ryzen processors debuted on GlobalFoundries' 14nm GPP
+   node, but the 2000-series CPUs moved to GloFo's 12nm LP process
+   technology. The ported-over design helped boost transistor performance,
+   but did not affect die area or transistor density. As a result,
+   Pinnacle Ridge's ~4.8 billion transistors and 213mm^2 area remained the
+   same as first-gen Ryzen.
+
+   (*) ( ) ( ) ( )
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-006
+       Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-006
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-007
+       Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-007
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-008
+       Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-008
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-013
+       Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-013
+
+   (*) ( ) ( ) ( )
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-006
+
+Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-006
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-007
+
+Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-007
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-008
+
+Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-008
+     * Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-013
+
+Mark_Papermaster-Next_Horizon_Gaming-Architecture_06092019-page-013
+
+   In contrast, TSMC's 7nm process represents a true shrink that provides
+   twice the transistor density. AMD says the process allowed it to shrink
+   the CCX by 29% relative to the 12nm process, which helped pave the way
+   for Zen 2's enhancements, like the doubled L3 cache capacity and the
+   ability to double core counts within the same package dimensions. It's
+   also important to note that the company also removed I/O and memory
+   controllers from the compute chiplet this time around, resulting in
+   even smaller packages.
+
+   AMD also claims the process affords up to 350 more MHz of core
+   frequency at the same voltage as the 12nm LP process. The new process
+   also delivers on the energy efficiency front with up to 75% higher
+   performance-per-watt compared to the 12nm LP process. AMD also says the
+   7nm node produces up to 58% higher performance-per-watt than Intel's
+   aging, but highly refined, 14nm++ process, but be aware that the Ryzen
+   3000 chips still have a 12nm I/O die that contributes to the chip's
+   overall power consumption.
+
+   AMD says that the 15% increase in IPC throughput from the Zen 2
+   microarchitecture serves up 60% of the performance improvements seen in
+   the Ryzen 3000 series chips, with the remaining 40% coming from the 7nm
+   process and frequency improvements.
+
+Zen 2 Microarchitecture
+
+   Zen's modular and scalable design provides AMD with plenty of
+   advantages in terms of cost and time to market, and fine-grained tuning
+   to the architecture has yielded phenomenal results.
+
+Credit: AMD Credit: AMD
+
+   AMD has improved IPC by roughly 15% (though that can vary by workload),
+   doubled the L3 cache size to keep data as close to the execution units
+   as possible, and doubled floating point performance by expanding
+   floating point bandwidth to 256-bit to improve performance with AVX2
+   instructions.
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-002
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-002
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-004
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-004
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-003
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-003
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-005
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-005
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-006
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-006
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-007
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-007
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-008
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-008
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-009
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-009
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-010
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-010
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-011
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-011
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-012
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-012
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-013
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-013
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-020
+       Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-020
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-002
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-002
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-004
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-004
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-003
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-003
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-005
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-005
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-006
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-006
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-007
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-007
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-008
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-008
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-009
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-009
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-010
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-010
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-011
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-011
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-012
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-012
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-013
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-013
+     * Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-020
+
+Mike_Clark-Next_Horizon_Gaming-CPU_Architecture_06092019-page-020
+
+   Headline improvements include a doubled micro-op (4K) and L3 cache
+   (32MB), which came at the expense of a slightly smaller L1 instruction
+   cache that is now an 8-way associative 32K block as opposed to the 64K
+   block with 4-way associativity on first-gen Ryzen. AMD also beefed up
+   the Translation Lookaside Buffer (TLB) to 2,000 entries.
+
+   AMD now has a double-stage branch predictor, with its Perceptron
+   predictor handling the first stage while a new TAGE branch predictor,
+   which features larger lookup tables to improve performance, serves as
+   the second stage. That's paired with larger L1 and L2 branch target
+   predictors (BTBs) that increase throughput by reducing stalls. AMD says
+   the improved branch predictor expends extra energy on the front end,
+   but the 30% lower misprediction rate ultimately saves more energy on
+   the backend. A third address generation unit (AGU) also keeps the
+   hungry execution cores fed with data from main memory.
+
+Enter the X570 Chipset
+
+   AMD's Ryzen 3000 series processors have dynamic algorithms that adjust
+   parameters based upon several factors, with power delivery and heat
+   dissipation being the chief variables that can unlock extra
+   performance. As such, motherboard selection is going to be a big factor
+   in the amount of performance you receive if you choose to use AMD's
+   Precision Boost Overdrive (PBO - next page) and Auto Overclock
+   features. The X570 motherboard ecosystem has proven to be pricey
+   compared to the previous-gen X470 models, but AMD says that the Ryzen
+   3000 series processors will operate at full performance at stock
+   settings with X470 motherbaords. You just sacrifice access to the PCIe
+   4.0 interface. Credit: AMD Credit: AMD
+
+   The actual X570 chipset is a 14nm variant of the 12nm I/O die inside
+   the Ryzen 3000-series processors, which is a clever reuse of the
+   technology that ultimately lowers costs. This chipset is also fully
+   produced by AMD, whereas the X470 chipset came from ASMedia, which says
+   it will continue to produce some chipsets for Ryzen 3000 series
+   processors. AMD uses the smaller 12nm process for the processor's
+   in-package I/O die to leverage the increased frequency potential for
+   the memory controllers. That improves memory data transfer rates, but
+   AMD uses the more economical 14nm variant, which has its memory
+   controllers disabled, for the chipset die. Credit: AMD Credit: AMD
+
+   Most X570 motherboards come with a fan on the chipset to provide active
+   cooling for the chipset, which now consumes ~11-15W compared to the 6W
+   consumed by the X470 chipset. That's due to the power-hungry nature of
+   the PCIe 4.0 interface when it is under full load. Small fans like
+   these tend to be noisy, but our motherboard team is hard at work on the
+   first wave of X570 motherboard reviews and will provide more
+   perspective.
+
+   Credit: AMD Credit: AMD
+
+   Ryzen 3000-series chips are compatible with most previous-gen
+   motherboards with the AM4 socket, but some updates are left to vendor
+   discretion. As such, you won't be able to drop a new Third-gen Ryzen
+   chip into all X370 and B350 motherboards, and A320's upgrade path is
+   blocked entirely. Due to the uneven application of BIOS updates across
+   the various vendors, and even among different motherboards in the
+   respective product stacks, you'll have to check the CPU support list
+   for your X370 or B350 motherboard to ensure it supports Third-gen
+   Ryzen.
+
+   (*) ( )
+     * AMD-socket-am4-motherboard-ryzen-compatibility-chart
+       AMD-socket-am4-motherboard-ryzen-compatibility-chart
+     * AMD-ryzen-3000-series-processor-compatible-x570-chipset
+       AMD-ryzen-3000-series-processor-compatible-x570-chipset
+
+   (*) ( )
+     * AMD-socket-am4-motherboard-ryzen-compatibility-chart
+
+AMD-socket-am4-motherboard-ryzen-compatibility-chart
+     * AMD-ryzen-3000-series-processor-compatible-x570-chipset
+
+AMD-ryzen-3000-series-processor-compatible-x570-chipset
+
+   There are plenty of X470 and B450 motherboards still on the market, but
+   some of the boards that have been in the supply chain for a while will
+   need a BIOS update before you install a Third-gen Ryzen processor.
+   As we've seen in the past, that isn't always possible if you don't
+   already have a Ryzen processor or if the motherboard doesn't have an
+   out-of-band BIOS update feature, like BIOS Flashback. AMD also
+   announced that all motherboards that support Ryzen 3000 processors out
+   of the box will come with a new badge to help simplify things.
+
+   MORE: Best CPUs
+
+   MORE: Intel & AMD Processor Hierarchy
+
+   MORE: All CPUs Content
+
+   [javascript]
+   AMD Ryzen 7 3700X
+   $329.99Newegg
+
+   Previous Next
+
+   Summary
+    1. Into the 7nm Era
+    2. 7nm Process, Zen 2, and the X570 Chipset
+    3. Ryzen 3000 IPC Measurements and Power Consumption
+    4. Overclocking and Ryzen Master
+    5. Updated Test Metholodgy and Setup
+    6. VRmark, 3DMark and AotS: Escalation
+    7. Civilization VI Graphics and AI, Dawn of War III
+    8. Far Cry 5 and Final Fantasy XV
+    9. GTA: V and Hitman 2
+   10. Project Cars 2, The Division 2, and World of Tanks enCore
+   11. Office, Web Browser, and Productivity
+   12. Rendering, Encoding, Compression, Encryption
+   13. Conclusion
+
+   About the author
+   Paul Alcorn @PaulyAlcorn
+
+   Paul Alcorn is a Senior Editor for Tom's Hardware US. He writes news
+   and reviews on CPUs, storage and enterprise hardware.
+   [javascript]
+   Read more
+     * CPUs
+     * AMD
+     * Components
+
+   180 comments
+   Comment from the forums
+       Your comment
+     *
+   Isokolon [X]
+       [ ]
+       too bad there wasn't a 3800X included, would be interesting to see
+       if the price tag for the 3800X over the 3700X is indeed worth it
+     *
+   feelinfroggy777 [X]
+       [ ]
+       Nice for worksation task, but disappointing it basically ties Intel
+       in gaming if not just a tad behind.
+     *
+   salgado18 [X]
+       [ ]
+
+     Quote:
+
+     Nice for worksation task, but disappointing it basically ties Intel
+     in gaming if not just a tad behind.
+       It tied to Intel for less money, with a great bundled cooler, and a
+       cheaper platform (edit: and less power too). Also, unless you use a
+       144Hz monitor, the diference is purely synthetic. Did you expect it
+       to be way faster than a 5 GHz Intel magically?
+     *
+   Phaaze88 [X]
+       [ ]
+
+     Quote:
+
+     Thank you so much and to be honest the only reason why I bought the
+     750tx Corsair psu is because it was 30$, can I ask you if the gtx770
+     2gb will run battlefield 1 on high?
+
+     Quote:
+
+     too bad there wasn't a 3800X included, would be interesting to see
+     if the price tag for the 3800X over the 3700X is indeed worth it
+       I can't imagine it would be.
+       If looking at the 3800x as a binned 3700x - that's basically what
+       it would be - grab one if it goes on sale closer to the 3700x's
+       price.
+       These chips don't overclock any better than their predecessors,
+       which wasn't good to begin with, so whatever extra clocks you get
+       with a 3800x will hardly be noticeable and won't be worth a $50+
+       price increase over 3700x.
+     *
+   velocityg4 [X]
+       [ ]
+       The overclocking results were disappointing. 4.1Ghz max on all
+       cores. Given that the 3950x does a 4.7Ghz single core turbo boost
+       and the 3900x does 4.6Hz single core turbo boost. I'd have assumed
+       any of the Ryzen 3000 would OC to 4.6/4.7Ghz on all cores with
+       decent air/water cooling.
+       Power consumption: AIDA 64 seems to punish AMD a lot more than
+       Intel. When you were using Prime95 Intel was punished a lot more.
+       It seems the switch from Prime95 to AIDA 64 gives Intel an unfair
+       advantage in the stress test power consumption test. While Prime95
+       gave AMD an unfair advantage. I'd suggest using both in reviews or
+       find another torture test that will fully punish both AMD and Intel
+       for a max load test. With such wild variation. I can't see how
+       either is an accurate measure of a CPU under full load.
+       Example Review:
+       https://www.tomshardware.com/reviews/intel-core-i9-9900k-9th-gen-cp
+       u,5847-11.html
+       The Intel i9-9900K hit 204.6W in your old reviews stress test. This
+       time it is only 113W.
+       The AMD Ryzen 2700x hit 104.7W in your old review. Now it is 133W.
+     *
+   feelinfroggy777 [X]
+       [ ]
+
+     Quote:
+
+     It tied to Intel for less money, with a great bundled cooler, and a
+     cheaper platform (edit: and less power too). Also, unless you use a
+     144Hz monitor, the diference is purely synthetic. Did you expect it
+     to be way faster than a 5 GHz Intel magically?
+       It did tie Intel in gaming. It tied basically the same Intel CPUs
+       that have been on the market since 2015 with Skylake. We are in the
+       back half of 2019 and we see the same gaming performance that we
+       had in 2015 mainstream CPUs.
+       We know AMD is cheaper and comparing clockspeeds against different
+       architectures between Intel and AMD is silly. But it would be nice
+       to see some tangible improvement regarding fps with CPUs. The GPU
+       still remains king when it comes to a quality gaming build.
+     *
+   delaro [X]
+       [ ]
+       I've seen reviews from 5 different sites and the conclusions bounce
+       all over the place, which makes me think there is much to do on the
+       software optimization side. :unsure: I was expecting gaming FPS to
+       not change all that much with many of the titles being tested have
+       partnered or optimized around Intel.
+     *
+   jimmysmitty [X]
+       [ ]
+
+     Quote:
+
+     Nice for worksation task, but disappointing it basically ties Intel
+     in gaming if not just a tad behind.
+       Minus the ability to overclock yes tied. Most people who buy the
+       9900K will not be buying it to leave it stock.
+
+     Quote:
+
+     The overclocking results were disappointing. 4.1Ghz max on all
+     cores. Given that the 3950x does a 4.7Ghz single core turbo boost
+     and the 3900x does 4.6Hz single core turbo boost. I'd have assumed
+     any of the Ryzen 3000 would OC to 4.6/4.7Ghz on all cores with
+     decent air/water cooling. Power consumption: AIDA 64 seems to punish
+     AMD a lot more than Intel. When you were using Prime95 Intel was
+     punished a lot more. It seems the switch from Prime95 to AIDA 64
+     gives Intel an unfair advantage in the stress test power consumption
+     test. While Prime95 gave AMD an unfair advantage. I'd suggest using
+     both in reviews or find another torture test that will fully punish
+     both AMD and Intel for a max load test. With such wild variation. I
+     can't see how either is an accurate measure of a CPU under full
+     load. Example Review:
+     https://www.tomshardware.com/reviews/intel-core-i9-9900k-9th-gen-cpu
+     ,5847-11.html The Intel i9-9900K hit 204.6W in your old reviews
+     stress test. This time it is only 113W. The AMD Ryzen 2700x hit
+     104.7W in your old review. Now it is 133W.
+       Its what I wanted to know. Ryzen has always been pushed to the
+       limit in terms of clock speed and Zen 2 is no different it seems.
+       Little to no headroom. AnandTech was able to get it to 4.3GHz all
+       core but with manual OCing it seems to disable boost clocking which
+       in turn cuts 300MHz from single core performance.
+       As for the power consumption, the differences are probably what
+       they prioritize. I know Prime 95 heavily uses AVX which is a power
+       hog. Not as sure on AIDA 64 since I never used it. I always use
+       Prime 95 and IBT for stability.
+
+     Quote:
+
+     It did tie Intel in gaming. It tied basically the same Intel CPUs
+     that have been on the market since 2015 with Skylake. We are in the
+     back half of 2019 and we see the same gaming performance that we had
+     in 2015 mainstream CPUs. We know AMD is cheaper and comparing
+     clockspeeds against different architectures between Intel and AMD is
+     silly. But it would be nice to see some tangible improvement
+     regarding fps with CPUs. The GPU still remains king when it comes to
+     a quality gaming build.
+       Its not silly to compare clock speeds as those can be advantages.
+       Intel still clearly has a clock speed advantage and that advantage
+       will keep them priced higher. We might see some drops but I doubt
+       we will see enough to make it feel like Athlon 64 again.
+       As much crap as people give Intel for getting stuck at 14nm I have
+       to give them props for having a 5 year old process tech beat modern
+       process tech, especially one that's supposed to be "half" the size.
+       I know its not quite as most 7nms out there are still less dense
+       than Intels initial 10nm plans but still it goes to show that the
+       nm part has become pointless and a marketing gimmick more than
+       anything.
+       The only thing a CPU matters gaming wise is how long it will last
+       before it will bottleneck the GPU. While its still early the clock
+       speed and overclocking advantage Intel has might make their CPUs
+       last longer in gaming than Zen 2. Only time will tell but maybe AMD
+       will get a better process tech in a few years and finally compete
+       like the old days.
+     *
+   martinch [X]
+       [ ]
+
+     Quote:
+
+     Its not silly to compare clock speeds [between AMD and Intel] as
+     those can be advantages.
+       Unless you're trying to give an indication of "performance-per-MHz"
+       of varying architectures, yes, comparing clock speeds between
+       differing architectures is a fundamentally invalid comparison (it's
+       also not exactly an accurate predictor of per-core performance).
+     *
+   feelinfroggy777 [X]
+       [ ]
+
+     Quote:
+
+     Its not silly to compare clock speeds as those can be advantages.
+     Intel still clearly has a clock speed advantage and that advantage
+     will keep them priced higher. We might see some drops but I doubt we
+     will see enough to make it feel like Athlon 64 again.
+       Clockspeeds between AMD and Intel are not apples to apples.
+       Bulldozer hit 5ghz and it was a terrible CPU. Just because it could
+       hit 5ghz, did not make a good chip.
+     *
+   InvalidError [X]
+       [ ]
+
+     Quote:
+
+     Unless you're trying to give an indication of "performance-per-MHz"
+     of varying architectures, yes, comparing clock speeds between
+     differing architectures is a fundamentally invalid comparison (it's
+     also not exactly an accurate predictor of per-core performance).
+       Even real-world aren't reliable indicators unless you can find
+       benchmarks of the specific software and task within that software
+       you are interested in. Anything else is a general indicator at
+       best.
+       So, I predicted all-core overclocks on par with XFR boost at best
+       and it seems Tom's review samples get nowhere near that on
+       practical cooling. Looks like AMD is doing a pretty good job of
+       leaving little to nothing for practical overclockers to do with the
+       X-chips already squeezing everything they are worth out of
+       themselves with little more than a few checkboxes.
+     *
+   feelinfroggy777 [X]
+       [ ]
+
+     Quote:
+
+     Even real-world aren't reliable indicators unless you can find
+     benchmarks of the specific software and task within that software
+     you are interested in. Anything else is a general indicator at best.
+     So, I predicted all-core overclocks on par with XFR boost at best
+     and it seems Tom's review samples get nowhere near that on practical
+     cooling. Looks like AMD is doing a pretty good job of leaving little
+     to nothing for practical overclockers to do with the X-chips already
+     squeezing everything they are worth out of themselves with little
+     more than a few checkboxes.
+       They pretty much overclock themselves these days.
+     *
+   yeti_yeti [X]
+       [ ]
+       I think this Ryzen lineup is great and delivers awesome
+       performance, especially in professional applications. Some people
+       seem to be disappointed, that Ryzen 7/9 didn't beat their Intel
+       counterparts in gaming, which was something a lot of
+       people(myself included) didn't think was going to happen anyway.
+       However, I do think that AMD could have been a bit more transparent
+       and modest, when showcasing their own benchmarks of their products
+       beating or matching the competing Intel chips, which would result
+       in less people being let down.
+       Other than that, I think AMD did great in both GPU and CPU
+       department and look forward to more products from them.
+     *
+   kinggremlin [X]
+       [ ]
+       Good effort by AMD, but still doesn't move the performance bar any
+       for home users. For anyone who has been waiting 4 years to get a
+       5960x for less than $500, you've now got your CPU. For anyone
+       looking for something tangibly faster than Intel's Haswell
+       generation CPU's, you're still waiting.
+     *
+   lxtbell2 [X]
+       [ ]
+
+     Quote:
+
+     Good effort by AMD, but still doesn't move the performance bar any
+     for home users. For anyone who has been waiting 4 years to get a
+     5960x for less than $500, you've now got your CPU. For anyone
+     looking for something tangibly faster than Intel's Haswell
+     generation CPU's, you're still waiting.
+       Zen 2 seems to have some 30% better power efficiency than Intel
+       processors, and that's huge. Power efficiency is everything for
+       SFF, laptops, HTPC, fanless builds etc etc. So I would say it can
+       potentially move the performance bar a lot for those.
+       Regarding absolute performance, the 12-core destroys all Haswell
+       desktop CPUs in productivity, and I can't care less about "tangibly
+       faster" in gaming as long as my graphics card is the bottleneck in
+       1440p+.
+     *
+   InvalidError [X]
+       [ ]
+
+     Quote:
+
+     Zen 2 seems to have some 30% better power efficiency than Intel
+     processors, and that's huge. Power efficiency is everything for SFF,
+     laptops, HTPC, fanless builds etc etc. So I would say it can
+     potentially move the performance bar a lot for those.
+       For the lower-power segments, Intel has Icelake which is more than
+       a match for Zen 2 CPU-wise.
+     *
+   salgado18 [X]
+       [ ]
+       About bad overclock numbers, my 2 cents:
+       1. Nobody had the time to properly test them. I believe Tom's had
+       like two or so days to run dozens of tests on two brand new
+       processors, and still produce the article. Also, these are early
+       BIOS and drivers. It could improve with time.
+       2. The 3700x reaches a max of 4.3, but the 3950x reaches 4.6. Maybe
+       it's inconsistent because of such a new process, after all, these
+       are the first 7nm cpus produced, right? And lots of changes, some
+       sillicon revisions could help a lot.
+     *
+   kinggremlin [X]
+       [ ]
+
+     Quote:
+
+     Regarding absolute performance, the 12-core destroys all Haswell
+     desktop CPUs in productivity, and I can't care less about "tangibly
+     faster" in gaming as long as my graphics card is the bottleneck in
+     1440p+.
+       A 12 core CPU will not be any faster than an 8 core for home users.
+       The software used does not scale with that many cores. If it was so
+       easy to make typical software scale with more cores, programmers
+       would have already done it. Most mainstream software is not capable
+       of being highly parallelized like a graphics workload, so this
+       problem isn't going to get fixed without a completely different
+       type of computing platform. Adding more cores doesn't make a PC
+       faster when what you really need is faster cores.
+     *
+   kinggremlin [X]
+       [ ]
+
+     Quote:
+
+     About bad overclock numbers, my 2 cents: 1. Nobody had the time to
+     properly test them. I believe Tom's had like two or so days to run
+     dozens of tests on two brand new processors, and still produce the
+     article. Also, these are early BIOS and drivers. It could improve
+     with time. 2. The 3700x reaches a max of 4.3, but the 3950x reaches
+     4.6. Maybe it's inconsistent because of such a new process, after
+     all, these are the first 7nm cpus produced, right? And lots of
+     changes, some sillicon revisions could help a lot.
+       May want to watch this link from world reknown overclocker de8auer:
+       [MEDIA=youtube]WXbCdGENp5I[/MEDIA]
+       View: https://www.youtube.com/watch?v=WXbCdGENp5I
+       He has 10 CPU's (mix of 6/8/12 cores). Forget overclocking, he
+       couldn't get any of his 8 or 12 core CPU's to hit AMD's advertised
+       max clocks (4.5 for 3800x, 4.6 for 3900x) even with a custom water
+       cooling loop. There were leaks before launch that these chips would
+       hit 5GHz. De8auer says in this video to forget that, he has chips
+       that wouldn't hit 5GHz using liquid nitrogen.
+     *
+   ingtar33 [X]
+       [ ]
+
+     Quote:
+
+     I've seen reviews from 5 different sites and the conclusions bounce
+     all over the place, which makes me think there is much to do on the
+     software optimization side. :unsure: I was expecting gaming FPS to
+     not change all that much with many of the titles being tested have
+     partnered or optimized around Intel.
+       Linus had a possible cause for this. He noted the same thing (with
+       results all over the place) and realized it's a result of the
+       windows scheduler bouncing heavy tasks from core to core without
+       consideration for boost clocks. when they locked the application to
+       the cores that were boosting the results for the AMD cpu shoot went
+       up and became much more consistent. He believes once the scheduling
+       issue in windows is worked out the Ryzen bench results will
+       probably increase noticeably.
+     *
+   Ncogneto [X]
+       [ ]
+
+     Quote:
+
+     Good effort by AMD, but still doesn't move the performance bar any
+     for home users. For anyone who has been waiting 4 years to get a
+     5960x for less than $500, you've now got your CPU. For anyone
+     looking for something tangibly faster than Intel's Haswell
+     generation CPU's, you're still waiting.
+       One of these days you might actually understand what matters, and
+       what doesn't. AMD delivered on performance that matters, not some
+       silly gaming benchmark(s) that is Intel's last gasp as it hangs on
+       by it's fingernails. Performance that you can only see if you
+       couple either platform with a $1200 GPU no less, and even then, you
+       can't actually notice a difference while playing your game (155fps
+       vs 135 FPS, who gives a rats a**). Show me a game in which the
+       Intel CPU is performing at a level that is visually noticeably
+       better (without looking at some silly fps counter).
+       On every other front, the Intel CPU gets stomped in the dirt, all
+       while costing more and consuming more power, and needing an exotic
+       cooling solution as well.
+       Easy win for AMD, for anyone other than those only interested in
+       nothing but pure fps bragging rights, which is so High School level
+       silly.
+       Spectre/meltdown/zombieload......disable HT, etc etc etc. Every
+       month brings another Intel bug.
+       They should be ashamed.
+     *
+   fr3sgnint [X]
+       [ ]
+       Shame we didn't see any CAD / Solidworks ETC type benchmarks on the
+       productivity side.
+     *
+   acquinn [X]
+       [ ]
+       So impressive. AMD hasn't been on my radar since the Athlon days.
+       Competition is good! I wonder how long it'll take Intel to get to
+       7NM. Also, where's Intel's response hardware-wise? I mean isn't the
+       9900K almost a year old at this point? And it's still beating AMD
+       in a lot of areas.
+     *
+   kinggremlin [X]
+       [ ]
+
+     Quote:
+
+     Shame we didn't see any CAD / Solidworks ETC type benchmarks on the
+     productivity side.
+       You don't have to. Both are single threaded applications with
+       random addons that may support multithreading, so you know Intel is
+       going to win, just like most stuff from Adobe. People like Ncogneto
+       don't seem to grasp how much commonly used software doesn't benefit
+       at all from increased core counts beyond a few.
+
+   Display more comments
+
+   Most Popular
+    1. India's First CPUs Are Ready for App Development
+    2. PCPartPicker Reveals AMD Ryzen 3000 CPU Packaging
+    3. Silicon Lottery to Bin and Sell Ryzen 3000 CPUs
+
+   The Latest On Tom's Hardware
+     * Mushkin Pilot-E M.2 NVMe SSD Review: Taking Flight - Review
+     * HTC Vive Cosmos VR Headset Review: Solid Upgrade - Review
+     * AMD vs Intel: Which CPU Cooks Better Pancakes? - Feature
+     * All we Know About Microsoft's Custom SQ1 Processor Insi... - News
+     * Microsoft Surface Earbuds Hands-on: Super Comfortable - News
+     * Gigabyte Debuts X299X Motherboards for Intel Cascade La... - News
+     * AMD Commands 81 Percent of Sales at Mindfactory as Supp... - News
+     * Hands-on With AMD-Powered Microsoft Surface Laptop 3: G... - News
+     * Microsoft Surface Pro X and Pro 7 Hands-on: Future Forw... - News
+     * Specs for Intel's New Xeon Glacier Falls W Workstation... - News
+     * Intel Reveals USB 4 Linux Kernel Support Patches - News
+     * Microsoft Embraces AMD: Custom Ryzen 7 Surface Edition... - News
+
+   Edition
+     * [ ] United States
+          + United Kingdom
+          + Italy
+          + France
+          + Russia
+          + Germany
+
+   Subscribe to our newsletter
+   ____________________ (BUTTON) icon arrow stem circle
+   Company
+     * About Tom's Hardware
+     * About Purch
+     * Advertising
+     * Licensing and Reprints
+
+   Resources
+     * Contact Us
+     * Privacy
+     * Copyright
+     * Terms Of Use
+
+   Other Purch sites
+     * LaptopMag
+     * Live Science
+     * Tom's Hardware
+     * Space.com
+     * TopTenReviews
+     * AnandTech
+     * Tom's Guide
+     * Newsarama
+
+     * © 2019 Purch All Rights Reserved.
+
+     *
+     *
+     *
+     *
+   #Tom's Hardware
+
+   alternate alternate prev next
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-BPDQ
+
+     * Tom's Guide
+     * / Tom's Hardware
+     * / Laptop Mag
+     * / TopTenReviews
+     * / AnandTech
+
+   [ ] [ ] [ ]
+
+   ____________________
+   (BUTTON) Go
+     * Product Reviews
+          +
+               o Best Overall
+               o Cheap CPUs
+               o CPUs
+               o GPUs
+               o PSUs
+               o SSDs
+               o Cooling
+               o Cases
+               o Motherboards
+               o Memory
+               o Thermal Paste
+               o Best Builds
+               o External Hard Drives
+          +
+               o Best for Gaming
+               o Gaming CPUs
+               o Gaming Monitors
+               o 4K Gaming Monitors
+               o Gaming Desktops
+               o Gaming Laptops
+               o Gaming Keyboards
+               o Gaming Mice
+               o VR Headsets
+          +
+               o Motherboards
+               o AMD
+               o Intel
+               o Coffee Lake Compatible
+          +
+               o GPU Roundups
+               o Nvidia GeForce GTX 1060
+               o Nvidia GeForce GTX 1070
+               o Nvidia GeForce GTX 1080
+               o AMD Radeon RX 560
+               o AMD Radeon RX 570
+               o AMD Radeon RX 580
+               o AMD Radeon RX 480
+          +
+               o Reviews
+               o CPUs
+               o Graphics
+               o Cases
+               o Laptops
+               o Monitors
+               o Motherboards
+               o Power Supplies
+               o SSDs
+               o Cooling
+               o Memory
+               o Storage
+               o Virtual Reality
+               o Keyboards
+     * [ ] Buying Guides
+          + Monitors
+          + Motherboards
+          + Gaming Laptops
+          + Graphics Cards
+          + SSDs
+          + PSUs
+          + CPUs
+     * Raspberry Pi
+          +
+               o Raspberry Pi 4
+               o Pi 4 Review and Tests
+               o Overclocking the Pi 4
+               o Where to Buy Pi 4
+               o Upgrade to Raspbian Buster
+          +
+               o Getting Started
+               o Setting Up for First Time
+               o Headless Install
+               o Why You Should Buy a Pi
+               o 25+ Linux Commands
+               o How Windows 10 Runs on a Pi
+               o 10 Pi Facts You Didn't Know
+          +
+               o Tutorials / Projects
+               o Make a News Ticker Shirt
+               o Run Windows 10 on a Pi
+               o Set Up a Web Server
+               o Pi GPIO Pinout
+               o Make a VPN Gateway
+     * Deals
+     * Forum
+     *
+
+     * Graphics
+
+     Review
+
+  AMD Radeon RX 5700 XT and Radeon RX 5700 Review: New Prices Keep Navi In The
+                                      Game
+
+   by Chris Angelini July 7, 2019 at 7:00 AM
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   22 Comments
+
+   [ ] ( ) (*) ( ) ( ) ( ) ( ) ( )
+   Page 1:AMD Radeon RX 5700 XT and Radeon RX 5700 Review
+   Page 2:Performance Results: 2560 x 1440
+   Page 3:Performance Results: 3840 x 2160
+   Page 4:Power Consumption: Radeon RX 5700
+   Page 5:Power Consumption: Radeon RX 5700 XT
+   Page 6:Fan Speeds, Clock Rates, and Temperatures
+   Page 7:Conclusion
+     *
+
+Page 1:AMD Radeon RX 5700 XT and Radeon RX 5700 Review
+     *
+
+Page 2:Performance Results: 2560 x 1440
+     *
+
+Page 3:Performance Results: 3840 x 2160
+     *
+
+Page 4:Power Consumption: Radeon RX 5700
+     *
+
+Page 5:Power Consumption: Radeon RX 5700 XT
+     *
+
+Page 6:Fan Speeds, Clock Rates, and Temperatures
+     *
+
+Page 7:Conclusion
+
+Performance Results: 2560 x 1440
+
+   Given what we’ve already seen from GeForce RTX 2060 Super and 2070
+   Super, both of AMD’s Radeon RX 5700-series cards are best suited to
+   gaming at 2560 x 1440. They’re also beyond ample for 1920 x 1080,
+   though we don’t think you need to spend $350 or $400 dollars for smooth
+   frame rates at that resolution.
+
+   Across our benchmark suite, Radeon RX 5700 XT averages 9.9%-higher
+   frame rates than the GeForce RTX 2060 Super at 2560 x 1440. Radeon RX
+   5700 averages 11%-higher frame rates than the GeForce RTX 2060 at the
+   same resolution. The GeForce RTX 2070 Super does serve up average frame
+   rates 6.9% higher than Radeon RX 5700 XT, but it costs 25% more.
+
+   Compared to AMD’s previous generation, Radeon RX 5700 XT achieves
+   15%-higher average frame rates than Radeon RX Vega 64 at a $100-lower
+   launch price.
+
+   Before any of the GeForce RTX Super cards were announced, AMD said it
+   was targeting GeForce RTX 2070 with its Radeon RX 5700 XT. The top-end
+   Navi card does deliver 6.4%-higher average frame rates than its
+   intended GeForce mark, which means it often lands close to the
+   venerable GeForce GTX 1080 Ti.
+
+Battlefield V (DX12)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Battlefield V - FPS - 2560x1440, DX12 Ultra
+       Battlefield V - FPS - 2560x1440, DX12 Ultra
+     * Battlefield V - AvFPSoB - 2560x1440, DX12 Ultra
+       Battlefield V - AvFPSoB - 2560x1440, DX12 Ultra
+     * Battlefield V - FrameTime - 2560x1440, DX12 Ultra
+       Battlefield V - FrameTime - 2560x1440, DX12 Ultra
+     * Battlefield V - FPS99th - 2560x1440, DX12 Ultra
+       Battlefield V - FPS99th - 2560x1440, DX12 Ultra
+     * Battlefield V - FrameTimeVariance - 2560x1440, DX12 Ultra
+       Battlefield V - FrameTimeVariance - 2560x1440, DX12 Ultra
+     * Battlefield V - Unevenness - 2560x1440, DX12 Ultra
+       Battlefield V - Unevenness - 2560x1440, DX12 Ultra
+     * Battlefield V - FrameTimeoB - 2560x1440, DX12 Ultra
+       Battlefield V - FrameTimeoB - 2560x1440, DX12 Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Battlefield V - FPS - 2560x1440, DX12 Ultra
+
+Battlefield V - FPS - 2560x1440, DX12 Ultra
+     * Battlefield V - AvFPSoB - 2560x1440, DX12 Ultra
+
+Battlefield V - AvFPSoB - 2560x1440, DX12 Ultra
+     * Battlefield V - FrameTime - 2560x1440, DX12 Ultra
+
+Battlefield V - FrameTime - 2560x1440, DX12 Ultra
+     * Battlefield V - FPS99th - 2560x1440, DX12 Ultra
+
+Battlefield V - FPS99th - 2560x1440, DX12 Ultra
+     * Battlefield V - FrameTimeVariance - 2560x1440, DX12 Ultra
+
+Battlefield V - FrameTimeVariance - 2560x1440, DX12 Ultra
+     * Battlefield V - Unevenness - 2560x1440, DX12 Ultra
+
+Battlefield V - Unevenness - 2560x1440, DX12 Ultra
+     * Battlefield V - FrameTimeoB - 2560x1440, DX12 Ultra
+
+Battlefield V - FrameTimeoB - 2560x1440, DX12 Ultra
+
+Destiny 2 (DX11)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Destiny 2 - FPS - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - FPS - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - AvFPSoB - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - AvFPSoB - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FrameTimeVariance - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - FrameTimeVariance - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - Unevenness - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - Unevenness - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FrameTime - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - FrameTime - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FPS99th - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - FPS99th - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FrameTimeoB - 2560x1440, DX11, SMAA Highest
+       Destiny 2 - FrameTimeoB - 2560x1440, DX11, SMAA Highest
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Destiny 2 - FPS - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - FPS - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - AvFPSoB - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - AvFPSoB - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FrameTimeVariance - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - FrameTimeVariance - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - Unevenness - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - Unevenness - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FrameTime - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - FrameTime - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FPS99th - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - FPS99th - 2560x1440, DX11, SMAA Highest
+     * Destiny 2 - FrameTimeoB - 2560x1440, DX11, SMAA Highest
+
+Destiny 2 - FrameTimeoB - 2560x1440, DX11, SMAA Highest
+
+Far Cry 5 (DX11)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Far Cry 5 - FPS - 2560x1440, DX11, HD Textures On Ultra
+       Far Cry 5 - FPS - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - AvFPSoB - 2560x1440, DX11, HD Textures On Ultra
+       Far Cry 5 - AvFPSoB - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - Unevenness - 2560x1440, DX11, HD Textures On Ultra
+       Far Cry 5 - Unevenness - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FrameTimeVariance - 2560x1440, DX11, HD Textures On
+       Ultra
+       Far Cry 5 - FrameTimeVariance - 2560x1440, DX11, HD Textures On
+       Ultra
+     * Far Cry 5 - FPS99th - 2560x1440, DX11, HD Textures On Ultra
+       Far Cry 5 - FPS99th - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FrameTime - 2560x1440, DX11, HD Textures On Ultra
+       Far Cry 5 - FrameTime - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FrameTimeoB - 2560x1440, DX11, HD Textures On Ultra
+       Far Cry 5 - FrameTimeoB - 2560x1440, DX11, HD Textures On Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Far Cry 5 - FPS - 2560x1440, DX11, HD Textures On Ultra
+
+Far Cry 5 - FPS - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - AvFPSoB - 2560x1440, DX11, HD Textures On Ultra
+
+Far Cry 5 - AvFPSoB - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - Unevenness - 2560x1440, DX11, HD Textures On Ultra
+
+Far Cry 5 - Unevenness - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FrameTimeVariance - 2560x1440, DX11, HD Textures On
+       Ultra
+
+Far Cry 5 - FrameTimeVariance - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FPS99th - 2560x1440, DX11, HD Textures On Ultra
+
+Far Cry 5 - FPS99th - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FrameTime - 2560x1440, DX11, HD Textures On Ultra
+
+Far Cry 5 - FrameTime - 2560x1440, DX11, HD Textures On Ultra
+     * Far Cry 5 - FrameTimeoB - 2560x1440, DX11, HD Textures On Ultra
+
+Far Cry 5 - FrameTimeoB - 2560x1440, DX11, HD Textures On Ultra
+
+Final Fantasy XV (DX11)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Final Fantasy XV - FPS - 2560x1440, DX11, TAA High
+       Final Fantasy XV - FPS - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - AvFPSoB - 2560x1440, DX11, TAA High
+       Final Fantasy XV - AvFPSoB - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FrameTimeVariance - 2560x1440, DX11, TAA High
+       Final Fantasy XV - FrameTimeVariance - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - Unevenness - 2560x1440, DX11, TAA High
+       Final Fantasy XV - Unevenness - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FrameTime - 2560x1440, DX11, TAA High
+       Final Fantasy XV - FrameTime - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FrameTimeoB - 2560x1440, DX11, TAA High
+       Final Fantasy XV - FrameTimeoB - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FPS99th - 2560x1440, DX11, TAA High
+       Final Fantasy XV - FPS99th - 2560x1440, DX11, TAA High
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Final Fantasy XV - FPS - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - FPS - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - AvFPSoB - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - AvFPSoB - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FrameTimeVariance - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - FrameTimeVariance - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - Unevenness - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - Unevenness - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FrameTime - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - FrameTime - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FrameTimeoB - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - FrameTimeoB - 2560x1440, DX11, TAA High
+     * Final Fantasy XV - FPS99th - 2560x1440, DX11, TAA High
+
+Final Fantasy XV - FPS99th - 2560x1440, DX11, TAA High
+
+Forza Horizon 4 (DX12)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Forza Horizon 4 - FPS - 2560x1440, DX12, 2x MSAA Ultra
+       Forza Horizon 4 - FPS - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - Unevenness - 2560x1440, DX12, 2x MSAA Ultra
+       Forza Horizon 4 - Unevenness - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - AvFPSoB - 2560x1440, DX12, 2x MSAA Ultra
+       Forza Horizon 4 - AvFPSoB - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FrameTimeVariance - 2560x1440, DX12, 2x MSAA
+       Ultra
+       Forza Horizon 4 - FrameTimeVariance - 2560x1440, DX12, 2x MSAA
+       Ultra
+     * Forza Horizon 4 - FPS99th - 2560x1440, DX12, 2x MSAA Ultra
+       Forza Horizon 4 - FPS99th - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FrameTimeoB - 2560x1440, DX12, 2x MSAA Ultra
+       Forza Horizon 4 - FrameTimeoB - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FrameTime - 2560x1440, DX12, 2x MSAA Ultra
+       Forza Horizon 4 - FrameTime - 2560x1440, DX12, 2x MSAA Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Forza Horizon 4 - FPS - 2560x1440, DX12, 2x MSAA Ultra
+
+Forza Horizon 4 - FPS - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - Unevenness - 2560x1440, DX12, 2x MSAA Ultra
+
+Forza Horizon 4 - Unevenness - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - AvFPSoB - 2560x1440, DX12, 2x MSAA Ultra
+
+Forza Horizon 4 - AvFPSoB - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FrameTimeVariance - 2560x1440, DX12, 2x MSAA
+       Ultra
+
+Forza Horizon 4 - FrameTimeVariance - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FPS99th - 2560x1440, DX12, 2x MSAA Ultra
+
+Forza Horizon 4 - FPS99th - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FrameTimeoB - 2560x1440, DX12, 2x MSAA Ultra
+
+Forza Horizon 4 - FrameTimeoB - 2560x1440, DX12, 2x MSAA Ultra
+     * Forza Horizon 4 - FrameTime - 2560x1440, DX12, 2x MSAA Ultra
+
+Forza Horizon 4 - FrameTime - 2560x1440, DX12, 2x MSAA Ultra
+
+Grand Theft Auto V (DX11)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Grand Theft Auto V - FPS - 2560x1440, DX11, 4x MSAA Very High
+       Grand Theft Auto V - FPS - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - AvFPSoB - 2560x1440, DX11, 4x MSAA Very High
+       Grand Theft Auto V - AvFPSoB - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - Unevenness - 2560x1440, DX11, 4x MSAA Very
+       High
+       Grand Theft Auto V - Unevenness - 2560x1440, DX11, 4x MSAA Very
+       High
+     * Grand Theft Auto V - FrameTime - 2560x1440, DX11, 4x MSAA Very High
+       Grand Theft Auto V - FrameTime - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - FrameTimeVariance - 2560x1440, DX11, 4x MSAA
+       Very High
+       Grand Theft Auto V - FrameTimeVariance - 2560x1440, DX11, 4x MSAA
+       Very High
+     * Grand Theft Auto V - FPS99th - 2560x1440, DX11, 4x MSAA Very High
+       Grand Theft Auto V - FPS99th - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - FrameTimeoB - 2560x1440, DX11, 4x MSAA Very
+       High
+       Grand Theft Auto V - FrameTimeoB - 2560x1440, DX11, 4x MSAA Very
+       High
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Grand Theft Auto V - FPS - 2560x1440, DX11, 4x MSAA Very High
+
+Grand Theft Auto V - FPS - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - AvFPSoB - 2560x1440, DX11, 4x MSAA Very High
+
+Grand Theft Auto V - AvFPSoB - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - Unevenness - 2560x1440, DX11, 4x MSAA Very
+       High
+
+Grand Theft Auto V - Unevenness - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - FrameTime - 2560x1440, DX11, 4x MSAA Very High
+
+Grand Theft Auto V - FrameTime - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - FrameTimeVariance - 2560x1440, DX11, 4x MSAA
+       Very High
+
+Grand Theft Auto V - FrameTimeVariance - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - FPS99th - 2560x1440, DX11, 4x MSAA Very High
+
+Grand Theft Auto V - FPS99th - 2560x1440, DX11, 4x MSAA Very High
+     * Grand Theft Auto V - FrameTimeoB - 2560x1440, DX11, 4x MSAA Very
+       High
+
+Grand Theft Auto V - FrameTimeoB - 2560x1440, DX11, 4x MSAA Very High
+
+Metro: Exodus (DX12)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Metro Exodus - FPS - 2560x1440, DX12 Ultra
+       Metro Exodus - FPS - 2560x1440, DX12 Ultra
+     * Metro Exodus - AvFPSoB - 2560x1440, DX12 Ultra
+       Metro Exodus - AvFPSoB - 2560x1440, DX12 Ultra
+     * Metro Exodus - Unevenness - 2560x1440, DX12 Ultra
+       Metro Exodus - Unevenness - 2560x1440, DX12 Ultra
+     * Metro Exodus - FrameTimeoB - 2560x1440, DX12 Ultra
+       Metro Exodus - FrameTimeoB - 2560x1440, DX12 Ultra
+     * Metro Exodus - FrameTimeVariance - 2560x1440, DX12 Ultra
+       Metro Exodus - FrameTimeVariance - 2560x1440, DX12 Ultra
+     * Metro Exodus - FPS99th - 2560x1440, DX12 Ultra
+       Metro Exodus - FPS99th - 2560x1440, DX12 Ultra
+     * Metro Exodus - FrameTime - 2560x1440, DX12 Ultra
+       Metro Exodus - FrameTime - 2560x1440, DX12 Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Metro Exodus - FPS - 2560x1440, DX12 Ultra
+
+Metro Exodus - FPS - 2560x1440, DX12 Ultra
+     * Metro Exodus - AvFPSoB - 2560x1440, DX12 Ultra
+
+Metro Exodus - AvFPSoB - 2560x1440, DX12 Ultra
+     * Metro Exodus - Unevenness - 2560x1440, DX12 Ultra
+
+Metro Exodus - Unevenness - 2560x1440, DX12 Ultra
+     * Metro Exodus - FrameTimeoB - 2560x1440, DX12 Ultra
+
+Metro Exodus - FrameTimeoB - 2560x1440, DX12 Ultra
+     * Metro Exodus - FrameTimeVariance - 2560x1440, DX12 Ultra
+
+Metro Exodus - FrameTimeVariance - 2560x1440, DX12 Ultra
+     * Metro Exodus - FPS99th - 2560x1440, DX12 Ultra
+
+Metro Exodus - FPS99th - 2560x1440, DX12 Ultra
+     * Metro Exodus - FrameTime - 2560x1440, DX12 Ultra
+
+Metro Exodus - FrameTime - 2560x1440, DX12 Ultra
+
+Shadow of the Tomb Raider (DX12)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Shadow of the Tomb Raider - FPS - 2560x1440, DX12, SMAAT2x Highest
+       Shadow of the Tomb Raider - FPS - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - FrameTime - 2560x1440, DX12, SMAAT2x
+       Highest
+       Shadow of the Tomb Raider - FrameTime - 2560x1440, DX12, SMAAT2x
+       Highest
+     * Shadow of the Tomb Raider - Unevenness - 2560x1440, DX12, SMAAT2x
+       Highest
+       Shadow of the Tomb Raider - Unevenness - 2560x1440, DX12, SMAAT2x
+       Highest
+     * Shadow of the Tomb Raider - AvFPSoB - 2560x1440, DX12, SMAAT2x
+       Highest
+       Shadow of the Tomb Raider - AvFPSoB - 2560x1440, DX12, SMAAT2x
+       Highest
+     * Shadow of the Tomb Raider - FPS99th - 2560x1440, DX12, SMAAT2x
+       Highest
+       Shadow of the Tomb Raider - FPS99th - 2560x1440, DX12, SMAAT2x
+       Highest
+     * Shadow of the Tomb Raider - FrameTimeoB - 2560x1440, DX12, SMAAT2x
+       Highest
+       Shadow of the Tomb Raider - FrameTimeoB - 2560x1440, DX12, SMAAT2x
+       Highest
+     * Shadow of the Tomb Raider - FrameTimeVariance - 2560x1440, DX12,
+       SMAAT2x Highest
+       Shadow of the Tomb Raider - FrameTimeVariance - 2560x1440, DX12,
+       SMAAT2x Highest
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Shadow of the Tomb Raider - FPS - 2560x1440, DX12, SMAAT2x Highest
+
+Shadow of the Tomb Raider - FPS - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - FrameTime - 2560x1440, DX12, SMAAT2x
+       Highest
+
+Shadow of the Tomb Raider - FrameTime - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - Unevenness - 2560x1440, DX12, SMAAT2x
+       Highest
+
+Shadow of the Tomb Raider - Unevenness - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - AvFPSoB - 2560x1440, DX12, SMAAT2x
+       Highest
+
+Shadow of the Tomb Raider - AvFPSoB - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - FPS99th - 2560x1440, DX12, SMAAT2x
+       Highest
+
+Shadow of the Tomb Raider - FPS99th - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - FrameTimeoB - 2560x1440, DX12, SMAAT2x
+       Highest
+
+Shadow of the Tomb Raider - FrameTimeoB - 2560x1440, DX12, SMAAT2x Highest
+     * Shadow of the Tomb Raider - FrameTimeVariance - 2560x1440, DX12,
+       SMAAT2x Highest
+
+Shadow of the Tomb Raider - FrameTimeVariance - 2560x1440, DX12, SMAAT2x
+Highest
+
+Strange Brigade (Vulkan)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Strange Brigade - FPS - 2560x1440, Vulkan, Async Compute Ultra
+       Strange Brigade - FPS - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - FPS99th - 2560x1440, Vulkan, Async Compute Ultra
+       Strange Brigade - FPS99th - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - AvFPSoB - 2560x1440, Vulkan, Async Compute Ultra
+       Strange Brigade - AvFPSoB - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - Unevenness - 2560x1440, Vulkan, Async Compute
+       Ultra
+       Strange Brigade - Unevenness - 2560x1440, Vulkan, Async Compute
+       Ultra
+     * Strange Brigade - FrameTimeVariance - 2560x1440, Vulkan, Async
+       Compute Ultra
+       Strange Brigade - FrameTimeVariance - 2560x1440, Vulkan, Async
+       Compute Ultra
+     * Strange Brigade - FrameTime - 2560x1440, Vulkan, Async Compute
+       Ultra
+       Strange Brigade - FrameTime - 2560x1440, Vulkan, Async Compute
+       Ultra
+     * Strange Brigade - FrameTimeoB - 2560x1440, Vulkan, Async Compute
+       Ultra
+       Strange Brigade - FrameTimeoB - 2560x1440, Vulkan, Async Compute
+       Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Strange Brigade - FPS - 2560x1440, Vulkan, Async Compute Ultra
+
+Strange Brigade - FPS - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - FPS99th - 2560x1440, Vulkan, Async Compute Ultra
+
+Strange Brigade - FPS99th - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - AvFPSoB - 2560x1440, Vulkan, Async Compute Ultra
+
+Strange Brigade - AvFPSoB - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - Unevenness - 2560x1440, Vulkan, Async Compute
+       Ultra
+
+Strange Brigade - Unevenness - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - FrameTimeVariance - 2560x1440, Vulkan, Async
+       Compute Ultra
+
+Strange Brigade - FrameTimeVariance - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - FrameTime - 2560x1440, Vulkan, Async Compute
+       Ultra
+
+Strange Brigade - FrameTime - 2560x1440, Vulkan, Async Compute Ultra
+     * Strange Brigade - FrameTimeoB - 2560x1440, Vulkan, Async Compute
+       Ultra
+
+Strange Brigade - FrameTimeoB - 2560x1440, Vulkan, Async Compute Ultra
+
+Tom Clancy’s The Division 2 (DX12)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Tom Clancy\'s The Division 2 - FPS - 2560x1440, DX12 Ultra
+       Tom Clancy\'s The Division 2 - FPS - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - AvFPSoB - 2560x1440, DX12 Ultra
+       Tom Clancy\'s The Division 2 - AvFPSoB - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FrameTime - 2560x1440, DX12 Ultra
+       Tom Clancy\'s The Division 2 - FrameTime - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FrameTimeVariance - 2560x1440, DX12
+       Ultra
+       Tom Clancy\'s The Division 2 - FrameTimeVariance - 2560x1440, DX12
+       Ultra
+     * Tom Clancy\'s The Division 2 - Unevenness - 2560x1440, DX12 Ultra
+       Tom Clancy\'s The Division 2 - Unevenness - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FPS99th - 2560x1440, DX12 Ultra
+       Tom Clancy\'s The Division 2 - FPS99th - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FrameTimeoB - 2560x1440, DX12 Ultra
+       Tom Clancy\'s The Division 2 - FrameTimeoB - 2560x1440, DX12 Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Tom Clancy\'s The Division 2 - FPS - 2560x1440, DX12 Ultra
+
+Tom Clancy\'s The Division 2 - FPS - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - AvFPSoB - 2560x1440, DX12 Ultra
+
+Tom Clancy\'s The Division 2 - AvFPSoB - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FrameTime - 2560x1440, DX12 Ultra
+
+Tom Clancy\'s The Division 2 - FrameTime - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FrameTimeVariance - 2560x1440, DX12
+       Ultra
+
+Tom Clancy\'s The Division 2 - FrameTimeVariance - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - Unevenness - 2560x1440, DX12 Ultra
+
+Tom Clancy\'s The Division 2 - Unevenness - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FPS99th - 2560x1440, DX12 Ultra
+
+Tom Clancy\'s The Division 2 - FPS99th - 2560x1440, DX12 Ultra
+     * Tom Clancy\'s The Division 2 - FrameTimeoB - 2560x1440, DX12 Ultra
+
+Tom Clancy\'s The Division 2 - FrameTimeoB - 2560x1440, DX12 Ultra
+
+Tom Clancy’s Ghost Recon (DX11)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Tom Clancy\'s Ghost Recon - FPS - 2560x1440, DX11 Very High
+       Tom Clancy\'s Ghost Recon - FPS - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - AvFPSoB - 2560x1440, DX11 Very High
+       Tom Clancy\'s Ghost Recon - AvFPSoB - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FrameTime - 2560x1440, DX11 Very High
+       Tom Clancy\'s Ghost Recon - FrameTime - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - Unevenness - 2560x1440, DX11 Very High
+       Tom Clancy\'s Ghost Recon - Unevenness - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FrameTimeVariance - 2560x1440, DX11
+       Very High
+       Tom Clancy\'s Ghost Recon - FrameTimeVariance - 2560x1440, DX11
+       Very High
+     * Tom Clancy\'s Ghost Recon - FPS99th - 2560x1440, DX11 Very High
+       Tom Clancy\'s Ghost Recon - FPS99th - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FrameTimeoB - 2560x1440, DX11 Very High
+       Tom Clancy\'s Ghost Recon - FrameTimeoB - 2560x1440, DX11 Very High
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Tom Clancy\'s Ghost Recon - FPS - 2560x1440, DX11 Very High
+
+Tom Clancy\'s Ghost Recon - FPS - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - AvFPSoB - 2560x1440, DX11 Very High
+
+Tom Clancy\'s Ghost Recon - AvFPSoB - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FrameTime - 2560x1440, DX11 Very High
+
+Tom Clancy\'s Ghost Recon - FrameTime - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - Unevenness - 2560x1440, DX11 Very High
+
+Tom Clancy\'s Ghost Recon - Unevenness - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FrameTimeVariance - 2560x1440, DX11
+       Very High
+
+Tom Clancy\'s Ghost Recon - FrameTimeVariance - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FPS99th - 2560x1440, DX11 Very High
+
+Tom Clancy\'s Ghost Recon - FPS99th - 2560x1440, DX11 Very High
+     * Tom Clancy\'s Ghost Recon - FrameTimeoB - 2560x1440, DX11 Very High
+
+Tom Clancy\'s Ghost Recon - FrameTimeoB - 2560x1440, DX11 Very High
+
+The Witcher 3 (DX11)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * The Witcher 3 - FPS - 2560x1440, DX11 Ultra
+       The Witcher 3 - FPS - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FPS99th - 2560x1440, DX11 Ultra
+       The Witcher 3 - FPS99th - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FrameTimeVariance - 2560x1440, DX11 Ultra
+       The Witcher 3 - FrameTimeVariance - 2560x1440, DX11 Ultra
+     * The Witcher 3 - Unevenness - 2560x1440, DX11 Ultra
+       The Witcher 3 - Unevenness - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FrameTimeoB - 2560x1440, DX11 Ultra
+       The Witcher 3 - FrameTimeoB - 2560x1440, DX11 Ultra
+     * The Witcher 3 - AvFPSoB - 2560x1440, DX11 Ultra
+       The Witcher 3 - AvFPSoB - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FrameTime - 2560x1440, DX11 Ultra
+       The Witcher 3 - FrameTime - 2560x1440, DX11 Ultra
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * The Witcher 3 - FPS - 2560x1440, DX11 Ultra
+
+The Witcher 3 - FPS - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FPS99th - 2560x1440, DX11 Ultra
+
+The Witcher 3 - FPS99th - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FrameTimeVariance - 2560x1440, DX11 Ultra
+
+The Witcher 3 - FrameTimeVariance - 2560x1440, DX11 Ultra
+     * The Witcher 3 - Unevenness - 2560x1440, DX11 Ultra
+
+The Witcher 3 - Unevenness - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FrameTimeoB - 2560x1440, DX11 Ultra
+
+The Witcher 3 - FrameTimeoB - 2560x1440, DX11 Ultra
+     * The Witcher 3 - AvFPSoB - 2560x1440, DX11 Ultra
+
+The Witcher 3 - AvFPSoB - 2560x1440, DX11 Ultra
+     * The Witcher 3 - FrameTime - 2560x1440, DX11 Ultra
+
+The Witcher 3 - FrameTime - 2560x1440, DX11 Ultra
+
+Wolfenstein II: The New Colossus (Vulkan)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Wolfenstein II The New Colossus - FPS - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+       Wolfenstein II The New Colossus - FPS - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+     * Wolfenstein II The New Colossus - AvFPSoB - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+       Wolfenstein II The New Colossus - AvFPSoB - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+     * Wolfenstein II The New Colossus - FrameTime - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+       Wolfenstein II The New Colossus - FrameTime - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+     * Wolfenstein II The New Colossus - FrameTimeVariance - 2560x1440,
+       Vulkan Über, TSSAA (8TX)
+       Wolfenstein II The New Colossus - FrameTimeVariance - 2560x1440,
+       Vulkan Über, TSSAA (8TX)
+     * Wolfenstein II The New Colossus - Unevenness - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+       Wolfenstein II The New Colossus - Unevenness - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+     * Wolfenstein II The New Colossus - FPS99th - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+       Wolfenstein II The New Colossus - FPS99th - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+     * Wolfenstein II The New Colossus - FrameTimeoB - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+       Wolfenstein II The New Colossus - FrameTimeoB - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+
+   (*) ( ) ( ) ( ) ( ) ( ) ( )
+     * Wolfenstein II The New Colossus - FPS - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+
+Wolfenstein II The New Colossus - FPS - 2560x1440, Vulkan Über, TSSAA (8TX)
+     * Wolfenstein II The New Colossus - AvFPSoB - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+
+Wolfenstein II The New Colossus - AvFPSoB - 2560x1440, Vulkan Über, TSSAA
+(8TX)
+     * Wolfenstein II The New Colossus - FrameTime - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+
+Wolfenstein II The New Colossus - FrameTime - 2560x1440, Vulkan Über, TSSAA
+(8TX)
+     * Wolfenstein II The New Colossus - FrameTimeVariance - 2560x1440,
+       Vulkan Über, TSSAA (8TX)
+
+Wolfenstein II The New Colossus - FrameTimeVariance - 2560x1440, Vulkan Über,
+TSSAA (8TX)
+     * Wolfenstein II The New Colossus - Unevenness - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+
+Wolfenstein II The New Colossus - Unevenness - 2560x1440, Vulkan Über, TSSAA
+(8TX)
+     * Wolfenstein II The New Colossus - FPS99th - 2560x1440, Vulkan Über,
+       TSSAA (8TX)
+
+Wolfenstein II The New Colossus - FPS99th - 2560x1440, Vulkan Über, TSSAA
+(8TX)
+     * Wolfenstein II The New Colossus - FrameTimeoB - 2560x1440, Vulkan
+       Über, TSSAA (8TX)
+
+Wolfenstein II The New Colossus - FrameTimeoB - 2560x1440, Vulkan Über, TSSAA
+(8TX)
+
+   MORE: Best Graphics Cards
+
+   MORE: Desktop GPU Performance Hierarchy Table
+
+   MORE: All Graphics Content
+
+   [javascript]
+   AMD Radeon RX 5700
+   $350Amazon
+
+   Previous Next
+
+   Summary
+    1. AMD Radeon RX 5700 XT and Radeon RX 5700 Review
+    2. Performance Results: 2560 x 1440
+    3. Performance Results: 3840 x 2160
+    4. Power Consumption: Radeon RX 5700
+    5. Power Consumption: Radeon RX 5700 XT
+    6. Fan Speeds, Clock Rates, and Temperatures
+    7. Conclusion
+
+   About the author
+   Chris Angelini @chris_angelini
+
+   Chris Angelini is an Editor Emeritus at Tom's Hardware US. He edits
+   hardware reviews and covers high-profile CPU and GPU launches.
+   [javascript]
+   Read more
+     * Graphics
+     * AMD
+     * Components
+
+   22 comments
+   Comment from the forums
+       Your comment
+     *
+   ICWiener [X]
+       [ ]
+       Honestly I'd pay the extra just for Nvidia's decent cooler, let
+       alone power consumption, RTX, etc. Hard pass on another blower.
+     *
+   justin.m.beauvais [X]
+       [ ]
+       Dear AMD,
+       Why? Wasn't your line GTX 1080 performance at RX 580 prices? points
+       at Navi This is not that.
+       Regrettably yours,
+       Your Fans
+     *
+   alextheblue [X]
+       [ ]
+
+     Quote:
+
+     Honestly I'd pay the extra just for Nvidia's decent cooler, let
+     alone power consumption, RTX, etc. Hard pass on another blower.
+       I read the review, don't know what you mean by "let alone power
+       consumption". Efficiency is virtually the same. I personally prefer
+       blowers as long as they're not crazy loud, and the review says
+       they're not so I'm all for it. If you DON'T like blowers, I'm sure
+       there will be third-party coolers that improve cooling performance
+       and acoustics further (and dump heat into the chassis like crazy).
+
+     Quote:
+
+     Dear AMD, Why? Wasn't your line GTX 1080 performance at RX 580
+     prices? points at Navi This is not that. Regrettably yours, Your
+     Fans
+       Who ever promised that? They are 10-11% faster than same-priced
+       Nvidia models. They're not going to drop 5700 $100 bucks when
+       they're already ahead by 11%, even though I would love lower
+       prices, there's no incentive for them to do so.
+     *
+   face-plants [X]
+       [ ]
+       I'm pleasantly surprised by both the performance AND the
+       last-minute drop in price. Personally I don't like blower style
+       cards and will be on the lookout for third-party offerings with
+       more traditional dual fan coolers. This is totally personal
+       preference as I tend to build in bigger cases with plenty of
+       ventilation to deal with the extra heat. If the prices don't get
+       too out of line from the AIBs then I'll gladly give a few of these
+       cards a go in upcoming builds. I'm also expecting a decent
+       improvement in thermals so hopefully these FE cards aren't
+       exemplary of the best cooling you can get on air. The prospect of
+       building all AMD machines in the coming months has got me totally
+       nerding out.
+     *
+   kinggremlin [X]
+       [ ]
+
+     Quote:
+
+     I read the review, don't know what you mean by "let alone power
+     consumption". Efficiency is virtually the same. I personally prefer
+     blowers as long as they're not crazy loud, and the review says
+     they're not so I'm all for it. If you DON'T like blowers, I'm sure
+     there will be third-party coolers that improve cooling performance
+     and acoustics further (and dump heat into the chassis like crazy).
+     Who ever promised that? They are 10-11% faster than same-priced
+     Nvidia models. They're not going to drop 5700 $100 bucks when
+     they're already ahead by 11%, even though I would love lower prices,
+     there's no incentive for them to do so.
+       You didn't read the review. Ignoring the Furmark results which
+       don't mirror any realworld scenario. The 5700xt is slower than the
+       2070 Super while using more power and running over 10degrees C
+       hotter in gaming.
+     *
+   alextheblue [X]
+       [ ]
+
+     Quote:
+
+     You didn't read the review. Ignoring the Furmark results which don't
+     mirror any realworld scenario. The 5700xt is slower than the 2070
+     Super while using more power and running over 10degrees C hotter in
+     gaming.
+       Yes, I did, stop being obstinate. Ah, I get it, you must have read
+       "efficiency" in my post as "power consumption", or something. Why
+       are you comparing it to the 2070 Super? The 5700 is the same price
+       as the 2060 and 11-12% faster on average (between TH and AT), and
+       the 5700XT is the same price as the 2060 Super and roughly 10-11%
+       (TH-AT) faster. Yes, they use more power, but they're faster. As a
+       result the efficiency is pretty close. It varies based on workload
+       (game title), but I have read the reviews here and AT (so far,
+       haven't looked at a third review yet). Here:
+       https://www.anandtech.com/show/14618/the-amd-radeon-rx-5700-xt-rx-5
+       700-review/15
+       Factor in the performance gain (in AT's suite it was 11% for the XT
+       and 12 for vanilla 5700) and you'll see their power consumption is
+       pretty good. Average that with TH's results in Metro: LL and the
+       final efficiency is pretty neck and neck with their direct
+       competitors.
+       I didn't say they didn't run hot. For people that don't like
+       blowers (as I already said) there will be cooler, quieter third
+       party options.
+     *
+   digitalgriffin [X]
+       [ ]
+
+     Quote:
+
+     I read the review, don't know what you mean by "let alone power
+     consumption". Efficiency is virtually the same. I personally prefer
+     blowers as long as they're not crazy loud, and the review says
+     they're not so I'm all for it. If you DON'T like blowers, I'm sure
+     there will be third-party coolers that improve cooling performance
+     and acoustics further (and dump heat into the chassis like crazy).
+     Who ever promised that? They are 10-11% faster than same-priced
+     Nvidia models. They're not going to drop 5700 $100 bucks when
+     they're already ahead by 11%, even though I would love lower prices,
+     there's no incentive for them to do so.
+       In all honesty, all these cards are expensive. $350 would have been
+       the most I wanted to pay for a 5700XT. And the card does run hot.
+       Pascal was a small move up in prices. Turing was just insane
+       pricing wise.
+       That being said I bought one today and said "F"-it. I just don't
+       like NVIDIA's business ethics. It will get the job done for two to
+       three years.
+     *
+   Axiss [X]
+       [ ]
+       any idea when the board partner cards come out?
+     *
+   randomizer [X]
+       [ ]
+       How many engineers looked at those fan curves in lab testing and
+       thought they were good?
+       I think this release is a bit underwhelming. Local pricing here
+       makes the RX 5700 fairly unattractive compared to a 2060, but the
+       XT is better positioned against the 2070. Not sure it's really
+       worthwhile upgrading a 970 though.
+     *
+   daglesj [X]
+       [ ]
+       So for the many of us on a RX480?...
+       Worth it? Could someone not dig out the previous AMD midrange value
+       demon to test against? C'mon...
+     *
+   feelinfroggy777 [X]
+       [ ]
+       The last $200 card AMD has released was 2.5 years ago. Let that
+       sink in for a minute.
+     *
+   jeremyj_83 [X]
+       [ ]
+
+     Quote:
+
+     How many engineers looked at those fan curves in lab testing and
+     thought they were good? I think this release is a bit underwhelming.
+     Local pricing here makes the RX 5700 fairly unattractive compared to
+     a 2060, but the XT is better positioned against the 2070. Not sure
+     it's really worthwhile upgrading a 970 though.
+       On average the 5700XT is about twice as fast as the GTX 980 and the
+       980 is 10-15% faster on average than the 970. That means that going
+       to the XT will double your framerate assuming your CPU can keep up.
+       I would say that is a worthwhile upgrade.
+       https://www.anandtech.com/bench/product/2522?vs=2529
+     *
+   randomizer [X]
+       [ ]
+
+     Quote:
+
+     On average the 5700XT is about twice as fast as the GTX 980 and the
+     980 is 10-15% faster on average than the 970. That means that going
+     to the XT will double your framerate assuming your CPU can keep up.
+     I would say that is a worthwhile upgrade.
+     https://www.anandtech.com/bench/product/2522?vs=2529
+       I usually like to triple my framerates while sticking to a similar
+       price bracket :)
+       Also I don't think I can afford to run that space heater in summer.
+     *
+   redgarl [X]
+       [ ]
+       For anyone that want to know what matter...
+       https://static.techspot.com/articles-info/1870/bench/Cost.png
+       https://static.techspot.com/articles-info/1870/bench/Cost1.png
+       With the actual scoring, this review is a joke. Navi is disrupting
+       pricing and almost match a 1080 TI for 400$... however at
+       tomshardware it sux.
+     *
+   alextheblue [X]
+       [ ]
+
+     Quote:
+
+     In all honesty, all these cards are expensive. $350 would have been
+     the most I wanted to pay for a 5700XT. And the card does run hot.
+     Pascal was a small move up in prices. Turing was just insane pricing
+     wise. That being said I bought one today and said "F"-it. I just
+     don't like NVIDIA's business ethics. It will get the job done for
+     two to three years.
+       They ARE expensive - both Nvidia and AMD. This is the new
+       "mid-range" unfortunately. I'd like to see Xe undercut them both
+       and force this tier back down to the ~$250 range. I still might end
+       up getting one, we'll see.
+
+     Quote:
+
+     How many engineers looked at those fan curves in lab testing and
+     thought they were good? I think this release is a bit underwhelming.
+     Local pricing here makes the RX 5700 fairly unattractive compared to
+     a 2060, but the XT is better positioned against the 2070. Not sure
+     it's really worthwhile upgrading a 970 though.
+       If you're talking about the erratic behavior with the speed
+       dropping over time, that looks to me like a bug or an issue with
+       that sample. Their XT didn't act that way. Pricing can suck
+       depending where you are... in the US it certainly offers more bang
+       for the buck than the 2060. Maybe pricing will be more reasonable
+       when partner boards become widespread. Like your icon, BTW, big fan
+       of new Genesis/MD titles - awaiting Xeno Crisis currently.
+     *
+   randomizer [X]
+       [ ]
+
+     Quote:
+
+     If you're talking about the erratic behavior with the speed dropping
+     over time, that looks to me like a bug or an issue with that sample.
+     Their XT didn't act that way
+       While not as bad, I wouldn't call the XT's fan curve good either.
+       It's going to start roaring the moment you get to the main menu
+       (and you'll probably notice the sudden change) and it won't stop
+       until you're back at the desktop.
+
+     Quote:
+
+     Like your icon, BTW, big fan of new Genesis/MD titles - awaiting
+     Xeno Crisis currently.
+       It is actually from a Genesis/MD game, but one that was released
+       last year, not in the 90s. :)
+     *
+   TJ Hooker [X]
+       [ ]
+
+     Quote:
+
+     For anyone that want to know what matter...
+     https://static.techspot.com/articles-info/1870/bench/Cost.png
+     https://static.techspot.com/articles-info/1870/bench/Cost1.png With
+     the actual scoring, this review is a joke. Navi is disrupting
+     pricing and almost match a 1080 TI for 400$... however at
+     tomshardware it sux.
+       Those performance numbers aren't very different than what TH is
+       reporting. And values will obviously vary depending on your test
+       suite. This review reflects the fact that these otherwise great
+       value cards are paired with a mediocre blower cooler, it hardly
+       says the cards "suck". Which amounts to saying that we should wait
+       for AIB cards, which is pretty common advice for every GPU launch.
+     *
+   AgentLozen [X]
+       [ ]
+
+     Quote:
+
+     For anyone that want to know what matter...
+     https://static.techspot.com/articles-info/1870/bench/Cost.png
+     https://static.techspot.com/articles-info/1870/bench/Cost1.png With
+     the actual scoring, this review is a joke. Navi is disrupting
+     pricing and almost match a 1080 TI for 400$... however at
+     tomshardware it sux.
+       While I was reading this article I was thinking "please please
+       please let redgarl post in the forums!!" My wish was granted and
+       Redgarl definitely provided.
+       Redgarl describes this review as a "joke". He claims that Navi is
+       "disrupting pricing" and "almost match a 1080 TI". He provides
+       links to the TechSpot 5700 review for "anyone that want to know
+       what matter..." This made me genuinely really curious. Is today the
+       day that redgarl proves Tomshardware is run by a bunch of hacks? I
+       had to know for myself.
+       First of all I looked at the test setups for each review. Techspot
+       uses a 9900K Intel CPU and 32GB DDR4-3200. Tomshardware's build is
+       different. They use a 8086K Intel CPU and 64GB of DDR4 2400.
+       Tomshardware documents the drivers used as 431.16 Nvidia Driver for
+       the 2060Super and 2070Super but the 430.86 for every other Nvidia
+       card. For AMD cards, they use the 19.7.1 driver with the RX 5700
+       cards and the 19.6.3 driver for everything else. By comparison,
+       Techspot reports that they used the "latest drivers available at
+       the time". Its not clear how that compares to Tomshardware. The
+       test machine on each respective site is different and that may
+       cause differences in benchmarks. I predict (jk. I've already seen
+       the results) the Tech Spot benchmarks may be a little higher
+       judging by the faster memory and the better CPU.
+       I then compared Techspots benchmarks to those featured on
+       Tomshardware. First I looked at the Assassin's Creed Odyssey
+       results. At 1440p, Techspot reports the Radeon RX 5700XT hit an
+       average of 70fps. Meanwhile, Tomshardware was showing... oh dear,
+       Odyssey wasn't featured on Tom's. Let's just move on. The
+       Techspot's Destiny 2 1440p results show that.. uh oh, it's
+       happening again. Techspot didn't feature Destiny 2 benchmarks. This
+       is a problem because you can't compare apples-to-apples when the
+       same benchmarks aren't used.
+       Assassin's Creed Odyssey, Destiny 2, DiRT Rally 2.0, Far Cry 5, Far
+       Cry New Dawn, Final Fantasy XV, GTA V, Resident Evil 2, Strange
+       Brigade, Tom Clancy's Ghost Recon, Tom Clancy's Rainbow Six Siege,
+       World War Z, The Witcher 3, Wolfenstein II: The New Colossus are
+       either benchmarked by Tom's or TechSpot but not both. The only
+       overlapping games are Battlefield V, Forza Horizon 4, Metro Exodus,
+       Shadow of the Tomb Raider, and Tom Clancy's The Division 2.
+       Let's look at the Shadow of the Tomb Raider results. Techspot and
+       Tom's ran the game at 1440p, highest quality.... oh no.
+       Tomshardware used SMAAT2x in it's Shadow of the Tomb Raider
+       benchmark. Techspot didn't report using that setting. Well that's
+       not apples-to-apples either. A similar situation happens with
+       Battlefield V where Tomshardware uses DX12 and Techspot uses DX11.
+       For Tom Clancy's The Division 2, I double checked to make sure the
+       software is the same between both Techspot and Tom's platforms.
+       DX12, 1440p, Ultra quality. Check. Now here is something that
+       appears to be genuinely inconsistent between reviews. Techspot's
+       averages for the GeForce 2080, 2070 Super, 2060 Super, Radeon RX
+       5700, and 5700XT are higher than the Tomshardware numbers. Well
+       there you have it. Redgarl has proven that "With the actual
+       scoring, this review is a joke." Tomshardware losses, redgarl wins.
+       Except that the test systems between Tomshardware and TechSpot are
+       different. Isn't this a roller coaster? TechSpot has a better CPU
+       and faster ram. I looked carefully at the trends between both
+       reviews and lo and behold they show the same thing. Both sites list
+       the video card pecking order as: 2080, 2070 Super, Radeon VII, 1080
+       Ti, 5700XT, 2070, 2060 Super, Vega 64, 5700, 1080, 2060, and so on
+       and so forth. It's very plausible that the differences in specific
+       numbers can be chalked up to differences in platforms or margin of
+       error.
+       The charts that redgarl cherry picked show the results between Toms
+       and Techspot are totally different. If you only considered those
+       charts then you might think Tomshardware has an incompetent staff
+       the way redgarl wants you to believe. However, when you look at the
+       whole picture, its obvious that you can't directly compare the
+       benchmark results between both sites. A total of 19 games were
+       reviewed by both sites. Only five overlap. I threw out Shadow of
+       the Tomb Raider because we can't be sure both sites used the same
+       settings. That leaves four. When we directly compare results, the
+       numbers vary probably due to differences in test hardware, but the
+       trends are consistent. In conclusion: there isn't enough evidence
+       to prove that the Tomshardware review did anything wrong.
+       To redgarl, this is just for fun my dude. No hard feelings.
+     *
+   alextheblue [X]
+       [ ]
+
+     Quote:
+
+     It is actually from a Genesis/MD game, but one that was released
+     last year, not in the 90s. :)
+       Yeah I know, that's why I pointed it out. It's from Tanglewood.
+       That's what I was talking about when I said I am a fan of new
+       Genesis games. Xeno Crisis, for example, isn't even (quite) out
+       yet.
+     *
+   randomizer [X]
+       [ ]
+
+     Quote:
+
+     Yeah I know, that's why I pointed it out. It's from Tanglewood.
+     That's what I was talking about when I said I am a fan of new
+     Genesis games. Xeno Crisis, for example, isn't even (quite) out yet.
+       Righto, I thought it was just the style that reminded you of
+       Genesis games. I didn't expect to run into anyone else who had
+       actually heard of this game :LOL:
+     *
+   treetops422 [X]
+       [ ]
+       "Across our benchmark suite, Radeon RX 5700 XT averages 9.9%-higher
+       frame rates than the GeForce RTX 2060 Super at 2560 x 1440. Radeon
+       RX 5700 averages 11%-higher frame rates than the GeForce RTX 2060
+       at the same resolution. The GeForce RTX 2070 Super does serve up
+       average frame rates 6.9% higher than Radeon RX 5700 XT, but it
+       costs 25% more. "
+       That's all I need to know. Who would RT and half their performance?
+       Esp on a 2060
+     *
+   B-Real85 [X]
+       [ ]
+
+     Quote:
+
+     Honestly I'd pay the extra just for Nvidia's decent cooler, let
+     alone power consumption, RTX, etc. Hard pass on another blower.
+          + Most consumers buy AIB models, so it's not a problem.
+          + Power consumption? RX 5700 consumes about the same as the RTX
+            2060 , therefore it has better performance/W ratio. The RX
+            5700 XT is near the 2070's ratio.
+          + RT: 3 games so far, in which only the RTX 2080 Ti can produce
+            tolerable fps with about 40-45 minimums, and it's still on
+            FHD. RTX 2060 produces 50-60 average and 30 lows... That's
+            what you expect from a 350$ card? Don't think so.
+
+     Quote:
+
+     Dear AMD, Why? Wasn't your line GTX 1080 performance at RX 580
+     prices? points at Navi This is not that. Regrettably yours, Your
+     Fans
+       No, sadly not. There was only a rumoured news on WCCFTech. There
+       was 7 or 8 models with 200$ Vega 56 and so on. But AMD never spoke
+       about such prices. That was only a rumour (sadly).
+
+     Quote:
+
+     You didn't read the review. Ignoring the Furmark results which don't
+     mirror any realworld scenario. The 5700xt is slower than the 2070
+     Super while using more power and running over 10degrees C hotter in
+     gaming.
+       And costs 100$ more. And, wow, really, 5W more than a 2070 Super,
+       fantastic. AIB models help you. As 99% of the NV customers also buy
+       AIB NV models.
+
+     Quote:
+
+     In all honesty, all these cards are expensive. $350 would have been
+     the most I wanted to pay for a 5700XT. And the card does run hot.
+     Pascal was a small move up in prices. Turing was just insane pricing
+     wise. That being said I bought one today and said "F"-it. I just
+     don't like NVIDIA's business ethics. It will get the job done for
+     two to three years.
+       You are 100% right, just mentioning: if someone needs performance
+       over RT feature, RX5700 is absolutely better than the RTX 2060 and
+       the RX5700XT is absolutely better than the RTX2060 Super and RTX
+       2070.
+
+   Most Popular
+    1. Confirmed: AMD’s Navi RX 5700 Graphics Cards Will Be Cheaper Than
+       We Thought
+    2. Update: Nvidia VP Says Next-Gen GPUs Will Be Made by TSMC and
+       Samsung
+    3. AMD Radeon RX 5700 XT and RX 5700 Packaging Leak
+
+   The Latest On Tom's Hardware
+     * Mushkin Pilot-E M.2 NVMe SSD Review: Taking Flight - Review
+     * HTC Vive Cosmos VR Headset Review: Solid Upgrade - Review
+     * AMD vs Intel: Which CPU Cooks Better Pancakes? - Feature
+     * All we Know About Microsoft's Custom SQ1 Processor Insi... - News
+     * Microsoft Surface Earbuds Hands-on: Super Comfortable - News
+     * Gigabyte Debuts X299X Motherboards for Intel Cascade La... - News
+     * AMD Commands 81 Percent of Sales at Mindfactory as Supp... - News
+     * Hands-on With AMD-Powered Microsoft Surface Laptop 3: G... - News
+     * Microsoft Surface Pro X and Pro 7 Hands-on: Future Forw... - News
+     * Specs for Intel's New Xeon Glacier Falls W Workstation... - News
+     * Intel Reveals USB 4 Linux Kernel Support Patches - News
+     * Microsoft Embraces AMD: Custom Ryzen 7 Surface Edition... - News
+
+   Edition
+     * [ ] United States
+          + United Kingdom
+          + Italy
+          + France
+          + Russia
+          + Germany
+
+   Subscribe to our newsletter
+   ____________________ (BUTTON) icon arrow stem circle
+   Company
+     * About Tom's Hardware
+     * About Purch
+     * Advertising
+     * Licensing and Reprints
+
+   Resources
+     * Contact Us
+     * Privacy
+     * Copyright
+     * Terms Of Use
+
+   Other Purch sites
+     * LaptopMag
+     * Live Science
+     * Tom's Hardware
+     * Space.com
+     * TopTenReviews
+     * AnandTech
+     * Tom's Guide
+     * Newsarama
+
+     * © 2019 Purch All Rights Reserved.
+
+     *
+     *
+     *
+     *
+   #Tom's Hardware
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-BPDQ
+
+     * Tom's Guide
+     * / Tom's Hardware
+     * / Laptop Mag
+     * / TopTenReviews
+     * / AnandTech
+
+   [ ] [ ] [ ]
+
+   ____________________
+   (BUTTON) Go
+     * Product Reviews
+          +
+               o Best Overall
+               o Cheap CPUs
+               o CPUs
+               o GPUs
+               o PSUs
+               o SSDs
+               o Cooling
+               o Cases
+               o Motherboards
+               o Memory
+               o Thermal Paste
+               o Best Builds
+               o External Hard Drives
+          +
+               o Best for Gaming
+               o Gaming CPUs
+               o Gaming Monitors
+               o 4K Gaming Monitors
+               o Gaming Desktops
+               o Gaming Laptops
+               o Gaming Keyboards
+               o Gaming Mice
+               o VR Headsets
+          +
+               o Motherboards
+               o AMD
+               o Intel
+               o Coffee Lake Compatible
+          +
+               o GPU Roundups
+               o Nvidia GeForce GTX 1060
+               o Nvidia GeForce GTX 1070
+               o Nvidia GeForce GTX 1080
+               o AMD Radeon RX 560
+               o AMD Radeon RX 570
+               o AMD Radeon RX 580
+               o AMD Radeon RX 480
+          +
+               o Reviews
+               o CPUs
+               o Graphics
+               o Cases
+               o Laptops
+               o Monitors
+               o Motherboards
+               o Power Supplies
+               o SSDs
+               o Cooling
+               o Memory
+               o Storage
+               o Virtual Reality
+               o Keyboards
+     * [ ] Buying Guides
+          + Monitors
+          + Motherboards
+          + Gaming Laptops
+          + Graphics Cards
+          + SSDs
+          + PSUs
+          + CPUs
+     * Raspberry Pi
+          +
+               o Raspberry Pi 4
+               o Pi 4 Review and Tests
+               o Overclocking the Pi 4
+               o Where to Buy Pi 4
+               o Upgrade to Raspbian Buster
+          +
+               o Getting Started
+               o Setting Up for First Time
+               o Headless Install
+               o Why You Should Buy a Pi
+               o 25+ Linux Commands
+               o How Windows 10 Runs on a Pi
+               o 10 Pi Facts You Didn't Know
+          +
+               o Tutorials / Projects
+               o Make a News Ticker Shirt
+               o Run Windows 10 on a Pi
+               o Set Up a Web Server
+               o Pi GPIO Pinout
+               o Make a VPN Gateway
+     * Deals
+     * Forum
+     *
+
+Latest Articles
+
+   See all
+   (*) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( )
+     *
+
+Mushkin Pilot-E M.2 NVMe SSD Review: Taking Flight
+     *
+
+HTC Vive Cosmos VR Headset Review: Solid Upgrade
+     *
+
+AMD vs Intel: Which CPU Cooks Better Pancakes?
+     *
+
+Hands-on With AMD-Powered Microsoft Surface Laptop 3: Good Keys, USB-C
+     *
+
+Microsoft Surface Pro X and Pro 7 Hands-on: Future Forward
+     *
+
+Microsoft Embraces AMD: Custom Ryzen 7 Surface Edition CPUs Debut in Surface
+Laptop 3 (Updated)
+     *
+
+Microsoft Unveils New Surface Laptop and Pro Lineup, Neo Foldable
+     *
+
+Cougar Helor 360 Review: Big AIO Cooling With Bigger ARGB Splash
+     *
+
+Intel Announces Cascade Lake-X With up to 50% Price Cut, More PCIe (Updated)
+     *
+
+CLX Ra Review: Refined Ryzen Power
+     *
+
+Report: AMD Radeon RX 5500 to Rival Nvidia GTX 1660
+     *
+
+New Surface Pro, Laptop, Arm Tablet Leak Ahead of Microsoft Event
+     *
+
+Adata Ultimate SU750 SATA SSD Review: Not Quite The Ultimate SSD
+     *
+
+Hands On: Logitech’s G Pro X Keyboard Brings Swappable Mechanical Switches to
+the Mainstream
+     *
+
+AMD Announces Ryzen 3000 PRO Processors, Picasso PRO APUs, and Athlon PRO
+
+Latest news
+
+   See all
+   (*) ( ) ( )
+     * cpus
+    All we Know About Microsoft's Custom SQ1 Processor Inside the Surface
+       Pro X
+     * peripherals
+    Microsoft Surface Earbuds Hands-on: Super Comfortable
+     * motherboards
+    Gigabyte Debuts X299X Motherboards for Intel Cascade Lake-X CPUs
+     * cpus
+    AMD Commands 81 Percent of Sales at Mindfactory as Supply Issues
+       Dwindle
+     * laptops
+    Hands-on With AMD-Powered Microsoft Surface Laptop 3: Good Keys, USB-C
+     * laptops
+    Microsoft Surface Pro X and Pro 7 Hands-on: Future Forward
+     * cpus
+    Specs for Intel's New Xeon Glacier Falls W Workstation CPUs Leaked
+     * intel
+    Intel Reveals USB 4 Linux Kernel Support Patches
+     * cpus
+    Microsoft Embraces AMD: Custom Ryzen 7 Surface Edition CPUs Debut in
+       Surface Laptop 3 (Updated)
+     * microsoft
+    Microsoft Unveils New Surface Laptop and Pro Lineup, Neo Foldable
+     * security
+    Intel SAPM Is a New Proposal for Mitigating Spectre Attacks
+     * cooling
+    Alphacool Debuts RGB Water Blocks for 5700, 5700 XT Graphics Cards
+     * graphics
+    Nvidia Is Probably Prepping The GeForce GTX 1650 Super
+     * cpus
+    Researchers Demonstrate First ‘Poor Man’s Qubit’ Probabilistic
+       Computing Hardware
+
+     * cpus
+    Intel Announces Cascade Lake-X With up to 50% Price Cut, More PCIe
+       (Updated)
+     * cpus
+    AMD Ryzen 5 3500 Allegedly Launches October 5 for $155
+     * graphics
+    Report: AMD Radeon RX 5500 to Rival Nvidia GTX 1660
+     * cooling
+    Cooler Master’s MA620M Is ARGB Shrouded in Secrecy
+     * gaming
+    Nvidia Releases Game Ready Driver for Tom Clancy's Latest
+     * cpus
+    GlobalFoundries Plans To Go Public in 2022
+     * gaming
+    IDC: Intel CPUs, Ray Tracing Help Boost Gaming PC Sales
+     * windows
+    Windows 10's Latest Update Messes With Printing
+     * laptops
+    New Surface Pro, Laptop, Arm Tablet Leak Ahead of Microsoft Event
+     * robots
+    DIY Dragon Robot Flies in to Teach Kids Code
+     * cpus
+    AMD and Nvidia Chip-Maker TSMC Countersues GlobalFoundries for Patent
+       Infringement
+     * cpus
+    Oracle Invested $40 Million in Arm Server Chipmaker Ampere
+     * keyboards
+    Hands On: Logitech’s G Pro X Keyboard Brings Swappable Mechanical
+       Switches to the Mainstream
+     * cpus
+    Intel Core i9-9900KS: $70 More For Another 300MHz (Update)
+
+     * gaming
+    Atari Partners With Antstream Arcade for VCS Retro Games
+     * security
+    U.S. Congress Thinks DNS Over HTTPS Is Anticompetitive
+     * graphics
+    Two New Game Bundles Arrive for Ryzen and Radeon Buyers
+     * cpus
+    AMD Announces Ryzen 3000 PRO Processors, Picasso PRO APUs, and Athlon
+       PRO
+     * security
+    Someone Used a Former NATO Bunker As an Illegal Data Center
+     * windows
+    Microsoft Hides Windows 10's Offline Account Option
+     * laptops
+    HP’s Spectre x360 Gets Ice Lake, Slimmer Bezels
+     * intel
+    Intel VPs of PC Innovation and System Software Depart, New CMO
+       Appointed (Updated)
+     * security
+    New Windows Malware Hides in Plain Sight
+     * security
+    Microsoft Stops Trusting SSD Makers
+     * hot-deals
+    Step Into The SSD World With Intel's 1TB SSD 660p For $85
+     * cpus
+    AMD Ryzen 9 3950X Might Be Available Without Stock Cooler
+     * cases
+    BitFenix Nova Mesh TG Gets ARGB’d
+     * security
+    Google Achieves Quantum Supremacy. Is Encryption Safe?
+
+     *
+     *
+     *
+     * 1
+     * 2
+     * 3
+
+Latest reviews
+
+   See all
+   (*) ( ) ( ) ( ) ( )
+     * storage
+
+Mushkin Pilot-E M.2 NVMe SSD Review: Taking Flight
+       Mushkin's new high-end M.2 drive boasts high endurance, fast
+       performance and 256-bit AES encryption. Can it best the plethora of
+       similarly equipped competition?
+     * virtual-reality
+
+HTC Vive Cosmos VR Headset Review: Solid Upgrade
+       The HTC Vive Cosmos is a great VR headset held back by bad
+       controller ergonomics. It's comfort and lack of base stations makes
+       it a good upgrade from the Vive.
+     * cooling
+
+Cougar Helor 360 Review: Big AIO Cooling With Bigger ARGB Splash
+       An aggressively Illuminated aRGB alternative to better-known
+       all-in-ones, does Cougar’s Helor 360 CPU cooler have the
+       performance and price to create its own niche?
+
+     * desktops
+
+CLX Ra Review: Refined Ryzen Power
+       CLX harnesses the power of Ryzen with its Ra desktop. It’s a
+       splashing, expertly assembled rig that’s able to handle most
+       high-end tasks with ease.
+     * storage
+
+Adata Ultimate SU750 SATA SSD Review: Not Quite The Ultimate SSD
+       Adata’s Ultimate SU750 has decent performance for a SATA drive, but
+       it slurps power and competitors give you a lot more for the same
+       price.
+     * motherboards
+
+Asus X570 ROG Crosshair VIII Hero Wi-Fi Review: Mid-Range Menagerie
+       Asus’s sub-$400 X570 ROG motherboard is well worth considering
+       thanks to its plethora of speedy USB, SATA, and other features, as
+       well as robust cooling and solid performance.
+
+     * cooling
+
+Arctic Freezer 34 Esports Duo Cooler Review: A Twin-Fan Triple Threat
+       Arctic’s new esports-themed air cooler boasts aggressive styling,
+       disruptive pricing and impressive performance.
+     * cases
+
+NZXT H710i Case Teardown: Evolutionary Advancements
+       NZXT's H710i is a pleasure to build in, looks great, and compared
+       to its predecessor the H700i, packs in some nifty little features
+       that really separate it out from the rest of the premium ATX tower
+       pack.
+     * gaming-headsets
+
+Corsair Virtuoso RGB Wireless SE Headset Review: Audiophile Gaming Sound
+       Corsair's Virtuoso RGB Wireless SE is the company's first certified
+       Hi-Res audio headset, it packs a premium featureset and impressive
+       quality, into a justifiable price tag.
+
+     * gaming-headsets
+
+HyperX Cloud Alpha S Gaming Headset Review: Airy Fit, Virtual Surround Sound
+       The HyperX Cloud Alpha S gaming headset adds virtual surround sound
+       and bass sliders to an already impressive headset, but with varying
+       results.
+     * storage
+
+Micron 9300 Series Enterprise NVMe SSD Review: Finding Balance in Performance
+       NVMe devices have taken off these past few years, but adoption is
+       accelerating in 2019. They now surpass both SAS and SATA as the
+       preferred interface and are getting faster with each generation.
+       That's a trend that won’t go away any time soon because we a
+     * gaming-headsets
+
+Roccat Noz Gaming Headset Review: Low Price, Lightweight
+       The Roccat Noz gaming headset has competitive budget pricing but
+       flounders where it matters most: delivering clear, tight sound.
+
+     * augmented-reality
+
+North Focals Review: Stealthy, Stylish Smart Glasses
+       Focals, new smart glasses from North, act and look like
+       prescription glasses and have an AR display only the wearer can
+       see, with apps like Alexa and Uber.
+     * cases
+
+Corsair iCUE 465X RGB Case Review: Smart and Cool
+       Priced at $150 (£110), Corsair's latest mid-tower chassis has just
+       the right amount of RGB bling and great thermal performance to
+       boot, but is it really a smart choice?
+     * gaming-headsets
+
+Beyerdynamic Custom Game Gaming Headset Review: Great for RPGs
+       Although pricey, the Beyerdynamic Custom Game gaming headset for PC
+       and console is a fantastic choice for anyone looking to immerse
+       themselves in the RPG world.
+
+     *
+     *
+     *
+     *
+     *
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+
+Our best picks
+
+   Selected by our editors who thoroughly test and evaluate each product
+   to help you make an informed buying decision.
+     * Builds
+     * CPUs
+     * Graphics
+     * SSDs
+     * Motherboards
+     * Cooling
+     * Monitors [ ]
+     *
+     * Power Supplies
+     * Laptops
+     * Memory
+     * Gaming Desktop
+     * Cases
+     * VR Headsets
+
+New & Updated Reviews
+
+   See all
+   26 mn
+   Mushkin Pilot-E M.2 NVMe SSD Review: Taking Flight
+   Mushkin's new high-end M.2 drive boasts high endurance, fast
+   performance and 256-bit AES encryption. Can it best the plethora of
+   similarly equipped competition?
+   Oct 3, 2019
+   HTC Vive Cosmos VR Headset Review: Solid Upgrade
+   The HTC Vive Cosmos is a great VR headset held back by bad controller
+   ergonomics. It's comfort and lack of base stations makes it a good
+   upgrade from the Vive.
+   Oct 2, 2019
+   Cougar Helor 360 Review: Big AIO Cooling With Bigger ARGB Splash
+   An aggressively Illuminated aRGB alternative to better-known
+   all-in-ones, does Cougar’s Helor 360 CPU cooler have the performance
+   and price to create its own niche?
+   Oct 1, 2019
+   CLX Ra Review: Refined Ryzen Power
+   CLX harnesses the power of Ryzen with its Ra desktop. It’s a splashing,
+   expertly assembled rig that’s able to handle most high-end tasks with
+   ease.
+   Oct 1, 2019
+   Adata Ultimate SU750 SATA SSD Review: Not Quite The Ultimate SSD
+   Adata’s Ultimate SU750 has decent performance for a SATA drive, but it
+   slurps power and competitors give you a lot more for the same price.
+
+Watch This Next
+
+     *
+
+       IFRAME: https://content.jwplatform.com/players/67Yco6KI.html
+
+View this next
+
+     *
+
+       IFRAME: https://content.jwplatform.com/players/EHmm6Yha.html
+
+Reference and tutorials
+
+   See all
+   (*)
+     * cpus
+    AMD vs Intel: Which CPU Cooks Better Pancakes?
+     * cpus
+    Even at -180 Degrees, Ryzen 3000 May Not Hit Boost Clock Speeds
+     * graphics
+    How to Play Borderlands 3 with Integrated Graphics
+     * graphics
+    Borderlands 3: How it Plays on Different Graphics Cards
+
+   Never regret a purchase again. Get instant access to our latest
+   reviews, helpful tips and exclusive deals.
+   ____________________
+   Subscribe
+
+In Pictures
+
+   (*)
+     * web-life
+
+Bluetooth is Named After What? The Real History Behind Tech Brand Names We
+Say Every Day
+       From Asus to Aorus, many of the top tech brand names have ancient
+       origins.
+     * modding
+
+Our Favorite Computex 2019 Case Mods: From Beer, to the Iron Throne and Pork
+Ramen
+       Here are the 23 best PC case mods from Computex 2019.
+     * computex
+
+Best of Computex 2019: Overclocked with Innovations
+       Much of Computex 2019 hinged on AMD's Ryzen 3000 CPUs and the X570
+       chipset. But we also saw plenty of excellent unrelated hardware.
+       Here’s the best of what we saw at Taipei’s big tech trade show.
+
+Trending Across ShopSavvy
+
+   (*)
+     *
+
+Razer Blade Pro Review
+       Thanks to its overclocked Core i7 processor and Nvidia 1080
+       graphics, the Razer Blade Pro is one of world's thinnest and most
+       powerful gaming laptops
+     *
+
+Best Robot Vacuums
+       We spent 300 hours testing how robot vacuums cleaned different
+       messes on multiple surfaces. Here are the best and worst vacuums
+       available
+     *
+
+Amazon Echo (Gen 2)
+       Amazon's second-gen Echo is more attractive and more affordable
+       than the original, and it sounds just as good, too.
+
+From our Community
+
+   Search for a question or topic
+   (*) ( )
+     *
+
+Apply thermal paste to Ryzen Zen 2 Cpu's.
+       Last reply 31 mn by Crosslhs82x2
+     *
+
+Delayed Alt+Tab
+       Last reply 34 mn by dna112
+     *
+
+Looking for a display
+       Started by PolarBear27
+     *
+
+Dell 7577 No wattage detection after repaste
+       Last reply 35 mn by Newtonius
+     *
+
+Label Tickets remove or not?
+       Last reply 35 mn by ioannis2015v
+     *
+
+Need Helping with Used GPU
+       Last reply 36 mn by taeioum
+     *
+
+Mobo VGA and GPU hmi at the same time?
+       Last reply 36 mn by SkyNetRising
+     *
+
+Bluetooth dongle refuses to be usable
+       Last reply 37 mn by christopher.john.sr
+     *
+
+Need BSOD Help Please
+       Last reply 38 mn by Tbrown0824
+     *
+
+How to fix?
+       Last reply 38 mn by Gamingserious5
+     *
+
+Help me solve a mystery ?
+       Last reply 38 mn by Colif
+     *
+
+Ms-7104 bios v3 update
+       Last reply 38 mn by corequinha
+     *
+
+High clock speed with 3% cpu usage !!
+       Last reply 40 mn by Admix.
+     *
+
+No display after changing Ram
+       Last reply 41 mn by Newtonius
+     *
+
+BSODs (mostly ntoskrnl.exe)
+       Last reply 42 mn by monteso
+     *
+
+Unstable connection using onboard wifi
+       Last reply 44 mn by Newtonius
+     *
+
+Replacing GPU
+       Last reply 44 mn by geofelt
+     *
+
+Can I stream with my laptop?
+       Started by rosepastel
+     *
+
+Changing Motherboard Lenovo To Asus..
+       Last reply 44 mn by liwahadri2
+     *
+
+Packet loss on Apex Legends
+       Last reply 45 mn by Ralston18
+
+     *
+
+rigid disk - size
+       Last reply 47 mn by jpatterer
+     *
+
+Masterbox 530P hardrive bay?
+       Last reply 49 mn by SkyNetRising
+     *
+
+Help in Upgrading ram
+       Last reply 50 mn by Newtonius
+     *
+
+ASRock N68S
+       Started by WillimpRove93
+
+     *
+     *
+     * 1
+     * 2
+
+   Edition
+     * [ ] United States
+          + United Kingdom
+          + Italy
+          + France
+          + Russia
+          + Germany
+
+   Subscribe to our newsletter
+   ____________________ (BUTTON) icon arrow stem circle
+   Company
+     * About Tom's Hardware
+     * About Purch
+     * Advertising
+     * Licensing and Reprints
+
+   Resources
+     * Contact Us
+     * Privacy
+     * Copyright
+     * Terms Of Use
+
+   Other Purch sites
+     * LaptopMag
+     * Live Science
+     * Tom's Hardware
+     * Space.com
+     * TopTenReviews
+     * AnandTech
+     * Tom's Guide
+     * Newsarama
+
+     * © 2019 Purch All Rights Reserved.
+
+     *
+     *
+     *
+     *

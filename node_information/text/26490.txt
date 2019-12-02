@@ -1,0 +1,1854 @@
+   #Accueil Archives Un calendrier toujours à portée de main Dépôt
+   Mercurial sur CentOs, Part 2 : Mercurial RSS 2.0 Atom 1.0
+
+     * Accueil
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+     * Contact / À propos
+
+   « Dépôt Mercurial sur CentOs, Part 2 : Mercurial --|-- Un calendrier
+                       toujours à portée de main »
+
+Midori, un navigateur web léger et configurable.
+
+   Cet article a été publié par Xenom le 07-12-09 à 14:41 dans la
+   catégorie Logiciels
+   Tags : - Libre - Test
+
+   J'ai découvert il y a quelques temps un navigateur web léger et rapide.
+   Il s'agit de Midori.
+
+   Midori est basé sur GTK+2 et WebkitGTK+ (un portage de Webkit pour
+   GTK+). C'est d'ailleurs le navigateur web du projet XFCE.
+   La dernière version est la 0.2.1 sortie le 14 novembre 2009.
+
+   Pour ceux qui se le demande, ce logo représente une patte de chat verte
+   stylisée.
+
+   C'est un navigateur encore jeune, mais il est déjà assez complet et
+   performant. Personnellement j'utilise la version git, de développement,
+   pour suivre les évolutions qui sont assez rapides, mais qui est quand
+   même relativement stable, je dois avoir un crash toutes les quelques
+   heures au maximum.
+
+Un aperçu des fonctionnalités :
+
+     * Intégration avec GTK+2.
+     * Rendu rapide et respectueux des normes grâce à Webkit.
+     * Onglets et gestions des fenêtres et session.
+     * Gestion des signets (marques-pages).
+     * Scripts et styles utilisateur.
+     * Barre d'adresse "intelligente".
+     * Vérification orthographique.
+     * Interface configurable.
+     * Suppression des données personnelles (historiques, cookies,
+       "cookies Flash") et gestionnaire de cookie.
+     * Page d'appel rapide (comme FastDial ou SpeedDial).
+     * Personnalisation des barres d'outils.
+
+Utilisation et paramétrage:
+
+   Midori à une interface semblable à la plupart des navigateurs, vous ne
+   serez pas trop surpris.
+
+   Midori à un tableau latéral qui permet d'afficher les extensions,
+   l'historique, les télechargements...
+     * Les scripts utilisateurs permettent principalement d'agir sur les
+       pages, comme Greasemonkey sous Firefox, d'ailleurs beaucoup de
+       scripts Greasemonkey peuvent être utilisés avec Midori. Ces scripts
+       sont à placer dans le répertoire ~/.local/share/midori/scripts, les
+       styles dans le répertoire ~/.local/share/midori/styles. Un exemple
+       : FlashBlock WannaBe. Les styles sont des feuilles de style (CSS)
+       appliqués à certains/tous les sites. Pour en trouver :
+       http://userstyles.org/.
+     * Parmi les extensions proposées avec Midori, il y a un bloqueur de
+       pub, une fonction "cadre" pour afficher plusieurs pages en
+       parallèle, la gestion des mouvements de souris ("mouse gesture"),
+       un cache web,...
+     * Il faut préciser la langue pour le correcteur orthographique. Il
+       doit être paramétré avec "fr_FR" pour le français.
+     * Il est possible de choisir son agrégateur de flux RSS, qu'il soit
+       local ou en ligne. Pour les navigateurs en ligne, il suffit
+       d'entrer  : « midori » suivi d'une espace et du lien de
+       souscription terminé par les caractères « %s » (par exemple, pour
+       Netvibes : midori http://www.netvibes.com/subscribe.php?url=%s).
+
+   SCREENSHOT!!
+
+   En conclusion, je dirait que si vous cherchez un navigateur web léger,
+   rapide, configurable et en GTK+2 je vous conseille fortement Midori. Il
+   n'a peut être pas toutes les extensions de Firefox, mais grâces aux
+   scripts et aux extensions présente par défaut , il présente les
+   fonctions essentielles et d'autres très pratique.
+
+   Si vous préférez Qt je vous conseille aussi Arora. Je vous ferais aussi
+   bientôt un article sur un navigateur un peu plus particulier : uzbl.
+   Site officiel.
+
+   La page de documentation pour ubuntu, pour les PPA de la versions de
+   développement.
+
+Commentaires
+
+   1. Le 07-12-09, 23:56 par antistress
+          Tiens, un devoir de collégien !
+          Etant à l'origine de la plus grande partie de la page wikipédia,
+          ça me fait drôle de lire une resucée qui ne dit pas sa source.
+          Allez, je prendrai ça pour un compliment ;-)
+
+   2. Le 08-12-09, 08:28 par Desidia
+          @antistress :
+
+          Ça n'est pas un peu de la mauvaise foi, ce commentaire ? Il n'y
+          a pas trente-six mille manières d'énumérer les fonctionnalités
+          d'un logiciel. On peut aussi planter un panneau «propriété
+          privée» sur les articles de Wikipédia, et quelques barbelés pour
+          faire joli.
+
+   3. Le 08-12-09, 10:36 par antistress
+          @Desidia :
+          "Il n'y a pas trente-six mille manières d'énumérer les
+          fonctionnalités d'un logiciel"
+          En parlant de mauvaise foi tu t'y connais visiblement : c'est un
+          copier-coller au mot près, pas une coïncidence
+          Collégien, va !
+
+   4. Le 08-12-09, 15:36 par dhoko
+          Un très bon navigateur qui grandit vite, il y a pas si longtemps
+          il n'était pas très stable. Je l'utilise très souvent car hélas
+          Opera n'est pas aussi bon sous linux que sous Windows. Il est
+          rapide et se lance très rapidement. Mais depuis la disponibilité
+          de Chromium sous Linux je le trouve moins intéressant car il est
+          un peu plus lent. Mais bien plus complet.
+          Comme son cousin Arora il est prêt pour une utilisation
+          quotidienne comme navigateur usuel je trouve.
+
+   5. Le 08-12-09, 16:02 par Benjamin
+          C'est marrant comme insulte ça : "Collégien"...
+          Je pense que l'auteur de l'article appréciera ;)
+
+   6. Le 08-12-09, 17:27 par xenom
+          @antistress : La seule chose reprise de Wikipedia est l'exemple
+          pour netvibes (que j'ai d'ailleurs trouvé d'abord sur un autre
+          site).
+          La liste est reprise du site officiel. L'article sur Wikipedia
+          n'a fait que la reprendre. Mais bon si ca te fait plaisir de
+          croire avoir ecrit un article original.
+
+   7. Le 08-12-09, 17:46 par antistress
+          Extrait de Wikipedia, outre la liste de fonctionnalités, citons
+          au hasard :
+          "Paramétrer et optimiser Midori
+          - Les scripts sont à placer dans le répertoire
+          ~/.local/share/midori/scripts, les styles dans le répertoire
+          ~/.local/share/midori/styles. Quelques exemples : Ad Blocking
+          FiltersetP, FlashBlock WannaBe.
+          - le vérificateur d'orthographe doit être paramétré avec "fr_FR"
+          pour le français,
+          - Il est possible de déclarer dans les préférences du navigateur
+          (onglet Général) quel agrégateur utiliser pour gérer les flux
+          RSS. Ce peut être un agrégateur local ou en ligne. Dans ce
+          dernier cas, il suffit d'entrer pour commande : « midori » suivi
+          d'une espace et du lien de souscription terminé par les
+          caractères « %s » (par exemple, pour Netvibes : midori
+          http://www.netvibes.com/subscribe.p...)."
+
+          Chacun se fera sa propre opinion. Pour moi citer la source
+          (Wikipedia) est une question d'éthique, ce genre de choses qui
+          fait le monde des logiciels libres. La parenthèse étant
+          refermée, n'hésite pas à compléter/modifier la page wikipédia de
+          Midori au fur et à mesure de ton utilisation du logiciel, il en
+          vaut effectivement la peine
+
+   8. Le 08-12-09, 18:21 par Xenom
+          @antistress : Comme je l'ai deja dit , l'astuce sur Netvibes
+          provient de wikipedia. Mais nullement le reste. Toute la partie
+          sur les scripts est décrite dans la faq de midori, qui
+          effectivement donne les même exemples (d'un cote c'est les
+          fonctions les plus demandés).
+          L'astuce sur la langue n'est pas dure à trouver quand on a
+          l'habitude de configurer a(i)spell.
+
+          Je cite les sources quand je les utilisent, je n'y peut rien si
+          l'article de wikipedia est comme mon article un résumé de la faq
+          officielle... Il faut pas crier au plagiat quand on reprend deja
+          une source soit même.
+
+   9. Le 08-12-09, 18:36 par antistress
+          Pout ton info le rédacteur de la FAQ et moi-même échangeons sur
+          le forum ubuntu-fr dans l'intérêt de la documentation relative à
+          Midori il n'y donc pas de plagiat en ce qui me concerne mais une
+          mise à jour parallèle des deux sources.
+          Je crois que tout est dit et bien plus clair maintenant.
+
+          Sinon : une coquille à "Pour ceux qui se le demande".
+
+          Voilà pour terminer cette longue parenthèse sur la forme
+
+          Sur le fond : dommage que tu ne donnes pas d'avantage ton avis
+          sur le soft, on reste un peu sur sa faim (même si, il est vrai,
+          un des gros avantages du logiciel libre est que chacun peut se
+          faire son avis facilement en installant le logiciel)
+
+   10. Le 17-12-09, 21:01 par blinux83
+          J'ai un pc sous debian lenny xfce et la compliation de midori
+          est impossible a cause de trop de dépendances non résolues.
+          Par contre sur le pc sous debian testing xfce et celui sous
+          ubuntu karmic gnome pas de soucis !
+          C'est dommage car il aurais été intérressant de l'utiliser sur
+          un ordinausor reconditionné avec une Lenny sous openbox ou xfce
+          !
+
+   11. Le 25-12-09, 14:50 par dam
+          HELP !!!!! Etant très satisfait de Slitaz je viens de
+          télécharger Midori afin de bénéficier d'un navigateur plus léger
+          que firefox ... hormis le fait qu'il soit un peu plus lent, je
+          n'arrive pas à me signer sur des pages essentielles telles
+          qu'hotmail ou facebook ... que faut il que je configure ?
+
+   12. Le 20-01-10, 05:35 par tatave
+          Heu..
+          excellent
+          mais kelkun peut me dire ou placer les fichiers de styles et
+          scripts [INS: mais sous xp :INS] dans midori?
+
+          merci
+
+   13. Le 10-05-10, 14:52 par Le_mecreant
+          Comment faire pour lire des video real player sous midori. Peut
+          on y integrer un plugin xine?
+          Merci d'avance
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives billets précédents billets suivants Auto-hébergment :
+   mon système de sauvegarde Auto-hébergement : Mon experience, mes
+   problèmes, mes idées Auto-hébergement : compte-rendu de vos témoignages
+   Soyez votre propre fournisseur OpenID avec SimpleID Sécurisation de son
+   serveur : fail2ban RSS 2.0 Atom 1.0 Blogroll
+
+     * Accueil
+     * Archives
+     * Tags
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+
+Mot-clé - Serveur
+
+   Fil des billets
+
+   19-06-11
+
+Auto-hébergment : mon système de sauvegarde
+
+   Par Benjamin le 19-06-11, 18:58 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   La sauvegarde est un élément très important dans l'auto-hébergement. On
+   oublie la sauvegarde, ça crash, on a plus rien...
+   Pendant quelques semaines après avoir mis en place mon
+   auto-hébergement, je n'avais toujours qu'un seul disque dur dans mon
+   serveur, je lui faisais confiance :)
+
+   Et puis j'ai eu un petit problème sur un serveur au boulot, problème
+   qui a miraculeusement été résolu grâce à une sauvegarde efficace. Je me
+   suis donc décidé à investir un peu de mon temps dans la sauvegarde de
+   mon serveur perso.
+
+   backup.png
+
+   Lire la suite...
+
+   9 commentaires
+
+   31-03-11
+
+Auto-hébergement : Mon experience, mes problèmes, mes idées
+
+   Par Benjamin le 31-03-11, 21:38 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   Il est inutile de rappeler les (nombreuses) raisons qui m'ont poussé à
+   m'auto-héberger (contrôle de ses données, indépendance, faire du vrai
+   Internet, etc.). J'ai décidé de faire un article sur mon expérience
+   dans l'auto-hébergement. Mes interrogations, mes succès, mes échecs, où
+   j'en suis actuellement, les difficultés rencontrées, comment je les ai
+   résolues.
+
+   Cela suscitera peut-être des "vocations" d'auto-hébergement chez
+   certaines personnes hésitant encore.
+
+   logo_internet.png
+
+   Lire la suite...
+
+   13 commentaires
+
+   15-01-11
+
+Auto-hébergement : compte-rendu de vos témoignages
+
+   Par Benjamin le 15-01-11, 22:30 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   Vous avez été nombreux à répondre aux questions que je vous avais posé
+   sur l'article Auto-hébergement : vos témoignages m'intéressent !.
+   Merci à tous !
+
+   Je vais donc faire un résumé de vos réponses, réponses qui m'ont fait
+   découvrir de nombreux logiciels, beaucoup de matériel et qui m'a montré
+   que l'auto-hébergement se démocratise de plus en plus.
+
+   Lire la suite...
+
+   7 commentaires
+
+   08-01-11
+
+Soyez votre propre fournisseur OpenID avec SimpleID
+
+   Par Benjamin le 08-01-11, 13:01 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+     * Tutoriel
+
+   J'ai eu du mal à trouver un titre court et précis pour cet article.
+   Voici les points que je sohaite aborder dans cet article : Qu'est ce
+   qu'OpenID ? Qu'est ce qu'être fournisseur OpenID ? Pourquoi l'être ?
+   Comment l'être ?
+
+   Il est temps de reprendre le contrôle de nos données. Ça, je ne vous
+   l'apprends pas. Mais que pensez-vous de reprendre également le contrôle
+   de votre identité numérique, de vos identifiants, de vos mots de passe.
+   Comment centraliser vos informations personnelles chez vous, sur votre
+   machine ?
+
+   Je vais essayer de répondre à ces questions dans cet article.
+
+   Lire la suite...
+
+   24 commentaires
+
+   27-12-10
+
+Sécurisation de son serveur : fail2ban
+
+   Par Benjamin le 27-12-10, 21:34 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   Comme l'a très bien dit Tancrède dans son article "La sécurité
+   sera-t-elle l'argument anti auto-hébergement ?" :
+
+     S'il y a bien une raison qui pourrait s'opposer à
+     l'auto-hébergement, je pense que ce serait celle de la sécurité.
+     C'est probablement le point noir qui empêchera, voire interdira,
+     l'auto-hébergement.
+
+   Je suis assez d'accord avec lui et vous invite à lire son article.
+   Aussi, j'ai décidé de partager mon experience en vous montrant une
+   première sécurisation quasi-indispensable pour votre serveur =>
+   fail2ban, un logiciel qui scrute les fichiers de logs à la recherche
+   d'actions suspectes et bannit les utilisateurs mal intentionnés grâce
+   aux iptables.
+
+   Lire la suite...
+
+   8 commentaires
+
+   « billets précédents - page 3 de 9 - billets suivants »
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives billets précédents billets suivants Un émulateur
+   Super Nintendo sous Linux : ZSNES The Battle for Wesnoth Comment
+   installer Heart Of Darkness sur le Eeepc 701 Installation de jeux
+   Windows sous GNU/Linux avec PlayOnLinux Savage 2 devient gratuit RSS
+   2.0 Atom 1.0 Blogroll
+
+     * Accueil
+     * Archives
+     * Tags
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+
+Mot-clé - Jeux
+
+   Fil des billets
+
+   06-01-09
+
+Un émulateur Super Nintendo sous Linux : ZSNES
+
+   Par Benjamin le 06-01-09, 01:00 - Jeux
+     * EeePC
+     * Jeux
+     * Libre
+     * Tutoriel
+     * Ubuntu
+
+   Je continue ma série des émulateurs sous Linux. Après l'émulateur NES,
+   j'ai décidé de vous présenter zsnes, l'émulateur pour ma deuxième
+   console préférée : la Super Nintendo.
+
+   Lire la suite...
+
+   32 commentaires
+
+   27-12-08
+
+The Battle for Wesnoth
+
+   Par Vincent Valentine le 27-12-08, 17:56 - Jeux
+     * Jeux
+     * Libre
+     * Test
+     * Ubuntu
+
+   Bonjour,
+   Aujourd'hui, je vais vous faire découvrir un jeu de stratégie au tour
+   par tour : The Battle for Wesnoth.
+
+   Lire la suite...
+
+   6 commentaires
+
+   23-12-08
+
+Comment installer Heart Of Darkness sur le Eeepc 701
+
+   Par Vincent Valentine le 23-12-08, 12:20 - Autres
+     * Jeux
+     * Libre
+     * Tutoriel
+     * Ubuntu
+
+   Bonjour,
+
+   Comme promis, je fais suite au sujet sur PlayOnLinux et Wine.
+   Aujourd'hui, nous allons donc voir comment installer un jeux Windows
+   sur le Eeepc avec GNU/Linux/Ubuntu (Na !), Wine et PlayOnLinux.
+
+Atelier bricolage : Comment installer Heart Of Darkness sur le Eeepc 701.
+
+   Lire la suite...
+
+   7 commentaires
+
+   16-12-08
+
+Installation de jeux Windows sous GNU/Linux avec PlayOnLinux
+
+   Par Vincent Valentine le 16-12-08, 19:54 - Jeux
+     * Jeux
+     * Libre
+     * Tutoriel
+     * Ubuntu
+
+   Bonjour,
+   comme les vacances arrivent, je me disais qu'il me faudrait un FPS pour
+   me défouler un peu. Et comme je suis un peu geek, j'ai envie de les
+   installer sous Linux, c'est l'occasion d'installer des vieux jeux avec
+   Wine et PlayOnLinux.... Vous voyez venir le sujet là ? ;)
+   Tout d'abord, que vais-je vous présenter exactement ?
+
+Comment installer Call of Duty 1 et Half Life 1 sous GNU/Linux/Xubuntu 8.10
+avec Wine 1.1.10 et PlayOnLinux 3.2.2. Ouf !
+
+   Lire la suite...
+
+   17 commentaires
+
+   13-12-08
+
+Savage 2 devient gratuit
+
+   Par Jerome le 13-12-08, 12:00 - News
+     * Jeux
+     * News
+
+   Voila tout est dans le titre ^^
+
+   Savage 2 vient de passer totalement gratuit (Free to play)
+
+   Lire la suite...
+
+   un commentaire
+
+   « billets précédents - page 3 de 6 - billets suivants »
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives Reportage Ubuntu Party Nancy du 7 mars 09
+   Compiz-Fusion sans environnement de bureau (standalone) RSS 2.0 Atom
+   1.0
+
+     * Accueil
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+     * Contact / À propos
+
+      « Compiz-Fusion sans environnement de bureau (standalone) --|--
+                Reportage Ubuntu Party Nancy du 7 mars 09 »
+
+Neverball : un jeu qui peut faire tourner en bourrique
+
+   Cet article a été publié par idoric le 05-03-09 à 19:22 dans la
+   catégorie Jeux
+   Tags : - Jeux - Libre - Ubuntu
+
+   Aujourd'hui, j'avais envie de vous parler de Neverball, un jeu bien
+   évidemment libre.
+   Neverball est un jeu de plateforme solo en 3D où une balle doit
+   atteindre une sortie en collectant des pièces, le tout en temps limité.
+
+1. Présentation
+
+   La première originalité réside dans le fait que vous ne contrôlez pas
+   directement votre balle, vous pouvez uniquement modifier l'inclinaison
+   du plateau de jeu et compter sur la gravitation et les lois de la
+   physique. La deuxième originalité n'en aurait pas été une sans la
+   première : vous ne pouvez voir le plateau entièrement d'un point fixe
+   (comme dans un jeu de flipper), la caméra suit quand même la balle, à
+   la manière d'un third person shooter.
+
+   Contrôler le plateau du point de vue de la balle donne à ce jeu son
+   gameplay si particulier. En effet, vous pouvez faire tourner votre
+   caméra autour de votre balle, automatiquement ou manuellement, afin de
+   voir où va celle-ci, mais alors les commandes gauche/droite et
+   avant/arrière d'inclinaison du plateau adopteront également ce nouveau
+   point de vue ! Incliner le plateau vers la droite n'aura pas forcément
+   pour effet de redresser le plateau que vous aviez penché sur
+   l'«ancienne» gauche, surtout si votre balle se met à rebondir partout !
+
+2. Installation
+
+   Vous pouvez installer Neverball sur pratiquement toutes les
+   distributions Linux à partir de son gestionnaire de paquet.
+
+   Par exemple, avec (K)Ubuntu, si vous ne voulez pas perdre de temps à
+   lancer le gestionnaire graphique, la commande classique suffit : sudo
+   aptitude install neverball
+
+   À noter que la version 1.5.0 à laquelle je me réfère dans la suite doit
+   encore attendre la prochaine version pour certaines distributions, mais
+   je ne vais pas détailler ici la compilation (bien que j'ai du moi-même
+   la faire).
+
+3. Utilisation
+
+3.1 Configuration et choix d'une collection de niveaux
+
+   La fenêtre d'accueil est on ne peut plus classique (les captures ne
+   sont qu'en 800x600 pour des raisons de place):
+
+   neverball_accueil.png
+
+   Commençons par jetter un œil du côté des options :
+
+   neverball_options.png
+
+   C'est ici qu'on augmentera ou diminuera la définition et le niveau des
+   détails graphiques, selon que l'on veuille améliorer la qualité des
+   graphismes ou regagner en fluidité sur une configuration peu puissante.
+
+   Pour jouer, il vous faudra d'abord choisir une collection de niveaux :
+
+   neverball_collections.png
+
+   Dans chaque collection, vous trouverez une série de niveaux numérotés
+   en chiffres indo-arabes, où peuvent venir s'intercaler des niveaux
+   bonus numérotés en chiffres romains.
+
+   Les 5 collections de la première page sont constituées de 20 niveaux
+   normaux et 5 niveaux bonus. À cela il faut ajouter une collection de 16
+   niveaux sans bonus à la difficulté diabolique, soit 141 niveaux dans la
+   version actuelle.
+
+   Les trois collections «Neverball Facile», «Neverball Moyen» et
+   «Neverball Difficile» offrent des niveaux de difficultés croissants
+   comme leur nom l'indique. Si par erreur vous avez tenté un niveau moyen
+   ou difficile pour commencer, sachez que la courbe de progression est
+   très rapide au départ, et qu'après avoir pris le temps de finir les
+   niveaux faciles, les premiers niveaux moyens paraissent bien moins
+   impossibles qu'au premier abord. De plus, la collection facile est
+   destinée à vous faire découvrir en douceur les éléments classiques des
+   niveaux du jeu, comme les différents types de pièces par exemple
+   (certaines valent plus que d'autres).
+
+3.2 Mode normal et mode challenge
+
+   neverball_collection.png
+
+   La première fois, tous les niveaux sont bloqués à l'exception du
+   premier. Pour terminer ce niveau, vous devrez avec votre balle activer
+   la sortie par la collecte de pièces, puis atteindre celle-ci, le tout
+   dans le temps imparti. Dès que vous l'aurez réussi, vous pourrez tenter
+   de résoudre le deuxième niveau normal sans jamais avoir à refaire le
+   premier niveau, et ainsi de suite.
+
+   Vous pouvez également relever le «challenge» de réussir tous les
+   niveaux normaux presque à la suite : vous démarrez avec le droit de
+   perdre deux balles, plus une toutes les 100 pièces collectées. Le mode
+   «challenge» est la seule manière de débloquer les niveaux bonus
+   auxquels vous pourrez ensuite accéder en mode normal.
+
+3.3 Les commandes
+
+   neverball_niveau.png
+
+   Plusieurs moyens sont à votre disposition pour contrôler l'inclinaison
+   du plateau : clavier, souris, manette de jeu… Le clavier peut permettre
+   de réussir plus rapidement les premiers niveaux, mais votre manque de
+   finesse dans la réalisation vous empêchera ensuite d'aller plus loin.
+   Je vous conseille donc très fortement de manier le jeu à la souris (ou
+   touchpad, ou trackball) dès vos premières parties.
+
+   Les seules autres commandes à votre disposition concernent le
+   comportement de votre caméra : la touche F1 active la «poursuite»
+   (c'est celui par défaut au premier lancement du jeu) où la caméra suit
+   la balle de près, la touche F2 sa variante «paresseuse», et enfin F3 la
+   commande purement «manuelle». Dans tous les cas, vous pouvez forcer la
+   caméra à tourner autour de votre balle avec les boutons de votre souris
+   (la touche shift permet d'accélérer cette rotation).
+
+3.4 Les 3 différents records
+
+   Pour chaque niveau, vous pouvez chercher à améliorer le temps qu'il
+   vous est nécessaire pour terminer celui-ci, c'est le record de
+   «déverrouillage», mais vous pouvez également chercher à terminer le
+   niveau en collectant un maximum de pièces, c'est le record «le plus de
+   pièces».
+
+   Par défaut et en mode normal, il n'est plus nécessaire de collecter les
+   pièces pour activer la sortie d'un niveau déjà fini, d'où une troisième
+   possibilité consistant à rejoindre cette sortie le plus rapidement
+   possible, c'est le record «meilleur temps», qui peut être trivial pour
+   certains niveaux, mais très intéressant pour d'autres.
+
+   Il peut parfois être gênant d'avoir la sortie activée immédiatement,
+   car cela peut vous obliger inutilement à la contourner. Si cela vous
+   gêne, il suffit de répondre oui à la question «Fermer la sortie des
+   niv. complétés ?» qui apparaît sur la page de la collection.
+
+4. Conclusion
+
+   Neverball est un jeu qui nécessite un peu de réflexion, pas mal
+   d'anticipation, et beaucoup de dextérité et de concentration, où vous
+   pourrez vous surprendre à compter, le cœur battant, les secondes que
+   met une plate-forme pour descendre et remonter. Vous pourrez également
+   confronter vos plus grandes réussites avec les autres membres de la
+   communauté de joueurs sur la table en ligne des records, mais attention
+   à ne pas vous spoiler vous-même !
+
+Commentaires
+
+   1. Le 06-03-09, 14:34 par Richard
+          très bon article, comme d'habitude sur ce blog, donnant vraiment
+          envie de jouer à Neverball.
+
+          Sur ubuntu, l'installation via dépôt par défaut ne semble pas
+          installer le jeu en version française.
+          Si quelqu'un sait comment le franciser avec ubuntu, merci
+          d'avance.
+
+          Cordialement, Richard
+
+   2. Le 06-03-09, 15:45 par idoric
+          Malheureusement, l'internationalisation est une nouveauté de la
+          version 1.5.0, et l'actuelle version stable d'ubuntu (Intrepid
+          8.10) ne fournit que la 1.4.0.
+
+   3. Le 07-03-09, 11:21 par VV666
+          Bonjour, j'avais déjà tester ce super jeux. Est-il toujours
+          aussi gourmand en ressources 3D ? Car sur mon portabel avec une
+          AIT X1400 (256Mo) et l'accélération matériel activé (composition
+          opérationnelle) ça ramait pas mal...
+
+          En tout cas, ce jeux est vraiment sympa. Bon article ;)
+
+   4. Le 07-03-09, 12:05 par idoric
+          > «Est-il toujours aussi gourmand en ressources 3D ?»
+
+          Quand on va voir la liste des modifications
+          (http://neverball.org/changes.php), plusieurs se rapportent à
+          l'accélération graphique, mais je n'ai pas connaissance d'un
+          benchmark détaillé sur la question. Je peux juste dire que sur
+          mon Dell Inspiron 6400 (contrôleur graphique Intel GMA 950), en
+          1280x800 avec le maximum de détails graphiques, c'est fluide
+          sauf sur certains niveaux bien particuliers (Neverball facile,
+          niveau 14, par exemple), faisant qu'au final pour être
+          tranquille j'ai désactivé la réflexion.
+
+   5. Le 09-03-09, 23:51 par Thibauld
+          Merci pour cet article! Je ne connaissais pas Neverball, je
+          viens de tester et il est clair (au vu du temps que j'y ai passé
+          :)) que le jeu est prenant! J'en ai profité pour faire quelques
+          screenshots et pour le mettre en première page sur allmyapps :
+          http://allmyapps.com/app/neverball
+          Merci de m'avoir fait découvrir ce jeu que je ne connaissais pas
+          :)
+
+   6. Le 24-03-09, 03:01 par mym
+          Merci pour cet article de qualité !
+
+          > «Est-il toujours aussi gourmand en ressources 3D ?»
+
+          La majorité des niveaux a été améliorée, par un lissage des
+          courbes, et donc une augmentation du nombre de polygones.
+          Donc, oui c'est plus gourmand en ressources, mais pas de
+          beaucoup, et il ne faut pas oublier que c'était surtout le cas à
+          sa sortie... en 2003, et nous sommes déjà en 2009, les
+          ordinateurs ont évolué depuis, et normalement tout devrait être
+          largement fluide avec n'importe quels carte graphique et
+          processeur vieux d'au plus quelques années.
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives Compiz-Fusion sans environnement de bureau
+   (standalone) Clé USB wifi "Hercules HWNU-300" sous Ubuntu RSS 2.0 Atom
+   1.0
+
+     * Accueil
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+     * Contact / À propos
+
+  « Clé USB wifi "Hercules HWNU-300" sous Ubuntu --|-- Compiz-Fusion sans
+                   environnement de bureau (standalone) »
+
+Le jeu du mois : Tuxfisher
+
+   Cet article a été publié par Benjamin le 03-03-09 à 10:50 dans la
+   catégorie Jeux
+   Tags : - Jeux - Libre - Test - Ubuntu
+
+   Ce mois-ci j'ai voulu vous présenter un petit jeu tout simple, très
+   facile à prendre en main mais qui peut vite devenir extrêmement
+   casse-tête : Tuxfisher.
+
+   I. Présentation
+
+   J'ai toujours été un grand fan du jeu Boulder Dash sur Nintendo Nes, je
+   cherchais donc un jeu équivalent sous Linux, j'ai trouvé Tuxfisher qui
+   répond très bien à mes attentes.
+   Pour ne pas paraphraser, je vais juste reprendre la présentation
+   disponible sur le site officiel :
+
+   TuxFisher est un jeu 2D de réflexion/stratégie open source, libre,
+   gratuit et multiplateforme (Windows, Linux, Mac OS).
+   Le jeu met en scène la mascotte de Linux: Tux le manchot.
+   Il s'agit d'un jeu dérivé de Boulder Dash. C'est un clone du jeu Mr
+   Matt.
+   L'objectif du jeu est de dévorer tous les poissons sans tomber sous une
+   avalanche de neige et sans se retrouver bloqué.
+   TuxFisher est développé en C++. Il utilise Qt4 pour les fenêtres,
+   OpenAL et ALUT pour le son et OpenGL pour l'affichage. Toutes ces
+   bibliothèques sont libres.
+
+   II. Installation
+
+   Il n'existe encore aucun paquet deb de Tuxfisher, il suffit donc de se
+   rendre dans la partie téléchargement du site officiel et télécharger
+   soit les sources, soit le programme "pré-compilé" où il ne vous suffira
+   que de cliquer sur le lanceur pour jouer, sans rien installer.
+   Un paquet rpm est également disponible ainsi qu'un exécutable pour
+   windows.
+
+   III. Présentation
+
+   Le but de ce jeu est donc très simple : vous incarnez Tux et vous devez
+   manger tous les poissons sans qu'une boule de neige ne vous tombe
+   dessus.
+
+   Quand vous lancez le jeu, vous arrivez sur la page d'accueil avec un
+   icône d'ouverture de niveau :
+
+   Choisissez le niveau de tutoriel si c'est la première fois que vous
+   jouez :
+
+   Comme vous pouvez le voir, en haut de la fenêtre vous trouverez
+   plusieurs renseignements :
+     * Le temps parcouru sur ce niveau
+     * Le nombre de déplacements effectués
+     * Le numéro du niveau sur lequel vous vous trouvez actuellement
+     * Des raccourcis pour accéder au niveau précédent ou suivant (si vous
+       l'avez déjà terminé auparavant)
+     * La possibilité d'ouvrir un nouveau niveau
+
+   Sachez que vous pouvez annuler vos déplacements. Par exemple, vous vous
+   rendez compte que votre dernier déplacement vous a bloqué, il vous
+   suffit d'appuyer sur la touche backspace pour revenir en arrière.
+
+   VI. Les niveaux
+
+   Tuxfisher contient déjà pas mal de niveaux "de base", mais s'ajoute à
+   cela la possibilité de créer ses propres niveaux et de les mettre à
+   disposition pour les autres joueurs.
+
+   Pour créer un niveau, il suffit de lancer l'éditeur de niveaux et
+   d'ouvrir un nouveau projet :
+
+   Vous devez ensuite renseigner le nom que vous souhaiter donner à ce
+   projet, votre nom et le niveau de difficulté. Une autre fenêtre
+   apparaitra vous demandant de renseigner le nom du premier niveau et sa
+   taille (Petite, Moyenne ou Grande) :
+
+   Vous pouvez ensuite créer votre premier niveau :
+
+   Une fois ce niveau créé, vous pouvez en créer d'autres ou bien
+   sauvegarder votre projet. Vous pouvez sauvegarder votre projet sur
+   votre machine (Fichier > Sauvegarder Jeu) ou bien mettre votre jeu à
+   disposition des autres joueurs (Fichier > Mettre en ligne).
+
+   Pour télécharger les jeux créés par les autres joueurs, il vous suffit
+   d'aller dans le jeu en lui-même (en non plus l'éditeur) puis Fichier >
+   Télécharger partie.
+
+   Il est également possible de créer vos propres graphismes (voir dans le
+   répertoire "graphismes"). D'ailleurs, Xavier, le créateur du jeu, est
+   actuellement à la recherche de contributeurs pour de nouveaux
+   graphismes (voir au bas de cette page), je vais certainement l'aider
+   car j'aimerais bien créer une ambiance plus "chaude" :)
+
+   J'en ai fini pour cette présentation, je vous invite, comme d'habitude,
+   à essayer ce superbe jeu et, pourquoi pas, à y contribuer. En tout cas
+   félicitations à Xavier !!
+
+Commentaires
+
+   1. Le 03-03-09, 15:42 par VV666
+          Boulder Dash.... ça nous rajeunit pas !!!!!!!!! NES powa !!!
+
+   2. Le 03-03-09, 21:10 par twolff
+          Salut
+          je suis encore sous Ubuntu 7.10 et ca me plante l'interface
+          graphique .... relance et je tombe sur la page de démarrage
+          login - mot de passe d'ubuntu !
+          dommage
+
+   3. Le 04-03-09, 05:43 par Benjamin
+          C'est étrange, tu l'a compilé ou tu as utilisé le paquet
+          "pré-compilé" ?
+
+   4. Le 04-03-09, 09:15 par mikedafunk
+          Cette version est excellente et va plaire surement à mon
+          beauf... Merci Benjamin !
+
+   5. Le 04-03-09, 13:08 par Clem
+          Un petit jeu qui a l'air bien sympa ! Une question cependant :
+          les graphismes sont vraiment en OpenGL ? Parceque çà ressemble à
+          du SDL.
+
+   6. Le 04-03-09, 15:01 par twolff
+          Non j'ai pris le pré-compilé, j'ai vais éssayer de le compiler
+          ... bizarre
+
+   7. Le 05-03-09, 18:31 par Xavier Monin
+          Bonjour, je suis le développeur du jeu.
+          C'est avec joie que je vois que mon jeu a obtenu un article dans
+          le site.
+          Pour répondre au commentaire de Clem, le jeu utilise bien OpenGL
+          via Qt.
+          Pour twolfff, je vais tenter d'élucider ce bug. Si vous trouvez
+          une solution, faites la parvenir.
+
+          Merci beaucoup pour vos commentaires.
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives Un calendrier toujours à portée de main Dépôt
+   Mercurial sur CentOs, Part 2 : Mercurial RSS 2.0 Atom 1.0
+
+     * Accueil
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+     * Contact / À propos
+
+   « Dépôt Mercurial sur CentOs, Part 2 : Mercurial --|-- Un calendrier
+                       toujours à portée de main »
+
+Midori, un navigateur web léger et configurable.
+
+   Cet article a été publié par Xenom le 07-12-09 à 14:41 dans la
+   catégorie Logiciels
+   Tags : - Libre - Test
+
+   J'ai découvert il y a quelques temps un navigateur web léger et rapide.
+   Il s'agit de Midori.
+
+   Midori est basé sur GTK+2 et WebkitGTK+ (un portage de Webkit pour
+   GTK+). C'est d'ailleurs le navigateur web du projet XFCE.
+   La dernière version est la 0.2.1 sortie le 14 novembre 2009.
+
+   Pour ceux qui se le demande, ce logo représente une patte de chat verte
+   stylisée.
+
+   C'est un navigateur encore jeune, mais il est déjà assez complet et
+   performant. Personnellement j'utilise la version git, de développement,
+   pour suivre les évolutions qui sont assez rapides, mais qui est quand
+   même relativement stable, je dois avoir un crash toutes les quelques
+   heures au maximum.
+
+Un aperçu des fonctionnalités :
+
+     * Intégration avec GTK+2.
+     * Rendu rapide et respectueux des normes grâce à Webkit.
+     * Onglets et gestions des fenêtres et session.
+     * Gestion des signets (marques-pages).
+     * Scripts et styles utilisateur.
+     * Barre d'adresse "intelligente".
+     * Vérification orthographique.
+     * Interface configurable.
+     * Suppression des données personnelles (historiques, cookies,
+       "cookies Flash") et gestionnaire de cookie.
+     * Page d'appel rapide (comme FastDial ou SpeedDial).
+     * Personnalisation des barres d'outils.
+
+Utilisation et paramétrage:
+
+   Midori à une interface semblable à la plupart des navigateurs, vous ne
+   serez pas trop surpris.
+
+   Midori à un tableau latéral qui permet d'afficher les extensions,
+   l'historique, les télechargements...
+     * Les scripts utilisateurs permettent principalement d'agir sur les
+       pages, comme Greasemonkey sous Firefox, d'ailleurs beaucoup de
+       scripts Greasemonkey peuvent être utilisés avec Midori. Ces scripts
+       sont à placer dans le répertoire ~/.local/share/midori/scripts, les
+       styles dans le répertoire ~/.local/share/midori/styles. Un exemple
+       : FlashBlock WannaBe. Les styles sont des feuilles de style (CSS)
+       appliqués à certains/tous les sites. Pour en trouver :
+       http://userstyles.org/.
+     * Parmi les extensions proposées avec Midori, il y a un bloqueur de
+       pub, une fonction "cadre" pour afficher plusieurs pages en
+       parallèle, la gestion des mouvements de souris ("mouse gesture"),
+       un cache web,...
+     * Il faut préciser la langue pour le correcteur orthographique. Il
+       doit être paramétré avec "fr_FR" pour le français.
+     * Il est possible de choisir son agrégateur de flux RSS, qu'il soit
+       local ou en ligne. Pour les navigateurs en ligne, il suffit
+       d'entrer  : « midori » suivi d'une espace et du lien de
+       souscription terminé par les caractères « %s » (par exemple, pour
+       Netvibes : midori http://www.netvibes.com/subscribe.php?url=%s).
+
+   SCREENSHOT!!
+
+   En conclusion, je dirait que si vous cherchez un navigateur web léger,
+   rapide, configurable et en GTK+2 je vous conseille fortement Midori. Il
+   n'a peut être pas toutes les extensions de Firefox, mais grâces aux
+   scripts et aux extensions présente par défaut , il présente les
+   fonctions essentielles et d'autres très pratique.
+
+   Si vous préférez Qt je vous conseille aussi Arora. Je vous ferais aussi
+   bientôt un article sur un navigateur un peu plus particulier : uzbl.
+   Site officiel.
+
+   La page de documentation pour ubuntu, pour les PPA de la versions de
+   développement.
+
+Commentaires
+
+   1. Le 07-12-09, 23:56 par antistress
+          Tiens, un devoir de collégien !
+          Etant à l'origine de la plus grande partie de la page wikipédia,
+          ça me fait drôle de lire une resucée qui ne dit pas sa source.
+          Allez, je prendrai ça pour un compliment ;-)
+
+   2. Le 08-12-09, 08:28 par Desidia
+          @antistress :
+
+          Ça n'est pas un peu de la mauvaise foi, ce commentaire ? Il n'y
+          a pas trente-six mille manières d'énumérer les fonctionnalités
+          d'un logiciel. On peut aussi planter un panneau «propriété
+          privée» sur les articles de Wikipédia, et quelques barbelés pour
+          faire joli.
+
+   3. Le 08-12-09, 10:36 par antistress
+          @Desidia :
+          "Il n'y a pas trente-six mille manières d'énumérer les
+          fonctionnalités d'un logiciel"
+          En parlant de mauvaise foi tu t'y connais visiblement : c'est un
+          copier-coller au mot près, pas une coïncidence
+          Collégien, va !
+
+   4. Le 08-12-09, 15:36 par dhoko
+          Un très bon navigateur qui grandit vite, il y a pas si longtemps
+          il n'était pas très stable. Je l'utilise très souvent car hélas
+          Opera n'est pas aussi bon sous linux que sous Windows. Il est
+          rapide et se lance très rapidement. Mais depuis la disponibilité
+          de Chromium sous Linux je le trouve moins intéressant car il est
+          un peu plus lent. Mais bien plus complet.
+          Comme son cousin Arora il est prêt pour une utilisation
+          quotidienne comme navigateur usuel je trouve.
+
+   5. Le 08-12-09, 16:02 par Benjamin
+          C'est marrant comme insulte ça : "Collégien"...
+          Je pense que l'auteur de l'article appréciera ;)
+
+   6. Le 08-12-09, 17:27 par xenom
+          @antistress : La seule chose reprise de Wikipedia est l'exemple
+          pour netvibes (que j'ai d'ailleurs trouvé d'abord sur un autre
+          site).
+          La liste est reprise du site officiel. L'article sur Wikipedia
+          n'a fait que la reprendre. Mais bon si ca te fait plaisir de
+          croire avoir ecrit un article original.
+
+   7. Le 08-12-09, 17:46 par antistress
+          Extrait de Wikipedia, outre la liste de fonctionnalités, citons
+          au hasard :
+          "Paramétrer et optimiser Midori
+          - Les scripts sont à placer dans le répertoire
+          ~/.local/share/midori/scripts, les styles dans le répertoire
+          ~/.local/share/midori/styles. Quelques exemples : Ad Blocking
+          FiltersetP, FlashBlock WannaBe.
+          - le vérificateur d'orthographe doit être paramétré avec "fr_FR"
+          pour le français,
+          - Il est possible de déclarer dans les préférences du navigateur
+          (onglet Général) quel agrégateur utiliser pour gérer les flux
+          RSS. Ce peut être un agrégateur local ou en ligne. Dans ce
+          dernier cas, il suffit d'entrer pour commande : « midori » suivi
+          d'une espace et du lien de souscription terminé par les
+          caractères « %s » (par exemple, pour Netvibes : midori
+          http://www.netvibes.com/subscribe.p...)."
+
+          Chacun se fera sa propre opinion. Pour moi citer la source
+          (Wikipedia) est une question d'éthique, ce genre de choses qui
+          fait le monde des logiciels libres. La parenthèse étant
+          refermée, n'hésite pas à compléter/modifier la page wikipédia de
+          Midori au fur et à mesure de ton utilisation du logiciel, il en
+          vaut effectivement la peine
+
+   8. Le 08-12-09, 18:21 par Xenom
+          @antistress : Comme je l'ai deja dit , l'astuce sur Netvibes
+          provient de wikipedia. Mais nullement le reste. Toute la partie
+          sur les scripts est décrite dans la faq de midori, qui
+          effectivement donne les même exemples (d'un cote c'est les
+          fonctions les plus demandés).
+          L'astuce sur la langue n'est pas dure à trouver quand on a
+          l'habitude de configurer a(i)spell.
+
+          Je cite les sources quand je les utilisent, je n'y peut rien si
+          l'article de wikipedia est comme mon article un résumé de la faq
+          officielle... Il faut pas crier au plagiat quand on reprend deja
+          une source soit même.
+
+   9. Le 08-12-09, 18:36 par antistress
+          Pout ton info le rédacteur de la FAQ et moi-même échangeons sur
+          le forum ubuntu-fr dans l'intérêt de la documentation relative à
+          Midori il n'y donc pas de plagiat en ce qui me concerne mais une
+          mise à jour parallèle des deux sources.
+          Je crois que tout est dit et bien plus clair maintenant.
+
+          Sinon : une coquille à "Pour ceux qui se le demande".
+
+          Voilà pour terminer cette longue parenthèse sur la forme
+
+          Sur le fond : dommage que tu ne donnes pas d'avantage ton avis
+          sur le soft, on reste un peu sur sa faim (même si, il est vrai,
+          un des gros avantages du logiciel libre est que chacun peut se
+          faire son avis facilement en installant le logiciel)
+
+   10. Le 17-12-09, 21:01 par blinux83
+          J'ai un pc sous debian lenny xfce et la compliation de midori
+          est impossible a cause de trop de dépendances non résolues.
+          Par contre sur le pc sous debian testing xfce et celui sous
+          ubuntu karmic gnome pas de soucis !
+          C'est dommage car il aurais été intérressant de l'utiliser sur
+          un ordinausor reconditionné avec une Lenny sous openbox ou xfce
+          !
+
+   11. Le 25-12-09, 14:50 par dam
+          HELP !!!!! Etant très satisfait de Slitaz je viens de
+          télécharger Midori afin de bénéficier d'un navigateur plus léger
+          que firefox ... hormis le fait qu'il soit un peu plus lent, je
+          n'arrive pas à me signer sur des pages essentielles telles
+          qu'hotmail ou facebook ... que faut il que je configure ?
+
+   12. Le 20-01-10, 05:35 par tatave
+          Heu..
+          excellent
+          mais kelkun peut me dire ou placer les fichiers de styles et
+          scripts [INS: mais sous xp :INS] dans midori?
+
+          merci
+
+   13. Le 10-05-10, 14:52 par Le_mecreant
+          Comment faire pour lire des video real player sous midori. Peut
+          on y integrer un plugin xine?
+          Merci d'avance
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives billets précédents billets suivants Auto-hébergment :
+   mon système de sauvegarde Auto-hébergement : Mon experience, mes
+   problèmes, mes idées Auto-hébergement : compte-rendu de vos témoignages
+   Soyez votre propre fournisseur OpenID avec SimpleID Sécurisation de son
+   serveur : fail2ban RSS 2.0 Atom 1.0 Blogroll
+
+     * Accueil
+     * Archives
+     * Tags
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+
+Mot-clé - Serveur
+
+   Fil des billets
+
+   19-06-11
+
+Auto-hébergment : mon système de sauvegarde
+
+   Par Benjamin le 19-06-11, 18:58 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   La sauvegarde est un élément très important dans l'auto-hébergement. On
+   oublie la sauvegarde, ça crash, on a plus rien...
+   Pendant quelques semaines après avoir mis en place mon
+   auto-hébergement, je n'avais toujours qu'un seul disque dur dans mon
+   serveur, je lui faisais confiance :)
+
+   Et puis j'ai eu un petit problème sur un serveur au boulot, problème
+   qui a miraculeusement été résolu grâce à une sauvegarde efficace. Je me
+   suis donc décidé à investir un peu de mon temps dans la sauvegarde de
+   mon serveur perso.
+
+   backup.png
+
+   Lire la suite...
+
+   9 commentaires
+
+   31-03-11
+
+Auto-hébergement : Mon experience, mes problèmes, mes idées
+
+   Par Benjamin le 31-03-11, 21:38 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   Il est inutile de rappeler les (nombreuses) raisons qui m'ont poussé à
+   m'auto-héberger (contrôle de ses données, indépendance, faire du vrai
+   Internet, etc.). J'ai décidé de faire un article sur mon expérience
+   dans l'auto-hébergement. Mes interrogations, mes succès, mes échecs, où
+   j'en suis actuellement, les difficultés rencontrées, comment je les ai
+   résolues.
+
+   Cela suscitera peut-être des "vocations" d'auto-hébergement chez
+   certaines personnes hésitant encore.
+
+   logo_internet.png
+
+   Lire la suite...
+
+   13 commentaires
+
+   15-01-11
+
+Auto-hébergement : compte-rendu de vos témoignages
+
+   Par Benjamin le 15-01-11, 22:30 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   Vous avez été nombreux à répondre aux questions que je vous avais posé
+   sur l'article Auto-hébergement : vos témoignages m'intéressent !.
+   Merci à tous !
+
+   Je vais donc faire un résumé de vos réponses, réponses qui m'ont fait
+   découvrir de nombreux logiciels, beaucoup de matériel et qui m'a montré
+   que l'auto-hébergement se démocratise de plus en plus.
+
+   Lire la suite...
+
+   7 commentaires
+
+   08-01-11
+
+Soyez votre propre fournisseur OpenID avec SimpleID
+
+   Par Benjamin le 08-01-11, 13:01 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+     * Tutoriel
+
+   J'ai eu du mal à trouver un titre court et précis pour cet article.
+   Voici les points que je sohaite aborder dans cet article : Qu'est ce
+   qu'OpenID ? Qu'est ce qu'être fournisseur OpenID ? Pourquoi l'être ?
+   Comment l'être ?
+
+   Il est temps de reprendre le contrôle de nos données. Ça, je ne vous
+   l'apprends pas. Mais que pensez-vous de reprendre également le contrôle
+   de votre identité numérique, de vos identifiants, de vos mots de passe.
+   Comment centraliser vos informations personnelles chez vous, sur votre
+   machine ?
+
+   Je vais essayer de répondre à ces questions dans cet article.
+
+   Lire la suite...
+
+   24 commentaires
+
+   27-12-10
+
+Sécurisation de son serveur : fail2ban
+
+   Par Benjamin le 27-12-10, 21:34 - Auto hébergement
+     * auto-hebergement
+     * Libre
+     * Serveur
+
+   Comme l'a très bien dit Tancrède dans son article "La sécurité
+   sera-t-elle l'argument anti auto-hébergement ?" :
+
+     S'il y a bien une raison qui pourrait s'opposer à
+     l'auto-hébergement, je pense que ce serait celle de la sécurité.
+     C'est probablement le point noir qui empêchera, voire interdira,
+     l'auto-hébergement.
+
+   Je suis assez d'accord avec lui et vous invite à lire son article.
+   Aussi, j'ai décidé de partager mon experience en vous montrant une
+   première sécurisation quasi-indispensable pour votre serveur =>
+   fail2ban, un logiciel qui scrute les fichiers de logs à la recherche
+   d'actions suspectes et bannit les utilisateurs mal intentionnés grâce
+   aux iptables.
+
+   Lire la suite...
+
+   8 commentaires
+
+   « billets précédents - page 3 de 9 - billets suivants »
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives billets précédents billets suivants Un émulateur
+   Super Nintendo sous Linux : ZSNES The Battle for Wesnoth Comment
+   installer Heart Of Darkness sur le Eeepc 701 Installation de jeux
+   Windows sous GNU/Linux avec PlayOnLinux Savage 2 devient gratuit RSS
+   2.0 Atom 1.0 Blogroll
+
+     * Accueil
+     * Archives
+     * Tags
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+
+Mot-clé - Jeux
+
+   Fil des billets
+
+   06-01-09
+
+Un émulateur Super Nintendo sous Linux : ZSNES
+
+   Par Benjamin le 06-01-09, 01:00 - Jeux
+     * EeePC
+     * Jeux
+     * Libre
+     * Tutoriel
+     * Ubuntu
+
+   Je continue ma série des émulateurs sous Linux. Après l'émulateur NES,
+   j'ai décidé de vous présenter zsnes, l'émulateur pour ma deuxième
+   console préférée : la Super Nintendo.
+
+   Lire la suite...
+
+   32 commentaires
+
+   27-12-08
+
+The Battle for Wesnoth
+
+   Par Vincent Valentine le 27-12-08, 17:56 - Jeux
+     * Jeux
+     * Libre
+     * Test
+     * Ubuntu
+
+   Bonjour,
+   Aujourd'hui, je vais vous faire découvrir un jeu de stratégie au tour
+   par tour : The Battle for Wesnoth.
+
+   Lire la suite...
+
+   6 commentaires
+
+   23-12-08
+
+Comment installer Heart Of Darkness sur le Eeepc 701
+
+   Par Vincent Valentine le 23-12-08, 12:20 - Autres
+     * Jeux
+     * Libre
+     * Tutoriel
+     * Ubuntu
+
+   Bonjour,
+
+   Comme promis, je fais suite au sujet sur PlayOnLinux et Wine.
+   Aujourd'hui, nous allons donc voir comment installer un jeux Windows
+   sur le Eeepc avec GNU/Linux/Ubuntu (Na !), Wine et PlayOnLinux.
+
+Atelier bricolage : Comment installer Heart Of Darkness sur le Eeepc 701.
+
+   Lire la suite...
+
+   7 commentaires
+
+   16-12-08
+
+Installation de jeux Windows sous GNU/Linux avec PlayOnLinux
+
+   Par Vincent Valentine le 16-12-08, 19:54 - Jeux
+     * Jeux
+     * Libre
+     * Tutoriel
+     * Ubuntu
+
+   Bonjour,
+   comme les vacances arrivent, je me disais qu'il me faudrait un FPS pour
+   me défouler un peu. Et comme je suis un peu geek, j'ai envie de les
+   installer sous Linux, c'est l'occasion d'installer des vieux jeux avec
+   Wine et PlayOnLinux.... Vous voyez venir le sujet là ? ;)
+   Tout d'abord, que vais-je vous présenter exactement ?
+
+Comment installer Call of Duty 1 et Half Life 1 sous GNU/Linux/Xubuntu 8.10
+avec Wine 1.1.10 et PlayOnLinux 3.2.2. Ouf !
+
+   Lire la suite...
+
+   17 commentaires
+
+   13-12-08
+
+Savage 2 devient gratuit
+
+   Par Jerome le 13-12-08, 12:00 - News
+     * Jeux
+     * News
+
+   Voila tout est dans le titre ^^
+
+   Savage 2 vient de passer totalement gratuit (Free to play)
+
+   Lire la suite...
+
+   un commentaire
+
+   « billets précédents - page 3 de 6 - billets suivants »
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives Reportage Ubuntu Party Nancy du 7 mars 09
+   Compiz-Fusion sans environnement de bureau (standalone) RSS 2.0 Atom
+   1.0
+
+     * Accueil
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+     * Contact / À propos
+
+      « Compiz-Fusion sans environnement de bureau (standalone) --|--
+                Reportage Ubuntu Party Nancy du 7 mars 09 »
+
+Neverball : un jeu qui peut faire tourner en bourrique
+
+   Cet article a été publié par idoric le 05-03-09 à 19:22 dans la
+   catégorie Jeux
+   Tags : - Jeux - Libre - Ubuntu
+
+   Aujourd'hui, j'avais envie de vous parler de Neverball, un jeu bien
+   évidemment libre.
+   Neverball est un jeu de plateforme solo en 3D où une balle doit
+   atteindre une sortie en collectant des pièces, le tout en temps limité.
+
+1. Présentation
+
+   La première originalité réside dans le fait que vous ne contrôlez pas
+   directement votre balle, vous pouvez uniquement modifier l'inclinaison
+   du plateau de jeu et compter sur la gravitation et les lois de la
+   physique. La deuxième originalité n'en aurait pas été une sans la
+   première : vous ne pouvez voir le plateau entièrement d'un point fixe
+   (comme dans un jeu de flipper), la caméra suit quand même la balle, à
+   la manière d'un third person shooter.
+
+   Contrôler le plateau du point de vue de la balle donne à ce jeu son
+   gameplay si particulier. En effet, vous pouvez faire tourner votre
+   caméra autour de votre balle, automatiquement ou manuellement, afin de
+   voir où va celle-ci, mais alors les commandes gauche/droite et
+   avant/arrière d'inclinaison du plateau adopteront également ce nouveau
+   point de vue ! Incliner le plateau vers la droite n'aura pas forcément
+   pour effet de redresser le plateau que vous aviez penché sur
+   l'«ancienne» gauche, surtout si votre balle se met à rebondir partout !
+
+2. Installation
+
+   Vous pouvez installer Neverball sur pratiquement toutes les
+   distributions Linux à partir de son gestionnaire de paquet.
+
+   Par exemple, avec (K)Ubuntu, si vous ne voulez pas perdre de temps à
+   lancer le gestionnaire graphique, la commande classique suffit : sudo
+   aptitude install neverball
+
+   À noter que la version 1.5.0 à laquelle je me réfère dans la suite doit
+   encore attendre la prochaine version pour certaines distributions, mais
+   je ne vais pas détailler ici la compilation (bien que j'ai du moi-même
+   la faire).
+
+3. Utilisation
+
+3.1 Configuration et choix d'une collection de niveaux
+
+   La fenêtre d'accueil est on ne peut plus classique (les captures ne
+   sont qu'en 800x600 pour des raisons de place):
+
+   neverball_accueil.png
+
+   Commençons par jetter un œil du côté des options :
+
+   neverball_options.png
+
+   C'est ici qu'on augmentera ou diminuera la définition et le niveau des
+   détails graphiques, selon que l'on veuille améliorer la qualité des
+   graphismes ou regagner en fluidité sur une configuration peu puissante.
+
+   Pour jouer, il vous faudra d'abord choisir une collection de niveaux :
+
+   neverball_collections.png
+
+   Dans chaque collection, vous trouverez une série de niveaux numérotés
+   en chiffres indo-arabes, où peuvent venir s'intercaler des niveaux
+   bonus numérotés en chiffres romains.
+
+   Les 5 collections de la première page sont constituées de 20 niveaux
+   normaux et 5 niveaux bonus. À cela il faut ajouter une collection de 16
+   niveaux sans bonus à la difficulté diabolique, soit 141 niveaux dans la
+   version actuelle.
+
+   Les trois collections «Neverball Facile», «Neverball Moyen» et
+   «Neverball Difficile» offrent des niveaux de difficultés croissants
+   comme leur nom l'indique. Si par erreur vous avez tenté un niveau moyen
+   ou difficile pour commencer, sachez que la courbe de progression est
+   très rapide au départ, et qu'après avoir pris le temps de finir les
+   niveaux faciles, les premiers niveaux moyens paraissent bien moins
+   impossibles qu'au premier abord. De plus, la collection facile est
+   destinée à vous faire découvrir en douceur les éléments classiques des
+   niveaux du jeu, comme les différents types de pièces par exemple
+   (certaines valent plus que d'autres).
+
+3.2 Mode normal et mode challenge
+
+   neverball_collection.png
+
+   La première fois, tous les niveaux sont bloqués à l'exception du
+   premier. Pour terminer ce niveau, vous devrez avec votre balle activer
+   la sortie par la collecte de pièces, puis atteindre celle-ci, le tout
+   dans le temps imparti. Dès que vous l'aurez réussi, vous pourrez tenter
+   de résoudre le deuxième niveau normal sans jamais avoir à refaire le
+   premier niveau, et ainsi de suite.
+
+   Vous pouvez également relever le «challenge» de réussir tous les
+   niveaux normaux presque à la suite : vous démarrez avec le droit de
+   perdre deux balles, plus une toutes les 100 pièces collectées. Le mode
+   «challenge» est la seule manière de débloquer les niveaux bonus
+   auxquels vous pourrez ensuite accéder en mode normal.
+
+3.3 Les commandes
+
+   neverball_niveau.png
+
+   Plusieurs moyens sont à votre disposition pour contrôler l'inclinaison
+   du plateau : clavier, souris, manette de jeu… Le clavier peut permettre
+   de réussir plus rapidement les premiers niveaux, mais votre manque de
+   finesse dans la réalisation vous empêchera ensuite d'aller plus loin.
+   Je vous conseille donc très fortement de manier le jeu à la souris (ou
+   touchpad, ou trackball) dès vos premières parties.
+
+   Les seules autres commandes à votre disposition concernent le
+   comportement de votre caméra : la touche F1 active la «poursuite»
+   (c'est celui par défaut au premier lancement du jeu) où la caméra suit
+   la balle de près, la touche F2 sa variante «paresseuse», et enfin F3 la
+   commande purement «manuelle». Dans tous les cas, vous pouvez forcer la
+   caméra à tourner autour de votre balle avec les boutons de votre souris
+   (la touche shift permet d'accélérer cette rotation).
+
+3.4 Les 3 différents records
+
+   Pour chaque niveau, vous pouvez chercher à améliorer le temps qu'il
+   vous est nécessaire pour terminer celui-ci, c'est le record de
+   «déverrouillage», mais vous pouvez également chercher à terminer le
+   niveau en collectant un maximum de pièces, c'est le record «le plus de
+   pièces».
+
+   Par défaut et en mode normal, il n'est plus nécessaire de collecter les
+   pièces pour activer la sortie d'un niveau déjà fini, d'où une troisième
+   possibilité consistant à rejoindre cette sortie le plus rapidement
+   possible, c'est le record «meilleur temps», qui peut être trivial pour
+   certains niveaux, mais très intéressant pour d'autres.
+
+   Il peut parfois être gênant d'avoir la sortie activée immédiatement,
+   car cela peut vous obliger inutilement à la contourner. Si cela vous
+   gêne, il suffit de répondre oui à la question «Fermer la sortie des
+   niv. complétés ?» qui apparaît sur la page de la collection.
+
+4. Conclusion
+
+   Neverball est un jeu qui nécessite un peu de réflexion, pas mal
+   d'anticipation, et beaucoup de dextérité et de concentration, où vous
+   pourrez vous surprendre à compter, le cœur battant, les secondes que
+   met une plate-forme pour descendre et remonter. Vous pourrez également
+   confronter vos plus grandes réussites avec les autres membres de la
+   communauté de joueurs sur la table en ligne des records, mais attention
+   à ne pas vous spoiler vous-même !
+
+Commentaires
+
+   1. Le 06-03-09, 14:34 par Richard
+          très bon article, comme d'habitude sur ce blog, donnant vraiment
+          envie de jouer à Neverball.
+
+          Sur ubuntu, l'installation via dépôt par défaut ne semble pas
+          installer le jeu en version française.
+          Si quelqu'un sait comment le franciser avec ubuntu, merci
+          d'avance.
+
+          Cordialement, Richard
+
+   2. Le 06-03-09, 15:45 par idoric
+          Malheureusement, l'internationalisation est une nouveauté de la
+          version 1.5.0, et l'actuelle version stable d'ubuntu (Intrepid
+          8.10) ne fournit que la 1.4.0.
+
+   3. Le 07-03-09, 11:21 par VV666
+          Bonjour, j'avais déjà tester ce super jeux. Est-il toujours
+          aussi gourmand en ressources 3D ? Car sur mon portabel avec une
+          AIT X1400 (256Mo) et l'accélération matériel activé (composition
+          opérationnelle) ça ramait pas mal...
+
+          En tout cas, ce jeux est vraiment sympa. Bon article ;)
+
+   4. Le 07-03-09, 12:05 par idoric
+          > «Est-il toujours aussi gourmand en ressources 3D ?»
+
+          Quand on va voir la liste des modifications
+          (http://neverball.org/changes.php), plusieurs se rapportent à
+          l'accélération graphique, mais je n'ai pas connaissance d'un
+          benchmark détaillé sur la question. Je peux juste dire que sur
+          mon Dell Inspiron 6400 (contrôleur graphique Intel GMA 950), en
+          1280x800 avec le maximum de détails graphiques, c'est fluide
+          sauf sur certains niveaux bien particuliers (Neverball facile,
+          niveau 14, par exemple), faisant qu'au final pour être
+          tranquille j'ai désactivé la réflexion.
+
+   5. Le 09-03-09, 23:51 par Thibauld
+          Merci pour cet article! Je ne connaissais pas Neverball, je
+          viens de tester et il est clair (au vu du temps que j'y ai passé
+          :)) que le jeu est prenant! J'en ai profité pour faire quelques
+          screenshots et pour le mettre en première page sur allmyapps :
+          http://allmyapps.com/app/neverball
+          Merci de m'avoir fait découvrir ce jeu que je ne connaissais pas
+          :)
+
+   6. Le 24-03-09, 03:01 par mym
+          Merci pour cet article de qualité !
+
+          > «Est-il toujours aussi gourmand en ressources 3D ?»
+
+          La majorité des niveaux a été améliorée, par un lissage des
+          courbes, et donc une augmentation du nombre de polygones.
+          Donc, oui c'est plus gourmand en ressources, mais pas de
+          beaucoup, et il ne faut pas oublier que c'était surtout le cas à
+          sa sortie... en 2003, et nous sommes déjà en 2009, les
+          ordinateurs ont évolué depuis, et normalement tout devrait être
+          largement fluide avec n'importe quels carte graphique et
+          processeur vieux d'au plus quelques années.
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !
+   #Accueil Archives Compiz-Fusion sans environnement de bureau
+   (standalone) Clé USB wifi "Hercules HWNU-300" sous Ubuntu RSS 2.0 Atom
+   1.0
+
+     * Accueil
+     * News
+     * Auto hébergement
+     * Raspberry Pi
+     * Serveur
+     * Logiciels
+     * Jeux
+     * Cours Linux
+     * Trucs - Astuces
+     * Autres
+     * Contact / À propos
+
+  « Clé USB wifi "Hercules HWNU-300" sous Ubuntu --|-- Compiz-Fusion sans
+                   environnement de bureau (standalone) »
+
+Le jeu du mois : Tuxfisher
+
+   Cet article a été publié par Benjamin le 03-03-09 à 10:50 dans la
+   catégorie Jeux
+   Tags : - Jeux - Libre - Test - Ubuntu
+
+   Ce mois-ci j'ai voulu vous présenter un petit jeu tout simple, très
+   facile à prendre en main mais qui peut vite devenir extrêmement
+   casse-tête : Tuxfisher.
+
+   I. Présentation
+
+   J'ai toujours été un grand fan du jeu Boulder Dash sur Nintendo Nes, je
+   cherchais donc un jeu équivalent sous Linux, j'ai trouvé Tuxfisher qui
+   répond très bien à mes attentes.
+   Pour ne pas paraphraser, je vais juste reprendre la présentation
+   disponible sur le site officiel :
+
+   TuxFisher est un jeu 2D de réflexion/stratégie open source, libre,
+   gratuit et multiplateforme (Windows, Linux, Mac OS).
+   Le jeu met en scène la mascotte de Linux: Tux le manchot.
+   Il s'agit d'un jeu dérivé de Boulder Dash. C'est un clone du jeu Mr
+   Matt.
+   L'objectif du jeu est de dévorer tous les poissons sans tomber sous une
+   avalanche de neige et sans se retrouver bloqué.
+   TuxFisher est développé en C++. Il utilise Qt4 pour les fenêtres,
+   OpenAL et ALUT pour le son et OpenGL pour l'affichage. Toutes ces
+   bibliothèques sont libres.
+
+   II. Installation
+
+   Il n'existe encore aucun paquet deb de Tuxfisher, il suffit donc de se
+   rendre dans la partie téléchargement du site officiel et télécharger
+   soit les sources, soit le programme "pré-compilé" où il ne vous suffira
+   que de cliquer sur le lanceur pour jouer, sans rien installer.
+   Un paquet rpm est également disponible ainsi qu'un exécutable pour
+   windows.
+
+   III. Présentation
+
+   Le but de ce jeu est donc très simple : vous incarnez Tux et vous devez
+   manger tous les poissons sans qu'une boule de neige ne vous tombe
+   dessus.
+
+   Quand vous lancez le jeu, vous arrivez sur la page d'accueil avec un
+   icône d'ouverture de niveau :
+
+   Choisissez le niveau de tutoriel si c'est la première fois que vous
+   jouez :
+
+   Comme vous pouvez le voir, en haut de la fenêtre vous trouverez
+   plusieurs renseignements :
+     * Le temps parcouru sur ce niveau
+     * Le nombre de déplacements effectués
+     * Le numéro du niveau sur lequel vous vous trouvez actuellement
+     * Des raccourcis pour accéder au niveau précédent ou suivant (si vous
+       l'avez déjà terminé auparavant)
+     * La possibilité d'ouvrir un nouveau niveau
+
+   Sachez que vous pouvez annuler vos déplacements. Par exemple, vous vous
+   rendez compte que votre dernier déplacement vous a bloqué, il vous
+   suffit d'appuyer sur la touche backspace pour revenir en arrière.
+
+   VI. Les niveaux
+
+   Tuxfisher contient déjà pas mal de niveaux "de base", mais s'ajoute à
+   cela la possibilité de créer ses propres niveaux et de les mettre à
+   disposition pour les autres joueurs.
+
+   Pour créer un niveau, il suffit de lancer l'éditeur de niveaux et
+   d'ouvrir un nouveau projet :
+
+   Vous devez ensuite renseigner le nom que vous souhaiter donner à ce
+   projet, votre nom et le niveau de difficulté. Une autre fenêtre
+   apparaitra vous demandant de renseigner le nom du premier niveau et sa
+   taille (Petite, Moyenne ou Grande) :
+
+   Vous pouvez ensuite créer votre premier niveau :
+
+   Une fois ce niveau créé, vous pouvez en créer d'autres ou bien
+   sauvegarder votre projet. Vous pouvez sauvegarder votre projet sur
+   votre machine (Fichier > Sauvegarder Jeu) ou bien mettre votre jeu à
+   disposition des autres joueurs (Fichier > Mettre en ligne).
+
+   Pour télécharger les jeux créés par les autres joueurs, il vous suffit
+   d'aller dans le jeu en lui-même (en non plus l'éditeur) puis Fichier >
+   Télécharger partie.
+
+   Il est également possible de créer vos propres graphismes (voir dans le
+   répertoire "graphismes"). D'ailleurs, Xavier, le créateur du jeu, est
+   actuellement à la recherche de contributeurs pour de nouveaux
+   graphismes (voir au bas de cette page), je vais certainement l'aider
+   car j'aimerais bien créer une ambiance plus "chaude" :)
+
+   J'en ai fini pour cette présentation, je vous invite, comme d'habitude,
+   à essayer ce superbe jeu et, pourquoi pas, à y contribuer. En tout cas
+   félicitations à Xavier !!
+
+Commentaires
+
+   1. Le 03-03-09, 15:42 par VV666
+          Boulder Dash.... ça nous rajeunit pas !!!!!!!!! NES powa !!!
+
+   2. Le 03-03-09, 21:10 par twolff
+          Salut
+          je suis encore sous Ubuntu 7.10 et ca me plante l'interface
+          graphique .... relance et je tombe sur la page de démarrage
+          login - mot de passe d'ubuntu !
+          dommage
+
+   3. Le 04-03-09, 05:43 par Benjamin
+          C'est étrange, tu l'a compilé ou tu as utilisé le paquet
+          "pré-compilé" ?
+
+   4. Le 04-03-09, 09:15 par mikedafunk
+          Cette version est excellente et va plaire surement à mon
+          beauf... Merci Benjamin !
+
+   5. Le 04-03-09, 13:08 par Clem
+          Un petit jeu qui a l'air bien sympa ! Une question cependant :
+          les graphismes sont vraiment en OpenGL ? Parceque çà ressemble à
+          du SDL.
+
+   6. Le 04-03-09, 15:01 par twolff
+          Non j'ai pris le pré-compilé, j'ai vais éssayer de le compiler
+          ... bizarre
+
+   7. Le 05-03-09, 18:31 par Xavier Monin
+          Bonjour, je suis le développeur du jeu.
+          C'est avec joie que je vois que mon jeu a obtenu un article dans
+          le site.
+          Pour répondre au commentaire de Clem, le jeu utilise bien OpenGL
+          via Qt.
+          Pour twolfff, je vais tenter d'élucider ce bug. Si vous trouvez
+          une solution, faites la parvenir.
+
+          Merci beaucoup pour vos commentaires.
+
+                                [tux_rss.gif]
+
+Rechercher
+
+   __________ ok
+
+          Ce blog et tous ses articles sont sous licence CC BY-SA !

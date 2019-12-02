@@ -1,0 +1,36 @@
+   Inserm UPMC
+   Institut Pierre Louis (UMR S 1136)
+
+
+
+     * Nos sites
+     * Nos données
+     * Autres projets
+
+   Bienvenue sur le portail des sites internet du réseau Sentinelles de
+   l'Institut Pierre Louis d'Epidémiologie et de Santé Publique UMR S 1136
+   INSERM/UPMC.
+
+Nos sites
+
+   Sentinelles
+
+   http://www.sentiweb.fr
+   Site du réseau Sentinelles de surveillance épidemiologique de médecins
+   géneralistes
+   BiostaTGV
+
+   https://biostatgv.sentiweb.fr
+   Les Biostatistiques à grande vitesse
+   GrippeNet
+
+   https://www.grippenet.fr
+   GrippeNet.fr, surveillance de la grippe basée sur la participation de
+   la population
+   Periodic
+
+   https://periodic.sentiweb.fr
+   Méthodes de détection des épidémies saisonnières en ligne
+
+   réseau Sentinelles, Institut Pierre Louis (UMR S 1136). Ce site est
+   basé sur Twitter Bootstrap & jQuery.

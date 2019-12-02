@@ -1,0 +1,948 @@
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Simulateur de frappe
+
+De Disposition de clavier francophone et ergonomique bépo
+
+     * Méthodologie  >
+     * Évaluation  >
+     * Simulateur de frappe
+
+   Klay est un simulateur de frappe reposant sur une approximation d'une
+   modélisation physique ressort-masselotte des doigts et de la main. Le
+   script — écrit en python — digère un fichier de configuration de type
+   xkb d'un côté et un corpus de l'autre.
+
+   Le tout semble donner des résultats cohérents. Mais ils confirment
+   aussi ce que l'on avait déjà remarqué avec des algorithmes de comptage
+   de fréquence de symbole : suivant le corpus, les résultats obtenus sont
+   loin de converger.
+
+   Cependant, si vous êtes curieux...
+   Attention
+
+   Le script est en phase alpha, il marche pour le seul fichier de conf
+   que j'avais sous la main au moment des tests. Il est prévu pour être
+   flexible, mais je m'attends au pire. Toute personne intéressée peut me
+   contacter via la liste de diffusion.
+
+Sommaire
+
+     * 1 Fonctionnalités
+     * 2 Utilisation
+     * 3 Modélisation
+     * 4 News 3 août 2007
+     * 5 Archive
+          + 5.1 Klay
+          + 5.2 Fonctionnement
+          + 5.3 Descriptif
+          + 5.4 Sources
+          + 5.5 Détails
+               o 5.5.1 Les paramètres
+               o 5.5.2 Exemple de carte d'accessibilité
+          + 5.6 Résultats par Nemolivier
+
+Fonctionnalités
+
+   Les principales fonctionnalités de Klay sont :
+     * calcul de l'énergie de frappe pour un corpus et une disposition
+       donnés par un modèle quasi ressort-masselotte ;
+     * rapport détaillé des dépenses énergétiques par main, doigt, touche
+       et caractère ;
+     * statistiques globales du corpus : répartition des caractères, des
+       digrammes ;
+     * diagnostic des touches enchaînées avec le même doigt.
+
+   Les petits bonus :
+     * extensibilité aisée du code pour rajouter tout relevé statistique
+       non encore effectué ;
+     * évolution quasi génétique de la disposition (en version béta).
+
+Utilisation
+
+   Klay est un script python qui requiert le module numpy (installable
+   directement ou via les librairies scipy).
+
+   Pour invoquer le script
+python klay.py—layout="layout_xx.xkb"—corpus="corpus_xx.txt"
+
+Modélisation
+
+     * On place chaque doigt (quatre à gauche et quatre à droite) sur les
+       touches de repos (respectivement : QSDF et JKLM).
+     * Pour chaque touche du clavier, on définit le doigt qui effectuera
+       un déplacement pour l'atteindre (1 : index, 2 : majeur, etc. G :
+       gauche et D : droit).
+
+┌────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────╔════════╗
+│    │    │    │    │    │    │    │    │    │    │    │    │    ║        ║
+│ 4G │ 4G │ 3G │ 3G │ 2G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D │ 4D │ 4D ║   <--  ║
+╔════╧══╗─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─╚══╦═════╣
+║       ║    │    │    │    │    │    │    │    │    │    │    │    ║   | ║
+║  ->|  ║ 4G │ 3G │ 2G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D │ 4D │ 4D ║ <-' ║
+╠═══════╩╗───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───╚╗    ║
+║        ║    │    │    │    │    │    │    │    │    │    │    │    ║    ║
+║  CAPS  ║ 4G │ 3G │ 2G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D │ 4D │ 4D ║    ║
+╠══════╦═╝──┬─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴──┬─┴──╔═╧════╩════╣
+║   ^  ║    │    │    │    │    │    │    │    │    │    │    ║     ^     ║
+║   |  ║ 4G │ 4G │ 3G │ 1G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D ║     |     ║
+╠══════╩╦═══╧══╦═╧═══╦╧════╧════╧════╧════╧══╦═╧════╧╦═══╧══╦═╩════╦══════╣
+║       ║      ║     ║                       ║       ║      ║      ║      ║
+║ Ctrl  ║ WinG ║ Alt ║         SPACE         ║ AltGR ║ WinD ║ WinM ║ Ctrl ║
+╚═══════╩══════╩═════╩═══════════════════════╩═══════╩══════╩══════╩══════╝
+
+     * On définit aussi la distance relative que le doigt parcours encore
+       cette position de repos et la touche à atteindre (la distance à
+       parcourir est donnée en coordonnées d'unité arbitraire dans un
+       repère cartésien pour un clavier standard).
+
+┬────┬
+│  Y │ ordonnée
+│  X │ abscisse
+┴────┴
+
+┌────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────╔════════╗
+│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10║        ║
+│ -11│ -5 │ +1 │ +1 │ +1 │ +1 │ +7 │ -5 │ +1 │ +1 │ +1 │ +1 │ +7 ║   <--  ║
+╔════╧══╗─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─╚══╦═════╣
+║       ║ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 ║   | ║
+║  ->|  ║ -2 │ -2 │ -2 │ -2 │ +4 │ -8 │ -2 │ -2 │ -2 │ -2 │ +4 │ +10║ <-' ║
+╠═══════╩╗───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───╚╗    ║
+║        ║ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 ║    ║
+║  CAPS  ║ +0 │ +0 │ +0 │ +0 │ +6 │ -6 │ +0 │ +0 │ +0 │ +0 │ +6 │ +12║    ║
+╠══════╦═╝──┬─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴──┬─┴──╔═╧════╩════╣
+║   ^  ║ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 ║     ^     ║
+║   |  ║ -3 │ +3 │ +3 │ +3 │ +3 │ +9 │ -3 │ +3 │ +3 │ +3 │ +3 ║     |     ║
+╠══════╩╦═══╧══╦═╧═══╦╧════╧════╧════╧════╧══╦═╧════╧╦═══╧══╦═╩════╦══════╣
+║       ║      ║     ║                       ║       ║      ║      ║      ║
+║ Ctrl  ║ WinG ║ Alt ║         SPACE         ║ AltGR ║ WinD ║ WinM ║ Ctrl ║
+╚═══════╩══════╩═════╩═══════════════════════╩═══════╩══════╩══════╩══════╝
+
+     * Modélisant le doigt par une masse, reliée à la main par un ressort,
+       on calcule l'énergie nécessaire à l'extension du doigt (partant du
+       principe qu'il reviendra en position de repos si la touche suivante
+       est pressée par un doigt de l'autre main).
+     * Les caractères accentués sont par défaut fait grâce à une touche
+       directe si elle existe, sinon via une combinaison touche-morte +
+       caractère.
+
+News 3 août 2007
+
+   (de pmwiki Keyboard Layout Simulator)
+
+   Klay est en pleine évolution, une nouvelle version est sur le point de
+   sortir avec en bonus :
+     * une nouvelle présentation lisible des résultats
+     * un algo génétique intégré
+
+   Il ne reste plus qu'à y injecter les données recueillies par le projet
+   de duel d'accessibilité. Voici à quoi ressemble un rapport typique, ici
+   pour la disposition 6.3, et un corpus quelconque (un article sur
+   l'agnosticisme de wikipedia).
+
+   Et là, un exemple d'une progression basée sur l'algorithme génétique
+   (très basique pour l'instant).
+
+Archive
+
+Klay
+
+   Klay est un script écrit en python qui a pour objectif de tester les
+   différents claviers, et de les comparer. Ce script est conçu pour
+   déterminer la fatigue musculaire induite lors de la frappe d'un texte
+   donné, dans une disposition donnée.
+
+Fonctionnement
+
+   Je vais essayer d'expliciter le fonctionnement de Klay (un des scripts
+   d'évaluations). Voici la liste des critères qui pourront sûrement être
+   implémentés
+     * pourcentage de touches pressées étant
+          + dans la position zéro (QSDF - JKLM en azerty) / sur la home
+            row / sur la rangée du bas / du haut / sur la rangée des
+            chiffres
+          + à la main gauche / droite
+          + à chacun des doigts
+     * taux d’alternance des mains
+     * taux d’usage du même doigt pour deux caractères consécutifs
+
+Descriptif
+
+    1. Il digère le fichier de configuration pour pouvoir sortir pour
+       chaque caractère, la séquence des touches à presser. La liste des
+       correspondances est créée dans un fichier appelé dictkey.txt. par
+       exemple :
+
+     *
+          + 65 A - LATIN CAPITAL LETTER A : 'RTSH' + 'AC01'
+          + 166 Š - LATIN CAPITAL LETTER S WITH CARON : 'RALT' + 'RTSH' +
+            'AE05' + 'LFSH' + 'AC08'
+
+    1. Il modélise la main comme une entité à 4 doigts, relié à la paume
+       par un ressort.
+
+     *
+          + Pour chaque déplacement, l'énergie est quantifiée (la masse
+            des doigts est négligée, seul est pris en compte la raideur
+            des ressorts)
+          + La position des doigts est "réinitialisée" dès qu'il y a une
+            alternance "main-gauche" "main-droite
+
+   Si quelqu'un se sens le courage de reconstruire un clavier AZERTY au
+   format xkb... je serais heureux de pouvoir enfin quantifier les progrès
+   accomplis
+
+Sources
+
+   Le code source est disponible — télécharger
+
+   Il est fourni avec deux fichiers (les deux premiers qui me sont tombés
+   sous la main) :
+     * un corpus de test (pas terrible…)
+     * un fichier de configuration pour la version 6.2.1.2 de bépo
+
+Détails
+
+   La donnée d'entrée de la fonction évaluant réellement l'énergie de
+   frappe est la séquence des touches à presser pour obtenir un caractère,
+   un mot, un extrait complet. Pour une touche, on détermine quel doigt de
+   quel main y accède ainsi que la distance à parcourir. Le travail
+   résultant suit une loi qui ressemble à celle d'un point se déplaçant
+   dans un champ d'énergie potentielle de type : point mobile relié à un
+   point fixe par un ressort.
+
+Les paramètres
+
+   Une carte géométrique du clavier est estimée et sert de référence pour
+   le calcul de la distance de déplacement. Cette carte permet tout aussi
+   bien de représenter la distance subjective entre les touches, certaines
+   touches paraissant plus éloignées que d'autres.
+
+   Un deuxième paramètre note la force du doigt et sa facilité à se
+   mouvoir. C'est un coefficient qui permet de rendre compte du fait que
+   le petit doigt est plus faible
+
+Exemple de carte d'accessibilité
+
+   Les doigts placés sur la home row, les chiffres donnent une estimation
+   du déplacement vertical et horizontal
+
+ ┌────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────╔════════╗
+ │ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10│ +10║        ║
+ │ -11│ -5 │ +1 │ +1 │ +1 │ +1 │ +7 │ -5 │ +1 │ +1 │ +1 │ +1 │ +7 ║   <--  ║
+ ╔════╧══╗─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─╚══╦═════╣
+ ║       ║ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 │ +5 ║   | ║
+ ║  ->|  ║ -2 │ -2 │ -2 │ -2 │ +4 │ -8 │ -2 │ -2 │ -2 │ -2 │ +4 │ +10║ <-' ║
+ ╠═══════╩╗───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───╚╗    ║
+ ║        ║ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 │ +0 ║    ║
+ ║  CAPS  ║ +0 │ +0 │ +0 │ +0 │ +6 │ -6 │ +0 │ +0 │ +0 │ +0 │ +6 │ +12║    ║
+ ╠══════╦═╝──┬─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴──┬─┴──╔═╧════╩════╣
+ ║   ^  ║ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 │ -5 ║     ^     ║
+ ║   |  ║ -3 │ +3 │ +3 │ +3 │ +3 │ +9 │ -3 │ +3 │ +3 │ +3 │ +3 ║     |     ║
+ ╠══════╩╦═══╧══╦═╧═══╦╧════╧════╧════╧════╧══╦═╧════╧╦═══╧══╦═╩════╦══════╣
+ ║       ║      ║     ║                       ║       ║      ║      ║      ║
+ ║ Ctrl  ║ WinG ║ Alt ║         SPACE         ║ AltGR ║ WinD ║ WinM ║ Ctrl ║
+ ╚═══════╩══════╩═════╩═══════════════════════╩═══════╩══════╩══════╩══════╝
+
+   Etant donné la répartition suivante des touches pour les 4 doigts de la
+   main gauche et de la mains droite
+    1. index
+    2. majeur
+    3. annulaire
+    4. auriculaire
+
+   G : gauche, D : droit
+
+ ┌────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────┬────╔════════╗
+ │    │    │    │    │    │    │    │    │    │    │    │    │    ║        ║
+ │ 4G │ 4G │ 4G │ 3G │ 2G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D │ 4D ║   <--  ║
+ ╔════╧══╗─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─┴──┬─╚══╦═════╣
+ ║       ║    │    │    │    │    │    │    │    │    │    │    │    ║   | ║
+ ║  ->|  ║ 4G │ 3G │ 2G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D │ 4D │ 4D ║ <-' ║
+ ╠═══════╩╗───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───┴┬───╚╗    ║
+ ║        ║    │    │    │    │    │    │    │    │    │    │    │    ║    ║
+ ║  CAPS  ║ 4G │ 3G │ 2G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D │ 4D │ 4D ║    ║
+ ╠══════╦═╝──┬─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴─══─┴──┬─┴──┬─┴──┬─┴──╔═╧════╩════╣
+ ║   ^  ║    │    │    │    │    │    │    │    │    │    │    ║     ^     ║
+ ║   |  ║ 4G │ 3G │ 2G │ 1G │ 1G │ 1G │ 1D │ 1D │ 2D │ 3D │ 4D ║     |     ║
+ ╠══════╩╦═══╧══╦═╧═══╦╧════╧════╧════╧════╧══╦═╧════╧╦═══╧══╦═╩════╦══════╣
+ ║       ║      ║     ║                       ║       ║      ║      ║      ║
+ ║ Ctrl  ║ WinG ║ Alt ║         SPACE         ║ AltGR ║ WinD ║ WinM ║ Ctrl ║
+ ╚═══════╩══════╩═════╩═══════════════════════╩═══════╩══════╩══════╩══════╝
+
+Résultats par Nemolivier
+
+   J’ai utilisé les xkb que vous pouvez trouver dans le dépôt, répertoire
+   klay/trunk, ainsi que le corpus fournis par Yota sur le liste de
+   diffusion et qui se trouve dans le même répertoire que les fichiers
+   xkb.
+     * pour la disposition azerty
+     * pour la disposition de J. Mouette
+     * pour bépo 6.4
+     * pour bépo 6.4 avec inversions NR, JF, BÉ
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=Simulateur_de_frappe&oldid=26863 »
+   retour en haut
+   Catégorie :
+     * Bépo
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 29 novembre 2016 à 07:41.
+   Cette page a été consultée 27 779 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+KeyboardEvaluator
+
+De Disposition de clavier francophone et ergonomique bépo
+
+     * Méthodologie  >
+     * KeyboardEvaluator
+
+   KeyboardEvaluator est un outil écrit en java par Rémi Emonet contenant
+   différents systèmes d'évaluation pour les dispositions de clavier :
+     * un évaluateur basé sur le modèle de Klay (lancer l'interface
+       graphique qui expose une partie des fonctionnalités)
+     * un évaluateur basé sur les coûts des ditouches (frappe successives
+       de deux touches)
+     * d'autres outils
+
+   Il est présent sur Git à l'adresse :
+   https://git.tuxfamily.org/dvorak/keyboard_evaluator.git/
+
+Sommaire
+
+     * 1 Propositions de règles pour les coûts des di-touches
+          + 1.1 Commentaires
+          + 1.2 Les règles (en langage compréhensible par Olivier)
+     * 2 Autres questions
+          + 2.1 Touches « pré-définies »
+          + 2.2 Autoriser une (des) lettres à passer sur la rangée
+            supérieur
+
+Propositions de règles pour les coûts des di-touches
+
+   L'évaluateur basé sur les coûts des ditouches sera décrit ici, pour
+   l'instant il est décrit uniquement sur la liste de diffusion. À faire :
+     * décrire le principe ici
+     * lister les outils ($1.row(), $1.isI(), ...)
+     * illustrer la numérotation des doigts, des colonnes et des lignes
+
+   Voici un exemple de jeu de règles utilisé pour se faire une idée de ce
+   que peut donner la méthode. Toute proposition d'affinage, de correction
+   ou de nouveau jeu de règle est la bienvenue.
+FADE 0.5 0.1 0
+
+....
+// variables de configuration pour la suite des règles
+var distanceToHomeRowMalus = 1.0;
+var exteriorMalus = 0.5;
+var rowChangeMalus = 3.0;
+var sameFingerMultiplier = 1.5;
+
+// coût de base
+value = 0.5;
+
+///////////////////////////
+if (!($1.isI() || $2.isI())) { // pas de pouce en jeu
+
+   // Math.abs => valeur absolue
+
+   // malus quand on est hors de la home row (pour la première touche)
+   value += distanceToHomeRowMalus * Math.abs($1.row());
+
+   // malus si le ditouche est vers l'extérieur (mais pas avec le même doigt)
+   if ($2.fingerNumber() > $1.fingerNumber()) value += exteriorMalus;
+
+   // malus pour le changement de ligne
+   // basé aussi sur la distance entre les doigts (plus les numéros de doigts so
+nt proches plus c'est difficile)
+   var divider = 0. + Math.abs($1.fingerNumber() - $2.fingerNumber());
+   if ($1.fingerNumber() == $2.fingerNumber()) divider = 1.0;
+   value += rowChangeMalus * Math.abs($1.row() - $2.row()) / divider;
+
+
+///////////////////////////
+} else { // cas avec un pouce
+
+   // ditouches avec espace (ou altgr)
+   if ($1.isI() && $2.isV()) value += 2.5;
+   if ($2.isI() && $1.isV()) value += 2.5;
+   if ($1.isI() && $2.isIV()) value += 2;
+   if ($2.isI() && $1.isIV()) value += 2;
+   if ($1.isI() && $2.isIII()) value += 1.3;
+   if ($2.isI() && $1.isIII()) value += 1.3;
+   if ($1.isI() && $2.isII()) value += 1;
+   if ($2.isI() && $1.isII()) value += 1;
+
+///////////////////////////
+}
+
+// ditouche avec un seul doigt (on multiplie le coût calculé)
+if ($1.fingerNumber() == $2.fingerNumber()) value *= sameFingerMultiplier;
+
+
+// légende/outils (À faire : illustration)
+//$1.isLeftHand()
+//$1.isRightHand()
+//$1.row() // access row as defined before in this file
+//$1.column() // access column as defined before in this file
+//$1.isKey("1C") //e.g. return key
+//$1.fingerNumber() // access integer version for finger's roman number (I->1, I
+I->2, ...)
+//$1.isI()   // Finger I (Thumb)
+//$1.isII()  // Finger II (index)
+//$1.isIII() // Finger III ...
+//$1.isIV()  // Finger IV ...
+//$1.isV()   // Finger V (little finger)
+..
+
+Commentaires
+
+   La règle :
+// malus pour le changement de ligne
+// fondée aussi sur la distance entre les doigts (plus les numéros de doigts son
+t proches plus c'est difficile)
+
+   Doit être nuancée voici des exemples : les digrammes [FE], [FZ], [JI]
+   et [JO], dans les deux sens sont équivalents, il me semble. De même
+   (mais un peu moins faciles) [QZ], [QE], [MO] et [MI]. Un peu moins
+   facile encore : [:K] ou [KO]. Ces digrammes ne peuvent pas être notés
+   de la même façon qu'un [KU], un [;L] ou un [LP].
+
+Les règles (en langage compréhensible par Olivier)
+
+   Rien de formalisé pour l’instant. Ce sont des idées à critiquer.
+   Rappel : numérotation des doigts I (pouce), II (index), III (majeur),
+   IV (annulaire), V (auriculaire ou petit doigt).
+     * Un digramme à une main _n'est_pas_ une catastrophe : s'il est
+       facile à faire, il peut se faire vite et être plus facilement
+       intégré dans un schéma moteur qu'un digramme à deux main (pensez à
+       UI, ST, PO…) ;
+
+     * Un digramme est d'autant plus facile que le doigt d'arrivé est à un
+       rang éloigné de celui du doigt de départ (à l'exception du digramme
+       V-II en descendant ??) ;
+
+     * Digrammes à deux doigts, d'une main, sur une même ligne :
+          + Ce sont les digrammes les plus faciles sauf si le doigt de
+            départ et celui d'arrivé sont hors des colonnes de repos ;
+          + un digramme est d'autant plus facile qu'il se fait de
+            l'extérieur vers l'intérieur (minimisées par la règle 2) ;
+          + la difficulté augmente si l'un des deux doigt sort des
+            colonnes de repos (minimisées par la règle 2) ;
+
+     * Digrammes à deux doigts, d'une main, en changeant de ligne :
+          + « Sauter » une ou deux lignes est toujours plus difficile ;
+          + la difficulté augmente si l'un des deux doigt sort des
+            colonnes de repos  ;
+          + un digramme montant est d'autant plus facile qu'il se fait
+            d'un doigt court vers un doigt plus long ;
+          + un digramme descendant est d'autant plus facile qu'il se fait
+            d'un doigt long vers undoigt plus court ;
+          + les 4 règles ci-dessus sont minimisée par la règle numéro 2.
+
+     * Digrammes à un doigt, sur une seule touche : accessibilité de la
+       touche en frappe simple, pas de perte de vitesse — ou alors dans
+       les très grande vitesse, mais pas certain.
+
+     * Digrammes à un doigt, à l'exception des doubles lettres (Cf
+       ci-dessus) :
+          + Ce sont les digrammes les plus coûteux ;
+          + la difficulté augment avec la diminution d'accessibilité des
+            touches (cherchez le petit doigt) ;
+          + Ils sont plus faciles en descendant qu'en montant… à moins que
+            ce ne soit l'inverse !
+          + ils sont plus facile vers l'intérieur… à moins que ce soit
+            vers l'extérieur !
+          + Un doigt préfèrera toujours un digramme un peu plus difficile
+            que beaucoup de digrammes moins difficiles (c’est une
+            contrainte très difficile à juger, mais qui me paraît assez
+            logique : on entre dans le fameux domaine de ce que je
+            n’arrive pas à appeler autrement que la charge mentale).
+
+     * Trigrammes. On ne conserve que ceux formés de 3 touches
+       consécutives (type AUI).
+
+     * Relation entre deux mains / deux doigts
+          + Je ne sais pas comment fonctionne l’algorithme : à partir de
+            quel moment se « permet-il » encore de passer une touche d’une
+            main vers l’autre ?
+          + comment déterminer qu’un digramme courant d’une main (deux
+            doigts) est préférable à beaucoup d’autres moins courants : Cf
+            le cas du CH (mon courriel n’est pas sur les archives de la
+            liste, je le met dans une page à part) Inversion X/H
+          + À parir de quel moment est-il préférable qu’un doigt face un
+            digramme plutôt que son voisin (décharge du travail des petits
+            doigts qui ont le plus de touche à gérer).
+
+Autres questions
+
+Touches « pré-définies »
+
+   Doit-on, dès le départ, fixer certains « couples » de caractères sur
+   les touches. Par exemple :
+     * ’ et ;
+     * . et :
+     * , et ?
+     * ^ et !
+     * ù et u Dans ce cas là, il faut « simplifier » le corpus pour que
+       « ù » soit assimilé à « u ».
+     * ¨ et i
+     * fixer la place du « - » qui, sans être un caractère n’en est pas
+       moins très présent en français
+
+Autoriser une (des) lettres à passer sur la rangée supérieur
+
+   Accepter — ce qui n’était pas le cas pour la première version de
+   l’algorithme — que des caractères peu courant passent sur la rangée du
+   haut (des chiffres) tel que Gaëtan ou Olivier le testent. C’est
+   particulièrement intéressant pour pouvoir placer le « - » en bas. Je
+   trouve qu’il serait mieux de réserver ça à un caractère assez
+   spécifique du français, tel que le « ç ». Ça n’empêche pas de conserver
+   la règle du symbole majuscule en position Maj de la touche sur laquelle
+   se trouve sa minuscule.
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=KeyboardEvaluator&oldid=28932 »
+   retour en haut
+   Catégorie :
+     * Bépo
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 11 avril 2018 à 13:11.
+   Cette page a été consultée 16 010 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+Concevoir un clavier
+
+De Disposition de clavier francophone et ergonomique bépo
+
+Sommaire
+
+     * 1 Présentation
+     * 2 Orientations
+     * 3 Contenu
+     * 4 Références
+          + 4.1 bepo.fr
+          + 4.2 Externes
+
+Présentation
+
+   On n'insistera probablement jamais assez, le bépo ne nécessite pas de
+   clavier spécial, et surtout il a été optimisé pour des claviers
+   courants à 105 touches.
+
+   Par contre, la logique qui amène à adopter le bépo peut également
+   conduire à s'interroger sur les claviers physiques. La réflexion sur
+   les dispositifs de saisie fait partie des objectifs d'Ergodis.
+
+   Dès lors que l'on fabrique un clavier, il est possible d'adapter
+   l'ensemble des éléments, forme, matière, comportement. Cette partie du
+   site a pour but de donner quelques notions sur la conception des
+   claviers et quelques pistes pour en fabriquer un. Ce n'est pas un guide
+   de construction pas à pas, l'objectif est d'assister la créativité, pas
+   de la tuer.
+
+   Une remarque. Refaire une disposition logicielle ne coûte rien à part
+   un peu de temps, par contre se fabriquer un clavier peut être couteux.
+   Il est pratiquement impossible d'être compétitif par rapport aux
+   claviers que l'on trouve dans le commerce. À moins d'être bien équipé,
+   particulièrement expérimenté ou grand adepte de recyclage
+   technologique, la moindre réalisation un peu complexe coûte une
+   centaine d'euros. Par ailleurs, étant donné les coûts
+   d'industrialisation, se lancer dans un tel projet avec un objectif de
+   commercialisation est autement incertains. Certaines réalisations
+   accessibles sur des sites d'investissement communautaire montrent
+   cependant que c'est réalisable.
+
+   Si l'objectif est d'avoir un marquage bépo, il sans doutes préférable
+   de s'orienter vers des autocollants .
+
+   L'aspect ludique, voire pédagogique, de l'exercice ne doit également
+   pas être écarté. (TODO atelier pédagogique)
+
+Orientations
+
+   Est-ce que la forme des claviers qui est largement diffusée est la plus
+   adaptée à une saisie à l'ordinateur ? Cette question peut se décliner
+   de multiples façons, par exemples :
+     * qu'est-ce qu'un clavier à dômes et est-ce la solution qui donne le
+       meilleur toucher à un clavier ?
+     * est-il nécessaire d'adopter un clavier mécanique ?
+     * faut-il conserver un décalage entre les lignes ?
+     * pourquoi conserver une touche espace aussi large ?
+     * un clavier à accords ne serait-il pas plus efficace ?
+     * faut-il que les touches soient rangées en lignes et à plat ?
+     * ...
+
+   Mais créer, modifier ou adapter son clavier permet également d'en faire
+   un objet un peu plus personnel ou original. L'ergonomie n'est alors
+   plus nécessairement l'objectif recherché. Clavier «steampunk», machine
+   à écrire USB, clavier «rétro», en bois, en cuir, avec quelques bases le
+   « fait maison » (DIY) permet de sortir du banal clavier utilitaire.
+
+Contenu
+
+   Après quelques généralités sur la conception des claviers, l'idée est
+   de préciser le contour de son projet, pour ensuite passer à la
+   réalisation. Celui-ci pourra s'appuyer sur un microcontroleur qu'il
+   faudra programmer.
+
+   Les pages « outillage » et « pièces » rassemblent quelques informations
+   pratiques.
+
+   Ces éléments peuvent bien sûr être utiles si vous voulez réparer un
+   clavier (par exemple pour un Typematrix).
+
+Références
+
+   Les références sont accessibles sur la page dédiée, quelques unes sont
+   rappelées ici.
+
+bepo.fr
+
+   L'exploration du site Bépo est une première étape, en particulier :
+     * En savoir plus
+     * Ergonomie
+     * Claviers
+
+Externes
+
+   Il existe des forums dédiés aux claviers, dont les principaux sont :
+     *
+          + DeskThority.net
+          + GeekHack.org
+          + reddit.com/r/mechanicalkeyboards et reddit.com/r/keyboards/,
+            en particulier pour les liens sur la droite des pages.
+     __________________________________________________________________
+
+   Concevoir un clavier :
+     * généralités ;
+     * avant-projet ;
+     * réalisation ;
+     * microcontrôleur  ;
+     * programmation ;
+     * outillage ;
+     * pièces ;
+     * liens, réalisations.
+
+   Récupérée de «
+   https://bepo.fr/wiki/index.php?title=Atelier_presentation&oldid=24848 »
+   retour en haut
+   Catégories :
+     * Ergonomie
+     * Matériel
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 27 février 2016 à 12:54.
+   Cette page a été consultée 10 513 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page
+     * Discussion
+     * Voir le texte source
+     * Historique
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages liées
+          + Suivi des pages liées
+          + Pages spéciales
+
+
+
+De Disposition de clavier francophone et ergonomique bépo
+
+   Version du 19 avril 2018 à 15:22 par LeBret (discuter | contributions)
+   (diff) ← Version précédente | Voir la version courante (diff) | Version
+   suivante → (diff)
+   LE BÉPO
+
+   Découvrir
+     * Manuel d’utilisation
+     * Foire aux questions
+     * Glossaire
+
+   Disposition bépo
+     * Télécharger et installer
+     * Caractères supportés, liste par touche
+     * Inventaire des touches mortes
+
+   Apprendre
+     * Ergonomie du poste de travail
+     * Méthodes de saisie
+     * Logiciels de dactylographie : Klavaro, Tipp10, Ktouch
+     * Exercices, aide-mémoire
+     * Trucs et astuces
+
+   Matériel
+     * Claviers, souris
+     * Marquer son clavier
+     * Truly Ergonomic, TypeMatrix
+
+
+   LE PROJET
+
+   Communauté
+     * Historique du projet
+     * Concepteurs
+     * Utilisateurs
+     * Association Ergodis, statuts
+
+   Faire connaître
+     * Rencontres mondiales du logiciel libre
+     * Communiqué de presse, dossier
+     * Plaquette, DVZine, slogans
+     * Normalisation
+     * Liens externes
+
+   Conception
+     * Statistiques
+     * Corpus, fréquence des caractères, des digrammes
+     * accessibilité des touches, des digrammes, duels d'accessibilité
+     * Évaluation
+     * Portabilité, type de clavier
+
+
+   DÉVELOPPEMENT
+
+   Évolution de la disposition
+     * Version 1.0
+     * Version 1.1 pour la normalisation
+
+   Projet de v2
+     * Idées pour une version 2
+     * Zones de frappe
+
+   Variantes du bépo
+
+   Suivi des bugs
+     * Place des chiffres
+     * Points bloquants
+     * Collecte des erreurs de frappe
+
+   Outils du projet
+     * Créateur de pilotes
+     * Simulateur de frappe
+     * KeyboardEvaluator
+     * Comparateur de dispositions
+
+   Dépôt Git
+     * dépôt git tuxfamily
+
+   Concevoir un clavier
+
+   • Toutes les pages •
+   Récupérée de « https://bepo.fr/wiki/index.php?title=Menu&oldid=28992 »
+   retour en haut
+   Catégorie cachée :
+     * Version 1.0
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily
+   Dernière modification de cette page le 19 avril 2018 à 15:22.
+   Cette page a été consultée 87 878 fois.
+   #Disposition de clavier francophone et ergonomique bépo (fr) copyright
+   Flux Atom de Disposition de clavier francophone et ergonomique bépo
+
+     * Mailing list
+     * Forum
+     * Chat
+     * Code source
+     * S’entrainer
+
+     * Créer un compte
+     * Connexion
+
+     * Page spéciale
+
+     * rechercher…_________ Rechercher
+     * La disposition bépo
+          + Présentation
+          + Installation
+          + Apprentissage
+          + Foire aux questions
+     * L’association
+          + Ergodis
+          + Contact
+          + Communauté
+     * Le site
+          + Plan du site
+          + Toutes les pages
+          + Page au hasard
+          + Modifications récentes
+     * Boîte à outils
+          + Pages spéciales
+
+Créer un compte
+
+De Disposition de clavier francophone et ergonomique bépo
+
+Entrez vos informations ci-dessous.
+
+   Afin de protéger le wiki contre les créations automatiques de comptes,
+   nous vous demandons de bien vouloir répondre à la question qui apparaît
+   ci-dessous (plus d’informations) :
+
+   Tapez une apostrophe typographique ____________________
+   Nom d'utilisateur ____________________
+   Mot de passe ____________________
+   Confirmez le mot de passe ____________________
+   Adresse de courriel (facultative) ____________________
+   Nom réel (facultatif) ____________________
+
+   Facultatif : si vous le spécifiez, il sera utilisé pour vous attribuer
+   vos contributions.
+   Créez votre compte
+
+Disposition de clavier francophone et ergonomique bépo est écrit par des gens
+comme vous.
+
+30 029
+
+   modifications
+
+229
+
+   articles
+
+3
+
+   contributeurs récents
+   Récupérée de « https://bepo.fr/wiki/Spécial:Connexion »
+   retour en haut
+     __________________________________________________________________
+
+   logo bepo.fr logo des licences logo mediawiki.org logo tuxfamily

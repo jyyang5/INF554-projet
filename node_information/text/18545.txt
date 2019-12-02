@@ -1,0 +1,1452 @@
+    #alternate alternate
+
+   Aller au contenu principal
+
+     * Femto-st - Sciences et Technologies logo
+     * Menu
+
+     * L'institut
+          + Présentation
+          + Financeurs
+          + Documents en ligne
+          + Accès
+          + Organigrammes de l'institut
+          + Services Communs
+          + FEMTO-ST Student Chapter
+          + Qualité
+     * La recherche
+          + AS2M
+               o Présentation département AS2M
+               o Equipes de recherche AS2M
+                    # MACS
+                    # MiNaRoB
+                    # Micro et Nanorobotique
+                    # PHM
+          + DISC
+               o Présentation département DISC
+               o Equipes de recherche DISC
+          + ÉNERGIE
+               o Présentation département Energie
+               o Equipes de recherche ENERGIE
+                    # SHARPAC
+                    # THERMIE
+          + MÉCANIQUE APPLIQUÉE
+               o Présentation Mécanique Appliquée
+               o Axes et thèmes de recherche
+                    # 2PC
+                    # PMMCM
+                    # TFCS
+                    # PM2
+                    # µFab
+                    # AEH
+                    # D-SMART
+                    # M2SC
+                    # MEMS
+                    # T2DC
+                    # V3MQI
+          + MN2S
+               o Présentation département MN2S
+               o Groupes de recherche MN2S
+                    # BioMicroDevices
+                    # MINAMAS
+                    # MOEMS
+                    # Nanosciences
+                    # Phononique et Microscopies
+          + OPTIQUE
+               o Présentation département Optique
+               o Equipes de recherche
+                    # Nano Optique
+                    # Optoélectronique
+                    # Optique Non Linéaire
+          + TEMPS-FREQUENCE
+               o Présentation département TF
+               o Equipes de recherche TF
+                    # AcEPi
+                    # CoSyMA
+                    # OHMS
+          + Axes transverses
+               o Biom'@x
+                    # Compétences
+                    # Projets Biom'@x
+               o RÉCITS
+                    # Compétences
+                    # Projets Récits
+     * Plateformes technologiques
+          + Plateforme MIMENTO
+               o Catalogue des équipements
+          + Les autres plateformes
+     * Projets
+          + Programmes d'Investissements d'Avenir
+          + Projets européens
+          + Projets Spécialisation Intelligente
+     * Partenariats
+          + Partenaires institutionnels et académiques
+               o Collegium international SMYLE
+               o LNE-LTFB
+               o Fédération de recherche FCLAB
+          + Partenaires industriels
+               o FEMTO Engineering
+               o Relations Industrielles
+               o Laboratoires communs
+               o Spin-offs
+     * Emploi
+
+   Femto-st - Sciences et Technologies logo
+   Femto-st - Sciences et Technologies
+
+Un laboratoire de recherche d'envergure européenne
+
+     * L'institut
+          + Présentation
+          + Financeurs
+          + Documents en ligne
+          + Accès
+          + Organigrammes de l'institut
+          + Services Communs
+          + FEMTO-ST Student Chapter
+          + Qualité
+     * La recherche
+          + AS2M
+               o Présentation département AS2M
+               o Equipes de recherche AS2M
+          + DISC
+               o Présentation département DISC
+               o Equipes de recherche DISC
+          + ÉNERGIE
+               o Présentation département Energie
+               o Equipes de recherche ENERGIE
+          + MÉCANIQUE APPLIQUÉE
+               o Présentation Mécanique Appliquée
+               o Axes et thèmes de recherche
+          + MN2S
+               o Présentation département MN2S
+               o Groupes de recherche MN2S
+          + OPTIQUE
+               o Présentation département Optique
+               o Equipes de recherche
+          + TEMPS-FREQUENCE
+               o Présentation département TF
+               o Equipes de recherche TF
+          + Axes transverses
+               o Biom'@x
+               o RÉCITS
+     * Plateformes technologiques
+          + Plateforme MIMENTO
+               o Catalogue des équipements
+          + Les autres plateformes
+     * Projets
+          + Programmes d'Investissements d'Avenir
+          + Projets européens
+          + Projets Spécialisation Intelligente
+     * Partenariats
+          + Partenaires institutionnels et académiques
+               o Collegium international SMYLE
+               o LNE-LTFB
+               o Fédération de recherche FCLAB
+          + Partenaires industriels
+               o FEMTO Engineering
+               o Relations Industrielles
+               o Laboratoires communs
+               o Spin-offs
+     * Emploi
+
+   L'institut
+   Actualité de FEMTO-ST
+
+Vous êtes ici
+
+     * Accueil
+     * Sécuriser et certifier le temps
+
+   Tweet
+   Partager
+
+Sécuriser et certifier le temps
+
+   Inauguration mardi 9 juillet d’un laboratoire commun entre FEMTO-ST et
+   l’entreprise Gorgy Timing pour développer des systèmes de diffusion
+   sécurisée et certifiée du temps et des fréquences au niveau des réseaux
+   sans fil et informatiques.
+
+   Avec l’accélération des échanges, la dissémination du temps est devenue
+   un pré-requis aux interactions sociétales actuelles. En effet, elle
+   cadence aujourd’hui les circulations ferroviaires et aériennes,
+   garantit la datation des transactions financières, permet la
+   synchronisation des réseaux distribués d’énergie ou des réseaux de
+   communication haut débit. Un gain en exactitude, traçabilité et
+   sécurité est impératif pour la référence de temps.
+
+   Ainsi les capacités de sécurisation informatique des serveurs de temps
+   constituent une exigence fondamentale pour faire face aux
+   vulnérabilités de brouillage, falsification ou leurrage des données de
+   datation. C’est l’objectif de la collaboration entre la société Gorgy
+   Timing de l’institut FEMTO-ST dans le cadre de ce laboratoire commun
+   FAST LAB (Certified And Secure Time and frequency transfer common
+   Laboratory).
+
+   En effet, Gorgy Timing est une PME familiale innovante, dédiée au
+   transfert de temps. Opérateur du temps, la société est leader en
+   Europe, développant les outils pour la diffusion de l’heure UTC
+   sécurisée, certifiée, précise et traçable en tout point du réseau
+   jusque chez le client avec une précision de la milliseconde à la
+   nanoseconde. Dans le cadre de ces innovations la société a ainsi
+   souhaité développer ses capacités de recherche et d’innovation du temps
+   sécurisé avec l’Institut FEMTO-ST qui lui offre une synergie de
+   recherche allant du Temps-Fréquence (génération de sources ultra
+   stables) à la sécurité informatique (cybersécurité).
+
+   Cette collaboration, d’une durée de 36 mois, a été rendue possible
+   grâce au soutien financier de l’Agence Nationale de la Recherche (ANR).
+     * Best paper award à ICRE 2017
+       Nicolas Delcey, doctorant du département Énergie, a été récompensé
+       lors de l'ICRE 2017 qui, cette année, s'est déroulée à Londres .
+       Lire la suite
+     * [FOCUS LAB' #2] Peut-on transformer une souris verte en escargot ?
+       Découvrez la réponse en images...
+       Lire la suite
+     * Un problème ouvert résolu en informatique : une réduction efficace
+       de la taille de systèmes
+       Gérard Cécé du département DISC/FEMTO-ST a présenté lors de la
+       conférence LICS'17, les fondations d'une série d'algorithmes
+       efficaces du calcul de la plus grande relation de simulation d'un
+       système.
+       Lire la suite
+     * Trouver de nouveaux débouchés aux matériaux biosourcés
+       Dans le cadre d’un projet européen H2020, FEMTO-ST, en lien avec 16
+       autres partenaires issus de 6 pays européens, ambitionne d'élargir
+       les débouchés des matériaux biosourcés en développant des
+       démonstrateurs pour les secteurs technologiques de pointe tels que
+       notamment le transport terrestre et aérien.
+       Le lancement du projet,en présence de l'ensemble des partenaires, a
+       eu lieu mardi 12 septembre dans le locaux de l'institut.
+       Lire la suite
+     * Une nano-antenne pour imager et caractériser des sources de photons
+       uniques infrarouges
+       Bien que produits par milliards, les quantum-dots restent des
+       sources lumineuses nanométriques difficiles à détecter et
+       caractériser individuellement, en particulier quand elles émettent
+       dans l’infrarouge. Des chercheurs de FEMTO-ST ont développé pour
+       cela une nano-antenne intégrée sur fibre optique. Ces travaux ont
+       été publiés dans la revue Nano Letters.
+       Lire la suite
+     * Tout savoir sur l’auto-organisation de molécules sur silicium
+       L’équipe Nanosciences de FEMTO-ST et une équipe de l’IEMN publient
+       une revue exhaustive sur l’auto-organisation sur surface de
+       silicium.
+       Lire la suite
+     * AFULudine récompensée au concours I-LAB 2017
+       AFULudine (start-up issue entre autres des recherches de FEMTO-ST)
+       est lauréate du concours I-LAB 2017, dans la catégorie « Chimie &
+       environnement ».
+       Lire la suite
+     * [FOCUS LAB'] Peut-on fabriquer un violon avec des céréales ?
+       Découvrez la réponse en images...
+       Lire la suite
+     * Best Presentation Award à ICEMS'17
+       Frédéric Dubas, équipe SHARPAC/FEMTO-ST, s'est vu décerner le prix
+       "Best Presentation Award" lors de la 19ème International Conference
+       on Electrical Machines and Systems qui s'est tenue les 7 et 8 juin
+       à San Francisco
+       Lire la suite
+     * FEMTO-ST remporte deux prix au salon Economia
+       Youssef Tejda et Aliyasin El Ayouch remportent deux prix lors du
+       salon Economia pour leurs travaux sur les métamatériaux
+       acoustiques.
+       Lire la suite
+
+Pages
+
+     * « premier
+     * ‹ précédent
+     * …
+     * 3
+     * 4
+     * 5
+     * 6
+     * 7
+     * 8
+     * 9
+     * 10
+     * 11
+     * …
+     * suivant ›
+     * dernier »
+
+   ...
+
+     * Accueil
+     * Agenda
+     * Annuaire
+     * Publications
+     * Mon espace
+     * Contact
+
+     * facebook
+     * Youtube
+     * twitter
+
+Formulaire de recherche
+
+   Rechercher _______________
+   (Rechercher) Rechercher
+
+     * Français
+     * English
+
+     * CNRS
+     *
+          + UFC
+          + ENSMM
+          + UTBM
+       UBFC
+     * AFAQ ISO 9001
+
+     * Mentions légales
+     * Plan du site
+
+   femto-st
+
+
+    15B avenue des Montboucons
+    25030 Besançon cedex France
+    (33 3) 63 08 24 00
+
+   © 2019 Femto-st - Sciences et Technologies All rights reserved.
+    #alternate alternate
+
+   Skip to main content
+
+     * Femto-st - Sciences &amp; Technologies logo
+     * Menu
+
+     * Institute
+          + Introduction
+          + Funders
+          + Online documents
+          + Access
+          + Organization Chart
+          + Common Services
+          + FEMTO-ST Student Chapter
+          + Quality Certification
+     * Research departments
+          + Automatic control (AS2M)
+               o AS2M Presentation
+               o AS2M Research Teams
+                    # MiNaRoB
+                    # PHM Team
+                    # MACS
+                    # Micro & Nanorobotics
+          + Computer Science (DISC)
+               o DISC Presentation
+               o DISC Research teams
+                    # AND
+                    # DEODIS
+                    # OMNI
+                    # VESONTIO
+          + Energy
+               o ENERGY Department
+               o ENERGY Research teams
+                    # SHARPAC Team
+                    # THERMIE TEAM
+                    # Transdisciplinary activities
+          + Applied Mechanics
+               o Applied Mechanics presentation
+               o Applied Mechanics research groups
+                    # 2PC Team
+                    # PMMCM Team
+                    # TFCS Team
+                    # PM2 Team
+                    # µFab
+                    # D-SMART Team
+                    # M2SC Team
+                    # MEMS Team
+                    # T2DC Team
+                    # AEH Team
+          + Micro Nano Sciences & Systems (MN2S)
+               o MN2S Presentation
+               o MN2S research axes
+                    # BioMicroDevices
+                    # MINAMAS
+                    # MOEMS
+                    # Nanosciences
+                    # Phononics & Microscopy
+          + Optics
+               o Optics presentation
+               o Research teams
+                    # Nano-Optics (NO)
+                    # Optoelectronics
+                    # Non-linear Optics
+          + Time & Frequency
+               o Presentation TF
+               o TF Department Research Teams
+                    # ACEPI
+                    # CoSyMA
+                    # OHMS
+          + Cross-functionnal projects
+               o Biom'@x
+                    # Biom'@x abilities
+                    # Biom'@x projects
+               o RÉCITS
+                    # Abilities
+                    # Récits' projects
+     * Platforms
+          + MIMENTO Presentation
+               o Facilities brochure
+          + Other platforms
+     * Projects
+          + Programme of Investments for the Future
+          + European Projects
+          + Smart Specialisation Projects
+     * Partnerships
+          + Institutional and academic partners
+               o FC-LAB
+               o LNE
+               o International Collegium SMYLE
+          + Industrial partners
+               o FEMTO Engineering
+               o Industrial Relations
+               o Corporate Spin-offs
+               o Common Laboratories
+     * Open positions
+
+   Femto-st - Sciences &amp; Technologies logo
+   Femto-st - Sciences & Technologies
+
+A European-scale research laboratory
+
+     * Institute
+          + Introduction
+          + Funders
+          + Online documents
+          + Access
+          + Organization Chart
+          + Common Services
+          + FEMTO-ST Student Chapter
+          + Quality Certification
+     * Research departments
+          + Automatic control (AS2M)
+               o AS2M Presentation
+               o AS2M Research Teams
+          + Computer Science (DISC)
+               o DISC Presentation
+               o DISC Research teams
+          + Energy
+               o ENERGY Department
+               o ENERGY Research teams
+          + Applied Mechanics
+               o Applied Mechanics presentation
+               o Applied Mechanics research groups
+          + Micro Nano Sciences & Systems (MN2S)
+               o MN2S Presentation
+               o MN2S research axes
+          + Optics
+               o Optics presentation
+               o Research teams
+          + Time & Frequency
+               o Presentation TF
+               o TF Department Research Teams
+          + Cross-functionnal projects
+               o Biom'@x
+               o RÉCITS
+     * Platforms
+          + MIMENTO Presentation
+               o Facilities brochure
+          + Other platforms
+     * Projects
+          + Programme of Investments for the Future
+          + European Projects
+          + Smart Specialisation Projects
+     * Partnerships
+          + Institutional and academic partners
+               o FC-LAB
+               o LNE
+               o International Collegium SMYLE
+          + Industrial partners
+               o FEMTO Engineering
+               o Industrial Relations
+               o Corporate Spin-offs
+               o Common Laboratories
+     * Open positions
+
+   The institute
+   FEMTO's news
+
+You are here
+
+     * Home
+     * Secure and certify time
+
+   Tweet
+   Partager
+
+Secure and certify time
+
+   Inauguration on Tuesday, July 9 of a joint laboratory between FEMTO-ST
+   and Gorgy Timing to develop secure and certified time and frequency
+   broadcasting systems for wireless and computer networks.
+
+   With the acceleration of exchanges, the dissemination of time has
+   become a prerequisite for current societal interactions. Indeed, it
+   currently regulates rail and air traffic, guarantees the dating of
+   financial transactions, and allows the synchronization of distributed
+   energy networks or high-speed communication networks. A gain in
+   accuracy, traceability and security is imperative for the time
+   reference.
+
+   Thus, the computer security capabilities of time servers are a
+   fundamental requirement to deal with vulnerabilities such as jamming,
+   falsification or misleading dating data. This is the objective of the
+   collaboration between Gorgy Timing of the FEMTO-ST Institute within the
+   framework of this joint laboratory FAST LAB (Certified And Secure Time
+   and frequency transfer common Laboratory).
+
+   Indeed, Gorgy Timing is an innovative family business, dedicated to
+   time transfer. As a time operator, the company is a leader in Europe,
+   developing tools for the diffusion of secure, certified, accurate and
+   traceable UTC time from any point in the network to the customer with
+   an accuracy of one millisecond to one nanosecond. As part of these
+   innovations, the company wanted to develop its research and innovation
+   capacities in secure time with the FEMTO-ST Institute, which offers it
+   a research synergy ranging from time-frequency (generation of
+   ultra-stable sources) to computer security (cybersecurity).
+
+   This 36-month collaboration was made possible thanks to the financial
+   support of the French Research Agency.
+
+Pages
+
+     * « first
+     * ‹ previous
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+     * 6
+
+   ...
+
+     * Home
+     * Events
+     * Directory
+     * Publications
+     * My area
+     * Contact
+
+     * facebook
+     * Youtube
+     * twitter
+
+Search form
+
+   Search _______________
+   (Search) Search
+
+     * Français
+     * English
+
+     * CNRS
+     *
+          + UFC
+          + ENSMM
+          + UTBM
+       UBFC
+     * AFAQ ISO 9001
+
+   © 2019 Femto-st - Sciences &amp; Technologies All rights reserved.
+    #alternate alternate
+
+   Aller au contenu principal
+
+     * Femto-st - Sciences et Technologies logo
+     * Menu
+
+     * L'institut
+          + Présentation
+          + Financeurs
+          + Documents en ligne
+          + Accès
+          + Organigrammes de l'institut
+          + Services Communs
+          + FEMTO-ST Student Chapter
+          + Qualité
+     * La recherche
+          + AS2M
+               o Présentation département AS2M
+               o Equipes de recherche AS2M
+                    # MACS
+                    # MiNaRoB
+                    # Micro et Nanorobotique
+                    # PHM
+          + DISC
+               o Présentation département DISC
+               o Equipes de recherche DISC
+          + ÉNERGIE
+               o Présentation département Energie
+               o Equipes de recherche ENERGIE
+                    # SHARPAC
+                    # THERMIE
+          + MÉCANIQUE APPLIQUÉE
+               o Présentation Mécanique Appliquée
+               o Axes et thèmes de recherche
+                    # 2PC
+                    # PMMCM
+                    # TFCS
+                    # PM2
+                    # µFab
+                    # AEH
+                    # D-SMART
+                    # M2SC
+                    # MEMS
+                    # T2DC
+                    # V3MQI
+          + MN2S
+               o Présentation département MN2S
+               o Groupes de recherche MN2S
+                    # BioMicroDevices
+                    # MINAMAS
+                    # MOEMS
+                    # Nanosciences
+                    # Phononique et Microscopies
+          + OPTIQUE
+               o Présentation département Optique
+               o Equipes de recherche
+                    # Nano Optique
+                    # Optoélectronique
+                    # Optique Non Linéaire
+          + TEMPS-FREQUENCE
+               o Présentation département TF
+               o Equipes de recherche TF
+                    # AcEPi
+                    # CoSyMA
+                    # OHMS
+          + Axes transverses
+               o Biom'@x
+                    # Compétences
+                    # Projets Biom'@x
+               o RÉCITS
+                    # Compétences
+                    # Projets Récits
+     * Plateformes technologiques
+          + Plateforme MIMENTO
+               o Catalogue des équipements
+          + Les autres plateformes
+     * Projets
+          + Programmes d'Investissements d'Avenir
+          + Projets européens
+          + Projets Spécialisation Intelligente
+     * Partenariats
+          + Partenaires institutionnels et académiques
+               o Collegium international SMYLE
+               o LNE-LTFB
+               o Fédération de recherche FCLAB
+          + Partenaires industriels
+               o FEMTO Engineering
+               o Relations Industrielles
+               o Laboratoires communs
+               o Spin-offs
+     * Emploi
+
+   Femto-st - Sciences et Technologies logo
+   Femto-st - Sciences et Technologies
+
+Un laboratoire de recherche d'envergure européenne
+
+     * L'institut
+          + Présentation
+          + Financeurs
+          + Documents en ligne
+          + Accès
+          + Organigrammes de l'institut
+          + Services Communs
+          + FEMTO-ST Student Chapter
+          + Qualité
+     * La recherche
+          + AS2M
+               o Présentation département AS2M
+               o Equipes de recherche AS2M
+          + DISC
+               o Présentation département DISC
+               o Equipes de recherche DISC
+          + ÉNERGIE
+               o Présentation département Energie
+               o Equipes de recherche ENERGIE
+          + MÉCANIQUE APPLIQUÉE
+               o Présentation Mécanique Appliquée
+               o Axes et thèmes de recherche
+          + MN2S
+               o Présentation département MN2S
+               o Groupes de recherche MN2S
+          + OPTIQUE
+               o Présentation département Optique
+               o Equipes de recherche
+          + TEMPS-FREQUENCE
+               o Présentation département TF
+               o Equipes de recherche TF
+          + Axes transverses
+               o Biom'@x
+               o RÉCITS
+     * Plateformes technologiques
+          + Plateforme MIMENTO
+               o Catalogue des équipements
+          + Les autres plateformes
+     * Projets
+          + Programmes d'Investissements d'Avenir
+          + Projets européens
+          + Projets Spécialisation Intelligente
+     * Partenariats
+          + Partenaires institutionnels et académiques
+               o Collegium international SMYLE
+               o LNE-LTFB
+               o Fédération de recherche FCLAB
+          + Partenaires industriels
+               o FEMTO Engineering
+               o Relations Industrielles
+               o Laboratoires communs
+               o Spin-offs
+     * Emploi
+
+   L'institut
+   Actualité de FEMTO-ST
+
+Vous êtes ici
+
+     * Accueil
+     * Sécuriser et certifier le temps
+
+   Tweet
+   Partager
+
+Sécuriser et certifier le temps
+
+   Inauguration mardi 9 juillet d’un laboratoire commun entre FEMTO-ST et
+   l’entreprise Gorgy Timing pour développer des systèmes de diffusion
+   sécurisée et certifiée du temps et des fréquences au niveau des réseaux
+   sans fil et informatiques.
+
+   Avec l’accélération des échanges, la dissémination du temps est devenue
+   un pré-requis aux interactions sociétales actuelles. En effet, elle
+   cadence aujourd’hui les circulations ferroviaires et aériennes,
+   garantit la datation des transactions financières, permet la
+   synchronisation des réseaux distribués d’énergie ou des réseaux de
+   communication haut débit. Un gain en exactitude, traçabilité et
+   sécurité est impératif pour la référence de temps.
+
+   Ainsi les capacités de sécurisation informatique des serveurs de temps
+   constituent une exigence fondamentale pour faire face aux
+   vulnérabilités de brouillage, falsification ou leurrage des données de
+   datation. C’est l’objectif de la collaboration entre la société Gorgy
+   Timing de l’institut FEMTO-ST dans le cadre de ce laboratoire commun
+   FAST LAB (Certified And Secure Time and frequency transfer common
+   Laboratory).
+
+   En effet, Gorgy Timing est une PME familiale innovante, dédiée au
+   transfert de temps. Opérateur du temps, la société est leader en
+   Europe, développant les outils pour la diffusion de l’heure UTC
+   sécurisée, certifiée, précise et traçable en tout point du réseau
+   jusque chez le client avec une précision de la milliseconde à la
+   nanoseconde. Dans le cadre de ces innovations la société a ainsi
+   souhaité développer ses capacités de recherche et d’innovation du temps
+   sécurisé avec l’Institut FEMTO-ST qui lui offre une synergie de
+   recherche allant du Temps-Fréquence (génération de sources ultra
+   stables) à la sécurité informatique (cybersécurité).
+
+   Cette collaboration, d’une durée de 36 mois, a été rendue possible
+   grâce au soutien financier de l’Agence Nationale de la Recherche (ANR).
+     * WOMBAT 2017
+       Après une première édition à Sydney en 2015,le second Workshop on
+       Optomechanics and Brillouin Scattering: Fundamentals, Applications
+       and Technologies aura lieu à Besançon.
+       Lire la suite
+     * FEMTO-ST présent à la 4eme édition des 24h du temps
+       Des chercheurs et doctorants de FEMTO-ST participent aux 24h du
+       temps. Une manifestation destinée à promouvoir le savoir-faire
+       technique et scientifique régional dans le domaine du temps et de
+       l’horlogerie qui se déroulera les 3 et 4 juin place Granvelle à
+       Besançon
+       Lire la suite
+     * Yann Le Gorrec lauréat du prix du service 2017 de l'IFAC France
+       Le prix du service 2017 de l'"International Federation of Automatic
+       Control" sera remis en juillet prochain à Yann Le Gorrec,
+       enseignant chercheur au sein de l'institut FEMTO-ST
+       Lire la suite
+     * Un capteur de rayons X miniature pour une médecine de haute
+       précision
+       Détecter les rayons X à une très petite échelle spatiale ouvre la
+       voie à des images médicales et des thérapies de haute précision.
+       C'est ce qu'a réalisé une équipe d'opticiens de FEMTO-ST en
+       intégrant un détecteur à l'extrémité d'une fibre optique. Ces
+       travaux viennent d'être publiés dans la revue Optics Letters et
+       font les "highlights" de l'OSA (Optical Society)
+       Lire la suite
+     * Nesrine BELKADI, Rania MEZZI et Bogdan PENKOVSKI finalistes de Ma
+       thèse en 180 secondes
+       Nesrine BELKADI, Rania MEZZI et Bogdan PENKOVSKI, Doctorants à
+       FEMTO-ST, font partie des 10 finalistes de « Ma thèse en 180
+       secondes ».
+       Venez les encourager le mardi 4 avril à 18 heures à l'amphithéâtre
+       Chosson AgroSup Dijon !
+       Lire la suite
+     * Prix EEA pour Marine Jouin
+       Marine Jouin est lauréate du prix de thèse du Club EEA - section
+       automatique, session 2017.
+       Lire la suite
+     * Concours photo 2016 de l'Optical Society of America, 3ème place
+       pour Rémi Meyer
+       La photo proposée Rémi Meyer (doctorant Optique) lors du concours
+       photo organisé par l'Optical Society of America a été classée 3ème.
+       Lire la suite
+     * Un cerveau optique ultra rapide
+       L'association de tous nouveaux concepts de calculs basés sur les
+       réseaux de neurones artificiels, et de composants photoniques, a
+       permis la mise au point d'un processeur optique capable de résoudre
+       des problèmes complexes de manière ultra-rapide. Le résultat de ces
+       travaux développés par une équipe d’opticiens de FEMTO-ST sont
+       publiés dans la revue « Physical Review X »
+       Lire la suite
+     * De nouveaux matériaux contre les nuisances sonores
+       les sources de pollution sonore sont multiples dans notre quotidien
+       et ont des répercussions aussi bien sur la santé que sur
+       l'économie. À l'institut FEMTO-ST, chercheurs et ingénieurs se
+       penchent sur cette problématique qui nous concerne tous afin de
+       développer des métamatériaux capables d'absorber le son. Pour
+       tester leur invention, direction la salle sourde du laboratoire
+       située dans les locaux de l'IUT…
+       Lire la suite
+     * Nouvelle méthode informatique dans le traitement des tumeurs
+       rénales chez l'enfant
+       Dans le cadre d’un projet INTERREG, l’institut FEMTO-ST en lien
+       avec ses différents partenaires franco-suisses va développer une
+       méthode informatique capable de construire des représentations en
+       trois dimensions de reins tumoraux chez l’enfant à partir d’images
+       scanner et sans intervention humaine.
+       Lire la suite
+
+Pages
+
+     * « premier
+     * ‹ précédent
+     * …
+     * 4
+     * 5
+     * 6
+     * 7
+     * 8
+     * 9
+     * 10
+     * 11
+     * 12
+     * …
+     * suivant ›
+     * dernier »
+
+   ...
+
+     * Accueil
+     * Agenda
+     * Annuaire
+     * Publications
+     * Mon espace
+     * Contact
+
+     * facebook
+     * Youtube
+     * twitter
+
+Formulaire de recherche
+
+   Rechercher _______________
+   (Rechercher) Rechercher
+
+     * Français
+     * English
+
+     * CNRS
+     *
+          + UFC
+          + ENSMM
+          + UTBM
+       UBFC
+     * AFAQ ISO 9001
+
+     * Mentions légales
+     * Plan du site
+
+   femto-st
+
+
+    15B avenue des Montboucons
+    25030 Besançon cedex France
+    (33 3) 63 08 24 00
+
+   © 2019 Femto-st - Sciences et Technologies All rights reserved.
+    #alternate alternate
+
+   Skip to main content
+
+     * Femto-st - Sciences &amp; Technologies logo
+     * Menu
+
+     * Institute
+          + Introduction
+          + Funders
+          + Online documents
+          + Access
+          + Organization Chart
+          + Common Services
+          + FEMTO-ST Student Chapter
+          + Quality Certification
+     * Research departments
+          + Automatic control (AS2M)
+               o AS2M Presentation
+               o AS2M Research Teams
+                    # MiNaRoB
+                    # PHM Team
+                    # MACS
+                    # Micro & Nanorobotics
+          + Computer Science (DISC)
+               o DISC Presentation
+               o DISC Research teams
+                    # AND
+                    # DEODIS
+                    # OMNI
+                    # VESONTIO
+          + Energy
+               o ENERGY Department
+               o ENERGY Research teams
+                    # SHARPAC Team
+                    # THERMIE TEAM
+                    # Transdisciplinary activities
+          + Applied Mechanics
+               o Applied Mechanics presentation
+               o Applied Mechanics research groups
+                    # 2PC Team
+                    # PMMCM Team
+                    # TFCS Team
+                    # PM2 Team
+                    # µFab
+                    # D-SMART Team
+                    # M2SC Team
+                    # MEMS Team
+                    # T2DC Team
+                    # AEH Team
+          + Micro Nano Sciences & Systems (MN2S)
+               o MN2S Presentation
+               o MN2S research axes
+                    # BioMicroDevices
+                    # MINAMAS
+                    # MOEMS
+                    # Nanosciences
+                    # Phononics & Microscopy
+          + Optics
+               o Optics presentation
+               o Research teams
+                    # Nano-Optics (NO)
+                    # Optoelectronics
+                    # Non-linear Optics
+          + Time & Frequency
+               o Presentation TF
+               o TF Department Research Teams
+                    # ACEPI
+                    # CoSyMA
+                    # OHMS
+          + Cross-functionnal projects
+               o Biom'@x
+                    # Biom'@x abilities
+                    # Biom'@x projects
+               o RÉCITS
+                    # Abilities
+                    # Récits' projects
+     * Platforms
+          + MIMENTO Presentation
+               o Facilities brochure
+          + Other platforms
+     * Projects
+          + Programme of Investments for the Future
+          + European Projects
+          + Smart Specialisation Projects
+     * Partnerships
+          + Institutional and academic partners
+               o FC-LAB
+               o LNE
+               o International Collegium SMYLE
+          + Industrial partners
+               o FEMTO Engineering
+               o Industrial Relations
+               o Corporate Spin-offs
+               o Common Laboratories
+     * Open positions
+
+   Femto-st - Sciences &amp; Technologies logo
+   Femto-st - Sciences & Technologies
+
+A European-scale research laboratory
+
+     * Institute
+          + Introduction
+          + Funders
+          + Online documents
+          + Access
+          + Organization Chart
+          + Common Services
+          + FEMTO-ST Student Chapter
+          + Quality Certification
+     * Research departments
+          + Automatic control (AS2M)
+               o AS2M Presentation
+               o AS2M Research Teams
+          + Computer Science (DISC)
+               o DISC Presentation
+               o DISC Research teams
+          + Energy
+               o ENERGY Department
+               o ENERGY Research teams
+          + Applied Mechanics
+               o Applied Mechanics presentation
+               o Applied Mechanics research groups
+          + Micro Nano Sciences & Systems (MN2S)
+               o MN2S Presentation
+               o MN2S research axes
+          + Optics
+               o Optics presentation
+               o Research teams
+          + Time & Frequency
+               o Presentation TF
+               o TF Department Research Teams
+          + Cross-functionnal projects
+               o Biom'@x
+               o RÉCITS
+     * Platforms
+          + MIMENTO Presentation
+               o Facilities brochure
+          + Other platforms
+     * Projects
+          + Programme of Investments for the Future
+          + European Projects
+          + Smart Specialisation Projects
+     * Partnerships
+          + Institutional and academic partners
+               o FC-LAB
+               o LNE
+               o International Collegium SMYLE
+          + Industrial partners
+               o FEMTO Engineering
+               o Industrial Relations
+               o Corporate Spin-offs
+               o Common Laboratories
+     * Open positions
+
+   The institute
+   FEMTO's news
+
+You are here
+
+     * Home
+     * Secure and certify time
+
+   Tweet
+   Partager
+
+Secure and certify time
+
+   Inauguration on Tuesday, July 9 of a joint laboratory between FEMTO-ST
+   and Gorgy Timing to develop secure and certified time and frequency
+   broadcasting systems for wireless and computer networks.
+
+   With the acceleration of exchanges, the dissemination of time has
+   become a prerequisite for current societal interactions. Indeed, it
+   currently regulates rail and air traffic, guarantees the dating of
+   financial transactions, and allows the synchronization of distributed
+   energy networks or high-speed communication networks. A gain in
+   accuracy, traceability and security is imperative for the time
+   reference.
+
+   Thus, the computer security capabilities of time servers are a
+   fundamental requirement to deal with vulnerabilities such as jamming,
+   falsification or misleading dating data. This is the objective of the
+   collaboration between Gorgy Timing of the FEMTO-ST Institute within the
+   framework of this joint laboratory FAST LAB (Certified And Secure Time
+   and frequency transfer common Laboratory).
+
+   Indeed, Gorgy Timing is an innovative family business, dedicated to
+   time transfer. As a time operator, the company is a leader in Europe,
+   developing tools for the diffusion of secure, certified, accurate and
+   traceable UTC time from any point in the network to the customer with
+   an accuracy of one millisecond to one nanosecond. As part of these
+   innovations, the company wanted to develop its research and innovation
+   capacities in secure time with the FEMTO-ST Institute, which offers it
+   a research synergy ranging from time-frequency (generation of
+   ultra-stable sources) to computer security (cybersecurity).
+
+   This 36-month collaboration was made possible thanks to the financial
+   support of the French Research Agency.
+
+Pages
+
+     * « first
+     * ‹ previous
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+     * 6
+
+   ...
+
+     * Home
+     * Events
+     * Directory
+     * Publications
+     * My area
+     * Contact
+
+     * facebook
+     * Youtube
+     * twitter
+
+Search form
+
+   Search _______________
+   (Search) Search
+
+     * Français
+     * English
+
+     * CNRS
+     *
+          + UFC
+          + ENSMM
+          + UTBM
+       UBFC
+     * AFAQ ISO 9001
+
+   © 2019 Femto-st - Sciences &amp; Technologies All rights reserved.
+    #alternate alternate
+
+   Aller au contenu principal
+
+     * Femto-st - Sciences et Technologies logo
+     * Menu
+
+     * L'institut
+          + Présentation
+          + Financeurs
+          + Documents en ligne
+          + Accès
+          + Organigrammes de l'institut
+          + Services Communs
+          + FEMTO-ST Student Chapter
+          + Qualité
+     * La recherche
+          + AS2M
+               o Présentation département AS2M
+               o Equipes de recherche AS2M
+                    # MACS
+                    # MiNaRoB
+                    # Micro et Nanorobotique
+                    # PHM
+          + DISC
+               o Présentation département DISC
+               o Equipes de recherche DISC
+          + ÉNERGIE
+               o Présentation département Energie
+               o Equipes de recherche ENERGIE
+                    # SHARPAC
+                    # THERMIE
+          + MÉCANIQUE APPLIQUÉE
+               o Présentation Mécanique Appliquée
+               o Axes et thèmes de recherche
+                    # 2PC
+                    # PMMCM
+                    # TFCS
+                    # PM2
+                    # µFab
+                    # AEH
+                    # D-SMART
+                    # M2SC
+                    # MEMS
+                    # T2DC
+                    # V3MQI
+          + MN2S
+               o Présentation département MN2S
+               o Groupes de recherche MN2S
+                    # BioMicroDevices
+                    # MINAMAS
+                    # MOEMS
+                    # Nanosciences
+                    # Phononique et Microscopies
+          + OPTIQUE
+               o Présentation département Optique
+               o Equipes de recherche
+                    # Nano Optique
+                    # Optoélectronique
+                    # Optique Non Linéaire
+          + TEMPS-FREQUENCE
+               o Présentation département TF
+               o Equipes de recherche TF
+                    # AcEPi
+                    # CoSyMA
+                    # OHMS
+          + Axes transverses
+               o Biom'@x
+                    # Compétences
+                    # Projets Biom'@x
+               o RÉCITS
+                    # Compétences
+                    # Projets Récits
+     * Plateformes technologiques
+          + Plateforme MIMENTO
+               o Catalogue des équipements
+          + Les autres plateformes
+     * Projets
+          + Programmes d'Investissements d'Avenir
+          + Projets européens
+          + Projets Spécialisation Intelligente
+     * Partenariats
+          + Partenaires institutionnels et académiques
+               o Collegium international SMYLE
+               o LNE-LTFB
+               o Fédération de recherche FCLAB
+          + Partenaires industriels
+               o FEMTO Engineering
+               o Relations Industrielles
+               o Laboratoires communs
+               o Spin-offs
+     * Emploi
+
+   Femto-st - Sciences et Technologies logo
+   Femto-st - Sciences et Technologies
+
+Un laboratoire de recherche d'envergure européenne
+
+     * L'institut
+          + Présentation
+          + Financeurs
+          + Documents en ligne
+          + Accès
+          + Organigrammes de l'institut
+          + Services Communs
+          + FEMTO-ST Student Chapter
+          + Qualité
+     * La recherche
+          + AS2M
+               o Présentation département AS2M
+               o Equipes de recherche AS2M
+          + DISC
+               o Présentation département DISC
+               o Equipes de recherche DISC
+          + ÉNERGIE
+               o Présentation département Energie
+               o Equipes de recherche ENERGIE
+          + MÉCANIQUE APPLIQUÉE
+               o Présentation Mécanique Appliquée
+               o Axes et thèmes de recherche
+          + MN2S
+               o Présentation département MN2S
+               o Groupes de recherche MN2S
+          + OPTIQUE
+               o Présentation département Optique
+               o Equipes de recherche
+          + TEMPS-FREQUENCE
+               o Présentation département TF
+               o Equipes de recherche TF
+          + Axes transverses
+               o Biom'@x
+               o RÉCITS
+     * Plateformes technologiques
+          + Plateforme MIMENTO
+               o Catalogue des équipements
+          + Les autres plateformes
+     * Projets
+          + Programmes d'Investissements d'Avenir
+          + Projets européens
+          + Projets Spécialisation Intelligente
+     * Partenariats
+          + Partenaires institutionnels et académiques
+               o Collegium international SMYLE
+               o LNE-LTFB
+               o Fédération de recherche FCLAB
+          + Partenaires industriels
+               o FEMTO Engineering
+               o Relations Industrielles
+               o Laboratoires communs
+               o Spin-offs
+     * Emploi
+
+   L'institut
+   Actualité de FEMTO-ST
+
+Vous êtes ici
+
+     * Accueil
+     * Sécuriser et certifier le temps
+
+   Tweet
+   Partager
+
+Sécuriser et certifier le temps
+
+   Inauguration mardi 9 juillet d’un laboratoire commun entre FEMTO-ST et
+   l’entreprise Gorgy Timing pour développer des systèmes de diffusion
+   sécurisée et certifiée du temps et des fréquences au niveau des réseaux
+   sans fil et informatiques.
+
+   Avec l’accélération des échanges, la dissémination du temps est devenue
+   un pré-requis aux interactions sociétales actuelles. En effet, elle
+   cadence aujourd’hui les circulations ferroviaires et aériennes,
+   garantit la datation des transactions financières, permet la
+   synchronisation des réseaux distribués d’énergie ou des réseaux de
+   communication haut débit. Un gain en exactitude, traçabilité et
+   sécurité est impératif pour la référence de temps.
+
+   Ainsi les capacités de sécurisation informatique des serveurs de temps
+   constituent une exigence fondamentale pour faire face aux
+   vulnérabilités de brouillage, falsification ou leurrage des données de
+   datation. C’est l’objectif de la collaboration entre la société Gorgy
+   Timing de l’institut FEMTO-ST dans le cadre de ce laboratoire commun
+   FAST LAB (Certified And Secure Time and frequency transfer common
+   Laboratory).
+
+   En effet, Gorgy Timing est une PME familiale innovante, dédiée au
+   transfert de temps. Opérateur du temps, la société est leader en
+   Europe, développant les outils pour la diffusion de l’heure UTC
+   sécurisée, certifiée, précise et traçable en tout point du réseau
+   jusque chez le client avec une précision de la milliseconde à la
+   nanoseconde. Dans le cadre de ces innovations la société a ainsi
+   souhaité développer ses capacités de recherche et d’innovation du temps
+   sécurisé avec l’Institut FEMTO-ST qui lui offre une synergie de
+   recherche allant du Temps-Fréquence (génération de sources ultra
+   stables) à la sécurité informatique (cybersécurité).
+
+   Cette collaboration, d’une durée de 36 mois, a été rendue possible
+   grâce au soutien financier de l’Agence Nationale de la Recherche (ANR).
+     * Dilater le temps pour mieux prédire les évènements extrêmes
+       Dilater les échelles de temps pour explorer les évènements extrêmes
+       de la nature semblait impossible… Cette prouesse est désormais
+       envisageable grâce à une équipe de l’Institut FEMTO-ST qui a
+       utilisé une technique innovante de détection permettant de capturer
+       en temps réel de tels évènements. Cette technique, appliquée pour
+       le moment à la photonique, pourrait aider à la prédiction de vagues
+       scélérates à la surface des océans ou d’autres évènements naturels
+       extrêmes. Ces travaux, menés en collaboration avec des chercheurs
+       finlandais, irlandais et canadiens, sont publiés dans la
+       prestigieuse revue « Nature Communications » du 19 décembre 2016.
+       Lire la suite
+     * Participez au IEEE VTS Motor Vehicles Challenge 2017
+       Une compétition internationale basée sur de la simulation et
+       co-organisée par FEMTO-ST. L'objectif : optimiser la gestion de
+       différentes sources d'énergie d'un véhicule hybride pour minimiser
+       son coût de fonctionnement.
+       Lire la suite
+     * La start-up AFULudine lauréat du grand prix national « Entreprises
+       & Environnement » 2016
+       Issue des recherches menées au sein des instituts FEMTO-ST et
+       UTINAM, la start-up AFULudine vient de recevoir le Grand prix
+       national du ministère de l’Ecologie et de l’Ademe pour son
+       lubrifiant hydroalcoolique écologique qui propose des solutions
+       innovantes adaptées à toutes les activités industrielles.
+       Lire la suite
+     * Double prix pour nos doctorants lors des JJCAB 2016
+       Kevin Billon et Romain Viala récompensés à Marseille lors des JJCAB
+       2016.
+       Lire la suite
+     * FEMTO SHARE TECH DAY
+       FEMTO-ST et son centre de développement technologique FEMTO
+       ENGINEERING organisent jeudi 24 novembre prochain une journée de
+       présentations et d’échanges, à destination des industriels, sur les
+       innovations en sciences et technologies pour la santé
+       Lire la suite
+     * 1er symposium national « Excellence in Smart systems »
+       Le 23 novembre prochain les entreprises et le monde de la R&D ont
+       l’opportunité unique de rencontrer, à Besançon, les acteurs clefs
+       de l’excellence technologique française dédiée aux systèmes
+       intelligents, intégrés et/ou communicants, au cours de ce premier
+       symposium qui regroupe 8 laboratoires d’Excellence (fédérant 48
+       centres de recherche publique les plus en pointe)
+       Lire la suite
+     * Un Best Paper Award pour Marine Jouin
+       Marine Jouin vient de recevoir le Best Paper Award lors de la
+       conférence IFAC AMEST 2016.
+       Lire la suite
+     * « Second Prize Paper Award » de l’IEEE IAS pour Daming Zhou
+       Un doctorant de l’équipe SHARPAC de FEMTO-ST a obtenu une
+       distinction lors de la conférence internationale IEEE « Industry
+       Application Society » qui s’est déroulée à Portland aux Etats Unis
+       pour ses travaux visant à améliorer la détermination de l’état de
+       charge de batteries lithium-polymères.
+       Lire la suite
+     * 13e édition de la conférence internationale Formal Aspects of
+       Component Software (FACS)
+       Le département DISC de FEMTO-ST organise, du 19 au 21 octobre à
+       Besançon, la conférence FACS 2016 qui vise les applications de
+       méthodes formelles dans tous les aspects des composants et services
+       logiciels, avec une attention particulière aux systèmes physiques
+       connectés et à l'Internet des objets.
+       Lire la suite
+     * FEMTO Engineering partenaire du Carnot Télécom & Société numérique
+       En juillet dernier le Ministère de l’Enseignement Supérieur et de
+       la Recherche a renouvelé le label Carnot à l’Institut Télécom &
+       Société Numérique (TSN) qui avait déposé une candidature en
+       association avec le centre de développements technologiques de
+       FEMTO-ST, à savoir FEMTO Engineering.
+       Lire la suite
+
+Pages
+
+     * « premier
+     * ‹ précédent
+     * …
+     * 5
+     * 6
+     * 7
+     * 8
+     * 9
+     * 10
+     * 11
+     * 12
+     * 13
+     * …
+     * suivant ›
+     * dernier »
+
+   ...
+
+     * Accueil
+     * Agenda
+     * Annuaire
+     * Publications
+     * Mon espace
+     * Contact
+
+     * facebook
+     * Youtube
+     * twitter
+
+Formulaire de recherche
+
+   Rechercher _______________
+   (Rechercher) Rechercher
+
+     * Français
+     * English
+
+     * CNRS
+     *
+          + UFC
+          + ENSMM
+          + UTBM
+       UBFC
+     * AFAQ ISO 9001
+
+     * Mentions légales
+     * Plan du site
+
+   femto-st
+
+
+    15B avenue des Montboucons
+    25030 Besançon cedex France
+    (33 3) 63 08 24 00
+
+   © 2019 Femto-st - Sciences et Technologies All rights reserved.

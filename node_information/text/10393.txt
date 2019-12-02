@@ -1,0 +1,1152 @@
+    #Green IT » Flux Green IT » Flux des commentaires Green IT » Active
+   Response optimise le nombre de serveurs virtuels en fonction du SLA
+   Flux des commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : EditeurCatégorie : Serveur
+
+Active Response optimise le nombre de serveurs virtuels en fonction du SLA
+
+   Selon le Uptime Institute, la facture électrique d’un serveur à 2.500$
+   peut atteindre 2.020$ par an. Les entreprises recherchent donc par tous
+   les moyens à réduire la consommation électrique de leurs datacenters.
+
+   Si la virtualisation répond en partie à cette problématique, c’est
+   surtout la capacité à optimiser la charge des machines physiques
+   hébergeant les serveurs virtuels qui entre en jeu lorsque l’on souhaite
+   économiser l’énergie. Toutes les solutions de virtualisation ne sont
+   pas capables d’optimiser ce paramètre.
+
+   La startup Cassatt s’est donc créé dans ce but. Basé à San Jose dans la
+   Silicon Valley, Cassatt propose un logiciel – Active Response – qui
+   aident les administrateurs du datacenter à optimiser la charge des
+   machines physiques en facilitant le déplacement dynamique des serveurs
+   virtuels.
+
+   La nouvelle version du logiciel (5.1) permet de définir des règles afin
+   d’optimiser dynamiquement le ratio SLA (Service Level Agreement) /
+   énergie utilisée. Typiquement, Active Response 5.1 peut arrêter
+   automatiquement certains serveurs virtuels – la nuit et le week-end par
+   exemple – s’ils ne sont pas nécessaires pour répondre au niveau de
+   service du SLA. Et les rallumer le lundi matin lorsque le trafic
+   nécessite plus de serveurs. La programmation peut aussi s’effectuer à
+   partir de seuils (demand-based policies) : charge de la machine, etc.
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 26 mai 2008
+
+   Tags : Active Response, Cassatt, économie d'énergie, virtualisation
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT » Scannez,
+   évaluez, choisissez Flux des commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : Logiciels
+
+Scannez, évaluez, choisissez
+
+   Ecocompare.com est un service en ligne qui permet d’évaluer l’empreinte
+   environnementale d’un produit. Le site souhaite ainsi accompagner les
+   consommateurs vers des achats plus responsables et plus respectueux de
+   l’environnement.
+
+   Jusqu’à présent, le fiches produit n’étaient disponibles qu’en ligne.
+   Mais depuis ce matin, le service est accessible depuis un iPhone. Il
+   suffit de scanner un code barre d’un produit en magasin pour obtenir en
+   temps réel la fiche produit diffusée sur le site web.
+
+   Les produits sont étudiés à chaque étape de leur cycle de vie, de la
+   fabrication, à l’utilisation jusqu’à la fin de vie. Chacun se voit
+   attribuer une note, de 0 (forte empreinte environnementale) à 5
+   (empreinte réduite par rapport aux produits concurrents). « Les
+   consommateurs disposeront ainsi de toutes les informations nécessaires
+   au moment de l’achat pour orienter leur choix vers les produits les
+   plus respectueux de l’environnement », explique l’équipe d’Ecocompare.
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 26 mars 2010
+
+   Tags : Ecocompare, iPhone
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT » Connected
+   Grid : Cisco parie sur le Smart Grid Flux des commentaires alternate
+   alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : Energie
+
+Connected Grid : Cisco parie sur le Smart Grid
+
+   Le smart grid, ou réseau électrique intelligent, va de pair avec
+   d’importants flux de données entre les distributeurs d’électricité et
+   les consommateurs. Le réseau de communication qui supportera ces flux
+   constitue un enjeu majeur pour les différentes acteurs de l’industrie
+   informatique et des télécoms.
+
+   C’est dans ce contexte que Cisco vient d’ajouter deux nouveaux produits
+   à sa gamme Connected Grid : le routeur Connected Grid 2010 (CGR 2010)
+   et le commutateur Connected Grid 2520 (CGS 2520).
+
+   Fabriqués pour répondre aux exigences des sous-stations électriques,
+   ces deux éléments actifs de réseau permettent d’accéder à distance aux
+   éléments techniques (compteurs électriques, etc.). Ils satisfont ou
+   dépassent les exigences des normes IEEE 1613 et IEC61850-3 s’appliquant
+   aux sous-stations : capacité de supporter toute une fourchette de
+   températures ainsi que de permettre une protection étendue contre les
+   surtensions et les interférences électromagnétiques (EMI).
+
+   La combinaison des CGR 2010 et CGS 2520 de Cisco compose une
+   infrastructure de communications sécurisée, permettant de collecter et
+   d’analyser les informations en temps quasiment réel, à partir de
+   différents dispositifs électroniques intelligents dans la sous-station.
+   Les opérateurs peuvent ainsi gérer et assurer plus facilement la
+   continuité de la distribution de l’énergie et du matériel de
+   distribution mais aussi augmenter plus facilement la production
+   d’énergie en identifiant, isolant, diagnostiquant et en réparant (au
+   moment opportun) rapidement la production d’électricité.
+
+   Ces deux éléments actifs de réseau aideront aussi les producteurs et
+   les distributeurs d’électricité à intégrer plus les sources d’énergie
+   renouvelable dans le réseau.
+
+   Avec ce type d’annonce, on assiste à la fusion progressive entre le
+   réseau de distribution physique (électricité, eau, gaz, pétrole, etc.)
+   existant et un réseau IP senser le rendre intelligent. Acteur
+   incontournable des réseaux informatiques, Cisco ne pouvait pas laisser
+   passer une telle occasion. Reste à savoir si les acteurs du monde
+   informatique seront assez intelligents pour ne pas retomber, comme ils
+   savent si bien le faire, dans une guerre de protocoles et de formats
+   propriétaires.
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 30 juin 2010
+
+   Tags : Cisco, Connected Grid, smart grid
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT »
+   Mediaverde 2009 : prolongation jusqu’au 15 octobre Flux des
+   commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : Acteurs
+
+Mediaverde 2009 : prolongation jusqu’au 15 octobre
+
+   L’Incubateur Multimédia Belle de Mai a pour objectif de permettre à des
+   entreprises innovantes et acteurs professionnels de la filière du
+   numérique, de présenter leurs nouveaux produits ou services en vue de
+   favoriser l’éclosion de partenariats et de contribuer à développer leur
+   notoriété.
+
+   Il a lancé un nouvel appel à projets : “Mediaverde 2009 : les TIC et
+   leurs usages au service du développement durable”. Mediaverde 2009
+   accompagnera et financera deux nouveaux porteurs de projets innovants
+   qui répondent aux enjeux économiques, sociaux et durables dans le
+   domaine des TIC et de leurs usages dans un objectif de valorisation de
+   la recherche et de l’innovation.
+
+   Le dépôt des dossiers est prolongé jusqu’au 15 octobre ! Profitez-en.
+
+   Renseignements et dépôt de dossier : www.mediaverde.fr
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 2 octobre 2009
+
+   Tags : Belle de Mai, financement, incubateur, mediaverde
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+Thèmes
+
+     * Logiciels : tous nos articles portant de près ou de loin sur la
+       conception responsable des services numériques, logiciels et autres
+       sites web. Nous y abordons aussi les problématiques liés aux
+       données, le lien entre obsolescence programmée et obésiciel, etc.
+
+     * Matériel : tous nos articles portant de près ou de loin sur le
+       matériel.
+
+     * Energie : On s’intéresse autant à la consommation électrique des
+       équipements et des centres de données qu’aux impacts
+       environnementaux associés à la fabrication de l’électricité en
+       France, sans oublier l’énergie grise.
+
+     * Bonnes Pratiques : C’est la rubrique positive qui met en avant
+       toutes les solutions identifiées.
+
+     * Acteurs : On s’intéresse ici aux acteurs du numérique responsable,
+       qu’il s’agisse de prestataires, éditeurs, fabricants, des pouvoirs
+       publics, etc.
+
+   [Sobriete_numerique_les_cles_pour_agir-bordage-small.jpg]
+
+   Recyclage de votre équipement électrique ? E-dechet.com
+
+   écoconception web : les 115 bonnes pratiques, Eyrolles, 3ème édition
+
+Agenda
+
+     * 2 octobre 2019 Assises nationales des déchets 2019
+     * 8 octobre 2019 Green IT : état de l’art
+     * 27 octobre 2019 Green 2019
+     * 5 novembre 2019 éco-conception de service numérique – web et
+       logiciel
+     * 16 novembre 2019 Semaine européenne de la réduction des déchets
+       2019
+     * 29 novembre 2019 Green Friday
+     * 30 janvier 2020 ChangeNOW : appel à candidatures
+
+   Tous les événements
+
+Thèmes
+
+   Thèmes[Sélectionner une catégorieie]
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT » Active
+   Response optimise le nombre de serveurs virtuels en fonction du SLA
+   Flux des commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : EditeurCatégorie : Serveur
+
+Active Response optimise le nombre de serveurs virtuels en fonction du SLA
+
+   Selon le Uptime Institute, la facture électrique d’un serveur à 2.500$
+   peut atteindre 2.020$ par an. Les entreprises recherchent donc par tous
+   les moyens à réduire la consommation électrique de leurs datacenters.
+
+   Si la virtualisation répond en partie à cette problématique, c’est
+   surtout la capacité à optimiser la charge des machines physiques
+   hébergeant les serveurs virtuels qui entre en jeu lorsque l’on souhaite
+   économiser l’énergie. Toutes les solutions de virtualisation ne sont
+   pas capables d’optimiser ce paramètre.
+
+   La startup Cassatt s’est donc créé dans ce but. Basé à San Jose dans la
+   Silicon Valley, Cassatt propose un logiciel – Active Response – qui
+   aident les administrateurs du datacenter à optimiser la charge des
+   machines physiques en facilitant le déplacement dynamique des serveurs
+   virtuels.
+
+   La nouvelle version du logiciel (5.1) permet de définir des règles afin
+   d’optimiser dynamiquement le ratio SLA (Service Level Agreement) /
+   énergie utilisée. Typiquement, Active Response 5.1 peut arrêter
+   automatiquement certains serveurs virtuels – la nuit et le week-end par
+   exemple – s’ils ne sont pas nécessaires pour répondre au niveau de
+   service du SLA. Et les rallumer le lundi matin lorsque le trafic
+   nécessite plus de serveurs. La programmation peut aussi s’effectuer à
+   partir de seuils (demand-based policies) : charge de la machine, etc.
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 26 mai 2008
+
+   Tags : Active Response, Cassatt, économie d'énergie, virtualisation
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT » Scannez,
+   évaluez, choisissez Flux des commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : Logiciels
+
+Scannez, évaluez, choisissez
+
+   Ecocompare.com est un service en ligne qui permet d’évaluer l’empreinte
+   environnementale d’un produit. Le site souhaite ainsi accompagner les
+   consommateurs vers des achats plus responsables et plus respectueux de
+   l’environnement.
+
+   Jusqu’à présent, le fiches produit n’étaient disponibles qu’en ligne.
+   Mais depuis ce matin, le service est accessible depuis un iPhone. Il
+   suffit de scanner un code barre d’un produit en magasin pour obtenir en
+   temps réel la fiche produit diffusée sur le site web.
+
+   Les produits sont étudiés à chaque étape de leur cycle de vie, de la
+   fabrication, à l’utilisation jusqu’à la fin de vie. Chacun se voit
+   attribuer une note, de 0 (forte empreinte environnementale) à 5
+   (empreinte réduite par rapport aux produits concurrents). « Les
+   consommateurs disposeront ainsi de toutes les informations nécessaires
+   au moment de l’achat pour orienter leur choix vers les produits les
+   plus respectueux de l’environnement », explique l’équipe d’Ecocompare.
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 26 mars 2010
+
+   Tags : Ecocompare, iPhone
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT » Connected
+   Grid : Cisco parie sur le Smart Grid Flux des commentaires alternate
+   alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : Energie
+
+Connected Grid : Cisco parie sur le Smart Grid
+
+   Le smart grid, ou réseau électrique intelligent, va de pair avec
+   d’importants flux de données entre les distributeurs d’électricité et
+   les consommateurs. Le réseau de communication qui supportera ces flux
+   constitue un enjeu majeur pour les différentes acteurs de l’industrie
+   informatique et des télécoms.
+
+   C’est dans ce contexte que Cisco vient d’ajouter deux nouveaux produits
+   à sa gamme Connected Grid : le routeur Connected Grid 2010 (CGR 2010)
+   et le commutateur Connected Grid 2520 (CGS 2520).
+
+   Fabriqués pour répondre aux exigences des sous-stations électriques,
+   ces deux éléments actifs de réseau permettent d’accéder à distance aux
+   éléments techniques (compteurs électriques, etc.). Ils satisfont ou
+   dépassent les exigences des normes IEEE 1613 et IEC61850-3 s’appliquant
+   aux sous-stations : capacité de supporter toute une fourchette de
+   températures ainsi que de permettre une protection étendue contre les
+   surtensions et les interférences électromagnétiques (EMI).
+
+   La combinaison des CGR 2010 et CGS 2520 de Cisco compose une
+   infrastructure de communications sécurisée, permettant de collecter et
+   d’analyser les informations en temps quasiment réel, à partir de
+   différents dispositifs électroniques intelligents dans la sous-station.
+   Les opérateurs peuvent ainsi gérer et assurer plus facilement la
+   continuité de la distribution de l’énergie et du matériel de
+   distribution mais aussi augmenter plus facilement la production
+   d’énergie en identifiant, isolant, diagnostiquant et en réparant (au
+   moment opportun) rapidement la production d’électricité.
+
+   Ces deux éléments actifs de réseau aideront aussi les producteurs et
+   les distributeurs d’électricité à intégrer plus les sources d’énergie
+   renouvelable dans le réseau.
+
+   Avec ce type d’annonce, on assiste à la fusion progressive entre le
+   réseau de distribution physique (électricité, eau, gaz, pétrole, etc.)
+   existant et un réseau IP senser le rendre intelligent. Acteur
+   incontournable des réseaux informatiques, Cisco ne pouvait pas laisser
+   passer une telle occasion. Reste à savoir si les acteurs du monde
+   informatique seront assez intelligents pour ne pas retomber, comme ils
+   savent si bien le faire, dans une guerre de protocoles et de formats
+   propriétaires.
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 30 juin 2010
+
+   Tags : Cisco, Connected Grid, smart grid
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires Green IT »
+   Mediaverde 2009 : prolongation jusqu’au 15 octobre Flux des
+   commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+   Catégorie : Acteurs
+
+Mediaverde 2009 : prolongation jusqu’au 15 octobre
+
+   L’Incubateur Multimédia Belle de Mai a pour objectif de permettre à des
+   entreprises innovantes et acteurs professionnels de la filière du
+   numérique, de présenter leurs nouveaux produits ou services en vue de
+   favoriser l’éclosion de partenariats et de contribuer à développer leur
+   notoriété.
+
+   Il a lancé un nouvel appel à projets : “Mediaverde 2009 : les TIC et
+   leurs usages au service du développement durable”. Mediaverde 2009
+   accompagnera et financera deux nouveaux porteurs de projets innovants
+   qui répondent aux enjeux économiques, sociaux et durables dans le
+   domaine des TIC et de leurs usages dans un objectif de valorisation de
+   la recherche et de l’innovation.
+
+   Le dépôt des dossiers est prolongé jusqu’au 15 octobre ! Profitez-en.
+
+   Renseignements et dépôt de dossier : www.mediaverde.fr
+
+Articles similaires
+
+   Photo de Frédéric Bordage
+
+Frédéric Bordage
+
+   Expert Green IT et numérique responsable, j'ai créé la communauté
+   GreenIT.fr en 2004. Je conseille des organisations privées et publiques
+   et anime, GreenIT.fr, le Club Green IT et le Collectif Conception
+   Numérique Responsable (@CNumR).
+
+   Site web - Twitter - Facebook - Linked In
+
+   FacebookTwitterGoogle+
+
+   Frédéric Bordage le 2 octobre 2009
+
+   Tags : Belle de Mai, financement, incubateur, mediaverde
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert
+    #Green IT » Flux Green IT » Flux des commentaires alternate alternate
+
+   Afficher/masquer le menu
+
+   GreenIT
+
+     * Thèmes
+          + Logiciels
+          + Matériel
+          + Energie
+          + Bonnes Pratiques
+          + Acteurs
+     * Agenda
+     * Formations
+     * A propos
+
+   (BUTTON) Rechercher
+     * Twitter
+     * LinkedIn
+     * Facebook
+
+   Recherche : ____________________ (BUTTON) Rechercher
+
+Thèmes
+
+     * Logiciels : tous nos articles portant de près ou de loin sur la
+       conception responsable des services numériques, logiciels et autres
+       sites web. Nous y abordons aussi les problématiques liés aux
+       données, le lien entre obsolescence programmée et obésiciel, etc.
+
+     * Matériel : tous nos articles portant de près ou de loin sur le
+       matériel.
+
+     * Energie : On s’intéresse autant à la consommation électrique des
+       équipements et des centres de données qu’aux impacts
+       environnementaux associés à la fabrication de l’électricité en
+       France, sans oublier l’énergie grise.
+
+     * Bonnes Pratiques : C’est la rubrique positive qui met en avant
+       toutes les solutions identifiées.
+
+     * Acteurs : On s’intéresse ici aux acteurs du numérique responsable,
+       qu’il s’agisse de prestataires, éditeurs, fabricants, des pouvoirs
+       publics, etc.
+
+   [Sobriete_numerique_les_cles_pour_agir-bordage-small.jpg]
+
+   Recyclage de votre équipement électrique ? E-dechet.com
+
+   écoconception web : les 115 bonnes pratiques, Eyrolles, 3ème édition
+
+Agenda
+
+     * 2 octobre 2019 Assises nationales des déchets 2019
+     * 8 octobre 2019 Green IT : état de l’art
+     * 27 octobre 2019 Green 2019
+     * 5 novembre 2019 éco-conception de service numérique – web et
+       logiciel
+     * 16 novembre 2019 Semaine européenne de la réduction des déchets
+       2019
+     * 29 novembre 2019 Green Friday
+     * 30 janvier 2020 ChangeNOW : appel à candidatures
+
+   Tous les événements
+
+Thèmes
+
+   Thèmes[Sélectionner une catégorieie]
+
+   Articles récents
+     * Windows 7 bon pour la casse
+     * ﻿Pour une low-tech numérique
+     * Le numérique est une ressource critique
+     * Sobriété numérique : les clés pour agir
+     * Des serveurs plus faciles à reconditionner
+
+   Tags
+     * smart grid
+     * PUE
+     * Microsoft
+     * économie d'énergie
+     * Google
+     * étude
+     * Co2
+     * impression
+     * vidéo
+     * smart meter
+     * obsolescence programmée
+     * consommation électrique
+     * écolabel
+     * IBM
+     * téléphone
+     * Apple
+     * éco-conception logicielle
+     * recyclage
+     * DEEE
+     * data center
+
+   GreenIT.fr
+     * RSS
+     * A propos
+     * Contact
+     * Equipe
+     * Communiqués
+     * Formations
+     * Revue de presse
+     * Définition
+
+   © GreenIT.fr - 2004/2019 - Contact - Crédits : Breek - dispense de
+   déclaration CNIL
+
+   Site électriquement vert

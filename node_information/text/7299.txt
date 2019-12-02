@@ -1,0 +1,1787 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+
+   You have JavaScript disabled
+   For the best experience, please turn JavaScript on. Here's how
+
+   Menu
+     * Watch
+          + TED Talks
+            Browse the library of TED talks and speakers
+          + TED Recommends
+            Get TED Talks picked just for you
+          + Playlists
+            100+ collections of TED Talks, for curious minds
+          + TED Series
+            Go deeper into fascinating topics with original video series
+            from TED.
+          + TED-Ed videos
+            Watch, share and create lessons with TED-Ed
+          + TEDx Talks
+            Talks from independently organized local events
+     * Discover
+          + Topics
+            Explore TED offerings by topic
+          + Podcasts
+            TED's original podcast initiatives
+          + TED Books
+            Short books to feed your craving for ideas
+          + Ideas Blog
+            Our daily coverage of the world of ideas
+          + Newsletter
+            Inspiration delivered straight to your inbox
+     * Attend
+          + Conferences
+            Take part in our events: TED, TEDGlobal and more
+          + TEDx events
+            Find and attend local, independently organized events
+          + TED on screen
+            Experience TED from home or in theaters
+     * Participate
+          + Nominate
+            Recommend speakers, TED Prize recipients, Fellows and more
+          + Organize a local TEDx event
+            Rules and resources to help you plan a local TEDx event
+          + Translate
+            Bring TED to the non-English speaking world
+          + TED Fellows
+            Join or support innovators from around the globe
+     * About
+          + Our organization
+            Our mission, history, team, and more
+          + Conferences
+            TED Conferences, past, present, and future
+          + Programs & Initiatives
+            Details about TED's world-changing initiatives
+          + Partner with TED
+            Learn how you can partner with us
+          + TED Blog
+            Updates from TED and highlights from our global community
+
+   Log in
+   Search: ____________________
+
+   Kai-Fu Lee
+   3,205,573 views • 14:49
+   Details About the talk
+
+   Sto per parlarvi di come l'IA e il genere umano possano coesistere, ma
+   prima dobbiamo ripensare ai nostri valori umani. Lasciatemi dunque fare
+   una confessione sugli errori commessi sui miei valori.
+
+   Erano le 11 in punto del 16 Dicembre 1991. Stavo per diventare padre
+   per la prima volta. Mia moglie, Shen-Ling, stava nel suo letto
+   d'ospedale nel mezzo di un difficile travaglio che durava da 12 ore.
+   Sedevo accanto al suo letto ma guardavo ansiosamente l'orologio, e
+   sapevo qualcosa che lei non sapeva. Sapevo che se in un'ora nostra
+   figlia non fosse nata, l'avrei lasciata lì e sarei tornato al lavoro
+   per fare una presentazione sull'IA al mio capo, CEO di Apple. Per
+   fortuna, mia figlia nacque alle 11.30.
+
+   (Risate)
+
+   (Applausi)
+
+   risparmiandomi dal fare l'impensabile, e di quel giorno, porto il
+   rammarico di aver preferito la mia etica sul lavoro all'amore per la
+   mia famiglia.
+
+   (Applausi)
+
+   La mia discussione sull'IA andò comunque alla grande.
+
+   (Risate)
+
+   Apple amò il mio lavoro e decise di annunciarlo al TED1992, 26 anni fa
+   su questo stesso palco. Pensavo di aver fatto una delle più grandi
+   scoperte sull'IA e lo pensò anche il "Wall Street Journal" il giorno
+   dopo.
+
+   Ma se guardiamo la storia delle scoperte, fu chiaro che non scoprii
+   l'India, o l'America. Forse scoprii una piccola isola al largo del
+   Portogallo. Ma l'epoca delle scoperte sull'IA continuò e molti
+   scienziati ci misero l'anima. Circa 10 anni fa, un'enorme scoperta
+   sull'IA fu fatta da 3 scienziati nordamericani, ed è nota come "deep
+   learning".
+
+   Deep learning è una tecnologia che prende in pasto un'enorme quantità
+   di dati appartenenti a un singolo campo e impara a predire e decidere
+   con accuratezza sovrumana. Per esempio, se mostriamo a una rete di deep
+   learning un enorme numero di foto di cibi, può riconoscerli e dire se è
+   un hot dog, o se non lo è.
+
+   (Applausi)
+
+   O se mostriamo molte foto, video e dati presi da sensori da situazioni
+   di guida in autostrada può davvero guidare una macchina bene come un
+   essere umano in autostrada. E se a questa rete di deep learning
+   mostrassimo tutti i discorsi tenuti dal presidente Trump? Allora questo
+   Presidente Trump artificialmente intelligente, o meglio la rete —
+
+   (Risate)
+
+   potrebbe —
+
+   (Applausi)
+
+   Vi piacciono i doppi ossimori, eh?
+
+   (Risate)
+
+   (Applausi)
+
+   Questa rete, se le venisse richiesto di fare un discorso sull'IA,
+   potrebbe dire —
+
+   (Registrazione) Donald Trump: è una gran cosa costruire un mondo
+   migliore con l'intelligenza artificiale.
+
+   Kai-Fu Lee: Oppure in un'altra lingua?
+
+   DT: (Parla in Cinese)
+
+   (Risate)
+
+   KFL: Non sapevate parlasse cinese, vero?
+
+   Così il deep learning è diventata la base nell'era della scoperta
+   dell'IA, che è stata guidata dagli Stati Uniti. Ma ora ci troviamo
+   nell'era dell'implementazione, dove ciò che importa è l'esecuzione, la
+   qualità del prodotto, la velocità, i dati. Ed ecco dove entra in gioco
+   la Cina. Gli imprenditori cinesi, che finanzio come venture capitalist,
+   sono lavoratori incredibili, con un'etica del lavoro incredibile. Il
+   mio esempio in sala parto non è nulla rispetto a quanto si lavori duro
+   in Cina. Per esempio, una startup provò a rivendicare il suo equilibrio
+   vita-lavoro: "Lavora per noi perché facciamo solo 996." E cosa
+   significa? Significa che si lavora dalle 9 di mattina alle 9 di sera,
+   per 6 giorni la settimana. Questo a differenza di altre startup che
+   applicano il modello 997.
+
+   E la qualità del prodotto cinese è migliorata in modo consistente nello
+   scorso decennio, grazie a un ambiente ferocemente competitivo. Nella
+   Silicon Valley, gli imprenditori competono da gentiluomini, un po' come
+   nelle guerre antiche dove ogni schieramento aveva il turno per sparare
+   all'altro.
+
+   (Risate)
+
+   Ma nell'ambiente cinese, è davvero un combattimento tra gladiatori fino
+   alla morte. In un contesto così brutale, gli imprenditori crescono
+   velocemente, imparano come rendere i loro prodotti migliori, alla
+   velocità della luce, e imparano a perfezionare i loro business model
+   fino a renderli perfetti. Il risultato è che grandi prodotti cinesi
+   come WeChat e Weibo sono probabilmente migliori degli equivalenti
+   prodotti americani come Facebook e Twitter.
+
+   E il mercato cinese abbraccia questo cambiamento, il cambiamento
+   accelerato e lo spostamento del paradigma. Per esempio, se andate in
+   Cina, vedrete che quasi tutto funziona senza contante e carte di
+   credito, perché quello di cui tutti parliamo, pagare col telefono, è
+   diventata una realtà in Cina. Nell'ultimo anno su internet mobile sono
+   state fatte 18.8 trilioni di dollari di transazioni, e tutto questo
+   grazie alla tecnologia molto sicura con cui è realizzata. È persino più
+   grande del PIL cinese. Vi chiederete: come può essere più grande del
+   PIL? Perché include tutte le transazioni: canali dell'ingrosso, del
+   dettaglio, offline, online, andare a un centro commerciale o in un
+   mercato contadino come questo. La tecnologia è usata da 700 milioni di
+   persone per pagarsi tra loro, non solo a negozianti, quindi è
+   peer-to-peer, ed è quasi libera da commissioni. Ed è istantanea, ed è
+   usata dappertutto. E infine, il mercato cinese è enorme. Il mercato è
+   ampio, cosa che aiuta gli imprenditori ad avere più utenti, più
+   guadagni, più investimenti, e ancora più importante dà agli
+   imprenditori la possibilità di raccogliere una quantità enorme di dati
+   che diventa il carburante dei motori di IA. Di conseguenza, le aziende
+   cinesi di IA hanno fatto grandi salti in avanti così che oggi, le
+   aziende più ricche di computer vision, riconoscimento vocale, sintesi
+   vocale, strumenti di traduzione e droni sono tutte aziende cinesi.
+
+   Così, con gli USA a condurre l'era della scoperta e la Cina a condurre
+   quella dell'implementazione, ci troviamo ora in un'epoca straordinaria
+   dove i motori delle due superpotenze stanno lavorando insieme per
+   portare la rivoluzione tecnologica più veloce che noi umani abbiamo mai
+   visto. E questo porterà grande ricchezza, una ricchezza senza
+   precendenti: 16 trilioni di dollari, secondo PwC, in termini di aumento
+   di PIL mondiale entro il 2030. Porterà con sé anche sfide immense in
+   termini di perdite di posti di lavoro. Mentre durante la rivoluzione
+   industriale si sono creati più lavori perché lavori manuali vennero
+   scomposti in lavori nelle catene di montaggio, quindi sono stati creati
+   più lavori. Ma l'IA rimpiazza completamente i lavori individuali nelle
+   catene di montaggio con robot. E non solo nelle fabbriche, ma
+   camionisti, guidatori, e persino lavori come la televendita, il
+   servizio ai clienti, ed ematologi così come radiologi nei prossimi 15
+   anni saranno rimpiazzati gradualmente dall'intelligenza artificiale. E
+   solo i lavori creativi,
+
+   (Risate)
+
+   Mi devo mettere al sicuro, no? Davvero, i lavori creativi sono gli
+   unici al sicuro perché l'IA può ottimizzare ma non creare.
+
+   Ed ancora più serio della perdita di lavori è la perdita di
+   significato, perché l'etica del lavoro nell'Era Industriale ci ha
+   indotti a pensare che il lavoro sia l'unica ragione per cui esistiamo,
+   che il lavoro ha definito il senso delle nostre vite. E io sono stato
+   una delle vittime di questo pensiero lavoro-centrico Ho lavorato
+   davvero duro. Per questo motivo ho quasi lasciato mia moglie in sala
+   parto, per questo ho lavorato in modalità 996 insieme ai miei
+   imprenditori. E quell'ossessione che ho avuto nel lavoro è finita
+   d'improvviso pochi anni fa dopo una diagnosi di linfoma al quarto
+   stadio. La tomografia mostra qui più di 20 tumori maligni venuti fuori
+   come meteore a far dissolvere la mia ambizione. E cosa ancora più
+   importante, mi ha aiutato a riesaminare la mia vita. Sapere che avrei
+   potuto vivere solo per pochi mesi mi ha portato a vedere quanto folle
+   fossi a basare tutta la mia autostima su quanto duro lavorassi e sui
+   risultati del mio duro lavoro. Le mie priorità erano totalmente
+   sbagliate. Ho trascurato la mia famiglia. Mio padre era morto, e non ho
+   avuto mai possibilità di dirgli "ti voglio bene". Mia madre affetta da
+   demenza non mi riconosceva più. e i miei figli erano cresciuti.
+
+   Durante la mia chemioterapia, ho letto un libro di Bronnie Ware che
+   parlava degli ultimi desideri e rimpianti di persone sul letto di
+   morte. Ha scoperto che di fronte alla morte, nessuno rimpiangeva di non
+   aver lavorato abbastanza nella propria vita. Ma piuttosto il non aver
+   speso tempo sufficiente insieme ai propri cari e di non aver dato
+   amore.
+
+   Per fortuna oggi sono in fase di remissione.
+
+   (Applausi)
+
+   Così posso tornare ancora al TED per condividere con voi i miei
+   cambiamenti. Adesso lavoro solo 8 ore per 5 giorni la settimana. Solo
+   occasionalmente seguo il 996, ma quasi sempre 965. Mi sono spostato
+   vicino a mia madre, mia moglie di solito viaggia con me, e quando i
+   miei ragazzi sono in vacanza, se non tornano a casa, io vado da loro. È
+   una nuova vita che mi ha aiutato a riconoscere quanto importante sia
+   l'amore per me, e avere di fronte la morte mi ha aiutato a cambiare la
+   mia vita, e mi ha anche aiutato a guardare in nuovi modi come l'IA
+   dovrebbe avere impatto sul genere umano e lavorare e coesistere insieme
+   al genere umano, perché davvero l'IA porterà via tanti lavori
+   ripetitivi, ma i lavori ripetitivi non rappresentano ciò che davvero
+   siamo.
+
+   Esistiamo per amore. Quando teniamo in braccio un neonato, l'amore a
+   prima vista, quando aiutiamo chi ne ha bisogno, gli uomini sono capaci
+   di dare e ricevere amore in modo unico, e questo è ciò che ci
+   differenzia dall'IA.
+
+   A differenza di ciò che la fantascienza mostra posso dirvi
+   responsabilmente che l'IA non ha amore. Quando AlphaGo ha sconfitto il
+   campione del mondo Ke Jie, mentre Ke Jie piangeva e amava il gioco del
+   Go, AlphaGo non ha provato felicità nel vincere e di certo nessun
+   desiderio di abbracciare una persona amata.
+
+   Quindi come ci differenziamo come umani nell'età dell'IA? Abbiamo
+   parlato dell'asse della creatività e di certo questa è una possibilità,
+   ora possiamo introdurre un nuovo asse che chiameremo compassione, amore
+   o empatia. Tutte cose che l'IA non può avere. Così mentre l'AI porterà
+   via i lavori ripetitivi, mi piace pensare che potremo e dovremo creare
+   lavori di compassione. Potreste chiedervi quanti ce ne siano, ma vi
+   chiederei a mia volta: non pensate che avremo bisogno di tantissimi
+   lavoratori sociali per aiutarci in questo passaggio? Non pensate che
+   avremo bisogno di badanti pieni di compassione per dare più cure
+   mediche a più persone? Non pensate che avremo bisogno di decuplicare i
+   nostri insegnanti per aiutare i nostri bambini a trovare il modo per
+   sopravvivere e prosperare in questo nuovo mondo? E con tutta questa
+   nuova ricchezza, non si dovrebbero trasformare i lavori d'amore in
+   carriere e lasciare che l'accompagnamento agli anziani o che
+   l'insegnamento in casa diventino anch'essi dei lavori?
+
+   (Applausi)
+
+   Il grafico non è certamente perfetto, ma mostra quattro modi con cui
+   possiamo lavora con l'IA. L'IA arriverà e porterà via i lavori
+   ripetitivi e a tempo debito, ne saremo riconoscenti. L'IA diventerà un
+   grande strumento per i creativi così che scienziati, artisti, musicisti
+   e scrittori potranno essere più creativi. L'IA lavorerà con gli umani
+   come strumento analitico a cui gli uomini potranno aggiungere il loro
+   calore per lavori ad alta compassione. E possiamo sempre differenziarci
+   con quei lavori unici che richiedono sia compassione che creatività,
+   usando e facendo leva sui nostri insostituibili cervelli e cuori.
+   Quindi ecco a voi: un modello per la coesistenza di umani e IA.
+
+   L'IA è la nostra fortuna inattesa. È qui per liberarci dai nostri
+   lavori più noiosi, ed è qui per ricordarci cosa ci rende umani. Quindi
+   scegliamo di abbracciare l'IA e di amarci l'un l'altro.
+
+   Grazie.
+
+   (Applausi)
+
+   TED
+
+Programs & initiatives
+
+     * TEDx
+     * TED Prize
+     * TED Fellows
+     * TED Ed
+     * TED Translators
+     * TED Books
+     * TED Institute
+
+Ways to get TED
+
+     * Podcasts
+     * More ways to get TED
+
+Follow TED
+
+     * Facebook
+     * Twitter
+     * Pinterest
+     * Instagram
+     * YouTube
+     * TED Blog
+
+Our community
+
+     * TED Speakers
+     * TED Fellows
+     * TED Translators
+     * TEDx Organizers
+     * TED Community
+
+Want personalized recommendations?
+
+   Join TED Recommends and get the perfect ideas selected just for you.
+   Get started
+
+Language Selector
+
+   TED.com translations are made possible by volunteer translators. Learn
+   more about the Open Translation Project.
+   [English]
+
+     * TED Talks Usage Policy
+     * Privacy Policy
+     * Advertising / Partnership
+     * TED.com Terms of Use
+     * Jobs
+     * Press
+     * Help
+
+   © TED Conferences, LLC. All rights reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+
+   You have JavaScript disabled
+   For the best experience, please turn JavaScript on. Here's how
+
+   Menu
+     * Watch
+          + TED Talks
+            Browse the library of TED talks and speakers
+          + TED Recommends
+            Get TED Talks picked just for you
+          + Playlists
+            100+ collections of TED Talks, for curious minds
+          + TED Series
+            Go deeper into fascinating topics with original video series
+            from TED.
+          + TED-Ed videos
+            Watch, share and create lessons with TED-Ed
+          + TEDx Talks
+            Talks from independently organized local events
+     * Discover
+          + Topics
+            Explore TED offerings by topic
+          + Podcasts
+            TED's original podcast initiatives
+          + TED Books
+            Short books to feed your craving for ideas
+          + Ideas Blog
+            Our daily coverage of the world of ideas
+          + Newsletter
+            Inspiration delivered straight to your inbox
+     * Attend
+          + Conferences
+            Take part in our events: TED, TEDGlobal and more
+          + TEDx events
+            Find and attend local, independently organized events
+          + TED on screen
+            Experience TED from home or in theaters
+     * Participate
+          + Nominate
+            Recommend speakers, TED Prize recipients, Fellows and more
+          + Organize a local TEDx event
+            Rules and resources to help you plan a local TEDx event
+          + Translate
+            Bring TED to the non-English speaking world
+          + TED Fellows
+            Join or support innovators from around the globe
+     * About
+          + Our organization
+            Our mission, history, team, and more
+          + Conferences
+            TED Conferences, past, present, and future
+          + Programs & Initiatives
+            Details about TED's world-changing initiatives
+          + Partner with TED
+            Learn how you can partner with us
+          + TED Blog
+            Updates from TED and highlights from our global community
+
+   Log in
+   Search: ____________________
+
+   Kai-Fu Lee
+   3,205,573 views • 14:49
+   Details About the talk
+
+   Az MI, a mesterséges intelligencia és az ember együttéléséről fogok
+   beszélni, de először újra kell gondolnunk az emberi értékeinket.
+   Először megvallom értékrendem hibáit.
+
+   1991. december 16-a volt, reggel 11 óra. Életemben először már-már apa
+   lettem. Feleségem, Shen-Ling kórházi ágyon feküdt, nagyon nehéz, 12
+   órás vajúdáson ment keresztül. Ugyan az ágya mellett ültem, de idegesen
+   nézegettem az órámat, és tudtam valamit, amit ő nem. Tudtam, hogy ha
+   egy órán belül nem születik meg a gyermekünk, akkor otthagyom a
+   feleségem, visszamegyek a munkahelyemre, és prezentációt tartok az
+   MI-ről főnökömnek, az Apple vezérigazgatójának. Szerencsére lányom
+   11:30-kor megszületett,
+
+   (Nevetés)
+
+   (Taps)
+
+   megkímélve engem attól, hogy megtegyem az elképzelhetetlent, de azóta
+   is nagyon sajnálom, hogy hagytam, hogy a munkaerkölcs elsőbbséget
+   élvezzen családszeretetemmel szemben.
+
+   (Taps)
+
+   Az MI-beszédem egyébként briliánsan sikerült.
+
+   (Nevetés)
+
+   Az Apple imádta a munkám, és úgy döntött, hogy bejelenti a TED1992
+   konferencián, 26 évvel ezelőtt, ugyanezen a színpadon. Azt hittem, hogy
+   az MI legnagyobb, legfontosabb felfedezését tettem, és így hitte másnap
+   a The Wall Street Journal is.
+
+   De ahogy a felfedezések előrehaladtak, kiderült, hogy nem fedeztem fel
+   se Indiát, se Amerikát. Talán csak egy kis szigetet Portugália
+   partjainál. De az MI felfedezéseinek korszaka folytatódott, és egyre
+   több tudós adta bele szívét-lelkét. Kb. tíz éve az MI-ben a nagy
+   felfedezést, amit mélytanulásként ismerünk, három észak-amerikai tudós
+   tette.
+
+   A mélytanulás olyan technológia, mely nagy mennyiségű adatot dolgoz fel
+   egy területen, és emberfölötti pontossággal tanul meg előre jelezni
+   vagy dönteni. Ha pl. nagyszámú ételfényképet mutatunk a mélytanuló
+   hálónak, az fel tudja ismerni, hogy pl. az étel hot dog-e vagy nem.
+
+   (Taps)
+
+   Vagy ha sok képet, videót és szenzoradatot mutatunk neki autópályán
+   való vezetésről, akkor ugyanúgy el tud vezetni egy autót az autópályán,
+   mint egy ember. És mi van akkor, ha megmutatjuk ennek a mélytanuló
+   hálónak Trump elnök összes beszédét? Akkor ez a mesterséges Trump
+   elnök, valójában a háló...
+
+   (Nevetés)
+
+   tud...
+
+   (Taps)
+
+   Szeretik a dupla oximoronokat, ugye?
+
+   (Nevetés)
+
+   (Taps)
+
+   Tehát ez a háló, ha azt kérjük tőle, hogy tartson beszédet az MI-ről,
+   akkor ő vagy a gép, ezt mondhatja:
+
+   (Felvétel) Donald Trump: Jó dolog felépíteni egy jobb világot
+   mesterséges intelligenciával.
+
+   Kai-Fu Lee: És talán egy másik nyelven is?
+
+   DT: (Kínaiul beszél)
+
+   (Nevetés)
+
+   KFL: Nem tudták, hogy beszél kínaiul?
+
+   Így a mélytanulás vált az MI felfedezések korszakának magjává, s ebben
+   az USA-nak van vezető szerepe. De mi most a kivitelezés korszakában
+   vagyunk, ahol a végrehajtás, a termékminőség, a sebesség és az adat
+   számít. Itt kerül Kína a képbe. Kínai vállalkozók, akiket
+   kockázatitőke-befektetőként finanszíroztam, hihetetlen dolgozók,
+   elképesztő munkaerkölccsel. Szülőszobai példám semmiség ahhoz képest,
+   amilyen keményen Kínában dolgoznak. Példának okáért, egy startup
+   megpróbálta megkövetelni a munka-élet egyensúlyt. "Gyere, dolgozz
+   nekünk, mert mi 996-osak vagyunk!" De mit jelent ez? Azt jelenti, hogy
+   a munkaidő reggel 9-től este 9-ig tart, heti hat napon. Ez ellentétben
+   áll más startupokkal, amelyek 997-ben dolgoznak.
+
+   A kínai termékminőség az elmúlt évtizedben folyamatosan növekedett,
+   köszönhetően a kíméletlenül versenyképes környezetnek. A
+   Szilícium-völgyben a vállalkozók nagyon úri módon versenyeznek,
+   valahogy úgy, mint régi háborúkban, ahol mindkét fél felváltva lőtt
+   egymásra.
+
+   (Nevetés)
+
+   De a kínai környezetben ez igazából vérre menő gladiátorviadal. Ilyen
+   brutális környezetben a vállalkozók megtanulnak gyorsan növekedni,
+   megtanulják, hogyan javítsák villámgyorsan termékeiket, és hogyan
+   finomítsák üzleti modelljeiket addig, míg legyőzhetetlenek nem lesznek.
+   Ennek eredményeképpen nagyszerű kínai termékek, mint a WeChat és a
+   Weibo, vitathatatlanul jobbak, mint amerikai termékmegfelelőik, a
+   Facebook és a Twitter.
+
+   A kínai piac tárt karokkal üdvözli e gyors változást és a
+   paradigmaváltást. Ha pl. Kínába utaznak, látni fogják, hogy az ország
+   majdnem készpénz- és bankkártyamentes, mert amiről nálunk mindenki
+   beszél, a mobilos fizetés, Kínában valósággá vált. Tavaly 18,8 billió
+   USA dollárt utaltak át mobil interneten keresztül, köszönhetően annak a
+   nagyon megbízható technológiának, amit köré építettek. Ez még Kína
+   GDP-jénél is több. Ez a technológia, mondhatják, hogyan lehet nagyobb,
+   mint a GDP? Azért, mert minden ügylet benne van: nagybani eladás,
+   csatornák, kiskereskedelem, online, offline vásárlás, bemenni egy
+   bevásárlóközpontba, vagy termelői piacra, mint a képen is. A
+   technológiát 700 millió ember használja, hogy egymásnak fizessenek, ne
+   csak kereskedőknek, így közvetlen, és majdnem tranzakciódíj-mentes.
+   Azonnali, és mindenhol használják. Végül, a kínai piac hatalmas. Ez a
+   piac terjedelmes, mely segít a vállalkozóknak több felhasználót,
+   jövedelmet, befektetést adni, de a legfontosabb: esélyt ad nekik arra,
+   hogy rengeteg adatot gyűjtsenek össze, mely rakétahajtóanyag az MI
+   motorjának. Ennek eredményeként a kínai MI cégek előretörtek, így
+   manapság a legértékesebb vállalatok a számítógépes látás,
+   beszédfelismerés, beszédszintézis, gépi fordítás és drónok terén mind
+   kínai cégek.
+
+   Az USA vezeti a felfedezés korszakát, és Kína a kivitelezését, mi pedig
+   abban az elképesztő korban vagyunk, ahol a két szuperhatalom kettős
+   motorja együtt dolgozik, hogy a technológia leggyorsabb forradalmát
+   vigye véghez, amit mi, emberek valaha láttunk. Ez hatalmas gazdagságot,
+   példátlan gazdagságot fog hozni: 16 billió dollárral nő, a PwC szerint,
+   a világ GDP-je 2030-ra. Óriási kihívásokat is fog hozni az esetleg
+   megváltozó vagy eltűnő szakmáknak. Míg az ipari korban több munkahelyet
+   teremtett, mert a kézműves munkákat szétbontották szerelősor melletti
+   munkákra, így több állást hoztak létre. De az MI teljesen lecseréli a
+   szerelősorok melletti munkát robotokra. Ez nemcsak gyárakban valósul
+   meg, hanem kamionosokat, sofőröket, még távértékesítőket,
+   ügyfélszolgálatosokat, hematológusokat és radiológusokat is fokozatosan
+   felváltja majd az elkövetkező 15 évben a mesterséges intelligencia.
+   Csak a kreatív munkák...
+
+   (Laughter)
+
+   Be kell biztosítanom magam, nemde? A kreatív munkák védve vannak, mert
+   az MI optimalizálni tud, de alkotni nem.
+
+   De a munkahelyek elvesztésénél is komolyabb a jelentőség elvesztése,
+   mert az ipari kor munkaerkölcse kimosta az agyunkat, és elhitette
+   velünk, hogy létezésünk értelme a munka, hogy a munka jelenti életünk
+   értelmét. Én kiváló és önkéntes áldozata voltam e munkamániás
+   gondolkodásnak. Hihetetlenül keményen dolgoztam. Épp ezért hagytam
+   majdnem a feleségemet a szülőszobán, ezért dolgoztam 996-ban a
+   vállalkozóimmal karöltve. Ez a munka iránti megszállottságom ért
+   hirtelen véget néhány évvel ezelőtt, amikor negyedik stádiumú
+   limfómával diagnosztizáltak. A PET vizsgálat több mint húsz
+   rosszindulatú daganatot mutat, úgy ugranak ki, mint tűzgolyók,
+   szétzúzva ambícióimat. De ami még fontosabb: segített újraértékelni az
+   életemet. Tudván, hogy talán csak néhány hónapom van hátra,
+   ráébresztett, mennyire bolond voltam, hogy az egész önértékelésemet
+   arra alapoztam, mennyire keményen dolgoztam, és mi lett ennek az
+   eredménye. A prioritásaim teljesen hibásak voltak. Elhanyagoltam a
+   családomat. Édesapám elhunyt, és sosem volt esélyem elmondani neki,
+   hogy szeretem. Édesanyámnak demenciája lett, és többé nem ismer meg
+   engem, a gyerekeim pedig mind felnőttek.
+
+   A kemoterápiám alatt olvastam egy könyvet Bronnie Ware-tól, aki
+   haldokló emberek utolsó kívánságairól és megbánásairól beszélt. Úgy
+   találta, hogy a halállal való szembenézéskor senki sem azt bánta, hogy
+   nem dolgozott elég keményen az életben. Csak azt bánták, hogy nem
+   töltöttek elég időt szeretteikkel, és nem fejezték ki szeretetüket.
+
+   Szerencsére mára meggyógyultam.
+
+   (Taps)
+
+   Így újra itt lehetek a TED-en, hogy megosszam önökkel: változtattam az
+   életemen. Már csak 965-ben dolgozom, alkalmanként 996-ben, de általában
+   965-ben. Közelebb költöztem édesanyámhoz, a feleségem általában velem
+   utazik, és amikor a gyerekeimnek vakációjuk van, ha nem jönnek haza, én
+   megyek hozzájuk. Úgyhogy ez új életmód, ami segített felismerni,
+   mennyire fontos a szeretet számomra, és a halállal való szembenézés
+   segített változtatni az életemen, de abban is segített, hogy új
+   szemszögből lássam, az MI-nek hogyan kellene hatással lennie az
+   emberiségre, vele együtt dolgozni és létezni, hogy az MI rutinmunkákat
+   vesz el, de mi nem a rutinmunkákért létezünk.
+
+   A szeretetért létezünk. Amikor újszülött babánkat tartjuk, az szerelem
+   első látásra, vagy amikor segítünk valaki rászorulónak, az emberek
+   különösen képesek szeretetet adni és kapni, és ez különböztet meg
+   minket az MI-től.
+
+   Annak ellenére, amit a science fiction lefest, felelősségteljesen
+   mondhatom, hogy az MI nem képes szeretetre. Amikor az AlphaGo legyőzte
+   a világbajnok Ko Csiet, akkor míg Ko Csie sírt, s szerette a gót, az
+   AlphaGo nem érzett győzelmi örömet, és biztosan nem vágyott megölelni
+   egy szerettét.
+
+   Hogyan különböztetjük meg magunkat emberként az MI korában? Beszéltünk
+   a kreativitás tengelyéről, és ez biztosan az egyik lehetőség, most
+   pedig bemutatunk egy új tengelyt, amit hívhatunk együttérzésnek,
+   szeretetnek vagy empátiának. E dolgokat az MI nem képes megtenni. Így
+   ahogy az MI elveszi a rutinmunkákat, szeretem azt hinni, hogy létre
+   tudunk és létre is kell hozni együttérző munkákat. Kérdezhetnék, hogy
+   mennyi van belőlük, de én kérdezném önöktől: nem gondolják, hogy sok
+   szociális munkásra lesz szükségünk az átmenet megvalósításához? Nem
+   gondolják, hogy szükségünk van sok jószívű gondozóra, hogy több
+   egészségügyi ellátást adjanak még több embernek? Nem gondolják, hogy
+   tízszer ennyi tanárra lesz szükségünk, hogy segítsenek a gyerekeinknek
+   megtalálni a helyüket, túlélni és boldogulni ebben a szép új világban?
+   Az összes újonnan felfedezett jóléttel nem kellene-e szívügyeinket
+   szakmává alakítani, és engedni az idősgondozást vagy az otthoni
+   tanulást karrierré válni?
+
+   (Taps)
+
+   Ez a grafikon biztosan nem tökéletes, de négy módot mutat az MI-vel
+   való munkára. Az MI eljön, és elveszi a rutinmunkákat, és egyszer majd
+   hálásak leszünk érte. Az MI nagyszerű eszköze lesz a kreatív
+   embereknek, így tudósok, művészek, zenészek és írók még kreatívabbak
+   lehetnek. Az MI elemzőeszközként fog együtt dolgozni az emberekkel,
+   hogy melegséget vihessenek a nagy együttérzést igénylő munkákba. Mi
+   mindig meg tudjuk különböztetni magunkat egyedi foglalkozásokkal,
+   melyek mind könyörületességet igényelnek és kreatívak, használják és
+   hasznosítják a pótolhatatlan agyunkat és szívünket. Tehát íme: egy terv
+   az ember és az MI együttélésére.
+
+   Az MI szerencsés véletlen. Itt van, hogy felszabadítson minket a
+   rutinmunkák alól, és emlékeztessen arra, ami minket emberré tesz. Így
+   válasszuk a mesterséges intelligenciát, és szeressük egymást.
+
+   Köszönöm!
+
+   (Taps)
+
+   TED
+
+Programs & initiatives
+
+     * TEDx
+     * TED Prize
+     * TED Fellows
+     * TED Ed
+     * TED Translators
+     * TED Books
+     * TED Institute
+
+Ways to get TED
+
+     * Podcasts
+     * More ways to get TED
+
+Follow TED
+
+     * Facebook
+     * Twitter
+     * Pinterest
+     * Instagram
+     * YouTube
+     * TED Blog
+
+Our community
+
+     * TED Speakers
+     * TED Fellows
+     * TED Translators
+     * TEDx Organizers
+     * TED Community
+
+Want personalized recommendations?
+
+   Join TED Recommends and get the perfect ideas selected just for you.
+   Get started
+
+Language Selector
+
+   TED.com translations are made possible by volunteer translators. Learn
+   more about the Open Translation Project.
+   [English]
+
+     * TED Talks Usage Policy
+     * Privacy Policy
+     * Advertising / Partnership
+     * TED.com Terms of Use
+     * Jobs
+     * Press
+     * Help
+
+   © TED Conferences, LLC. All rights reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+
+   You have JavaScript disabled
+   For the best experience, please turn JavaScript on. Here's how
+
+   Menu
+     * Watch
+          + TED Talks
+            Browse the library of TED talks and speakers
+          + TED Recommends
+            Get TED Talks picked just for you
+          + Playlists
+            100+ collections of TED Talks, for curious minds
+          + TED Series
+            Go deeper into fascinating topics with original video series
+            from TED.
+          + TED-Ed videos
+            Watch, share and create lessons with TED-Ed
+          + TEDx Talks
+            Talks from independently organized local events
+     * Discover
+          + Topics
+            Explore TED offerings by topic
+          + Podcasts
+            TED's original podcast initiatives
+          + TED Books
+            Short books to feed your craving for ideas
+          + Ideas Blog
+            Our daily coverage of the world of ideas
+          + Newsletter
+            Inspiration delivered straight to your inbox
+     * Attend
+          + Conferences
+            Take part in our events: TED, TEDGlobal and more
+          + TEDx events
+            Find and attend local, independently organized events
+          + TED on screen
+            Experience TED from home or in theaters
+     * Participate
+          + Nominate
+            Recommend speakers, TED Prize recipients, Fellows and more
+          + Organize a local TEDx event
+            Rules and resources to help you plan a local TEDx event
+          + Translate
+            Bring TED to the non-English speaking world
+          + TED Fellows
+            Join or support innovators from around the globe
+     * About
+          + Our organization
+            Our mission, history, team, and more
+          + Conferences
+            TED Conferences, past, present, and future
+          + Programs & Initiatives
+            Details about TED's world-changing initiatives
+          + Partner with TED
+            Learn how you can partner with us
+          + TED Blog
+            Updates from TED and highlights from our global community
+
+   Log in
+   Search: ____________________
+
+   Kai-Fu Lee
+   3,205,573 views • 14:49
+   Details About the talk
+
+   Eu vou falar sobre como a IA e a espécie humana podem coexistir, mas
+   primeiro, temos de repensar os valores humanos. Por isso vou confessar
+   os erros nos meus valores.
+
+   Eram 11 horas, dia 16 de dezembro de 1991. Eu estava prestes a ser pai
+   pela primeira vez. A minha mulher, Shen-Ling, estava na cama do
+   hospital a ter um parto muito difícil de 12 horas. Sentei-me ao pé dela
+   mas olhava nervosamente para o relógio. Eu sabia algo que ela não
+   sabia. Sabia que, se dentro de uma hora, ainda não tivéssemos o bebé,
+   eu ia deixá-la ali e voltar para o trabalho, para fazer uma
+   apresentação sobre a Inteligência Artificial para o meu chefe, o CEO da
+   Apple. Felizmente, a minha filha nasceu às 11:30
+
+   (Risos)
+
+   (Aplausos)
+
+   poupando-me a fazer algo impensável, e até hoje, lamento imenso ter
+   deixado que a minha ética de trabalho fosse superior ao amor pela minha
+   família.
+
+   (Aplausos)
+
+   Já a apresentação sobre a IA correu muitíssimo bem.
+
+   (Risos)
+
+   A Apple adorou o meu trabalho e decidiu anunciá-lo na TED1992, há 26
+   anos, neste mesmo palco. Eu pensava que tinha feito uma das maiores e
+   mais importantes descobertas na IA, tal como o "Wall Street Journal",
+   no dia seguinte.
+
+   Mas à medida que se sucediam as descobertas, veio-se a perceber que eu
+   não tinha descoberto a Índia, nem a América. Talvez tivesse descoberto
+   uma pequena ilha na costa de Portugal. Mas a era da descoberta da IA
+   continuou, e mais cientistas se entregavam de corpo e alma. Há cerca de
+   10 anos, a grande descoberta na IA foi feita por três cientistas
+   norte-americanos, e é conhecida como aprendizagem profunda.
+
+   A aprendizagem profunda é uma tecnologia que consegue receber imensos
+   dados num só domínio e aprende a prever ou a decidir com uma exatidão
+   super-humana. Por exemplo, se mostrarmos à rede de aprendizagem
+   profunda um número enorme de fotos de comida, ela consegue reconhecer a
+   comida como sendo ou não sendo um cachorro quente.
+
+   (Aplausos)
+
+   Ou se lhe mostrarmos muitas imagens e vídeos e dados de sensores de
+   condução na autoestrada, consegue mesmo conduzir um carro tão bem
+   quanto um ser humano na autoestrada. E se mostrássemos a esta rede de
+   aprendizagem profunda todos os discursos feitos pelo Presidente Trump?
+   Então este presidente Trump artificialmente inteligente, ou seja, a
+   rede...
+
+   (Risos)
+
+   consegue...
+
+   (Aplausos)
+
+   Gostam de contradições duplas, não é?
+
+   (Risos)
+
+   (Aplausos)
+
+   Portanto, esta rede, se lhe pedirmos para fazer um discurso sobre IA,
+   poderá dizer:
+
+   (Gravação) Donald Trump: É uma coisa fantástica criar um mundo melhor
+   com inteligência artificial.
+
+   Kai-Fu Lee: E talvez noutra língua?
+
+   DT: (Em chinês)
+
+   (Risos)
+
+   KFL: Não sabiam que ele falava chinês, pois não?
+
+   A aprendizagem profunda tornou-se o núcleo, na era da descoberta da IA,
+   e é liderada pelos EUA. Mas agora estamos na era da implementação, em
+   que o que importa é a execução, a qualidade do produto, a rapidez e os
+   dados. É aí que a China entra em cena. Os empresários chineses, que eu
+   financio como investidor de risco, são trabalhadores incríveis, com uma
+   ética de trabalho impressionante. O exemplo na sala de parto não se
+   compara com o trabalho árduo das pessoas na China. Como exemplo, uma
+   "start-up" tentou reivindicar o equilíbrio trabalho-vida: "Venha
+   trabalhar para nós porque somos 996." O que é que isso significa?
+   Significa que o trabalho é das 9 da manhã às 9 da noite, seis dias por
+   semana. Isto contrasta com outras "start-ups" que fazem 997.
+
+   A qualidade dos produtos chineses tem crescido constantemente na última
+   década, graças a um meio altamente competitivo. Em Silicon Valley, os
+   empresários competem de forma muito cavalheiresca, como nas guerras
+   antigas em que cada lado alternava quando disparavam uns para os
+   outros.
+
+   Mas no mundo chinês, é uma guerra de gladiadores até à morte. Num meio
+   tão cruel, os empresários aprendem a crescer rapidamente, aprendem a
+   melhorar os seus produtos a uma velocidade incrível, e aprendem a
+   aprimorar os seus modelos de negócio até à perfeição. Fruto disso,
+   ótimos produtos chineses como o WeChat e o Weibo são efetivamente
+   melhores que os equivalentes americanos do Facebook e do Twitter.
+
+   O mercado chinês apoia esta mudança e acelerou a transição e as
+   mudanças de paradigma. Por exemplo, se forem à China, verão que
+   funciona quase inteiramente sem dinheiro e sem cartões de crédito,
+   porque aquilo de que todos falamos, o pagamento telefónico, tornou-se a
+   realidade na China. No ano passado,
+
+   transacionaram-se 18,8 biliões de dólares pela Internet móvel, e isso
+   deve-se a tecnologias robustas que são a base para tudo. É até maior
+   que o PIB chinês. Podemos perguntar como é que esta tecnologia é maior
+   que o PIB? Porque inclui todas as transações: comércio por grosso,
+   canais, venda a retalho, "online", "offline", num centro comercial ou
+   num mercado agrícola como este. Esta tecnologia é usada por 700 milhões
+   de pessoas para pagarem entre si, não só os comerciantes, mas de pessoa
+   para pessoa, e é quase isento de taxa de transação. É instantâneo e é
+   usado em todo o lado. Finalmente, o mercado chinês é enorme. Este
+   mercado é vasto, o que ajuda os empresários a terem mais utilizadores,
+   mais receitas, mais investimentos, mas, acima de tudo, dá-lhes a
+   oportunidade de reunir uma imensa quantidade de dados, que se torna o
+   combustível para o motor da IA. Como resultado, as empresas chinesas de
+   IA deram um salto em frente e hoje, as empresas mais valiosas em visão
+   computacional, reconhecimento da fala, síntese da fala, tradução
+   automática, e em "drones" são todas empresas chinesas.
+
+   Com os EUA a liderar a era da descoberta e a China a liderar a era da
+   implementação, estamos agora numa era incrível em que os dois motores
+   das duas superpotências estão a trabalhar em conjunto na mais rápida
+   revolução tecnológica alguma vez vista pelo ser humano. Isto irá
+   produzir uma riqueza tremenda, uma riqueza sem precedentes: 16 biliões
+   de dólares, segundo o PwC, em termos de PIB acrescentado, ao PIB
+   mundial de 2030. Também irá trazer inúmeros desafios ao nível de
+   potenciais reposições de empregos. Enquanto que na Era Industrial se
+   criaram mais empregos, porque o trabalho artesanal foi decomposto em
+   empregos nas linhas de montagem, e, portanto, foram criados mais
+   empregos, a IA substitui completamente os empregos individuais pondo
+   robôs nas linhas de montagem. E não é só nas fábricas. Os camionistas,
+   os condutores, os empregos em televendas, no apoio ao cliente, os
+   hematologistas e os radiologistas, nos próximos 15 anos, vão ser
+   progressivamente substituídos pela inteligência artificial. Só nos
+   trabalhos criativos...
+
+   (Risos)
+
+   Tenho que assegurar a minha segurança, não é? Os trabalhos criativos
+   são aqueles que estão protegidos, porque a IA consegue otimizar mas não
+   consegue criar.
+
+   Mas mais grave que a perda de emprego é a perda de significado, porque
+   a ética de trabalho na Era Industrial convenceu-nos que o trabalho é a
+   razão pela qual existimos, que o trabalho definiu o significado da
+   nossa vida. Eu era uma clara e voluntária vítima desse tipo de viciado
+   no trabalho. Eu trabalhava imenso. Foi por isso que quase abandonei a
+   minha mulher na sala de parto, que trabalhei "996" em conjunto com os
+   meus empresários. Essa obsessão que tinha pelo trabalho acabou
+   abruptamente há uns anos quando fui diagnosticado com um linfoma de 4.º
+   grau. O exame de TEP aqui mostra mais de 20 tumores malignos surgindo
+   como bolas de fogo, a desfazer a minha ambição. Mas o mais importante,
+   ajudou-me a reexaminar a minha vida. Saber que podia ter apenas uns
+   meses de vida fez-me ver como tinha sido imprudente basear a minha
+   autoestima na quantidade de trabalho feito e nos resultados desse
+   trabalho. As minhas prioridades estavam completamente baralhadas. Eu
+   negligenciava a minha família. O meu pai tinha falecido e eu nunca
+   tinha tido a oportunidade de lhe dizer que o amava. A minha mãe tinha
+   demência e já não me reconhecia, e os meus filhos tinham crescido.
+
+   Durante a quimioterapia, li um livro de Bronnie Ware que falava sobre
+   desejos e arrependimentos de pessoas nos seus leitos de morte. Ela
+   descobriu que, ao encarar a morte, ninguém se arrependia de não ter
+   trabalhado o suficiente nesta vida. Apenas se arrependiam de não ter
+   passado mais tempo com quem amavam e de não ter espalhado o seu amor.
+
+   Felizmente, hoje encontro-me em remissão.
+
+   (Aplausos)
+
+   Por isso, posso estar de volta ao TED para vos dizer que mudei. Já só
+   trabalho 965, ocasionalmente 996, mas por norma 965. Mudei-me para mais
+   perto da minha mãe, a minha mulher costuma viajar comigo. Quando os
+   meus filhos têm férias, se não vêm a casa, eu vou ter com eles. É uma
+   nova forma de vida que me fez reconhecer a importância do amor para
+   mim. Encarar a morte ajudou-me a mudar de vida, mas também me fez ver
+   uma nova forma de como a IA deveria mudar a humanidade e trabalhar e
+   coexistir com a humanidade. Realmente, a IA está a eliminar muitos dos
+   empregos de rotina, mas os empregos de rotina não é aquilo de que somos
+   feitos.
+
+   Nós existimos pelo amor. Quando seguramos no nosso bebé recém-nascido,
+   é amor à primeira vista. Quando ajudamos alguém que precisa. Os seres
+   humanos são especialmente aptos para dar e receber amor, e é isso que
+   nos diferencia da IA.
+
+   Apesar do que a ficção científica mostra, posso-vos dizer
+   responsavelmente que a IA não tem amor. Quando o AlphaGo derrotou o
+   campeão do mundo Ke Jie, enquanto Ke Jie chorava e amava o jogo de Go,
+   o AlphaGo não sentiu felicidade nenhuma em ganhar e certamente nenhum
+   desejo de abraçar um ente querido.
+
+   Então, como nos diferenciamos enquanto seres humanos na era da IA?
+   Falámos do eixo da criatividade, e isso é certamente uma possibilidade,
+   mas agora introduzimos um novo eixo a que podemos chamar compaixão,
+   amor ou empatia. Isso são coisas que a IA não sente. Então enquanto a
+   IA elimina trabalhos de rotina, gosto de pensar que podemos e devemos
+   criar empregos de compaixão. Podem perguntar quantos desses existirão,
+   mas eu pergunto-vos: Não acham que precisaremos de muitos assistentes
+   sociais que nos ajudem nesta transição? Não acham que precisamos de
+   muitos cuidadores compassivos que deem mais cuidados médicos a mais
+   pessoas? Não precisaremos de 10 vezes mais professores que ajudem os
+   nossos filhos a encontrar o seu caminho, a sobreviver e prosperar neste
+   novo mundo? Com toda a riqueza recém-descoberta, não deveríamos tratar
+   ocupações de amor como carreiras e tornar o acompanhamento de idosos ou
+   o ensino em casa serem carreiras também?
+
+   (Aplausos)
+
+   Este gráfico não é perfeito, mas demonstra quatro formas como podemos
+   trabalhar com a IA. A IA vai chegar e eliminar os trabalhos de rotina
+   e, em breve, estaremos gratos. A IA será uma ótima ferramenta dos
+   criativos para que cientistas, artistas, músicos e escritores possam
+   ser ainda mais criativos. A IA trabalhará com os seres humanos como
+   ferramenta analítica em que o ser humano possa envolver o seu fervor
+   nos trabalhos de elevada compaixão. Poderemos sempre diferenciar-nos
+   com empregos especialmente capazes que sejam compassivos e criativos,
+   usando e aproveitando os nossos insubstituíveis cérebros e corações.
+   Aqui está: uma planta da coexistência do ser humano com a IA.
+
+   A IA é um feliz acaso. Está aqui para nos libertar dos trabalhos de
+   rotina, e para nos relembrar do que nos torna humanos. Portanto, vamos
+   optar por aceitar a IA e amar-nos uns aos outros.
+
+   Obrigado.
+
+   (Aplausos)
+
+   TED
+
+Programs & initiatives
+
+     * TEDx
+     * TED Prize
+     * TED Fellows
+     * TED Ed
+     * TED Translators
+     * TED Books
+     * TED Institute
+
+Ways to get TED
+
+     * Podcasts
+     * More ways to get TED
+
+Follow TED
+
+     * Facebook
+     * Twitter
+     * Pinterest
+     * Instagram
+     * YouTube
+     * TED Blog
+
+Our community
+
+     * TED Speakers
+     * TED Fellows
+     * TED Translators
+     * TEDx Organizers
+     * TED Community
+
+Want personalized recommendations?
+
+   Join TED Recommends and get the perfect ideas selected just for you.
+   Get started
+
+Language Selector
+
+   TED.com translations are made possible by volunteer translators. Learn
+   more about the Open Translation Project.
+   [English]
+
+     * TED Talks Usage Policy
+     * Privacy Policy
+     * Advertising / Partnership
+     * TED.com Terms of Use
+     * Jobs
+     * Press
+     * Help
+
+   © TED Conferences, LLC. All rights reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+
+   You have JavaScript disabled
+   For the best experience, please turn JavaScript on. Here's how
+
+   Menu
+     * Watch
+          + TED Talks
+            Browse the library of TED talks and speakers
+          + TED Recommends
+            Get TED Talks picked just for you
+          + Playlists
+            100+ collections of TED Talks, for curious minds
+          + TED Series
+            Go deeper into fascinating topics with original video series
+            from TED.
+          + TED-Ed videos
+            Watch, share and create lessons with TED-Ed
+          + TEDx Talks
+            Talks from independently organized local events
+     * Discover
+          + Topics
+            Explore TED offerings by topic
+          + Podcasts
+            TED's original podcast initiatives
+          + TED Books
+            Short books to feed your craving for ideas
+          + Ideas Blog
+            Our daily coverage of the world of ideas
+          + Newsletter
+            Inspiration delivered straight to your inbox
+     * Attend
+          + Conferences
+            Take part in our events: TED, TEDGlobal and more
+          + TEDx events
+            Find and attend local, independently organized events
+          + TED on screen
+            Experience TED from home or in theaters
+     * Participate
+          + Nominate
+            Recommend speakers, TED Prize recipients, Fellows and more
+          + Organize a local TEDx event
+            Rules and resources to help you plan a local TEDx event
+          + Translate
+            Bring TED to the non-English speaking world
+          + TED Fellows
+            Join or support innovators from around the globe
+     * About
+          + Our organization
+            Our mission, history, team, and more
+          + Conferences
+            TED Conferences, past, present, and future
+          + Programs & Initiatives
+            Details about TED's world-changing initiatives
+          + Partner with TED
+            Learn how you can partner with us
+          + TED Blog
+            Updates from TED and highlights from our global community
+
+   Log in
+   Search: ____________________
+
+   Kai-Fu Lee
+   3,205,573 views • 14:49
+   Details About the talk
+
+   Hoy voy a hablar sobre cómo la humanidad y la IA pueden coexistir, pero
+   antes tenemos que meditar sobre nuestros valores como humanos. Primero
+   quisiera hacer una confesión de mis errores en mis valores.
+
+   Eran las 11 en punto, del 16 de diciembre de 1991. Estaba a punto de
+   convertirme en padre por primera vez. Shen-Ling, mi esposa, yacía en
+   una cama del hospital, y ya llevaba 12 horas difíciles de parto. Me
+   encontraba sentado a su lado pero miraba con ansiedad el reloj,
+   sabiendo algo que ella ignoraba. Y era que si en una hora, nuestro hijo
+   no nacía, la iba a dejar sola en la cama para volver al trabajo y
+   hacerle una presentación sobre IA a mi jefe, el CEO de Apple. Por
+   fortuna, mi hija nació a las 11:30...
+
+   (Risas)
+
+   (Aplausos)
+
+   salvándome de hacer lo impensado. Y hasta este día, siento mucho que mi
+   ética de trabajo se antepusiera al amor a mi familia.
+
+   (Aplausos)
+
+   Por otro lado, mi presentación sobre IA salió brillante.
+
+   (Risas)
+
+   A Apple le encantó mi presentación y decidieron hacerla pública en TED
+   1992, hace 26 años en este mismo escenario. Creí que había hecho uno de
+   los más grandes descubrimientos en IA y lo mismo pensó el "Wall Street
+   Journal" al día siguiente.
+
+   Pero en lo que respecta a descubrimientos, resultó que, no descubrí
+   América o India. Quizás descubrí algo así como una pequeña isla cerca
+   de Portugal. Pero la era del descubrimiento para la IA continuó, y más
+   científicos pusieron alma y corazón en ello. Hace unos 10 años, el
+   mayor descubrimiento sobre las IAs lo lograron tres científicos
+   norteamericanos, y se conoce como aprendizaje profundo.
+
+   El aprendizaje profundo es una tecnología que permite usar grandes
+   bases de datos, dentro de un solo sitio dominio, y que aprende a
+   decidir o predecir con precisión sobrehumana. Por ejemplo, si se le
+   muestra a la red de aprendizaje profundo una cantidad masiva de fotos
+   de comidas, puede reconocer cuándo es un "hot dog" y cuándo no lo es.
+
+   (Aplausos)
+
+   O si le mostramos un sinfín de fotos, vídeos y datos de sensores sobre
+   cómo conducir en la autopista, el programa logrará conducir un vehículo
+   en la autopista como un humano. ¿Qué pasaría si le mostráramos a la red
+   de aprendizaje profundo todos los discursos del presidente Trump?
+   Entonces, esta IA del presidente Trump, digo la red...
+
+   (Risas)
+
+   Podría...
+
+   (Aplausos)
+
+   Les gustan las contradicciones, ¿verdad?
+
+   (Risas)
+
+   (Aplausos)
+
+   Si a esta red, le dan la orden de hacer un discurso sobre las IAs, él,
+   o eso, podría decir algo como...
+
+   (Grabación) Donald Trump: Es grandioso poder construir un mundo mejor
+   usando inteligencia artificial.
+
+   Kai-Fu Lee: ¿Y qué tal en otro idioma?
+
+   DT: (Hablando en chino)
+
+   (Risas)
+
+   KFL: No sabían que Trump hablaba chino ¿verdad?
+
+   El aprendizaje profundo se ha convertido en el eje central en la era de
+   la IAs, que va liderada por EE. UU. Pero ahora estamos en la era de la
+   implementación, donde lo que prima es la calidad del producto, su
+   ejecución, velocidad y datos. Y es aquí donde China entra en juego. Los
+   empresarios chinos que financio como inversor de riesgo, son
+   trabajadores increíbles, con una ética de trabajo impecable. Mi ejemplo
+   de la sala de partos no es comparable con lo duro que se trabaja en
+   China. Por ejemplo, una compañía promovía equilibrio entre trabajo y
+   vida personal: "Ven a trabajar con nosotros que somos 996". ¿Y esto qué
+   significa? Significa que el trabajo es de las 9 a.m. hasta las 9 p.m.,
+   seis días a la semana. Esto contrastaba con otras empresas que eran
+   997.
+
+   Y la calidad de los productos chinos ha mejorado consistentemente en la
+   ultima década, y eso es debido al ambiente intensamente competitivo. En
+   Silicon Valley los empresarios compiten de forma caballeresca, algo así
+   como las guerras antiguas cuando se tomaba turnos para dispararse entre
+   ellos.
+
+   (Risas)
+
+   Pero en el ambiente chino, es realmente un lucha de gladiadores hasta
+   la muerte. En un ambiente tan brutal, los empresarios aprenden a crecer
+   rápidamente, a mejorar sus productos a la velocidad del rayo y a
+   refinar sus modelos de negocios hasta ser inexpugnables. Como
+   resultado, productos chinos como WeChat y Weibo, son sin duda mejores
+   que sus equivalentes occidentales de Facebook y Twitter.
+
+   Y el mercado chino adopta este cambio y acelera los cambios de
+   paradigmas. Por ejemplo, si alguno de Uds. visita China, se dará cuenta
+   que casi no se usa el dinero en efectivo o las tarjetas de crédito,
+   porque los pagos vía móvil de los que todos hablan son una realidad en
+   China. En el último año, USD 18.8 billones se han realizado en
+   transacciones móviles, todo gracias a las robustas tecnologías sobre
+   las que se construyen. Esta cifra es aun mayor que el PIB de China.
+   ¿cómo pueden ser estas tecnologías aun mayores que el PIB? Porque
+   incluyen todas las transacciones: Ventas al mayor, al menor, en línea,
+   en vías especializadas, en el centro comercial o en el mercado también.
+   La tecnología la usan más de 700 millones de personas que hacen pagos
+   entre ellas, no solo comerciantes, es de igual a igual, y casi sin
+   cobros por transacción. Es instantáneo, y se puede usar donde sea. Como
+   punto final, el mercado en China es enorme. El mercado es gigante, lo
+   que ayuda a los empresarios a tener más usuarios, más ingresos, más
+   inversiones y lo más importante, le da a las empresas la oportunidad de
+   recolectar grandes masas de datos lo cual se convierten en combustible
+   para los motores de IAs. Como resultado, las empresas de IA chinas han
+   dado un paso adelante. Por eso hoy en día, las empresas más importantes
+   en el campo de la visión artificial, reconocimiento del habla,
+   sintetizadores de voz, traducción automática y drones son todas de
+   origen chino.
+
+   Con EE. UU. al frente de la era del descubrimiento y China al frente de
+   la era de la implementación, ahora vivimos en una era increíble. Donde
+   la fuerza de dos grandes superpotencias trabajan conjuntamente para
+   llevar a cabo la revolución tecnológica más veloz que jamás haya visto
+   la humanidad. Esto traerá grandes riquezas. Riquezas sin precedentes:
+   USD 16 billones, según PwC en términos de PIB añadido al PIB del mundo
+   para el año 2030. Pero también traerá inmensos desafíos en cómo se
+   reemplazan diversas áreas del trabajo. Mientras que en la era
+   industrial se crearon más puestos de trabajo debido a que toda la
+   producción fue separada en la línea de ensamble y se crearon nuevos
+   puestos de trabajo. Pero las IAs reemplazan los trabajos individuales
+   en la línea de ensamble por robots. Y esto no está limitado a las
+   fábricas, los choferes de autobuses y autos, áreas como las televentas,
+   atención al cliente, hematólogos y hasta radiólogos, dentro de 15 años
+   serán reemplazados de forma gradual por inteligencias artificiales. Y
+   solo los trabajos de creatividad...
+
+   (Risas)
+
+   Tengo que proteger mi puesto, ¿no? La verdad es que los trabajos
+   creativos estarán seguros porque si bien las IAs pueden optimizar, no
+   pueden llegar a crear.
+
+   Pero existe algo más serio que la pérdida de puestos de trabajo y es la
+   pérdida de significado, debido a que la ética de trabajo en la era
+   industrial nos ha llevado a creer que el trabajo es nuestra razón para
+   existir, que el trabajo define el significado de nuestras vidas. Y debo
+   de admitir que yo era un ejemplo vivo de esa mentalidad de trabajo.
+   Trabajaba muchísimo. Y es por eso que casi dejo a mi mujer abandonada
+   en la sala de partos, es por eso que trabajaba en 996 junto a varios de
+   mis colegas, y esa obsesión que tenía con el trabajo terminó de forma
+   súbita hace unos años cuando fui diagnosticado con un linfoma muy
+   avanzado. Los escáneres de TEP mostraban más de 20 tumores malignos
+   rebotando como si fuesen bolas de fuego, acabando con toda mi ambición.
+   Pero lo más importante es que me ayudó a reevaluar mi vida. Saber que
+   tal vez solo tendría unos cuantos meses de vida me hizo darme cuenta lo
+   tonto que fui al basar toda mi autoestima en lo duro que trabajaba y en
+   los logros del trabajo. Mis prioridades estaban totalmente
+   desordenadas. Había abandonado a mi familia. Mi padre había fallecido y
+   nunca me di la oportunidad de decirle lo mucho que le quería. Mi madre
+   sufría de demencia y ya no era capaz de reconocerme, y mis hijos
+   crecieron sin mí.
+
+   Durante mi quimioterapia, leí un libro de Bronnie Ware acerca de los
+   últimos deseos y arrepentimientos de la gente moribunda. Ella descubrió
+   que, al enfrentarse a la muerte, nadie lamentó no haber trabajado más
+   durante su vida. Solo lamentaban no haber pasado más tiempo con sus
+   seres queridos y que no repartieron su amor.
+
+   Por fortuna, actualmente estoy en remisión.
+
+   (Aplausos)
+
+   Así que puedo estar de vuelta en TED y compartir con Uds. que he
+   cambiado. Ahora solo trabajo 965 — ocasionalmente 996, pero por lo
+   general, 965. Me mudé más cerca de mi madre, mi esposa suele viajar
+   conmigo, y cuando mis hijos están de vacaciones voy a visitarlos, si
+   ellos no me visitan. Es una nueva forma de vivir. Una que me ayudó a
+   reconocer lo importante que es el amor para mí, y el estar al borde de
+   la muerte me ayudó a cambiar mi vida, pero tambien me ayudó a ver una
+   nueva forma en la que la IA debería impactar a la humanidad, al trabajo
+   y coexistir con nosotros. La realidad es que la IA está tomando muchos
+   trabajos rutinarios, pero los trabajos rutinarios no son nuestra razón
+   de ser.
+
+   Nuestra razón de ser es el amor. Cuando tenemos en brazos a nuestro
+   recién nacido, amamos a primera vista, o cuando ayudamos a alguien que
+   necesita ayuda. El humano es el único que es capaz de dar y recibir
+   amor, y eso es lo que nos hace diferentes a la IA.
+
+   Y a pesar de lo que diga la ciencia ficción, les puedo asegurar que la
+   IA no siente amor. Cuando AlphaGo venció al campeón mundial Ke Jie, Ke
+   Jie lloraba y amaba el juego Go, mientras que AlphaGo no sintió nada al
+   haber ganado y, ciertamente, tampoco sentía deseos de abrazar a algún
+   ser querido.
+
+   ¿Cómo nos diferenciamos como humanos en la era de la IA? Ya hablamos
+   del eje de la creatividad, y definitivamente es una posibilidad, y
+   ahora introducimos un nuevo eje, uno que podamos llamar amor, compasión
+   o empatía. Estas son cosas que las IAs no pueden hacer. Mientras que
+   las IAs se hacen cargo de los trabajos rutinarios, me gusta pensar que
+   deberíamos crear trabajos de compasión. Seguro preguntarán cuántos
+   trabajos de esos existen, pero yo les pregunto: ¿No creen que
+   necesitaremos muchos trabajadores sociales para hacer esta transición?
+   ¿No creen que harán falta más enfermeros empáticos para dar asistencia
+   médica a toda la gente? ¿No creen que necesitaremos 10 veces más
+   profesores para guiar a nuestros niños a que encuentren su vocación, y
+   tengan éxito en este mundo del mañana? Y con toda las nuevas riquezas,
+   ¿no deberíamos convertir nuestras labores de amor en carreras
+   reconocidas y hacer que el cuidado a los mayores y la educación escolar
+   en casa también sean carreras valoradas?
+
+   (Aplausos)
+
+   Esta gráfica puede que no sea perfecta, pero deja en claro los cuatro
+   puntos sobre los que podemos trabajar con las IAs. Las IAs asumirán los
+   trabajos rutinarios y con el tiempo estaremos agradecidos que sea así.
+   Las IAs se convertirán en grandes herramientas para los creativos. Así
+   científicos, artistas, músicos y escritores podrán ser aún más
+   creativos. Las IAs trabajarán con la humanidad como herramientas de
+   análisis para que el humano pueda envolver con su calor los trabajos de
+   alta empatía. Y siempre podemos ser diferentes con empleos de corte
+   único que sean creativos y empáticos a la vez, usando y aprovechándonos
+   de nuestros irreemplazables cerebros y corazones. Así que ahí lo
+   tienen: un mapa para la coexistencia del humano y las IAs.
+
+   La IA es una serendipia. Está aquí para liberarnos de nuestros trabajos
+   rutinarios y esta aquí para recordarnos que es lo que nos hace humanos.
+   Escojamos aprovechar la IA y amarnos mutuamente.
+
+   Muchas gracias.
+
+   (Aplausos)
+
+   TED
+
+Programs & initiatives
+
+     * TEDx
+     * TED Prize
+     * TED Fellows
+     * TED Ed
+     * TED Translators
+     * TED Books
+     * TED Institute
+
+Ways to get TED
+
+     * Podcasts
+     * More ways to get TED
+
+Follow TED
+
+     * Facebook
+     * Twitter
+     * Pinterest
+     * Instagram
+     * YouTube
+     * TED Blog
+
+Our community
+
+     * TED Speakers
+     * TED Fellows
+     * TED Translators
+     * TEDx Organizers
+     * TED Community
+
+Want personalized recommendations?
+
+   Join TED Recommends and get the perfect ideas selected just for you.
+   Get started
+
+Language Selector
+
+   TED.com translations are made possible by volunteer translators. Learn
+   more about the Open Translation Project.
+   [English]
+
+     * TED Talks Usage Policy
+     * Privacy Policy
+     * Advertising / Partnership
+     * TED.com Terms of Use
+     * Jobs
+     * Press
+     * Help
+
+   © TED Conferences, LLC. All rights reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+
+   You have JavaScript disabled
+   For the best experience, please turn JavaScript on. Here's how
+
+   Menu
+     * Watch
+          + TED Talks
+            Browse the library of TED talks and speakers
+          + TED Recommends
+            Get TED Talks picked just for you
+          + Playlists
+            100+ collections of TED Talks, for curious minds
+          + TED Series
+            Go deeper into fascinating topics with original video series
+            from TED.
+          + TED-Ed videos
+            Watch, share and create lessons with TED-Ed
+          + TEDx Talks
+            Talks from independently organized local events
+     * Discover
+          + Topics
+            Explore TED offerings by topic
+          + Podcasts
+            TED's original podcast initiatives
+          + TED Books
+            Short books to feed your craving for ideas
+          + Ideas Blog
+            Our daily coverage of the world of ideas
+          + Newsletter
+            Inspiration delivered straight to your inbox
+     * Attend
+          + Conferences
+            Take part in our events: TED, TEDGlobal and more
+          + TEDx events
+            Find and attend local, independently organized events
+          + TED on screen
+            Experience TED from home or in theaters
+     * Participate
+          + Nominate
+            Recommend speakers, TED Prize recipients, Fellows and more
+          + Organize a local TEDx event
+            Rules and resources to help you plan a local TEDx event
+          + Translate
+            Bring TED to the non-English speaking world
+          + TED Fellows
+            Join or support innovators from around the globe
+     * About
+          + Our organization
+            Our mission, history, team, and more
+          + Conferences
+            TED Conferences, past, present, and future
+          + Programs & Initiatives
+            Details about TED's world-changing initiatives
+          + Partner with TED
+            Learn how you can partner with us
+          + TED Blog
+            Updates from TED and highlights from our global community
+
+   Log in
+   Search: ____________________
+
+   کای-فو لی
+   3,205,551 views • 14:49
+   Details About the talk
+
+   می‌خواهم در مورد اینکه چگونه هوش مصنوعی و بشریت می‌توانند همزمان وجود
+   داشته باشند صحبت کنم، اما اول باید درباره ارزشهای انسانی دوباره فکر
+   کنیم. پس اجازه دهید اول در مورد اشتباهاتم در مورد ارزشهایم اعتراف کنم.
+
+   ساعت ۱۱، ۱۶ دسامبر، ۱۹۹۱ بود. داشتم برای اولین بار پدر می‌شدم. همسرم،
+   شن لینگ، در تخت بیمارستان بستری بود و ۱۲ ساعت طاقت فرسا را داشت سپری
+   می‌کرد. کنار تختش نشستم ولی مضطربانه به ساعتم نگاه می‌کردم، و چیزی
+   می‌دانستم که همسرم نمی‌دانست. می‌دانستم که اگر در عرض یک ساعت، فرزندمان
+   به دنیا نیاید، قصد دارم همسرم را همانجا رها کنم و برگردم سر کار و
+   ارائه‌ای حول هوش مصنوعی عرضه کنم برای رئیسم، مدیرعامل اپل. خوشبختانه،
+   دخترم ساعت ۱۱:۳۰ به دنیا آمد —
+
+   (خنده)
+
+   (تشویق)
+
+   و من را از بی‌فکری رها کرد، و تا امروز، متأسفم که اجازه دادم کارم بر
+   عشق به خانواده غلبه کند.
+
+   (تشویق)
+
+   سخنرانیم درباره هوش مصنوعی، عالی از آب در آمد.
+
+   (خنده)
+
+   اپل کارم را پسندید و تصمیم گرفت آن را اعلام کند در TED سال ۱۹۹۲، ۲۶ سال
+   پیش روی همین صحنه. فکر می‌کردم یکی از بزرگترین و مهمترین اکتشافات حوزه
+   هوش مصنوعی را انجام داده‌ام "وال استریت ژورنال" هم روز بعد همین کار را
+   کرد.
+
+   اما وقتی از اکتشافات دور شدیم، نتیجه این شد، من هند یا آمریکا را کشف
+   نکرده بودم. شاید جزیره‌ای کوچک اطراف پرتغال کشف کرده بودم. اما اکتشافات
+   حوزه هوش مصنوعی ادامه داشت، و دانشمندان بیشتری جانشان را در این راه
+   گذاشتند. حدود ۱۰ سال قبل، کشف بزرگ هوش مصنوعی توسط سه دانشمند آمریکای
+   شمالی انجام شد، و بعنوان آموزش عمیق شناخته می‌شود.
+
+   آموزش عمیق، یک فناوری است که می‌تواند حجم عظیمی از داده را درون یک
+   دامنه واحد بگیرد و آموزش ببیند تا با دقتی فوق بشری پیش‌بینی کند یا
+   تصمیم بگیرد برای مثال، اگر به شبکه آموزش عمیق حجم زیادی از عکسهای غذا
+   نشان دهیم، می‌تواند غذا را تشخیص دهد مثل هات داگ یا غیر هات داگ.
+
+   (تشویق)
+
+   یا اگر داده‌های حسگر و تصاویر و ویدئوهای زیادی از رانندگی در بزرگراه را
+   به آن نشان دهیم. می‌تواند مانند یک انسان در بزرگراه رانندگی کند. اما چه
+   می‌شود اگر به این شبکه آموزش عمیق تمام سخنرانی‌های رئیس‌جمهور ترامپ را
+   نشان دهیم؟ سپس این رئیس‌جمهور ترامپ باهوش مصنوعی، در واقع شبکه —
+
+   (خنده)
+
+   می‌تواند —
+
+   (تشویق)
+
+   شما تناقض‌گویی را دوست دارید، آره؟
+
+   (خنده)
+
+   (تشویق)
+
+   خب اگر از این شبکه درخواست کنیم در مورد هوش مصنوعی سخنرانی کند،
+   احتمالاً می‌گوید —
+
+   (صدای ضبط شده) دونالد ترامپ: یک چیز عالی است که جهانی بهتر را با هوش
+   مصنوعی بسازیم.
+
+   کای-فو لی: یا به زبان دیگر؟
+
+   دونالد ترامپ: (چینی صحبت می‌کند)
+
+   (خنده)
+
+   کای-فو لی: نمی‌دانستید چینی هم بلد است، می‌دانستید؟
+
+   بنابراین، آموزش عمیق در عرصه اکتشافات هوش مصنوعی، هسته‌ای اساسی شده است
+   و توسط آمریکا رهبری شده است. اما الآن در عرصه کاربرد هستیم، آنچه که
+   واقعاً اهمیت دارد اجرا، کیفیت محصول، سرعت و داده است. و این عرصه‌ایست
+   که چین به آن ورود کرده است. کارآفرینان چینی که بعنوان سرمایه‌گذار
+   خطرپذیر در آن سرمایه‌گذاری می‌کنم، کارکنانی عالی هستند، اخلاق کاری شگفت
+   انگیز. کاری که من در اتاق زایمان کردم، در مقابل سختی کار در چین چیزی به
+   حساب نمی‌آید. بعنوان مثال یک استارت‌آپ تلاش کرد که تعادل بین زندگی و
+   کار را مدعی شود: "بیایید با ما کار کنید چون ما ۹۹۶ هستیم" معنی این
+   چیست؟ معنایش ساعت کاری از ۹ صبح تا ۹ شب در شش روز هفته است. تفاوتش با
+   دیگر استارت‌آپ‌ها این است که بقیه ۹۹۷ هستند.
+
+   و کیفیت محصول چینی به طور پیوسته افزایش یافته است در دهه اخیر، و این به
+   خاطر این است که محیط به شدت رقابتی است در سیلیکون ولی، کارآفرینان
+   شرافتمندانه با یکدیگر رقابت می‌کنند، مثل جنگهای قدیمی که در آن دو طرف
+   به نوبت به سمت یکدیگر آتش می‌کردند.
+
+   (خنده)
+
+   اما در محیط چین، مثل نبرد گلادیاتورها جنگیدن تا سرحد مرگ است. در چنین
+   محیط بی‌رحمی، کارآفرینان یاد می‌گیرند که خیلی سریع رشد کنند، آنها یاد
+   می‌گیرند که کیفیت محصولاتشان را با سرعت نور افزایش دهند، و یاد می‌گیرند
+   که مدل کسب و کارشان را تصحیح کنند تا جایی که شکست‌ناپذیر گردند. در
+   نتیجه، محصولات چینی مثل ویچت و ویبو احتمالاً بهتر هستند از محصولات
+   آمریکایی مشابه ساخته فیسبوک و توییتر.
+
+   و بازار چین این تغییر و تغییر شتابدار و تغییرات پارادایمی را می‌پذیرد.
+   بعنوان مثال، اگر یکی از شما به چین برود، خواهید دید که پول نقد و کارت
+   اعتباری در کار نیست، بخاطر اینکه چیزی که همه ما از آن حرف می‌زنیم،
+   پرداخت با تلفن همراه در چین به واقعیت تبدیل شده است. در سال گذشته، ۱۸/۸
+   تریلیون دلار با اینترنت موبایل تراکنش صورت گرفته است، و این بخاطر
+   تکنولوژی بسیار مستحکمی است که پشت آن قرار دارد. این حتی از تولید ناخالص
+   ملی چین بزرگتر است. و این تکنولوژی، می‌توانید بگویید، چطور می‌تواند از
+   GDP بزرگتر باشد؟ چون شامل همه تراکنش‌هاست: عمده، کانال‌های توزیع، خرده،
+   آنلاین، آفلاین، در پاساژها یا بازار محصولات کشاورزی مثل این. این
+   تکنولوژی توسط ۷۰۰ میلیون نفر استفاده می‌شود تا به یکدیگر پول دهند، نه
+   فقط بازرگانان، پس P2P است، و تراکنشی تقریباً بدون تعرفه است. و آنی است،
+   و همه جا استفاده می‌شود. و در نهایت، بازار چین عظیم است. این بازار بزرگ
+   است، که مشتری بیشتر، درآمد بیشتر و سرمایه‌گذاری بیشتر در اختیار
+   کارآفرینان می‌گذارد، اما مهمتر از همه، به کارآفرینان شانس جمع‌آوری حجم
+   بزرگی از اطلاعات را می‌دهد که به سوخت جت موتور هوش مصنوعی مبدل می‌شود.
+   در نتیجه، شرکتهای هوش مصنوعی چینی بسیار جهش داشته‌اند و امروز،
+   ارزشمندترین شرکتها در بینایی ماشین، تشخیص گفتار، ساخت گفتار، ماشین
+   ترجمه و پهپادها همه شرکتهای چینی هستند.
+
+   پس با آمریکای پیشرو در عرصه اکتشاف و چین پیشرو در عرصه کاربرد، ما در
+   زمانه‌ای شگفت‌انگیز هستیم که موتور دوگانه دو ابرقدرت با هم کار می‌کنند
+   تا سریعترین انقلاب در فناوری را شکل دهند که تا به حال بعنوان بشر
+   دیده‌ایم. و این ثروتی عظیم به ارمغان خواهد آورد، ثروتی بی‌سابقه: ۱۶
+   تریلیون دلار طبق گزارش PwC، از لحاظ افزایش GDP به GDP جهانی تا سال
+   ۲۰۳۰. چالش‌هایی عظیم نیز خواهد داشت از لحاظ جایگزینی مشاغل. از آنجا که
+   در عصر صنعتی مشاغل بیشتری ایجاد شده است زیرا مشاغل پیشه‌وری به شغلهای
+   خط تولید تبدیل شده‌اند، پس شغل بیشتری ایجاد شده است. اما هوش مصنوعی
+   توسط ربات‌ها در خط تولید کاملاً جای مشاغل انفرادی را می‌گیرد. و نه فقط
+   در کارخانه‌ها، رانندگان ماشین‌های سنگین و سبک و حتی مشاغلی چون پاسخگوی
+   تلفنی، خدمات مشتریان و هماتولوژیست‌ها و رادیولوژیست‌ها در ۱۵ سال آینده
+   کم‌کم با هوش مصنوعی جایگزین خواهند شد. و فقط مشاغل خلاق —
+
+   (خنده)
+
+   من باید امنیت خودم را حفظ کنم، درست است؟ واقعاً، مشاغل خلاق محافظت
+   می‌شوند، چون هوش مصنوعی می‌تواند بهینه کند اما نمی‌تواند نوآوری کند.
+
+   اما چیزی که از نابودی مشاغل جدی‌تر است نابودی معناست، زیرا اخلاق کاری
+   در عصر صنعتی به ما القا کرده که کار، دلیل موجویت ماست، و کار به زندگی
+   ما معنا بخشیده است. و من یکی از اولین و راغب‌ترین قربانیهای این نوع
+   تفکر اعتیاد به کار بودم. من فوق العاده سخت کار کردم. و به این علت بود
+   که تقریباً همسرم را در اتاق زایمان رها کرده بودم، به این علت بود که در
+   کنار کارآفرینانم به شکل ۹۹۶ کار می‌کردم. و این وسواسی که برای کار داشتم
+   چند سال پیش یکدفعه پایان یافت. در معاینه مشخص شد بیماری لنفوم مرحله
+   چهارم دارم. در اینجا اسکن PET بیش از ۲۰ تومور بدخیم را نشان می‌دهد که
+   به شکل گلوله‌های آتشی ظاهر شده است. این موضوع آرزوهایم را از بین برد.
+   اما مهمتر از آن، کمکم کرد زندگیم را دوباره بررسی کنم. اینکه می‌دانستم
+   فقط چند ماه دیگر زنده هستم موجب شد که ببینم چقدر احمق بوده‌ام که تمام
+   ارزش خودم را بر کار سخت و نتایج حاصله از کار سخت بنا کرده بودم.
+   اولویتهایم کاملاً خارج از نظم بود. خانواده‌ام را نادیده گرفته بودم.
+   پدرم فوت شده بود، و هرگز فرصت نشده بود به او بگویم دوستت دارم. مادرم
+   زوال عقل داشت و دیگر من را نمی‌شناخت، و بچه‌هایم بزرگ شده بودند.
+
+   در طول شیمی درمانی، کتابی از برونی ویر خواندم که در مورد مرگ آرزوها و
+   حسرتهای افراد در بستر مرگ حرف می‌زد. نویسنده دریافته بود که هنگام
+   روبرویی با مرگ، هیچ کس از اینکه به اندازه کافی سختکوش نبوده‌است حرفی
+   نزده است، پشیمانی آنها فقط از نگذراندن زمان کافی با کسانی که دوستشان
+   دارند و عدم گسترش عشقشان بود.
+
+   و امروز خوشبختانه در حال جبران مافات هستم.
+
+   (تشویق)
+
+   پس می‌توانم دوباره در TED باشم تا به شما بگویم که راهم را عوض کرده‌ام.
+   من الان فقط به شکل ۹۶۵ کار می‌کنم — گهگاهی ۹۹۶، اما معمولاً ۹۶۵. به
+   مادرم نزدیکتر شده‌ام، معمولاً همسرم با من سفر می‌کند، و اگر فرزندانم در
+   تعطیلات باشند و پیشم نیایند من پیششان می‌روم. یک شکل جدید از زندگی است
+   که به من کمک می‌کند تا میزان اهمیت عشق نزد خودم را بفهمم و اینکه
+   روبرویی با مرگ به من کمک کرد تا زندگیم را عوض کنم، اما همچنین به من کمک
+   کرد که راهی ببینم که چگونه هوش مصنوعی باید بر بشریت اثر گذارد و کار کند
+   که در کنار بشریت وجود داشته باشد، و اینکه هوش مصنوعی واقعاً دارد مشاغل
+   معمولی را کنار می‌زند، اما مشاغل معمولی معنای وجودی ما نیستند.
+
+   علت موجودیت ما عشق است. وقتی که نوزاد تازه متولد شده را بر می‌داریم،
+   عشق در نگاه اول، یا وقتی که به یک نیازمند کمک می‌کنیم، انسانها به شکل
+   منحصر به فردی می‌توانند مهر بورزند و مهر دریافت کنند، و این است اختلاف
+   ما با هوش مصنوعی.
+
+   علی رغم چیزی که افسانه‌های علمی-تخیلی به تصویر می‌کشند، من می توانم
+   مسئولانه به شما بگویم که هوش مصنوعی هیچ عشقی ندارد. وقتی که آلفاگو
+   قهرمان جهان، کی‌جی را شکست داد، در حالی که کی‌جی داشت از شکست بازی مورد
+   علاقه‌اش گریه می‌کرد، آلفاگو هیچ احساس شادی از پیروزی و مشخصاً هیچ
+   اشتیاقی برای به آغوش کشیدن یک دوست نداشت.
+
+   خب ما بعنوان انسان چگونه خودمان را در عصر هوش مصنوعی متمایز کنیم؟ ما
+   روی محور خلاقیت صحبت کردیم، و مشخصاً این یک احتمال است، و امروز یک محور
+   دیگر را معرفی می‌کنیم که می‌توانیم آن را شفقت، عشق، یا همدلی بنامیم.
+   اینها چیزهایی است که از توان هوش مصنوعی خارج است. خب حالا که هوش مصنوعی
+   دارد کارهای معمولی را از بین می‌برد، دوست دارم فکر کنم که ما می‌توانیم،
+   ما باید و ما مجبوریم مشاغل شفقت محور را خلق کنیم. ممکن است بپرسید چند
+   تا از این مشاغل وجود دارد، اما من خواهم پرسید: آیا فکر نمی‌کنید که به
+   مددکاران اجتماعی زیادی نیازمند خواهیم بود تا در این گذار به ما کمک
+   کنند؟ فکر نمی‌کنید به مراقبان دلسوز زیادی نیازمند خواهیم بود تا
+   مراقبت‌های درمانی را به افراد بیشتری عرضه کنند؟ فکر نمی‌کنید ده برابر
+   به معلم بیشتری نیازمند خواهیم بود که به فرزندانمان راه را نشان دهند تا
+   در این جهان جدید و متهور دوام بیاورند و شکوفا شوند؟ و با تمام ثروت تازه
+   به دست آمده آیا ما نباید کارهای محبت محور را به شغل تبدیل کنیم تا
+   همراهی سالمندان یا آموزش در منزل هم به شغل تبدیل شود؟
+
+   (تشویق)
+
+   مطمئناً این نمودار کامل نیست، اما چهار روش برای کار با هوش مصنوعی به ما
+   نشان می‌دهد. هوش مصنوعی می‌آید و کارهای معمولی را از بین می‌برد و در
+   زمان مناسب، ما سپاسگزار خواهیم بود. هوش مصنوعی ابزاری عالی برای خلاقان
+   خواهد بود و اینکه دانشمندان، هنرمندان، موسیقی‌دانان و نویسندگان
+   می‌توانند خلاق‌تر شوند. هوش مصنوعی بعنوان ابزاری تحلیلی با انسانها کار
+   می‌کند و انسانها می‌توانند گرمای محبت را توسط مشاغل محبت محور، اطرافشان
+   داشته باشند. و ما می‌توانیم همیشه خودمان را متمایز کنیم با کارهای منحصر
+   به فرد و با قابلیتی که هم عاشقانه هستند و هم خلاقانه، با برقرار کردن
+   تعادل غیر قابل جایگزین بین قلب و مغز و اینجا این را دارید: طرح وجود
+   همزمان انسان و هوش مصنوعی.
+
+   هوش مصنوعی یک نعمت تصادفی است. اینجاست که ما را از کارهای معمولی
+   برهاند، و آمده است که به ما یادآوری کند چه چیز ما را انسان می‌سازد. پس
+   بگذارید هوش مصنوعی را با آغوش باز بپذیریم و به یکدیگر عشق بورزیم.
+
+   متشکرم.
+
+   (تشویق)
+
+   TED
+
+Programs & initiatives
+
+     * TEDx
+     * TED Prize
+     * TED Fellows
+     * TED Ed
+     * TED Translators
+     * TED Books
+     * TED Institute
+
+Ways to get TED
+
+     * Podcasts
+     * More ways to get TED
+
+Follow TED
+
+     * Facebook
+     * Twitter
+     * Pinterest
+     * Instagram
+     * YouTube
+     * TED Blog
+
+Our community
+
+     * TED Speakers
+     * TED Fellows
+     * TED Translators
+     * TEDx Organizers
+     * TED Community
+
+Want personalized recommendations?
+
+   Join TED Recommends and get the perfect ideas selected just for you.
+   Get started
+
+Language Selector
+
+   TED.com translations are made possible by volunteer translators. Learn
+   more about the Open Translation Project.
+   [English]
+
+     * TED Talks Usage Policy
+     * Privacy Policy
+     * Advertising / Partnership
+     * TED.com Terms of Use
+     * Jobs
+     * Press
+     * Help
+
+   © TED Conferences, LLC. All rights reserved.

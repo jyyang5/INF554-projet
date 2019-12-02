@@ -1,0 +1,172 @@
+   // Date last modified = 20090825 // Modified by = DC var lpMTagConfig =
+   { "lpServer" : "sales.liveperson.net", "lpNumber" : "71097838",
+   //"lpNumber" : "74134520", "lpProtocol" :
+   (document.location.toString().indexOf("https:")==0) ? "https" : "http",
+   "lpTagLoaded" : false, "pageStartTime" : (new Date()).getTime()
+   //pageStartTime is set with a timestamp as soon as the page starts
+   loading } function lpAddMonitorTag(src) { if
+   (!lpMTagConfig.lpTagLoaded) {
+   if(typeof(src)=="undefined"||typeof(src)=="object"){src=lpMTagConfig.lp
+   MTagSrc?lpMTagConfig.lpMTagSrc:"/hcp/html/mTag.js";}if(src.indexOf("htt
+   p")!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+"?s
+   ite="+lpMTagConfig.lpNumber;}else{if(src.indexOf("site=")<0){if(src.ind
+   exOf("?")<0)src=src+"?";else
+   src=src+"&";src=src+"site="+lpMTagConfig.lpNumber;}};var
+   s=document.createElement("script");s.setAttribute("type","text/javascri
+   pt");s.setAttribute("charset","iso-8859-1");s.setAttribute("src",src);d
+   ocument.getElementsByTagName("head").item(0).appendChild(s); } } /* The
+   code below send a PAGEVAR to LP with the time [iin seconds] it took the
+   page to load. Code is executed in the onload event */
+   lpMTagConfig.calculateSentPageTime = function () { var t = (new
+   Date()).getTime() - lpMTagConfig.pageStartTime;
+   lpAddVars('page','pageLoadTime', Math.round(t/1000)+" sec"); }; if
+   (window.attachEvent)window.attachEvent("onload",lpMTagConfig.calculateS
+   entPageTime); else
+   window.addEventListener("load",lpMTagConfig.calculateSentPageTime,false
+   ); //Load mtag.js inline if this is a Confermation Page else load it on
+   page load event if
+   (window.attachEvent)window.attachEvent("onload",lpAddMonitorTag); else
+   window.addEventListener("load",lpAddMonitorTag,false); //Variables
+   Arrays - By Scope if (typeof(lpMTagConfig.pageVar)=="undefined")
+   lpMTagConfig.pageVar = new Array(); if
+   (typeof(lpMTagConfig.sessionVar)=="undefined") lpMTagConfig.sessionVar
+   = new Array(); if (typeof(lpMTagConfig.visitorVar)=="undefined")
+   lpMTagConfig.visitorVar = new Array(); //Extra actions to be taken once
+   the code executes if (typeof(lpMTagConfig.onLoadCode)=="undefined")
+   lpMTagConfig.onLoadCode = new Array(); //Dynamic Buttons Array
+   if(typeof(lpMTagConfig.dynButton)=="undefined")
+   lpMTagConfig.dynButton=new Array(); // Function that sends variables to
+   LP - By Scope function lpAddVars(scope,name,value) { if
+   (name.indexOf('OrderTotal')!=-1 || name.indexOf('OrderNumber')!=-1){ if
+   (value=='' || value==0) return; // pass 0 value to all but OrderTotal
+   else lpMTagConfig.sendCookies = false }
+   value=lpTrimSpaces(value.toString()); switch (scope){ case "page":
+   lpMTagConfig.pageVar[lpMTagConfig.pageVar.length] =
+   escape(name)+"="+escape(value); break; case "session":
+   lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] =
+   escape(name)+"="+escape(value); break; case "visitor":
+   lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] =
+   escape(name)+"="+escape(value); break; } } // Preventing long cookie
+   transfer for IE based browsers. function onloadEMT() { var
+   LPcookieLengthTest=document.cookie; if (lpMTag.lpBrowser == "IE" &&
+   LPcookieLengthTest.length>1000){ lpMTagConfig.sendCookies=false; } }
+   //The Trim function returns a text value with the leading and trailing
+   spaces removed function lpTrimSpaces(stringToTrim) { return
+   stringToTrim.replace(/^\s+|\s+$/g,""); } // Immediate Data submission
+   function function lpSendData(varscope,varname,varvalue){
+   if(typeof(lpMTag)!="undefined" &&
+   typeof(lpMTag.lpSendData)!="undefined")
+   lpMTag.lpSendData(varscope.toUpperCase() +"VAR!"+ varname + "=" +
+   varvalue, true); } // This need to be add to afterStartPage will work
+   lpMTagConfig.ifVisitorCode = []; // The unit variable purpose is to
+   route the chat or call to the designated skill. should be replaced with
+   the skill name, i.e. : sales try{ if (typeof(lpMarketTier)=='undefined'
+   || lpMarketTier == '') var lpUnit='sales-business'; else var lpUnit =
+   lpMarketTier + 'sales-business'; if (typeof(lpLanguage)=='undefined')
+   var lpLanguage='english'; if(typeof(lpAddVars)!="undefined"){
+   lpAddVars('page','unit',lpUnit);
+   lpAddVars('session','language',lpLanguage); lpMTagConfig.defaultInvite
+   = "chat-" + lpUnit + "-" + lpLanguage; } } catch(e){}
+   lpMTagConfig.onLoadCode[lpMTagConfig.onLoadCode.length] = onloadEMT; //
+   LP Button Code- if(typeof(lpMTagConfig.dynButton)!="undefined") {
+   lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {"name":"chat-"
+   + lpUnit + "-" + lpLanguage,"pid":"chat-ButtonDiv","afterStartPage":
+   true}; lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] =
+   {"name":"chat-" + lpUnit + "-" + lpLanguage +
+   "-2","pid":"chat-ButtonDiv-2","afterStartPage": true};
+   lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] = {"name":"chat-"
+   + lpUnit + "-" + lpLanguage +
+   "-bullet","pid":"chat-ButtonDiv-bullet","afterStartPage": true};
+   lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] =
+   {"name":"voice-" + lpUnit + "-" + lpLanguage +
+   "-2","pid":"voice-ButtonDiv-2","afterStartPage": true};
+   lpMTagConfig.dynButton[lpMTagConfig.dynButton.length] =
+   {"name":"voice-" + lpUnit + "-" + lpLanguage +
+   "-bullet","pid":"voice-ButtonDiv-bullet","afterStartPage": true}; }
+   //image size 0 == 130x88//image size 1 == 115x81//image size 2 ==
+   100x72//image size 3 == 80x40 //show service-based SSL seal logo for
+   www.symantec.com, internal for other servers var url =
+   window.location.href;var arr = url.split("/");var result =
+   arr[2];img_size="2";dn="www.symantec.com";sap="getverisignsealimage.js"
+   ;splash_url="https://trustsealinfo.websecurity.norton.com";tpt="transpa
+   rent";language="en";var symcValidLocales="";var
+   symcPagePath=location.pathname;var symcLG="en";var
+   symcCT="us";if(symcPagePath.charAt(3)=="/"&&symcPagePath.charAt(6)=="/"
+   ){symcLG=symcPagePath.substring(1,3);symcCT=symcPagePath.substring(4,6)
+   }var symcLocale=symcLG+"-"+symcCT;var symcTrustLG=new
+   Array();symcTrustLG[symcTrustLG.length]={symc:"ar-me",vs:"en"};symcTrus
+   tLG[symcTrustLG.length]={symc:"cs-cz",vs:"en"};symcTrustLG[symcTrustLG.
+   length]={symc:"da-dk",vs:"da"};symcTrustLG[symcTrustLG.length]={symc:"d
+   e-at",vs:"de"};symcTrustLG[symcTrustLG.length]={symc:"de-ch",vs:"de"};s
+   ymcTrustLG[symcTrustLG.length]={symc:"de-de",vs:"de"};symcTrustLG[symcT
+   rustLG.length]={symc:"el-gr",vs:"en"};symcTrustLG[symcTrustLG.length]={
+   symc:"en-aa",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"en-au",vs:
+   "en"};symcTrustLG[symcTrustLG.length]={symc:"en-ca",vs:"en"};symcTrustL
+   G[symcTrustLG.length]={symc:"en-hk",vs:"en"};symcTrustLG[symcTrustLG.le
+   ngth]={symc:"en-id",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"en-
+   ie",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"en-in",vs:"en"};sym
+   cTrustLG[symcTrustLG.length]={symc:"en-my",vs:"en"};symcTrustLG[symcTru
+   stLG.length]={symc:"en-nz",vs:"en"};symcTrustLG[symcTrustLG.length]={sy
+   mc:"en-ph",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"en-pr",vs:"e
+   n"};symcTrustLG[symcTrustLG.length]={symc:"en-sg",vs:"en"};symcTrustLG[
+   symcTrustLG.length]={symc:"en-th",vs:"en"};symcTrustLG[symcTrustLG.leng
+   th]={symc:"en-uk",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"en-us
+   ",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"en-za",vs:"en"};symcT
+   rustLG[symcTrustLG.length]={symc:"es-es",vs:"es"};symcTrustLG[symcTrust
+   LG.length]={symc:"es-mx",vs:"es"};symcTrustLG[symcTrustLG.length]={symc
+   :"et-ee",vs:"en"};symcTrustLG[symcTrustLG.length]={symc:"fi-fi",vs:"en"
+   };symcTrustLG[symcTrustLG.length]={symc:"fr-be",vs:"fr"};symcTrustLG[sy
+   mcTrustLG.length]={symc:"fr-ca",vs:"fr"};symcTrustLG[symcTrustLG.length
+   ]={symc:"fr-fr",vs:"fr"};symcTrustLG[symcTrustLG.length]={symc:"fr-lu",
+   vs:"fr"};symcTrustLG[symcTrustLG.length]={symc:"he-il",vs:"en"};symcTru
+   stLG[symcTrustLG.length]={symc:"hu-hu",vs:"en"};symcTrustLG[symcTrustLG
+   .length]={symc:"it-it",vs:"it"};symcTrustLG[symcTrustLG.length]={symc:"
+   ja-jp",vs:"ja"};symcTrustLG[symcTrustLG.length]={symc:"ko-kr",vs:"ko"};
+   symcTrustLG[symcTrustLG.length]={symc:"lt-lt",vs:"en"};symcTrustLG[symc
+   TrustLG.length]={symc:"lv-lv",vs:"en"};symcTrustLG[symcTrustLG.length]=
+   {symc:"nl-be",vs:"nl"};symcTrustLG[symcTrustLG.length]={symc:"nl-nl",vs
+   :"nl"};symcTrustLG[symcTrustLG.length]={symc:"no-no",vs:"en"};symcTrust
+   LG[symcTrustLG.length]={symc:"pl-pl",vs:"en"};symcTrustLG[symcTrustLG.l
+   ength]={symc:"pt-br",vs:"pt"};symcTrustLG[symcTrustLG.length]={symc:"pt
+   -pt",vs:"pt"};symcTrustLG[symcTrustLG.length]={symc:"ro-ro",vs:"en"};sy
+   mcTrustLG[symcTrustLG.length]={symc:"ru-ru",vs:"en"};symcTrustLG[symcTr
+   ustLG.length]={symc:"sk-sk",vs:"en"};symcTrustLG[symcTrustLG.length]={s
+   ymc:"sv-se",vs:"sv"};symcTrustLG[symcTrustLG.length]={symc:"th-th",vs:"
+   en"};symcTrustLG[symcTrustLG.length]={symc:"tr-tr",vs:"en"};symcTrustLG
+   [symcTrustLG.length]={symc:"vi-vn",vs:"en"};symcTrustLG[symcTrustLG.len
+   gth]={symc:"zh-cn",vs:"zh_CN"};symcTrustLG[symcTrustLG.length]={symc:"z
+   h-hk",vs:"zh_TW"};symcTrustLG[symcTrustLG.length]={symc:"zh-tw",vs:"zh_
+   TW"};for(var
+   i=0;i=0){seal_url="https://seal.websecurity.norton.com";seal_gif_url=se
+   al_url+"/getseal?at=0&sealid="+img_size+"&dn="+dn+"〈="+language+"&tpt="
+   +tpt;}else{seal_gif_url="/content/en/us/global/images/verisignseal.png"
+   ;}function
+   vrsn_splash(){tbar="location=yes,status=yes,resizable=yes,scrollbars=ye
+   s,width=560,height=500";sw=window.open(u1,"VRSN_Splash",tbar);sw.focus(
+   )}var ver=-1;var v_ua=navigator.userAgent.toLowerCase();var re=new
+   RegExp("msie
+   ([0-9]{1,}[.0-9]{0,})");if(re.exec(v_ua)!=null){ver=parseFloat(RegExp.$
+   1)}var
+   v_old_ie=(v_ua.indexOf("msie")!=-1);if(v_old_ie){v_old_ie=ver<5}functio
+   n maction(e){if(document.addEventListener){var
+   seal=(e.target.name=="seal");if(seal){vrsn_splash();return
+   false}}else{if(document.captureEvents){var tgt=e.target.toString();var
+   seal=(tgt.indexOf("splash")!=-1);if(seal){vrsn_splash();return
+   false}}}return true}function
+   mouseDown(){if(event.button==1){if(v_old_ie){return
+   true}else{vrsn_splash();return
+   false}}else{if(event.button==2){vrsn_splash();return
+   false}}}document.write(' Norton SECURED
+   ');if((v_ua.indexOf("msie")!=-1)&&(ver>=7)){var plat=-1;var re=new
+   RegExp("windows nt
+   ([0-9]{1,}[.0-9]{0,})");if(re.exec(v_ua)!=null){plat=parseFloat(RegExp.
+   $1)}if(plat>=5.1){document.write("
+
+   ");document.write(" [dot_clear.gif] ");document.write("
+
+   ")}}if(document.addEventListener){document.addEventListener("mouseup",m
+   action,true)}else{if(document.layers){document.captureEvents(Event.MOUS
+   EDOWN);document.onmousedown=maction}}function
+   resized(){if(pageWidth!=innerWidth||pageHeight!=innerHeight){self.histo
+   ry.go(0)}}if(document.layers){pageWidth=innerWidth;pageHeight=innerHeig
+   ht;window.onresize=resized};

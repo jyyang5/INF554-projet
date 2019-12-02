@@ -1,0 +1,911 @@
+   #Lifehacker - All stories
+
+     * The A.V. Club
+     * Deadspin
+     * Gizmodo
+     * Jalopnik
+     * Jezebel
+     * Kotaku
+     * Lifehacker
+     * The Root
+     * Splinter
+     * The Takeout
+     * Clickhole
+     * The Onion
+     * The Inventory
+
+   null
+
+How to Block Unwanted Emails, Phone Calls, and Messages in iOS 13
+
+   [bbyjntqewsprjxqipaz9.jpg]
+   Brendan Hesse
+   Today 1:15pm
+   Filed to: iOSFiled to: iOS
+     * iOS
+     * Apple
+     * Spam
+     * Privacy
+
+   6Save
+     * Edit
+     * Embiggen
+     * Send to Editors
+     * Promote
+     * Share to Kinja
+     * Toggle Conversation tools
+     * Change in-article video
+     * Go to permalink
+
+   Illustration for article titled How to Block Unwanted Emails, Phone
+   Calls, and Messages in iOS 13
+   Photo: dmontessi (Shutterstock)
+
+   Is your iPhone getting blown up with spammy messages? Then you should
+   probably update to iOS 13 if you haven’t already. iOS 13 includes a
+   couple of new tools for blocking junk emails and robocalls, and carries
+   over the iMessage blocking options from iOS 12. These make it easy to
+   filter out unwanted messages at the source—whether from specific
+   contacts or en masse. Even better, any numbers or email addresses you
+   block from an iPhone will be blocked on your other Apple devices as
+   well. Here’s how:
+
+Blocking unwanted email
+
+    1. First, you can block specific contacts from the iOS Mail app by
+       opening a message and tapping the sender’s email address. Tap
+       “Block This Contact” button.
+    2. Next, go to Settings > Mail and turn on “Ignore Blocked Senders.”
+    3. You can also go to Settings > Mail > Blocked to add to/manage your
+       list of blocked contacts.
+
+   Advertisement
+
+Blocking unknown callers
+
+   Go to Settings > phone and turn on “Silence Unknown Callers.” This
+   disables ringing and notifications for calls from unknown numbers which
+   should cut down on spam and robocalls, but be aware this could also
+   block important calls from numbers you don’t have saved. It would be
+   smart to turn this off if you’re expecting an important phone call from
+   a number you don’t know or don’t have saved.
+
+Blocking iMessage contacts
+
+   While you’ve technically been able to block contacts in iMessage since
+   iOS 12, the method for blocking is quite similar to blocking email
+   addresses and phone numbers. Under Settings > Messages, turn on “Filter
+   unknown senders.” Just be mindful that this will prevent you from
+   seeing messages from all unknown senders, much like when blocking
+   unknown numbers, so be careful about when you have this setting
+   enabled, and be sure to check your folder of filtered messages if
+   you’re expecting to hear from someone.
+
+   Advertisement
+
+Share This Story
+
+More in iOS
+
+   [u5rgarqlrj51smx3m8up.jpg]
+
+Update to iOS 13.1 Now
+
+   [u5rgarqlrj51smx3m8up.jpg]
+
+How to Force All Apps to Use Dark Mode in iOS 13
+
+   [u5rgarqlrj51smx3m8up.jpg]
+
+How to Fix iOS 13ʼs Location Privacy Bug
+
+   [u5rgarqlrj51smx3m8up.jpg]
+
+How to Get iOS 13 to Tell You If Your Headphones Are Too Loud
+
+   [u5rgarqlrj51smx3m8up.jpg]
+
+Check Out This Massive Collection of Custom Siri Shortcuts for iOS 13
+
+   [u5rgarqlrj51smx3m8up.jpg]
+
+The Best Apps That Now Support Dark Mode in iOS 13
+
+You may also like
+
+   Gizmodo
+
+Stop What Youʼre Doing and Upgrade to iOS 13.1 Right Now
+
+   Adam Clark Estes
+   Yesterday 1:24pm
+   Gizmodo
+
+The New Apple Watch Is the Best One Yet—Thanks to a Major OS Upgrade
+
+   Victoria Song
+   Today 12:31pm
+   Gizmodo
+
+Appleʼs Call-Blocking Feature May Be a Little Too Good
+
+   Catie Keck
+   Yesterday 12:30pm
+
+Recent from Brendan Hesse
+
+     * 2
+     * 65
+     * 19.3K
+
+   Google Play Pass or Apple Arcade: Which App Subscription Service Is
+   Better?
+
+Google Play Pass or Apple Arcade: Which App Subscription Service Is Better?
+
+   Brendan Hesse
+   Today 4:30pm
+     * 19
+     * 21.3K
+
+   Update to iOS 13.1 Now
+
+Update to iOS 13.1 Now
+
+   Brendan Hesse
+   Yesterday 4:00pm
+     * 7
+     * 28.2K
+
+   How to Force All Apps to Use Dark Mode in iOS 13
+
+How to Force All Apps to Use Dark Mode in iOS 13
+
+   Brendan Hesse
+   Yesterday 1:30pm
+
+   ShareTweet
+
+   [p?c1=2&c2=6770184&cv=2.0&cj=1]
+
+   Kinja is in read-only mode. We are working to restore service.
+
+   [DFP_Audience_Pixel;dc_seg=22540930;blog=lifehacker;ord=1?]
+   #Lifehacker - All stories
+
+     * The A.V. Club
+     * Deadspin
+     * Gizmodo
+     * Jalopnik
+     * Jezebel
+     * Kotaku
+     * Lifehacker
+     * The Root
+     * Splinter
+     * The Takeout
+     * Clickhole
+     * The Onion
+     * The Inventory
+
+   null
+
+How to Prevent Robocalls and Minimize Phone Spam
+
+   [pndfgkizetza6jlqvbps.jpg]
+   David Murphy
+   8/08/18 3:00pm
+   Filed to: robocallers suckFiled to: robocallers suck
+     * robocallers suck
+     * phone
+     * spam
+     * block
+     * number
+     * annoying
+     * app
+     * google voice
+     * do not disturb
+     * verizon
+     * AT&T
+     * sprint
+     * t-mobile
+     * robokiller
+     * wideprotect
+     * hiya
+
+   17114
+     * Edit
+     * Embiggen
+     * Send to Editors
+     * Promote
+     * Share to Kinja
+     * Toggle Conversation tools
+     * Change in-article video
+     * Go to permalink
+
+   Illustration for article titled How to Prevent Robocalls and Minimize
+   Phone Spam
+   Photo: Tom Holmes (Unsplash)
+
+   It’s the Year of the Robocall, it seems. I haven’t noticed this
+   directly, but a number of friends, colleagues, and internet posters
+   seem to be inundated with bullshit phone calls now more than ever
+   before. What great times we live in, where anyone with an auto-dialer
+   can blast out millions of calls to people who don’t want to hear about
+   scammy vacation offers or other nonsense.
+
+   While we all wait for STIR and SHAKEN certificates to take off, you
+   should take a few moments to make sure you’ve done everything you can
+   to prevent robocalls from reaching you. It’s a Sisyphean task, but you
+   have to stay on top of it—for your sanity. Here are a few of our
+   suggestions:
+
+There’s an app for that
+
+   There are plenty of apps you can use to block phone calls, which
+   typically work by identifying spammy numbers others have already been
+   hit with and preemptively blocking them before it’s your turn. They
+   aren’t perfect, but they offer a reasonable first line of defense
+   against annoyances.
+
+   Advertisement
+
+   I’ve been a huge fan of Hiya (Android, iOS) for years, as I’ve found
+   its free version does a solid job of keeping the robocalls down. Make
+   sure you’re updating its database at regular intervals (as in, whenever
+   you get an annoying call or two), and make sure you’ve set up the app
+   so that it’s automatically blocking problematic numbers and “neighbor
+   scams,” or spoofed numbers that look a lot like your number, instead of
+   just warning you about them.
+   Illustration for article titled How to Prevent Robocalls and Minimize
+   Phone Spam
+   Screenshot: David Murphy (Hiya)
+
+   I also like WideProtect and Mr. Number for iOS and Android,
+   respectively, which lets you block numbers beginning with whatever
+   prefixes you want. If you’re getting a lot of calls from an area code
+   that isn’t yours, and you don’t know anyone with that number, just
+   block the whole thing.
+
+   You can also try paying for apps like Robokiller, which might work well
+   for you, but I’d give the free options a shot, first. It’s annoying to
+   have to pay a monthly fee to not be annoyed.
+
+   Advertisement
+
+Check your wireless carrier for spam-blocking features
+
+   If your wireless carrier offers free spam identification and blocking
+   features or apps, there’s no harm in giving them a shot. These features
+   might not work very well, but they’re better than nothing:
+     * Verizon ($2.99/mo)
+     * AT&T (Free)
+     * T-Mobile (Free-$4/mo)
+     * Sprint ($2.99/mo)
+
+Try that “Do Not Call” Registry, but don’t get your hopes up
+
+   Sure, you can sign up for the Federal Trade Commission’s “Do Not Call”
+   registry, but you’re still going to get spammed. We’ve reached the
+   point where it’s easier for scammers to blast out phone numbers and
+   either not get caught, or get such positive results that getting caught
+   isn’t much of a deterrent. Either way, this registry exists, and you
+   can sign up for it—since even a placebo can help you feel better—but
+   don’t get stressed out when it doesn’t work.
+
+   Advertisement
+
+   Oh, and while you’re there, feel free to file some complaints about
+   spam calls you receive. They probably won’t do anything, either, but
+   doing so might improve your mood slightly. If you’re getting spam
+   texts, forward those to #7726.
+
+Whitelist Your Contacts
+
+   If you’re an iOS user, you can take the somewhat-extreme step of using
+   Do Not Disturb as a sort-of whitelist for your iPhone. Pull up the
+   Settings app and tap on Do Not Disturb. Flip it on, don’t give it a
+   schedule (since you’re just going to leave it on), and tap the “Allow
+   Calls From” section to select “All Contacts.” You’ve now effectively
+   silenced all phone calls save for those from the people already in your
+   iPhone’s Contacts app. However, you also won’t receive message
+   notifications or app notifications—like your email—which can be
+   problematic.
+
+   Advertisement
+
+   You can use the same trick on Android (via Settings > Sound > Do Not
+   Disturb), and you have a lot more control over the kinds of
+   notifications you want to receive. In other words, you can keep getting
+   notifications about messages, events, and reminders, but block incoming
+   calls unless they’re from people on your contact list. While you’re at
+   it, don’t forget to flip on Android’s built-in caller ID & spam
+   feature.
+   Illustration for article titled How to Prevent Robocalls and Minimize
+   Phone Spam
+   Screenshot: David Murphy
+
+   Advertisement
+
+   For a more robust solution, install the app Tasker and try using this
+   Redditor’s ingenious plug-in, which pushes all calls to voicemail
+   unless they’re in your smartphone’s contacts. (You can also try
+   creating your own, a skill worth learning!)
+
+Consider switching to Google Voice
+
+   Google is more than happy to give you a free phone number. While
+   signing up for one isn’t going to stop spam calls from blowing up your
+   phone, giving this out as your new primary number instead of your real
+   phone number might help you lessen the load a bit—especially if you use
+   Google Voice’s call screening and forwarding features. If you see that
+   your Google Voice number is calling you, but the caller doesn’t
+   announce who they are when you pick up, you’re probably safe to send
+   that one to voicemail.
+
+   Advertisement
+
+Share This Story
+
+Recommended Stories
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+What Actually Happens When You Block Someone on Your iPhone
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Block Telemarketers and Robocalls for Good with the Raspberry Pi-Powered
+Banana Phone
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Waste Phone Scammersʼ Time Instead of Yours With RoboKiller
+
+About the author
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] David
+   Murphy
+   David Murphy
+
+   Senior Technology Editor of Lifehacker. www.murphy.wtf
+   EmailTwitterPosts
+
+You may also like
+
+   The A.V. Club | News
+
+Snoop Dogg reminds Tekashi 6ix9ine that Martha Stewart didnʼt snitch on
+anybody
+
+   Randall Colburn
+   Today 1:06pm
+   Gizmodo
+
+Creator of Labradoodles Says He Unleashed ʼFrankenstein’s Monsterʼ
+
+   Jennings Brown
+   Today 4:50pm
+   Gizmodo | io9
+
+U.S. Military Issues Warning to Troops About Incel Violence at Joker
+Screenings [Updated]
+
+   Dell Cameron
+   Yesterday 4:59pm
+
+Recent from David Murphy
+
+     * 2
+     * 65
+     * 19.3K
+
+   Google Play Pass or Apple Arcade: Which App Subscription Service Is
+   Better?
+
+Google Play Pass or Apple Arcade: Which App Subscription Service Is Better?
+
+   David Murphy
+   Today 4:30pm
+     * 2
+     * 3
+     * 14.9K
+
+   How Can You Tell if an App Is Malware?
+
+How Can You Tell if an App Is Malware?
+
+   David Murphy
+   Friday 5:00pm
+     * 2
+     * 24
+     * 69.6K
+
+   You Should Wait to Upgrade to iOS 13
+
+You Should Wait to Upgrade to iOS 13
+
+   David Murphy
+   Friday 10:00am
+
+   ShareTweet
+
+   [p?c1=2&c2=6770184&cv=2.0&cj=1]
+
+   Kinja is in read-only mode. We are working to restore service.
+
+   [DFP_Audience_Pixel;dc_seg=22540930;blog=lifehacker;ord=1?]
+   (BUTTON)
+
+Related Blogs
+
+     * Two Cents
+     * Vitals
+     * Skillet
+     * Offspring
+
+From the network
+
+     * AV Club
+     * Deadspin
+     * Gizmodo
+     * Jalopnik
+     * Jezebel
+     * Kotaku
+     * Lifehacker
+     * The Root
+     * Splinter
+     * The Takeout
+     * Clickhole
+     * The Onion
+     * The Inventory
+
+If You Just Bought a New Apple Device, You Get Free Apple TV+
+
+   Nick Douglas
+   Yesterday 3:15pm
+   Filed to:TV
+
+   If you bought a new iPhone, iPad, iPod touch, Apple TV, or Mac after
+   September 10 this year, then you can get a free year of Apple TV+
+   (normally $5/month). The streaming service launches November 1, after
+   which you’ll have three months to activate your free year in the Apple
+   TV app. (If you buy a new device after November 1, you’ll have three
+   months from the purchase date to activate.)
+
+   TV+ launches with a slate of original shows and films, including The
+   Morning Show, which is like ... daytime Newsroom? See more trailers on
+   Apple’s site.
+
+   Advertisement
+
+   After your free year, TV+ will auto-renew for a month at $5. To cancel
+   without missing some of your free subscription, set a calendar alert
+   for a couple of days before your free year runs out, and include a link
+   to the cancellation page.
+
+   If you already intended to pay for the streaming service, then consider
+   this a $60 discount on a device purchase. On the $150 Apple TV, that’s
+   actually a consideration. But don’t use this to justify a new iPhone.
+
+   Details for the deal are available on the Apple TV+ page and in this
+   PDF.
+
+   Advertisement
+
+More Apple TV
+
+How to Get the Twitch Apple TV App Now
+
+You Can Now Get Your Broken Apple Device Repaired at Best Buy
+
+Use iOS 12.3 to Download HBO Shows for Offline Viewing
+
+The Most Important Announcements from Apple’s ʼShow Timeʼ Event
+
+How to Watch Appleʼs News and Media Event Monday
+
+How to Watch ʼBlack Mirror: Bandersnatchʼ on Apple TV or Chromecast
+
+   Nick Douglas
+   Nick Douglas
+
+   Staff Writer, Lifehacker | Nick has written for Gawker, Valleywag, the
+   Daily Dot, and Urlesque. He currently runs the scripted comedy podcast
+   "Roommate From Hell."
+   EmailTwitterPosts
+   (BUTTON) New update
+   Read more!
+   View full discussion
+   Want Lifehacker’s email newsletter?Subscribe
+     *
+     *
+     *
+     *
+     *
+
+     * About
+     * Need Help?
+     * Content Guide
+     * Permissions
+     * Privacy
+     * Terms of Use
+     * Advertising
+     * Jobs
+     * RSS
+
+     * More from our network
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * © 2019 G/O Media Inc.
+
+   Share
+   Tweet
+   (BUTTON)
+
+Related Blogs
+
+     * Two Cents
+     * Vitals
+     * Skillet
+     * Offspring
+
+From the network
+
+     * AV Club
+     * Deadspin
+     * Gizmodo
+     * Jalopnik
+     * Jezebel
+     * Kotaku
+     * Lifehacker
+     * The Root
+     * Splinter
+     * The Takeout
+     * Clickhole
+     * The Onion
+     * The Inventory
+
+I'm Josh Ocampo, Lifehacker Staff Writer, and This Is How I Work
+
+   Josh Ocampo
+   Today 10:00am
+   Filed to:how we work
+
+   Every week, we share the shortcuts, workspaces, and productivity tips
+   of our favorite experts. This week, we’re going behind the scenes at
+   Lifehacker. I’m Josh Ocampo, and this is how I work.
+
+   Location: Manhattan
+   Current Gig: Staff writer at Lifehacker
+   Current mobile device: iPhone X
+   Current computer: MacBook Pro at home
+   One word that best describes how you work: Caffeinated
+
+First of all, tell us a little about your background and how you got to where
+you are today.
+
+   My first job out of college was on the business side of a record label,
+   handling payments and contracts. I got laid off, and on a whim got a
+   job in the legal department of a magazine publisher. I worked my way
+   into the business side of a few magazines—which means I processed a lot
+   of invoices—and eventually started writing. While writing
+   professionally, I was laid off two more times and now I’m here at
+   Lifehacker (and very knowledgable about the New York State unemployment
+   process).
+
+Take us through a recent workday.
+
+   My day starts at night. At around midnight, I’m usually searching for
+   story ideas and Slack them to myself. I have an RSS feed set up through
+   Feedly, but I usually make it a point to read/skim headlines on the New
+   York Times, Washington Post, CNN, and check Twitter and Reddit. (I’m a
+   frequent user in r/Politics and r/Fitness.)
+
+   I wake up around 7:45 a.m., feed my cat, and look for more story ideas
+   and watch the news⁠ on ⁠NY1. If I have time, I’ll also watch the Today
+   Show or Good Morning America (or watch Watch What Happens reruns from
+   the night before). I’m lucky that I live close to the office, so I can
+   usually leave at 9 on the dot and get in within 20 minutes. By 9:30, I
+   usually have a good game plan for my day and start researching and
+   writing.
+
+What apps, gadgets, or tools can’t you live without?
+
+   Advertisement
+
+     * Flipboard
+     * Reddit
+     * Rover
+     * Soundprint
+     * Underway
+     * Netvue
+     * Plague, Inc.
+     * PS4
+
+What’s your workspace setup like?
+
+   Since we’ve only been at our new office for a few months, I don’t have
+   much and most of the things on my desk don’t belong to me, aside from
+   the laptop and sign in the back I made for the Climate Strike. (I work
+   from all over the office, so my desk setup isn’t a big deal to me.)
+
+   The books you see were sent to our remote editors. The keyboard on the
+   right was sitting on my desk when I got here (and possibly belonged to
+   BET staff, who occupied this space before us). And the sickly plant
+   (named Brian) belongs to our deputy editor Alice. I can assure you he
+   is thriving now!
+
+   Honestly, I’m just very grateful to have a work laptop. At one of my
+   first writing gigs, I had an enormous desktop computer and my personal
+   laptop was on its very last limb. I’m very happy to have the ability to
+   physically move and still work. (It’s the little things.)
+
+What’s your favorite shortcut or hack?
+
+   This isn’t groundbreaking, but I have a lot of Google alerts set up for
+   story ideas and particular phrases (maybe 25+?). When I worked at Mic,
+   we had a column called “Food and Politics,” which was devoted to
+   politicians’ eating behaviors (lol). Google alerts really came in handy
+   here because it wasn’t like the New York Times reported on what Beto
+   O’Rourke ate that week.
+
+Take us through an interesting, unusual, or finicky process you have in place
+at work.
+
+   Advertisement
+
+   I get up a lot from my desk and take a walk to the kitchen or grab a
+   coffee before I submit most stories. I can develop a one-track mind
+   when I’m writing and I think it’s helpful to get some perspective. By
+   the time I’m back at my desk, I can more clearly edit/decide when
+   things aren’t making sense. If I’m able to, I’ll wait until the next
+   morning to edit something just for more clarity.
+
+Who are the people who help you get things done, and how do you rely on them?
+
+   Goes without saying, but my editors. I’m very in my head when I write
+   and can be self-critical. I’ll reach out if I’m deep in a hole I can’t
+   crawl out of myself; usually it’s because I’m so caught up in details
+   that probably don’t make sense/impact the outcome of the story.
+   I fed goats on a farm in Hawaii for an assignment last year and was
+   very excited about it (but not as excited as the goats).
+
+How do you recharge or take a break?
+
+   I eat or have more coffee. I’ve also very recently gotten into
+   album/song reaction videos on YouTube. I can’t adequately describe why
+   they’re so great but it’s fun to hear people respond to albums for the
+   first time that you love so much. I’ll listen to one while I’m
+   struggling with a story or just want a little break.
+
+   Outside of work, I take a half-hour nap every day. It’s life-changing.
+
+What are you currently reading, or what do you recommend?
+
+   I’m in the middle of Michelle Obama’s memoir right now and plan to read
+   Pete Buttigieg’s Shortest Way Home next (or Abbi Jacobson from Broad
+   City’s I Might Regret This; can’t decide). I very recently re-read
+   Anthony Bourdain’s Kitchen Confidential (which I love) and finished
+   Stephanie Danler’s Sweetbitter.
+
+Can you share a music playlist you’ve made, whether for working or elsewhere?
+
+   Advertisement
+
+   I don’t have public playlists, but a few songs currently on rotation:
+     * Banks “Gimme”
+     * Marina and the Diamonds “Karma”
+     * Gabrielle Aplin “Kintsugi”
+     * Alabama Shakes “This Feeling” (thanks, Fleabag!)
+
+Who else would you like to see answer these questions?
+
+   Nathan Fielder or my cat.
+
+What’s the best advice you’ve ever received?
+
+   “Don’t tell people that you’re willing to work long hours because
+   they’ll take advantage of it.”
+
+What’s a problem you’re still trying to solve?
+
+   How little sleep I can survive on without compromising my ability to
+   think rationally.
+   How I WorkThe How I Work series asks heroes, experts, and all-around
+   productive people to share their shortcuts, workspaces, routines, and
+   more.
+
+More in How I Work
+
+Iʼm Lisa Rowan, Lifehacker Staff Writer, and This is How I Work
+
+Iʼm Abu Zafar, Lifehacker Video Producer, and This Is How I Work
+
+Iʼm Tim Mulkerin, Lifehacker Social Media Editor, and This Is How I Work
+
+Iʼm Meteorologist Jim Cantore, and This Is How I Work
+
+Iʼm NYX Cosmetics Founder Toni Ko, and This Is How I Work
+
+Iʼm Mark Zuckerman, President of the Century Foundation, and This Is How I
+Work
+
+Iʼm McGill Professor Patricia Faison Hewlin, and This Is How I Work
+
+Iʼm STAPLE Founder Jeffstaple, and This Is How I Work
+
+Iʼm Filmmaker Kelsey Taylor, and This Is How I Work
+
+   Josh Ocampo
+   Josh Ocampo
+
+   Staff Writer
+   TwitterPosts
+   (BUTTON) New update
+   Read more!
+   View full discussion
+   Want Lifehacker’s email newsletter?Subscribe
+     *
+     *
+     *
+     *
+     *
+
+     * About
+     * Need Help?
+     * Content Guide
+     * Permissions
+     * Privacy
+     * Terms of Use
+     * Advertising
+     * Jobs
+     * RSS
+
+     * More from our network
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * © 2019 G/O Media Inc.
+
+   Share
+   Tweet
+   (BUTTON)
+
+Related Blogs
+
+     * Two Cents
+     * Vitals
+     * Skillet
+     * Offspring
+
+From the network
+
+     * AV Club
+     * Deadspin
+     * Gizmodo
+     * Jalopnik
+     * Jezebel
+     * Kotaku
+     * Lifehacker
+     * The Root
+     * Splinter
+     * The Takeout
+     * Clickhole
+     * The Onion
+     * The Inventory
+
+Update to iOS 13.1 Now
+
+   Brendan Hesse
+   Yesterday 4:00pm
+   Filed to:ios
+   Photo: Wachiwit (Shutterstock)
+
+   iOS 13's launch was, frankly, a bit of a mess—so much so that we, and
+   plenty of others, even recommended iOS users wait a bit before
+   upgrading. Thankfully, you don’t have to hold out any longer: Apple
+   began rolling out the iOS 13.1 patch, meaning the time to upgrade is
+   finally here. And for those who already made the jump to iOS 13,
+   today’s version update fixes several bugs and smooths the OS’s
+   performance for an overall better experience.
+
+   Here’s everything that iOS 13.1 adds, fixes, or changes:
+     * Numerous stability tweaks and bug fixes, including a fix for the
+       privacy location bug found in the initial iOS 13 build.
+     * Updated dynamic wallpapers, which are also now available on all
+       iPhone models (were previously iPhone 11-exclusive)
+     * A new “ETA Share” option in Apple Maps, plus an update to Maps’
+       “collections” feature that will alert you before deleting entire
+       collections
+     * An “Automations” tab has been re-added to Shortcuts
+     * New Airdrop interface for iPhone 11 models
+     * A new “Reading Goals” toggle in Apple Books
+     * A new Airpods icon will be displayed in the volume controls
+       interface when connected.
+     * Battery display icons for wirelessly connected game controllers
+     * New icon the denote beta apps
+     * Updated system font settings
+     * Updates to video and audio codec support
+
+   These add to iOS 13's other previously released features, such as a new
+   system-wide dark mode, new Airpod features, and more. iOS 13.1 should
+   be available for all users soon, though the exact rollout schedule
+   varies. You can check for new updates by going to Settings > General >
+   Software Update on your iPhone. If you were in the iOS 13.1 beta,
+   you’ll need to roll back to receive the stable version of the update.
+
+   Advertisement
+
+Recommended Stories
+
+How to Force All Apps to Use Dark Mode in iOS 13
+
+Check Out This Massive Collection of Custom Siri Shortcuts for iOS 13
+
+The Best Podcast Apps for Your iPhone and iPad (2019)
+
+   (BUTTON) New update
+   Read more!
+   View full discussion
+   Want Lifehacker’s email newsletter?Subscribe
+     *
+     *
+     *
+     *
+     *
+
+     * About
+     * Need Help?
+     * Content Guide
+     * Permissions
+     * Privacy
+     * Terms of Use
+     * Advertising
+     * Jobs
+     * RSS
+
+     * More from our network
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * © 2019 G/O Media Inc.
+
+   Share
+   Tweet

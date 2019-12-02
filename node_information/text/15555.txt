@@ -1,0 +1,468 @@
+    #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate
+
+   En poursuivant votre navigation sur ce site, vous acceptez
+   l'utilisation de cookies et autres traceurs pour vous proposer des
+   services/offres adaptés à vos centres d'intérêts, et pour réaliser des
+   statistiques. En savoir plus et les paramétrer
+
+   [[text]]
+   [[text]]
+
+   (BUTTON) Logo Mister-auto
+   ____________________
+   (BUTTON)
+   04 26 70 70 77*
+   * (Prix d'un appel local)
+   du lundi au samedi de 8h à 19h
+     * Compte pro
+       Me connecter Mon compte
+       [[ $ctrl.customer.firstName ]] [[ $ctrl.customer.lastName ]]
+       Mon compte Mes commandes Déconnexion
+       Me connecter
+       ou
+       Créer mon compte
+     * [[ ngCart.getTotalItems() | number ]] Mon panier
+       Mon panier
+       [[ (key == 0) ? 'Véhicule non précisé' : vehicleList[key] ]]
+          + [[ item.getQuantity() | number ]]x [[ item.getName() ]] [[
+            item.getData().number ]] [[ item.getPrice() | currency ]]
+       Total : [[ ngCart.totalCost() | currency ]]
+       Commander
+       Votre panier est vide
+
+     * Pièces auto
+          +
+        Meilleures ventes hiver
+               o Huile moteur
+               o Balai d'essuie-glace
+               o Frein à disque
+               o Batterie de voiture
+               o Pneus
+               o Bougies de préchauffage
+               o Bougies d'allumage
+               o Vérins
+               o Chaînes à neige
+               o Freinage
+                    # Plaquettes de frein
+                    # Disques de frein
+                    # Étrier de frein
+                    # Kit de frein à tambour
+               o Suspension - Direction
+                    # Amortisseur
+                    # Barre stabilisatrice
+                    # Triangle / bras de suspension
+                    # Roulement de roue
+                    # Rotule de direction
+               o Compartiment moteur
+                    # Kit de distribution
+                    # Courroie
+                    # Bobine d'allumage
+                    # Courroie de distribution
+                    # Bougies
+               o Filtre
+                    # Filtre à air
+                    # Filtre à huile
+                    # Filtre à carburant
+                    # Filtre habitacle
+               o Embrayage / Transmission
+                    # Kit d'embrayage
+                    # Volant moteur
+                    # Cardan
+               o Echappements et Silencieux
+                    # Silencieux arrière
+                    # Catalyseur
+                    # Vanne EGR
+                    # Sonde lambda
+               o Refroidissement moteur
+                    # Pompe à eau
+                    # Radiateur moteur
+                    # Ventilateur
+                    # Liquide de refroidissement
+               o Nos autres pièces auto
+                    # Alternateur
+                    # Démarreur
+                    # Lève-vitre
+                    # Phares et feux arrières
+                    # Ampoules
+                    # Rétroviseur
+            + Catalogue pièces auto
+     * Pneus
+     * Chaînes à neige
+     * Balais d'essuie glace
+     * Batteries
+     * Huile moteur
+     * Accessoires auto
+     * Contact
+
+Trouvez vos pièces auto
+
+     *
+     * Carte grise
+     * Références
+
+   Par plaque d'immatriculation
+   ____________________
+   (BUTTON) OK
+   Plus d'informations sur ce traitement et sur vos droits
+   Les données ci-dessus présentent un caractère obligatoire et font
+   l’objet d’un traitement par Mister Auto SAS destiné à l’exécution de
+   votre commande. Elles sont transmises aux prestataires auxquels Mister
+   Auto SAS a recours à cette fin, le cas échéant hors de l’Union
+   européenne avec des garanties juridiques appropriées dont vous pouvez
+   obtenir communication à l’adresse ci-dessous. Elles sont conservées
+   pour une durée maximale de 5 ans.
+   Vous pouvez accéder, modifier, faire valoir votre droit à la
+   portabilité, faire supprimer toutes données vous concernant, demander
+   la limitation du traitement de vos données et vous opposer au
+   traitement de vos données par courrier à Mister Auto, Data Protection,
+   19 rue Alfred de Musset, 69100 Villeurbanne et par email à
+   dataprotection@mister-auto.com, sous réserve que votre demande n’ait
+   pas pour conséquence l’impossibilité pour Mister Auto SAS de remplir
+   ses obligations légales ou contractuelles. Vous disposez également du
+   droit d’exercer une réclamation auprès de la CNIL.
+   (BUTTON)
+   Recherche par véhicule
+   Résultats de votre recherche
+   Suite à votre recherche nous avons trouvé plusieurs propositions,
+   veuillez choisir votre véhicule dans la liste ci-dessous :
+   [[ vehicle.libelle ]] [[ vehicle.carburant ]] [[ vehicle.annee ]]
+   Nous sommes désolés mais nous ne connaissons pas le véhicule associé à
+   la plaque d'immatriculation saisie.
+   Une erreur s’est produite pendant la vérification du captcha, veuillez
+   réessayer.
+   ou
+   En sélectionnant mon véhicule
+   [Choisissez une marque]
+   [Choisissez un modèlee]
+   [Choisissez une motorisation]
+   (BUTTON) OK
+   Entrez votre type mine Entrez votre type mi
+   (BUTTON) Rechercher
+   (BUTTON)
+   Recherche par véhicule
+   Résultats de votre recherche
+   Suite à votre recherche nous avons trouvé plusieurs propositions,
+   veuillez choisir votre véhicule dans la liste ci-dessous :
+   [[vehicle.libelle ]]
+   Nous sommes désolés mais nous ne connaissons pas le véhicule associé à
+   la plaque d'immatriculation saisie.
+   Comment trouver mon type mine ?
+
+   Afin d’accéder au catalogue de pièces correspondant à votre véhicule,
+   nous avons besoin de votre type mine que vous pouvez trouver à
+   plusieurs endroits sur votre carte grise selon l’année :
+   Avant 2004
+   De 2004 à 2009
+   Après 2009
+   (BUTTON) J'ai compris
+
+   Nouveau !
+
+   Trouvez vos pièces auto par recherche OEM ou REF depuis la barre de
+   recherche principale.
+   (BUTTON) Accéder à la barre de recherche
+   [[item.text_1]] [javascript]
+   [[text]] [javascript]
+   [[text]] [javascript]
+
+   Filiale du Groupe PSA
+   1 million de
+   pièces en stock
+   5 483 813
+   clients
+   Expédition
+   le jour même
+
+Meilleures ventes pièces auto
+
+   Jeu de 4 plaquettes de frein avant
+   À partir de 8.90 €
+   Jeu de 4 plaquettes de frein avant
+   BOLK BOSCH B-PRO
+   Découvrir
+   Disque de frein avant
+   À partir de 14.90 €
+   Disque de frein avant
+   BOLK BREMBO B-PRO
+   Découvrir
+   Balai d'essuie-glace
+   À partir de 3.90 €
+   Balai d'essuie-glace
+   BOLK VALEO BOSCH
+   Découvrir
+   Kit d'embrayage
+   À partir de 39.90 €
+   Kit d'embrayage
+   BOLK LuK SACHS
+   Découvrir
+   Filtre à huile
+   À partir de 1.90 €
+   Filtre à huile
+   BOLK PURFLUX MANN-FILTER
+   Découvrir
+
+Nos marques de voiture
+
+   AUDI
+   BMW
+   CITROEN
+   DACIA
+   FIAT
+   FORD
+   MERCEDES-BENZ
+   OPEL
+   PEUGEOT
+   RENAULT
+   SEAT
+   VOLKSWAGEN
+
+Nos Pièces détachées auto
+
+   Freinage
+     * Plaquettes de frein
+     * Plaquette de frein arrière
+     * Disques de frein
+     * Étrier de frein
+     * Kit de frein Voir +
+
+   Filtration - Huile - Vidange
+     * Filtre à huile
+     * Filtre à carburant
+     * Filtre habitacle
+     * Huile moteur Voir +
+
+   Suspension - Direction
+     * Amortisseur
+     * Rotule de direction
+     * Biellette de direction
+     * Triangle / bras de suspension Voir +
+
+   Embrayages - Transmission
+     * Kit d'embrayage
+     * Cardan
+     * Soufflet de cardan Voir +
+
+   Compartiment moteur
+     * Bougie de préchauffage
+     * Bougie d'allumage
+     * Bobine d'allumage
+     * Courroie de distribution Voir +
+
+   Equipements extérieurs
+     * Feu arrière
+     * Balai d'essuie-glace
+     * Pompe lave glace
+     * Ampoule phare avant / antibrouillard
+     * Rétroviseur extérieur Voir +
+
+   Pièces d'échappement
+     * Pot d'échappement
+     * Catalyseur / Pot catalytique
+     * Filtre à particules / FAP
+     * Vanne EGR Voir +
+
+   Electricité auto
+     * Alternateur
+     * Démarreur
+     * Comodo phare et essuie glace Voir +
+
+   Refroidissement moteur
+     * Pompe à eau
+     * Vase d'expansion
+     * Radiateur moteur
+     * Ventilateur moteur
+     * Thermostat / Calorstat Voir +
+
+   Chauffage - Climatisation
+     * Compresseur de climatisation
+     * Condenseur de climatisation
+     * Radiateur de chauffage
+     * Ventilation habitacle Voir +
+
+   Serrures - Fermeture
+     * Neiman
+     * Lève-vitre
+     * Vérin de coffre / hayon
+     * Vérin de capot Voir +
+
+Nos équipementiers Auto
+
+   BERU
+   BOSCH
+   BREMBO
+   CASTROL
+   CONTITECH
+   FEBI BILSTEIN
+   FULMEN
+   GATES
+   LuK
+   MONROE
+   PURFLUX
+   SACHS
+   SKF
+   TOTAL
+   TRW
+   VALEO
+   VARTA
+
+Achetez vos pièces auto en ligne sur Mister Auto
+
+   Depuis qu’elle a été créée en 2007, la société Mister Auto s’est
+   imposée comme un des leaders européens dans la vente de pièces auto,
+   proposant un large choix de produits de qualité à petits prix. Vous
+   recherchez une pièce pour un modèle de voiture en particulier ? Vous
+   êtes à la recherche de pièces détachées neuves à prix discount ? Grâce
+   à notre catalogue complet, vous pourrez trouver tout ce dont vous avez
+   besoin pour remettre votre véhicule en état : des pièces auto
+   indispensables comme les freins, les filtres, la suspension et
+   l’embrayage, les accessoires autos, et bien d’autres encore. Grâce aux
+   efforts fournis pour garantir un excellent service, rapide et de
+   qualité, nous avons à ce jour pu satisfaire les exigences de plus d’un
+   million et demi de clients, partout dans le monde (dans plus de 19 pays
+   !). N’attendez plus pour acheter des pièces auto en ligne sur le site
+   mister-auto.com.
+
+Pièces auto d'origine
+
+   Vous recherchez une pièce détachée d’origine équipementier ? Sur notre
+   site vous trouverez des pièces auto d’origine pour plus de 50 marques
+   de véhicules différentes, dont Peugeot, Citroën, Opel, Renault, Audi,
+   Ford, BMW, Mercedes, Nissan et beaucoup d’autres encore. Grâce au
+   moteur de recherche interne vous pourrez trouver exactement la pièce
+   qu’il vous faut, sans vous tromper. Explorez notre catalogue tout
+   simplement pour trouver la pièce qu’il vous faut. Dès que vous aurez
+   sélectionné le type de pièce de rechange, il vous sera possible de
+   faire une recherche par marque, série, modèle et motorisation. Ou, plus
+   simple encore, vous pourrez faire une recherche par plaque
+   d’immatriculation ou par numéro de carte grise ! Trouver LA pièce auto
+   compatible avec votre voiture n’aura jamais été aussi facile !
+
+Qualité et sécurité à des prix imbattables
+
+   Dans notre catalogue il est également possible de rechercher des pièces
+   par équipementier ; vous aurez le choix parmi les meilleures marques,
+   telles que : BOSCH, Valeo, Castrol, SKF, TRW, Monroe, Contitech, Luk,
+   Purflux, et bien d’autres. Les pièces détachées fabriquées par ces
+   équipementiers répondent aux mêmes spécifications techniques que les
+   pièces d'origine. Découvrez notre meilleure sélection de pièces avec
+   plus de 600.000 pièces et accessoires auto de plus de 90 équipementiers
+   différents.
+
+   Toutes les pièces détachées disponibles sur Mister Auto sont
+   homologuées et respectent les standards européens de qualité et
+   sécurité : en commandant sur notre site vous aurez la certitude
+   d’acheter des produits fiables et certifiés, fabriqués pour durer. En
+   plus de vous offrir la meilleure qualité, nous vous garantissons aussi
+   d’importantes économies sur votre budget auto. En achetant nos pièces
+   directement chez les plus grands équipementiers -avec lesquels nous
+   sommes en relation au quotidien- nous vous proposons régulièrement de
+   nombreuses promotions et offres spéciales, en plus de prix extrêmement
+   compétitifs : jusqu’à -60% sur le tarif public équipementier. Acheter
+   des pièces auto à prix discount sur mister-auto.com c’est le bon plan !
+
+Pourquoi acheter des pièces auto sur Mister Auto ?
+
+   Fiabilité, qualité, rapidité. Depuis 2007, Mister Auto n’a eu qu’une
+   seule et même priorité : la satisfaction de ses clients.
+   Et c’est exactement pour cela, qu’en plus de vous offrir les meilleurs
+   prix, nous mettons aussi à votre disposition de nombreux services :
+     * Des milliers de pièces expédiées le jour même
+     * Livraison à domicile et en point relais en 24/48h
+     * Livraison gratuite toute l’année pour les professionnels de
+       l’automobile
+     * Paiement facile et sécurisé
+     * Paiement flexible 3x
+
+   Sur mister-auto.com, vous pourrez commander vos pièces online 24 heures
+   sur 24, en toute simplicité. En ce qui concerne les paiements nous
+   acceptons les principales cartes bancaires, en plus des virements,
+   chèques bancaires et Paypal. Si vous avez des questions, des doutes, ou
+   si vous avez besoin d’aide pour choisir une pièce détachée, vous pouvez
+   appeler notre service client du lundi au vendredi de 9h à 19h, et il
+   vous est même possible de commander des pièces par téléphone. Voilà
+   comment nous nous efforçons d’offrir à tous nos clients un service de
+   la meilleure qualité qui soit.
+   Voir plus Voir moins
+
+   palmares 2019
+
+   Pour une 2^ème année consécutive, Mister Auto est élu meilleur site de
+   commerce en ligne de vente de Pièces Auto
+
+   150 experts
+   à votre écoute
+   Prix et sécurité
+   Expédition
+   le jour même
+   Retours faciles
+   pendant 30 jours
+
+   Newsletter
+   ____________________ (BUTTON) OK
+   Réseaux sociaux
+     *
+     *
+     *
+
+   Vous voulez commander ? (BUTTON) Vous voulez commander ?
+     * Comment commander ?
+     * Modes de livraison
+     * Moyens de paiement
+     * Votre suivi de commande
+     * Retour et remboursement
+     * Nous contacter
+
+   Infos pratiques (BUTTON) Infos pratiques
+     * Qui sommes-nous ?
+     * Foire aux questions
+     * Inscrivez-vous à la newsletter
+     * Créer un compte pro
+     * Tutoriaux Conseils
+     * Montage de vos pièces ^Nouveau
+
+   Marques auto (BUTTON) Marques auto
+          + RENAULT
+          + PEUGEOT
+          + CITROEN
+          + VOLKSWAGEN
+          + FORD
+       Nos marques
+
+   Les Equipementiers auto (BUTTON) Les Equipementiers auto
+          + BOSCH
+          + VALEO
+          + MONROE
+          + TOTAL
+          + SKF
+       Nos équipementiers
+
+   Contactez-nous au
+   04 26 70 70 77
+   (Prix d'un appel local)
+   du lundi au samedi de 8h à 19h
+
+   Mister auto est présent dans 19 pays
+   France
+   4.4 / 5 google_stars (basée sur 49902 évaluations) : avis clients basés
+   sur les données recueillies par Google et/ou ses partenaires pour
+   mister-auto.com
+   Logo TecDoc
+   Les données affichées ici, particulièrement la base de donnée complète,
+   ne doivent pas être copiées. Il est interdit d’exploiter les données ou
+   la base de données complète, de laisser un tiers les exploiter, ni de
+   les rendre accessible à un tiers, sans accord préalable de TecDoc.
+   Toute infraction constitue une violation des droits d’auteur et fera
+   l’objet de poursuites.
+     * CGV -
+     * Politique de confidentialité -
+     * 2007 - 2019 © Mister Auto
+     *
+
+   Icône de chargement
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P9RFHN
+
+   832d8e99543c9eb6058233655e7e90e0

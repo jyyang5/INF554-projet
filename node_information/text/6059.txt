@@ -1,0 +1,1256 @@
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Inscriptions à l’école, secondaire (% net) (BUTTON) France (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Inscriptions à l’école, secondaire (% net) - France
+
+   Institut de statistique de l'UNESCO
+   LigneColonneCarte
+   (BUTTON) Afficher également
+     * Aucun
+     * Agrégats
+     * Même région
+     * Valeurs similaires
+     * Valeurs les plus élevées
+     * Valeurs les plus basses
+
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1976 - 2017
+   [1976][2017]
+     * Inscriptions à l’école, secondaire, garçons (% net)
+       [placeholder.png]
+     * Inscriptions à l’école, secondaire, filles (% net)
+       [placeholder.png]
+     * Niveau d éducation, achèvement du premier cycle des études
+       secondaires au minimum, population de 25 ans et plus (%)
+       [placeholder.png]
+     * Taux d’achèvement du premier cycle des études secondaires, total
+       (% du groupe d’âge pertinent)
+       [placeholder.png]
+     * Enseignants qualifiés dans le secondaire, femmes (% de la
+       population enseignante féminine)
+       [placeholder.png]
+     * Taux d’achèvement du premier cycle des études secondaires, garçons
+       (% du groupe d’âge pertinent)
+       [placeholder.png]
+     * Adolescents non scolarisés, garçons (% des garçons en âge de
+       fréquenter le 1er cycle du secondaire)
+       [placeholder.png]
+     * Ratio élève-enseignant au secondaire
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Pays et économies sélectionnés
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Consommation d’énergies renouvelables (% de la consommation totale
+   d’énergie) (BUTTON) ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Consommation d’énergies renouvelables (% de la consommation totale d’énergie)
+
+   Banque mondiale, base de données Sustainable Energy for All ( SE4ALL )
+   dérivée du SE4ALL Global Tracking Framework ( Banque mondiale, Agence
+   internationale de l’énergie et Programme d’assistance à la gestion du
+   secteur énergétique [ESMAP] ).
+   LigneColonneCarte
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1990 - 2015
+   [1990][2015]
+     * Production d’électricité à partir de sources pétrolières (% du
+       total)
+       [placeholder.png]
+     * Énergie alternative et nucléaire (% de l’utilisation totale
+       d’énergie)
+       [placeholder.png]
+     * Production d’électricité à partir de sources d’énergie
+       renouvelables, hors énergie hydroélectrique (kWh)
+       [placeholder.png]
+     * Production d’électricité à partir de sources nucléaires (% du
+       total)
+       [placeholder.png]
+     * Pertes d’électricité lors de la transmission et de la distribution
+       (% de la production)
+       [placeholder.png]
+     * Utilisation d’énergie (kg d’équivalent pétrole par habitant)
+       [placeholder.png]
+     * Accès à l’électricité, zones urbaines (% de la population urbaine)
+       [placeholder.png]
+     * Importations d’énergie, nettes (% de l’utilisation d’énergie)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Surface forestière (km carrés) (BUTTON) Croatie (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Surface forestière (km carrés) - Croatia
+
+   fichiers électroniques et site Web de l’Organisation des Nations Unies
+   pour l’alimentation et l’agriculture.
+   LigneColonneCarte
+   (BUTTON) Afficher également
+     * Aucun
+     * Agrégats
+     * Même région
+     * Valeurs similaires
+     * Valeurs les plus élevées
+     * Valeurs les plus basses
+
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1990 - 2016
+   [1990][2016]
+     * Surface forestière (% du territoire)
+       [placeholder.png]
+     * Terres agricoles (% du territoire)
+       [placeholder.png]
+     * Terres agricoles (km carrés)
+       [placeholder.png]
+     * Zones rurales dont l’altitude est < à 5 m (% de la superficie
+       totale)
+       [placeholder.png]
+     * Zones urbaines dont l’altitude est < à 5 m (% de la superficie
+       totale)
+       [placeholder.png]
+     * Territoire (km carrés)
+       [placeholder.png]
+     * Zones urbaines dont l’altitude est < à 5 m (km2)
+       [placeholder.png]
+     * Superficie des zones urbaines (km2)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Pays et économies sélectionnés
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Total des bénéfices tirés des ressources naturelles (% du PIB) (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Total des bénéfices tirés des ressources naturelles (% du PIB)
+
+   estimations basées sur des sources et méthodes décrites dans " The
+   Changing Wealth of Nations: Measuring Sustainable Development in the
+   New Millennium " ( La richesse changeante des nations : mesurer le
+   développement durable dans le nouveau millénaire ), publié par la
+   Banque mondiale en 2011.
+   LigneColonneCarte
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1970 - 2017
+   [1970][2017]
+     * Croissance du PIB par habitant (% annuel)
+       [placeholder.png]
+     * Inflation, déflateur du PIB (% annuel)
+       [placeholder.png]
+     * Bénéfices tirés du pétrole (% du PIB)
+       [placeholder.png]
+     * Bénéfices tirés du charbon (% du PIB)
+       [placeholder.png]
+     * PIB ($ US courants)
+       [placeholder.png]
+     * Valeur ajoutée brute au coût des facteurs ($ US courants)
+       [placeholder.png]
+     * Valeur ajoutée brute au coût des facteurs (unités de devises
+       locales courantes)
+       [placeholder.png]
+     * Croissance du PIB (% annuel)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Dette du gouvernement central, total (% du PIB) (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Dette du gouvernement central, total (% du PIB)
+
+   Annuaire sur les statistiques financières des gouvernements et autres
+   fichiers de données du Fonds monétaire international et estimations du
+   PIB de la Banque mondiale et de l’OCDE.
+   LigneColonneCarte
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1970 - 2017
+   [1970][2017]
+     * Dette du gouvernement central, total (unités de devises locales
+       courantes)
+       [placeholder.png]
+     * Dépenses (% du PIB)
+       [placeholder.png]
+     * Revenus fiscaux (unités de devises locales courantes)
+       [placeholder.png]
+     * Impôts sur les revenus, les profits et les gains en capital (unités
+       de devises locales courantes)
+       [placeholder.png]
+     * Subventions et autres revenus (% des revenus)
+       [placeholder.png]
+     * Dépenses (unités de devises locales courantes)
+       [placeholder.png]
+     * Paiements d’intérêt (% des dépenses)
+       [placeholder.png]
+     * Cotisations sociales (% des revenus)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Inscriptions à l’école, secondaire (% net) (BUTTON) France (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Inscriptions à l’école, secondaire (% net) - France
+
+   Institut de statistique de l'UNESCO
+   LigneColonneCarte
+   (BUTTON) Afficher également
+     * Aucun
+     * Agrégats
+     * Même région
+     * Valeurs similaires
+     * Valeurs les plus élevées
+     * Valeurs les plus basses
+
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1976 - 2017
+   [1976][2017]
+     * Inscriptions à l’école, secondaire, garçons (% net)
+       [placeholder.png]
+     * Inscriptions à l’école, secondaire, filles (% net)
+       [placeholder.png]
+     * Niveau d éducation, achèvement du premier cycle des études
+       secondaires au minimum, population de 25 ans et plus (%)
+       [placeholder.png]
+     * Taux d’achèvement du premier cycle des études secondaires, total
+       (% du groupe d’âge pertinent)
+       [placeholder.png]
+     * Enseignants qualifiés dans le secondaire, femmes (% de la
+       population enseignante féminine)
+       [placeholder.png]
+     * Taux d’achèvement du premier cycle des études secondaires, garçons
+       (% du groupe d’âge pertinent)
+       [placeholder.png]
+     * Adolescents non scolarisés, garçons (% des garçons en âge de
+       fréquenter le 1er cycle du secondaire)
+       [placeholder.png]
+     * Ratio élève-enseignant au secondaire
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Pays et économies sélectionnés
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Consommation d’énergies renouvelables (% de la consommation totale
+   d’énergie) (BUTTON) ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Consommation d’énergies renouvelables (% de la consommation totale d’énergie)
+
+   Banque mondiale, base de données Sustainable Energy for All ( SE4ALL )
+   dérivée du SE4ALL Global Tracking Framework ( Banque mondiale, Agence
+   internationale de l’énergie et Programme d’assistance à la gestion du
+   secteur énergétique [ESMAP] ).
+   LigneColonneCarte
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1990 - 2015
+   [1990][2015]
+     * Production d’électricité à partir de sources pétrolières (% du
+       total)
+       [placeholder.png]
+     * Énergie alternative et nucléaire (% de l’utilisation totale
+       d’énergie)
+       [placeholder.png]
+     * Production d’électricité à partir de sources d’énergie
+       renouvelables, hors énergie hydroélectrique (kWh)
+       [placeholder.png]
+     * Production d’électricité à partir de sources nucléaires (% du
+       total)
+       [placeholder.png]
+     * Pertes d’électricité lors de la transmission et de la distribution
+       (% de la production)
+       [placeholder.png]
+     * Utilisation d’énergie (kg d’équivalent pétrole par habitant)
+       [placeholder.png]
+     * Accès à l’électricité, zones urbaines (% de la population urbaine)
+       [placeholder.png]
+     * Importations d’énergie, nettes (% de l’utilisation d’énergie)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Surface forestière (km carrés) (BUTTON) Croatie (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Surface forestière (km carrés) - Croatia
+
+   fichiers électroniques et site Web de l’Organisation des Nations Unies
+   pour l’alimentation et l’agriculture.
+   LigneColonneCarte
+   (BUTTON) Afficher également
+     * Aucun
+     * Agrégats
+     * Même région
+     * Valeurs similaires
+     * Valeurs les plus élevées
+     * Valeurs les plus basses
+
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1990 - 2016
+   [1990][2016]
+     * Surface forestière (% du territoire)
+       [placeholder.png]
+     * Terres agricoles (% du territoire)
+       [placeholder.png]
+     * Terres agricoles (km carrés)
+       [placeholder.png]
+     * Zones rurales dont l’altitude est < à 5 m (% de la superficie
+       totale)
+       [placeholder.png]
+     * Zones urbaines dont l’altitude est < à 5 m (% de la superficie
+       totale)
+       [placeholder.png]
+     * Territoire (km carrés)
+       [placeholder.png]
+     * Zones urbaines dont l’altitude est < à 5 m (km2)
+       [placeholder.png]
+     * Superficie des zones urbaines (km2)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Pays et économies sélectionnés
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Total des bénéfices tirés des ressources naturelles (% du PIB) (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Total des bénéfices tirés des ressources naturelles (% du PIB)
+
+   estimations basées sur des sources et méthodes décrites dans " The
+   Changing Wealth of Nations: Measuring Sustainable Development in the
+   New Millennium " ( La richesse changeante des nations : mesurer le
+   développement durable dans le nouveau millénaire ), publié par la
+   Banque mondiale en 2011.
+   LigneColonneCarte
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1970 - 2017
+   [1970][2017]
+     * Croissance du PIB par habitant (% annuel)
+       [placeholder.png]
+     * Inflation, déflateur du PIB (% annuel)
+       [placeholder.png]
+     * Bénéfices tirés du pétrole (% du PIB)
+       [placeholder.png]
+     * Bénéfices tirés du charbon (% du PIB)
+       [placeholder.png]
+     * PIB ($ US courants)
+       [placeholder.png]
+     * Valeur ajoutée brute au coût des facteurs ($ US courants)
+       [placeholder.png]
+     * Valeur ajoutée brute au coût des facteurs (unités de devises
+       locales courantes)
+       [placeholder.png]
+     * Croissance du PIB (% annuel)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION
+    The World Bank Données (BUTTON) [logo-grey.jpg]
+   (BUTTON)
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+   Dette du gouvernement central, total (% du PIB) (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+   (BUTTON) Close
+
+   Naviguer parPaysouIndicateur
+   DataBankMicrodonnéesCatalogue
+   (BUTTON) Menu
+   Cette page en:
+     * English
+     * Español
+     * Français
+     * العربية
+     * 中文
+
+     * Microdata
+     * Data Catalog
+     * DataBank
+
+   Naviguer parPaysIndicateur
+     * À propos
+          + Commencer
+          + Questions fréquentes (a)
+          + Aide
+          + Contacts
+
+     * Programmes de données
+          + Amélioration des capacités statistiques
+          + Programme de comparaison internationale
+          + Réseau international d’enquêtes auprès des ménages (IHSN) (a)
+          + Plate-forme conjointe sur la dette extérieure
+          + Guide pratique pour l’ouverture des données publiques
+          + Statistiques semestrielles sur la dette extérieure
+          + Fonds fiduciaire pour le renforcement des capacités
+            statistiques
+
+     * Nos Produits
+          + Indicateurs du développement dans le monde (a)
+          + Statistiques de la dette internationale
+          + Autres ouvrages et rapports
+          + Pays et Groupes de Prêt (a)
+          + Portails et outils relatifs aux données (a)
+
+     * Objectifs de développement (a)
+     * Conditions d'utilisation
+     * Développeurs (a)
+
+Dette du gouvernement central, total (% du PIB)
+
+   Annuaire sur les statistiques financières des gouvernements et autres
+   fichiers de données du Fonds monétaire international et estimations du
+   PIB de la Banque mondiale et de l’OCDE.
+   LigneColonneCarte
+   (BUTTON) Partager (BUTTON) Détails
+   Étiquette [X]
+   [placeholder.png]
+
+   1970 - 2017
+   [1970][2017]
+     * Dette du gouvernement central, total (unités de devises locales
+       courantes)
+       [placeholder.png]
+     * Dépenses (% du PIB)
+       [placeholder.png]
+     * Revenus fiscaux (unités de devises locales courantes)
+       [placeholder.png]
+     * Impôts sur les revenus, les profits et les gains en capital (unités
+       de devises locales courantes)
+       [placeholder.png]
+     * Subventions et autres revenus (% des revenus)
+       [placeholder.png]
+     * Dépenses (unités de devises locales courantes)
+       [placeholder.png]
+     * Paiements d’intérêt (% des dépenses)
+       [placeholder.png]
+     * Cotisations sociales (% des revenus)
+       [placeholder.png]
+
+Télécharger
+
+   CSVXMLEXCEL
+
+DataBank
+
+   Explore our DataBank.
+
+Voir le tableau WDI correspondant
+
+   Explore the WDI tables.
+
+Tous les pays et économies
+
+   Nom du pays
+   Année la Plus Récente
+   Valeur la Plus Récente
+   Aidez-nous à améliorer ce site (BUTTON) Aide/Feedback
+     * Œuvrer pour un monde sans pauvreté
+     * BIRD
+     * IDA
+     * IFC
+     * MIGA
+     * CIRDI
+
+     * Droits
+     * Accès à l’information
+     * Emplois
+     * Contacts
+
+   © 2019 Groupe Banque mondiale. Tous droits réservés.
+   SIGNALER UN CAS DE FRAUDE OU DE CORRUPTION

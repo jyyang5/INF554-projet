@@ -1,0 +1,566 @@
+   Newsletters
+   Cheat
+   Sheet
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+WAIT… WHAT?
+
+Trump’s ‘Missing DNC Server’ Is Neither Missing Nor a Server
+
+   The president can spout conspiracy theories all he wants. But the DNC
+   turned over all its key data to the FBI after it got hacked. And that
+   info wasn’t stored on a single server.
+   [WQqjBMil_400x400_1_jcn2ha.jpg]
+
+Kevin Poulsen
+
+   Sr. National Security Correspondent
+   Updated 07.17.18 6:49PM ET / Published 07.16.18 9:58PM ET
+   [180716-poulsen-trump-hero_smaafa]
+
+Photo Illustration by The Daily Beast
+
+   Donald Trump turns to right-wing conspiracy theories when he’s
+   cornered, and he was cornered on Monday. Standing feet away from
+   Vladimir Putin at a press conference following their Helsinki
+   tete-a-tete, a reporter challenged Trump to condemn Putin for Russia’s
+   election interference, “in front of the world.” Instead, the world
+   watched as the president of the United States took Putin’s side against
+   his own Justice Department and his own intelligence agencies, and
+   launched into a rambling discourse about Hillary Clinton’s emails and a
+   supposedly missing DNC server that hides the truth about Putin’s
+   innocence.
+
+   “You have groups that are wondering why the FBI never took the server.
+   Why didn’t they take the server? Where is the server, I want to know,
+   and what is the server saying?”
+
+   The server is saying shut up.
+
+   The “server” Trump is obsessed with is actually 140 servers, most of
+   them cloud-based, which the DNC was forced to decommission in June 2016
+   while trying to rid its network of the Russian GRU officers working to
+   help Trump win the election, according to the figures in the DNC’s
+   civil lawsuit against Russia and the Trump campaign. Another 180
+   desktop and laptop computers were also swapped out as the DNC raced to
+   get the organization back on its feet and free of Putin’s surveillance.
+
+   But despite Trump’s repeated feverish claims to the contrary, no
+   machines are actually missing.
+   “Despite Trump’s repeated feverish claims to the contrary, no machines
+   are actually missing.”
+
+   It’s true that the FBI doesn’t have the DNC’s computer hardware. Agents
+   didn’t sweep into DNC headquarters, load up all the equipment and leave
+   Democrats standing stunned beside empty desks and dangling cables.
+   There’s a reason for that, and it has nothing to do with a deep state
+   conspiracy to frame Putin.
+
+   Trump and his allies are capitalizing on a basic misapprehension of how
+   computer intrusion investigations work. Investigating a virtual crime
+   isn’t a like investigating a murder. The Russians didn’t leave DNA
+   evidence on the server racks and fingerprints on the keyboards. All the
+   evidence of their comings and goings was on the computer hard drives,
+   and in memory, and in the ephemeral network transmissions to and from
+   the GRU’s command-and-control servers.
+
+   When cyber investigators respond to an incident, they capture that
+   evidence in a process called “imaging.” They make an exact
+   byte-for-byte copy of the hard drives. They do the same for the
+   machine’s memory, capturing evidence that would otherwise be lost at
+   the next reboot, and they monitor and store the traffic passing through
+   the victim’s network. This has been standard procedure in computer
+   intrusion investigations for decades. The images, not the computer’s
+   hardware, provide the evidence.
+
+   Both the DNC and the security firm Crowdstrike, hired to respond to the
+   breach, have said repeatedly over the years that they gave the FBI a
+   copy of all the DNC images back in 2016. The DNC reiterated that Monday
+   in a statement to the Daily Beast.
+
+   “The FBI was given images of servers, forensic copies, as well as a
+   host of other forensic information we collected from our systems,” said
+   Adrienne Watson, the DNC’s deputy communications director. “We were in
+   close contact and worked cooperatively with the FBI and were always
+   responsive to their requests. Any suggestion that they were denied
+   access to what they wanted for their investigation is completely
+   incorrect.”
+
+   The FBI declined comment for this story, but in testimony before the
+   House Intelligence Committee last year, then-director James Comey said
+   that Crowdstrike “ultimately shared with us their forensics.”
+
+   At that same hearing, Comey complained that the DNC didn’t give the FBI
+   direct access to the DNC’s servers. It’s unclear why Comey wanted the
+   FBI operating on the DNC’s live network, but if the DNC demurred it
+   wouldn’t be an unusual call, particularly five months before election
+   day.
+
+   “The FBI is looking to investigate and prosecute crimes, and we’re
+   looking to return a system to operation as quickly as possible with
+   minimal impact,” said Rendition Infosec’s Jake Williams, one of several
+   incident response professionals interviewed for this story. “I can tell
+   you honestly that had I been part of that incident response, I would
+   not have advocated calling in the FBI. Every minute the FBI spends
+   keeping the actors in play, that’s a minute I don’t get back in
+   prepping for the election. I would absolutely have shared images with
+   them.”
+
+   Kenn White, a security expert and former DHS adviser, agreed that the
+   FBI wouldn’t have expected direct access to DNC’s computers, “The FBI
+   had one of the best cyber security firms in the world giving them
+   forensics, and going in depth and reverse engineering to the byte level
+   these implants and turning it over.”
+
+   In some versions of the servergate conspiracy theory now espoused by
+   Trump, nothing less than physical possession of the hardware will
+   suffice, because Crowdstrike, a respected security firm helmed by a
+   former senior FBI agent, might be part of the deep state’s efforts to
+   frame Putin. White scoffs at that notion, noting that National
+   Republican Congressional Committee is one of Crowdstrike’s customers.
+
+   “I’ve done incident response for defense contractors and healthcare
+   groups, this is all standard practice,” said White. “It’s completely
+   defensible in terms of best practices and what was going on.”
+   “We were in close contact and worked cooperatively with the FBI. Any
+   suggestion that they were denied access to what they wanted for their
+   investigation is completely incorrect.”
+   — DNC's Adrienne Watson
+
+   It’s also consistent with the Department of Justice’s electronic
+   evidence manual, which recommends capturing images when practical even
+   when the FBI is executing a search warrant against a uncooperative
+   suspect. When the computers belong to a cooperating victim, seizing the
+   machines is pretty much out of the question, said James Harris, a
+   former FBI cybercrime agent who worked on a 2009 breach at Google
+   that’s been linked to the Chinese government.
+
+   “In most cases you don’t even ask, you just assume you’re going to make
+   forensic copies,” said Harris, now vice president of engineering at PFP
+   Cyber. “For example when the Google breach happened back in 2009,
+   agents were sent out with express instructions that you image what they
+   allow you to image, because they’re the victim, you don’t have a search
+   warrant, and you don’t want to disrupt their business.”
+
+   There’s a final bit of evidence that the FBI got what it wanted from
+   the DNC, and it was filed in the U.S. District Court in Washington,
+   D.C. last Friday: 29-pages of inside details showing exactly how and
+   when the GRU’s hackers moved through the DNC’s network on their mission
+   to help Trump.
+
+   If the president really wants to know what the DNC server is saying,
+   it’s all in the indictment against Putin’s hackers. He just has to
+   listen.
+   [WQqjBMil_400x400_1_jcn2ha.jpg]
+
+Kevin Poulsen
+
+   Sr. National Security Correspondent
+   @kpoulsenKevin.Poulsen@thedailybeast.com
+
+   Got a tip? Send it to The Daily Beast here.
+
+READ THIS LIST
+
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+     * About
+     * Contact
+     * Tips
+     * Jobs
+     * Help
+     * Privacy
+     * Code of Ethics & Standards
+     * Terms & Conditions
+     * Copyright & Trademark
+     * Sitemap
+     * Coupons
+
+   © 2019 The Daily Beast Company LLC
+   Advertise With Us
+   Newsletters
+   Cheat
+   Sheet
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+CLOAK AND DAGGER
+
+The Epic Honey Trap: A Classic Case Shows Just How Far Moscow Will Go
+
+   The French ambassador looked like an easy target, but 100 operatives
+   were called on to get him laid, and get him recruited.
+   [Michael_Weiss.jpg]
+
+Michael Weiss
+
+   Updated 10.23.18 8:22AM ET / Published 07.30.16 12:13AM ET
+   [181021-Weiss-Cloak-Dagger-KGB-tease_j57ljm] BEAST INSIDE
+
+Photo Illustration by The Daily Beast
+
+   “Eh bien, Dejean, on couche.”
+
+   With that contemptuous locution, which one might translate very roughly
+   as, “Well, De Jean, one gets laid,” with perhaps the added thought that
+   having made one’s bed, one must lie in it, Charles De Gaulle dismissed
+   his old friend Maurice Dejean from diplomatic service to the Fifth
+   Republic.
+
+   It was 1964, six years after the KGB had staged one of its long-running
+   and most elaborate honey traps in Moscow against a Western diplomat.
+   The operation involved over 100 officers and agents of the KGB
+   including, incognito, the head of the Second Chief Directorate, the
+   branch responsible for domestic surveillance and the monitoring or
+   recruitment of foreigners inside the Soviet Union.
+
+READ THIS LIST
+
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+     * About
+     * Contact
+     * Tips
+     * Jobs
+     * Help
+     * Privacy
+     * Code of Ethics & Standards
+     * Terms & Conditions
+     * Copyright & Trademark
+     * Sitemap
+     * Coupons
+
+   © 2019 The Daily Beast Company LLC
+   Advertise With Us
+   Newsletters
+   Cheat
+   Sheet
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+ICH BIN EIN PARTY ANIMAL
+
+Best Places to Party Around the World
+
+   Vacation is the time to kick back, relax…and have one hell of a party.
+   A new book rounds up the best places to experience a new culture by
+   getting down with the locals.
+   [Strochlic_Nina.jpg]
+
+Nina Strochlic
+
+   Updated 09.20.19 12:55PM ET / Published 01.18.14 5:45AM ET
+   [140114-strochlic-fucked-up-embed_wecw6a_piuiio] BEAST INSIDE
+
+   Researching a book entitled 101 Places to Get F*cked Up Before You Die:
+   The Ultimate Travel Guide to Partying Around the World may seem like
+   the most fun job ever. But editor David S. Miller stresses there’s more
+   to it than one might think. He describes the compilation of wild,
+   first-person adventure stories pulled from the community of travel
+   writers that comprise the Matador Network as a “Trojan Horse:” the
+   sensationally-dubbed cover opens to reveal real cultural experiences.
+
+   The book’s crazy title gave Miller pause when he was first approached
+   about the project, but he soon realized there was a lot missing in the
+   current travel literature. Most features flaunt the best beaches and
+   sunsets, but they lack details on how visitors can have authentic
+   cultural experiences. “People are just trying to sell the destination,”
+   he says. But he wanted this book to provide readers with “culture and
+   stories you wouldn’t find in every travel book.”
+
+   “The whole ethos behind the book is: it doesn’t really matter where you
+   go…even in Antarctica or the middle of the Bolivian salt flats…if
+   you’re the kind of person who isn’t much of risk-taker, this is a time
+   to get out and mix it up,” says Miller.
+
+READ THIS LIST
+
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+     * About
+     * Contact
+     * Tips
+     * Jobs
+     * Help
+     * Privacy
+     * Code of Ethics & Standards
+     * Terms & Conditions
+     * Copyright & Trademark
+     * Sitemap
+     * Coupons
+
+   © 2019 The Daily Beast Company LLC
+   Advertise With Us
+   Newsletters
+   Cheat
+   Sheet
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+PROTEST VOTE
+
+The Rhino Who Won an Election by a Landslide
+
+   With two of the most unpopular candidates ever, many voters are
+   weighing a protest vote or staying home. Citizens of São Paulo once
+   took a different approach—and elected an animal.
+   [150117-gil-troy-author.jpg]
+
+Gil Troy
+
+   Updated 09.20.19 12:43PM ET / Published 10.23.16 1:15AM ET
+   [161022-Troy-Secret-lives--tease_spnd5x] BEAST INSIDE
+
+Photo Illustration by Kelly Caminero/The Daily Beast
+
+   As the day approaches to choose between America’s two historically
+   unpopular major party nominees, some Americans still seek an
+   alternative.
+
+   Perhaps America’s unhappy undecideds should learn from history and
+   write-in a Rhino: no, not a Republican in Name Only, a real rhinoceros
+   like Cacareco. She charged ahead of a crowded field in the Sao Paolo
+   City Council elections in 1959, earning “one of the highest totals for
+   a local candidate in Brazil’s recent history,” The New York Times
+   reported.
+
+   A serious impulse triggered this Brazilian charade. On October 8, 1959
+   in Sao Paolo, sewers were overflowing, prices were soaring, supplies of
+   meat, beans, and voter patience were dwindling. Dismayed by the 540
+   candidates running for 45 council seats, some students decided, “Better
+   elect a rhinoceros than an ass.”
+
+READ THIS LIST
+
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+     * About
+     * Contact
+     * Tips
+     * Jobs
+     * Help
+     * Privacy
+     * Code of Ethics & Standards
+     * Terms & Conditions
+     * Copyright & Trademark
+     * Sitemap
+     * Coupons
+
+   © 2019 The Daily Beast Company LLC
+   Advertise With Us
+   Newsletters
+   Cheat
+   Sheet
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+CHEAT SHEET
+
+   TOP 10 RIGHT NOW
+
+Audio Cheat Sheet
+
+   Press Play, Get Smarter
+     * 1
+
+HOT WATER
+    DNI Referred Trump-Ukraine Call to DOJ as ‘Possible Crime’
+    A transcript of the call was released by the White House on Wednesday.
+       8 hrs ago
+     * 2
+
+ULTIMATUM
+    DNI Head: I’ll Quit if I Can’t ‘Speak Freely’ on Complaint
+    Maguire reportedly told the White House that he would not withhold
+       information from Congress about the whistleblower complaint
+       involving Trump.
+       3 hrs ago
+     * 3
+
+POWER PLANTS
+    Brandless Just Launched a CBD Partnership With Plant People
+    Unwind for a restful night with Drops+ Sleep CBD extract and more, now
+       available at Brandless.
+       Ad by Brandless
+     * 4
+
+WHOOPS
+    White House Emailed Its Ukraine Talking Points to Democrats
+    The email claims that “what the president actually talked about was
+       entirely proper.”
+       4 hrs ago
+     * 5
+
+IT’S IN THE MIX
+    The Iconic KitchenAid Stand Mixer Has Never Been Cheaper
+    This kitchen gadget has stood the test of time and will help you make
+       the best cookies, brownies, pasta, and bread.
+       1 hr ago
+     * 6
+
+TRAGIC
+    CA Teen Dies After Being ‘Sucker-Punched’ in Fight
+    Police say the boy, identified as a 13-year-old named Diego, died “as
+       a result of injuries sustained in the attack.”
+       3 hrs ago
+     * 7
+
+SAY IT AIN’T SO
+    New York Gov. Andrew Cuomo and Sandra Lee Have Broken Up
+    In a statement, the pair said their “romantic relationship has turned
+       into a deep friendship.”
+       1 hr ago
+     * 8
+
+POWER OF ATTORNEYS
+    Trump Also Suggested Ukraine Work With Barr on Biden Probe
+    In addition to the president suggesting Ukrainian President Zelensky
+       communicate with Rudy Giuliani on an investigation into Hunter
+       Biden.
+       8 hrs ago
+     * 9
+
+IT'S HERE
+    Senate Intel Committee Reviewing Whistleblower Complaint
+    Chairman Richard Burr (R-NC) told NBC News that the committee has
+       received the complaint.
+       2 hrs ago
+     * 10
+
+UH OH
+    Teacher Told Students to Make Captions About Slavery ‘Funny’
+    The Long Island teacher issued an apology after parents expressed
+       outrage over the assignment, which also sparked an investigation.
+       2 hrs ago
+
+CHEAT SHEET
+
+   TOP 10 RIGHT NOW
+
+CHILLING
+
+U.S. Intel: ‘High Confidence’ Russia is Behind DNC Hack
+
+   Updated 04.13.17 3:32PM ET / Published 07.26.16 9:28PM ET
+
+   U.S. intelligence agencies have “high confidence” that the Russian
+   government perpetrated a leak of Democratic National Committee
+   documents, The New York Times reports. This new consensus, apparently
+   reached through an investigation by the FBI and other intelligence
+   agencies, supports a theory that Russian agents leaked DNC information
+   in an attempt to sway American voters against the party. However, these
+   agencies have also clarifed that they are not sure whether the DNC
+   documents were obtained in a direct effort to influence election
+   results, or whether they were obtained during one of the routine hacks
+   Russia and many other governments commit.
+
+   An independent security research firm also concluded a Russian
+   government hacker was behind the DNC leak, The Daily Beast reported
+   Monday. The Virginia-based ThreatConnect firm found that a group of
+   Russian hackers, rather than just one individual, had hacked the DNC
+   servers.
+   Read it at The New York Times
+   (BUTTON)
+   DAILY BEAST
+     * Politics
+     * Entertainment
+     * World News
+     * Half Full
+     * Culture
+     * U.S. News
+     * Innovation
+     * Scouted
+     * Travel
+
+     * About
+     * Contact
+     * Tips
+     * Jobs
+     * Help
+     * Privacy
+     * Code of Ethics & Standards
+     * Terms & Conditions
+     * Copyright & Trademark
+     * Sitemap
+     * Coupons
+     * Privacy Settings
+
+   © 2019 The Daily Beast Company LLC
+   Advertise With Us

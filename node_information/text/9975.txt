@@ -1,0 +1,1435 @@
+   #Institut national d'histoire de l'art
+
+   meta meta
+
+   Aller au contenuAller à la rechercheAller au menu
+
+     * Accessibilité
+     *
+
+     * Invisu
+
+     * fr
+     * en
+
+   INHA
+     * Menu
+          + Actualités
+            ActualitésEn savoir plus
+               o Actualités de l'INHA
+               o Agenda
+               o Lettre d'information
+               o Presse
+          + L'Institut
+            L'InstitutEn savoir plus
+               o Missions et gouvernance
+               o Sites et patrimoine
+               o Réseaux et partenaires
+               o Soutenir l'INHA
+               o Informations pratiques
+               o Marchés publics
+               o Recrutements
+          + Recherche
+            RechercheEn savoir plus
+               o Le Département des études et de la recherche
+               o L'unité InVisu (CNRS-INHA)
+               o Programmation scientifique
+               o Personnels scientifiques
+               o Chercheurs invités
+               o Appels
+          + Bibliothèque
+            BibliothèqueEn savoir plus
+               o Informations pratiques
+               o Historique
+               o Collections
+               o Soutenir la bibliothèque
+               o Bibliothèque numérique
+               o Répertoire des bibliothèques
+          + Ressources
+            RessourcesEn savoir plus
+               o Carnets de recherche
+               o Outils documentaires
+               o Formations en histoire de l'art
+               o Audio-Vidéo
+               o Publications
+               o Expositions
+               o Éducation artistique et culturelle
+
+   Rechercher ____________________ Ok
+     * Catalogue de la bibliothèque
+     * Agorha
+
+     *
+
+     * Accès directs
+          + Portailde la bibliothèque
+          + Réseaux et partenariats
+          + Festival de l'histoire de l'art
+          + Agenda
+          + INHA numérique
+            INHA numérique
+               o Publications numériques
+               o Agorha
+               o Audio-vidéo
+               o Blog de la bibliothèque
+               o Catalogue de la bibliothèque
+               o Bibliothèque numérique
+
+   Partager :
+     * Envoyer par mail à un ami
+     * Partager sur Facebook
+     * Partager sur Twitter
+
+   Vous êtes ici :
+     * Accueil
+     * L'Institut
+     * Informations pratiques
+     * Accessibilité numérique
+
+Accessibilité numérique
+
+   Le site www.inha.fr utilise les standards du Web afin d’offrir une
+   accessibilité optimale des pages aux personnes handicapées (cécité
+   complète, partielle, handicap moteur ou intellectuel…), tout en étant
+   compatible avec les aides techniques (plage Braille, lecteur vocal,
+   navigation sans souris, etc.).
+
+   Les contraintes d'accessibilité ont guidé les équipes responsables de
+   la conception de ce site et nos contributeurs ont été formés à
+   l'édition de contenus accessibles. En vue de maintenir notre attention
+   et de garantir un niveau d'accessibilité optimal, nous vous saurons gré
+   de nous signaler toute difficulté d'accès aux contenus ou services
+   offerts par ce site, en employant le formulaire de contact disponible
+   sur la page "Nous contacter".
+
+Qu’est-ce que l’accessibilité numérique ?
+
+   Pour les sites Internet
+
+   Un site Internet accessible est un site qui permet au plus grand nombre
+   d'internautes d’accéder à ses contenus sans difficulté, y compris les
+   personnes qui présentent un handicap et utilisent des logiciels ou
+   matériels spécialisés.
+
+   Un site accessible permet par exemple de :
+     * naviguer avec des synthèses vocales ou des plages braille
+       (notamment utilisées par les internautes aveugles ou malvoyants) ;
+     * personnaliser l’affichage du site selon ses besoins (grossissement
+       des caractères, modification des couleurs et des contrastes) ;
+     * naviguer sans utiliser la souris, avec le clavier uniquement ou via
+       un écran tactile, etc.
+
+   Pour cela, un site Internet accessible doit respecter des normes
+   rigoureuses lors de sa conception et de ses mises à jour.
+
+   Pour les administrations : présentation du Référentiel Général
+   d'Accessibilité
+
+   L'article 47 de la loi n° 2005-102 du 11 février 2005 pour l’égalité
+   des droits et des chances, la participation et la citoyenneté des
+   personnes handicapées, fait de l’accessibilité une exigence pour tous
+   les services de communication publique en ligne de l’État, des
+   collectivités territoriales et des établissements publics qui en
+   dépendent. Il stipule que les informations diffusées par ces services
+   doivent être accessibles à tous. Le Référentiel Général d'Accessibilité
+   pour les Administrations (RGAA) permettra de rendre progressivement
+   accessible l'ensemble des informations fournies par ces services.
+
+   Le décret n°2009-546 du 14 mai 2009 (pris en application de l'article
+   47 de la loi n° 2005-102 du 11 février 2005 sur l'égalité des droits et
+   des chances, la participation et la citoyenneté des personnes
+   handicapées) impose une mise en œuvre de l’accessibilité dans un délai
+   de deux ans (à partir de la publication du décret) pour les services de
+   communication publique en ligne de l'État et des établissements publics
+   qui en dépendent, et de trois ans pour les services de communication
+   publique en ligne des collectivités territoriales et des établissements
+   publics qui en dépendent.
+
+Respect des normes d'accessibilité numérique par le site de l'INHA
+
+   Le site www.inha.fr utilise les standards du Web afin d’offrir une
+   accessibilité complète des pages aux personnes handicapées (cécité
+   complète, partielle, handicap moteur ou intellectuel…) tout en étant
+   compatible avec les aides techniques (plage Braille, lecteur vocal,
+   navigation sans souris, etc.).
+
+   Le site www.inha.fr suit les recommandations du référentiel Accessweb
+   2.2, lequel s'appuie comme le RGAA 2.2 sur les WCAG 2.0. Son niveau de
+   conformité peut être considéré comme équivalent (niveau AA/Argent) sur
+   ces trois référentiels.
+
+   Respect des normes W3C
+
+   Le code XHTML est conforme à la spécification XHTML 1.0 du W3C ; le
+   code CSS est conforme aux spécifications CSS2 et 3.
+
+   Images
+
+   Un équivalent textuel est fourni via l’attribut alt des images
+   significatives, lorsqu’elles ne sont pas décrites précisément dans le
+   texte qu’elles illustrent.
+
+   Structure et présentation
+
+   L’utilisation des propriétés de positionnement CSS, en séparant
+   totalement présentation et contenu, permet aux documents de conserver
+   hors CSS un ordre cohérent :
+     * Le titre, les contenus, les menus ;
+     * Le site est organisé en sections regroupant les articles par
+       thèmes ;
+     * la mise en page du site repose exclusivement sur des feuilles de
+       style externes ;
+     * les pages sont structurées à l’aide des titres h1.h6, employés dans
+       l’ordre approprié ;
+     * les informations formant des listes d’items sont balisées à l’aide
+       des éléments ul, ol et dl ;
+     * le style de présentation est cohérent sur l’ensemble du site, une
+       feuille de style unique étant utilisée.
+
+   Le menu principal
+
+   Le menu principal situé sous l'en-tête vous permet d’accéder aux
+   rubriques et aux pages principales du site www.inha.fr.
+
+   Le menu secondaire
+
+   Une fois dans une rubrique principale du site www.inha.fr, un second
+   menu apparaît sur la droite. Ce menu secondaire liste l’ensemble des
+   pages disponibles dans la rubrique courante.
+
+   Le menu d’accès rapide
+
+   En-dessous du menu principal, un menu d’accès rapide vous est proposé.
+   Il vous permet d’accéder directement à certaines pages, notamment
+   celles donnant accès aux ressources en ligne.
+
+   Le menu du pied de page
+
+   En bas de page, le menu du pied de page vous permet d’accéder à des
+   pages complémentaires comme les pages de Contact, de l'annuaire du
+   personnel, des mentions légales, etc.
+
+   Le plan du site en pied de page
+
+   Sur l’ensemble des pages du site, un plan du site est accessible dans
+   le menu du pied de page.
+
+   Le fil d’Ariane
+
+   Sur l’ensemble des pages du site à l’exception de la page d’accueil, un
+   fil d’Ariane est affiché en haut du contenu principal. Ce fil d’Ariane
+   vous permet de vous localiser dans l’arborescence du site.
+
+   Le moteur de recherche
+
+   Sur l’ensemble des pages, un champ de recherche est disponible
+   au-dessous du menu principal. Lorsque vous effectuez une recherche.
+
+   La Lettre d'information
+
+   Si plutôt que de visiter régulièrement le site www.inha.fr, vous
+   préférez être tenus informés de l’actualité du projet par mail, vous
+   avez la possibilité de vous inscrire à la Lettre d'information. Le
+   formulaire d’inscription est accessible depuis le pied de page.
+
+   Scripts
+
+   Les rares scripts clients utilisés sur le site ne servent à aucune
+   fonction indispensable à la navigation ou à la consultation des pages.
+   Celles-ci sont accessibles sans support JavaScript.
+
+   Redimensionnement des caractères
+
+   La mise en page repose sur l’emploi d’unités relatives vous permettant
+   d'augmenter ou de réduire la taille des caractères dans le menu de
+   votre navigateur (Affichage > Taille du texte) ou par le biais de votre
+   souris (touche Ctrl avec déplacement de la molette).
+
+   Contraste
+
+   Le contraste des couleurs (texte sur fond) peut être optimisé par
+   l'activation du lien "contraste +/-"situé en en-tête de la page
+
+   Lecture des fichiers au format PDF
+
+   Pour lire les fichiers au format PDF, vous devez installer le lecteur
+   Adobe Reader. La dernière version est disponible ici : télécharger la
+   dernière version d’Adobe Reader. Les PDF proposés en téléchargement ne
+   sont pour le moment pas entièrement accessibles.
+     * L'Institut
+          + Missions et gouvernance
+          + Sites et patrimoine
+          + Réseaux et partenaires
+          + Soutenir l'INHA
+          + Informations pratiques
+               o Vigipirate
+               o Accès et horaires
+               o Nous contacter
+               o Annuaire du personnel
+               o Foire aux Questions
+               o Mentions légales
+               o Accessibilité numérique
+               o Réseaux sans fil
+          + Marchés publics
+          + Recrutements
+
+   INHA
+
+
+    2 Rue Vivienne - 75002 Paris
+    Tél. : 01 47 03 89 00 ➦
+
+Accès et horaires
+
+   Nous localiser
+   Ministère de la Culture Ministère de l'enseignement supérieur et de la
+   recherche
+
+Vous
+& Nous
+
+     * Nous contacter
+     * Annuaire de l'INHA
+     * Mentions légales
+
+     * Appels
+     * Presse
+     * Location d'espaces
+
+   SUIVEZ-NOUS
+     * Facebook
+     * Twitter
+     * Instagram
+
+     * Institut national d'histoire de l'art
+     * Youtube
+     * Canal U
+
+     * Actualités
+          + Actualités de l'INHA
+          + Agenda
+          + Lettre d'information
+          + Presse
+     * L'Institut
+          + Missions et gouvernance
+          + Sites et patrimoine
+          + Réseaux et partenaires
+          + Soutenir l'INHA
+          + Informations pratiques
+          + Marchés publics
+          + Recrutements
+     * Recherche
+          + Le Département des études et de la recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+     * Bibliothèque
+          + Informations pratiques
+          + Historique
+          + Collections
+          + Soutenir la bibliothèque
+          + Bibliothèque numérique
+          + Répertoire des bibliothèques
+     * Ressources
+          + Carnets de recherche
+          + Outils documentaires
+          + Formations en histoire de l'art
+          + Audio-Vidéo
+          + Publications
+          + Expositions
+          + Éducation artistique et culturelle
+   #Institut national d'histoire de l'art
+
+   meta meta
+
+   Aller au contenuAller à la rechercheAller au menu
+
+     * Accessibilité
+     *
+
+     * Invisu
+
+     * fr
+     * en
+
+   INHA
+     * Menu
+          + Actualités
+            ActualitésEn savoir plus
+               o Actualités de l'INHA
+               o Agenda
+               o Lettre d'information
+               o Presse
+          + L'Institut
+            L'InstitutEn savoir plus
+               o Missions et gouvernance
+               o Sites et patrimoine
+               o Réseaux et partenaires
+               o Soutenir l'INHA
+               o Informations pratiques
+               o Marchés publics
+               o Recrutements
+          + Recherche
+            RechercheEn savoir plus
+               o Le Département des études et de la recherche
+               o L'unité InVisu (CNRS-INHA)
+               o Programmation scientifique
+               o Personnels scientifiques
+               o Chercheurs invités
+               o Appels
+          + Bibliothèque
+            BibliothèqueEn savoir plus
+               o Informations pratiques
+               o Historique
+               o Collections
+               o Soutenir la bibliothèque
+               o Bibliothèque numérique
+               o Répertoire des bibliothèques
+          + Ressources
+            RessourcesEn savoir plus
+               o Carnets de recherche
+               o Outils documentaires
+               o Formations en histoire de l'art
+               o Audio-Vidéo
+               o Publications
+               o Expositions
+               o Éducation artistique et culturelle
+
+   Rechercher ____________________ Ok
+     * Catalogue de la bibliothèque
+     * Agorha
+
+     *
+
+     * Accès directs
+          + Portailde la bibliothèque
+          + Réseaux et partenariats
+          + Festival de l'histoire de l'art
+          + Agenda
+          + INHA numérique
+            INHA numérique
+               o Publications numériques
+               o Agorha
+               o Audio-vidéo
+               o Blog de la bibliothèque
+               o Catalogue de la bibliothèque
+               o Bibliothèque numérique
+
+   Partager :
+     * Envoyer par mail à un ami
+     * Partager sur Facebook
+     * Partager sur Twitter
+
+   Vous êtes ici :
+     * Accueil
+     * Recherche
+     * Le Département des études et de la recherche
+     * Domaines de recherche
+     * Histoire et théorie de l'histoire de l'art et du patrimoine
+     * Le livre d’architecture (1512-1914)
+
+Le livre d’architecture (1512-1914)Programme réalisé (2002-2016)
+
+   Contant d'Ivry, frontispice gravé des Oeuvres d'architecture
+
+   Vecteur essentiel de diffusion de la pensée architecturale, le livre
+   d’architecture est une dimension à part entière de la production
+   architecturale.
+     * Description
+     * Équipes
+     * Ressources
+     * Programmation
+
+   Depuis sa création, l’INHA a entrepris la réalisation d’une
+   bibliographique matérielle du livre d’architecture français (1512-1914)
+   fondée sur la description d’exemplaires spécifiques des ouvrages
+   présents dans les bibliothèques de l’INHA, de l’ENSBA et du CNAM.
+
+   Trois programmes ont alimenté cette bibliographie : « Architectures
+   imprimées (1486-1800) : catalogue raisonné des livres d’architecture de
+   la Bibliothèque de l’INHA - collections Jacques-Doucet » ; « Écrits des
+   anciens élèves architectes de l’École des beaux-arts (1793-1968) », et
+   « L’architecture et l’imprimé ».
+
+   Sans prétendre atteindre une complète exhaustivité, le corpus vise
+   l’ensemble des livres d'architecture français publiés depuis l'origine
+   jusqu'à la Première Guerre mondiale. La bibliographie prend en compte
+   toutes les informations sur les acteurs de la fabrication du livre
+   (auteurs, dessinateurs, graveurs, imprimeurs, éditeurs) et sur la
+   provenance des ouvrages (reliures, ex-libris, notes manuscrites etc.).
+   A ces différentes éléments s'ajoutent une ou plusieurs photos et le cas
+   échéant un renvoi aux éditions numérisées. Sa mise en ligne sur Agorha
+   démultiplie les usages possibles en permettant des recherches
+   thématiques par auteur, éditeur, date ou provenance. Environ 4000
+   notices sont accessibles.
+     * Consultez la bibliographie des catalogues de référence et des
+       ouvrages utilisés pour le programme (PDF)
+
+   Équipe INHA
+     * Alice Thomine-Berrada, conseillère scientifique (2001-2007)
+     * Jean-Philippe Garric, conseiller scientifique (2007-2013)
+     * Olga Medvedkova, pensionnaire, responsable de programme (2003-2007)
+     * Émilie d'Orgeix, pensionnaire (2007-2011)
+     * Delphine Aboulker, chargée d'études et de recherche (2002-2006)
+     * Pauline Chambrier, chargée d'études et de recherche (2005-2009)
+     * Ruth Fiori, chargée d'études et de recherche (2005-2009)
+     * Stéphanie Guilmeau, chargée d'études et de recherche (2007-2011)
+     * Adriana Senard, chargée d'études et de recherche (2008-2012)
+     * Juliette Hernu, chargée d'études et de recherche (2010-2014)
+     * Xavier Pagazani, chargé d'études et de recherche (2002-2006)
+
+   Collaborateurs
+     * Consultant : Peter Fuhring
+
+   Partenaires
+     * Centre André Chastel
+     * Centre Ledoux, université Paris 1 Panthéon-Sorbonne
+     * Centre François-Georges Pariset, université Bordeaux Montaigne
+     * Centre d’études supérieures de la Renaissance (CESR) de Tours
+     * Conservatoire national des arts et métiers (CNAM)
+     * École nationale supérieure d'architecture Paris Belleville (ENSAPV)
+     * Syndicat national des antiquaires
+
+   Bases de données
+     * Consultez la base Bibliographie du livre d’architecture français
+       (1512-1914) sur Agorha
+
+     *  Consultez la base ARCHITECTURA : cette bibliothèque numérique
+       comprend la numérisation et la transcription d’une sélection
+       d’ouvrages d’architecture de la Bibliothèque de l’INHA pour la
+       période 1500-1650. Ces ouvrages sont consultables en ligne, aussi
+       bien en version numérisée que transcrite, sur le site Internet mis
+       en place par le CESR (Frédérique Lemerle et Yves Pauwels).
+
+     * Lire les notices de la base Architectura (PDF)
+
+   Publications
+
+   – Le Livre et l’Architecte, Jean-Philippe Garric, Estelle Thibault et
+   Emilie d’Orgeix (dir.), coédition INHA-Mardaga, 304 pages, 2011.
+     * En savoir plus sur cet ouvrage
+
+   – La Construction savante, Jean-Philippe Garric, Valérie Nègre et Alice
+   Thomine-Berrada (dir.), Paris, INHA-Picard, 2008.
+     * En savoir plus sur cet ouvrage
+
+   Journées d'études
+
+   — « Écrits et recueils d’architecture en français (1650-1804) »
+     * 27 avril 2004 ; voir le programme de la journée (PDF)
+     * 11 mai 2004 ; voir le programme de la journée (PDF)
+     * 15 décembre 2004 ; voir le programme de la journée (PDF)
+     * 15 décembre 2005 ; voir le programme de la journée (PDF)
+
+   — « Bibliographie du livre d'architecture français (1512-1914).
+   Définitions et limites », le 12 novembre 2009, à l'INHA.
+
+   — « Traduire l'architecture », CNAM et INHA, les 13 novembre 2009,
+   14-15 décembre 2011, 17 janvier 2013.
+
+   Colloque
+
+   — « Les avatars de la littérature technique, formes imprimées des
+   savoirs liés à la construction », organisé par le CNAM et l'INHA, mars
+   2005.
+
+   — « Le livre et l’architecte », co-organisé par l’INHA et l’École
+   nationale supérieure d’architecture de Paris-Belleville, à l'INHA, les
+   31 janvier, 1er et 2 février 2008.
+     * Voir le programme du colloque (PDF)
+
+   — « Architecture et théorie. L'héritage de la Renaissance », organisé
+   par le CESR, l'ENSA-Paris Malaquais et l'INHA, Tours et paris, juin
+   2009.
+
+
+
+     * Recherche
+          + Le Département des études et de la recherche
+               o Direction
+               o Missions et opérations
+               o Domaines de recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+
+   INHA
+
+
+    2 Rue Vivienne - 75002 Paris
+    Tél. : 01 47 03 89 00 ➦
+
+Accès et horaires
+
+   Nous localiser
+   Ministère de la Culture Ministère de l'enseignement supérieur et de la
+   recherche
+
+Vous
+& Nous
+
+     * Nous contacter
+     * Annuaire de l'INHA
+     * Mentions légales
+
+     * Appels
+     * Presse
+     * Location d'espaces
+
+   SUIVEZ-NOUS
+     * Facebook
+     * Twitter
+     * Instagram
+
+     * Institut national d'histoire de l'art
+     * Youtube
+     * Canal U
+
+     * Actualités
+          + Actualités de l'INHA
+          + Agenda
+          + Lettre d'information
+          + Presse
+     * L'Institut
+          + Missions et gouvernance
+          + Sites et patrimoine
+          + Réseaux et partenaires
+          + Soutenir l'INHA
+          + Informations pratiques
+          + Marchés publics
+          + Recrutements
+     * Recherche
+          + Le Département des études et de la recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+     * Bibliothèque
+          + Informations pratiques
+          + Historique
+          + Collections
+          + Soutenir la bibliothèque
+          + Bibliothèque numérique
+          + Répertoire des bibliothèques
+     * Ressources
+          + Carnets de recherche
+          + Outils documentaires
+          + Formations en histoire de l'art
+          + Audio-Vidéo
+          + Publications
+          + Expositions
+          + Éducation artistique et culturelle
+   #Institut national d'histoire de l'art
+
+   meta Voir le flux RSS de ces contenus meta meta
+
+   Aller au contenuAller à la rechercheAller au menu
+
+     * Accessibilité
+     *
+
+     * Invisu
+
+     * fr
+     * en
+
+   INHA
+     * Menu
+          + Actualités
+            ActualitésEn savoir plus
+               o Actualités de l'INHA
+               o Agenda
+               o Lettre d'information
+               o Presse
+          + L'Institut
+            L'InstitutEn savoir plus
+               o Missions et gouvernance
+               o Sites et patrimoine
+               o Réseaux et partenaires
+               o Soutenir l'INHA
+               o Informations pratiques
+               o Marchés publics
+               o Recrutements
+          + Recherche
+            RechercheEn savoir plus
+               o Le Département des études et de la recherche
+               o L'unité InVisu (CNRS-INHA)
+               o Programmation scientifique
+               o Personnels scientifiques
+               o Chercheurs invités
+               o Appels
+          + Bibliothèque
+            BibliothèqueEn savoir plus
+               o Informations pratiques
+               o Historique
+               o Collections
+               o Soutenir la bibliothèque
+               o Bibliothèque numérique
+               o Répertoire des bibliothèques
+          + Ressources
+            RessourcesEn savoir plus
+               o Carnets de recherche
+               o Outils documentaires
+               o Formations en histoire de l'art
+               o Audio-Vidéo
+               o Publications
+               o Expositions
+               o Éducation artistique et culturelle
+
+   Rechercher ____________________ Ok
+     * Catalogue de la bibliothèque
+     * Agorha
+
+     *
+
+     * Accès directs
+          + Portailde la bibliothèque
+          + Réseaux et partenariats
+          + Festival de l'histoire de l'art
+          + Agenda
+          + INHA numérique
+            INHA numérique
+               o Publications numériques
+               o Agorha
+               o Audio-vidéo
+               o Blog de la bibliothèque
+               o Catalogue de la bibliothèque
+               o Bibliothèque numérique
+
+   Partager :
+     * Envoyer par mail à un ami
+     * Partager sur Facebook
+     * Partager sur Twitter
+
+   Vous êtes ici :
+     * Accueil
+     * Recherche
+     * Le Département des études et de la recherche
+     * Domaines de recherche
+     * Histoire des disciplines et des techniques artistiques
+     * Le tableau vivant
+
+Le tableau vivant : performance de la présenceProgramme clos (2010-2014)
+
+   Julien Valou de Villeneuve, Étude d’après nature : nu, 1855,
+   photographie, BnF, département des Estampes. D.R.
+
+   Pratique « para-artistique », le tableau vivant est communément défini
+   comme un arrangement de personnes vivantes reproduisant une composition
+   artistique (peinture, sculpture, estampe ou scène littéraire).
+     * Description
+     * Équipes
+     * Ressources
+     * Programmation
+
+   Le tableau vivant aurait connu son apogée dans les Salons du début du
+   XIXe siècle avant de déchoir en divertissement populaire. Une telle
+   appréciation a contribué à concentrer son étude autour de 1800, à
+   occulter ses origines plus anciennes, à négliger ses évolutions
+   ultérieures et son apport à l’histoire de l’art. Les recherches, menées
+   le plus souvent par les historiens du spectacle, se sont surtout
+   intéressées à sa pratique dans la haute société, les cours et les
+   salons européens. Cependant, le tableau vivant et ses genres connexes
+   (les attitudes et « poses plastiques ») soulèvent la question de
+   frontières à la fois esthétiques et sociales. La transformation de
+   corps réels en images peintes ou sculptées interroge la relation entre
+   mimésis et représentation ainsi que sa capacité à véhiculer affects et
+   idéaux. De même elle invite à réfléchir sur les statuts respectifs de
+   l'auteur et du spectateur. Réactivée au cinéma et dans l’art
+   contemporain, cette pratique participe également des relations entre
+   image et performativité.
+
+   Équipe INHA
+     * Julie Ramos, conseiller scientifique, responsable du programme
+       (2009-2013)
+     * Marie-Pauline Martin, pensionnaire (2008-2012)
+     * Léonard Pouy, chargé d'études et de recherche (2010-2014)
+     * Caroline Van Eck, université de Leyde, Pays-Bas, chercheur invité
+     * Melissa Périanez, monitrice-étudiante
+     * Emmanuel Ussel, chargé d'étude et de recherche (2012-2016)
+
+   Collaborateurs
+     * Caroline van Eck, université de Leyde
+     * Stijn Bussels, université de Groningue
+     * Bram van Oostveldt, université d’Amsterdam
+     * Eljse van Kessel, université de Leyde
+
+   Partenaires
+     * Université de Leyde (Pays-Bas), avec laquelle a été obtenue une
+       bourse PHC Van Gogh
+
+   Base de données
+     * Consultez la base Bibliographie sur le tableau vivant sur Agorha.
+
+   Bibliographie des études consacrées au tableau vivant, issues de
+   diverses approches disciplinaires et méthodologiques : histoire de
+   l’art (performance et arts visuels), études théâtrales, esthétique,
+   études culturelles et Visual Studies.
+
+   Publication
+     * Le Tableau vivant ou l'image performée, Julie Ramos et Léonard Pouy
+       (dir.),  2014, éditions Mare & Martin.
+
+
+
+   Séminaire mensuel
+
+   Le tableau vivant ou l’image performée. Sources, méthodes, enjeux,
+   2011-2012, organisé par Julie Ramos, à l'INHA.
+
+   Programme du séminaire (PDF)
+
+A découvrir
+
+     *
+          + En savoir plus sur Le tableau vivant
+
+     * Recherche
+          + Le Département des études et de la recherche
+               o Direction
+               o Missions et opérations
+               o Domaines de recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+
+   INHA
+
+
+    2 Rue Vivienne - 75002 Paris
+    Tél. : 01 47 03 89 00 ➦
+
+Accès et horaires
+
+   Nous localiser
+   Ministère de la Culture Ministère de l'enseignement supérieur et de la
+   recherche
+
+Vous
+& Nous
+
+     * Nous contacter
+     * Annuaire de l'INHA
+     * Mentions légales
+
+     * Appels
+     * Presse
+     * Location d'espaces
+
+   SUIVEZ-NOUS
+     * Facebook
+     * Twitter
+     * Instagram
+
+     * Institut national d'histoire de l'art
+     * Youtube
+     * Canal U
+
+     * Actualités
+          + Actualités de l'INHA
+          + Agenda
+          + Lettre d'information
+          + Presse
+     * L'Institut
+          + Missions et gouvernance
+          + Sites et patrimoine
+          + Réseaux et partenaires
+          + Soutenir l'INHA
+          + Informations pratiques
+          + Marchés publics
+          + Recrutements
+     * Recherche
+          + Le Département des études et de la recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+     * Bibliothèque
+          + Informations pratiques
+          + Historique
+          + Collections
+          + Soutenir la bibliothèque
+          + Bibliothèque numérique
+          + Répertoire des bibliothèques
+     * Ressources
+          + Carnets de recherche
+          + Outils documentaires
+          + Formations en histoire de l'art
+          + Audio-Vidéo
+          + Publications
+          + Expositions
+          + Éducation artistique et culturelle
+   #Institut national d'histoire de l'art
+
+   meta meta
+
+   Aller au contenuAller à la rechercheAller au menu
+
+     * Accessibilité
+     *
+
+     * Invisu
+
+     * fr
+     * en
+
+   INHA
+     * Menu
+          + Actualités
+            ActualitésEn savoir plus
+               o Actualités de l'INHA
+               o Agenda
+               o Lettre d'information
+               o Presse
+          + L'Institut
+            L'InstitutEn savoir plus
+               o Missions et gouvernance
+               o Sites et patrimoine
+               o Réseaux et partenaires
+               o Soutenir l'INHA
+               o Informations pratiques
+               o Marchés publics
+               o Recrutements
+          + Recherche
+            RechercheEn savoir plus
+               o Le Département des études et de la recherche
+               o L'unité InVisu (CNRS-INHA)
+               o Programmation scientifique
+               o Personnels scientifiques
+               o Chercheurs invités
+               o Appels
+          + Bibliothèque
+            BibliothèqueEn savoir plus
+               o Informations pratiques
+               o Historique
+               o Collections
+               o Soutenir la bibliothèque
+               o Bibliothèque numérique
+               o Répertoire des bibliothèques
+          + Ressources
+            RessourcesEn savoir plus
+               o Carnets de recherche
+               o Outils documentaires
+               o Formations en histoire de l'art
+               o Audio-Vidéo
+               o Publications
+               o Expositions
+               o Éducation artistique et culturelle
+
+   Rechercher ____________________ Ok
+     * Catalogue de la bibliothèque
+     * Agorha
+
+     *
+
+     * Accès directs
+          + Portailde la bibliothèque
+          + Réseaux et partenariats
+          + Festival de l'histoire de l'art
+          + Agenda
+          + INHA numérique
+            INHA numérique
+               o Publications numériques
+               o Agorha
+               o Audio-vidéo
+               o Blog de la bibliothèque
+               o Catalogue de la bibliothèque
+               o Bibliothèque numérique
+
+   Partager :
+     * Envoyer par mail à un ami
+     * Partager sur Facebook
+     * Partager sur Twitter
+
+   Vous êtes ici :
+     * Accueil
+     * Recherche
+     * Le Département des études et de la recherche
+     * Domaines de recherche
+     * Histoire de l'art du XVIIIe au XXIe siècle
+     * Archives de l'art de la période contemporaine
+
+Archives de l'art de la période contemporaineProgramme réalisé (2003-2017)
+
+   Vue d'un fonds d'archives. © Thomas Karges
+
+   Ce programme de recherche a pour objectif le repérage systématique des
+   fonds d’archives dans les institutions, les bibliothèques, les
+   fondations privées, etc
+   Vue d'un fonds d'archives. © Thomas Karges
+     * Description
+     * Équipe
+     * Ressources
+     * Programmation
+
+   Le programme Archives de l’art de la période contemporaine a pour
+   objectif le repérage systématique des fonds d’archives et leur
+   traitement sur le mode de l’inventaire scientifique quand une absence
+   ou une insuffisance se fait jour, afin d’enrichir les connaissances et
+   ouvrir de nouvelles pistes de recherche. Les ressources sont au fur et
+   à mesure intégrées à la base de données GAAEL. Dans un deuxième temps,
+   une valorisation scientifique sous la forme de colloques, de journées
+   d’études, d’expositions et de publications est menée à bien. L’ensemble
+   s’accompagne à chaque étape d’une réflexion à la fois théorique et
+   historique sur la question des archives dans l’histoire de l’art, dans
+   une perspective transdisciplinaire.
+
+   Équipe INHA
+     * Elitza Dulguerova, conseillère scientifique (2016-2017)
+     * Larisa Dryansky, conseillère scientifique (2014-2016)
+     * Annie Claustres, conseillère scientifique (2010-2014)
+     * Richard Leeman, conseiller scientifique (2004-2009)
+     * Pierre Wat, conseiller scientifique (2001-2004)
+     * Anne-Élisabeth Buxtorf, directrice de la Bibliothèque de l'INHA
+     * Fabienne Queyroux, chef du service du patrimoine de la Bibliothèque
+       de l'INHA
+     * Riccardo Venturi, pensionnaire (2012-2016)
+     * Nicolas Ballet, chargé d’études et de recherche (2013-2016)
+     * Déborah Laks, chargée d’études et de recherche (2008-2012)
+     * Sara Martinetti, chargée d'études et de recherche (2012-2016)
+     * Gwenn Riou, chargé d'études et de recherche (2012-2016)
+     * Marine Schütz, chargée d’études et de recherche (2009-2013)
+     * Nicholas-Henri Zmelty, chargé d'études et de recherche (2005-2009)
+     * Cyril Lecosse, chargé d'études et de recherche (2003-2007)
+     * Thomas Schlesser, chargé d'études et de recherche (2002-2006)
+     * Pierre Pinchon, chargé d'études et de recherche (2001-2005)
+
+   Collaborateurs
+     * Christian Briend, conservateur, musée national d'Art moderne (MNAM
+       – Centre Pompidou)
+     * Pierre Georgel, légataire testamentaire du fonds Albert Gleizes
+     * Fabrice Hergott, directeur, musée d’Art moderne de la ville de
+       Paris
+     * Jean-Marc Poinsot, Archives de la critique d'art, Rennes
+     * Laurence Le Poupon, Archives de la critique d'art, Rennes
+     * Sylvie Ramond, directeur, musée des Beaux-Arts de Lyon
+     * Stéphanie Rivoire, Cheffe du pôle Fonds et collections,
+       Bibliothèque Kandinsky – MNAM/CCI
+     * Didier Schulmann, conservateur, musée national d'Art moderne (MNAM
+       – Centre Pompidou)
+
+   Partenaires
+     * Archives de la critique d'art, Rennes
+     * Bibliothèque Kandinsky – Centre Pompidou
+     * Institut Mémoires de l'édition contemporaine (IMEC)
+     * Institut d'art contemporain de Villeurbanne
+     * Lille métropole, musée d'art moderne, d'art contemporain et d'art
+       brut (LAM)
+     * LARHRA
+     * Musée d'Art moderne de la ville de Paris
+     * Musée des Beaux-Arts de Lyon
+     * Musée des Beaux-Arts de Nantes
+     * Musée départemental d'art contemporain de Rochechouart
+     * Université Paris Ouest-Nanterre La Défense, HAR
+
+   Base de données
+     * Consultez la base Guide des archives de l’art conservées en France
+       – XIXe-XXIe siècles (GAAEL) sur Agorha
+
+   Ce guide signale les archives, manuscrits et correspondances
+   d’artistes, collectionneurs et galeristes présents dans les différents
+   centres de ressources de France. Certains fonds ont fait l'objet d'un
+   dépouillement et d'un inventaire plus systématique (Aurélie Nemours,
+   Archives audiovisuelles du capc-musée d'Art contemporain de Bordeaux,
+   Raoul Hausmann, Otto Freundlich, Archives de l’Institut d’art
+   contemporain de Villeurbanne, Bernard Dorival, Antoine Bourdelle...).
+
+   Publications
+
+   Catalogue Marcel Michaud. Le poids du monde, musée des Beaux-Arts de
+   Lyon/Éditions Fage, 2011-2012. Plusieurs archives inédites ont été
+   publiées à cette occasion.
+
+   Inventaires d'archives
+
+   Archives conservées au musée d’Art moderne de la Ville de Paris
+   (2009-2011)
+
+   Un partenariat entre le musée d’Art moderne de la ville de Paris et
+   l’INHA a permis d’aboutir à un inventaire de plusieurs fonds d’archives
+   conservées au musée d’Art moderne de la Ville de Paris : archives de
+   l’ARC, du musée d’Art moderne de la Ville de Paris (1937-1961), des
+   fonds iconographiques du musée et de l’ARC, de Bryon Gysin (1916-1986),
+   de Bernard Dufour (1922), d’Étienne-Martin (1913-1995).
+
+   Archives Marcel Michaud (2010)
+
+   Un partenariat entre le musée des Beaux-Arts de Lyon et l’INHA a permis
+   d’aboutir un inventaire des archives du galeriste lyonnais Marcel
+   Michaud (1898-1958). Pas de publication en ligne de prévu.
+
+   Archives Maurice Besset (2010-2012)
+
+   Inventaire du fonds d’archives de l’historien d’art et conservateur
+   Maurice Besset (1921-2008) conservé à la Bibliothèque de l’INHA.
+   Consultez le fonds dans AGORHA
+
+   Archives Albert Gleizes (2012-2017)
+
+   Inventaire de la correspondance d’Albert Gleizes conservée à la
+   bibliothèque Kandinsky du musée national d’art moderne. Bientôt
+   disponible dans AGORHA.
+
+
+   Table ronde
+
+   Pierre Cabanne. Un critique et ses archives, le 8 novembre 2016,
+   organisée en partenariat avec les Archives de la critique d’art et
+   l’équipe de recherche Histoire et critique des arts (EA 1279),
+   université Rennes 2
+
+   En savoir plus
+
+   Journée d’études
+
+   Communautés artistiques, communautés spirituelles, dans le contexte
+   politique des années 1930-1940, le 30 janvier 2012, organisée par le
+   musée des Beaux-Arts de Lyon et l'INHA, à l'auditorium Focillon, musée
+   des Beaux-Arts de Lyon.
+
+   Programme de la journée d'études (PDF)
+
+   Journée d’études internationale
+
+   Seth Siegelaub. Aux fils croisés du langage et de la matière, le 26 mai
+   2014, organisée par l'INHA, à l'INHA.
+
+   Exposition
+
+   Mémoires croisées / dérives archivistiques Archives de la critique
+   d’art, du 13 mai au 18 juillet 2015, organisée par l'INHA à l'INHA,
+   sous le commissariat de Jean-Marc Poinsot.
+     * Recherche
+          + Le Département des études et de la recherche
+               o Direction
+               o Missions et opérations
+               o Domaines de recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+
+   INHA
+
+
+    2 Rue Vivienne - 75002 Paris
+    Tél. : 01 47 03 89 00 ➦
+
+Accès et horaires
+
+   Nous localiser
+   Ministère de la Culture Ministère de l'enseignement supérieur et de la
+   recherche
+
+Vous
+& Nous
+
+     * Nous contacter
+     * Annuaire de l'INHA
+     * Mentions légales
+
+     * Appels
+     * Presse
+     * Location d'espaces
+
+   SUIVEZ-NOUS
+     * Facebook
+     * Twitter
+     * Instagram
+
+     * Institut national d'histoire de l'art
+     * Youtube
+     * Canal U
+
+     * Actualités
+          + Actualités de l'INHA
+          + Agenda
+          + Lettre d'information
+          + Presse
+     * L'Institut
+          + Missions et gouvernance
+          + Sites et patrimoine
+          + Réseaux et partenaires
+          + Soutenir l'INHA
+          + Informations pratiques
+          + Marchés publics
+          + Recrutements
+     * Recherche
+          + Le Département des études et de la recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+     * Bibliothèque
+          + Informations pratiques
+          + Historique
+          + Collections
+          + Soutenir la bibliothèque
+          + Bibliothèque numérique
+          + Répertoire des bibliothèques
+     * Ressources
+          + Carnets de recherche
+          + Outils documentaires
+          + Formations en histoire de l'art
+          + Audio-Vidéo
+          + Publications
+          + Expositions
+          + Éducation artistique et culturelle
+   #Institut national d'histoire de l'art
+
+   meta meta
+
+   Aller au contenuAller à la rechercheAller au menu
+
+     * Accessibilité
+     *
+
+     * Invisu
+
+     * fr
+     * en
+
+   INHA
+     * Menu
+          + Actualités
+            ActualitésEn savoir plus
+               o Actualités de l'INHA
+               o Agenda
+               o Lettre d'information
+               o Presse
+          + L'Institut
+            L'InstitutEn savoir plus
+               o Missions et gouvernance
+               o Sites et patrimoine
+               o Réseaux et partenaires
+               o Soutenir l'INHA
+               o Informations pratiques
+               o Marchés publics
+               o Recrutements
+          + Recherche
+            RechercheEn savoir plus
+               o Le Département des études et de la recherche
+               o L'unité InVisu (CNRS-INHA)
+               o Programmation scientifique
+               o Personnels scientifiques
+               o Chercheurs invités
+               o Appels
+          + Bibliothèque
+            BibliothèqueEn savoir plus
+               o Informations pratiques
+               o Historique
+               o Collections
+               o Soutenir la bibliothèque
+               o Bibliothèque numérique
+               o Répertoire des bibliothèques
+          + Ressources
+            RessourcesEn savoir plus
+               o Carnets de recherche
+               o Outils documentaires
+               o Formations en histoire de l'art
+               o Audio-Vidéo
+               o Publications
+               o Expositions
+               o Éducation artistique et culturelle
+
+   Rechercher ____________________ Ok
+     * Catalogue de la bibliothèque
+     * Agorha
+
+     *
+
+     * Accès directs
+          + Portailde la bibliothèque
+          + Réseaux et partenariats
+          + Festival de l'histoire de l'art
+          + Agenda
+          + INHA numérique
+            INHA numérique
+               o Publications numériques
+               o Agorha
+               o Audio-vidéo
+               o Blog de la bibliothèque
+               o Catalogue de la bibliothèque
+               o Bibliothèque numérique
+
+   Partager :
+     * Envoyer par mail à un ami
+     * Partager sur Facebook
+     * Partager sur Twitter
+
+   Vous êtes ici :
+     * Accueil
+     * Recherche
+     * Le Département des études et de la recherche
+     * Domaines de recherche
+     * Histoire des disciplines et des techniques artistiques
+     * Archives du Festival d'art lyrique
+
+Archives du Festival international d'art lyrique et de musique
+d'Aix-en-Provence (1948-1973)Programme réalisé (2005-2015)
+
+   Orfeo ed Euridice, direction : Karl Ristenpart, mise en scène de Jean
+   Meyer, décors de Jean-Denis Malclès, 1955 © Collection Ely
+
+   Ce programme de recherche a eu pour but l'étude de l'un des fonds les
+   plus remarquables conservés en France dans le domaine des arts du
+   spectacle.
+     * Description
+     * Équipes
+     * Ressources
+     * Programmation
+
+   En décembre 2005 a été lancé un programme documentaire relatif aux
+   Archives du Festival international d’art lyrique et de musique
+   d’Aix-en-Provence, fonds aujourd'hui détenu par la ville
+   d'Aix-en-Provence, du fait de sa transmission par la Société du Casino
+   municipal d’Aix Thermal en 2003, puis grâce à la cession de droit
+   proposée par la Société d’Économie mixte locale d’exploitation du
+   Théâtre de l’Archevêché (SEMETA) en 2005.
+
+   L’inventaire met en évidence l’intérêt d’un fonds modeste par la taille
+   (13 cartons), que constituent des documents remarquables dans le
+   domaine des arts du spectacle. Couvrant en majeure partie la période
+   allant de 1948 à 1973, ils s’apparentent, pour l’essentiel, à des
+   pièces administratives, des correspondances, des programmes et des
+   photographies. Cette époque correspond au moment où la Société du
+   Casino municipal d'Aix Thermal était gestionnaire du Festival
+   d’Aix-en-Provence et détentrice des archives qui lui étaient relatives.
+   L'instrument de recherche ainsi constitué propose une description
+   détaillée du fonds d'archives, afin d'en faciliter sa consultation
+   publique. La connaissance du Festival se voit également renforcée par
+   la description des concerts et spectacles qui en ont constitué toutes
+   les éditions au cours de cette période féconde, avec le détail des
+   distributions artistiques ou techniques.
+
+   Équipe INHA
+     * Jean-Michel Nectoux, conseiller scientifique (2001-2008)
+     * Julie Ramos, conseiller scientifique (2009-2013)
+     * Philippe Thiébaut, conseiller scientifique (2013-)
+
+   Collaborateurs
+     * Pierre Wat, professeur, Université de Provence - Aix-Marseille 1,
+       CEMERRA (depuis à l'université Paris 1 Panthéon Sorbonne)
+     * Rossella Froissart, professeure, Aix-Marseille Université, TELEMME
+     * Marie-Pauline Martin, maître de conférences, Aix-Marseille
+       Université, TELEMME
+     * Amandine Rabier, Université de Provence - Aix-Marseille 1
+     * Barbara Satre, Université de Provence - Aix-Marseille 1
+     * Marine Schütz, Aix-Marseille Université
+     * Marie-Françoise Borel, Direction des Musées et du Patrimoine
+       Culturel, Mairie d'Aix-en-Provence
+     * Valérie Brotons-Bedouk, responsable du Musée du Palais de
+       l’Archevêché / Mission Art Lyrique, Ville d'Aix-en-Provence
+
+   Partenaires
+     * Aix-Marseille Université (TELEMME)
+     * Ville d’Aix-en-Provence
+
+   Base de données
+
+   Consultez les Archives du Festival international d'art lyrique et de
+   musique d'Aix-en-Provence (1948-1973) sur Agorha
+
+   Journée d’études
+     * Réinventer le décor au Festival d’art lyrique d’Aix-en-Provence, 10
+       avril 2013, dirigée par Marie-Pauline Martin, organisée par
+       Aix-Marseille Université, au musée des Tapisseries
+       d’Aix-en-Provence.
+
+   Programme de la journée d'études (PDF)
+     * Les peintres à l'opéra : les archives du Festival d'Art Lyrique, 24
+       novembre 2015, dirigée par Rossella Froissart, organisée par
+       Aix-Marseille Université, au musée du Palais de l'Archevêché
+       d’Aix-en-Provence.
+
+   Programme de la journée d'études (PDF)
+
+
+     * Recherche
+          + Le Département des études et de la recherche
+               o Direction
+               o Missions et opérations
+               o Domaines de recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+
+   INHA
+
+
+    2 Rue Vivienne - 75002 Paris
+    Tél. : 01 47 03 89 00 ➦
+
+Accès et horaires
+
+   Nous localiser
+   Ministère de la Culture Ministère de l'enseignement supérieur et de la
+   recherche
+
+Vous
+& Nous
+
+     * Nous contacter
+     * Annuaire de l'INHA
+     * Mentions légales
+
+     * Appels
+     * Presse
+     * Location d'espaces
+
+   SUIVEZ-NOUS
+     * Facebook
+     * Twitter
+     * Instagram
+
+     * Institut national d'histoire de l'art
+     * Youtube
+     * Canal U
+
+     * Actualités
+          + Actualités de l'INHA
+          + Agenda
+          + Lettre d'information
+          + Presse
+     * L'Institut
+          + Missions et gouvernance
+          + Sites et patrimoine
+          + Réseaux et partenaires
+          + Soutenir l'INHA
+          + Informations pratiques
+          + Marchés publics
+          + Recrutements
+     * Recherche
+          + Le Département des études et de la recherche
+          + L'unité InVisu (CNRS-INHA)
+          + Programmation scientifique
+          + Personnels scientifiques
+          + Chercheurs invités
+          + Appels
+     * Bibliothèque
+          + Informations pratiques
+          + Historique
+          + Collections
+          + Soutenir la bibliothèque
+          + Bibliothèque numérique
+          + Répertoire des bibliothèques
+     * Ressources
+          + Carnets de recherche
+          + Outils documentaires
+          + Formations en histoire de l'art
+          + Audio-Vidéo
+          + Publications
+          + Expositions
+          + Éducation artistique et culturelle

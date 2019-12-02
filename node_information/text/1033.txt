@@ -1,0 +1,708 @@
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * [nouvelle-recherche.png] Nouvelle recherche
+     * [modifier-recherche.png] Modifier la recherche
+     * [nouvelle-notice.png] Créer une notice
+
+Type d’autorité
+
+Termes de recherche
+
+   __________________________________________________
+   Aucun résultat
+   [ ] Troncature automatique [ ] Recherche exacte
+
+Filtres
+
+   [Et] Type de notice __________________________________________________
+   [Et] Langue __________________________________________________
+   [Local]
+   Pages :
+   Filtrer par : Trier par :
+
+   Retour à la saisie
+
+Choisissez le type d'autorité
+
+   OK
+
+   Modifier notice Lier la notice Copier pour Calames
+   Enregistrer Translitterer Valider la notice Annuler
+   Les champs marqués d'une * sont obligatoires.
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * SONDRA (Gif-sur-Yvette, Essonne ; 2004-....)
+
+   [exporter-xml.png]
+   Exporter en XML
+   [exporter-rdf.png]
+   Exporter en RDF
+   [ameliorer.png]
+   Améliorer la notice
+   [signaler.png]
+   Signaler une erreur
+   Identifiant IdRef : 190360224
+   Notice de type Collectivité
+
+   Point d'accès autorisé
+   SONDRA (Gif-sur-Yvette, Essonne ; 2004-....)
+
+   Variantes de point d'accès
+   Laboratoire franco-singapourien de recherche en électromagnétisme et
+   radars
+   [Nom de collectivité]
+   Supelec Onera NUS DSO Research Alliance
+   [Nom de collectivité]
+   Supélec ONERA DSTA Research Alliance
+   [Nom de collectivité]
+
+   Information
+   Langue d'expression : Francais
+   Pays associé : France
+   Date de naissance : 2004
+
+   Notes
+   Note sur la biographie et les activités :
+   Adresse : CentraleSupélec, Plateau du Moulon, 3 rue Joliot Curie, 91190
+   Gif-sur-Yvette
+
+   Notices d'autorité liées
+   Collectivité Office national d'études et de recherches aérospatiales ,
+   France - Etablissement tutelle depuis 2004
+   Collectivité CentraleSupélec , 2015-.... - Etablissement tutelle
+
+   Source
+   https://appliweb.dgri.education.fr/rnsr, 2019-04-16
+   Information trouvée : Numéro identifiant national : 201522219R. Date de
+   création: 2004
+   _____________________
+
+   Internet, http://www.supelec.fr/sondra/, 2015-12-17
+   _____________________
+
+   New statistical modeling of multi-sensor images with application to
+   change detection / Jorge Prendes ; sous la direction de Frédéric Pascal
+   et Marie Chabert. Thèse de doctorat : Traitement du signal et des
+   images : Paris Saclay : 2015
+
+   Autres identifiants
+   Identifiant RNSR : 201522219R
+   Identifiant HAL : 531219
+
+   Utilisation dans Rameau
+   Le point d'accès peut être employé dans un point d'accès sujet
+   Le point d'accès ne peut s'employer qu'en élément initial
+
+   Informations sur la notice
+   Identifiant de la notice : 190360224
+   Dernière modification : 16-05-2019 à 20 h 01
+
+   ... Références liées : ...
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * [nouvelle-recherche.png] Nouvelle recherche
+     * [modifier-recherche.png] Modifier la recherche
+     * [nouvelle-notice.png] Créer une notice
+
+Type d’autorité
+
+Termes de recherche
+
+   __________________________________________________
+   Aucun résultat
+   [ ] Troncature automatique [ ] Recherche exacte
+
+Filtres
+
+   [Et] Type de notice __________________________________________________
+   [Et] Langue __________________________________________________
+   [Local]
+   Pages :
+   Filtrer par : Trier par :
+
+   Retour à la saisie
+
+Choisissez le type d'autorité
+
+   OK
+
+   Modifier notice Lier la notice Copier pour Calames
+   Enregistrer Translitterer Valider la notice Annuler
+   Les champs marqués d'une * sont obligatoires.
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * A propos d'IdRef
+
+   IdRef
+   IdRef (Identifiants et Référentiels pour l'Enseignement supérieur et la
+   Recherche) est une application Web développée et maintenue par l’ABES.
+   IdRef permet à des utilisateurs et à des applications tierces
+   d’interroger, de consulter, de créer et d'enrichir des autorités.
+
+   Les notices d'autorité
+   Une notice d'autorité peut décrire un sujet, une personne, une
+   collectivité, une famille, un nom de marque, un nom géographique, le
+   titre normalisé d'une œuvre, un centre de ressources documentaires. La
+   notice d'autorité sert ainsi à identifier de manière univoque le(s)
+   contributeur(s) et le(s) sujet(s) d'un document catalogué.
+   Les notices d'autorité servent :
+     * à attribuer les bons documents aux bonnes personnes (auteurs,
+       éditeurs, traducteurs, etc.)
+     * à enrichir et normaliser l'indexation d'une ressource pour qu'elle
+       gagne en visibilité pour les utilisateurs
+     * à faciliter le travail des professionnels de
+       l'information-documentation
+
+   Des données personnelles peuvent être présentes dans les notices
+   d'autorité décrivant des contributeurs d'une ressource cataloguée (date
+   de naissance, forme de nom, nationalité par exemple). Pour en savoir
+   plus : https://www.idref.fr/donnees_personnelles.jsp
+
+   IdRef : une interface de recherche et un outil de production
+   Les données d’IdRef sont accessibles via le site www.idref.fr grâce à
+   un moteur de recherche SolR.
+   Conformément à la politique d’ouverture des données de l’ABES, la
+   majeure partie des données sont sous licence Etalab donc réutilisables
+   sous réserve de mentionner la source « Agence Bibliographique de
+   l’Enseignement Supérieur ».
+   IdRef est outil de production de notices d'autorité. Il est possible,
+   via authentification, de modifier le contenu des notices ou de créer
+   des notices pour satisfaire un besoin de signalement documentaire.
+   Soucieux de la qualité des notices, IdRef permet à tout utilisateur de
+   contribuer à l'amélioration des données ou de signaler une erreur via
+   les formulaires accessibles en haut de chaque notice.
+   Une documentation complète est à la disposition des utilisateurs et des
+   professionnels.
+     * consulter la documentation
+     * consulter la FAQ du guichet d'assistance ABESstp
+     * suivre l'actualité d'IdRef sur Punktokomo, le blog technique de
+       l'Abes
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * Partenaires
+
+   IdRef pour mutualiser les autorités
+   L’ABES a développé IdRef pour mutualiser les données d'autorité et les
+   voir utiliser et ré-utiliser par de nombreux partenaires.
+   IdRef a pour vocation d'interagir avec d’autres applications
+   documentaires du monde de l’Enseignement Supérieur et de la Recherche.
+   Il est actuellement activé pour la production dans les applications
+   ABES :
+     * SUDOC
+     * STEP
+     * STAR
+     * Calames
+
+   Ainsi que dans les applications de partenaires institutionnels :
+     * le portail Persée
+     * le réseau ADUM
+     * le module ORI-OAI
+     * l'archive institutionelle OATAO
+     * la laboratoire LARHRA
+     * le projet de recherche PRELIB
+     * l'archive institutionelle OKINA
+
+   Si vous êtes intéressés par IdRef, contactez nous à l'adresse
+   idref@abes.fr.
+
+   Rassembler les ressources de tous les catalogues autour d'un
+   identifiant unique
+   En exploitant les autorités d'IdRef, une application tierce peut
+   récupérer une notice d’autorité : son identifiant unique et pérenne (le
+   numéro PPN à 9 chiffres), la forme normalisée d'une appellation ou
+   l'intégralité des données présentes.
+   Le recours à cet identifiant génère de l'interopérabilité entre les
+   bases. L'exploitation de cet identifiant permet une agrégation des
+   ressources signalées dans ces différentes bases et une plus large
+   visibilité de ces ressources, en premier lieu dans IdRef.
+   Au bénéfice de l’utilisateur final, il devient possible d'accéder à la
+   bibliographie agrégée des ressources de tous ces catalogues (thèse,
+   livres, articles, cours, etc.). A titre d'exemple, vous pouvez
+   consulter cette notice d'autorité.
+   A cette fin, l'ABES s'est rapprochée de nombreux partenaires
+   institutionnels, dont :
+     * la Bibliothèque Nationale de France (BnF), gestionnaire du site
+       data.bnf.fr
+     * le Centre pour la Communication Scientifique Directe (CCSD),
+       gestionnaire du serveur HAL
+     * ORCID, initiative internationale visant à l'identification des
+       auteurs de publication scientifique
+
+   D'autres coopérations d'envergure sont en cours ; avec Conditor, par
+   exemple.
+
+   IdRef par webservices
+   Les données relevant du domaine public sont disponibles via des
+   webservices. Ces données sont proposées soit brutes soit sous des
+   formes plus raffinées mais toujours aisément réutilisables.
+   Focus sur quelques uns des web services d'IdRef, documentés sur l'aide
+   IdRef pour les développeurs :
+     * Interagir avec IdRef : solution JavaScript pour faire communiquer
+       IdRef et tout autre site Web »
+     * Web service de recherche : web service pour interroger tous les
+       index d'IdRef, conforme aux spécifications Solr
+     * Modified : web service qui renvoie la liste de tous les ppn
+       modifiés depuis une certaine date
+     * Biblio : web service qui liste les documents rattachés à une
+       personne identifiée dans IdRef
+     * References : web service listant les documents liés à une autorité
+       IdRef dans les différentes sources / catalogues
+     * idref2id : web service fournissant, à partir d'un identifiant
+       IdRef, des identifiants d'autres systèmes
+     * id2idref : web service fournissant un identifiant IdRef à partir
+       d'identifiant d'autre système (à spécifier dans la requête)
+     * Merged : web service qui indique l'identifiant d'une notice valide
+       à partir de l'identifiant d'une notice devenue obsolète, suite à
+       une fusion de notices
+     * Merged inversé : web service indiquant l'identifiant d'une notice
+       devenue obsolète à partir de l'identifiant d'une notice valide,
+       suite à une fusion de notices
+     * IdRef en UNIMARC/XML : accès aux données d'IdRef en UNIMARC/XML
+     * IdRef en RDF/XML : accès aux données d'IdRef en RDF/XML
+
+   La liste complète est à retrouver dans l'aide en ligne pour les
+   développeurs.
+
+   IdRef et le web de données
+   IdRef s’inscrit dans le mouvement du web de données et du linked data.
+   L'ensemble des notices disposent d'un export en RDF/XML généré à la
+   volée, documenté dans le manuel IdRef en RDF.
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * [nouvelle-recherche.png] Nouvelle recherche
+     * [modifier-recherche.png] Modifier la recherche
+     * [nouvelle-notice.png] Créer une notice
+
+Type d’autorité
+
+Termes de recherche
+
+   __________________________________________________
+   Aucun résultat
+   [ ] Troncature automatique [ ] Recherche exacte
+
+Filtres
+
+   [Et] Type de notice __________________________________________________
+   [Et] Langue __________________________________________________
+   [Local]
+   Pages :
+   Filtrer par : Trier par :
+
+   Retour à la saisie
+
+Choisissez le type d'autorité
+
+   OK
+
+   Modifier notice Lier la notice Copier pour Calames
+   Enregistrer Translitterer Valider la notice Annuler
+   Les champs marqués d'une * sont obligatoires.
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * SONDRA (Gif-sur-Yvette, Essonne ; 2004-....)
+
+   [exporter-xml.png]
+   Exporter en XML
+   [exporter-rdf.png]
+   Exporter en RDF
+   [ameliorer.png]
+   Améliorer la notice
+   [signaler.png]
+   Signaler une erreur
+   Identifiant IdRef : 190360224
+   Notice de type Collectivité
+
+   Point d'accès autorisé
+   SONDRA (Gif-sur-Yvette, Essonne ; 2004-....)
+
+   Variantes de point d'accès
+   Laboratoire franco-singapourien de recherche en électromagnétisme et
+   radars
+   [Nom de collectivité]
+   Supelec Onera NUS DSO Research Alliance
+   [Nom de collectivité]
+   Supélec ONERA DSTA Research Alliance
+   [Nom de collectivité]
+
+   Information
+   Langue d'expression : Francais
+   Pays associé : France
+   Date de naissance : 2004
+
+   Notes
+   Note sur la biographie et les activités :
+   Adresse : CentraleSupélec, Plateau du Moulon, 3 rue Joliot Curie, 91190
+   Gif-sur-Yvette
+
+   Notices d'autorité liées
+   Collectivité Office national d'études et de recherches aérospatiales ,
+   France - Etablissement tutelle depuis 2004
+   Collectivité CentraleSupélec , 2015-.... - Etablissement tutelle
+
+   Source
+   https://appliweb.dgri.education.fr/rnsr, 2019-04-16
+   Information trouvée : Numéro identifiant national : 201522219R. Date de
+   création: 2004
+   _____________________
+
+   Internet, http://www.supelec.fr/sondra/, 2015-12-17
+   _____________________
+
+   New statistical modeling of multi-sensor images with application to
+   change detection / Jorge Prendes ; sous la direction de Frédéric Pascal
+   et Marie Chabert. Thèse de doctorat : Traitement du signal et des
+   images : Paris Saclay : 2015
+
+   Autres identifiants
+   Identifiant RNSR : 201522219R
+   Identifiant HAL : 531219
+
+   Utilisation dans Rameau
+   Le point d'accès peut être employé dans un point d'accès sujet
+   Le point d'accès ne peut s'employer qu'en élément initial
+
+   Informations sur la notice
+   Identifiant de la notice : 190360224
+   Dernière modification : 16-05-2019 à 20 h 01
+
+   ... Références liées : ...
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * [nouvelle-recherche.png] Nouvelle recherche
+     * [modifier-recherche.png] Modifier la recherche
+     * [nouvelle-notice.png] Créer une notice
+
+Type d’autorité
+
+Termes de recherche
+
+   __________________________________________________
+   Aucun résultat
+   [ ] Troncature automatique [ ] Recherche exacte
+
+Filtres
+
+   [Et] Type de notice __________________________________________________
+   [Et] Langue __________________________________________________
+   [Local]
+   Pages :
+   Filtrer par : Trier par :
+
+   Retour à la saisie
+
+Choisissez le type d'autorité
+
+   OK
+
+   Modifier notice Lier la notice Copier pour Calames
+   Enregistrer Translitterer Valider la notice Annuler
+   Les champs marqués d'une * sont obligatoires.
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * A propos d'IdRef
+
+   IdRef
+   IdRef (Identifiants et Référentiels pour l'Enseignement supérieur et la
+   Recherche) est une application Web développée et maintenue par l’ABES.
+   IdRef permet à des utilisateurs et à des applications tierces
+   d’interroger, de consulter, de créer et d'enrichir des autorités.
+
+   Les notices d'autorité
+   Une notice d'autorité peut décrire un sujet, une personne, une
+   collectivité, une famille, un nom de marque, un nom géographique, le
+   titre normalisé d'une œuvre, un centre de ressources documentaires. La
+   notice d'autorité sert ainsi à identifier de manière univoque le(s)
+   contributeur(s) et le(s) sujet(s) d'un document catalogué.
+   Les notices d'autorité servent :
+     * à attribuer les bons documents aux bonnes personnes (auteurs,
+       éditeurs, traducteurs, etc.)
+     * à enrichir et normaliser l'indexation d'une ressource pour qu'elle
+       gagne en visibilité pour les utilisateurs
+     * à faciliter le travail des professionnels de
+       l'information-documentation
+
+   Des données personnelles peuvent être présentes dans les notices
+   d'autorité décrivant des contributeurs d'une ressource cataloguée (date
+   de naissance, forme de nom, nationalité par exemple). Pour en savoir
+   plus : https://www.idref.fr/donnees_personnelles.jsp
+
+   IdRef : une interface de recherche et un outil de production
+   Les données d’IdRef sont accessibles via le site www.idref.fr grâce à
+   un moteur de recherche SolR.
+   Conformément à la politique d’ouverture des données de l’ABES, la
+   majeure partie des données sont sous licence Etalab donc réutilisables
+   sous réserve de mentionner la source « Agence Bibliographique de
+   l’Enseignement Supérieur ».
+   IdRef est outil de production de notices d'autorité. Il est possible,
+   via authentification, de modifier le contenu des notices ou de créer
+   des notices pour satisfaire un besoin de signalement documentaire.
+   Soucieux de la qualité des notices, IdRef permet à tout utilisateur de
+   contribuer à l'amélioration des données ou de signaler une erreur via
+   les formulaires accessibles en haut de chaque notice.
+   Une documentation complète est à la disposition des utilisateurs et des
+   professionnels.
+     * consulter la documentation
+     * consulter la FAQ du guichet d'assistance ABESstp
+     * suivre l'actualité d'IdRef sur Punktokomo, le blog technique de
+       l'Abes
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES
+   autorites data.idref.fr data.idref.fr Documentation Documentation
+   ____________________
+   ____________________ (BUTTON)
+
+   Bonjour ,
+     * Bienvenue sur IdRef, Identifiants et référentiels pour
+       l'Enseignement supérieur et la Recherche.
+
+     * Partenaires
+
+   IdRef pour mutualiser les autorités
+   L’ABES a développé IdRef pour mutualiser les données d'autorité et les
+   voir utiliser et ré-utiliser par de nombreux partenaires.
+   IdRef a pour vocation d'interagir avec d’autres applications
+   documentaires du monde de l’Enseignement Supérieur et de la Recherche.
+   Il est actuellement activé pour la production dans les applications
+   ABES :
+     * SUDOC
+     * STEP
+     * STAR
+     * Calames
+
+   Ainsi que dans les applications de partenaires institutionnels :
+     * le portail Persée
+     * le réseau ADUM
+     * le module ORI-OAI
+     * l'archive institutionelle OATAO
+     * la laboratoire LARHRA
+     * le projet de recherche PRELIB
+     * l'archive institutionelle OKINA
+
+   Si vous êtes intéressés par IdRef, contactez nous à l'adresse
+   idref@abes.fr.
+
+   Rassembler les ressources de tous les catalogues autour d'un
+   identifiant unique
+   En exploitant les autorités d'IdRef, une application tierce peut
+   récupérer une notice d’autorité : son identifiant unique et pérenne (le
+   numéro PPN à 9 chiffres), la forme normalisée d'une appellation ou
+   l'intégralité des données présentes.
+   Le recours à cet identifiant génère de l'interopérabilité entre les
+   bases. L'exploitation de cet identifiant permet une agrégation des
+   ressources signalées dans ces différentes bases et une plus large
+   visibilité de ces ressources, en premier lieu dans IdRef.
+   Au bénéfice de l’utilisateur final, il devient possible d'accéder à la
+   bibliographie agrégée des ressources de tous ces catalogues (thèse,
+   livres, articles, cours, etc.). A titre d'exemple, vous pouvez
+   consulter cette notice d'autorité.
+   A cette fin, l'ABES s'est rapprochée de nombreux partenaires
+   institutionnels, dont :
+     * la Bibliothèque Nationale de France (BnF), gestionnaire du site
+       data.bnf.fr
+     * le Centre pour la Communication Scientifique Directe (CCSD),
+       gestionnaire du serveur HAL
+     * ORCID, initiative internationale visant à l'identification des
+       auteurs de publication scientifique
+
+   D'autres coopérations d'envergure sont en cours ; avec Conditor, par
+   exemple.
+
+   IdRef par webservices
+   Les données relevant du domaine public sont disponibles via des
+   webservices. Ces données sont proposées soit brutes soit sous des
+   formes plus raffinées mais toujours aisément réutilisables.
+   Focus sur quelques uns des web services d'IdRef, documentés sur l'aide
+   IdRef pour les développeurs :
+     * Interagir avec IdRef : solution JavaScript pour faire communiquer
+       IdRef et tout autre site Web »
+     * Web service de recherche : web service pour interroger tous les
+       index d'IdRef, conforme aux spécifications Solr
+     * Modified : web service qui renvoie la liste de tous les ppn
+       modifiés depuis une certaine date
+     * Biblio : web service qui liste les documents rattachés à une
+       personne identifiée dans IdRef
+     * References : web service listant les documents liés à une autorité
+       IdRef dans les différentes sources / catalogues
+     * idref2id : web service fournissant, à partir d'un identifiant
+       IdRef, des identifiants d'autres systèmes
+     * id2idref : web service fournissant un identifiant IdRef à partir
+       d'identifiant d'autre système (à spécifier dans la requête)
+     * Merged : web service qui indique l'identifiant d'une notice valide
+       à partir de l'identifiant d'une notice devenue obsolète, suite à
+       une fusion de notices
+     * Merged inversé : web service indiquant l'identifiant d'une notice
+       devenue obsolète à partir de l'identifiant d'une notice valide,
+       suite à une fusion de notices
+     * IdRef en UNIMARC/XML : accès aux données d'IdRef en UNIMARC/XML
+     * IdRef en RDF/XML : accès aux données d'IdRef en RDF/XML
+
+   La liste complète est à retrouver dans l'aide en ligne pour les
+   développeurs.
+
+   IdRef et le web de données
+   IdRef s’inscrit dans le mouvement du web de données et du linked data.
+   L'ensemble des notices disposent d'un export en RDF/XML généré à la
+   volée, documenté dans le manuel IdRef en RDF.
+
+
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+   ______________________________________________________________________
+
+   A propos Partenaires Données Personnelles Mentions Légales Conditions
+   Générales d'Utilisation (CGU) Assistance
+   ABES

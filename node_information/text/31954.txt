@@ -1,0 +1,487 @@
+   #CELTIQUE » Feed CELTIQUE » Comments Feed alternate alternate alternate
+   alternate
+
+   CELTIQUE
+
+
+   Skip to content
+     * Presentation
+     * Members
+     * Publications
+     * Software
+     * Projects and Collaborations
+     * Seminar
+
+Presentation
+
+Project overview
+
+   The overall goal of the Celtique project is to improve the security and
+   reliability of software with semantics-based modeling, analysis and
+   certification techniques. To achieve this goal, the project conducts
+   work on improving semantic description and analysis techniques, as well
+   as work on using proof assistants (most notably Coq) to develop and
+   prove properties of these techniques. We are applying such techniques
+   to a variety of source languages, including Java, C, and JavaScript. We
+   also study how these techniques apply to low-level languages, and how
+   they can be combined with certified compilation. The CompCert certified
+   compiler and its intermediate representations are used for much of our
+   work on semantic modeling and analysis of C and lower-level
+   representations.
+
+   The semantic analyses extract approximate but sound descriptions of
+   software behaviour from which a proof of safety or security can be
+   constructed. The analyses of interest include numerical data flow
+   analysis, control flow analysis for higher-order languages, alias and
+   points-to analysis for heap structure manipulation. In particular, we
+   have designed several analyses for information flow control, aimed at
+   computing attacker knowledge and detecting side channels.
+
+   We work with three application domains: Java software for small devices
+   (in particular smart cards and mobile telephones), embedded C programs,
+   and web applications.
+
+   Celtique is a joint project with the CNRS, the University of Rennes 1
+   and ENS Rennes.
+
+Last activity report : 2018
+
+     * 2018 : PDF – HTML
+     * 2017 : PDF – HTML
+     * 2016 : PDF – HTML
+     * 2015 : PDF – HTML
+     * 2014 : PDF – HTML
+     * 2013 : PDF – HTML
+     * 2012 : PDF – HTML
+     * 2011 : PDF – HTML
+     * 2010 : PDF – HTML
+     * 2009 : PDF – HTML
+
+
+   Comments are closed.
+
+   Powered by Nirvana & WordPress.
+   #Rainbow » Feed Rainbow » Comments Feed Rainbow » Presentation Comments
+   Feed alternate alternate alternate alternate alternate
+
+   YouTube
+
+     * HOME
+     * Contact
+     * Intranet
+     * Admin
+     * Log In
+     * Français
+     * Search for: ____________________ (BUTTON) Search
+
+
+
+   Skip to content
+     * Rainbow
+     * TEAM
+          + Marie Babel
+          + Francois Chaumette
+          + Vincent Drevelle
+          + Alexandre Krupa
+          + Eric Marchand
+          + Claudio Pacchierotti
+          + Julien Pettré
+          + Paolo Robuffo Giordano
+          + Fabien Spindler
+          +
+              _________________________________________________________
+
+            Other people
+          + Alumni
+     * RESEARCH
+          + Research projects
+          + Robotics platforms
+          + SOFTWARES
+               o ViSP : Visual servoing plateform
+     * PUBLICATIONS
+     * Job offers
+          + Phd offers
+          + Post-doc offers
+          + Engineer offers
+          + Internships
+     * NEWS
+          + General news
+          + Scientific articles
+          + Seminars
+          + Workshops and Tutorials
+     * MEDIA
+          + Videos
+          + Photo gallery
+          + Rainbow in the press
+     * CONTACT
+
+   Home Presentation
+
+Presentation
+
+   The Rainbow team is a joint Inria/IRISA Project-Team in partnership
+   with CNRS, Université de Rennes 1, and Insa of Rennes.
+
+   The long-term vision of the Rainbow team is to develop the next
+   generation of sensor-based robots able to navigate and/or interact in
+   complex unstructured environments together with human users.
+
+   We aim at tackling these general scientific challenges:
+     * high-level of autonomy for complex robots in complex (unstructured)
+       environments;
+     * forward interfaces for letting an operator giving high-level
+       commands to the robots in simple ways;
+     * backward interfaces for informing the operator about the robot
+       ‘status’;
+     * user studies for assessing the best interfacing depending on the
+       particular task/situation.
+
+   The applications targeted by research activities involve:
+     * remote manipulation with single/multiple arms under the guidance of
+       a human operator
+     * coordination of single/multiple mobile robots for spatial
+       navigation tasks (e.g., exploration, navigation, mapping)
+     * medical robotics for semi-autonomous probing and intervention
+     * assistive mobility devices for frail or impaired people
+
+   Please visit our YouTube channel for a selection of recent results.
+   OLYMPUS DIGITAL CAMERA
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+   [Fabien-Pepper-small-300x200.jpg]
+
+   Comments are closed.
+     * News
+          + IEEE RA-L 2018 Best Paper Award May 23, 2019
+          + ADAPT Project – Multisensory power wheelchair simulator April
+            4, 2019
+          + Conférence Innovation, Robotique et Santé December 7, 2018
+          + Rainbow at the Maker Faire Rome October 17, 2018
+          + 10 new papers accepted at IROS 2018 June 29, 2018
+     * Seminars
+          + Seminar of Claudio Gaz (Univ. Rome La Sapienza) April 12, 2019
+          + Ide-Flore Kenmogne Ph.D. Defense March 6, 2019
+          + Seminar of Vincent Lepetit (U. de Bordeaux, IUF) January 11,
+            2019
+          + Salma Jiddi Ph.D. Defense January 11, 2019
+          + Seminar of Jee-Hwan Ryu (KOREATECH) December 19, 2018
+
+   Inria Université de Rennes 1 INSA Rennes IRISA CNRS
+   Powered by Nirvana & WordPress.
+   YouTube
+   #» Feed » Comments Feed alternate alternate alternate alternate
+
+
+
+   Skip to content
+     * PRESENTATION
+     * PEOPLE
+     * PROJECTS
+     * PUBLICATIONS
+     * FACILITIES AND EQUIPMENTS
+     * NEWS
+     * JOB OFFERS
+     * CONTACT
+     * Search for: ____________________ (BUTTON) Search
+
+Home
+   #Empenn » Feed Empenn » Comments Feed Empenn » Presentation Comments
+   Feed alternate alternate alternate alternate
+
+   Empenn
+   Biomedical image analysis for disease understanding
+
+
+   Skip to content
+     * Presentation
+          + Team members
+          + Contact
+     * Research
+          + Scientific Activities
+          + MMINCARAV (Inria-EPFL team)
+          + Software
+          + Data
+     * Publications
+     * Job offers
+     * News
+     * Neuroimaging Platform
+     * Talks & Posters
+     * Members area
+
+   Home Presentation
+
+Presentation
+
+   Empenn (means “Brain” in Breton language) ERL U1228 research team is
+   jointly affiliated with Inria, Inserm (National Institute of Health and
+   Scientific Research), CNRS (INS2I institute), and University of Rennes
+   I. It is a team of IRISA/UMR CNRS 6074. Empenn is based in Rennes, at
+   both the medical and science campuses. The team follows the “VisAGeS”
+   one that was created for 12 years in 2006 by Inria, As for “VisAGeS”,
+   Empenn hosts the accreditation number U1228 renewed by Inserm in 2017,
+   after a competitive evaluation conducted by both HCERES and Inserm.
+
+   Through this unique partnership, the ambition of Empenn is to establish
+   a multidisciplinary team bringing together researchers in information
+   sciences and medicine. Our medium- and long-term objective is to
+   introduce our basic research to clinical practice, while maintaining
+   the excellence of our methodological research.
+
+   Our goal is to foster research in medical imaging, neuroinformatics and
+   population cohorts. In particular, the Empenn team  targets the
+   detection and development of imaging biomarkers for brain diseases and
+   focus its efforts on translating this research to clinics and clinical
+   neurosciences at large.
+
+   In particular, the objective of Empenn is to propose new statistical
+   and computing methods, and to measure and model brain morphological,
+   structural and functional states in order to better diagnose, monitor
+   and deliver treatment for mental, neurological and substance use
+   disorders. We propose combining advanced instrumental devices and new
+   computational models to provide advanced diagnosis, therapeutic and
+   neuro-rehabilitation solutions for some of the major disorders of the
+   developing and aging brain.
+
+   Generic and challenging research topics in this broad domain include
+   finding new ways to compare models and data, assist decisions and
+   interpretation, and develop feedback from experiments. These activities
+   are performed in close collaboration with the Neurinfo in vivo imaging
+   platform, which is a critical environment for the experimental
+   implementation of our research on challenging clinical research
+   projects and the development of new clinical applications.
+
+Research themes
+
+   New practices in medicine bring new challenges in information sciences.
+   This is acutely challenging for brain disorders,where the main
+   challenges we facetoday include (1) improving the understanding of the
+   brain (especially the brain in action), (2) undertaking more effective
+   monitoring of therapeutic procedures, (3) modeling groups of normal and
+   pathological individuals from signal and image descriptors, and (4)
+   discovering new therapeutic and rehabilitation strategies for brain
+   recovery. In addressing these challenges, current medicine lacks
+   computational models able to align multimodal and multiscale
+   observations ofpatients withunderlying pathological phenomena,as well
+   as frameworks to validate these models in clinical settings. These
+   issues pose new challenges in the field of digital sciences and require
+   the development of new solutions for (1) mining descriptors from in
+   vivo observations,(2) assimilating the large amount of data produced
+   for each patient through compact and relevant mathematical
+   representations, (3) learning the dynamics of spatiotemporal data to
+   predict the course of the disease in individual patients, and (4)
+   reconciling observations and treatment processes (the
+   theragnostics concept).
+
+   In this context, some of our major developments and newly arising
+   issues and challenges include:
+     * The generation of new descriptors to study brain structure and
+       function (e.g. the combination of variations in brain perfusion
+       with and without a contrast agent; changes in brain structure in
+       relation to normal, pathological, functional or connectivity
+       patterns; or the modeling of brain state during cognitive
+       stimulation using neurofeedback).
+     * The integration of additional spatiotemporal and hybrid imaging
+       sequences covering a larger range of observations, from the
+       molecular level to the organ one, via the cellular level (arterial
+       spin labeling, diffusion MRI, MR relaxometry, MR fingerprinting, MR
+       cell labeling imaging, MR-PET molecular imaging, EEG-MRI-NIRS
+       functional imaging, etc.).
+     * The creation of computational models through the data fusion of
+       molecular, cellular (i.e. through dedicated ligands or
+       nanocarriers), structural and functional image descriptors from
+       group studies of normal and/or pathological subjects.
+     * The evaluation of these models in relation to acute pathologies,
+       especially for the study of degenerative, psychiatric, traumatic or
+       developmental brain diseases (primarily multiple sclerosis, stroke,
+       traumatic brain injury (TBI) and depression, but applicable with a
+       potential additional impact to epilepsy, Parkinson’s disease,
+       dementia, PTSD, …) within a translational framework.
+
+   In terms of new major methodological challenges, we will address the
+   development of models and algorithms to reconstruct, analyze and
+   transform the images, and to manage the mass of data to store,
+   distribute and “semanticize” (i.e. provide a logical division of the
+   model’s components according to their meaning). As such, we expect to
+   make methodological contributions in the fields of model inference;
+   statistical analysis and modeling; the application of sparse
+   representation (compressed sensing and dictionary learning) and machine
+   learning (supervised/unsupervised classification and discrete model
+   learning); data fusion (multimodal integration, registration, patch
+   analysis, etc.); high-dimensional optimization; data integration; and
+   brain-computer interfaces.
+
+   In summary, we expect to address the following major challenges:
+     * Developing new information processing methods able to detect
+       imaging biomarkers in the context of mental, neurological, and
+       substance use disorders.
+     * Providing new computational solutions, allowing a more appropriate
+       representation of data for image analysis and the detection of
+       biomarkers specific to a form or grade of pathology, or specific to
+       a population of subjects.
+     * Providing new patient-adapted connectivity atlases for the study
+       and characterization of diseases from quantitative MRI.
+     * Providing new analytical models of dynamic regional perfusion, and
+       deriving indices of dynamic brain local perfusion from normal and
+       pathological populations.
+     * Investigating whether the theragnostics paradigm of rehabilitation
+       from hybrid neurofeedback can be effective in some behavioral and
+       disability pathologies.
+
+   These major advances are primarily developed and validated in the
+   context of several priority applications: multiple sclerosis, stroke
+   rehabilitation, and the study and treatment of depression
+
+   In terms of scientific organization, our research project are organized
+   around three major technological and basics cience topics (Population
+   Imaging, Detection and Learning,and Quantitative Imaging) and three
+   major translational axes (Behavior, Neuro-inflammationand Recovery)
+   that are generic enough to address a large range of central nervous
+   system diseases.
+
+International and industrial relations
+
+   Inria Associate Teams
+     * MMINCARAV (Multimodal Microstructure-Informed Connectivity:
+       Acquisition, Reconstruction, Analysis and Validation) Associate
+       Team
+          + The Multimodal Microstructure-Informed Connectivity:
+            Acquisition, Reconstruction, Analysis and Validation
+            (MMINCARAV) project is an associate team between Empenn (Inria
+            Rennes Bretagne Atlantique) and LTS5 (École Polytechnique
+            Fédérale de Lausanne — EPFL) started in 2019. The main
+            objective of this associate team is to develop novel methods
+            for the quantification of microstructure properties in brain
+            tissues using diffusion MRI and relaxometry, in relation with
+            the macrostructure organization of the brain connectome.
+     * BARBANT (Boston and Rennes, Brain image Analysis)  associated team
+          + In the period 2013 and 2017, this associated team is shared
+            between INRIA Visages team and the Computational Radiology
+            Laboratory of the Children’s hospital Boston at Harvard
+            Medical School. It addresses the topic of better understanding
+            the behavior and evolution of neurological pathologies (such
+            as neurodevelopmental delay or multiple sclerosis) at the
+            organ and local level, and the modeling of normal and
+            pathological groups of individuals (cohorts) from image
+            descriptors. After 6 years of official Inria associated team
+            affiliation, BARBANT team will be transforms as an officila
+            Inria Internationall partnership.
+     * We also have a strong collaboration under the International
+       Neuroinformatics Coordinating Facility (INCF) on the development of
+       standards and tools for neuroimaging data sharing
+
+   Comments are closed.
+     * Recent Posts
+          + MoDal Seminar – Rennes, July 11th
+          + 7 highlights from my first ISMRM
+          + Neuroinformatics get together – Marseille, May 21st
+          + March 2019 – Semaine du Cerveau – Brain awareness week
+          + OHBM 2019 symposium on neurofeedback
+     * Tweets by Empenn
+     * Latest publications
+          + Imagerie de population et IRM de diffusion pour caractériser
+            la sclérose en plaques pour la moélle épinière humaine
+          + Effect of prenatal organic solvent exposure on structural
+            connectivity at childhood
+          + Multidomain spectral method for the Gauss hypergeometric
+            function
+          + Patch-Based Super-Resolution of Arterial Spin Labeling
+            Magnetic Resonance Images
+          + Spatial distribution of multiple sclerosis lesions in the
+            cervical spinal cord
+          + Efficacy of EEG-fMRI Neurofeedback in stroke in relation to
+            the DTI structural damage: a pilot study Authors
+          + A multi-target motor imagery training using EEG-fMRI
+            Neurofeedback: an exploratory study on stroke Authors:
+            Introduction
+     * Log In
+       Username ____________________
+       Password ____________________
+       [X] Remember Me
+       Log In
+
+   Powered by Nirvana & WordPress.
+   #GraphIk - Knowledge Representation and Reasoning » Feed GraphIk -
+   Knowledge Representation and Reasoning » Comments Feed GraphIk -
+   Knowledge Representation and Reasoning » Home Comments Feed alternate
+   alternate alternate alternate
+
+   (BUTTON) Toggle navigation
+
+GraphIk – Knowledge Representation and Reasoning
+
+     * Home
+     * Team
+     * Overview
+     * Highlights
+     * Projects
+     * Relationships
+          + Visitors (from 2010)
+          + Invited Talks/Seminars/Visits (from 2010)
+     * Publications
+     * Software
+     * Job offers
+     * Contact
+
+Home
+
+Welcome to GraphIK
+
+
+   GraphIK (Graphs for Inferences on Knowledge) is a joint team between
+   Inria (Sophia Antipolis Méditerranée center), LIRMM (University of
+   Montpellier and CNRS) and INRA
+
+   Keywords: Knowledge Representation and Reasoning – Knowledge and Data
+   Management – Algorithms and Complexity – Ontology-Based Data Access –
+   Decision Support Systems
+
+   Current Application Domains: Agronomy, sustainable development,
+   agroecology – Bibliographic Metadata Management – Data Journalism
+
+
+
+
+
+
+
+
+
+
+
+   Last modified August 2, 2019
+
+   Permanent link to this article: https://team.inria.fr/graphik/
+
+Seminars
+
+     * September 26, 2:00 PM, Stathis Delivorias (Graphik)
+     * July, 24, 2019, 9:30 AM, Results of internships 2019
+     * July, 11, 2019, 9:00 AM, Bruno Yun (GraphIk)
+     * July, 9, 2019, 2:00 PM, Dragan Doder (IRIT Toulouse)
+     * June 7, 2019, 2:00 PM, Paolo Papotti (EURECOM)
+     * March 22, 2019, 10:45 AM: Cyril Savelief (ComputableFacts)
+     * March 11 and 12, 2019, CQFD project Kick Off Meeting
+     * January 10, 2019, 09:00 AM, GraphIK tools presentation
+     * December 21,2018, 10:00 am, David Carral (TU Dresden)
+     * December 17, 2018, 9:00, GraphIK Annual Seminar
+     * November 8, 2018, 3:15 pm, Jean-François Baget (GraphIK)
+     * October 25, 2018, 2:00 pm, Marie-Laure Mugnier (GraphIK)
+     * July 24, 2018, 10:00 am, Mathieu Dodard, Renaud Colin, Guilhaume
+       Perution-Khili (GraphIK
+     * July 9, 2018, 9:30 am, Abdelraouf Hecham (GraphIK)
+     * June 28, 2018, 2:00 pm: Arthur Boixel (GraphIK)
+     * June 28, 2018, 2:00 pm: Cesar Prouté (GraphIK)
+     * PAST SEMINARS (from January 2013)
+
+   Inria         Lirmm         Université de Montpellier         Cnrs
+           Inra
+
+   Made with by Graphene Themes.

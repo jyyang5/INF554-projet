@@ -1,0 +1,2860 @@
+   Surbma | GDPR Proof Cookie Consent & Notice Bar By Surbma
+   (8 total ratings)
+
+   This plugin helps your website to comply with GDPR cookie regulations
+   by asking every visitors to accept or decline cookie tracking.
+   (BUTTON)
+   Tested with 5.2.3
+   Get this plugin
+
+     * (BUTTON) WordPress Embed
+     * (BUTTON) HTML Embed
+
+   https://wordpress.or
+
+   Copy and paste this URL into your WordPress site to embed
+
+   <blockquote class="wp-embedded-content"><a href="https://wor
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copy and paste this code into your site to embed
+   (BUTTON)
+   Theme Check By Otto42, pross
+   (192 total ratings)
+
+   A simple and easy way to test your theme for all the latest WordPress
+   standards and practices. A great theme development tool!
+   (BUTTON)
+   Tested with 5.2.3
+   Get this plugin
+
+     * (BUTTON) WordPress Embed
+     * (BUTTON) HTML Embed
+
+   https://wordpress.or
+
+   Copy and paste this URL into your WordPress site to embed
+
+   <blockquote class="wp-embedded-content"><a href="https://wor
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copy and paste this code into your site to embed
+   (BUTTON)
+   #alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Skip to content
+
+WordPress.org
+
+   Search WordPress.org for: ____________________ (BUTTON) Submit
+   (BUTTON) Toggle Menu
+
+     * Showcase
+     * Themes
+     * Plugins
+     * Mobile
+     * Support
+          + Documentation
+          + Forums
+     * Get Involved
+     * About
+     * Blog
+     * Hosting
+     * Get WordPress
+
+   Plugins
+
+   (BUTTON)
+     * My Favorites
+     * Beta Testing
+     * Developers
+     * Search for: ____________________ (BUTTON) Search plugins
+
+   This plugin hasnt been tested with the latest 3 major releases of
+   WordPress. It may no longer be maintained or supported and may have
+   compatibility issues when used with more recent versions of WordPress.
+   Download
+
+iThoughts Tooltip Glossary
+
+   By Gerkin
+     * Details
+     * Reviews
+     * Installation
+     * Support
+     * Development
+
+Description
+
+   Build a glossary on your site that link terms in your posts to it via
+   tooltips. You can also create unlinked tooltips to bring some precision
+   to a term or expression in a single post.
+
+   This plugin is optimized for responsive web design, SEO, usability, and
+   more.
+
+Features
+
+     * Manage your glossaries on your own site
+     * Add tooltips with fully customizable content (text or medias)
+     * Several kind of lists to display your glossary terms
+     * Group your terms by categories
+     * Fully responsive tooltips, with 6 animations and 10 themes.
+     * Theme editor & easy animation customization. Keep control of your
+       site appearance.
+     * Support of WPML for multilingual terms
+
+   iThoughts Tooltip Glossary works well with iThoughts Lightbox, which
+   allow you to create responsive lightboxes that includes your mediatip
+   images.
+
+   For further information, please visit the iThoughts Tooltip Glossary
+   dedicated landing page.
+
+Further Information
+
+   Browse the full developer documentation on GitHub Pages
+
+   If you want to contribute, feel free to check the GitHub repository
+
+   User manual available on gerkindevelopment.net
+
+   For bug repports or unexpected behaviors, please see the dedicated
+   WordPress support forum
+
+Thanks to & Resources
+
+   TCBarrett for his WP Glossary plugin
+   Laurent Pelleray for graphical elements
+   Tammi Coles for corrections to readme description
+   Rikengct for a LOT of usefull suggestions
+   TinyMCE tooltip icon by Darren Northcott from the Noun Project
+   Wordpress PHP CodeSniffer ruleset
+   https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standard
+   s
+
+Support this plugin
+
+   Maintaining this plugin takes a lot of time, time that I have to share
+   with my work and my studies. If you appreciate my work, feel free to
+   comment, rate, or even donate to the plugin. I need your help to
+   continue maintaining the plugin, and bringing more features.
+
+Screenshots
+
+     * Example frontend hover glossary term/tooltip
+     * Example TinyMCE glossary term form
+     * Example TinyMCE tooltip form
+     * jQuery based Glossary term A to Z and term list
+     * Glossary index shortcodes
+
+Installation
+
+   Either install through admin panel (this is the eaiest way), or:
+    1. Upload ithoughts-tooltip-glossary.zip to the /wp-content/plugins/
+       directory
+    2. Unzip the archive
+    3. Activate the plugin through the ‘Plugins’ menu in WordPress
+
+FAQ
+
+     Does this plugin create any new tables?
+
+   No. It uses custom post types and taxonomies.
+
+     None of the details pages are working!
+
+   Please resave your rewrite rules: Settings > Permalinks > Save Changes
+   (just click the button)
+
+     I got an error when loading my glossary tips
+
+   It may be a permalink problem. Go to Settings > Permalinks and click
+   Save Changes
+
+     It doesn’t do anything?
+
+   Check if jQuery is loaded.
+   For glossary terms only, you have to add the terms (Tooltip Glossary >
+   Add New Term) and then use the appropriate TinyMCE button to link the
+   text with that glossary term
+
+   Installation Instructions
+          Either install through admin panel (this is the eaiest way), or:
+
+         1. Upload ithoughts-tooltip-glossary.zip to the
+            /wp-content/plugins/ directory
+         2. Unzip the archive
+         3. Activate the plugin through the ‘Plugins’ menu in WordPress
+
+Reviews
+
+Excellent tooltip plugin
+
+   flongpre April 26, 2018
+   While looking for a glossary / tooltip plugin in 2016, I found this one
+   and I use it on 2 big sites since then. With the WPML compatibility and
+   many other improvements, I was always happy to discover new features as
+   we use it. The plugin is upgraded frequently and very well maintained
+   by Gerkin who was always quick to fix bugs and answer questions in the
+   forum.
+
+A free five star plugin!!
+
+   bobby1kenobi December 1, 2017
+   To be honest I tried them all to find the best solution and here it is!
+   This is the best tooltip plugin. Nice, smooth design, easy to use and
+   to setup. Did I forgot something ? Yes- it's totally FREE. Thumbs up!
+   👍👍
+
+Great plugin, responsive help
+
+   handwovenbox October 23, 2017
+   Many thanks for the plugin. It works great and Gerkin has answered my
+   questions quickly in the support forums.
+
+Exactly what I was looking for!
+
+   jorgenheld July 22, 2017
+   Easy to install and activate. Perfect with the "Advanced attributes"
+   button. I didn't realize that the option existed until I read the
+   manual 🙂 Just mark the text string (or in my case a link) and click on
+   the "Add a Tooltip" button. Add the text you want to appear in the pop
+   up window. Done! Excellent work by the plugin developer!
+
+Strange and Useless
+
+   ist4000 November 21, 2016
+   No function is working properly. The plugin does random things with no
+   evident logical connection between each other. Very strange and
+   absolutely useless. No description for shortcodes to try out things.
+   Just the not working buttons in the tool panel of the editor.
+
+Plugin with some issues but great active support
+
+   Jos Klever September 3, 2016
+   A client asked me to solve some issues on their website. It appeared to
+   be impossible to update this plugin from 1.1.6 to 2.x, so I created a
+   support ticket. Together we did some research and found a few
+   improvements in the update process. During this process some other bugs
+   were found and solved pretty quickly. Today with the release of 2.3.2
+   every issue we found, is solved, so keep up the good work!
+   Read all 13 reviews
+
+Contributors & Developers
+
+   “iThoughts Tooltip Glossary” is open source software. The following
+   people have contributed to this plugin.
+   Contributors
+     * Gerkin
+
+   “iThoughts Tooltip Glossary” has been translated into 1 locale. Thank
+   you to the translators for their contributions.
+
+   Translate “iThoughts Tooltip Glossary” into your language.
+
+Interested in development?
+
+   Browse the code, check out the SVN repository, or subscribe to the
+   development log by RSS.
+
+Changelog
+
+3.0.3
+
+     * FIX Wrong term fetched when using auto term translation as
+       anonymous user. See the WPML related issue and the support issue
+
+3.0.2
+
+     * FIX Singleton structure
+
+3.0.1
+
+     * FIX Fatal error in Resource management (see the forum thread)
+     * FIX Theme Editor
+
+3.0.0
+
+     * NEW Exclude glossary terms from search
+     * NEW Automated tests, linting, docs, etc etc
+     * UPD Changed shortcodes for prefix itg instead of
+       ithoughts_tooltip_glossary
+     * UPD Improved updater performaces
+     * UPD Styles & scripts refactoring
+     * UPD Resource management process reviewed
+
+2.7.0
+
+     * NEW Support of QuickTags to use plugin shortcodes even in text mode
+       (see ist4000 request feature)
+     * UPD List form now more flexible
+     * UPD Lists queries more performant
+     * FIX Form styles improved
+     * FIX Advanced Tooltip attributes now functionnal
+     * FIX Lists not doing group/alpha filters well in every situations
+
+2.6.4
+
+     * FIX Obsolete variable in A-to-Z js script (see support forum)
+
+2.6.3
+
+     * FIX Moved JS TinyMCE form data object.
+
+2.6.2
+
+     * UPD New version of iThoughts WordPress Plugin Toolbox
+     * FIX Enforcing namespaces in JS & PHP.
+
+2.6.1
+
+     * FIX Removed old JS dependencies no more used
+     * FIX JS function “removeAccents” injected in another namespace
+
+2.6.0
+
+     * NEW Attributes editor for tooltip-specific configuration
+     * NEW Using JS namespacing to avoid conflicts
+     * NEW Allow setting explicit HREF on glossary term with warning
+       message
+     * NEW Added in/out animations for tip + hooks for adding custom anims
+     * NEW Added support of comments on glossary terms if enabled in
+       config
+     * UPD New version of iThoughts Plugin Toolbox with no-conflicting
+       naming
+     * UPD Rename JS files for uniform naming
+     * UPD Increasing the number of hooks (ithoughts_tt_gl-term-content,
+       ithoughts_tt_gl-term-excerpt)
+     * FIX Wrong DB query containing static string, which can produce
+       errors
+
+2.5.0
+
+     * NEW Complete simplified theme editor
+     * UPD Fixed HTML escaped tooltip content (see this ticket)
+
+2.4.2
+
+     * UPD Security fixes
+     * UPD Plugin Core
+     * UPD Improved memory & CPU usage for lists, reduce generation time
+
+2.4.1
+
+     * FIX Glossary tooltip linked to the wrong language with WPML
+
+2.4.0
+
+     * NEW Full support of WPML
+     * UPD Style editor now saves to a file and add theme in theme
+       dropdown
+     * UPD Less.css style editor
+     * FIX Click activation mode prevented totally to access a link
+
+2.3.2
+
+     * FIX Delegate register of ithoughts_aliases to parent Backbone
+
+2.3.1
+
+     * UPD Use of namespacing
+     * UPD Started documentation compliant format
+     * FIX Change JS aliases that were modified by iThoughts comon code
+
+2.3.0
+
+     * NEW Mediatips now support captions
+     * NEW Tips now support links href if the type allow it
+     * NEW Now uses minified scripts if not in WP_DEBUG mode
+     * UPD Updater post types
+     * FIX Various checks and fallbacks added
+
+2.2.3
+
+     * UPD new updater step to replace shortcode term’s slug with term id
+
+2.2.2
+
+     * UPD enhance behaviour of tooltips containing quotes
+     * FIX Video related styles
+     * FIX href link attribute now overridable
+
+2.2.1
+
+     * UPD Better general display of videos
+     * FIX qTip Viewport plugin re-added
+     * FIX Per-tip overridable termcontent attribute
+
+2.2.0
+
+     * NEW Basic style editor
+     * UPD Utility methods (form generation, parsing shortcode attrs)
+       mutualized with all future plugins
+     * UPD qTip2 v2.1.1 => v2.2.1
+     * FIX Webvideo unpin did not reactivate tooltip normal behaviour
+     * FIX overridable qtip style
+
+2.1.7
+
+     * NEW Add attributes filtering & appending to plugin generated HTML
+     * NEW Display compiled shortcodes into tooltip
+     * NEW Filtering JS Mediatips to prepare compatibility with iThoughts
+       Lightbox
+     * UPD Remove versionning on resources when useless to improve browser
+       caching capability
+     * UPD Remove obsolete & uncompatible trigger option “mouseenter”
+     * UPD Tooltip links now overlined & underlined by default, to be
+       easily recognized
+     * UPD List display split in columns more intuitive
+     * UPD General code cleaning
+     * UPD Corrections in reference link values
+     * UPD Reduce globals usage
+     * FIX Remove trailing \ before ' in tooltip content
+     * FIX Modification in selection of alphas in list & A-to-Z display
+       modes
+     * FIX Change handling of static terms for uniformized PHP behavior
+     * FIX Various z-index issues
+     * FIX Several A-to-Z now can work together without interacting with
+       others
+     * FIX iOS specific responsiveness compatibility
+
+2.1.6
+
+     * FIX PHP potential issues
+
+2.1.5
+
+     * FIX z-index problem with SiteOrigin page builder
+     * FIX List display for terms
+
+2.1.4
+
+     * NEW added ability to override some plugin settings (interface in
+       dev)
+     * NEW Glossary spans now generated by filters
+     * FIX Version updater
+     * FIX Compat to php >= 5.3.1
+
+2.1.2
+
+     * FIX PHP Syntax incompatibility
+
+2.1.1
+
+     * UPD Added filters for glossary term excerpts
+     * UPD Mutualize options to improve performances
+     * UPD Remove useless options
+     * FIX Raise warn level for less errors in prod environment
+     * FIX Sub-TinyMCE basepaths
+
+2.0.5
+
+     * UPD Refactor whole plugin for better maintenability
+     * FIX Updater unexpected behavior
+     * FIX Tooltip trigger mode hover
+
+2.0.4
+
+     * NEW Static terms to display glossary terms without Ajax
+     * UPD Web video now allow mp4, YouTube and Dailymotion videos
+     * FIX incompatibility with PHP5.3
+     * FIX Force reload for new scripts
+
+2.0.2
+
+     * FIX Update routine
+
+2.0
+
+     * NEW Now support images from an URL
+     * NEW Support of YouTube videos
+     * NEW Ajax Updater
+     * UPD Delay hide of mediatips
+     * UPD Detached Tooltip form
+     * UPD Tooltip with custom content now use TinyMCE
+
+1.1.6
+
+     * FIX TinyMCE change tab detection => mode switching
+
+1.1.5
+
+     * UPD Change default tooltip position (see this post)
+     * UPD Sort terms alphabetically into TinyMCE form (see this thread)
+     * FIX Added base container on top of Divi header and wpadminbar
+
+1.1.4
+
+     * UPD Transition to prefixed shortcodes
+     * UPD Changed some plugin prefixes
+     * FIX Renamed shortcode Tooltip for Divi compatibility (see this
+       issue)
+     * FIX Change hook for loading TinyMCE plugin (see this issue)
+
+1.1.3
+
+     * NEW Added style previews for tooltips
+     * UPD Added security checks on url-related options
+     * UPD Admin layout
+
+1.1
+
+     * NEW added mediatip
+     * FIX tooltips flickered on small screen
+
+1.0.2
+
+     * FIX Random Term Widget
+
+1.0.1
+
+     * UPD improved French translation
+     * UPD correction to remove an error message
+
+1.0
+
+     * NEW Added select for glossary terms
+     * UPD Inline tooltips now integrated to TinyMCE Glossary button
+     * UPD TinyMCE now recognize tooltips as like glossary terms
+     * UPD Removed “title” attribute on links with JS to allow search
+       engine comprehension & disable double tooltips on some browsers
+       (eg. Firefox)
+
+0.2.3
+
+     * NEW Added inline tooltips
+
+0.2.2
+
+     * NEW Add plugin basic icon
+     * UPD fixed dead links
+
+0.2.1
+
+     * UPD clean dirty release
+
+0.2
+
+     * NEW Added fr_FR translation
+     * UPD Clean old unused translations
+     * UPD Admin menu
+
+0.1
+
+     * NEW Added “Responsive” ‘qtiptrigger’, which is “hover”/”focus” on
+       computers, and “click” on touch devices.
+     * NEW Added ability to set the main glossary page url, which is also
+       the term prefix (http://www.yourblog.com/whatever/…)
+     * UPD Group terms in ATOZ even with accents. “ù” will be in “U”
+       section.
+     * UPD Clean Theme editor improved with more flexibility. Thrown away
+       useless theme form
+
+0.0
+
+     * Please see previous changes from WP Glossary
+
+Meta
+
+     * Version: 3.0.3
+     * Last updated: 1 year ago
+     * Active installations: 300+
+     * WordPress Version: 3.3 or higher
+     * Tested up to: 4.9.11
+     * Languages:
+       (BUTTON) See all 2
+       (BUTTON) Close
+       English (US) and Romanian.
+       Translate into your language
+     * Tags:
+       appendixdictionaryglossarytooltip
+     * Advanced View
+
+Ratings
+
+   See all
+     * 5 stars 11
+     * 4 stars 0
+     * 3 stars 1
+     * 2 stars 0
+     * 1 star 1
+
+Contributors
+
+     * Gerkin
+
+Support
+
+   Issues resolved in last two months:
+
+   0 out of 1
+
+   View support forum
+
+Donate
+
+   Would you like to support the advancement of this plugin?
+
+   Donate to this plugin
+     * About
+     * Blog
+     * Hosting
+     * Donate
+
+     * Support
+     * Developers
+     * Get Involved
+
+     * Showcase
+     * Plugins
+     * Themes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Privacy
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Code is Poetry.
+   Skip to toolbar
+     * About WordPress
+          + About WordPress
+          + WordPress.org
+          + Documentation
+          + Support
+          + Feedback
+
+     * ____________________Search Search
+     * Log In
+     * Register
+   #alternate alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Skip to content
+
+WordPress.org
+
+   Search WordPress.org for: ____________________ (BUTTON) Submit
+   (BUTTON) Toggle Menu
+
+     * Showcase
+     * Themes
+     * Plugins
+     * Mobile
+     * Support
+          + Documentation
+          + Forums
+     * Get Involved
+     * About
+     * Blog
+     * Hosting
+     * Get WordPress
+
+   Plugins
+
+   (BUTTON)
+     * My Favorites
+     * Beta Testing
+     * Developers
+     * Search for: ____________________ (BUTTON) Search plugins
+
+   Download
+
+Zendesk Chat
+
+   By Zendesk
+     * Details
+     * Reviews
+     * Installation
+     * Support
+     * Development
+
+Description
+
+   Did you know that 83% of consumers need some kind of customer support
+   when making an online purchase? And 45% of customers abandon an online
+   transaction if their questions or concerns are not addressed quickly.
+
+   Businesses that interact with potential customers online are better
+   placed to build a connection and increase their revenues. The Zendesk
+   Chat app will let you answer your customer’s questions in real time and
+   ease them into a purchase.
+
+   IFRAME:
+   https://www.youtube.com/embed/50s13fKKhGo?version=3&rel=1&fs=1&autohide
+   =2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent
+
+   With Zendesk Chat, visitors to your website will be able to chat
+   directly with you through the widget and you can manage multiple
+   conversations through the online Dashboard.
+
+   Key Features
+     * Mobile Optimized: Your customers can chat with you from any device
+       using our mobile optimized chat widget
+     * Proactive Chat: Rather than chatting with every single person
+       yourself, you can increase the chances of high value engagement
+       (and more sales) by using Triggers to automatically reach every
+       visitor
+     * Advanced Analytics: Our analytics dashboard lets you monitor
+       visitor flow, usage patterns, and lets you jump in whenever a
+       customer might need help
+
+   What makes Zendesk Chat the best choice for live chat?
+     * We’re the most popular live chat provider in the world – loved by
+       over 150,000 businesses
+     * A simple and highly customizable chat widget to complement your
+       website and taste
+     * User friendly dashboard lets you monitor visitor activity and
+       manage chats
+     * 24 hour live chat support from our trained experts on any weekday
+       (visit www.zendesk.com/chat)
+     * Available in over 40 languages
+
+   Some Geeky Facts
+     * Work across major browsers (Internet Explorer 6+, Firefox, Google
+       Chrome, Opera, Safari).
+     * Average uptime is 99.8%.
+     * HTML5 dashboard
+     * iPhone, Android, and BlackBerry apps
+     * Integrates seamlessly with UserVoice, Salesforce, Highrise,
+       Batchbook, Zendesk, vTiger and many more.
+
+   Should you need any assistance, feel free to chat with our customer
+   advocates on https://www.zendesk.com/chat or email us at
+   chat@zendesk.com
+
+   What are you waiting for? Download Zendesk Chat plugin now and sign up
+   here for a free account!
+
+   See languages available, lovingly translated by Zendesk Chat users (in
+   alphabetical order)
+     * Arabic | Bulgarian | Chinese | Croatian | Czech | Danish | Dutch;
+       Flemish | Estonian | Faroese | Finnish | French | Georgian | German
+       | Greek | Hebrew | Hungarian | Icelandic | Indonesian | Italian |
+       Japanese | Korean | Kurdish | Latvian | Lithuanian | Macedonian |
+       Malay | Norwegian Bokmal | Persian | Polish | Portuguese | Romanian
+       | Russian | Serbian | Slovak | Slovenian | Spanish; Castilian |
+       Swedish | Thai | Turkish | Ukranian | Urdu | Vietnamese
+
+Usage
+
+   After enabling the plug in, head on to the widget customization page to
+   change settings and integrate its look and feel to match your site.
+   When done, enable it by visiting the account configuration page and
+   completing the instant signup process.
+
+Screenshots
+
+     * Chat window on your website - active chat
+     * Account Configuration - Link Up
+     * Account Configuration - Linked Up with Launch Dashboard
+     * Dashboard View - Open new browser tab
+     * Widget Customization from Dashboard
+
+Installation
+
+   Server Requirements: PHP4 or PHP5.
+
+   WordPress versions: WordPress 2.7 and up.
+
+   Step-by-step Guide:
+     * Install plugin from WordPress directory and activate it.
+     * Under Zendesk Chat section, click on Account Setup to link up your
+       Zendesk Chat account.
+     * Customize the chat widget to your preference.
+     * Finally, make full use of our intuitive Dashboard to manage your
+       chat widget.
+
+FAQ
+
+   Do I have to install any software on my server to get this working?
+          Not at all! Zendesk Chat is a hosted livechat service. Simply
+          configure the plugin and you’re done!
+
+   Which web browsers work best with this plugin
+          Though designed to work on most browsers, Zendesk Chat works
+          best in the following environment: IE 6 or later (PC), Firefox 2
+          or later (Mac, PC, or Linux), Safari 2 or later (Mac), Google
+          Chrome (PC, Mac).
+
+   I managed to install the plugin but cannot link up to Zendesk Chat.
+          Why?
+          The plugin tries to link up with Zendesk Chat by connecting
+          using a few approaches including PHP Curl. If the outgoing
+          connections are blocked (eg. by a firewall), please request your
+          server administrator.
+
+          Alternatively, you can also manually include the script in the
+          footer file (“wp-content/themes/default/footer.php” in your
+          wordpress installation).
+
+   Is it free to use?
+          The plugin comes with a free plan specially tailored for
+          WordPress users. Power users can purchase upgrade options
+          anytime.
+
+   How can I chat with more visitors at the same time?
+          You can easily do so by upgrading to a better plan. To find out
+          more about the plans and features we offer, please visit
+          https://www.zendesk.com/chat/pricing/#pricing
+
+   Its just not working for me! HELP!
+          Dont worry!! We are happy to assist! Just come on down to our
+          site at https://www.zendesk.com/chat or leave an email for us at
+          chat@zendesk.com and we will help you with installation.
+
+   WordPress Integration for Chat accounts
+          The integration supports chat phase 4, 3 and 1 accounts. If you
+          have a zendesk subdomain, please provide your subdomain as you
+          are either chat phase 3 or 4 customer. If you don’t have a
+          subdomain, leave the subdomain field as blank as you are chat
+          phase 1 customer.
+
+Reviews
+
+I like Zendesk a lot but WP plugin is disaster
+
+   Marin Stoyanov January 11, 2018
+   I thought that installing the plugin made by Zendesk team will be easy
+   and i won't face any issues. Instead now I'm here and I write my
+   review. WordPress Zendesk plugin is real disaster. It doesn't allow me
+   to login to my account. I'm sure that my password and email are
+   correct. I tripe-checked them and they are correct but the plugin
+   doesn't allow me to login to my existing Zendesk account. Some
+   suggestions for the authors: 1) We live in 21st century, logging with
+   my real Zendesk username and password is real thread. Instead you can
+   use API key, provide temporary access key or use other more intelligent
+   way to associate WP website with Zendesk account 2) Most WP plugins,
+   that require configuration after being activated, usually have a
+   Settings link next to 'Details'. You're huge enough to do it.
+
+Data leaked?
+
+   Phil September 10, 2017
+   The Zendesk Chat system itself works quite well, from what little
+   chance we had to use it. However, a few months ago we received
+   chat/messages from someone else's Zendesk account, which is hugely
+   concering. I contacted support but haven't heard anything back in
+   weeks. Very worrying! If you communicate any kind of private/sensitive
+   data I'd highly recommend avoiding Zendesk Chat, possibly even Zendesk
+   itself too since they are closely linked.
+
+Cuidado. Cobrança automatica.
+
+   Rodolfo December 26, 2016
+   Cuidado. Instalei o Zopim e paguei por 2 agentes por 6 seis meses. Após
+   isso o sistema renovou automaticamente, mesmo sem meu site estar no ar
+   mais e mesmo sem usar o sistema deles. Entrei em contato e me
+   informaram que não devolveriam o dinheiro porque já havia passado o
+   tempo para reclamar e que isso estava previsto, quando assinei. Tenho
+   os e-mails, que compravam isso. Tomem muito cuidado! Não recomendo!
+
+Easy and fast
+
+   albaintrade September 22, 2016
+   Very good application easy and fast... You can try on my website
+   http://almanyayurtdisikargo.com/
+
+nice plugin
+
+   nicopozena79 September 10, 2016
+   Pretty good service
+
+I love this program, but it slows my site
+
+   ddrevik September 3, 2016
+   I love this plugin. It helps our website visitors tremendously to be
+   able to ask questions and interact with us. Many are reluctant to call
+   or email for fear of being inundated with sales calls, so this allows
+   them to stay at arms reach until they get comfortable with us. Why only
+   3 stars then? The speed. When I load the Zopim widget, my homepage load
+   time goes from 6.5s to 12.3s. I can't have visitors waiting that long
+   for our homepage to load. I could live with adding a second or so to
+   our load, but 6 additional seconds is a deal-breaker.
+   Read all 27 reviews
+
+Contributors & Developers
+
+   “Zendesk Chat” is open source software. The following people have
+   contributed to this plugin.
+   Contributors
+     * zendesk_official
+
+   “Zendesk Chat” has been translated into 2 locales. Thank you to the
+   translators for their contributions.
+
+   Translate “Zendesk Chat” into your language.
+
+Interested in development?
+
+   Browse the code, check out the SVN repository, or subscribe to the
+   development log by RSS.
+
+Changelog
+
+1.4.15
+
+     * Tested on WordPress v5.1.1
+
+1.4.14
+
+     * Support chat phase 3 and phase 4 accounts
+
+1.4.13
+
+     * Updated copy to reflect chat phase 4 limitations
+
+1.4.12
+
+     * Updated copy to reflect new trial length
+     * Update marketplace screenshots
+
+1.4.11
+
+     * Remove query string to the dashboard link
+
+1.4.10
+
+     * Fix CSRF issue when unlinking zopim account
+
+1.4.9
+
+     * Tested on WordPress v4.7
+
+1.4.8
+
+     * Remove old files in base directory
+
+1.4.7
+
+     * Fix issue with php7 compatibility checker
+
+1.4.6
+
+     * Fix CSRF issue in the plugin deactivation functionality.
+
+1.4.5
+
+     * Updated support and video URLs
+
+1.4.4
+
+     * Rebranding strings to Zendesk Chat
+
+1.4.3
+
+     * Remove depracated function for wordpress 4.5
+
+1.4.2
+
+     * Added support for wordpress 4.4
+
+1.4.1
+
+     * Update the text domain for translate.wordpress.com compatibility
+
+1.4.0
+
+     * Security patch
+
+1.3.9
+
+     * Refactoring of plugin files
+
+1.3.8
+
+     * Fix throwing of wordpress errors
+     * Fix PHP notice (‘Notice: Undefined variable: error’) on the plugin
+       dashboard
+     * Remove unused globals
+     * Standardize function names
+     * Use _() and _e() for translations
+     * Add english language file
+     * Added icon assets
+
+1.3.7
+
+     * Add documentation for releasing new versions of the plugin
+
+1.3.6
+
+     * Fix ‘Cannot modify header information’ PHP error by registering and
+       enequeing script
+     * Include js file
+
+1.3.5
+
+     * Update supported version to 4.1.1
+     * Include Plugin’s version number to footer (if Account is linked up)
+     * Always use SSL to link account
+     * Improved UI on login page to reduce confusion with SSL option and
+       Password field
+     * Update Signup Link
+
+1.3.4
+
+     * Fix menu icon image
+
+1.3.3
+
+     * Fix bug where account deactivates linking but widget still shows up
+
+1.3.2
+
+     * Refactored css loading to accommodate older PHP versions
+     * Included css file
+
+1.3.1
+
+     * Added admin_print_styles to custom css
+     * Changed button css name to a non-generic name
+
+1.3.0
+
+     * Removed iframe Capability from plugin
+     * Removed Account Configuration, Customize and Dashboard sub-menu
+       pages
+     * Added Launch Dashboard link to open new browser tab to access
+       Dashboard
+     * Minor Code Fixes
+
+1.2.9
+
+     * Revert back to iframe Customize and Dashboard instead of opening
+       new window
+     * In PHP 5.3, ereg is deprecated, updated to use preg_match
+
+1.2.8
+
+     * Due to breaking changes in many consumer IM clients, we will no
+       longer be supporting IM Chat Bots (AIM, Google Talk, Skype, Yahoo
+       Messenger or MSN)
+     * Customize and Dashboard will now open in a new window instead of
+       iframe
+
+1.2.7
+
+     * Plugin will now embed v2 Widget
+     * Improved Login Response
+     * Classic Theme Editor removed to use Dashboard Widget Customization
+       Click on Appearance to make changes to your widget
+     * Old Javascript API from v1 Widget may not work with v2 Widget
+       Visit
+       http://api.zopim.com/files/meshim/widget/controllers/LiveChatAPI-js
+       .html for more details
+
+1.2.6
+
+     * Addresses XSS vulnerabilities concerns by removing ZeroClipboard
+
+1.2.5
+
+     * Enhancement to Theme Editor – now autoloads blog’s url
+       automatically
+
+1.2.4
+
+     * Adds an optional widget settings box
+     * Widget settings saved from old wordpress plugin will be migrated to
+       the optional settings box
+     * Visitor info uses new wp api and now enabled by default
+     * Required WordPress version bumped to 3.1
+
+1.2.3
+
+     * Replaces old customize widget page with new theme editor
+     * Remove customizewidget.php
+
+1.2.2
+
+     * adds User Capability levels, allowing non-admins to use the plugin
+       admin interface
+     * Admins can use add the following code
+       $role = get_role( ‘editor’ ); $role->add_cap( ‘access_zopim’ );
+       to their themes, or use the Members plugin
+       (https://wordpress.org/extend/plugins/members/)
+       to give roles the ‘access_zopim’ capability.
+
+1.2.1
+
+     * Uses wordpress http api for better linkup support with multiple
+       transports
+     * Reduce name collisions in functions
+     * Adds compatibility to premiumpress theme
+
+1.2.0
+
+     * Signup process is now linked to zopim.com as per WordPress
+       guidelines.
+
+1.1.3
+
+     * Update Zendesk Chat embed script
+     * Add option to override dashboard settings for chat bubble text
+
+1.1.2
+
+     * Maintenance update: Compatibility update for WordPress 3.3.1
+
+1.1.1
+
+     * Maintenance update: Fix invalid plugin header (zopim.php) for new
+       installation
+
+1.1.0
+
+     * Maintenance update: Greeting messages are now saved properly.
+     * Add more language options in customization page.
+     * Using new Zendesk Chat async embed script: improve page’s load time
+       and do not block page’s rendering anymore
+
+1.0.7
+
+     * Maintenance update: Remove phased out “middle left”, “middle right”
+       positions
+     * Add options to let user decides hiding of chat bubble, no longer
+       force show/hide
+     * Enable option for not using plugins’ greeting messages
+
+1.0.6
+
+     * Maintenance update: Class’ redeclaration conflict fix.
+
+1.0.5
+
+     * Maintenance update: fix minor bug on widget customization page –
+       online msg input
+
+1.0.4
+
+     * Robustness update: Make sure widget won’t appear more than once.
+
+1.0.3
+
+     * Maintenance update: New line bugfixes.
+
+1.0.2
+
+     * Maintenance update: More curl robustness enhancements.
+
+1.0.1
+
+     * Maintenance update: More robust connectivity, CURL errors caught
+     * Note: PHP Curl is required (and has always been).
+
+1.0
+
+     * Stability update: Official Plugin Launched
+
+0.6.1
+
+     * Update: Launched with improved signup process and minor cosmetic
+       fixes.
+
+0.6.0
+
+     * UI fix: Improved account management page.
+
+0.5.0
+
+     * Feature: Push surveys and questions to the visitor.
+     * Bugfix: In-plugin dashboard will be hidden in full screen mode.
+
+0.4.0
+
+     * Feature: Provide customer service through your favourite IM client
+       (MSN, GTalk, Yahoo, AIM)
+     * Feature: You can access the dashboard in full screen!
+
+0.3.0
+
+     * Feature: Connect to Zendesk Chat servers using 256-bit industry
+       standard SSL for increased security!
+     * Feature: You can experiment with customizing the widget even
+       without an account.
+     * Feature: Change the automatic messages displayed on the widget when
+       it first loads, and depending on your online status.
+     * Feature: Customize the language of the widget.
+     * Bugfix: Positioning customization now works properly.
+
+0.2.0
+
+     * Feature: Live Visitor Analytics (page your users are on, webpaths,
+       length of stay, repeat visits and much more!)
+     * Feature: Create an account directly in the plugin.
+     * Feature: Rank Visitors by priority of importance.
+
+0.1.0
+
+     * Feature: Add the Zendesk Chat widget to your site!
+     * Feature: Customize look and feel of the widget, including themes
+       and color!
+     * Feature: Use wordpress user information to populate visitor data in
+       the plugin.
+
+Meta
+
+     * Version: 1.4.15
+     * Last updated: 4 months ago
+     * Active installations: 70,000+
+     * WordPress Version: 3.1 or higher
+     * Tested up to: 5.1.2
+     * Languages:
+       (BUTTON) See all 3
+       (BUTTON) Close
+       English (US), Italian, and Spanish (Spain).
+       Translate into your language
+     * Tags:
+       chatchat onlinecontact plugincontact uscustomer support
+     * Advanced View
+
+Ratings
+
+   See all
+     * 5 stars 17
+     * 4 stars 1
+     * 3 stars 2
+     * 2 stars 1
+     * 1 star 4
+
+Contributors
+
+     * zendesk_official
+
+Support
+
+   Issues resolved in last two months:
+
+   0 out of 1
+
+   View support forum
+     * About
+     * Blog
+     * Hosting
+     * Donate
+
+     * Support
+     * Developers
+     * Get Involved
+
+     * Showcase
+     * Plugins
+     * Themes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Privacy
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Code is Poetry.
+   Skip to toolbar
+     * About WordPress
+          + About WordPress
+          + WordPress.org
+          + Documentation
+          + Support
+          + Feedback
+
+     * ____________________Search Search
+     * Log In
+     * Register
+   #alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Skip to content
+
+WordPress.org
+
+   Search WordPress.org for: ____________________ (BUTTON) Submit
+   (BUTTON) Toggle Menu
+
+     * Showcase
+     * Themes
+     * Plugins
+     * Mobile
+     * Support
+          + Documentation
+          + Forums
+     * Get Involved
+     * About
+     * Blog
+     * Hosting
+     * Get WordPress
+
+   Plugins
+
+   (BUTTON)
+     * My Favorites
+     * Beta Testing
+     * Developers
+     * Search for: ____________________ (BUTTON) Search plugins
+
+feedburner-plugin
+
+   By John Watson
+     * Details
+     * Reviews
+     * Support
+     * Development
+
+Description
+
+   This plugin has been closed as of April 12, 2018 and is not available
+   for download. This closure is permanent.
+
+Reviews
+
+Does just what I need it to. Sorry to see it close.
+
+   speechpoet May 23, 2018
+   Look, I realize this happens with a thriving open-source ecosystem:
+   developers come and go. Plugins are maintained for years, and then
+   finally the people who maintain them have to bid adieu. I get it. But
+   if someone decides to take FD Feedburner on, I'm prepared to kick in
+   coffee money. 🙂
+
+Ask
+
+   putraadam19 February 12, 2018
+   is this still working ?
+
+Works
+
+   pipdig September 3, 2016
+   Works like a charm
+
+Feed Burner Feed Me and the World
+
+   Appsz February 7, 2017
+   This wonderful Plugin saves so much time and helps me put my content
+   out into the world seamlessly. Thank you so much for making my life
+   that little bit easier. Once set up this baby flies. Recommendation:
+   Why haven't you Got this Plug-In Simply Simplicity. Appsz Applisting
+   SexeToysUnlimitedSexeToysUnlimited
+
+Simple & Useful
+
+   Nadeem Khan February 7, 2017
+   This is best plugin of website feed. I recommend this plugin to all
+   Premium WordPress Themes
+   Read all 14 reviews
+
+Contributors & Developers
+
+   “FD Feedburner Plugin” is open source software. The following people
+   have contributed to this plugin.
+   Contributors
+     * fd
+
+   Translate “FD Feedburner Plugin” into your language.
+
+Interested in development?
+
+   Browse the code, check out the SVN repository, or subscribe to the
+   development log by RSS.
+
+Meta
+
+     * Version: 1.48
+     * Last updated: 1 year ago
+     * Active installations: N/A
+     * WordPress Version: 2.0 or higher
+     * Tested up to: 4.3.20
+     * Advanced View
+
+     * About
+     * Blog
+     * Hosting
+     * Donate
+
+     * Support
+     * Developers
+     * Get Involved
+
+     * Showcase
+     * Plugins
+     * Themes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Privacy
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Code is Poetry.
+   Skip to toolbar
+     * About WordPress
+          + About WordPress
+          + WordPress.org
+          + Documentation
+          + Support
+          + Feedback
+
+     * ____________________Search Search
+     * Log In
+     * Register
+   Surbma | GDPR Proof Cookie Consent & Notice Bar By Surbma
+   (8 total ratings)
+
+   This plugin helps your website to comply with GDPR cookie regulations
+   by asking every visitors to accept or decline cookie tracking.
+   (BUTTON)
+   Tested with 5.2.3
+   Get this plugin
+
+     * (BUTTON) WordPress Embed
+     * (BUTTON) HTML Embed
+
+   https://wordpress.or
+
+   Copy and paste this URL into your WordPress site to embed
+
+   <blockquote class="wp-embedded-content"><a href="https://wor
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copy and paste this code into your site to embed
+   (BUTTON)
+   Theme Check By Otto42, pross
+   (192 total ratings)
+
+   A simple and easy way to test your theme for all the latest WordPress
+   standards and practices. A great theme development tool!
+   (BUTTON)
+   Tested with 5.2.3
+   Get this plugin
+
+     * (BUTTON) WordPress Embed
+     * (BUTTON) HTML Embed
+
+   https://wordpress.or
+
+   Copy and paste this URL into your WordPress site to embed
+
+   <blockquote class="wp-embedded-content"><a href="https://wor
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copy and paste this code into your site to embed
+   (BUTTON)
+   #alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Skip to content
+
+WordPress.org
+
+   Search WordPress.org for: ____________________ (BUTTON) Submit
+   (BUTTON) Toggle Menu
+
+     * Showcase
+     * Themes
+     * Plugins
+     * Mobile
+     * Support
+          + Documentation
+          + Forums
+     * Get Involved
+     * About
+     * Blog
+     * Hosting
+     * Get WordPress
+
+   Plugins
+
+   (BUTTON)
+     * My Favorites
+     * Beta Testing
+     * Developers
+     * Search for: ____________________ (BUTTON) Search plugins
+
+   This plugin hasnt been tested with the latest 3 major releases of
+   WordPress. It may no longer be maintained or supported and may have
+   compatibility issues when used with more recent versions of WordPress.
+   Download
+
+iThoughts Tooltip Glossary
+
+   By Gerkin
+     * Details
+     * Reviews
+     * Installation
+     * Support
+     * Development
+
+Description
+
+   Build a glossary on your site that link terms in your posts to it via
+   tooltips. You can also create unlinked tooltips to bring some precision
+   to a term or expression in a single post.
+
+   This plugin is optimized for responsive web design, SEO, usability, and
+   more.
+
+Features
+
+     * Manage your glossaries on your own site
+     * Add tooltips with fully customizable content (text or medias)
+     * Several kind of lists to display your glossary terms
+     * Group your terms by categories
+     * Fully responsive tooltips, with 6 animations and 10 themes.
+     * Theme editor & easy animation customization. Keep control of your
+       site appearance.
+     * Support of WPML for multilingual terms
+
+   iThoughts Tooltip Glossary works well with iThoughts Lightbox, which
+   allow you to create responsive lightboxes that includes your mediatip
+   images.
+
+   For further information, please visit the iThoughts Tooltip Glossary
+   dedicated landing page.
+
+Further Information
+
+   Browse the full developer documentation on GitHub Pages
+
+   If you want to contribute, feel free to check the GitHub repository
+
+   User manual available on gerkindevelopment.net
+
+   For bug repports or unexpected behaviors, please see the dedicated
+   WordPress support forum
+
+Thanks to & Resources
+
+   TCBarrett for his WP Glossary plugin
+   Laurent Pelleray for graphical elements
+   Tammi Coles for corrections to readme description
+   Rikengct for a LOT of usefull suggestions
+   TinyMCE tooltip icon by Darren Northcott from the Noun Project
+   Wordpress PHP CodeSniffer ruleset
+   https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standard
+   s
+
+Support this plugin
+
+   Maintaining this plugin takes a lot of time, time that I have to share
+   with my work and my studies. If you appreciate my work, feel free to
+   comment, rate, or even donate to the plugin. I need your help to
+   continue maintaining the plugin, and bringing more features.
+
+Screenshots
+
+     * Example frontend hover glossary term/tooltip
+     * Example TinyMCE glossary term form
+     * Example TinyMCE tooltip form
+     * jQuery based Glossary term A to Z and term list
+     * Glossary index shortcodes
+
+Installation
+
+   Either install through admin panel (this is the eaiest way), or:
+    1. Upload ithoughts-tooltip-glossary.zip to the /wp-content/plugins/
+       directory
+    2. Unzip the archive
+    3. Activate the plugin through the ‘Plugins’ menu in WordPress
+
+FAQ
+
+     Does this plugin create any new tables?
+
+   No. It uses custom post types and taxonomies.
+
+     None of the details pages are working!
+
+   Please resave your rewrite rules: Settings > Permalinks > Save Changes
+   (just click the button)
+
+     I got an error when loading my glossary tips
+
+   It may be a permalink problem. Go to Settings > Permalinks and click
+   Save Changes
+
+     It doesn’t do anything?
+
+   Check if jQuery is loaded.
+   For glossary terms only, you have to add the terms (Tooltip Glossary >
+   Add New Term) and then use the appropriate TinyMCE button to link the
+   text with that glossary term
+
+   Installation Instructions
+          Either install through admin panel (this is the eaiest way), or:
+
+         1. Upload ithoughts-tooltip-glossary.zip to the
+            /wp-content/plugins/ directory
+         2. Unzip the archive
+         3. Activate the plugin through the ‘Plugins’ menu in WordPress
+
+Reviews
+
+Excellent tooltip plugin
+
+   flongpre April 26, 2018
+   While looking for a glossary / tooltip plugin in 2016, I found this one
+   and I use it on 2 big sites since then. With the WPML compatibility and
+   many other improvements, I was always happy to discover new features as
+   we use it. The plugin is upgraded frequently and very well maintained
+   by Gerkin who was always quick to fix bugs and answer questions in the
+   forum.
+
+A free five star plugin!!
+
+   bobby1kenobi December 1, 2017
+   To be honest I tried them all to find the best solution and here it is!
+   This is the best tooltip plugin. Nice, smooth design, easy to use and
+   to setup. Did I forgot something ? Yes- it's totally FREE. Thumbs up!
+   👍👍
+
+Great plugin, responsive help
+
+   handwovenbox October 23, 2017
+   Many thanks for the plugin. It works great and Gerkin has answered my
+   questions quickly in the support forums.
+
+Exactly what I was looking for!
+
+   jorgenheld July 22, 2017
+   Easy to install and activate. Perfect with the "Advanced attributes"
+   button. I didn't realize that the option existed until I read the
+   manual 🙂 Just mark the text string (or in my case a link) and click on
+   the "Add a Tooltip" button. Add the text you want to appear in the pop
+   up window. Done! Excellent work by the plugin developer!
+
+Strange and Useless
+
+   ist4000 November 21, 2016
+   No function is working properly. The plugin does random things with no
+   evident logical connection between each other. Very strange and
+   absolutely useless. No description for shortcodes to try out things.
+   Just the not working buttons in the tool panel of the editor.
+
+Plugin with some issues but great active support
+
+   Jos Klever September 3, 2016
+   A client asked me to solve some issues on their website. It appeared to
+   be impossible to update this plugin from 1.1.6 to 2.x, so I created a
+   support ticket. Together we did some research and found a few
+   improvements in the update process. During this process some other bugs
+   were found and solved pretty quickly. Today with the release of 2.3.2
+   every issue we found, is solved, so keep up the good work!
+   Read all 13 reviews
+
+Contributors & Developers
+
+   “iThoughts Tooltip Glossary” is open source software. The following
+   people have contributed to this plugin.
+   Contributors
+     * Gerkin
+
+   “iThoughts Tooltip Glossary” has been translated into 1 locale. Thank
+   you to the translators for their contributions.
+
+   Translate “iThoughts Tooltip Glossary” into your language.
+
+Interested in development?
+
+   Browse the code, check out the SVN repository, or subscribe to the
+   development log by RSS.
+
+Changelog
+
+3.0.3
+
+     * FIX Wrong term fetched when using auto term translation as
+       anonymous user. See the WPML related issue and the support issue
+
+3.0.2
+
+     * FIX Singleton structure
+
+3.0.1
+
+     * FIX Fatal error in Resource management (see the forum thread)
+     * FIX Theme Editor
+
+3.0.0
+
+     * NEW Exclude glossary terms from search
+     * NEW Automated tests, linting, docs, etc etc
+     * UPD Changed shortcodes for prefix itg instead of
+       ithoughts_tooltip_glossary
+     * UPD Improved updater performaces
+     * UPD Styles & scripts refactoring
+     * UPD Resource management process reviewed
+
+2.7.0
+
+     * NEW Support of QuickTags to use plugin shortcodes even in text mode
+       (see ist4000 request feature)
+     * UPD List form now more flexible
+     * UPD Lists queries more performant
+     * FIX Form styles improved
+     * FIX Advanced Tooltip attributes now functionnal
+     * FIX Lists not doing group/alpha filters well in every situations
+
+2.6.4
+
+     * FIX Obsolete variable in A-to-Z js script (see support forum)
+
+2.6.3
+
+     * FIX Moved JS TinyMCE form data object.
+
+2.6.2
+
+     * UPD New version of iThoughts WordPress Plugin Toolbox
+     * FIX Enforcing namespaces in JS & PHP.
+
+2.6.1
+
+     * FIX Removed old JS dependencies no more used
+     * FIX JS function “removeAccents” injected in another namespace
+
+2.6.0
+
+     * NEW Attributes editor for tooltip-specific configuration
+     * NEW Using JS namespacing to avoid conflicts
+     * NEW Allow setting explicit HREF on glossary term with warning
+       message
+     * NEW Added in/out animations for tip + hooks for adding custom anims
+     * NEW Added support of comments on glossary terms if enabled in
+       config
+     * UPD New version of iThoughts Plugin Toolbox with no-conflicting
+       naming
+     * UPD Rename JS files for uniform naming
+     * UPD Increasing the number of hooks (ithoughts_tt_gl-term-content,
+       ithoughts_tt_gl-term-excerpt)
+     * FIX Wrong DB query containing static string, which can produce
+       errors
+
+2.5.0
+
+     * NEW Complete simplified theme editor
+     * UPD Fixed HTML escaped tooltip content (see this ticket)
+
+2.4.2
+
+     * UPD Security fixes
+     * UPD Plugin Core
+     * UPD Improved memory & CPU usage for lists, reduce generation time
+
+2.4.1
+
+     * FIX Glossary tooltip linked to the wrong language with WPML
+
+2.4.0
+
+     * NEW Full support of WPML
+     * UPD Style editor now saves to a file and add theme in theme
+       dropdown
+     * UPD Less.css style editor
+     * FIX Click activation mode prevented totally to access a link
+
+2.3.2
+
+     * FIX Delegate register of ithoughts_aliases to parent Backbone
+
+2.3.1
+
+     * UPD Use of namespacing
+     * UPD Started documentation compliant format
+     * FIX Change JS aliases that were modified by iThoughts comon code
+
+2.3.0
+
+     * NEW Mediatips now support captions
+     * NEW Tips now support links href if the type allow it
+     * NEW Now uses minified scripts if not in WP_DEBUG mode
+     * UPD Updater post types
+     * FIX Various checks and fallbacks added
+
+2.2.3
+
+     * UPD new updater step to replace shortcode term’s slug with term id
+
+2.2.2
+
+     * UPD enhance behaviour of tooltips containing quotes
+     * FIX Video related styles
+     * FIX href link attribute now overridable
+
+2.2.1
+
+     * UPD Better general display of videos
+     * FIX qTip Viewport plugin re-added
+     * FIX Per-tip overridable termcontent attribute
+
+2.2.0
+
+     * NEW Basic style editor
+     * UPD Utility methods (form generation, parsing shortcode attrs)
+       mutualized with all future plugins
+     * UPD qTip2 v2.1.1 => v2.2.1
+     * FIX Webvideo unpin did not reactivate tooltip normal behaviour
+     * FIX overridable qtip style
+
+2.1.7
+
+     * NEW Add attributes filtering & appending to plugin generated HTML
+     * NEW Display compiled shortcodes into tooltip
+     * NEW Filtering JS Mediatips to prepare compatibility with iThoughts
+       Lightbox
+     * UPD Remove versionning on resources when useless to improve browser
+       caching capability
+     * UPD Remove obsolete & uncompatible trigger option “mouseenter”
+     * UPD Tooltip links now overlined & underlined by default, to be
+       easily recognized
+     * UPD List display split in columns more intuitive
+     * UPD General code cleaning
+     * UPD Corrections in reference link values
+     * UPD Reduce globals usage
+     * FIX Remove trailing \ before ' in tooltip content
+     * FIX Modification in selection of alphas in list & A-to-Z display
+       modes
+     * FIX Change handling of static terms for uniformized PHP behavior
+     * FIX Various z-index issues
+     * FIX Several A-to-Z now can work together without interacting with
+       others
+     * FIX iOS specific responsiveness compatibility
+
+2.1.6
+
+     * FIX PHP potential issues
+
+2.1.5
+
+     * FIX z-index problem with SiteOrigin page builder
+     * FIX List display for terms
+
+2.1.4
+
+     * NEW added ability to override some plugin settings (interface in
+       dev)
+     * NEW Glossary spans now generated by filters
+     * FIX Version updater
+     * FIX Compat to php >= 5.3.1
+
+2.1.2
+
+     * FIX PHP Syntax incompatibility
+
+2.1.1
+
+     * UPD Added filters for glossary term excerpts
+     * UPD Mutualize options to improve performances
+     * UPD Remove useless options
+     * FIX Raise warn level for less errors in prod environment
+     * FIX Sub-TinyMCE basepaths
+
+2.0.5
+
+     * UPD Refactor whole plugin for better maintenability
+     * FIX Updater unexpected behavior
+     * FIX Tooltip trigger mode hover
+
+2.0.4
+
+     * NEW Static terms to display glossary terms without Ajax
+     * UPD Web video now allow mp4, YouTube and Dailymotion videos
+     * FIX incompatibility with PHP5.3
+     * FIX Force reload for new scripts
+
+2.0.2
+
+     * FIX Update routine
+
+2.0
+
+     * NEW Now support images from an URL
+     * NEW Support of YouTube videos
+     * NEW Ajax Updater
+     * UPD Delay hide of mediatips
+     * UPD Detached Tooltip form
+     * UPD Tooltip with custom content now use TinyMCE
+
+1.1.6
+
+     * FIX TinyMCE change tab detection => mode switching
+
+1.1.5
+
+     * UPD Change default tooltip position (see this post)
+     * UPD Sort terms alphabetically into TinyMCE form (see this thread)
+     * FIX Added base container on top of Divi header and wpadminbar
+
+1.1.4
+
+     * UPD Transition to prefixed shortcodes
+     * UPD Changed some plugin prefixes
+     * FIX Renamed shortcode Tooltip for Divi compatibility (see this
+       issue)
+     * FIX Change hook for loading TinyMCE plugin (see this issue)
+
+1.1.3
+
+     * NEW Added style previews for tooltips
+     * UPD Added security checks on url-related options
+     * UPD Admin layout
+
+1.1
+
+     * NEW added mediatip
+     * FIX tooltips flickered on small screen
+
+1.0.2
+
+     * FIX Random Term Widget
+
+1.0.1
+
+     * UPD improved French translation
+     * UPD correction to remove an error message
+
+1.0
+
+     * NEW Added select for glossary terms
+     * UPD Inline tooltips now integrated to TinyMCE Glossary button
+     * UPD TinyMCE now recognize tooltips as like glossary terms
+     * UPD Removed “title” attribute on links with JS to allow search
+       engine comprehension & disable double tooltips on some browsers
+       (eg. Firefox)
+
+0.2.3
+
+     * NEW Added inline tooltips
+
+0.2.2
+
+     * NEW Add plugin basic icon
+     * UPD fixed dead links
+
+0.2.1
+
+     * UPD clean dirty release
+
+0.2
+
+     * NEW Added fr_FR translation
+     * UPD Clean old unused translations
+     * UPD Admin menu
+
+0.1
+
+     * NEW Added “Responsive” ‘qtiptrigger’, which is “hover”/”focus” on
+       computers, and “click” on touch devices.
+     * NEW Added ability to set the main glossary page url, which is also
+       the term prefix (http://www.yourblog.com/whatever/…)
+     * UPD Group terms in ATOZ even with accents. “ù” will be in “U”
+       section.
+     * UPD Clean Theme editor improved with more flexibility. Thrown away
+       useless theme form
+
+0.0
+
+     * Please see previous changes from WP Glossary
+
+Meta
+
+     * Version: 3.0.3
+     * Last updated: 1 year ago
+     * Active installations: 300+
+     * WordPress Version: 3.3 or higher
+     * Tested up to: 4.9.11
+     * Languages:
+       (BUTTON) See all 2
+       (BUTTON) Close
+       English (US) and Romanian.
+       Translate into your language
+     * Tags:
+       appendixdictionaryglossarytooltip
+     * Advanced View
+
+Ratings
+
+   See all
+     * 5 stars 11
+     * 4 stars 0
+     * 3 stars 1
+     * 2 stars 0
+     * 1 star 1
+
+Contributors
+
+     * Gerkin
+
+Support
+
+   Issues resolved in last two months:
+
+   0 out of 1
+
+   View support forum
+
+Donate
+
+   Would you like to support the advancement of this plugin?
+
+   Donate to this plugin
+     * About
+     * Blog
+     * Hosting
+     * Donate
+
+     * Support
+     * Developers
+     * Get Involved
+
+     * Showcase
+     * Plugins
+     * Themes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Privacy
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Code is Poetry.
+   Skip to toolbar
+     * About WordPress
+          + About WordPress
+          + WordPress.org
+          + Documentation
+          + Support
+          + Feedback
+
+     * ____________________Search Search
+     * Log In
+     * Register
+   #alternate alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Skip to content
+
+WordPress.org
+
+   Search WordPress.org for: ____________________ (BUTTON) Submit
+   (BUTTON) Toggle Menu
+
+     * Showcase
+     * Themes
+     * Plugins
+     * Mobile
+     * Support
+          + Documentation
+          + Forums
+     * Get Involved
+     * About
+     * Blog
+     * Hosting
+     * Get WordPress
+
+   Plugins
+
+   (BUTTON)
+     * My Favorites
+     * Beta Testing
+     * Developers
+     * Search for: ____________________ (BUTTON) Search plugins
+
+   Download
+
+Zendesk Chat
+
+   By Zendesk
+     * Details
+     * Reviews
+     * Installation
+     * Support
+     * Development
+
+Description
+
+   Did you know that 83% of consumers need some kind of customer support
+   when making an online purchase? And 45% of customers abandon an online
+   transaction if their questions or concerns are not addressed quickly.
+
+   Businesses that interact with potential customers online are better
+   placed to build a connection and increase their revenues. The Zendesk
+   Chat app will let you answer your customer’s questions in real time and
+   ease them into a purchase.
+
+   IFRAME:
+   https://www.youtube.com/embed/50s13fKKhGo?version=3&rel=1&fs=1&autohide
+   =2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent
+
+   With Zendesk Chat, visitors to your website will be able to chat
+   directly with you through the widget and you can manage multiple
+   conversations through the online Dashboard.
+
+   Key Features
+     * Mobile Optimized: Your customers can chat with you from any device
+       using our mobile optimized chat widget
+     * Proactive Chat: Rather than chatting with every single person
+       yourself, you can increase the chances of high value engagement
+       (and more sales) by using Triggers to automatically reach every
+       visitor
+     * Advanced Analytics: Our analytics dashboard lets you monitor
+       visitor flow, usage patterns, and lets you jump in whenever a
+       customer might need help
+
+   What makes Zendesk Chat the best choice for live chat?
+     * We’re the most popular live chat provider in the world – loved by
+       over 150,000 businesses
+     * A simple and highly customizable chat widget to complement your
+       website and taste
+     * User friendly dashboard lets you monitor visitor activity and
+       manage chats
+     * 24 hour live chat support from our trained experts on any weekday
+       (visit www.zendesk.com/chat)
+     * Available in over 40 languages
+
+   Some Geeky Facts
+     * Work across major browsers (Internet Explorer 6+, Firefox, Google
+       Chrome, Opera, Safari).
+     * Average uptime is 99.8%.
+     * HTML5 dashboard
+     * iPhone, Android, and BlackBerry apps
+     * Integrates seamlessly with UserVoice, Salesforce, Highrise,
+       Batchbook, Zendesk, vTiger and many more.
+
+   Should you need any assistance, feel free to chat with our customer
+   advocates on https://www.zendesk.com/chat or email us at
+   chat@zendesk.com
+
+   What are you waiting for? Download Zendesk Chat plugin now and sign up
+   here for a free account!
+
+   See languages available, lovingly translated by Zendesk Chat users (in
+   alphabetical order)
+     * Arabic | Bulgarian | Chinese | Croatian | Czech | Danish | Dutch;
+       Flemish | Estonian | Faroese | Finnish | French | Georgian | German
+       | Greek | Hebrew | Hungarian | Icelandic | Indonesian | Italian |
+       Japanese | Korean | Kurdish | Latvian | Lithuanian | Macedonian |
+       Malay | Norwegian Bokmal | Persian | Polish | Portuguese | Romanian
+       | Russian | Serbian | Slovak | Slovenian | Spanish; Castilian |
+       Swedish | Thai | Turkish | Ukranian | Urdu | Vietnamese
+
+Usage
+
+   After enabling the plug in, head on to the widget customization page to
+   change settings and integrate its look and feel to match your site.
+   When done, enable it by visiting the account configuration page and
+   completing the instant signup process.
+
+Screenshots
+
+     * Chat window on your website - active chat
+     * Account Configuration - Link Up
+     * Account Configuration - Linked Up with Launch Dashboard
+     * Dashboard View - Open new browser tab
+     * Widget Customization from Dashboard
+
+Installation
+
+   Server Requirements: PHP4 or PHP5.
+
+   WordPress versions: WordPress 2.7 and up.
+
+   Step-by-step Guide:
+     * Install plugin from WordPress directory and activate it.
+     * Under Zendesk Chat section, click on Account Setup to link up your
+       Zendesk Chat account.
+     * Customize the chat widget to your preference.
+     * Finally, make full use of our intuitive Dashboard to manage your
+       chat widget.
+
+FAQ
+
+   Do I have to install any software on my server to get this working?
+          Not at all! Zendesk Chat is a hosted livechat service. Simply
+          configure the plugin and you’re done!
+
+   Which web browsers work best with this plugin
+          Though designed to work on most browsers, Zendesk Chat works
+          best in the following environment: IE 6 or later (PC), Firefox 2
+          or later (Mac, PC, or Linux), Safari 2 or later (Mac), Google
+          Chrome (PC, Mac).
+
+   I managed to install the plugin but cannot link up to Zendesk Chat.
+          Why?
+          The plugin tries to link up with Zendesk Chat by connecting
+          using a few approaches including PHP Curl. If the outgoing
+          connections are blocked (eg. by a firewall), please request your
+          server administrator.
+
+          Alternatively, you can also manually include the script in the
+          footer file (“wp-content/themes/default/footer.php” in your
+          wordpress installation).
+
+   Is it free to use?
+          The plugin comes with a free plan specially tailored for
+          WordPress users. Power users can purchase upgrade options
+          anytime.
+
+   How can I chat with more visitors at the same time?
+          You can easily do so by upgrading to a better plan. To find out
+          more about the plans and features we offer, please visit
+          https://www.zendesk.com/chat/pricing/#pricing
+
+   Its just not working for me! HELP!
+          Dont worry!! We are happy to assist! Just come on down to our
+          site at https://www.zendesk.com/chat or leave an email for us at
+          chat@zendesk.com and we will help you with installation.
+
+   WordPress Integration for Chat accounts
+          The integration supports chat phase 4, 3 and 1 accounts. If you
+          have a zendesk subdomain, please provide your subdomain as you
+          are either chat phase 3 or 4 customer. If you don’t have a
+          subdomain, leave the subdomain field as blank as you are chat
+          phase 1 customer.
+
+Reviews
+
+I like Zendesk a lot but WP plugin is disaster
+
+   Marin Stoyanov January 11, 2018
+   I thought that installing the plugin made by Zendesk team will be easy
+   and i won't face any issues. Instead now I'm here and I write my
+   review. WordPress Zendesk plugin is real disaster. It doesn't allow me
+   to login to my account. I'm sure that my password and email are
+   correct. I tripe-checked them and they are correct but the plugin
+   doesn't allow me to login to my existing Zendesk account. Some
+   suggestions for the authors: 1) We live in 21st century, logging with
+   my real Zendesk username and password is real thread. Instead you can
+   use API key, provide temporary access key or use other more intelligent
+   way to associate WP website with Zendesk account 2) Most WP plugins,
+   that require configuration after being activated, usually have a
+   Settings link next to 'Details'. You're huge enough to do it.
+
+Data leaked?
+
+   Phil September 10, 2017
+   The Zendesk Chat system itself works quite well, from what little
+   chance we had to use it. However, a few months ago we received
+   chat/messages from someone else's Zendesk account, which is hugely
+   concering. I contacted support but haven't heard anything back in
+   weeks. Very worrying! If you communicate any kind of private/sensitive
+   data I'd highly recommend avoiding Zendesk Chat, possibly even Zendesk
+   itself too since they are closely linked.
+
+Cuidado. Cobrança automatica.
+
+   Rodolfo December 26, 2016
+   Cuidado. Instalei o Zopim e paguei por 2 agentes por 6 seis meses. Após
+   isso o sistema renovou automaticamente, mesmo sem meu site estar no ar
+   mais e mesmo sem usar o sistema deles. Entrei em contato e me
+   informaram que não devolveriam o dinheiro porque já havia passado o
+   tempo para reclamar e que isso estava previsto, quando assinei. Tenho
+   os e-mails, que compravam isso. Tomem muito cuidado! Não recomendo!
+
+Easy and fast
+
+   albaintrade September 22, 2016
+   Very good application easy and fast... You can try on my website
+   http://almanyayurtdisikargo.com/
+
+nice plugin
+
+   nicopozena79 September 10, 2016
+   Pretty good service
+
+I love this program, but it slows my site
+
+   ddrevik September 3, 2016
+   I love this plugin. It helps our website visitors tremendously to be
+   able to ask questions and interact with us. Many are reluctant to call
+   or email for fear of being inundated with sales calls, so this allows
+   them to stay at arms reach until they get comfortable with us. Why only
+   3 stars then? The speed. When I load the Zopim widget, my homepage load
+   time goes from 6.5s to 12.3s. I can't have visitors waiting that long
+   for our homepage to load. I could live with adding a second or so to
+   our load, but 6 additional seconds is a deal-breaker.
+   Read all 27 reviews
+
+Contributors & Developers
+
+   “Zendesk Chat” is open source software. The following people have
+   contributed to this plugin.
+   Contributors
+     * zendesk_official
+
+   “Zendesk Chat” has been translated into 2 locales. Thank you to the
+   translators for their contributions.
+
+   Translate “Zendesk Chat” into your language.
+
+Interested in development?
+
+   Browse the code, check out the SVN repository, or subscribe to the
+   development log by RSS.
+
+Changelog
+
+1.4.15
+
+     * Tested on WordPress v5.1.1
+
+1.4.14
+
+     * Support chat phase 3 and phase 4 accounts
+
+1.4.13
+
+     * Updated copy to reflect chat phase 4 limitations
+
+1.4.12
+
+     * Updated copy to reflect new trial length
+     * Update marketplace screenshots
+
+1.4.11
+
+     * Remove query string to the dashboard link
+
+1.4.10
+
+     * Fix CSRF issue when unlinking zopim account
+
+1.4.9
+
+     * Tested on WordPress v4.7
+
+1.4.8
+
+     * Remove old files in base directory
+
+1.4.7
+
+     * Fix issue with php7 compatibility checker
+
+1.4.6
+
+     * Fix CSRF issue in the plugin deactivation functionality.
+
+1.4.5
+
+     * Updated support and video URLs
+
+1.4.4
+
+     * Rebranding strings to Zendesk Chat
+
+1.4.3
+
+     * Remove depracated function for wordpress 4.5
+
+1.4.2
+
+     * Added support for wordpress 4.4
+
+1.4.1
+
+     * Update the text domain for translate.wordpress.com compatibility
+
+1.4.0
+
+     * Security patch
+
+1.3.9
+
+     * Refactoring of plugin files
+
+1.3.8
+
+     * Fix throwing of wordpress errors
+     * Fix PHP notice (‘Notice: Undefined variable: error’) on the plugin
+       dashboard
+     * Remove unused globals
+     * Standardize function names
+     * Use _() and _e() for translations
+     * Add english language file
+     * Added icon assets
+
+1.3.7
+
+     * Add documentation for releasing new versions of the plugin
+
+1.3.6
+
+     * Fix ‘Cannot modify header information’ PHP error by registering and
+       enequeing script
+     * Include js file
+
+1.3.5
+
+     * Update supported version to 4.1.1
+     * Include Plugin’s version number to footer (if Account is linked up)
+     * Always use SSL to link account
+     * Improved UI on login page to reduce confusion with SSL option and
+       Password field
+     * Update Signup Link
+
+1.3.4
+
+     * Fix menu icon image
+
+1.3.3
+
+     * Fix bug where account deactivates linking but widget still shows up
+
+1.3.2
+
+     * Refactored css loading to accommodate older PHP versions
+     * Included css file
+
+1.3.1
+
+     * Added admin_print_styles to custom css
+     * Changed button css name to a non-generic name
+
+1.3.0
+
+     * Removed iframe Capability from plugin
+     * Removed Account Configuration, Customize and Dashboard sub-menu
+       pages
+     * Added Launch Dashboard link to open new browser tab to access
+       Dashboard
+     * Minor Code Fixes
+
+1.2.9
+
+     * Revert back to iframe Customize and Dashboard instead of opening
+       new window
+     * In PHP 5.3, ereg is deprecated, updated to use preg_match
+
+1.2.8
+
+     * Due to breaking changes in many consumer IM clients, we will no
+       longer be supporting IM Chat Bots (AIM, Google Talk, Skype, Yahoo
+       Messenger or MSN)
+     * Customize and Dashboard will now open in a new window instead of
+       iframe
+
+1.2.7
+
+     * Plugin will now embed v2 Widget
+     * Improved Login Response
+     * Classic Theme Editor removed to use Dashboard Widget Customization
+       Click on Appearance to make changes to your widget
+     * Old Javascript API from v1 Widget may not work with v2 Widget
+       Visit
+       http://api.zopim.com/files/meshim/widget/controllers/LiveChatAPI-js
+       .html for more details
+
+1.2.6
+
+     * Addresses XSS vulnerabilities concerns by removing ZeroClipboard
+
+1.2.5
+
+     * Enhancement to Theme Editor – now autoloads blog’s url
+       automatically
+
+1.2.4
+
+     * Adds an optional widget settings box
+     * Widget settings saved from old wordpress plugin will be migrated to
+       the optional settings box
+     * Visitor info uses new wp api and now enabled by default
+     * Required WordPress version bumped to 3.1
+
+1.2.3
+
+     * Replaces old customize widget page with new theme editor
+     * Remove customizewidget.php
+
+1.2.2
+
+     * adds User Capability levels, allowing non-admins to use the plugin
+       admin interface
+     * Admins can use add the following code
+       $role = get_role( ‘editor’ ); $role->add_cap( ‘access_zopim’ );
+       to their themes, or use the Members plugin
+       (https://wordpress.org/extend/plugins/members/)
+       to give roles the ‘access_zopim’ capability.
+
+1.2.1
+
+     * Uses wordpress http api for better linkup support with multiple
+       transports
+     * Reduce name collisions in functions
+     * Adds compatibility to premiumpress theme
+
+1.2.0
+
+     * Signup process is now linked to zopim.com as per WordPress
+       guidelines.
+
+1.1.3
+
+     * Update Zendesk Chat embed script
+     * Add option to override dashboard settings for chat bubble text
+
+1.1.2
+
+     * Maintenance update: Compatibility update for WordPress 3.3.1
+
+1.1.1
+
+     * Maintenance update: Fix invalid plugin header (zopim.php) for new
+       installation
+
+1.1.0
+
+     * Maintenance update: Greeting messages are now saved properly.
+     * Add more language options in customization page.
+     * Using new Zendesk Chat async embed script: improve page’s load time
+       and do not block page’s rendering anymore
+
+1.0.7
+
+     * Maintenance update: Remove phased out “middle left”, “middle right”
+       positions
+     * Add options to let user decides hiding of chat bubble, no longer
+       force show/hide
+     * Enable option for not using plugins’ greeting messages
+
+1.0.6
+
+     * Maintenance update: Class’ redeclaration conflict fix.
+
+1.0.5
+
+     * Maintenance update: fix minor bug on widget customization page –
+       online msg input
+
+1.0.4
+
+     * Robustness update: Make sure widget won’t appear more than once.
+
+1.0.3
+
+     * Maintenance update: New line bugfixes.
+
+1.0.2
+
+     * Maintenance update: More curl robustness enhancements.
+
+1.0.1
+
+     * Maintenance update: More robust connectivity, CURL errors caught
+     * Note: PHP Curl is required (and has always been).
+
+1.0
+
+     * Stability update: Official Plugin Launched
+
+0.6.1
+
+     * Update: Launched with improved signup process and minor cosmetic
+       fixes.
+
+0.6.0
+
+     * UI fix: Improved account management page.
+
+0.5.0
+
+     * Feature: Push surveys and questions to the visitor.
+     * Bugfix: In-plugin dashboard will be hidden in full screen mode.
+
+0.4.0
+
+     * Feature: Provide customer service through your favourite IM client
+       (MSN, GTalk, Yahoo, AIM)
+     * Feature: You can access the dashboard in full screen!
+
+0.3.0
+
+     * Feature: Connect to Zendesk Chat servers using 256-bit industry
+       standard SSL for increased security!
+     * Feature: You can experiment with customizing the widget even
+       without an account.
+     * Feature: Change the automatic messages displayed on the widget when
+       it first loads, and depending on your online status.
+     * Feature: Customize the language of the widget.
+     * Bugfix: Positioning customization now works properly.
+
+0.2.0
+
+     * Feature: Live Visitor Analytics (page your users are on, webpaths,
+       length of stay, repeat visits and much more!)
+     * Feature: Create an account directly in the plugin.
+     * Feature: Rank Visitors by priority of importance.
+
+0.1.0
+
+     * Feature: Add the Zendesk Chat widget to your site!
+     * Feature: Customize look and feel of the widget, including themes
+       and color!
+     * Feature: Use wordpress user information to populate visitor data in
+       the plugin.
+
+Meta
+
+     * Version: 1.4.15
+     * Last updated: 4 months ago
+     * Active installations: 70,000+
+     * WordPress Version: 3.1 or higher
+     * Tested up to: 5.1.2
+     * Languages:
+       (BUTTON) See all 3
+       (BUTTON) Close
+       English (US), Italian, and Spanish (Spain).
+       Translate into your language
+     * Tags:
+       chatchat onlinecontact plugincontact uscustomer support
+     * Advanced View
+
+Ratings
+
+   See all
+     * 5 stars 17
+     * 4 stars 1
+     * 3 stars 2
+     * 2 stars 1
+     * 1 star 4
+
+Contributors
+
+     * zendesk_official
+
+Support
+
+   Issues resolved in last two months:
+
+   0 out of 1
+
+   View support forum
+     * About
+     * Blog
+     * Hosting
+     * Donate
+
+     * Support
+     * Developers
+     * Get Involved
+
+     * Showcase
+     * Plugins
+     * Themes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Privacy
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Code is Poetry.
+   Skip to toolbar
+     * About WordPress
+          + About WordPress
+          + WordPress.org
+          + Documentation
+          + Support
+          + Feedback
+
+     * ____________________Search Search
+     * Log In
+     * Register
+   #alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P24PF4B
+
+   Skip to content
+
+WordPress.org
+
+   Search WordPress.org for: ____________________ (BUTTON) Submit
+   (BUTTON) Toggle Menu
+
+     * Showcase
+     * Themes
+     * Plugins
+     * Mobile
+     * Support
+          + Documentation
+          + Forums
+     * Get Involved
+     * About
+     * Blog
+     * Hosting
+     * Get WordPress
+
+   Plugins
+
+   (BUTTON)
+     * My Favorites
+     * Beta Testing
+     * Developers
+     * Search for: ____________________ (BUTTON) Search plugins
+
+feedburner-plugin
+
+   By John Watson
+     * Details
+     * Reviews
+     * Support
+     * Development
+
+Description
+
+   This plugin has been closed as of April 12, 2018 and is not available
+   for download. This closure is permanent.
+
+Reviews
+
+Does just what I need it to. Sorry to see it close.
+
+   speechpoet May 23, 2018
+   Look, I realize this happens with a thriving open-source ecosystem:
+   developers come and go. Plugins are maintained for years, and then
+   finally the people who maintain them have to bid adieu. I get it. But
+   if someone decides to take FD Feedburner on, I'm prepared to kick in
+   coffee money. 🙂
+
+Ask
+
+   putraadam19 February 12, 2018
+   is this still working ?
+
+Works
+
+   pipdig September 3, 2016
+   Works like a charm
+
+Feed Burner Feed Me and the World
+
+   Appsz February 7, 2017
+   This wonderful Plugin saves so much time and helps me put my content
+   out into the world seamlessly. Thank you so much for making my life
+   that little bit easier. Once set up this baby flies. Recommendation:
+   Why haven't you Got this Plug-In Simply Simplicity. Appsz Applisting
+   SexeToysUnlimitedSexeToysUnlimited
+
+Simple & Useful
+
+   Nadeem Khan February 7, 2017
+   This is best plugin of website feed. I recommend this plugin to all
+   Premium WordPress Themes
+   Read all 14 reviews
+
+Contributors & Developers
+
+   “FD Feedburner Plugin” is open source software. The following people
+   have contributed to this plugin.
+   Contributors
+     * fd
+
+   Translate “FD Feedburner Plugin” into your language.
+
+Interested in development?
+
+   Browse the code, check out the SVN repository, or subscribe to the
+   development log by RSS.
+
+Meta
+
+     * Version: 1.48
+     * Last updated: 1 year ago
+     * Active installations: N/A
+     * WordPress Version: 2.0 or higher
+     * Tested up to: 4.3.20
+     * Advanced View
+
+     * About
+     * Blog
+     * Hosting
+     * Donate
+
+     * Support
+     * Developers
+     * Get Involved
+
+     * Showcase
+     * Plugins
+     * Themes
+
+     * WordCamp
+     * WordPress.TV
+     * BuddyPress
+     * bbPress
+
+     * WordPress.com
+     * Matt
+     * Privacy
+     * Public Code
+
+     * @WordPress
+     * WordPress
+
+   Code is Poetry.
+   Skip to toolbar
+     * About WordPress
+          + About WordPress
+          + WordPress.org
+          + Documentation
+          + Support
+          + Feedback
+
+     * ____________________Search Search
+     * Log In
+     * Register

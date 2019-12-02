@@ -1,0 +1,1936 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   skip to main content
+   Sign in
+   Subscribe
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Search + Menu
+       ____________________ Submit
+       Sign in
+       Subscribe
+
+Topics
+       Artificial Intelligence
+       Biotechnology
+       Blockchain
+       Climate Change
+       Computing
+       Humans and Technology
+       Tech Policy
+       Silicon Valley
+       Smart Cities
+       Space
+
+Magazine
+       Read the latest issue
+       Read previous issues
+       Subscribe to the magazine
+       Manage your subscription
+       MIT News
+       Special interest publications
+
+Newsletters
+       Daily Briefing
+       Blockchain and Cryptocurrency
+       Artificial Intelligence
+       Future Economy
+       Space
+       Weekend Reads
+       View all newsletters
+
+Events
+       EmTech
+       EmTech Digital
+       EmTech Next
+       Future Compute
+       View events video
+       View all events
+
+Lists
+       10 Breakthrough Technologies
+       35 Innovators Under 35
+       50 Smartest Companies
+
+More
+       Business Lab podcast
+       Custom content
+
+Company
+       About us
+       Advertise with us
+       Careers
+       Insights
+       International editions
+
+Policies
+       Editorial guidelines
+       Terms of service
+       Privacy
+       Cookie statement
+       Licensing and syndication
+
+Account and Support
+       Help and FAQ
+       Contact us
+       Sign in / Create an account
+       Manage your account
+       Follow
+       MIT Technology Review ©2019 v.|e^iπ|
+
+   A time line of tech events that raise ethical questions, presented at
+   the opening of the AI Now 2018 Symposium.
+   Varoon Mathur/AI Now Institute
+
+Tech Policy / AI Ethics
+
+Establishing an AI code of ethics will be harder than people think
+
+Ethics are too subjective to guide the use of AI, argue some legal scholars.
+
+   by Karen Hao
+   Oct 21, 2018
+   A time line of tech events that raise ethical questions, presented at
+   the opening of the AI Now 2018 Symposium.
+   Varoon Mathur/AI Now Institute
+
+   Over the past six years, the New York City police department has
+   compiled a massive database containing the names and personal details
+   of at least 17,500 individuals it believes to be involved in criminal
+   gangs. The effort has already been criticized by civil rights activists
+   who say it is inaccurate and racially discriminatory.
+
+   "Now imagine marrying facial recognition technology to the development
+   of a database that theoretically presumes you’re in a gang," Sherrilyn
+   Ifill, president and director-counsel of the NAACP Legal Defense fund,
+   said at the AI Now Symposium in New York last Tuesday.
+
+   Lawyers, activists, and researchers emphasize the need for ethics and
+   accountability in the design and implementation of AI systems. But this
+   often ignores a couple of tricky questions: who gets to define those
+   ethics, and who should enforce them?
+   Sherrilyn Ifill (NAACP Legal Defense Fund), Timnit Gebru (Google), and
+   Nicole Ozer (ACLU) in conversation at the AI Now 2018 Symposium.
+   Andrew Federman for AI Now Institute
+
+   Not only is facial recognition imperfect, studies have shown that the
+   leading software is less accurate for dark-skinned individuals and
+   women. By Ifill’s estimation, the police database is between 95 and 99
+   percent African American, Latino, and Asian American. "We are talking
+   about creating a class of […] people who are branded with a kind of
+   criminal tag," Ifill said.
+
+   Meanwhile, police departments across the US, the UK, and China have
+   begun adopting face recognition as a tool for finding known criminals.
+   In June, the South Wales police released a statement justifying their
+   use of the technology because of the "public benefit" that it provides.
+
+   Indeed, technology often highlights peoples' differing ethical
+   standards—whether it is censoring hate speech or using risk assessment
+   tools to improve public safety.
+
+   IFRAME: https://www.youtube.com/embed/NmdAtfcmTNg?t=2044?rel=0
+
+   The AI Now 2018 Symposium
+   AI Now Institute
+
+   In an attempt to highlight how divergent people’s principles can be,
+   researchers at MIT created a platform called the Moral Machine to
+   crowd-source human opinion on the moral decisions that should be
+   followed by self-driving cars. They asked millions of people from
+   around the world to weigh in on variations of the classic "trolley
+   problem" by choosing who a car should try to prioritize in an accident.
+   The results show huge variation across different cultures.
+
+   Establishing ethical standards also doesn’t necessarily change
+   behavior. In June, for example, after Google agreed to discontinue its
+   work on Project Maven with the Pentagon, it established a fresh set of
+   ethical principles to guide its involvement in future AI projects. Only
+   months later, many Google employees feel those principles have been
+   placed by the wayside with a bid for a $10 billion Department of
+   Defense contract. A recent study out of North Carolina State University
+   also found that asking software engineers to read a code of ethics does
+   nothing to change their behavior.
+
+   Philip Alston, an international legal scholar at NYU’s School of Law,
+   proposes a solution to the ambiguous and unaccountable nature of
+   ethics: reframing AI-driven consequences in terms of human rights.
+   "[Human rights are] in the constitution," Alston said at the same
+   conference. "They’re in the bill of rights; they’ve been interpreted by
+   courts," he said. If an AI system takes away people’s basic rights,
+   then it should not be acceptable, he said.
+   Philip Alston (NYU School of Law), Virginia Eubanks (University at
+   Albany, SUNY), and Vincent Southerland (Center on Race, Inequality, and
+   the Law at NYU) on stage at the symposium.
+   Andrew Federman for AI Now Institute
+
+   Alston isn’t the only one who has come up with this solution. Less than
+   a week before the Symposium, the Data & Society Research Institute
+   published a proposal for using international human rights to govern AI.
+   The report includes recommendations for tech companies to engage with
+   civil rights groups and researchers, and to conduct human rights impact
+   assessments on the life cycles of their AI systems.
+
+   "Until we start bringing [human rights] into the AI discussion," added
+   Alston, "there’s no hard anchor."
+   Share
+   Link
+   TaggedArtificial Intelligence, AI Ethics
+   Author
+
+   Karen Hao
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   From our advertisers
+     * In association with Intel
+       Getting smart about the future of AI
+     * Intel
+       Autonomous driving: Safety first
+     * Produced in association with IBM
+       Optimizing the engineering life cycle requires digital
+       transformation
+
+   Advertisement
+
+Topics
+
+     * Artificial Intelligence
+     * Biotechnology
+     * Blockchain
+     * Climate Change
+     * Computing
+     * Humans and Technology
+     * Tech Policy
+     * Silicon Valley
+     * Smart Cities
+     * Space
+
+Follow
+
+   Subscribe
+   MIT Technology Review
+
+   Varoon Mathur/AI Now Institute
+
+Intelligent Machines
+
+Establishing an AI code of ethics will be harder than people think
+
+Ethics are too subjective to guide the use of AI, argue some legal scholars.
+
+     * by Karen Hao
+     * October 21, 2018
+
+   Over the past six years, the New York City police department has
+   compiled a massive database containing the names and personal details
+   of at least 17,500 individuals it believes to be involved in criminal
+   gangs. The effort has already been criticized by civil rights activists
+   who say it is inaccurate and racially discriminatory.
+
+   "Now imagine marrying facial recognition technology to the development
+   of a database that theoretically presumes you’re in a gang," Sherrilyn
+   Ifill, president and director-counsel of the NAACP Legal Defense fund,
+   said at the AI Now Symposium in New York last Tuesday.
+
+   Lawyers, activists, and researchers emphasize the need for ethics and
+   accountability in the design and implementation of AI systems. But this
+   often ignores a couple of tricky questions: who gets to define those
+   ethics, and who should enforce them?
+   Sherrilyn Ifill (NAACP Legal Defense Fund), Timnit Gebru (Google), and
+   Nicole Ozer (ACLU) in conversation at the AI Now 2018 Symposium.
+
+   Not only is facial recognition imperfect, studies have shown that the
+   leading software is less accurate for dark-skinned individuals and
+   women. By Ifill’s estimation, the police database is between 95 and 99
+   percent African American, Latino, and Asian American. "We are talking
+   about creating a class of […] people who are branded with a kind of
+   criminal tag," Ifill said.
+
+   Meanwhile, police departments across the US, the UK, and China have
+   begun adopting face recognition as a tool for finding known criminals.
+   In June, the South Wales police released a statement justifying their
+   use of the technology because of the "public benefit" that it provides.
+
+   Indeed, technology often highlights peoples' differing ethical
+   standards—whether it is censoring hate speech or using risk assessment
+   tools to improve public safety.
+
+   In an attempt to highlight how divergent people’s principles can be,
+   researchers at MIT created a platform called the Moral Machine to
+   crowd-source human opinion on the moral decisions that should be
+   followed by self-driving cars. They asked millions of people from
+   around the world to weigh in on variations of the classic "trolley
+   problem" by choosing who a car should try to prioritize in an accident.
+   The results show huge variation across different cultures.
+
+   Establishing ethical standards also doesn’t necessarily change
+   behavior. In June, for example, after Google agreed to discontinue its
+   work on Project Maven with the Pentagon, it established a fresh set of
+   ethical principles to guide its involvement in future AI projects. Only
+   months later, many Google employees feel those principles have been
+   placed by the wayside with a bid for a $10 billion Department of
+   Defense contract. A recent study out of North Carolina State University
+   also found that asking software engineers to read a code of ethics does
+   nothing to change their behavior.
+
+   Philip Alston, an international legal scholar at NYU’s School of Law,
+   proposes a solution to the ambiguous and unaccountable nature of
+   ethics: reframing AI-driven consequences in terms of human rights.
+   "[Human rights are] in the constitution," Alston said at the same
+   conference. "They’re in the bill of rights; they’ve been interpreted by
+   courts," he said. If an AI system takes away people’s basic rights,
+   then it should not be acceptable, he said.
+   Philip Alston (NYU School of Law), Virginia Eubanks (University at
+   Albany, SUNY), and Vincent Southerland (Center on Race, Inequality, and
+   the Law at NYU) on stage at the symposium.
+
+   Alston isn’t the only one who has come up with this solution. Less than
+   a week before the Symposium, the Data & Society Research Institute
+   published a proposal for using international human rights to govern AI.
+   The report includes recommendations for tech companies to engage with
+   civil rights groups and researchers, and to conduct human rights impact
+   assessments on the life cycles of their AI systems.
+
+   "Until we start bringing [human rights] into the AI discussion," added
+   Alston, "there’s no hard anchor."
+
+   MIT Technology Review © 2019
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   MIT Technology Review (BUTTON) Menu
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Log in / Create and account
+
+     * Subscribe
+
+     * Sign in
+     * Search
+
+     * ____________________ Submit
+       Click search or press enter
+
+AI Ethics   119 Stories
+
+As algorithms play a bigger role in decisions that affect our lives, concerns
+about bias in artificial intelligence, explainability, and legal
+responsibility have fueled interest in AI ethics.
+
+Artificial Intelligence
+
+Google has released a giant database of deepfakes to help fight deepfakes
+
+     * by Karen Hao
+     * 2019-09-25T05:34:38-04:00
+
+   Screengrab from Putin deepfake
+
+Tech Policy
+
+The world’s top deepfake artist: ‘Wow, this is developing more rapidly than I
+thought.’
+
+   Hao Li sees deepfake technology as moving quickly toward being
+   indistinguishable from reality.
+     * by Patrick Howell O'Neill
+     * 2019-09-18T13:11:46-04:00
+
+   Student at post-it-note-filled whiteboard
+
+Tech Policy
+
+Kids are surrounded by AI. They should know how it works.
+
+   A new curriculum that helps children understand how algorithms are
+   designed will keep them safe and motivate them to help shape the
+   technology’s future.
+     * by Karen Hao
+     * 2019-09-13T10:30:46-04:00
+
+   security cameras
+
+Tech Policy
+
+Most Americans are fine with cops using facial recognition on them
+
+     * by Angela Chen
+     * 2019-09-05T10:00:26-04:00
+
+   An image of the Chinese AI app ZAO
+
+Artificial Intelligence
+
+An AI app that turns you into a movie star has risked the privacy of millions
+
+     * by Karen Hao
+     * 2019-09-04T09:06:15-04:00
+
+   Photo illustration of JFK delivering fake speech
+
+Artificial Intelligence
+
+OpenAI has released the largest version yet of its fake-news-spewing AI
+
+   The AI lab has also released a report to explain why it is releasing
+   the model in increments.
+     * by Karen Hao
+     * 2019-08-29T04:00:08-04:00
+
+   Empty desks
+
+Artificial Intelligence
+
+China’s path to AI domination has a problem: brain drain
+
+     * by Karen Hao
+     * 2019-08-07T13:57:40-04:00
+
+Artificial Intelligence
+
+These companies claim to provide “fair-trade” data work. Do they?
+
+   Companies like CloudFactory, iMerit, and Samasource promise data sets
+   provided by workers who are well paid and cared for. It’s not an easy
+   business.
+     * by Kate Kaye
+     * 2019-08-07T05:00:32-04:00
+
+Tech Policy
+
+Computers can’t tell if you’re happy when you smile
+
+   Emotion recognition is set to be a $25 billion industry, but a new
+   study says the most popular method is deeply flawed.
+     * by Angela Chen
+     * 2019-07-26T11:06:16-04:00
+
+   An image of all the face alterations FaceApp can do: make them smile,
+   meet your future self, look younger, change your style.
+
+Artificial Intelligence
+
+Yes, FaceApp could use your face—but not for face recognition
+
+     * by Karen Hao
+     * 2019-07-19T04:34:13-04:00
+
+   Loading…
+   (BUTTON) More from AI Ethics
+
+   The Download What's important in technology and innovation, delivered
+   to you every day.
+   ____________________ Sign Up
+
+
+   Stay updated on MIT Technology Review initiatives and events?
+     * (*) Yes
+     * ( ) No
+
+   Follow us
+   Twitter Facebook RSS
+
+   MIT Technology Review
+
+   The mission of MIT Technology Review is to bring about better-informed
+   and more conscious decisions about technology through authoritative,
+   influential, and trustworthy journalism.
+
+   Browse
+   International
+   Editions
+     * Lists
+          + 10 Breakthrough Technologies
+          + 35 Innovators Under 35
+          + 50 Smartest Companies
+     * More
+          + Business Lab podcast
+          + Custom content
+     * Company
+          + About us
+          + Advertise with us
+          + Careers
+          + Insights
+          + International editions
+     * Policies
+          + Editorial guidelines
+          + Terms of service
+          + Privacy
+          + Cookie statement
+          + Licensing and syndication
+     * Account and Support
+          + Help and FAQ
+          + Contact us
+          + Sign in / Create an account
+          + Manage your account
+
+   MIT Technology Review © 2019 v.|e^iπ|
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   skip to main content
+   Sign in
+   Subscribe
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Search + Menu
+       ____________________ Submit
+       Sign in
+       Subscribe
+
+Topics
+       Artificial Intelligence
+       Biotechnology
+       Blockchain
+       Climate Change
+       Computing
+       Humans and Technology
+       Tech Policy
+       Silicon Valley
+       Smart Cities
+       Space
+
+Magazine
+       Read the latest issue
+       Read previous issues
+       Subscribe to the magazine
+       Manage your subscription
+       MIT News
+       Special interest publications
+
+Newsletters
+       Daily Briefing
+       Blockchain and Cryptocurrency
+       Artificial Intelligence
+       Future Economy
+       Space
+       Weekend Reads
+       View all newsletters
+
+Events
+       EmTech
+       EmTech Digital
+       EmTech Next
+       Future Compute
+       View events video
+       View all events
+
+Lists
+       10 Breakthrough Technologies
+       35 Innovators Under 35
+       50 Smartest Companies
+
+More
+       Business Lab podcast
+       Custom content
+
+Company
+       About us
+       Advertise with us
+       Careers
+       Insights
+       International editions
+
+Policies
+       Editorial guidelines
+       Terms of service
+       Privacy
+       Cookie statement
+       Licensing and syndication
+
+Account and Support
+       Help and FAQ
+       Contact us
+       Sign in / Create an account
+       Manage your account
+       Follow
+       MIT Technology Review ©2019 v.|e^iπ|
+
+Artificial Intelligence
+
+Getting smart about the future of AI
+
+Artificial intelligence is a primary driver of possibilities and promise as
+the Fourth Industrial Revolution unfolds.
+
+   by MIT Technology Review Insights
+   Feb 20, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+Artificial Intelligence
+
+Getting smart about the future of AI
+
+Artificial intelligence is a primary driver of possibilities and promise as
+the Fourth Industrial Revolution unfolds.
+
+   by MIT Technology Review Insights
+   Feb 20, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+   The Industrial Revolution conjures up images of steam engines, textile
+   mills, and iron workers. This was a defining period during the late
+   18th and early 19th centuries, as society shifted from primarily
+   agrarian to factory-based work. A second phase of rapid
+   industrialization occurred just before World War I, driven by growth in
+   steel and oil production, and the emergence of electricity.
+
+   Fast-forward to the 1980s, when digital electronics started having a
+   deep impact on society—the dawning Digital Revolution. Building on that
+   era is what’s called the Fourth Industrial Revolution. Like its
+   predecessors, it is centered on technological advancements—this time
+   it’s artificial intelligence (AI), autonomous machines, and the
+   internet of things—but now the focus is on how technology will affect
+   society and humanity’s ability to communicate and remain connected.
+
+   “In the first Industrial Revolution, we replaced brawn with steam. In
+   the second, we replaced steam with electricity, and in the third, we
+   introduced computers,” says Guido Jouret, chief digital officer for
+   Swiss industrial corporation ABB. “We’ve had intelligent rule-based
+   systems. What we haven’t had is the equivalent of the human
+   cortex—systems that can learn.”
+
+Getting smart about the future of AI
+
+     * Download the full report
+
+   That’s what AI technologies represent in the current period of
+   technological change. It is now critical to carefully consider the
+   future of AI, what it will look like, the effect it will have on human
+   life, and what challenges and opportunities will arise as it evolves.
+   This story was commissioned by an advertiser and was produced by a
+   dedicated custom content team, not our journalists. Please see our
+   advertising guidelines to learn more.
+   Share
+   Link
+   Author
+
+   MIT Technology Review Insights
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Advertisement
+
+Topics
+
+     * Artificial Intelligence
+     * Biotechnology
+     * Blockchain
+     * Climate Change
+     * Computing
+     * Humans and Technology
+     * Tech Policy
+     * Silicon Valley
+     * Smart Cities
+     * Space
+
+Follow
+
+   Subscribe
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   skip to main content
+   Sign in
+   Subscribe
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Search + Menu
+       ____________________ Submit
+       Sign in
+       Subscribe
+
+Topics
+       Artificial Intelligence
+       Biotechnology
+       Blockchain
+       Climate Change
+       Computing
+       Humans and Technology
+       Tech Policy
+       Silicon Valley
+       Smart Cities
+       Space
+
+Magazine
+       Read the latest issue
+       Read previous issues
+       Subscribe to the magazine
+       Manage your subscription
+       MIT News
+       Special interest publications
+
+Newsletters
+       Daily Briefing
+       Blockchain and Cryptocurrency
+       Artificial Intelligence
+       Future Economy
+       Space
+       Weekend Reads
+       View all newsletters
+
+Events
+       EmTech
+       EmTech Digital
+       EmTech Next
+       Future Compute
+       View events video
+       View all events
+
+Lists
+       10 Breakthrough Technologies
+       35 Innovators Under 35
+       50 Smartest Companies
+
+More
+       Business Lab podcast
+       Custom content
+
+Company
+       About us
+       Advertise with us
+       Careers
+       Insights
+       International editions
+
+Policies
+       Editorial guidelines
+       Terms of service
+       Privacy
+       Cookie statement
+       Licensing and syndication
+
+Account and Support
+       Help and FAQ
+       Contact us
+       Sign in / Create an account
+       Manage your account
+       Follow
+       MIT Technology Review ©2019 v.|e^iπ|
+
+Smart Cities / Self-Driving Cars
+
+Autonomous driving: Safety first
+
+Self-driving vehicle technology has made significant advancements; now there
+needs to be an industry standard for self-driving safely.
+
+   by MIT Technology Review Insights
+   Mar 25, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+Smart Cities / Self-Driving Cars
+
+Autonomous driving: Safety first
+
+Self-driving vehicle technology has made significant advancements; now there
+needs to be an industry standard for self-driving safely.
+
+   by MIT Technology Review Insights
+   Mar 25, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+   Safety is of paramount importance for operating autonomous vehicles.
+   That doesn’t mean the safety of just the riders and passengers, but
+   also other vehicles on the road, pedestrians, and bicycle traffic. To
+   gain widespread acceptance, safety issues must be resolved to the full
+   satisfaction of the public. Getting a handle on safety means also
+   taking on a thicket of technological, legal, and philosophical
+   challenges.
+
+Autonomous driving: Safety first
+
+     * Download the full report
+
+   Autonomous vehicles are going to be part of our transportation network.
+   Most industry experts believe it is only a matter of time before
+   they’re plying the roads in increasing numbers. “[Autonomous driving]
+   will come, but it’s not going to be instantaneous,” says Judith
+   Hurwitz, president and CEO of consultancy Hurwitz & Associates.
+   “There’s not enough data yet to test everything and train on
+   everything.”
+
+   Just look at what the major automotive manufacturers are doing. General
+   Motors recently invested $100 million in two manufacturing sites in
+   Michigan to focus on rolling autonomous Cruise AVs off the line. Other
+   major manufacturers, such as Ford, BMW, and Volvo, are similarly
+   interested and invested in autonomous-vehicle programs.
+   This story was commissioned by an advertiser and was produced by a
+   dedicated custom content team, not our journalists. Please see our
+   advertising guidelines to learn more.
+   Share
+   Link
+   TaggedSelf-Driving Cars
+   Author
+
+   MIT Technology Review Insights
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Advertisement
+
+Topics
+
+     * Artificial Intelligence
+     * Biotechnology
+     * Blockchain
+     * Climate Change
+     * Computing
+     * Humans and Technology
+     * Tech Policy
+     * Silicon Valley
+     * Smart Cities
+     * Space
+
+Follow
+
+   Subscribe
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   skip to main content
+   Sign in
+   Subscribe
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Search + Menu
+       ____________________ Submit
+       Sign in
+       Subscribe
+
+Topics
+       Artificial Intelligence
+       Biotechnology
+       Blockchain
+       Climate Change
+       Computing
+       Humans and Technology
+       Tech Policy
+       Silicon Valley
+       Smart Cities
+       Space
+
+Magazine
+       Read the latest issue
+       Read previous issues
+       Subscribe to the magazine
+       Manage your subscription
+       MIT News
+       Special interest publications
+
+Newsletters
+       Daily Briefing
+       Blockchain and Cryptocurrency
+       Artificial Intelligence
+       Future Economy
+       Space
+       Weekend Reads
+       View all newsletters
+
+Events
+       EmTech
+       EmTech Digital
+       EmTech Next
+       Future Compute
+       View events video
+       View all events
+
+Lists
+       10 Breakthrough Technologies
+       35 Innovators Under 35
+       50 Smartest Companies
+
+More
+       Business Lab podcast
+       Custom content
+
+Company
+       About us
+       Advertise with us
+       Careers
+       Insights
+       International editions
+
+Policies
+       Editorial guidelines
+       Terms of service
+       Privacy
+       Cookie statement
+       Licensing and syndication
+
+Account and Support
+       Help and FAQ
+       Contact us
+       Sign in / Create an account
+       Manage your account
+       Follow
+       MIT Technology Review ©2019 v.|e^iπ|
+
+   A time line of tech events that raise ethical questions, presented at
+   the opening of the AI Now 2018 Symposium.
+   Varoon Mathur/AI Now Institute
+
+Tech Policy / AI Ethics
+
+Establishing an AI code of ethics will be harder than people think
+
+Ethics are too subjective to guide the use of AI, argue some legal scholars.
+
+   by Karen Hao
+   Oct 21, 2018
+   A time line of tech events that raise ethical questions, presented at
+   the opening of the AI Now 2018 Symposium.
+   Varoon Mathur/AI Now Institute
+
+   Over the past six years, the New York City police department has
+   compiled a massive database containing the names and personal details
+   of at least 17,500 individuals it believes to be involved in criminal
+   gangs. The effort has already been criticized by civil rights activists
+   who say it is inaccurate and racially discriminatory.
+
+   "Now imagine marrying facial recognition technology to the development
+   of a database that theoretically presumes you’re in a gang," Sherrilyn
+   Ifill, president and director-counsel of the NAACP Legal Defense fund,
+   said at the AI Now Symposium in New York last Tuesday.
+
+   Lawyers, activists, and researchers emphasize the need for ethics and
+   accountability in the design and implementation of AI systems. But this
+   often ignores a couple of tricky questions: who gets to define those
+   ethics, and who should enforce them?
+   Sherrilyn Ifill (NAACP Legal Defense Fund), Timnit Gebru (Google), and
+   Nicole Ozer (ACLU) in conversation at the AI Now 2018 Symposium.
+   Andrew Federman for AI Now Institute
+
+   Not only is facial recognition imperfect, studies have shown that the
+   leading software is less accurate for dark-skinned individuals and
+   women. By Ifill’s estimation, the police database is between 95 and 99
+   percent African American, Latino, and Asian American. "We are talking
+   about creating a class of […] people who are branded with a kind of
+   criminal tag," Ifill said.
+
+   Meanwhile, police departments across the US, the UK, and China have
+   begun adopting face recognition as a tool for finding known criminals.
+   In June, the South Wales police released a statement justifying their
+   use of the technology because of the "public benefit" that it provides.
+
+   Indeed, technology often highlights peoples' differing ethical
+   standards—whether it is censoring hate speech or using risk assessment
+   tools to improve public safety.
+
+   IFRAME: https://www.youtube.com/embed/NmdAtfcmTNg?t=2044?rel=0
+
+   The AI Now 2018 Symposium
+   AI Now Institute
+
+   In an attempt to highlight how divergent people’s principles can be,
+   researchers at MIT created a platform called the Moral Machine to
+   crowd-source human opinion on the moral decisions that should be
+   followed by self-driving cars. They asked millions of people from
+   around the world to weigh in on variations of the classic "trolley
+   problem" by choosing who a car should try to prioritize in an accident.
+   The results show huge variation across different cultures.
+
+   Establishing ethical standards also doesn’t necessarily change
+   behavior. In June, for example, after Google agreed to discontinue its
+   work on Project Maven with the Pentagon, it established a fresh set of
+   ethical principles to guide its involvement in future AI projects. Only
+   months later, many Google employees feel those principles have been
+   placed by the wayside with a bid for a $10 billion Department of
+   Defense contract. A recent study out of North Carolina State University
+   also found that asking software engineers to read a code of ethics does
+   nothing to change their behavior.
+
+   Philip Alston, an international legal scholar at NYU’s School of Law,
+   proposes a solution to the ambiguous and unaccountable nature of
+   ethics: reframing AI-driven consequences in terms of human rights.
+   "[Human rights are] in the constitution," Alston said at the same
+   conference. "They’re in the bill of rights; they’ve been interpreted by
+   courts," he said. If an AI system takes away people’s basic rights,
+   then it should not be acceptable, he said.
+   Philip Alston (NYU School of Law), Virginia Eubanks (University at
+   Albany, SUNY), and Vincent Southerland (Center on Race, Inequality, and
+   the Law at NYU) on stage at the symposium.
+   Andrew Federman for AI Now Institute
+
+   Alston isn’t the only one who has come up with this solution. Less than
+   a week before the Symposium, the Data & Society Research Institute
+   published a proposal for using international human rights to govern AI.
+   The report includes recommendations for tech companies to engage with
+   civil rights groups and researchers, and to conduct human rights impact
+   assessments on the life cycles of their AI systems.
+
+   "Until we start bringing [human rights] into the AI discussion," added
+   Alston, "there’s no hard anchor."
+   Share
+   Link
+   TaggedArtificial Intelligence, AI Ethics
+   Author
+
+   Karen Hao
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   From our advertisers
+     * In association with Intel
+       Getting smart about the future of AI
+     * Intel
+       Autonomous driving: Safety first
+     * Produced in association with IBM
+       Optimizing the engineering life cycle requires digital
+       transformation
+
+   Advertisement
+
+Topics
+
+     * Artificial Intelligence
+     * Biotechnology
+     * Blockchain
+     * Climate Change
+     * Computing
+     * Humans and Technology
+     * Tech Policy
+     * Silicon Valley
+     * Smart Cities
+     * Space
+
+Follow
+
+   Subscribe
+   MIT Technology Review
+
+   Varoon Mathur/AI Now Institute
+
+Intelligent Machines
+
+Establishing an AI code of ethics will be harder than people think
+
+Ethics are too subjective to guide the use of AI, argue some legal scholars.
+
+     * by Karen Hao
+     * October 21, 2018
+
+   Over the past six years, the New York City police department has
+   compiled a massive database containing the names and personal details
+   of at least 17,500 individuals it believes to be involved in criminal
+   gangs. The effort has already been criticized by civil rights activists
+   who say it is inaccurate and racially discriminatory.
+
+   "Now imagine marrying facial recognition technology to the development
+   of a database that theoretically presumes you’re in a gang," Sherrilyn
+   Ifill, president and director-counsel of the NAACP Legal Defense fund,
+   said at the AI Now Symposium in New York last Tuesday.
+
+   Lawyers, activists, and researchers emphasize the need for ethics and
+   accountability in the design and implementation of AI systems. But this
+   often ignores a couple of tricky questions: who gets to define those
+   ethics, and who should enforce them?
+   Sherrilyn Ifill (NAACP Legal Defense Fund), Timnit Gebru (Google), and
+   Nicole Ozer (ACLU) in conversation at the AI Now 2018 Symposium.
+
+   Not only is facial recognition imperfect, studies have shown that the
+   leading software is less accurate for dark-skinned individuals and
+   women. By Ifill’s estimation, the police database is between 95 and 99
+   percent African American, Latino, and Asian American. "We are talking
+   about creating a class of […] people who are branded with a kind of
+   criminal tag," Ifill said.
+
+   Meanwhile, police departments across the US, the UK, and China have
+   begun adopting face recognition as a tool for finding known criminals.
+   In June, the South Wales police released a statement justifying their
+   use of the technology because of the "public benefit" that it provides.
+
+   Indeed, technology often highlights peoples' differing ethical
+   standards—whether it is censoring hate speech or using risk assessment
+   tools to improve public safety.
+
+   In an attempt to highlight how divergent people’s principles can be,
+   researchers at MIT created a platform called the Moral Machine to
+   crowd-source human opinion on the moral decisions that should be
+   followed by self-driving cars. They asked millions of people from
+   around the world to weigh in on variations of the classic "trolley
+   problem" by choosing who a car should try to prioritize in an accident.
+   The results show huge variation across different cultures.
+
+   Establishing ethical standards also doesn’t necessarily change
+   behavior. In June, for example, after Google agreed to discontinue its
+   work on Project Maven with the Pentagon, it established a fresh set of
+   ethical principles to guide its involvement in future AI projects. Only
+   months later, many Google employees feel those principles have been
+   placed by the wayside with a bid for a $10 billion Department of
+   Defense contract. A recent study out of North Carolina State University
+   also found that asking software engineers to read a code of ethics does
+   nothing to change their behavior.
+
+   Philip Alston, an international legal scholar at NYU’s School of Law,
+   proposes a solution to the ambiguous and unaccountable nature of
+   ethics: reframing AI-driven consequences in terms of human rights.
+   "[Human rights are] in the constitution," Alston said at the same
+   conference. "They’re in the bill of rights; they’ve been interpreted by
+   courts," he said. If an AI system takes away people’s basic rights,
+   then it should not be acceptable, he said.
+   Philip Alston (NYU School of Law), Virginia Eubanks (University at
+   Albany, SUNY), and Vincent Southerland (Center on Race, Inequality, and
+   the Law at NYU) on stage at the symposium.
+
+   Alston isn’t the only one who has come up with this solution. Less than
+   a week before the Symposium, the Data & Society Research Institute
+   published a proposal for using international human rights to govern AI.
+   The report includes recommendations for tech companies to engage with
+   civil rights groups and researchers, and to conduct human rights impact
+   assessments on the life cycles of their AI systems.
+
+   "Until we start bringing [human rights] into the AI discussion," added
+   Alston, "there’s no hard anchor."
+
+   MIT Technology Review © 2019
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   MIT Technology Review (BUTTON) Menu
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Log in / Create and account
+
+     * Subscribe
+
+     * Sign in
+     * Search
+
+     * ____________________ Submit
+       Click search or press enter
+
+AI Ethics   119 Stories
+
+As algorithms play a bigger role in decisions that affect our lives, concerns
+about bias in artificial intelligence, explainability, and legal
+responsibility have fueled interest in AI ethics.
+
+Artificial Intelligence
+
+Google has released a giant database of deepfakes to help fight deepfakes
+
+     * by Karen Hao
+     * 2019-09-25T05:34:38-04:00
+
+   Screengrab from Putin deepfake
+
+Tech Policy
+
+The world’s top deepfake artist: ‘Wow, this is developing more rapidly than I
+thought.’
+
+   Hao Li sees deepfake technology as moving quickly toward being
+   indistinguishable from reality.
+     * by Patrick Howell O'Neill
+     * 2019-09-18T13:11:46-04:00
+
+   Student at post-it-note-filled whiteboard
+
+Tech Policy
+
+Kids are surrounded by AI. They should know how it works.
+
+   A new curriculum that helps children understand how algorithms are
+   designed will keep them safe and motivate them to help shape the
+   technology’s future.
+     * by Karen Hao
+     * 2019-09-13T10:30:46-04:00
+
+   security cameras
+
+Tech Policy
+
+Most Americans are fine with cops using facial recognition on them
+
+     * by Angela Chen
+     * 2019-09-05T10:00:26-04:00
+
+   An image of the Chinese AI app ZAO
+
+Artificial Intelligence
+
+An AI app that turns you into a movie star has risked the privacy of millions
+
+     * by Karen Hao
+     * 2019-09-04T09:06:15-04:00
+
+   Photo illustration of JFK delivering fake speech
+
+Artificial Intelligence
+
+OpenAI has released the largest version yet of its fake-news-spewing AI
+
+   The AI lab has also released a report to explain why it is releasing
+   the model in increments.
+     * by Karen Hao
+     * 2019-08-29T04:00:08-04:00
+
+   Empty desks
+
+Artificial Intelligence
+
+China’s path to AI domination has a problem: brain drain
+
+     * by Karen Hao
+     * 2019-08-07T13:57:40-04:00
+
+Artificial Intelligence
+
+These companies claim to provide “fair-trade” data work. Do they?
+
+   Companies like CloudFactory, iMerit, and Samasource promise data sets
+   provided by workers who are well paid and cared for. It’s not an easy
+   business.
+     * by Kate Kaye
+     * 2019-08-07T05:00:32-04:00
+
+Tech Policy
+
+Computers can’t tell if you’re happy when you smile
+
+   Emotion recognition is set to be a $25 billion industry, but a new
+   study says the most popular method is deeply flawed.
+     * by Angela Chen
+     * 2019-07-26T11:06:16-04:00
+
+   An image of all the face alterations FaceApp can do: make them smile,
+   meet your future self, look younger, change your style.
+
+Artificial Intelligence
+
+Yes, FaceApp could use your face—but not for face recognition
+
+     * by Karen Hao
+     * 2019-07-19T04:34:13-04:00
+
+   Loading…
+   (BUTTON) More from AI Ethics
+
+   The Download What's important in technology and innovation, delivered
+   to you every day.
+   ____________________ Sign Up
+
+
+   Stay updated on MIT Technology Review initiatives and events?
+     * (*) Yes
+     * ( ) No
+
+   Follow us
+   Twitter Facebook RSS
+
+   MIT Technology Review
+
+   The mission of MIT Technology Review is to bring about better-informed
+   and more conscious decisions about technology through authoritative,
+   influential, and trustworthy journalism.
+
+   Browse
+   International
+   Editions
+     * Lists
+          + 10 Breakthrough Technologies
+          + 35 Innovators Under 35
+          + 50 Smartest Companies
+     * More
+          + Business Lab podcast
+          + Custom content
+     * Company
+          + About us
+          + Advertise with us
+          + Careers
+          + Insights
+          + International editions
+     * Policies
+          + Editorial guidelines
+          + Terms of service
+          + Privacy
+          + Cookie statement
+          + Licensing and syndication
+     * Account and Support
+          + Help and FAQ
+          + Contact us
+          + Sign in / Create an account
+          + Manage your account
+
+   MIT Technology Review © 2019 v.|e^iπ|
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   skip to main content
+   Sign in
+   Subscribe
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Search + Menu
+       ____________________ Submit
+       Sign in
+       Subscribe
+
+Topics
+       Artificial Intelligence
+       Biotechnology
+       Blockchain
+       Climate Change
+       Computing
+       Humans and Technology
+       Tech Policy
+       Silicon Valley
+       Smart Cities
+       Space
+
+Magazine
+       Read the latest issue
+       Read previous issues
+       Subscribe to the magazine
+       Manage your subscription
+       MIT News
+       Special interest publications
+
+Newsletters
+       Daily Briefing
+       Blockchain and Cryptocurrency
+       Artificial Intelligence
+       Future Economy
+       Space
+       Weekend Reads
+       View all newsletters
+
+Events
+       EmTech
+       EmTech Digital
+       EmTech Next
+       Future Compute
+       View events video
+       View all events
+
+Lists
+       10 Breakthrough Technologies
+       35 Innovators Under 35
+       50 Smartest Companies
+
+More
+       Business Lab podcast
+       Custom content
+
+Company
+       About us
+       Advertise with us
+       Careers
+       Insights
+       International editions
+
+Policies
+       Editorial guidelines
+       Terms of service
+       Privacy
+       Cookie statement
+       Licensing and syndication
+
+Account and Support
+       Help and FAQ
+       Contact us
+       Sign in / Create an account
+       Manage your account
+       Follow
+       MIT Technology Review ©2019 v.|e^iπ|
+
+Artificial Intelligence
+
+Getting smart about the future of AI
+
+Artificial intelligence is a primary driver of possibilities and promise as
+the Fourth Industrial Revolution unfolds.
+
+   by MIT Technology Review Insights
+   Feb 20, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+Artificial Intelligence
+
+Getting smart about the future of AI
+
+Artificial intelligence is a primary driver of possibilities and promise as
+the Fourth Industrial Revolution unfolds.
+
+   by MIT Technology Review Insights
+   Feb 20, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+   The Industrial Revolution conjures up images of steam engines, textile
+   mills, and iron workers. This was a defining period during the late
+   18th and early 19th centuries, as society shifted from primarily
+   agrarian to factory-based work. A second phase of rapid
+   industrialization occurred just before World War I, driven by growth in
+   steel and oil production, and the emergence of electricity.
+
+   Fast-forward to the 1980s, when digital electronics started having a
+   deep impact on society—the dawning Digital Revolution. Building on that
+   era is what’s called the Fourth Industrial Revolution. Like its
+   predecessors, it is centered on technological advancements—this time
+   it’s artificial intelligence (AI), autonomous machines, and the
+   internet of things—but now the focus is on how technology will affect
+   society and humanity’s ability to communicate and remain connected.
+
+   “In the first Industrial Revolution, we replaced brawn with steam. In
+   the second, we replaced steam with electricity, and in the third, we
+   introduced computers,” says Guido Jouret, chief digital officer for
+   Swiss industrial corporation ABB. “We’ve had intelligent rule-based
+   systems. What we haven’t had is the equivalent of the human
+   cortex—systems that can learn.”
+
+Getting smart about the future of AI
+
+     * Download the full report
+
+   That’s what AI technologies represent in the current period of
+   technological change. It is now critical to carefully consider the
+   future of AI, what it will look like, the effect it will have on human
+   life, and what challenges and opportunities will arise as it evolves.
+   This story was commissioned by an advertiser and was produced by a
+   dedicated custom content team, not our journalists. Please see our
+   advertising guidelines to learn more.
+   Share
+   Link
+   Author
+
+   MIT Technology Review Insights
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Advertisement
+
+Topics
+
+     * Artificial Intelligence
+     * Biotechnology
+     * Blockchain
+     * Climate Change
+     * Computing
+     * Humans and Technology
+     * Tech Policy
+     * Silicon Valley
+     * Smart Cities
+     * Space
+
+Follow
+
+   Subscribe
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-TRBQMN
+
+   skip to main content
+   Sign in
+   Subscribe
+     * Topics
+          + Artificial Intelligence
+          + Biotechnology
+          + Blockchain
+          + Climate Change
+          + Computing
+          + Humans and Technology
+          + Tech Policy
+          + Silicon Valley
+          + Smart Cities
+          + Space
+     * Magazine
+          + Read the latest issue
+          + Read previous issues
+          + Subscribe to the magazine
+          + Manage your subscription
+          + MIT News
+          + Special interest publications
+     * Newsletters
+          + Daily Briefing
+          + Blockchain and Cryptocurrency
+          + Artificial Intelligence
+          + Future Economy
+          + Space
+          + Weekend Reads
+          + View all newsletters
+     * Events
+          + EmTech
+          + EmTech Digital
+          + EmTech Next
+          + Future Compute
+          + View events video
+          + View all events
+     * Search + Menu
+       ____________________ Submit
+       Sign in
+       Subscribe
+
+Topics
+       Artificial Intelligence
+       Biotechnology
+       Blockchain
+       Climate Change
+       Computing
+       Humans and Technology
+       Tech Policy
+       Silicon Valley
+       Smart Cities
+       Space
+
+Magazine
+       Read the latest issue
+       Read previous issues
+       Subscribe to the magazine
+       Manage your subscription
+       MIT News
+       Special interest publications
+
+Newsletters
+       Daily Briefing
+       Blockchain and Cryptocurrency
+       Artificial Intelligence
+       Future Economy
+       Space
+       Weekend Reads
+       View all newsletters
+
+Events
+       EmTech
+       EmTech Digital
+       EmTech Next
+       Future Compute
+       View events video
+       View all events
+
+Lists
+       10 Breakthrough Technologies
+       35 Innovators Under 35
+       50 Smartest Companies
+
+More
+       Business Lab podcast
+       Custom content
+
+Company
+       About us
+       Advertise with us
+       Careers
+       Insights
+       International editions
+
+Policies
+       Editorial guidelines
+       Terms of service
+       Privacy
+       Cookie statement
+       Licensing and syndication
+
+Account and Support
+       Help and FAQ
+       Contact us
+       Sign in / Create an account
+       Manage your account
+       Follow
+       MIT Technology Review ©2019 v.|e^iπ|
+
+Smart Cities / Self-Driving Cars
+
+Autonomous driving: Safety first
+
+Self-driving vehicle technology has made significant advancements; now there
+needs to be an industry standard for self-driving safely.
+
+   by MIT Technology Review Insights
+   Mar 25, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+Smart Cities / Self-Driving Cars
+
+Autonomous driving: Safety first
+
+Self-driving vehicle technology has made significant advancements; now there
+needs to be an industry standard for self-driving safely.
+
+   by MIT Technology Review Insights
+   Mar 25, 2019
+   Sponsored Content
+
+   Produced in association with Intel
+
+   Safety is of paramount importance for operating autonomous vehicles.
+   That doesn’t mean the safety of just the riders and passengers, but
+   also other vehicles on the road, pedestrians, and bicycle traffic. To
+   gain widespread acceptance, safety issues must be resolved to the full
+   satisfaction of the public. Getting a handle on safety means also
+   taking on a thicket of technological, legal, and philosophical
+   challenges.
+
+Autonomous driving: Safety first
+
+     * Download the full report
+
+   Autonomous vehicles are going to be part of our transportation network.
+   Most industry experts believe it is only a matter of time before
+   they’re plying the roads in increasing numbers. “[Autonomous driving]
+   will come, but it’s not going to be instantaneous,” says Judith
+   Hurwitz, president and CEO of consultancy Hurwitz & Associates.
+   “There’s not enough data yet to test everything and train on
+   everything.”
+
+   Just look at what the major automotive manufacturers are doing. General
+   Motors recently invested $100 million in two manufacturing sites in
+   Michigan to focus on rolling autonomous Cruise AVs off the line. Other
+   major manufacturers, such as Ford, BMW, and Volvo, are similarly
+   interested and invested in autonomous-vehicle programs.
+   This story was commissioned by an advertiser and was produced by a
+   dedicated custom content team, not our journalists. Please see our
+   advertising guidelines to learn more.
+   Share
+   Link
+   TaggedSelf-Driving Cars
+   Author
+
+   MIT Technology Review Insights
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Popular
+     * 01.
+       Google has released a giant database of deepfakes to help fight
+       deepfakes
+     * 02.
+       This Picasso painting had never been seen before. Until a neural
+       network painted it.
+     * 03.
+       Boston Dynamics’ robot dog Spot is going on sale for the first time
+
+   Advertisement
+
+Topics
+
+     * Artificial Intelligence
+     * Biotechnology
+     * Blockchain
+     * Climate Change
+     * Computing
+     * Humans and Technology
+     * Tech Policy
+     * Silicon Valley
+     * Smart Cities
+     * Space
+
+Follow
+
+   Subscribe

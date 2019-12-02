@@ -1,0 +1,1505 @@
+   #publisher
+
+   Thot Cursus (BUTTON) (BUTTON)
+
+        Connexion
+
+     * Se connecter
+     * Créer un compte
+
+        Articles
+
+     * Articles
+     * Dossier de la semaine
+
+        Institutions
+
+     * Toutes
+     * Institutions
+     * Fournisseurs
+     * Organismes
+
+        Formations
+
+     * Formations
+     * Références
+     * Cours
+     * Diplômes
+     * Examen Test
+     * Exerciseurs
+     * Expositions
+     * Guides Manuels
+     * Jeux Simulateurs
+     * Répertoires
+     * Vidéo - Balado - Webdocu
+
+        Technologies
+
+     * Toutes les technologies
+     * Applications
+     * Matériel
+     * Services
+     * Répertoires
+
+        Annonces
+
+     * Toutes les annonces
+     * Événements
+     * Moocs-wébinaires
+     * Brèves
+     * Offres d’emploi
+     * Appels
+
+        Communautés
+
+     * Membres
+     * Institutions
+     * Groupes de lecture
+
+        Listes de lecture
+
+     * Listes de lecture
+
+        Services
+
+     * Abonnements
+     * Promotion
+     * Publicité
+     * Politiques
+     * Qui sommes-nous
+     * RSS
+     * Thot Cursus sur les réseaux
+
+Articles
+
+Le numérique en formation. Oui, mais pour changer quoi ?
+
+Trois analyses de l'utilisation des technologies numériques en formation
+
+   Par Frédéric Duriez, le 14 mars 2017 | Dernière mise à jour de
+   l'article le 12 novembre 2018
+
+   Utiliser les outils numériques en formation, tout le monde le fait.
+   Mais la place que ces outils occupent dans les dispositifs varie
+   énormément. S'agit-il de faire la même chose avec d'autres moyens, ou
+   de construire des situations d'apprentissage que seule la technologie
+   rend possible ? S'agit-il juste de recherches sur Internet, ou les
+   apprenants utilisent-ils la technologie pour produire, collaborer et se
+   motiver ?
+
+   Nous vous présentons trois modèles qui aident à définir le rôle du
+   numérique dans une formation.
+
+L'approche SAMR
+
+   L'approche SAMR de Ruben Puentedura montre que l'adoption des
+   technologies peut prendre différentes significations. On peut se
+   contenter de reproduire avec l'informatique ce que l'on faisait sans.
+   Mais on peut aussi innover, en changeant les rôles entre formateur et
+   formés, en ouvrant la formation sur l'extérieur, ou encore en
+   individualisant.
+
+Substituer
+
+   "Est-ce qu'on innove, ou est-ce qu'on est juste en train de numériser
+   de la formation traditionnelle", se demande Beth Holland dans un
+   article. Utiliser les outils informatiques, ça peut être faire la même
+   chose avec des outils plus modernes et parfois plus coûteux. Parmi les
+   exemples de substitution, on peut citer :
+     * Abandonner le cahier de texte papier pour un cahier de texte
+       numérique. - Ne plus écrire les consignes sur un tableau, mais sur
+       une plateforme commune,
+     * Demander aux élèves de taper leurs écrits et de les envoyer par
+       mail, quand on ramassait des copies il y a quelques années.
+
+    "Les étudiants restent les consommateurs d'un contenu organisé par le
+   professeur, plutôt que de devenir des créateurs de connaissance dans un
+   contexte qu'ils peuvent réellement contrôler" nous dit Beth Holland.
+
+Augmenter
+
+   La technologie va permettre d'augmenter l'efficacité du travail et
+   d'aller plus loin. Le correcteur orthographique, les outils de
+   surlignage ou de mise en page en font partie.
+
+   L'enseignant distribuait trois documents sous forme de photocopies, il
+   installe maintenant des liens vers de nombreuses ressources. Le schéma
+   autrefois statique s'anime sur l'écran. Une retranscription d'une
+   intervention est remplacée par la vidéo de l'événement. C'est plus de
+   la même chose, mais aussi plus esthétique, plus attractif...
+
+   Les élèves répondent à des questions sur leur tablette, et reçoivent un
+   retour immédiat. La correction s'intègre dans le cours.
+
+Modification
+
+   La tâche va être effectuée différemment. Par exemple, plutôt que
+   rédiger une réponse individuelle, on la construit sur une application
+   collaborative, de type framapad ou Google drive. Elle est ensuite
+   commentée en direct par les pairs et par le formateur.
+
+Redéfinition
+
+   L'innovation pédagogique se traduit par une redéfinition des rôles des
+   apprenants et des formateurs ou une manière différente de travailler
+   entre formés, ou encore une ouverture de l'école vers l'extérieur. On
+   change les rôles et les positions, pas juste les situations
+   d'apprentissage.
+
+   À travers des forums, des outils de travail collaboratifs ou des
+   applications de conception partagées, les élèves produisent et
+   coordonnent des parties du cours. Le formateur n'apporte plus
+   l'ensemble des contenus.
+
+   Dans notre exemple, la redéfinition consisterait à construire une
+   réponse collective avec des documents conçus et rédigés par les
+   apprenants, de supports visuels (piktochart, canvas,...) de courtes
+   vidéos, etc.
+
+ASPID
+
+   Thierry Karsenti propose l'acronyme ASPID, pour adoption, substitution,
+   progrès, innovation et détérioration. Son apport ? Montrer qu'il y a un
+   temps d'adoption qui nécessite des efforts, et que parfois, les
+   nouvelles technologies sont synonymes de recul pour la pédagogie !
+
+L'adoption
+
+   L'adoption correspond aux premiers moments de l'utilisation d'outils
+   technologiques dans la classe ou dans la salle de formation. Le temps
+   d'apprentissage pour l'enseignant est une période pendant laquelle il
+   consacrera plus d'efforts pour atteindre un même résultat. Ce temps
+   passé à l'intégration de la technologie se fait aux dépens de
+   l'évaluation ou de la préparation des cours eux-mêmes, et donc au
+   détriment des élèves.
+
+Détérioration ou substitution
+
+   Dans un second temps, le modèle propose deux orientations. Il peut y
+   avoir détérioration : l'utilisation de la technologie ne fait que
+   renforcer les lacunes et les limites de l'enseignement, et la situation
+   est pire pour l'élève. Il peut aussi y avoir substitution : les
+   technologies permettent de faire la même chose, sans qu'il y ait de
+   changement réel pour l'apprenant.
+
+   Le courage et la nouveauté de ce modèle tiennent en ce qu'il admet
+   qu'avec la technologie, les choses peuvent être pire. Contrairement au
+   SAMR qui situe le premier niveau à un statu quo où rien ne change
+   réellement, Thierry Karsenki montre que la technologie peut aussi
+   apporter une moins-value à l'acte d'enseigner.
+
+Progrès et innovation
+
+   Mais l'impact peut être positif, et dans ce cas il y a progrès. La
+   technologie permet de mieux faire, et plus efficacement, ce que l'on
+   faisait précédemment.
+
+   Enfin, il y a innovation lorsque la technologie permet de proposer des
+   activités nouvelles, où les rôles des formateurs et enseignants ne
+   seront plus les mêmes, et qui entrainera un engagement plus important
+   des apprenants.
+
+     Le compte Twitter de Thierry Karsenti attire notre attention sur une
+     webradio à St-Fabien, qui devient une situation d'apprentissage
+     https://t.co/s6sy9pedpw
+
+     Françoise Cahen explique comment elle est passée d'un "spectacle de
+     powerpoint" à un diaporama complété avec le groupe, au fur et à
+     mesure de ses cours de français, puis à l'utilisation de Padlet dans
+     son article : Lecture analytique et vidéoprojection : du
+     diaporama-spectacle à l’interaction collaborative
+
+Le modèle IMAIP
+
+   Le modèle proposé par Marcel Lebrun ne concerne pas directement le
+   processus d'adoption des outils numériques. Il nous ramène à certains
+   principes essentiels en formation. L'acronyme qu'il propose est IMAIP
+   pour information, motivation, activité, interactions, production.
+
+Information
+
+   Dans la formation, des informations sont transmises. Elles ne se
+   confondent pas avec la formation, mais elles font partie de sa matière
+   première.
+
+   Les informations peuvent être apportées par l'enseignant. Elles sont
+   maintenant disponibles aussi via les moteurs de recherche, les outils
+   de curation comme Scoop-it ou Diigo et même les réseaux sociaux. Thot a
+   déjà consacré quelques articles à la veille sur Internet dans le cadre
+   de formation, et à cette compétence devenue essentielle : aborder
+   l'information avec un esprit critique.
+
+Activité
+
+   Mais se former n'est pas simplement rassembler ou indexer de
+   l'information. Il n'y a formation que si cette information est remise
+   en forme, "malaxée" comme le dit Marcel Lebrun. Le numérique n'est pas
+   nécessaire non plus. Les apprenants peuvent très bien produire des
+   schémas, des posters, des dissertations sans écran ni clavier. Mais de
+   nombreux outils permettent aussi de triturer cette information, de se
+   l'approprier et d'agir sur elle. Certains Moocs commencent par demander
+   aux inscrits de créer un blogue. Des apprenants participent à des
+   padlets, créent des visuels sur Piktochart ou Canva. Les outils du TICE
+   regroupent un grand nombre d'applications qui peuvent être utilisées
+   dans des activités d'apprentissage classiques, ou les rendre possibles.
+
+Production
+
+   Enfin, Marcel Lebrun nous parle de la "production". L'activité doit
+   viser une production. On pense au chef d’œuvre des apprentis, qui
+   réalisent des maquettes admirables, et qui peuvent ainsi montrer de
+   quoi ils sont capables. Plus modestement, un film, une présentation de
+   type Prezi, un exposé ou une rédaction sont des productions. Les outils
+   numériques permettent de varier ces réalisations, et parfois de les
+   rendre impressionnantes.
+
+   Mais il ne s'agit pas de demander aux outils de tout résoudre. Marcel
+   Leburn insiste sur l'alignement entre les objectifs, les informations
+   utilisées, les activités et les productions. Cet alignement, cette
+   cohérence sont nécessaires pour qu'il y ait formation.
+
+   Nécessaire, donc, mais pas suffisant. Marcel Lebrun nous dit qu'il faut
+   des "manivelles" pour que l'ensemble fonctionne et que les roues
+   dentées se mettent à tourner. La première manivelle concerne la
+   "motivation". De nombreuses listes existent, et le numérique associé à
+   la ludification a contribué à cette réflexion sur ce qui peut motiver
+   un apprenant.
+
+   Marcel Lebrun nous donne quelques éléments dans un diaporama. Le
+   sentiment de contrôle, la clarté des consignes, la possibilité de
+   collaborer avec d'autres personnes, etc Ici encore, le numérique peut
+   contribuer à développer certains de ces facteurs.
+
+   Autre manivelle : l'interactivité. La possibilité d'interagir et
+   d'échanger. Les outils collaboratifs comme ceux proposés par Framapad
+   ou sur Google Drive.
+
+   Ce modèle peut aider à clarifier la place d'une activité basée sur un
+   outil numérique dans un travail proposé aux apprenants. Il nous
+   rappelle que l'essentiel n'est pas là. Que l'on colle des post-its ou
+   que l'on déplace des éléments virtuels, que l'on produise une carte
+   conceptuelle sur le tableau ou qu'on la réalise sur vue ou Cmap, la
+   différence n'est pas énorme. Mais le numérique peut parfois apporter
+   davantage de collaboration, de sentiment de maîtrise, et aider à
+   produire des réalisations dont les apprenants seront fiers !
+
+    Illustrations : Frédéric Duriez
+
+Ressources
+
+   Econocom Education et SAMR, un modèle pour intégrer les TICE publié le
+   25 avril 2015, consulté le 12 mars 2017
+   https://blog.econocom.com/blog/education-et-samr-un-modele-pour-integre
+   r-les-tice/
+
+   Beth Holland - Edutopia "Are we innovating or just digitizing
+   traditional teaching ? mis en ligne le 22 février 2017 consulté le 12
+   mars 2017
+   https://www.edutopia.org/article/are-we-innovating-or-just-digitizing-t
+   raditional-teaching-beth-holland
+
+   Christine Vaufrey Ici et ailleurs : le panorama des innovations
+   pédagogiques enregistré en 2016, consulté le 12 mars 2017
+   https://youtu.be/I7DjLVriaEE
+
+   Françoise Cahen Lecture analytique et vidéoprojection du diaporama mars
+   2017
+   http://litmedmod.ca/lecture-analytique-et-videoprojection-du-diaporama-
+   spectacle-linteraction-collaborative
+
+   Christophe Batier et Marcel Lebrun : Causerie sur le modèle pragmatique
+   pour favoriser les apprentissages. vidéo mise en ligne en 2011 et
+   consultée le 13 mars 2017
+
+   Marcel Lebrun : le modèle IMAIP, coopérer et s'entraider par le
+   numérique mis en ligne en 2015, consulté le 13 mars 2017
+   http://www.slideshare.net/lebrun/le-modle-imaip-cooprer-et-sentraider-p
+   ar-le-numrique
+
+   Voir plus d'articles de cet auteur
+
+Sujets
+
+     * Enseignement - Didactique - Pédagogie
+     * Conception de cours
+     * Technologies en éducation
+     * Utilisation des TICE au primaire et au secondaire
+
+Mots clés
+
+     * Activités Numériques
+     * Appprentissages par les TICE
+     * Fait
+     * Formation
+     * IMAIP
+     * Outils
+     * SAMR
+     * Technologie
+     * Tout le monde
+
+Vous pourriez aussi aimer
+
+     *
+
+Formation d'écrivain animateur d'ateliers d'écriture (e-learning)
+       Cette formation à distance comprend l'acquisition des fondamentaux
+       pédagogiques, des outils d'analyse et de compréhension de ces
+       approches particulières de l'écrit. Un tutorat guidera le stagiaire
+       afin de mettre en oeuvre un atelier d'écriture original, de la
+       conception à sa commercialisation.
+     *
+
+Formez-vous au webmarketing pour moins de 100€
+       Gérant de TPE/PME, profession libérale, créateur d'entreprise,
+       formez-vous au marketing sur Internet sans vous ruiner et sans
+       perdre de temps. Apprenez à utiliser les principaux outils du Web
+       Marketing : Facebook, Google, Linkedin et le site Internet
+     *
+
+Stabilisateur vidéo professionnel pour caméra de portable
+       Changer le statut de vos vidéos !   Si vous produisez fréquemment
+       des vidéos de formation «in situ», ce genre de stabilisateur permet
+       d’augmenter systématiquement la qualité des productions et ainsi se
+       démarquer de la concurrence. Appelé «Gimbal» la base de ce système
+       opère comme un cardan avec l’avantage supplémentaire de pouvoir
+       être orienté dans la direction désirée et même de se bloquer sur
+       une cible et à la suivre indépendamment du mouvement de la caméra
+       ou de la cible.
+     *
+
+Diplôme d’Université Concevoir un dispositif de Formation à Distance
+       Ce DU, peut être qualifié, selon les typologies reconnues, de
+       formation hybride. Il est basé sur le référentiel qui proposent
+       tous : des temps de regroupement qui incorporent notamment de la
+       visioconférence, des temps de travail individuel sur la plateforme
+       de formation de l’Université avec un accompagnement de tuteurs, des
+       temps de regroupement distants mais synchrones.
+     *
+
+Méthodes de l'enquête qualitative appliquée à la gestion des ressources
+naturelles
+       Cette formation prépare à la réalisation d'enquêtes qualitatives
+       utilisées en sciences humaines en complément d'autres méthodes
+       d'enquêtes : depuis la construction de la problématique jusqu'au
+       traitement et à l'interprétation des données, en passant par la
+       conception et la conduite des entretiens semi-directifs.
+
+     *
+         ______________________________________________________________
+
+       Demandez votre extrait d'acte de naissance en ligne
+       Effectuez une demande d'extrait d'acte de naissance en ligne!
+         ______________________________________________________________
+
+   © 2019 Thot Cursus. Tous droits réservés.
+   #publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WQX772B
+
+   [ ]
+   logo
+
+     * (BUTTON) Connexion
+       Mon
+       Compte
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Se connecter
+          + Créer un compte
+     * (BUTTON) Articles
+       Menu
+       Articles
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Articles
+          + Dossier de la semaine
+     * (BUTTON) Institutions
+       Menu
+       Institutions
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Toutes
+          + Institutions
+          + Fournisseurs
+          + Organismes
+     * (BUTTON) Formations
+       Menu
+       Formations
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Formations
+          + Références
+          + Cours
+          + Diplômes
+          + Examen Test
+          + Exerciseurs
+          + Expositions
+          + Guides Manuels
+          + Jeux Simulateurs
+          + Répertoires
+          + Vidéo - Balado - Webdocu
+     * (BUTTON) Technologies
+       Menu
+       Technologies
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Toutes les technologies
+          + Applications
+          + Matériel
+          + Services
+          + Répertoires
+     * (BUTTON) Annonces
+       Menu
+       Annonces
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Toutes les annonces
+          + Événements
+          + Moocs-wébinaires
+          + Brèves
+          + Offres d’emploi
+          + Appels
+     * (BUTTON) Communautés
+       Menu
+       Communautés
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Membres
+          + Institutions
+          + Groupes de lecture
+     * (BUTTON) Listes de lecture
+       Menu
+       Listes de lecture
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Listes de lecture
+     * (BUTTON) Services
+       Menu
+       Services
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Abonnements
+          + Promotion
+          + Publicité
+          + Politiques
+          + Qui sommes-nous
+          + RSS
+          + Thot Cursus sur les réseaux
+
+   logo
+   [INS: :INS]
+
+Articles
+
+Le numérique en formation. Oui, mais pour changer quoi ?
+
+Trois analyses de l'utilisation des technologies numériques en formation
+
+   Par Frédéric Duriez , le 14 mars 2017 | Dernière mise à jour de
+   l'article le 12 novembre 2018
+     * (BUTTON) Liste de lecture
+     * Partager
+     * (BUTTON) Recherche
+
+   Utiliser les outils numériques en formation, tout le monde le fait.
+   Mais la place que ces outils occupent dans les dispositifs varie
+   énormément. S'agit-il de faire la même chose avec d'autres moyens, ou
+   de construire des situations d'apprentissage que seule la technologie
+   rend possible ? S'agit-il juste de recherches sur Internet, ou les
+   apprenants utilisent-ils la technologie pour produire, collaborer et se
+   motiver ?
+
+   Nous vous présentons trois modèles qui aident à définir le rôle du
+   numérique dans une formation.
+
+L'approche SAMR
+
+   L'approche SAMR de Ruben Puentedura montre que l'adoption des
+   technologies peut prendre différentes significations. On peut se
+   contenter de reproduire avec l'informatique ce que l'on faisait sans.
+   Mais on peut aussi innover, en changeant les rôles entre formateur et
+   formés, en ouvrant la formation sur l'extérieur, ou encore en
+   individualisant.
+
+Substituer
+
+   "Est-ce qu'on innove, ou est-ce qu'on est juste en train de numériser
+   de la formation traditionnelle", se demande Beth Holland dans un
+   article. Utiliser les outils informatiques, ça peut être faire la même
+   chose avec des outils plus modernes et parfois plus coûteux. Parmi les
+   exemples de substitution, on peut citer :
+     * Abandonner le cahier de texte papier pour un cahier de texte
+       numérique. - Ne plus écrire les consignes sur un tableau, mais sur
+       une plateforme commune,
+     * Demander aux élèves de taper leurs écrits et de les envoyer par
+       mail, quand on ramassait des copies il y a quelques années.
+
+    "Les étudiants restent les consommateurs d'un contenu organisé par le
+   professeur, plutôt que de devenir des créateurs de connaissance dans un
+   contexte qu'ils peuvent réellement contrôler" nous dit Beth Holland.
+
+Augmenter
+
+   La technologie va permettre d'augmenter l'efficacité du travail et
+   d'aller plus loin. Le correcteur orthographique, les outils de
+   surlignage ou de mise en page en font partie.
+
+   L'enseignant distribuait trois documents sous forme de photocopies, il
+   installe maintenant des liens vers de nombreuses ressources. Le schéma
+   autrefois statique s'anime sur l'écran. Une retranscription d'une
+   intervention est remplacée par la vidéo de l'événement. C'est plus de
+   la même chose, mais aussi plus esthétique, plus attractif...
+
+   Les élèves répondent à des questions sur leur tablette, et reçoivent un
+   retour immédiat. La correction s'intègre dans le cours.
+
+Modification
+
+   La tâche va être effectuée différemment. Par exemple, plutôt que
+   rédiger une réponse individuelle, on la construit sur une application
+   collaborative, de type framapad ou Google drive. Elle est ensuite
+   commentée en direct par les pairs et par le formateur.
+
+   synthese du modèle SAMR
+
+Redéfinition
+
+   L'innovation pédagogique se traduit par une redéfinition des rôles des
+   apprenants et des formateurs ou une manière différente de travailler
+   entre formés, ou encore une ouverture de l'école vers l'extérieur. On
+   change les rôles et les positions, pas juste les situations
+   d'apprentissage.
+
+   À travers des forums, des outils de travail collaboratifs ou des
+   applications de conception partagées, les élèves produisent et
+   coordonnent des parties du cours. Le formateur n'apporte plus
+   l'ensemble des contenus.
+
+   Dans notre exemple, la redéfinition consisterait à construire une
+   réponse collective avec des documents conçus et rédigés par les
+   apprenants, de supports visuels (piktochart, canvas,...) de courtes
+   vidéos, etc.
+
+ASPID
+
+   Thierry Karsenti propose l'acronyme ASPID, pour adoption, substitution,
+   progrès, innovation et détérioration. Son apport ? Montrer qu'il y a un
+   temps d'adoption qui nécessite des efforts, et que parfois, les
+   nouvelles technologies sont synonymes de recul pour la pédagogie !
+
+L'adoption
+
+   L'adoption correspond aux premiers moments de l'utilisation d'outils
+   technologiques dans la classe ou dans la salle de formation. Le temps
+   d'apprentissage pour l'enseignant est une période pendant laquelle il
+   consacrera plus d'efforts pour atteindre un même résultat. Ce temps
+   passé à l'intégration de la technologie se fait aux dépens de
+   l'évaluation ou de la préparation des cours eux-mêmes, et donc au
+   détriment des élèves.
+
+Détérioration ou substitution
+
+   Dans un second temps, le modèle propose deux orientations. Il peut y
+   avoir détérioration : l'utilisation de la technologie ne fait que
+   renforcer les lacunes et les limites de l'enseignement, et la situation
+   est pire pour l'élève. Il peut aussi y avoir substitution : les
+   technologies permettent de faire la même chose, sans qu'il y ait de
+   changement réel pour l'apprenant.
+
+   Le courage et la nouveauté de ce modèle tiennent en ce qu'il admet
+   qu'avec la technologie, les choses peuvent être pire. Contrairement au
+   SAMR qui situe le premier niveau à un statu quo où rien ne change
+   réellement, Thierry Karsenki montre que la technologie peut aussi
+   apporter une moins-value à l'acte d'enseigner.
+
+Progrès et innovation
+
+   Mais l'impact peut être positif, et dans ce cas il y a progrès. La
+   technologie permet de mieux faire, et plus efficacement, ce que l'on
+   faisait précédemment.
+
+   Enfin, il y a innovation lorsque la technologie permet de proposer des
+   activités nouvelles, où les rôles des formateurs et enseignants ne
+   seront plus les mêmes, et qui entrainera un engagement plus important
+   des apprenants.
+
+     Le compte Twitter de Thierry Karsenti attire notre attention sur une
+     webradio à St-Fabien, qui devient une situation d'apprentissage
+     https://t.co/s6sy9pedpw
+
+     Françoise Cahen explique comment elle est passée d'un "spectacle de
+     powerpoint" à un diaporama complété avec le groupe, au fur et à
+     mesure de ses cours de français, puis à l'utilisation de Padlet dans
+     son article : Lecture analytique et vidéoprojection : du
+     diaporama-spectacle à l’interaction collaborative
+
+Le modèle IMAIP
+
+   Le modèle proposé par Marcel Lebrun ne concerne pas directement le
+   processus d'adoption des outils numériques. Il nous ramène à certains
+   principes essentiels en formation. L'acronyme qu'il propose est IMAIP
+   pour information, motivation, activité, interactions, production.
+
+Information
+
+   Dans la formation, des informations sont transmises. Elles ne se
+   confondent pas avec la formation, mais elles font partie de sa matière
+   première.
+
+   Les informations peuvent être apportées par l'enseignant. Elles sont
+   maintenant disponibles aussi via les moteurs de recherche, les outils
+   de curation comme Scoop-it ou Diigo et même les réseaux sociaux. Thot a
+   déjà consacré quelques articles à la veille sur Internet dans le cadre
+   de formation, et à cette compétence devenue essentielle : aborder
+   l'information avec un esprit critique.
+
+Activité
+
+   Mais se former n'est pas simplement rassembler ou indexer de
+   l'information. Il n'y a formation que si cette information est remise
+   en forme, "malaxée" comme le dit Marcel Lebrun. Le numérique n'est pas
+   nécessaire non plus. Les apprenants peuvent très bien produire des
+   schémas, des posters, des dissertations sans écran ni clavier. Mais de
+   nombreux outils permettent aussi de triturer cette information, de se
+   l'approprier et d'agir sur elle. Certains Moocs commencent par demander
+   aux inscrits de créer un blogue. Des apprenants participent à des
+   padlets, créent des visuels sur Piktochart ou Canva. Les outils du TICE
+   regroupent un grand nombre d'applications qui peuvent être utilisées
+   dans des activités d'apprentissage classiques, ou les rendre possibles.
+
+Production
+
+   Enfin, Marcel Lebrun nous parle de la "production". L'activité doit
+   viser une production. On pense au chef d’œuvre des apprentis, qui
+   réalisent des maquettes admirables, et qui peuvent ainsi montrer de
+   quoi ils sont capables. Plus modestement, un film, une présentation de
+   type Prezi, un exposé ou une rédaction sont des productions. Les outils
+   numériques permettent de varier ces réalisations, et parfois de les
+   rendre impressionnantes.
+
+   SAMR - Marcel Lebrun - 3 éléments
+
+   Mais il ne s'agit pas de demander aux outils de tout résoudre. Marcel
+   Leburn insiste sur l'alignement entre les objectifs, les informations
+   utilisées, les activités et les productions. Cet alignement, cette
+   cohérence sont nécessaires pour qu'il y ait formation.
+
+   alignement - modèle SAMR - Marcel Lebrun
+
+   Nécessaire, donc, mais pas suffisant. Marcel Lebrun nous dit qu'il faut
+   des "manivelles" pour que l'ensemble fonctionne et que les roues
+   dentées se mettent à tourner. La première manivelle concerne la
+   "motivation". De nombreuses listes existent, et le numérique associé à
+   la ludification a contribué à cette réflexion sur ce qui peut motiver
+   un apprenant.
+
+   les manivelles du IMAIP
+
+   Marcel Lebrun nous donne quelques éléments dans un diaporama. Le
+   sentiment de contrôle, la clarté des consignes, la possibilité de
+   collaborer avec d'autres personnes, etc Ici encore, le numérique peut
+   contribuer à développer certains de ces facteurs.
+
+   Marcel Lebrun -IMAIP - motivation
+
+   Autre manivelle : l'interactivité. La possibilité d'interagir et
+   d'échanger. Les outils collaboratifs comme ceux proposés par Framapad
+   ou sur Google Drive.
+
+   Ce modèle peut aider à clarifier la place d'une activité basée sur un
+   outil numérique dans un travail proposé aux apprenants. Il nous
+   rappelle que l'essentiel n'est pas là. Que l'on colle des post-its ou
+   que l'on déplace des éléments virtuels, que l'on produise une carte
+   conceptuelle sur le tableau ou qu'on la réalise sur vue ou Cmap, la
+   différence n'est pas énorme. Mais le numérique peut parfois apporter
+   davantage de collaboration, de sentiment de maîtrise, et aider à
+   produire des réalisations dont les apprenants seront fiers !
+
+    Illustrations : Frédéric Duriez
+
+Ressources
+
+   Econocom Education et SAMR, un modèle pour intégrer les TICE publié le
+   25 avril 2015, consulté le 12 mars 2017
+   https://blog.econocom.com/blog/education-et-samr-un-modele-pour-integre
+   r-les-tice/
+
+   Beth Holland - Edutopia "Are we innovating or just digitizing
+   traditional teaching ? mis en ligne le 22 février 2017 consulté le 12
+   mars 2017
+   https://www.edutopia.org/article/are-we-innovating-or-just-digitizing-t
+   raditional-teaching-beth-holland
+
+   Christine Vaufrey Ici et ailleurs : le panorama des innovations
+   pédagogiques enregistré en 2016, consulté le 12 mars 2017
+   https://youtu.be/I7DjLVriaEE
+
+   Françoise Cahen Lecture analytique et vidéoprojection du diaporama mars
+   2017
+   http://litmedmod.ca/lecture-analytique-et-videoprojection-du-diaporama-
+   spectacle-linteraction-collaborative
+
+   Christophe Batier et Marcel Lebrun : Causerie sur le modèle pragmatique
+   pour favoriser les apprentissages. vidéo mise en ligne en 2011 et
+   consultée le 13 mars 2017
+
+   Marcel Lebrun : le modèle IMAIP, coopérer et s'entraider par le
+   numérique mis en ligne en 2015, consulté le 13 mars 2017
+   http://www.slideshare.net/lebrun/le-modle-imaip-cooprer-et-sentraider-p
+   ar-le-numrique
+     *
+
+       IFRAME:
+       https://www.facebook.com/plugins/like.php?app_id=185405388177653&hr
+       ef=https%3A%2F%2Fcursus.edu%2Farticles%2F36985%2Fle-numerique-en-fo
+       rmation-oui-mais-pour-changer-quoi&send=false&layout=button_count&w
+       idth=450&show_faces=false&action=like&colorscheme=light&font&height
+       =21
+
+     *
+
+       IFRAME:
+       https://platform.twitter.com/widgets/tweet_button.5069e7f3e4e64c1f4
+       fb5d33d0b653ff6.fr.html#dnt=false&id=twitter-widget-0&lang=fr&origi
+       nal_referer=https%3A%2F%2Fcursus.edu%2Farticles%2F36985%2Fle-numeri
+       que-en-formation-oui-mais-pour-changer-quoi&size=m&text=Le
+       num%C3%A9rique en formation. Oui, mais pour changer quoi
+       ?&time=1511276420031&type=share&url=https%3A%2F%2Fcursus.edu%2Farti
+       cles%2F36985%2Fle-numerique-en-formation-oui-mais-pour-changer-quoi
+
+     * (BUTTON) Liste de lecture
+     * Partager
+     * (BUTTON) Recherche
+     * Suivre le fil RSS
+
+   Enseignement - Didactique - Pédagogie Conception de cours Technologies
+   en éducation Utilisation des TICE au primaire et au secondaire
+     * Activités Numériques
+     * Appprentissages par les TICE
+     * Fait
+     * Formation
+     * IMAIP
+     * Outils
+     * SAMR
+     * Technologie
+     * Tout le monde
+
+Avez-vous apprécié cette page?
+
+   (*) ( ) ( ) ( ) ( )
+
+   Voir plus d'articles de cet auteur
+
+     * [INS: :INS]
+
+Vous pourriez aussi aimer
+
+     * Formation d'écrivain animateur d'ateliers d'écriture (e-learning)
+       Cette formation à distance comprend l'acquisition des fondamentaux
+       pédagogiques, des outils d'analyse et de compréhension de ces
+       approches particulières de l'écrit. Un tutorat guidera le stagiaire
+       afin de mettre en oeuvre un atelier d'écriture original, de la
+       conception à sa commercialisation.
+     * Formez-vous au webmarketing pour moins de 100€
+       Gérant de TPE/PME, profession libérale, créateur d'entreprise,
+       formez-vous au marketing sur Internet sans vous ruiner et sans
+       perdre de temps. Apprenez à utiliser les principaux outils du Web
+       Marketing : Facebook, Google, Linkedin et le site Internet
+     * Stabilisateur vidéo professionnel pour caméra de portable
+       Changer le statut de vos vidéos !   Si vous produisez fréquemment
+       des vidéos de formation «in situ», ce genre de stabilisateur permet
+       d’augmenter systématiquement la qualité des productions et ainsi se
+       démarquer de la concurrence. Appelé «Gimbal» la base de ce système
+       opère comme un cardan avec l’avantage supplémentaire de pouvoir
+       être orienté dans la direction désirée et même de se bloquer sur
+       une cible et à la suivre indépendamment du mouvement de la caméra
+       ou de la cible.
+     * Diplôme d’Université Concevoir un dispositif de Formation à
+       Distance
+       Ce DU, peut être qualifié, selon les typologies reconnues, de
+       formation hybride. Il est basé sur le référentiel qui proposent
+       tous : des temps de regroupement qui incorporent notamment de la
+       visioconférence, des temps de travail individuel sur la plateforme
+       de formation de l’Université avec un accompagnement de tuteurs, des
+       temps de regroupement distants mais synchrones.
+     * Méthodes de l'enquête qualitative appliquée à la gestion des
+       ressources naturelles
+       Cette formation prépare à la réalisation d'enquêtes qualitatives
+       utilisées en sciences humaines en complément d'autres méthodes
+       d'enquêtes : depuis la construction de la problématique jusqu'au
+       traitement et à l'interprétation des données, en passant par la
+       conception et la conduite des entretiens semi-directifs.
+
+     *
+         ______________________________________________________________
+
+       Demandez votre extrait d'acte de naissance en ligne
+       Effectuez une demande d'extrait d'acte de naissance en ligne!
+         ______________________________________________________________
+
+Suivre ses mots-clés
+
+   (BUTTON) ×
+   [X] Enseignement - Didactique - Pédagogie [X] Conception de cours [X]
+   Technologies en éducation [X] Utilisation des TICE au primaire et au
+   secondaire [X] Activités Numériques [X] Appprentissages par les TICE
+   [X] Fait [X] Formation [X] IMAIP [X] Outils [X] SAMR [X] Technologie
+   [X] Tout le monde
+     __________________________________________________________________
+
+Ajouter à une liste de lecture
+
+   (BUTTON) ×
+
+Vos listes de lecture
+
+   Vous devez vous connecter pour pouvoir ajouter à une liste de lecture
+   Se connecter
+
+Voulez-vous suivre cette liste de lecture
+
+   (BUTTON) ×
+
+   Vous devez vous connecter pour pouvoir vous abonner à une liste de
+   lecture
+   Se connecter
+
+Accédez à des services exclusifs gratuitement
+
+Inscrivez-vous et recevez des infolettres sur :
+
+     * Les cours
+     * Les ressources d’apprentissage
+     * Le dossier de la semaine
+     * Les événements
+     * Les technologies
+
+   De plus, indexez vos ressources préférées dans vos propres dossiers et
+   retrouvez votre historique de consultation.
+   M’abonner
+   Je suis déja abonné
+   #publisher
+
+   Thot Cursus (BUTTON) (BUTTON)
+
+        Connexion
+
+     * Se connecter
+     * Créer un compte
+
+        Articles
+
+     * Articles
+     * Dossier de la semaine
+
+        Institutions
+
+     * Toutes
+     * Institutions
+     * Fournisseurs
+     * Organismes
+
+        Formations
+
+     * Formations
+     * Références
+     * Cours
+     * Diplômes
+     * Examen Test
+     * Exerciseurs
+     * Expositions
+     * Guides Manuels
+     * Jeux Simulateurs
+     * Répertoires
+     * Vidéo - Balado - Webdocu
+
+        Technologies
+
+     * Toutes les technologies
+     * Applications
+     * Matériel
+     * Services
+     * Répertoires
+
+        Annonces
+
+     * Toutes les annonces
+     * Événements
+     * Moocs-wébinaires
+     * Brèves
+     * Offres d’emploi
+     * Appels
+
+        Communautés
+
+     * Membres
+     * Institutions
+     * Groupes de lecture
+
+        Listes de lecture
+
+     * Listes de lecture
+
+        Services
+
+     * Abonnements
+     * Promotion
+     * Publicité
+     * Politiques
+     * Qui sommes-nous
+     * RSS
+     * Thot Cursus sur les réseaux
+
+Articles
+
+Évaluer les apprentissages ou évaluer POUR apprendre ?
+
+Faire de l'évaluation un échange avec l'élève
+
+   Par Frédéric Duriez, le 12 juin 2017 | Dernière mise à jour de
+   l'article le 19 juin 2017
+
+   Les évaluations, leurs outils, leurs méthodes, leur efficacité sont
+   régulièrement remises en question. Elles sont au coeur de nombreux
+   débats même si les échanges de pratique entre collègues sont limités.
+
+   Dans une série d'articles, de vidéos et d'animations, François Muller
+   nous propose de passer à une évaluation plus utile, plus vivante et
+   plus stimulante, qui ferait intégralement partie des apprentissages.
+   Une évaluation POUR apprendre.
+
+   Les notes ne font pas de musique
+
+   Le constat est assez sombre. Un proviseur a compté 90 000 notes
+   attribuées dans son établissement de 600 élèves. Les notes envahissent
+   l'espace scolaire, et le temps passé à évaluer est plus important que
+   le temps passé à concevoir des formations. Les effets sur l'image de
+   soi, sur le plaisir d'apprendre, et même sur le plaisir d'enseigner
+   sont néfastes. Parents et élèves y sont très attachés. "C'est noté ?"
+   demandent souvent les élèves pour savoir s'ils doivent s'investir dans
+   l'activité proposée.
+
+   Dans un article de 1998, Paul Black et Dylan Wiliam exposaient des
+   critiques très proches. Ils notaient qu'obtenir de bons résultats, de
+   bonnes notes était le premier objectif, avant celui d'apprendre.
+   L'élève qui a de mauvais résultats va se mettre en retrait des
+   activités scolaires, et chercher un sentiment d'estime de soi dans une
+   autre activité".
+
+   François Muller ne prétend pas supprimer les notes et les évaluations
+   "sommatives" ou les contrôles. Il propose cependant d'élargir la
+   palette et de laisser une place aux évaluations POUR l'apprentissage.
+
+   Nous n'avons pas tous la même forme d'intelligence ou le même profil
+   d'apprentissage et nous n'utilisons pas les mêmes techniques. Plus
+   encore, nous ne partageons pas les mêmes objectifs. Une note ne rend
+   pas compte des compétences mises en oeuvre pour obtenir un résultat.
+   Qu'à cela ne tienne. Il suffit d'y ajouter un  commentaire !
+
+   François Muller reste sceptique : un élève qui a une mauvaise note
+   reste figé sur ce résultat, et n'est plus du tout disposé à lire les
+   commentaires. Celui qui a un résultat qui le satisfait ne les lit pas
+   toujours non plus...
+
+   Alors, pourquoi ne pas faire de l'évaluation un dialogue ? Le formateur
+   peut formuler quelques remarques, mais surtout inviter l'élève à
+   produire une réponse... "Comment arrives-tu à cette conclusion",
+   "Peux-tu donner un autre exemple ?". Et les nouvelles technologies, en
+   particulier les outils collaboratifs (framapad, google drive...)
+   peuvent faciliter ces échanges. François Jourde, professeur de
+   philosophie utilise les outils numériques collaboratifs de Framasoft et
+   Google pour organiser une évaluation conversationnelle.
+
+   François Muller nous invite à proposer des évaluations bienveillantes.
+   Ces évaluations apprécient la progression et le cheminement de
+   l'apprenant plus qu'elles ne donnent une image de son "niveau".
+
+   Concrètement, l'enseignant peut utiliser la méthode du sandwich. Il
+   s'agit de commencer par un point fort, de poursuivre par une piste de
+   progrès, puis par des indications de méthodes ou d'étapes pour préciser
+   le moyen de réaliser ce progrès. Certains proposent même de donner
+   trois points forts pour une piste de progrès ! Il faut bien entendu
+   éviter les écritures trop automatiques, mais le "sandwich" nous
+   rappelle que le professeur doit être vigilant à l'impact que peuvent
+   avoir certaines remarques sur l'estime de soi des élèves.
+
+   Parmi les autres pistes, François Muller nous encourage à développer
+   les auto-évaluations et l'évaluation par les pairs. Les deux approches
+   passent par une appropriation des objectifs et des critères par les
+   élèves. Pour Black et Wiliam, l'auto-évaluation aide à définir
+   l'objectif, à se situer, et à présenter une stratégie pour rapprocher
+   sa position de l'objectif.
+
+   Cette synthèse rapide et ces quelques dessins sont loin d'épuiser les
+   pistes que François Muller développe dans ses articles. Nous vous
+   proposons de découvrir le prezi qu'il a conçu pour approfondir cet
+   article.
+
+   Illustrations : Frédéric Duriez
+
+   Ressources
+
+   Animation et éducation - Évaluation, comment valoriser les élèves ?
+   mai 2014 consulté le 11 juin 2017
+   http://animeduc.occe.coop/spip.php?page=presentation_revue&id=240
+
+   François Muller - "Evaluer pour les apprentissages, ça marche" Prezi
+   publié en septembre 2016, consulté le 11 juin 2017
+   https://prezi.com/fbn4fsgi1qys/evaluer-pour-les-apprentissages-ca-march
+   e/
+
+   François Muller -"évaluer pour les apprentissages, ça marche - mode
+   d'emploi" mis en ligne le 17 février 2014, consulté le 11 juin 2O17
+   http://www.lepetitjournaldesprofs.com/diversifier/2014/02/17/evaluer-po
+   ur-les-apprentissages-ca-marche-mode-demploi-video/
+
+   De Ketele Jean-Marie, « Ne pas se tromper d'évaluation », Revue
+   française de linguistique appliquée, 2010/1 (Vol. XV), p. 25-37. URL :
+   http://www.cairn.info/revue-francaise-de-linguistique-appliquee-2010-1-
+   page-25.htm
+
+   François Jourde Des lettres d'auto-évaluation pour une évaluation
+   conversationnelle - educavox mis en ligne le 6 juin 2017, consulté le 9
+   juin 2017
+   http://www.educavox.fr/innovation/pedagogie/des-lettres-d-auto-evaluati
+   on-pour-une-evaluation-conversationnelle
+
+   Paul Black Dylan Wiliam : Inside the black box, raising standards
+   through classroom assessment 1998
+   http://www.rdc.udel.edu/wp-content/uploads/2015/04/InsideBlackBox.pdf
+
+   Voir plus d'articles de cet auteur
+
+Sujets
+
+     * Évaluation - Reconnaissance des acquis
+     * Enseignement - Didactique - Pédagogie
+     * Tutorat - Soutien aux études
+
+Mots clés
+
+     * Notes
+     * Évaluation
+     * Évaluation Par Les Pairs
+     * Bienveillance
+     * Auto-Évaluation
+     * Efficacité
+     * Évaluations
+     * Francois Muller
+     * Méthodes
+     * Outils
+     * question
+
+Vous pourriez aussi aimer
+
+     *
+
+La gestion des sols pollués
+       Ce module complet de 30 heures sur la gestion des sols pollués
+       comprend l'identification, la mesure et l'analyse des pollutions,
+       les méthodes d'analyse, d'évaluation et de traitement.
+     *
+
+Biodiversité et société en région méditerranéenne
+       Cette ressource a pour objectif d'explorer la dynamique et le
+       fonctionnement des principaux (socio)écosystèmes méditerranéens,
+       d'expliciter les impacts des changements globaux actuels sur ces
+       socio-écosystèmes, et de présenter les principaux outils,
+       stratégies et méthodes de préservation de la biodiversité et du
+       fonctionnement des socio-écosystèmes méditerranéens à l'aide de
+       questions clés posées à des spécialistes reconnus de leurs domaines
+       respectifs.
+     *
+
+Apprendre à lire et écrire avec des cartes-mot
+       Un jeu pour apprendre à lire à partir de cartes-lettres et de
+       cartes-mots. Phonologie, lecture, écriture manuelle, orthographe
+       des mots, conjugaison, vocabulaire, autant de discipline que ce jeu
+       permet de réviser tout en développant la créativité de vos élèves.
+     *
+
+Créer une évaluation en temps réel avec ToReply
+       Formateurs, enseignants, conférenciers... Il nous arrive parfois de
+       vouloir sonder le public afin de connaître leur avis. Prévu ou pas,
+       nous le faisons en posant une question oralement et le public de
+       répondre en levant le doigt. L'application ToReply permet de
+       faciliter cet exercice de façon gratuite et facile.
+     *
+
+Évaluer professionnellement la qualité et le rendement des formations
+       Produire et administrer de bons questionnaires est une souvent
+       perçu comme une corvée alors que l’important est de réaliser la
+       formation... Pourtant, dépasser le niveau des simples réactions des
+       apprenants est essentiel au processus de formation. Seules 20 % des
+       entreprises se rendent à des évaluations de niveau 4, c’est à dire
+       en rapport avec des effets sur le rendement. Il y a donc des
+       progrès possibles. Cet outil permet d'y parvenir.
+
+     *
+         ______________________________________________________________
+
+       Demandez votre extrait d'acte de naissance en ligne
+       Effectuez une demande d'extrait d'acte de naissance en ligne!
+         ______________________________________________________________
+
+   © 2019 Thot Cursus. Tous droits réservés.
+   #publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WQX772B
+
+   [ ]
+   logo
+
+     * (BUTTON) Connexion
+       Mon
+       Compte
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Se connecter
+          + Créer un compte
+     * (BUTTON) Articles
+       Menu
+       Articles
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Articles
+          + Dossier de la semaine
+     * (BUTTON) Institutions
+       Menu
+       Institutions
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Toutes
+          + Institutions
+          + Fournisseurs
+          + Organismes
+     * (BUTTON) Formations
+       Menu
+       Formations
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Formations
+          + Références
+          + Cours
+          + Diplômes
+          + Examen Test
+          + Exerciseurs
+          + Expositions
+          + Guides Manuels
+          + Jeux Simulateurs
+          + Répertoires
+          + Vidéo - Balado - Webdocu
+     * (BUTTON) Technologies
+       Menu
+       Technologies
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Toutes les technologies
+          + Applications
+          + Matériel
+          + Services
+          + Répertoires
+     * (BUTTON) Annonces
+       Menu
+       Annonces
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Toutes les annonces
+          + Événements
+          + Moocs-wébinaires
+          + Brèves
+          + Offres d’emploi
+          + Appels
+     * (BUTTON) Communautés
+       Menu
+       Communautés
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Membres
+          + Institutions
+          + Groupes de lecture
+     * (BUTTON) Listes de lecture
+       Menu
+       Listes de lecture
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Listes de lecture
+     * (BUTTON) Services
+       Menu
+       Services
+       (BUTTON) X - Fermer le menu
+   (BUTTON) Retour
+          + Abonnements
+          + Promotion
+          + Publicité
+          + Politiques
+          + Qui sommes-nous
+          + RSS
+          + Thot Cursus sur les réseaux
+
+   logo
+   [INS: :INS]
+
+Articles
+
+Évaluer les apprentissages ou évaluer POUR apprendre ?
+
+Faire de l'évaluation un échange avec l'élève
+
+   Par Frédéric Duriez , le 12 juin 2017 | Dernière mise à jour de
+   l'article le 19 juin 2017
+     * (BUTTON) Liste de lecture
+     * Partager
+     * (BUTTON) Recherche
+
+   Les évaluations, leurs outils, leurs méthodes, leur efficacité sont
+   régulièrement remises en question. Elles sont au coeur de nombreux
+   débats même si les échanges de pratique entre collègues sont limités.
+
+   Dans une série d'articles, de vidéos et d'animations, François Muller
+   nous propose de passer à une évaluation plus utile, plus vivante et
+   plus stimulante, qui ferait intégralement partie des apprentissages.
+   Une évaluation POUR apprendre.
+
+   Les notes ne font pas de musique
+
+   Le constat est assez sombre. Un proviseur a compté 90 000 notes
+   attribuées dans son établissement de 600 élèves. Les notes envahissent
+   l'espace scolaire, et le temps passé à évaluer est plus important que
+   le temps passé à concevoir des formations. Les effets sur l'image de
+   soi, sur le plaisir d'apprendre, et même sur le plaisir d'enseigner
+   sont néfastes. Parents et élèves y sont très attachés. "C'est noté ?"
+   demandent souvent les élèves pour savoir s'ils doivent s'investir dans
+   l'activité proposée.
+
+   Dans un article de 1998, Paul Black et Dylan Wiliam exposaient des
+   critiques très proches. Ils notaient qu'obtenir de bons résultats, de
+   bonnes notes était le premier objectif, avant celui d'apprendre.
+   L'élève qui a de mauvais résultats va se mettre en retrait des
+   activités scolaires, et chercher un sentiment d'estime de soi dans une
+   autre activité".
+
+   Les limites de l'évaluation sommative
+
+   François Muller ne prétend pas supprimer les notes et les évaluations
+   "sommatives" ou les contrôles. Il propose cependant d'élargir la
+   palette et de laisser une place aux évaluations POUR l'apprentissage.
+
+   des apprenants variés
+
+   Nous n'avons pas tous la même forme d'intelligence ou le même profil
+   d'apprentissage et nous n'utilisons pas les mêmes techniques. Plus
+   encore, nous ne partageons pas les mêmes objectifs. Une note ne rend
+   pas compte des compétences mises en oeuvre pour obtenir un résultat.
+   Qu'à cela ne tienne. Il suffit d'y ajouter un  commentaire !
+
+   François Muller reste sceptique : un élève qui a une mauvaise note
+   reste figé sur ce résultat, et n'est plus du tout disposé à lire les
+   commentaires. Celui qui a un résultat qui le satisfait ne les lit pas
+   toujours non plus...
+
+   Alors, pourquoi ne pas faire de l'évaluation un dialogue ? Le formateur
+   peut formuler quelques remarques, mais surtout inviter l'élève à
+   produire une réponse... "Comment arrives-tu à cette conclusion",
+   "Peux-tu donner un autre exemple ?". Et les nouvelles technologies, en
+   particulier les outils collaboratifs (framapad, google drive...)
+   peuvent faciliter ces échanges. François Jourde, professeur de
+   philosophie utilise les outils numériques collaboratifs de Framasoft et
+   Google pour organiser une évaluation conversationnelle.
+
+   François Muller - des questions
+
+   François Muller nous invite à proposer des évaluations bienveillantes.
+   Ces évaluations apprécient la progression et le cheminement de
+   l'apprenant plus qu'elles ne donnent une image de son "niveau".
+
+   Concrètement, l'enseignant peut utiliser la méthode du sandwich. Il
+   s'agit de commencer par un point fort, de poursuivre par une piste de
+   progrès, puis par des indications de méthodes ou d'étapes pour préciser
+   le moyen de réaliser ce progrès. Certains proposent même de donner
+   trois points forts pour une piste de progrès ! Il faut bien entendu
+   éviter les écritures trop automatiques, mais le "sandwich" nous
+   rappelle que le professeur doit être vigilant à l'impact que peuvent
+   avoir certaines remarques sur l'estime de soi des élèves.
+
+   interactions - l'évaluation comme un dialogue
+
+   Parmi les autres pistes, François Muller nous encourage à développer
+   les auto-évaluations et l'évaluation par les pairs. Les deux approches
+   passent par une appropriation des objectifs et des critères par les
+   élèves. Pour Black et Wiliam, l'auto-évaluation aide à définir
+   l'objectif, à se situer, et à présenter une stratégie pour rapprocher
+   sa position de l'objectif.
+
+   évaluation bienveillante, par les pairs...
+
+   Cette synthèse rapide et ces quelques dessins sont loin d'épuiser les
+   pistes que François Muller développe dans ses articles. Nous vous
+   proposons de découvrir le prezi qu'il a conçu pour approfondir cet
+   article.
+
+   IFRAME: https://www.youtube.com/embed/j8L2R_gGTV4
+
+   Illustrations : Frédéric Duriez
+
+   Ressources
+
+   Animation et éducation - Évaluation, comment valoriser les élèves ?
+   mai 2014 consulté le 11 juin 2017
+   http://animeduc.occe.coop/spip.php?page=presentation_revue&id=240
+
+   François Muller - "Evaluer pour les apprentissages, ça marche" Prezi
+   publié en septembre 2016, consulté le 11 juin 2017
+   https://prezi.com/fbn4fsgi1qys/evaluer-pour-les-apprentissages-ca-march
+   e/
+
+   François Muller -"évaluer pour les apprentissages, ça marche - mode
+   d'emploi" mis en ligne le 17 février 2014, consulté le 11 juin 2O17
+   http://www.lepetitjournaldesprofs.com/diversifier/2014/02/17/evaluer-po
+   ur-les-apprentissages-ca-marche-mode-demploi-video/
+
+   De Ketele Jean-Marie, « Ne pas se tromper d'évaluation », Revue
+   française de linguistique appliquée, 2010/1 (Vol. XV), p. 25-37. URL :
+   http://www.cairn.info/revue-francaise-de-linguistique-appliquee-2010-1-
+   page-25.htm
+
+   François Jourde Des lettres d'auto-évaluation pour une évaluation
+   conversationnelle - educavox mis en ligne le 6 juin 2017, consulté le 9
+   juin 2017
+   http://www.educavox.fr/innovation/pedagogie/des-lettres-d-auto-evaluati
+   on-pour-une-evaluation-conversationnelle
+
+   Paul Black Dylan Wiliam : Inside the black box, raising standards
+   through classroom assessment 1998
+   http://www.rdc.udel.edu/wp-content/uploads/2015/04/InsideBlackBox.pdf
+     *
+
+       IFRAME:
+       https://www.facebook.com/plugins/like.php?app_id=185405388177653&hr
+       ef=https%3A%2F%2Fcursus.edu%2Farticles%2F37469%2Fevaluer-les-appren
+       tissages-ou-evaluer-pour-apprendre&send=false&layout=button_count&w
+       idth=450&show_faces=false&action=like&colorscheme=light&font&height
+       =21
+
+     *
+
+       IFRAME:
+       https://platform.twitter.com/widgets/tweet_button.5069e7f3e4e64c1f4
+       fb5d33d0b653ff6.fr.html#dnt=false&id=twitter-widget-0&lang=fr&origi
+       nal_referer=https%3A%2F%2Fcursus.edu%2Farticles%2F37469%2Fevaluer-l
+       es-apprentissages-ou-evaluer-pour-apprendre&size=m&text=%C3%89value
+       r les apprentissages ou %C3%A9valuer POUR apprendre
+       ?&time=1511276420031&type=share&url=https%3A%2F%2Fcursus.edu%2Farti
+       cles%2F37469%2Fevaluer-les-apprentissages-ou-evaluer-pour-apprendre
+
+     * (BUTTON) Liste de lecture
+     * Partager
+     * (BUTTON) Recherche
+     * Suivre le fil RSS
+
+   Évaluation - Reconnaissance des acquis Enseignement - Didactique -
+   Pédagogie Tutorat - Soutien aux études
+     * Notes
+     * Évaluation
+     * Évaluation Par Les Pairs
+     * Bienveillance
+     * Auto-Évaluation
+     * Efficacité
+     * Évaluations
+     * Francois Muller
+     * Méthodes
+     * Outils
+     * question
+
+Avez-vous apprécié cette page?
+
+   (*) ( ) ( ) ( ) ( )
+
+   Voir plus d'articles de cet auteur
+
+     * [INS: :INS]
+
+Vous pourriez aussi aimer
+
+     * La gestion des sols pollués
+       Ce module complet de 30 heures sur la gestion des sols pollués
+       comprend l'identification, la mesure et l'analyse des pollutions,
+       les méthodes d'analyse, d'évaluation et de traitement.
+     * Biodiversité et société en région méditerranéenne
+       Cette ressource a pour objectif d'explorer la dynamique et le
+       fonctionnement des principaux (socio)écosystèmes méditerranéens,
+       d'expliciter les impacts des changements globaux actuels sur ces
+       socio-écosystèmes, et de présenter les principaux outils,
+       stratégies et méthodes de préservation de la biodiversité et du
+       fonctionnement des socio-écosystèmes méditerranéens à l'aide de
+       questions clés posées à des spécialistes reconnus de leurs domaines
+       respectifs.
+     * Apprendre à lire et écrire avec des cartes-mot
+       Un jeu pour apprendre à lire à partir de cartes-lettres et de
+       cartes-mots. Phonologie, lecture, écriture manuelle, orthographe
+       des mots, conjugaison, vocabulaire, autant de discipline que ce jeu
+       permet de réviser tout en développant la créativité de vos élèves.
+     * Créer une évaluation en temps réel avec ToReply
+       Formateurs, enseignants, conférenciers... Il nous arrive parfois de
+       vouloir sonder le public afin de connaître leur avis. Prévu ou pas,
+       nous le faisons en posant une question oralement et le public de
+       répondre en levant le doigt. L'application ToReply permet de
+       faciliter cet exercice de façon gratuite et facile.
+     * Évaluer professionnellement la qualité et le rendement des
+       formations
+       Produire et administrer de bons questionnaires est une souvent
+       perçu comme une corvée alors que l’important est de réaliser la
+       formation... Pourtant, dépasser le niveau des simples réactions des
+       apprenants est essentiel au processus de formation. Seules 20 % des
+       entreprises se rendent à des évaluations de niveau 4, c’est à dire
+       en rapport avec des effets sur le rendement. Il y a donc des
+       progrès possibles. Cet outil permet d'y parvenir.
+
+     *
+         ______________________________________________________________
+
+       Demandez votre extrait d'acte de naissance en ligne
+       Effectuez une demande d'extrait d'acte de naissance en ligne!
+         ______________________________________________________________
+
+Suivre ses mots-clés
+
+   (BUTTON) ×
+   [X] Évaluation - Reconnaissance des acquis [X] Enseignement -
+   Didactique - Pédagogie [X] Tutorat - Soutien aux études [X] Notes [X]
+   Évaluation [X] Évaluation Par Les Pairs [X] Bienveillance [X]
+   Auto-Évaluation [X] Efficacité [X] Évaluations [X] Francois Muller [X]
+   Méthodes [X] Outils [X] question
+     __________________________________________________________________
+
+Ajouter à une liste de lecture
+
+   (BUTTON) ×
+
+Vos listes de lecture
+
+   Vous devez vous connecter pour pouvoir ajouter à une liste de lecture
+   Se connecter
+
+Voulez-vous suivre cette liste de lecture
+
+   (BUTTON) ×
+
+   Vous devez vous connecter pour pouvoir vous abonner à une liste de
+   lecture
+   Se connecter
+
+Accédez à des services exclusifs gratuitement
+
+Inscrivez-vous et recevez des infolettres sur :
+
+     * Les cours
+     * Les ressources d’apprentissage
+     * Le dossier de la semaine
+     * Les événements
+     * Les technologies
+
+   De plus, indexez vos ressources préférées dans vos propres dossiers et
+   retrouvez votre historique de consultation.
+   M’abonner
+   Je suis déja abonné

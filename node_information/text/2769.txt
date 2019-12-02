@@ -1,0 +1,466 @@
+   News & Analysis
+
+Avid Blames Google for Mac Pro Crashes
+
+   Avid confirms that the crash and failure to reboot of Mac Pros across
+   Hollywood was nothing to do with its software, with the blame falling
+   on a Google Chrome update.
+     * By Matthew Humphries
+     * September 25, 2019 01:34pm EST
+
+   UPDATE 9/25: Avid has released a statement confirming that the root
+   cause of Mac Pros crashing this week was in fact a Chrome update
+   released by Google. The update includes a bug that "damages the file
+   system on macOS machines." Information relating to the bug can be found
+   on the Google Chrome Help community website.
+
+   Avid CEO Jeff Rosica stated, "Avid is pleased that the reboot issue
+   facing some customers is solved and while Avid products are not the
+   root cause, we're keeping an intense focus on bringing all of our
+   customers back online and back to work. Over the past 36 hours, the
+   deep dive of due diligence working closely with Apple, PACE and other
+   partners exhausted all options and we've landed in the right place as
+   quickly as possible. We owe our special thanks to Avid's customer and
+   user community for their typically strong show of support at this time,
+   especially to those who welcomed our engineers into their studios to
+   troubleshoot."
+
+   Original Story 9/24:
+   The combination of a Mac Pro and Avid's Media Composer video-editing
+   software is a common one across Hollywood. However, since yesterday
+   it's been causing Mac Pros to slowly crash and refuse to reboot.
+
+   As Variety reports, the movie and TV industry in Los Angeles is
+   "sweating" today because the trashcan Mac Pros they rely on to work are
+   failing and nobody knows why yet. The Macs are refusing to reboot, with
+   the Avid Editors of Facebook group urging people not to turn off their
+   Macs as the tweet below show.
+
+     BIG ALERT tonight regarding #Apple, and #MacOS running on the can.
+     DO NOT SHUT DOWN!! #AvidEditors #Avid Apparently something is
+     corrupting one of the UNIX root level folders. Back up everything,
+     not just on the servers is you are in a connected environment. Refer
+     to below FB pg pic.twitter.com/iLlfHVRfmp
+     — MarcusPun (@MarcusPun) September 24, 2019
+
+   In a statement, Avid said it's "aware of the reboot issue affecting
+   Apple Mac Pro devices running some Avid products, which arose late
+   yesterday. The company also released the video included below to help
+   explain the situation and offer some guidance while the problem is
+   identified and solved:
+
+   One way to test if your Mac Pro is affected is to go into System
+   Preferences and then Users & Groups. If you know your account is set as
+   admin, but the preferences only show you as a regular user, your system
+   has been compromised and will likely fail to reboot if shut down.
+
+   Editor's Note: This story was updated at 1:30 p.m. ET on Sept. 25 with
+   details of Google Chrome bug.
+
+   Prev Next
+   Trending on PCMag
+     *
+     * SurfaceProX
+     * GalaxyFold
+     * HTCViveCosmos
+     * AmazonEcho
+     * OculusLink
+
+   VISIT PCMAG.COM
+   See more!
+   © 1996-2019 Ziff Davis, LLC. PCMag Digital Group
+   #publisher alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KJHB49
+
+     * Reviews
+          + All Reviews
+          + Editors' Choice Reviews
+          + Camera Reviews
+          + Car Reviews
+          + Computer Mice Reviews
+          + Computer Monitor Reviews
+          + CPU Reviews
+          + Desktop Computer Reviews
+          + Drone Reviews
+          + Gaming Reviews
+          + Graphics Cards Reviews
+          + Headphone Reviews
+          + Health & Fitness Device Reviews
+          + Keyboard Reviews
+          + Laptop Reviews
+          + Mobile Phone Reviews
+          + Network Attached Storage (NAS) Reviews
+          + Printer Reviews
+          + Projector Reviews
+          + Router Reviews
+          + Scanner Reviews
+          + Security Software Reviews
+          + Smart Home Device Reviews
+          + Software Reviews
+          + Speaker Reviews
+          + Storage Reviews
+          + Streaming Device Reviews
+          + Tablet Reviews
+          + TV Reviews
+          + VoIP Reviews
+          + VPN Reviews
+          + VR (Virtual Reality) Reviews
+          + Wearable Device Reviews
+          + Web Hosting Reviews
+     * Best Picks
+          + All Categories
+          + Best Antivirus Software
+          + Best Cameras
+          + Best Cheap Laptops
+          + Best Computer Mice
+          + Best CPUs
+          + Best Desktops
+          + Best Drones
+          + Best Fitness Trackers
+          + Best Graphics Cards
+          + Best Hard Drives
+          + Best Headphones
+          + Best Keyboards
+          + Best Laptops
+          + Best Mobile Phones
+          + Best Monitors
+          + Best Printers
+          + Best Robot Vacuums
+          + Best Security Suites
+          + Best Smart Home Devices
+          + Best Smart Home Security Cameras
+          + Best Smart Home Security Systems
+          + Best Smart Speakers
+          + Best Smartwatches
+          + Best SSDs
+          + Best Streaming Devices
+          + Best Tablets
+          + Best TVs
+          + Best Video Streaming Services
+          + Best VoIP Services
+          + Best VPNs
+          + Best VR (Virtual Reality) Headsets
+          + Best Web Hosting Services
+          + Best Wireless Routers
+          + Best Wireless Speakers
+     * How-To
+          + All Categories
+          + How to Build Your Smart Home
+          + How to Clear Cache
+          + How to Delete Your Facebook Account
+          + How to Download YouTube Videos
+          + How to Edit a PDF
+          + How to Hack Wi-Fi Passwords
+          + How to Set Up Two-Factor Authentication
+          + How to Set Up an Amazon Echo
+          + How to Set Up and Configure Your Wireless Router
+          + How to Set Up and Use a VPN
+          + How to Speed Up Windows
+          + How to Take a Screenshot
+          + Amazon Shopping Tips
+          + Android Tips
+          + Apple TV Tips
+          + Facebook Tips
+          + Gmail Tips
+          + Google Chrome Tips
+          + Google Chromecast Tips
+          + Google Search Tips
+          + Hidden iOS Tips
+          + Netflix Binge Watching Tips
+          + Roku Tips
+          + Wi-Fi Booster Tips
+     * News
+          + All News
+          + Features
+          + The Why Axis
+          + Opinions
+          + Fastest ISPs
+          + Fastest Mobile Networks
+          + Readers' Choice
+     * Smart Home
+     * Business
+          + All Categories
+          + Enterprise
+          + Small Business
+          + Business Choice
+          + Startup Spotlight
+          + IT and DevOps Tools
+          + IT Watch
+     * Shop
+          + Coupons
+          + PCMag Shop
+          + Deals
+
+   ____________________ Search
+     * Subscribe: Subscribe
+     * Email
+     * Search
+       Search for ____________________ GO Close
+
+     *
+     * SurfaceProX
+     * GalaxyFold
+     * HTCViveCosmos
+     * AmazonEcho
+     * OculusLink
+
+   Subscribe
+
+   [487140-reviews-banner.jpg?thumb=y&width=1070&height=140]
+
+   Grab Graphics Power: The Best GPUs We've Tested
+   [459979-the-best-graphics-cards-of-2017.jpg?width=810&height=456]
+
+Grab Graphics Power: The Best GPUs We've Tested
+
+   Hunting for a new GPU for gaming, multi-display, or something else?
+   Here's everything you need to know to shop the latest Nvidia GeForce
+   and AMD Radeon video cards with confidence.
+     * //Editors' Choice
+     * //Product Roundups
+     * //Laptops
+     * //Tablets
+     * //Cell Phones
+     * //Desktops
+     * //Cameras
+     * //TVs
+     * //Audio
+     * //Smart Home
+     * //Wearables
+     * //Printers
+     * //Networking
+     * //Software
+     * //Mobile Apps
+     * //Security
+     * //All Categories
+
+   Top-Rated Bluetooth Speakers
+   [567688-ikea-sonos-symfonisk-wifi-bookshelf-speaker.jpg?width=560&heigh
+   t=315]
+
+Top-Rated Bluetooth Speakers
+
+   150+ Titles in 15 Genres: The PC Games You Should Be Playing
+   [461328-tekken-7.jpg?width=560&height=315]
+
+150+ Titles in 15 Genres: The PC Games You Should Be Playing
+
+     * Epson WorkForce WF-110 Wireless Mobile Printer
+       Epson WorkForce WF-110 Wireless Mobile Printer
+       Editors' Rating: good 10.03.2019
+       at
+       Bottom Line: The Epson WorkForce WF-110 is a compact and light
+       low-volume mobile printer that produces quality output for business
+       travelers.
+     * Nintendo Switch Online
+       Nintendo Switch Online
+       Editors' Rating: good 10.03.2019
+       at
+       Bottom Line: Nintendo Switch Online is a necessary subscription if
+       you want to play Switch games on the internet. It has classic NES
+       and SNES games, as well as Tetris 99, but the way it implements its
+       various features can be frustrating.
+     * Olympus Tough TG-6
+       Olympus Tough TG-6
+       Editors' Rating: excellent 10.03.2019
+       at
+       Bottom Line: The Olympus Tough TG-6 is a modest update to our
+       favorite underwater point-and-shoot camera thanks to its tough
+       design, bright lens, and excellent macro capabilities.
+     * HTC Vive Cosmos
+       HTC Vive Cosmos
+       Editors' Rating: good 10.03.2019
+       at
+       Bottom Line: The HTC Vive Cosmos VR headset is a technically
+       impressive improvement on the original Vive, but it's very
+       expensive and you still have to deal with a cable.
+     * pCloud
+       pCloud
+       Editors' Rating: good 10.02.2019
+       at
+       Bottom Line: Cloud storage and syncing service pCloud is reasonably
+       priced, supports all major platforms, and offers an extra secure
+       option, but it's not as integrated as Google Drive and OneDrive nor
+       does it offer as many features.
+     * Asustor AS5304T
+       Asustor AS5304T
+       Editors' Rating: excellent 10.02.2019
+       at
+       Bottom Line: The Asustor AS5304T is a powerful four-bay NAS device
+       equipped with top-notch hardware and a generous catalog of apps.
+     * Bose Portable Home Speaker Bose Portable Home Speaker
+       Editors' Rating: good 10.02.2019
+       at
+       Bottom Line: The Bose Portable Home Speaker delivers Amazon Alexa
+       and Google Assistant voice control with powerful wireless audio for
+       its size, if not its price.
+     * Apple iPhone 11
+       Apple iPhone 11
+       Editors' Rating: excellent 10.02.2019
+       at
+       Bottom Line: The iPhone 11 offers solid camera performance and
+       power to spare for a relatively reasonable price. It isn't
+       exciting, but it's a good replacement for older iPhones.
+     * Apple iPhone 11 Pro
+       Apple iPhone 11 Pro
+       Editors' Rating: excellent 10.02.2019
+       at
+       Bottom Line: The pricey iPhone 11 Pro and 11 Pro Max bring more
+       cameras, longer battery life, and better LTE capabilities to
+       Apple's flagship phone line.
+     * Sticky Password Premium
+       Sticky Password Premium
+       Editors' Rating: good 10.01.2019
+       at
+       Bottom Line: Sticky Password Premium does everything you'd expect
+       from a password manager, though it lacks advanced features such as
+       digital inheritance and password breach checks. If you choose its
+       secure no-cloud Wi-Fi sync, your passwords never leave your home
+       network.
+     * Microsoft Teams
+       Microsoft Teams
+       Editors' Rating: excellent 10.01.2019
+       at
+       Bottom Line: Microsoft Teams provides features galore, including
+       tight connectivity with Office 365. It's a great team messaging app
+       if your organization is a Microsoft shop.
+     * GoPro Hero8 Black
+       GoPro Hero8 Black
+       Editors' Rating: excellent 10.01.2019
+       at
+       Bottom Line: The GoPro Hero8 Black is the company's best action
+       camera to date, offering class-leading stabilization and video
+       quality in a rugged, waterproof body.
+     * Atelier Ryza: Ever Darkness & The Secret Hideout (for PlayStation
+       4)
+       Atelier Ryza: Ever Darkness & The Secret Hideout (for PlayStation
+       4)
+       10.01.2019
+       at
+       Bottom Line: Atelier Ryza is a promising Japanese RPG that focuses
+       on the joy of adventure and delivers satisfying combat and a robust
+       item-crafting system to keep you invested.
+     * Samsung Galaxy Fold
+       Samsung Galaxy Fold
+       Editors' Rating: good 10.01.2019
+       at
+       Bottom Line: Samsung gets points for innovation with its Galaxy
+       Fold. You can use this pricey device as a phone or a tablet, but it
+       doesn't quite satisfy in either regard.
+     * Philips Brilliance 499P9H
+       Philips Brilliance 499P9H
+       Editors' Rating: excellent 09.30.2019
+       at
+       Bottom Line: The Philips Brilliance 499P9H offers a winning
+       combination of a gigantic, ultra-wide curved screen—shining with a
+       bright, vivid image—and extras like a Windows Hello-compatible
+       webcam and a built-in KVM switch.
+     * Cooler Master MM710 Gaming Mouse
+       Cooler Master MM710 Gaming Mouse
+       Editors' Rating: good 09.30.2019
+       at
+       Bottom Line: Cooler Master's MM710 esports mouse is one of the
+       lightest things on padded feet for serious twitch gamers, but the
+       compact, minimalist design is definitely not for everyone.
+
+   SHOW MORE
+   return to top
+
+Get Our Best Stories!
+
+   Subscribe to What's New Now
+   Email ____________________Sign Up
+
+   This newsletter may contain advertising, deals, or affiliate links.
+   Subscribing to a newsletter indicates your consent to our Terms of Use
+   and Privacy Policy. You may unsubscribe from the newsletters at any
+   time.
+
+Most Popular Stories
+
+     * Cyber War
+
+Cyberwar Is Here: Are You Ready?
+     * Meet the Big Video Streaming Players
+
+Disney+? HBO Max? The New Streaming Giants Explained
+     * How to Fix Windows 10 Biggest Annoyances
+
+How to Fix the Most Annoying Things in Windows 10
+     * Android 10 Logo
+
+When Will My Phone Get the Android 10 Update?
+     * Apple Watch on Wrist
+
+20 Tips Every Apple Watch Owner Should Know
+     * Robocall generic
+
+How to Block Robocalls and Spam Calls
+
+   See More
+
+Discover
+
+     * How to Download YouTube Videos
+
+How to Download YouTube Videos
+     * Google Maps Tips
+
+44 Google Maps Tricks You Need to Try
+     * Amazon's Echo Lineup: What's the Difference?
+
+Amazon's Echo Lineup: What's the Difference?
+
+   See More
+
+   logo
+     * Facebook
+     * Twitter
+     * Instagram
+     * Pinterest
+     * LinkedIn
+     * YouTube
+     * Google News
+     * Flipboard
+
+     * About Us
+     * PCMag Digital Edition
+     * Newsletters
+     * Encyclopedia
+     * RSS Feed
+
+     * More From Ziff Davis:
+     * Mashable
+     * ExtremeTech
+     * Geek
+     * AskMen
+     * BestGifts.com
+     * Everyday Health
+     * IGN
+     * Offers.com
+     * Speedtest.net
+     * TechBargains
+     * Toolbox
+     * What to Expect
+
+     * RSS Feeds
+     * Site Map
+     * Contact Us
+     * Privacy Policy
+     * Terms of Use
+     * Advertise
+     * Accessibility Statement
+
+   logo
+
+   © 1996-2019 Ziff Davis, LLC. PCMag Digital Group
+   PC Magazine and PC PCMag.com are among the federally registered
+   trademarks of
+   Ziff Davis, LLC and may not be used by third parties without explicit
+   permission.
+
+   We strongly encourage you to read our updated PRIVACY POLICY and COOKIE
+   POLICY.
+   ×

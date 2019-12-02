@@ -1,0 +1,203 @@
+
+   (BUTTON) logo
+     * Découvrir
+          + Qu'est-ce que LibreOffice
+          + Nouvelles fonctionnalités
+          + Writer
+          + Calc
+          + Impress
+          + Draw
+          + Base
+          + Math
+          + Diagrammes
+          + Modèles et extensions
+          + Copies d'écran
+     * Télécharger
+          + Télécharger LibreOffice
+          + Notes de version
+          + Versions de développement
+          + Versions portables & Images DVD
+     * Aide
+          + Poser une question & Retour d'expérience
+          + Aide de la communauté
+          + Documentation
+          + Listes de discussion
+          + Forum Nabble
+          + Instructions d'installation
+          + Support professionnel
+          + Prérequis logiciels et matériels
+          + Accessibilité
+          + Assistant de soumission de bug (EN)
+     * Communauté
+          + Contribuer
+          + Design
+          + Développeurs
+          + Documentation
+          + Infrastructure
+          + L10n
+          + Marketing
+          + Projets Native-Lang
+          + Tests Assurance Qualité
+          + NextCloud
+          + Pads
+          + Wiki
+     * Événements
+     * À propos
+          + Qui sommes-nous ?
+          + Gouvernance
+          + Membres du Conseil Consultatif
+          + Certification LibreOffice
+          + Licences
+          + Code Source
+          + Sécurité
+          + Imprint
+          + Récompenses
+          + Credits
+          + Privacy Policy
+     * Donner
+
+    1.
+    2.
+    3.
+
+Une suite bureautique libre
+
+   LibreOffice 6 se distingue dans le paysage des suites bureautiques
+   Télécharger maintenant
+
+Un projet passionnant
+
+   LibreOffice est l'un des projets les plus sympathiques et les plus
+   dynamiques dans le monde du logiciel libre et open source.
+   Télécharger maintenant
+
+Des gens fantastiques
+
+   LibreOffice est plus qu'un logiciel. Il s'agit de gens, de culture, de
+   création, de partage et de collaboration
+   Télécharger maintenant
+
+Faites plus - facilement, rapidement
+
+   LibreOffice est une suite bureautique puissante ; son interface claire
+   et ses outils avancés libèrent votre créativité et accroissent votre
+   productivité.
+   LibreOffice intègre plusieurs applications qui en font la suite
+   bureautique Libre & Open Source la plus évoluée du marché.
+
+Une suite bureautique libre
+
+   LibreOffice 6 se distingue dans le paysage des suites bureautiques
+
+   Découvrez-la !
+
+Un projet passionnant
+
+   LibreOffice est l'un des projets les plus sympathiques et les plus
+   dynamiques dans le monde du logiciel libre et open source.
+
+   En savoir plus sur nous et nos valeurs
+
+Des gens fantastiques
+
+   LibreOffice est plus qu'un logiciel. Il s'agit de gens, de culture, de
+   création, de partage et de collaboration
+
+   Rejoignez-nous maintenant !
+
+LibreOffice est un logiciel Libre et Open Source. Le développement est ouvert
+à de nouveaux talents et de nouvelles idées, et notre logiciel est testé et
+utilisé quotidiennement par une communauté d'utilisateurs importante et
+dévouée.
+
+   Participez
+
+Posts
+
+from LibreOffice official blog
+
+Feeds
+
+from The Document Foundation Planet
+
+   LibreOffice localisation sprint (and other events) in Albania
+   2019-11-18
+
+   The Albanian LibreOffice community has been super active in recent
+   years, organising the LibreOffice Conference 2018 in Tirana, and
+   regularly contributing with translation and marketing efforts. Sidorela
+   Uku reports from a recent localisation sprint at Open Labs Hackerspace:
+   This was the first event I organized for LibreOffice, in collaboration
+   with a friend of mine, Marcela […]
+
+   en savoir plus »
+   Month of LibreOffice, November 2019: Half way through!
+   2019-11-16
+
+   Two weeks ago, we kicked off a new Month of LibreOffice, crediting
+   contributions all across the project. Participants can claim a cool
+   sticker pack, and have a chance to win a mug too! So, how’s it looking
+   so far? Here’s how many sticker packs have been awarded: 200 – click to
+   see if you’re on […]
+
+   en savoir plus »
+   Automatic row numbering in the Writer tables
+   2019-11-18
+
+   Often we have a Writer table with some numbering in its first column.
+   And when you delete some rows from the table, then you should to make
+   your numbering in first column anew.There is a beautiful method for
+   that case special for you! After that you shouldn't re-create your
+   numbering in the table.Just make next steps:1. Create a table in
+   Writer2. Select needed column or several cells in column3. Press Toggle
+   Numbered List icon on toolbar (or select some list style on the
+   Sidebar)4. Now you have […]
+
+   en savoir plus »
+   LibreOffice localisation sprint (and other events) in Albania
+   2019-11-18
+
+   The Albanian LibreOffice community has been super active in recent
+   years, organising the LibreOffice Conference 2018 in Tirana, and
+   regularly contributing with translation and marketing efforts. Sidorela
+   Uku reports from a recent localisation sprint at Open Labs Hackerspace:
+   This was the first event I organized for LibreOffice, in collaboration
+   with a friend of mine, Marcela […]
+
+   en savoir plus »
+
+Suivez-nous
+
+     * Our blog
+     * @tdforg
+     * @libreoffice
+     *
+     * Mastodon
+     *
+     * @AskLibreOffice
+     * @LibreOfficeBugs
+     * Reddit
+
+   Mastodon
+
+Derniers Tweets
+
+@libreoffice
+
+@tdforg
+
+   Tweets by @libreoffice
+   Tweets by @tdforg
+
+   Impressum (Legal Info) | Privacy Policy (Datenschutzerklärung) |
+   Statutes (non-binding English translation) - Satzung (binding German
+   version) | Copyright information: Unless otherwise specified, all text
+   and images on this website are licensed under the Creative Commons
+   Attribution-Share Alike 3.0 License. This does not include the source
+   code of LibreOffice, which is licensed under the Mozilla Public License
+   v2.0. “LibreOffice” and “The Document Foundation” are registered
+   trademarks of their corresponding registered owners or are in actual
+   use as trademarks in one or more countries. Their respective logos and
+   icons are also subject to international copyright laws. Use thereof is
+   explained in our trademark policy. LibreOffice was based on
+   OpenOffice.org.

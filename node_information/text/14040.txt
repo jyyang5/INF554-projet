@@ -1,0 +1,515 @@
+   FR | EN Who are we? | Menu | Contents
+   Insee logo sirene.fr, a service of Insee
+
+   Measuring, understanding
+   sirene.fr
+
+Official provider of information on each of the 28 million enterprises
+including 11 million active.
+An Insee service.
+
+     * Home
+     * Open Data dissemination
+          + Download the Sirene database free of charge
+          + Create a customised list of establishments free of charge
+          + Search for an enterprise
+          + API access
+     * Documentation
+          + Presentation of the Sirene® database
+          + Examples of uses of the Sirene® database
+          + List of the variables and their definitions
+          + Content of the files
+          + Definitions
+          + The sirene.fr newsletter in french
+          + Older version
+     * Help
+
+   ____________________ (BUTTON) Start search on the website
+
+    1. Home
+
+Download the Sirene database free of charge
+
+   Sirene data are available as Open Data on the site data-gouv
+
+   Access the Sirene® database on data.gouv.fr
+
+Create a customised list of establishments free of charge
+
+   The sirene.fr website enables you to create files of enterprises and
+   establishments online.
+   Create a list NEW: The service is evolving. View available variables.
+
+Search for an enterprise
+
+   Find all enterprises and their establishments.The database Sirene® is
+   updated daily ; it contains 28 million of enterprises and
+   establishments including both active and ceased.
+   enterprise ____________________ ____________________
+   [icon-help-gray.png]
+   Address (optional) ____________________ [icon-help-gray.png]
+   ____________________ [icon-help-gray.png]
+   [X] Exclude closed establishments from search
+   (BUTTON) Search
+   All the sirene.fr news
+
+   Les variables Tranches d’effectifs sont mises à jour avec les valeurs
+   au 31/12/2017.
+
+   Le service web nonDiffusibles de l’API Sirene est disponible sur le
+   catalogue des API de l’Insee.
+
+   Pour vous abonner à notre lettre d'information Sirene open data
+   actualités, cliquez ici.
+
+   Guide d'utilisation, variables, dessins de fichiers : consultez la
+   documentation de la nouvelle offre Sirene
+
+   Retrouvez les prédécesseurs et les successeurs des établissements avec
+   le service Liens de succession de l'API Sirene
+   ‹ ›
+    1. Les variables Tranches d’effectifs sont mises à jour avec les
+       valeurs au 31/12/2017.
+    2. Le service web nonDiffusibles de l’API Sirene est disponible sur le
+       catalogue des API de l’Insee.
+    3. Pour vous abonner à notre lettre d'information Sirene open data
+       actualités, cliquez ici.
+    4. Guide d'utilisation, variables, dessins de fichiers : consultez la
+       documentation de la nouvelle offre Sirene
+    5. Retrouvez les prédécesseurs et les successeurs des établissements
+       avec le service Liens de succession de l'API Sirene
+
+   Register a enterprise, make changes to its situation or declare that it
+   has ceased trading
+
+   What are the formalities to register an enterprise or association in
+   the Sirene registry? How to change own situation (address, activity)?
+   How to declare a ceased activity? Refer to insee.fr &nbspInsee.fr
+   Fraud, other abuses, illegal invoices
+   Sometimes an Insee identity is stolen for commercial or fraudulent
+   purposes.
+   Find out more
+   Help
+   Find answers to your questions.
+
+   FAQ
+
+     * Copyright Insee
+     * Legal notice
+     * General terms and conditions of use
+     * Links
+     * Site map
+     * Accessibility
+     * Security
+     * Contact us
+
+   sirene.fr, a service of Insee Measuring, understanding
+   FR | EN Who are we? | Menu | Contents
+   Insee logo sirene.fr, a service of Insee
+
+   Measuring, understanding
+   sirene.fr
+
+Official provider of information on each of the 28 million enterprises
+including 11 million active.
+An Insee service.
+
+     * Home
+     * Open Data dissemination
+          + Download the Sirene database free of charge
+          + Create a customised list of establishments free of charge
+          + Search for an enterprise
+          + API access
+     * Documentation
+          + Presentation of the Sirene® database
+          + Examples of uses of the Sirene® database
+          + List of the variables and their definitions
+          + Content of the files
+          + Definitions
+          + The sirene.fr newsletter in french
+          + Older version
+     * Help
+
+   ____________________ (BUTTON) Start search on the website
+
+    1. Home
+    2. Who are we?
+
+Who are we?
+
+   Insee offers a service to disseminate information on the Sirene®
+   registry and provides user support. The sirene.fr website presents
+   these services based on the Sirene® database. Sirene.fr presents the
+   data of the registry, and tools for creating lists or searching.
+
+   This unique and exhaustive database of enterprises and their
+   establishments receives over 10 000 daily updates and covers all
+   sectors of activities. It contains economic and legal information on 28
+   million establishments, of which 11 million are active.
+   All the sirene.fr news
+
+   Les variables Tranches d’effectifs sont mises à jour avec les valeurs
+   au 31/12/2017.
+
+   Le service web nonDiffusibles de l’API Sirene est disponible sur le
+   catalogue des API de l’Insee.
+
+   Pour vous abonner à notre lettre d'information Sirene open data
+   actualités, cliquez ici.
+
+   Guide d'utilisation, variables, dessins de fichiers : consultez la
+   documentation de la nouvelle offre Sirene
+
+   Retrouvez les prédécesseurs et les successeurs des établissements avec
+   le service Liens de succession de l'API Sirene
+   ‹ ›
+    1. Les variables Tranches d’effectifs sont mises à jour avec les
+       valeurs au 31/12/2017.
+    2. Le service web nonDiffusibles de l’API Sirene est disponible sur le
+       catalogue des API de l’Insee.
+    3. Pour vous abonner à notre lettre d'information Sirene open data
+       actualités, cliquez ici.
+    4. Guide d'utilisation, variables, dessins de fichiers : consultez la
+       documentation de la nouvelle offre Sirene
+    5. Retrouvez les prédécesseurs et les successeurs des établissements
+       avec le service Liens de succession de l'API Sirene
+
+   Register a enterprise, make changes to its situation or declare that it
+   has ceased trading
+
+   What are the formalities to register an enterprise or association in
+   the Sirene registry? How to change own situation (address, activity)?
+   How to declare a ceased activity? Refer to insee.fr &nbspInsee.fr
+   Fraud, other abuses, illegal invoices
+   Sometimes an Insee identity is stolen for commercial or fraudulent
+   purposes.
+   Find out more
+   Help
+   Find answers to your questions.
+
+   FAQ
+
+     * Copyright Insee
+     * Legal notice
+     * General terms and conditions of use
+     * Links
+     * Site map
+     * Accessibility
+     * Security
+     * Contact us
+
+   sirene.fr, a service of Insee Measuring, understanding
+   FR | EN Who are we? | Menu | Contents
+   Insee logo sirene.fr, a service of Insee
+
+   Measuring, understanding
+   sirene.fr
+
+Official provider of information on each of the 28 million enterprises
+including 11 million active.
+An Insee service.
+
+     * Home
+     * Open Data dissemination
+          + Download the Sirene database free of charge
+          + Create a customised list of establishments free of charge
+          + Search for an enterprise
+          + API access
+     * Documentation
+          + Presentation of the Sirene® database
+          + Examples of uses of the Sirene® database
+          + List of the variables and their definitions
+          + Content of the files
+          + Definitions
+          + The sirene.fr newsletter in french
+          + Older version
+     * Help
+
+   ____________________ (BUTTON) Start search on the website
+
+    1. Home
+    2. Open Data dissemination
+
+Open Data dissemination
+
+   There are 4 ways to access the Sirene® database:
+    1. Download the Sirene database free of charge Pre-created files are
+       available for free download on data.gouv.fr. The available files,
+       covering all of France, are the following:
+          + The complete list of enterprises (all active and ceased
+            enterprises with regard to the their current state in the
+            registery)
+          + The complete record of history variables of enterprises (for
+            each enterprise, the whole set of values of certain history
+            variables in the Sirene registry)
+          + The complete list of establishments (all active and closed
+            establishments with regard to their current state in the
+            registry)
+          + The complete record of history variables of establishment (for
+            each establishment, the whole set of values of certain history
+            variables in the Sirene registry)
+          + The complete record of establishments''s succession links
+    2. Create a customised list of establishments free of charge You can
+       obtain a list of establishment based on certain criteria that you
+       select yourself (criteria of location, activity, legal form,
+       workforce size classes, date of creation or date of the last
+       update). Each list can include up to 200 000 establishments.
+    3. Search for an enterprise Individual searches, based on name,
+       surname, corporate names, Siren or Siret identifiers give the
+       possibility to find an enterprise with all its establishments.
+    4. API access An API based on Sirene database is available on INSEE
+       API Catalogue.
+
+   All the sirene.fr news
+
+   Les variables Tranches d’effectifs sont mises à jour avec les valeurs
+   au 31/12/2017.
+
+   Le service web nonDiffusibles de l’API Sirene est disponible sur le
+   catalogue des API de l’Insee.
+
+   Pour vous abonner à notre lettre d'information Sirene open data
+   actualités, cliquez ici.
+
+   Guide d'utilisation, variables, dessins de fichiers : consultez la
+   documentation de la nouvelle offre Sirene
+
+   Retrouvez les prédécesseurs et les successeurs des établissements avec
+   le service Liens de succession de l'API Sirene
+   ‹ ›
+    1. Les variables Tranches d’effectifs sont mises à jour avec les
+       valeurs au 31/12/2017.
+    2. Le service web nonDiffusibles de l’API Sirene est disponible sur le
+       catalogue des API de l’Insee.
+    3. Pour vous abonner à notre lettre d'information Sirene open data
+       actualités, cliquez ici.
+    4. Guide d'utilisation, variables, dessins de fichiers : consultez la
+       documentation de la nouvelle offre Sirene
+    5. Retrouvez les prédécesseurs et les successeurs des établissements
+       avec le service Liens de succession de l'API Sirene
+
+   Register a enterprise, make changes to its situation or declare that it
+   has ceased trading
+
+   What are the formalities to register an enterprise or association in
+   the Sirene registry? How to change own situation (address, activity)?
+   How to declare a ceased activity? Refer to insee.fr &nbspInsee.fr
+   Fraud, other abuses, illegal invoices
+   Sometimes an Insee identity is stolen for commercial or fraudulent
+   purposes.
+   Find out more
+   Help
+   Find answers to your questions.
+
+   FAQ
+
+     * Copyright Insee
+     * Legal notice
+     * General terms and conditions of use
+     * Links
+     * Site map
+     * Accessibility
+     * Security
+     * Contact us
+
+   sirene.fr, a service of Insee Measuring, understanding
+   FR | EN Who are we? | Menu | Contents
+   Insee logo sirene.fr, a service of Insee
+
+   Measuring, understanding
+   sirene.fr
+
+Official provider of information on each of the 28 million enterprises
+including 11 million active.
+An Insee service.
+
+     * Home
+     * Open Data dissemination
+          + Download the Sirene database free of charge
+          + Create a customised list of establishments free of charge
+          + Search for an enterprise
+          + API access
+     * Documentation
+          + Presentation of the Sirene® database
+          + Examples of uses of the Sirene® database
+          + List of the variables and their definitions
+          + Content of the files
+          + Definitions
+          + The sirene.fr newsletter in french
+          + Older version
+     * Help
+
+   ____________________ (BUTTON) Start search on the website
+
+    1. Home
+    2. Open Data dissemination
+    3. Download the Sirene database free of charge
+
+Download the Sirene database free of charge
+
+   Under the loi pour une République numérique Sirene data have been
+   available as Open Data since the beginning of January 2017.
+   You can download from data-gouv five monthly zipped files :
+     * The complete list of enterprises (all active and ceased enterprises
+       with regard to the their current state in the registery)
+     * The complete record of history variables of enterprises (for each
+       enterprise, the whole set of values of certain history variables in
+       the Sirene registry)
+     * The complete list of establishments (all active and closed
+       establishments with regard to their current state in the registry)
+     * The complete record of history variables of establishment (for each
+       establishment, the whole set of values of certain history variables
+       in the Sirene registry)
+     * The complete record of establishments''s succession links
+
+   In the Documentation section you will find a complete description of
+   these files and their content.
+   All the sirene.fr news
+
+   Les variables Tranches d’effectifs sont mises à jour avec les valeurs
+   au 31/12/2017.
+
+   Le service web nonDiffusibles de l’API Sirene est disponible sur le
+   catalogue des API de l’Insee.
+
+   Pour vous abonner à notre lettre d'information Sirene open data
+   actualités, cliquez ici.
+
+   Guide d'utilisation, variables, dessins de fichiers : consultez la
+   documentation de la nouvelle offre Sirene
+
+   Retrouvez les prédécesseurs et les successeurs des établissements avec
+   le service Liens de succession de l'API Sirene
+   ‹ ›
+    1. Les variables Tranches d’effectifs sont mises à jour avec les
+       valeurs au 31/12/2017.
+    2. Le service web nonDiffusibles de l’API Sirene est disponible sur le
+       catalogue des API de l’Insee.
+    3. Pour vous abonner à notre lettre d'information Sirene open data
+       actualités, cliquez ici.
+    4. Guide d'utilisation, variables, dessins de fichiers : consultez la
+       documentation de la nouvelle offre Sirene
+    5. Retrouvez les prédécesseurs et les successeurs des établissements
+       avec le service Liens de succession de l'API Sirene
+
+   Register a enterprise, make changes to its situation or declare that it
+   has ceased trading
+
+   What are the formalities to register an enterprise or association in
+   the Sirene registry? How to change own situation (address, activity)?
+   How to declare a ceased activity? Refer to insee.fr &nbspInsee.fr
+   Fraud, other abuses, illegal invoices
+   Sometimes an Insee identity is stolen for commercial or fraudulent
+   purposes.
+   Find out more
+   Help
+   Find answers to your questions.
+
+   FAQ
+
+     * Copyright Insee
+     * Legal notice
+     * General terms and conditions of use
+     * Links
+     * Site map
+     * Accessibility
+     * Security
+     * Contact us
+
+   sirene.fr, a service of Insee Measuring, understanding
+   FR | EN Who are we? | Menu | Contents
+   Insee logo sirene.fr, a service of Insee
+
+   Measuring, understanding
+   sirene.fr
+
+Official provider of information on each of the 28 million enterprises
+including 11 million active.
+An Insee service.
+
+     * Home
+     * Open Data dissemination
+          + Download the Sirene database free of charge
+          + Create a customised list of establishments free of charge
+          + Search for an enterprise
+          + API access
+     * Documentation
+          + Presentation of the Sirene® database
+          + Examples of uses of the Sirene® database
+          + List of the variables and their definitions
+          + Content of the files
+          + Definitions
+          + The sirene.fr newsletter in french
+          + Older version
+     * Help
+
+   ____________________ (BUTTON) Start search on the website
+
+    1. Home
+    2. Open Data dissemination
+    3. Search for an enterprise
+
+Search for an enterprise
+
+   Find all enterprises and their establishments.The database Sirene® is
+   updated daily ; it contains 28 million of enterprises and
+   establishments including both active and ceased.
+   enterprise ____________________ ____________________
+   [icon-help-gray.png]
+   Address (optional) ____________________ [icon-help-gray.png]
+   ____________________ [icon-help-gray.png]
+   [X] Exclude closed establishments from search
+   (BUTTON) Search
+   All the sirene.fr news
+
+   Les variables Tranches d’effectifs sont mises à jour avec les valeurs
+   au 31/12/2017.
+
+   Le service web nonDiffusibles de l’API Sirene est disponible sur le
+   catalogue des API de l’Insee.
+
+   Pour vous abonner à notre lettre d'information Sirene open data
+   actualités, cliquez ici.
+
+   Guide d'utilisation, variables, dessins de fichiers : consultez la
+   documentation de la nouvelle offre Sirene
+
+   Retrouvez les prédécesseurs et les successeurs des établissements avec
+   le service Liens de succession de l'API Sirene
+   ‹ ›
+    1. Les variables Tranches d’effectifs sont mises à jour avec les
+       valeurs au 31/12/2017.
+    2. Le service web nonDiffusibles de l’API Sirene est disponible sur le
+       catalogue des API de l’Insee.
+    3. Pour vous abonner à notre lettre d'information Sirene open data
+       actualités, cliquez ici.
+    4. Guide d'utilisation, variables, dessins de fichiers : consultez la
+       documentation de la nouvelle offre Sirene
+    5. Retrouvez les prédécesseurs et les successeurs des établissements
+       avec le service Liens de succession de l'API Sirene
+
+   Register a enterprise, make changes to its situation or declare that it
+   has ceased trading
+
+   What are the formalities to register an enterprise or association in
+   the Sirene registry? How to change own situation (address, activity)?
+   How to declare a ceased activity? Refer to insee.fr &nbspInsee.fr
+   Fraud, other abuses, illegal invoices
+   Sometimes an Insee identity is stolen for commercial or fraudulent
+   purposes.
+   Find out more
+   Help
+   Find answers to your questions.
+
+   FAQ
+
+     * Copyright Insee
+     * Legal notice
+     * General terms and conditions of use
+     * Links
+     * Site map
+     * Accessibility
+     * Security
+     * Contact us
+
+   sirene.fr, a service of Insee Measuring, understanding

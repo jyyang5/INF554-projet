@@ -1,0 +1,1066 @@
+   #Delys » Flux Delys » Flux des commentaires Delys » Présentation Flux
+   des commentaires alternate alternate alternate alternate alternate
+
+   YouTube Twitter RSS
+
+     * ACCUEIL
+     * Contacts
+     * Admin
+     * English
+     * Search for: ____________________ (BUTTON) Recherche
+
+   Delys
+
+
+   Passer vers le contenu
+     * PRESENTATION
+          + EQUIPE
+          + CONTACT
+     * RECHERCHE
+          + PUBLICATIONS
+          + LOGICIELS
+     * ACTUALITES
+     * OFFRES D’EMPLOI
+
+   Home Présentation
+
+Présentation
+
+   DELYS est une équipe de recherche commune entre Inria Paris, le CNRS et
+   Sorbonne Université au sein du Laboratoire d’Informatique de Paris
+   6, LIP6 (UMR 7606).
+
+Présentation de l’équipe
+
+   DELYS étudie les nouveaux systèmes distribués d’un point de vue
+   pratique et théorique. Sa recherche s’intéresse à un large spectre de
+   systèmes répartis : le cloud et « Fog » computing, les réseaux mobiles,
+   les systèmes dynamiques tels que les réseaux de robots, les
+   multi-coeurs…
+
+   Ces nouveaux systèmes informatiques distribués doivent tolérer les
+   fautes, supporter la dynamique des noeuds et leur hétérogénéité,  gérer
+   une virtualisation à plusieurs niveaux. Les algorithmes conçus pour les
+   systèmes distribués statiques doivent être donc être repensés pour
+   tenir compte de la nature hautement instable du système.
+
+Thèmes de recherche
+
+   DELYS concentre ses recherches autour de trois défis :
+    1. Repenser les algorithmes distribués. D’un point de vue théorique,
+       la question clé est de savoir comment adapter les algorithmes
+       fondamentaux aux nouvelles architectures dynamiques. Les objectifs
+       de DELYS sont  (1) d’identifier sous quelles hypothèses réalistes
+       un problème fondamental donné, tel que l’exclusion mutuelle, le
+       consensus ou encore l’élection de leader, peut être résolu et (2)
+       de concevoir des algorithmes efficaces en fonction de ces
+       hypothèses.
+    2. La gestion des ressources dans des grandes systèmes hétérogènes. La
+       gestion des ressources dans ces systèmes nécessite des solutions
+       entièrement décentralisées. Dans ce contexte, la gestion des
+       données est un élément clé. Le problème fondamental abordé dans
+       DELYS est de savoir comment partager des informations de manière
+       efficace et fiable dans des environnements hautement distribués.
+    3. L’adaptation des supports d’exécution. Avec l’utilisation de plus
+       en plus répandue des architectures multicœurs et des environnements
+       virtualisés, les protocoles des supports d’exécution doivent être
+       revisités. Notre recherche vise  à fournir des solutions permettant
+       de partager efficacement des ressources telles que la mémoire entre
+       des environnements virtualisés sans compromettre les propriétés
+       d’isolation.
+
+Relations internationales et industrielles
+
+   Collaborations académiques (international / industriels)
+     * RainbowFS ANR
+     * Wolphin FUI
+     * LightKone –H2020 project
+     * PaDMetBio – Stic Amsud
+     * CHOOSING – Capes-Cofecub
+
+   Collaborations industrielles bi-latérales
+     * Scality SA, Paris
+     * Orange, France
+
+   Les commentaires sont clos.
+     * Articles récents
+          + Best paper at ICDCN 2019 (distributed computing track)
+     *
+
+   CAPTION: septembre 2019
+
+       L  M  M  J  V  S  D
+       « Jan
+                         1
+       2  3  4  5  6  7  8
+       9  10 11 12 13 14 15
+       16 17 18 19 20 21 22
+       23 24 25 26 27 28 29
+       30
+
+     * Service du SI
+          + Bastri
+          + Bil
+          + HAL tools
+          + Raweb
+
+     * Divers
+          + Connexion
+          + Flux RSS des articles
+          + RSS des commentaires
+          + Site de WordPress-FR
+
+   This text can be changed from the Miscellaneous section of the settings
+   page.
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, cras ut
+   imperdiet augue.
+   Fonctionne avec Nirvana & WordPress.
+   YouTube Twitter RSS
+   #Ouragan » Feed Ouragan » Comments Feed Ouragan » Presentation Comments
+   Feed alternate alternate alternate alternate
+
+   Ouragan
+   Outils de Résolution Algébriques pour la Géométrie et ses ApplicatioNs
+
+
+   Skip to content
+     * PRESENTATION
+          + TEAM
+          + CONTACT
+     * RESEARCH
+          + Character Varieties
+          + Algorithmic Number Theory
+          + Polynomial Knots
+          + Computational Geometry
+          + Control Theory
+          + Kinematics
+     * Meetings & Seminars
+     * PUBLICATIONS
+     * SOFTWARE
+
+Presentation
+
+   OURAGAN focus on the transfer of computational algebraic methods to
+   some related fields (computational geometry, topology, number theory,
+   etc.) and some carefully chosen application domains (robotics, control
+   theory, evaluation of the security of cryptographic systems, etc.).
+
+   We are working equally on the use (modeling, know – how) and on the
+   development of new algorithms.
+
+   An original aspect of the OURAGAN is to blend into an environment of
+   fundamental mathematics, at the Institut de Mathématiques de Jussieu —
+   Paris Rive Gauche (IMJ-PRG CNRS 7586), and to be cross-functional to
+   several teams (Algebraic Analysis, Complex Analysis and Geometry,
+   Number Theory to name only the main ones).
+     __________________________________________________________________
+
+   OURAGAN works on three general directions with five particular targets:
+     * Algebraic analysis of functional systems
+     * Number Theory
+          + Algorithmic Number Theory
+          + Rigorous Numerical Computations
+     * Topology in small dimension
+          + Character varieties
+          + Knot theory
+          + Computational geometry
+
+   These actions come, of course, in addition to the study and development
+   of a common set of core elements of
+     * Basic theory and algorithms in algebra and geometry
+
+   The tools and objects developed for research on algorithmic number
+   theory as well as on topology in small dimension apply quite directly
+   on some selected connected challenging subjects:
+     * Security of cryptographic systems
+     * Control theory
+     * Signal processing
+     * Robotics
+
+One Comment
+
+    1. Pingback: Ordre du jour du CP du jeudi 7 mars 2019 – Comité des
+       Projets
+
+   Comments are closed
+     * Institutes
+          + IMJ-PRG Institut de Mathématiques de Jussieu – Paris rive
+            gauche.
+          + INRIA Paris INRIA Paris research center
+     * Projects
+          + CURVE
+          + ERC Almacrypt
+          + MACAO
+          + Maple
+     * Recent Posts
+          + June 24-27, 2019 : Number-Theoretic Methods in Cryptology
+          + 27 au 31 mai 2019 à Cetraro (Italie) : Conférence “DYNAMIQUE
+            D’ACTIONS DE GROUPES”
+
+     * Intranet
+       Login
+
+   Powered by Nirvana & WordPress.
+   #KerData » Feed KerData » Comments Feed KerData » Presentation Comments
+   Feed alternate alternate alternate alternate
+
+   (BUTTON) Toggle navigation
+
+KerData
+
+Scalable Storage for Clouds and Beyond
+
+     * Presentation
+     * Research
+          + Goals and Challenges
+          + Our Methodology
+     * Awards
+     * Team members
+     * Publications
+          + Team papers
+          + By Author
+     * Software
+          + BlobSeer
+          + Damaris
+     * Projects
+          + BigStorage (H2020 MCITN)
+          + Z-CloudFlow (MSR-Inria)
+          + Data@Exascale Associate Team
+          + ANR MapReduce
+     * Job offers and Internships
+          + Open positions for PhD theses
+          + Open internships
+          + Open postdoc positions
+     * Contact
+
+BlobSeer
+
+   BlobSeer is a large-scale distributed storage service that addresses
+   advanced data management requirements resulting from ever-increasing
+   data sizes. It is centered around the idea of leveraging versioning for
+   concurrent manipulation of binary large objects in …
+
+Damaris
+
+   Damaris is a middleware for I/O and data management targeting
+   large-scale, MPI-based HPC simulations. It initially proposed to
+   dedicate cores for asynchronous I/O in multicore nodes of recent HPC
+   platforms, with an emphasis on ease …
+
+Z-CloudFlow
+
+   Clouds have recently emerged as an interesting infrastructure option
+   for deploying scientific workflows. Building on their elasticity, in
+   recent years, scientific workflows have become an archetype to model
+   experiments on such infrastructures. In addition, the …
+
+BigStorage
+
+   BigStorage is an European Training Network (ETN) whose main goal is to
+   train future data scientists in order to enable them and us to apply
+   holistic and interdisciplinary approaches for taking advantage of a
+   data-overwhelmed …
+    1.
+    2.
+    3.
+    4.
+
+   Previous Next
+
+Presentation
+
+   KerData is a joint research team of Inria Rennes – Bretagne Atlantique,
+    ENS Rennes and INSA Rennes and a team of the IRISA lab.
+
+   Leader: Gabriel Antoniu, Research Director at Inria
+
+   Our research activities address the area of distributed data management
+   at challenging scales, with a particular focus on clouds and
+   postpetascale HPC architectures. We address the requirements of
+   data-oriented high-performance applications that exhibit the need to
+   handle massive non structured data – BLOBs: binary large objects (on
+   the order of terabytes) – stored in a large number (thousands to tens
+   of thousands), accessed under heavy concurrency by a large number of
+   clients (thousands to tens of thousands at a time) with a relatively
+   fine access grain (on the order of megabytes). Examples of such
+   applications are:
+     * Extreme-scale HPC simulations generating massive amounts of data
+     * Cloud data analysis applications (e.g., based on the MapReduce
+       paradigm) handling massive data, potentially geo- distributed at a
+       large scale
+     * Applications with high requirements in terms of real-time stream
+       processing
+
+   Our approach strongly relies on experimentation on the Grid’5000
+   platform, on top supercomputers and on reference cloud platforms.
+
+Latest News
+
+     * HDR defense of Alexandru Costan 2019/03/12
+     * Open PhD positions on Big Data Analytics, Stream Processing and HPC
+       / Big Data convergence 2019/02/02
+     * Open Internship Positions 2018/09/24
+
+Recent publications
+
+   IFRAME:
+   https://haltools.inria.fr/Public/afficheRequetePubli.php?labos_exp=kerd
+   ata&affi_exp=inria&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Ang
+   lais&NbAffiche=5&tri_exp=annee_publi&tri_exp2=date_publi&ordre_aff=TA&F
+   en=Aff&typdoc=(%27ART%27,%27COMM%27,%27POSTER%27,%27OUV%27,%27COUV%27,%
+   27DOUV%27,%27PATENT%27,%27OTHER%27,%27REPORT%27,%27THESE%27,%27HDR%27,%
+   27MEM%27,%27LECTURE%27,%27IMG%27,%27VIDEO%27,%27SON%27,%27MAP%27,%27MIN
+   UTES%27,%27NOTE%27,%27SYNTHESE%27,%27PRESCONF%27,%27OTHERREPORT%27,%27R
+   EPACT%27,%27REPORT_ETAB%27,%27REPORT_COOR%27,%27REPORT_LABO%27,%27REPOR
+   T_RECH%27,%27REPORT_LICE%27,%27REPORT_LPRO%27,%27REPORT_MAST%27,%27REPO
+   RT_DOCT%27,%27REPORT_FORM%27,%27REPORT_INTER%27,%27REPORT_GLICE%27,%27R
+   EPORT_GMAST%27,%27SOFTWARE%27)&css=../css/styles_publicationsHAL.css
+
+Activity Reports
+
+     * 2017
+     * 2016
+     * 2015
+     * 2014
+     * 2013
+     * 2012
+
+   Team Web Sites Generator / SEISM / DSI / INRIA
+
+   Made with by Graphene Themes.
+   #Potioc » Feed Potioc » Comments Feed alternate alternate alternate
+
+   Vimeo Twitter Contact
+   Vimeo Twitter Contact
+
+     *
+          + English (en) English
+          + Français (fr) Français
+
+
+
+   Skip to content
+     * Home
+     * Team
+     * Research
+     * Collaborative Projects
+     * Publications
+     * Contact us
+
+   Potioc designs, develops and evaluates new approaches that exploit
+   multimodal interaction to promote a stimulating user experience. In
+   particular, we explore approaches based on mixed reality (AR, RV),
+   tangible interaction, brain-computer interfaces, and physiological
+   interfaces. The main areas of application we are targeting are
+   education, well-being, art, and accessibility.
+
+   Potioc is an Inria project-team, joint with Université de Bordeaux and
+   CNRS. We are located at the center Inria Bordeaux - Sud-Ouest.
+   inria   Université de Bordeaux   Université de Bordeaux
+   See also::
+     * Our activity reports
+     * Our Vimeo videos
+     * Our Twitter feed
+     * How to contact us
+
+Main research axes
+
+   Subject thumb Mixed Reality
+   VR, AR, Tangible
+   Subject thumb Brain-Computer InterfacesInterfaces Cerveau-Ordinateur
+   Subject thumb Connecting Mixed-Reality and Physiological computing
+
+Main application domains
+
+   Picto thumb
+   Education
+   Picto thumb
+   Art
+   Picto thumb
+   Well-being
+   Picto thumb
+   Accessibility
+
+     *
+          + English
+          + Français
+
+   Powered by Nirvana & WordPress.
+   Vimeo Twitter Contact
+   #Cairn » Feed Cairn » Comments Feed alternate alternate alternate
+   alternate
+
+   (BUTTON) Toggle navigation
+
+Cairn
+
+Energy-Efficient Computing Architectures
+
+     * Home
+          + General Presentation
+          + Projects and grants
+          + Collaborations
+          + Team Seminars & SAV
+          + CST CAIRN
+          + Events
+          + Video and slides
+          + Teaching
+          + What is a Cairn?
+     * Members
+          + Team members
+          + Members Pictures
+          + Group Pictures
+          + Former Members
+          + Visitors
+     * Research Topics
+          + Overview
+          + Reconfigurable architecture design
+          + Reconfigurable architectures for video coding
+          + Design methodologies for Software Defined Radio
+          + Optical Interconnections for 3D Multiprocessor Architectures
+          + Ultra-low power architectures
+          + Polyhedral Loop Transformations
+          + Reconfigurable Processor Extension Generation
+          + Real-Time Scheduling of Reconfigurable Battery-Powered
+            Multi-Core Platforms
+          + Fixed-point arithmetic
+          + Wireless Sensor Networks
+     * Software & Hardware
+     * Publications
+          + Awards
+          + Activity Reports
+          + HDR
+          + PhD Thesis
+          + Bibliography Sources / Informations
+     * Contact
+
+Project-team Cairn
+
+Energy Efficient Computing ArchItectures with Embedded Reconfigurable
+Resources
+
+   Common project-team with INRIA Rennes – Bretagne Atlantique, CNRS, ENS
+   Rennes, University of Rennes 1
+
+   Cairn is located on two campuses: Rennes and Lannion    project_logo
+
+   Abstract: The Cairn project-team researches new architectures,
+   algorithms and design methods for flexible and energy efficiency
+   domain-specific system-on-chip (SoC). As performance and
+   energy-efficiency requirements of SoCs are continuously increasing,
+   they become difficult to fulfil using only programmable processors
+   solutions. To address this issue, we promote/advocate the use of
+   reconfigurable hardware, i.e. hardware structures whose organization
+   may change before or even during execution. Such reconfig- urable SoCs
+   offer high performance at a low energy cost, while preserving a high
+   level of flexibility. The group studies these SoCs from three angles:
+   (i) The invention and design of new reconfigurable platforms with an
+   emphasis on flexible arithmetic operator design, dynamic
+   reconfiguration management and low- power consumption. (ii) The
+   development of their corresponding design flows (compilation and
+   synthesis tools) to enable their automatic design from high-level
+   specifications. (iii) The interaction between algo- rithms and
+   architectures especially for our main application domains (wireless
+   communications, wireless sensor networks and digital security). The
+   team has been created on January the 1st, 2008 and is
+   a “reconfiguration” of the former R2D2 research team from Irisa.
+
+   CairnFlow
+
+   The development of complex applications is traditionally split in three
+   stages: a theoretical study of the algorithms, an analysis of the
+   target architecture and the implementation. When facing new emerging
+   applications such as high-performance, low-power and low-cost mobile
+   communication systems or smart sensor-based systems, it is mandatory to
+   strengthen the design flow by a joint study of both algorithmic and
+   architectural issues. The figure below shows the global design flow
+   that we propose to develop. This flow is organized in levels which
+   refer to our three research themes: application optimization (new
+   algorithms, fixed-point arithmetic and advanced representations of
+   numbers), architecture optimization (reconfigurable and specialized
+   hardware, application-specific processors), and stepwise refinement and
+   code generation (code transformations, hardware synthesis,
+   compilation).
+
+   Keywords: Hardware Accelerators, Compiling, Embedded Systems, Energy
+   Consumption, Parallelism, Wireless Sensor Networks, Security, Signal
+   Processing, Reconfigurable Hardware, Computer Arithmetic,
+   System-On-Chip
+   ____________________ (BUTTON)
+
+Calendar
+
+     * August
+     * October
+
+   CAPTION: September 2019
+
+   MMonday TTuesday WWednesday TThursday FFriday SSaturday SSunday
+   26August 26, 2019 27August 27, 2019 28August 28, 2019 29August 29, 2019
+   30August 30, 2019 31August 31, 2019 1September 1, 2019
+   2September 2, 2019 3September 3, 2019 4September 4, 2019 5September 5,
+   2019 6September 6, 2019 7September 7, 2019 8September 8, 2019
+   9September 9, 2019 10September 10, 2019 11September 11, 2019
+   12September 12, 2019 13September 13, 2019 14September 14, 2019
+   15September 15, 2019
+   16September 16, 2019 17September 17, 2019 18September 18, 2019
+   19September 19, 2019 20September 20, 2019 21September 21, 2019
+   22September 22, 2019
+   23September 23, 2019 24September 24, 2019 25September 25, 2019
+   26September 26, 2019 27September 27, 2019 28September 28, 2019
+   29September 29, 2019
+   30September 30, 2019 1October 1, 2019 2October 2, 2019 3October 3, 2019
+   4October 4, 2019 5October 5, 2019 6October 6, 2019
+
+Intranets Login
+
+   CAIRN Web (WP)
+
+   CAIRN Share (ALFRESCO)
+
+   Public Docs
+
+Institutions
+
+     * CNRS
+     * ENS Rennes
+     * Inria
+     * Université Rennes 1
+
+   © 2013+ Cairn
+   CNRS | ENS Rennes | INRIA | Université Rennes 1
+
+   Made with by Graphene Themes.
+   #Delys » Flux Delys » Flux des commentaires Delys » Présentation Flux
+   des commentaires alternate alternate alternate alternate alternate
+
+   YouTube Twitter RSS
+
+     * ACCUEIL
+     * Contacts
+     * Admin
+     * English
+     * Search for: ____________________ (BUTTON) Recherche
+
+   Delys
+
+
+   Passer vers le contenu
+     * PRESENTATION
+          + EQUIPE
+          + CONTACT
+     * RECHERCHE
+          + PUBLICATIONS
+          + LOGICIELS
+     * ACTUALITES
+     * OFFRES D’EMPLOI
+
+   Home Présentation
+
+Présentation
+
+   DELYS est une équipe de recherche commune entre Inria Paris, le CNRS et
+   Sorbonne Université au sein du Laboratoire d’Informatique de Paris
+   6, LIP6 (UMR 7606).
+
+Présentation de l’équipe
+
+   DELYS étudie les nouveaux systèmes distribués d’un point de vue
+   pratique et théorique. Sa recherche s’intéresse à un large spectre de
+   systèmes répartis : le cloud et « Fog » computing, les réseaux mobiles,
+   les systèmes dynamiques tels que les réseaux de robots, les
+   multi-coeurs…
+
+   Ces nouveaux systèmes informatiques distribués doivent tolérer les
+   fautes, supporter la dynamique des noeuds et leur hétérogénéité,  gérer
+   une virtualisation à plusieurs niveaux. Les algorithmes conçus pour les
+   systèmes distribués statiques doivent être donc être repensés pour
+   tenir compte de la nature hautement instable du système.
+
+Thèmes de recherche
+
+   DELYS concentre ses recherches autour de trois défis :
+    1. Repenser les algorithmes distribués. D’un point de vue théorique,
+       la question clé est de savoir comment adapter les algorithmes
+       fondamentaux aux nouvelles architectures dynamiques. Les objectifs
+       de DELYS sont  (1) d’identifier sous quelles hypothèses réalistes
+       un problème fondamental donné, tel que l’exclusion mutuelle, le
+       consensus ou encore l’élection de leader, peut être résolu et (2)
+       de concevoir des algorithmes efficaces en fonction de ces
+       hypothèses.
+    2. La gestion des ressources dans des grandes systèmes hétérogènes. La
+       gestion des ressources dans ces systèmes nécessite des solutions
+       entièrement décentralisées. Dans ce contexte, la gestion des
+       données est un élément clé. Le problème fondamental abordé dans
+       DELYS est de savoir comment partager des informations de manière
+       efficace et fiable dans des environnements hautement distribués.
+    3. L’adaptation des supports d’exécution. Avec l’utilisation de plus
+       en plus répandue des architectures multicœurs et des environnements
+       virtualisés, les protocoles des supports d’exécution doivent être
+       revisités. Notre recherche vise  à fournir des solutions permettant
+       de partager efficacement des ressources telles que la mémoire entre
+       des environnements virtualisés sans compromettre les propriétés
+       d’isolation.
+
+Relations internationales et industrielles
+
+   Collaborations académiques (international / industriels)
+     * RainbowFS ANR
+     * Wolphin FUI
+     * LightKone –H2020 project
+     * PaDMetBio – Stic Amsud
+     * CHOOSING – Capes-Cofecub
+
+   Collaborations industrielles bi-latérales
+     * Scality SA, Paris
+     * Orange, France
+
+   Les commentaires sont clos.
+     * Articles récents
+          + Best paper at ICDCN 2019 (distributed computing track)
+     *
+
+   CAPTION: septembre 2019
+
+       L  M  M  J  V  S  D
+       « Jan
+                         1
+       2  3  4  5  6  7  8
+       9  10 11 12 13 14 15
+       16 17 18 19 20 21 22
+       23 24 25 26 27 28 29
+       30
+
+     * Service du SI
+          + Bastri
+          + Bil
+          + HAL tools
+          + Raweb
+
+     * Divers
+          + Connexion
+          + Flux RSS des articles
+          + RSS des commentaires
+          + Site de WordPress-FR
+
+   This text can be changed from the Miscellaneous section of the settings
+   page.
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit, cras ut
+   imperdiet augue.
+   Fonctionne avec Nirvana & WordPress.
+   YouTube Twitter RSS
+   #Ouragan » Feed Ouragan » Comments Feed Ouragan » Presentation Comments
+   Feed alternate alternate alternate alternate
+
+   Ouragan
+   Outils de Résolution Algébriques pour la Géométrie et ses ApplicatioNs
+
+
+   Skip to content
+     * PRESENTATION
+          + TEAM
+          + CONTACT
+     * RESEARCH
+          + Character Varieties
+          + Algorithmic Number Theory
+          + Polynomial Knots
+          + Computational Geometry
+          + Control Theory
+          + Kinematics
+     * Meetings & Seminars
+     * PUBLICATIONS
+     * SOFTWARE
+
+Presentation
+
+   OURAGAN focus on the transfer of computational algebraic methods to
+   some related fields (computational geometry, topology, number theory,
+   etc.) and some carefully chosen application domains (robotics, control
+   theory, evaluation of the security of cryptographic systems, etc.).
+
+   We are working equally on the use (modeling, know – how) and on the
+   development of new algorithms.
+
+   An original aspect of the OURAGAN is to blend into an environment of
+   fundamental mathematics, at the Institut de Mathématiques de Jussieu —
+   Paris Rive Gauche (IMJ-PRG CNRS 7586), and to be cross-functional to
+   several teams (Algebraic Analysis, Complex Analysis and Geometry,
+   Number Theory to name only the main ones).
+     __________________________________________________________________
+
+   OURAGAN works on three general directions with five particular targets:
+     * Algebraic analysis of functional systems
+     * Number Theory
+          + Algorithmic Number Theory
+          + Rigorous Numerical Computations
+     * Topology in small dimension
+          + Character varieties
+          + Knot theory
+          + Computational geometry
+
+   These actions come, of course, in addition to the study and development
+   of a common set of core elements of
+     * Basic theory and algorithms in algebra and geometry
+
+   The tools and objects developed for research on algorithmic number
+   theory as well as on topology in small dimension apply quite directly
+   on some selected connected challenging subjects:
+     * Security of cryptographic systems
+     * Control theory
+     * Signal processing
+     * Robotics
+
+One Comment
+
+    1. Pingback: Ordre du jour du CP du jeudi 7 mars 2019 – Comité des
+       Projets
+
+   Comments are closed
+     * Institutes
+          + IMJ-PRG Institut de Mathématiques de Jussieu – Paris rive
+            gauche.
+          + INRIA Paris INRIA Paris research center
+     * Projects
+          + CURVE
+          + ERC Almacrypt
+          + MACAO
+          + Maple
+     * Recent Posts
+          + June 24-27, 2019 : Number-Theoretic Methods in Cryptology
+          + 27 au 31 mai 2019 à Cetraro (Italie) : Conférence “DYNAMIQUE
+            D’ACTIONS DE GROUPES”
+
+     * Intranet
+       Login
+
+   Powered by Nirvana & WordPress.
+   #KerData » Feed KerData » Comments Feed KerData » Presentation Comments
+   Feed alternate alternate alternate alternate
+
+   (BUTTON) Toggle navigation
+
+KerData
+
+Scalable Storage for Clouds and Beyond
+
+     * Presentation
+     * Research
+          + Goals and Challenges
+          + Our Methodology
+     * Awards
+     * Team members
+     * Publications
+          + Team papers
+          + By Author
+     * Software
+          + BlobSeer
+          + Damaris
+     * Projects
+          + BigStorage (H2020 MCITN)
+          + Z-CloudFlow (MSR-Inria)
+          + Data@Exascale Associate Team
+          + ANR MapReduce
+     * Job offers and Internships
+          + Open positions for PhD theses
+          + Open internships
+          + Open postdoc positions
+     * Contact
+
+BlobSeer
+
+   BlobSeer is a large-scale distributed storage service that addresses
+   advanced data management requirements resulting from ever-increasing
+   data sizes. It is centered around the idea of leveraging versioning for
+   concurrent manipulation of binary large objects in …
+
+Damaris
+
+   Damaris is a middleware for I/O and data management targeting
+   large-scale, MPI-based HPC simulations. It initially proposed to
+   dedicate cores for asynchronous I/O in multicore nodes of recent HPC
+   platforms, with an emphasis on ease …
+
+Z-CloudFlow
+
+   Clouds have recently emerged as an interesting infrastructure option
+   for deploying scientific workflows. Building on their elasticity, in
+   recent years, scientific workflows have become an archetype to model
+   experiments on such infrastructures. In addition, the …
+
+BigStorage
+
+   BigStorage is an European Training Network (ETN) whose main goal is to
+   train future data scientists in order to enable them and us to apply
+   holistic and interdisciplinary approaches for taking advantage of a
+   data-overwhelmed …
+    1.
+    2.
+    3.
+    4.
+
+   Previous Next
+
+Presentation
+
+   KerData is a joint research team of Inria Rennes – Bretagne Atlantique,
+    ENS Rennes and INSA Rennes and a team of the IRISA lab.
+
+   Leader: Gabriel Antoniu, Research Director at Inria
+
+   Our research activities address the area of distributed data management
+   at challenging scales, with a particular focus on clouds and
+   postpetascale HPC architectures. We address the requirements of
+   data-oriented high-performance applications that exhibit the need to
+   handle massive non structured data – BLOBs: binary large objects (on
+   the order of terabytes) – stored in a large number (thousands to tens
+   of thousands), accessed under heavy concurrency by a large number of
+   clients (thousands to tens of thousands at a time) with a relatively
+   fine access grain (on the order of megabytes). Examples of such
+   applications are:
+     * Extreme-scale HPC simulations generating massive amounts of data
+     * Cloud data analysis applications (e.g., based on the MapReduce
+       paradigm) handling massive data, potentially geo- distributed at a
+       large scale
+     * Applications with high requirements in terms of real-time stream
+       processing
+
+   Our approach strongly relies on experimentation on the Grid’5000
+   platform, on top supercomputers and on reference cloud platforms.
+
+Latest News
+
+     * HDR defense of Alexandru Costan 2019/03/12
+     * Open PhD positions on Big Data Analytics, Stream Processing and HPC
+       / Big Data convergence 2019/02/02
+     * Open Internship Positions 2018/09/24
+
+Recent publications
+
+   IFRAME:
+   https://haltools.inria.fr/Public/afficheRequetePubli.php?labos_exp=kerd
+   ata&affi_exp=inria&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Ang
+   lais&NbAffiche=5&tri_exp=annee_publi&tri_exp2=date_publi&ordre_aff=TA&F
+   en=Aff&typdoc=(%27ART%27,%27COMM%27,%27POSTER%27,%27OUV%27,%27COUV%27,%
+   27DOUV%27,%27PATENT%27,%27OTHER%27,%27REPORT%27,%27THESE%27,%27HDR%27,%
+   27MEM%27,%27LECTURE%27,%27IMG%27,%27VIDEO%27,%27SON%27,%27MAP%27,%27MIN
+   UTES%27,%27NOTE%27,%27SYNTHESE%27,%27PRESCONF%27,%27OTHERREPORT%27,%27R
+   EPACT%27,%27REPORT_ETAB%27,%27REPORT_COOR%27,%27REPORT_LABO%27,%27REPOR
+   T_RECH%27,%27REPORT_LICE%27,%27REPORT_LPRO%27,%27REPORT_MAST%27,%27REPO
+   RT_DOCT%27,%27REPORT_FORM%27,%27REPORT_INTER%27,%27REPORT_GLICE%27,%27R
+   EPORT_GMAST%27,%27SOFTWARE%27)&css=../css/styles_publicationsHAL.css
+
+Activity Reports
+
+     * 2017
+     * 2016
+     * 2015
+     * 2014
+     * 2013
+     * 2012
+
+   Team Web Sites Generator / SEISM / DSI / INRIA
+
+   Made with by Graphene Themes.
+   #Potioc » Feed Potioc » Comments Feed alternate alternate alternate
+
+   Vimeo Twitter Contact
+   Vimeo Twitter Contact
+
+     *
+          + English (en) English
+          + Français (fr) Français
+
+
+
+   Skip to content
+     * Home
+     * Team
+     * Research
+     * Collaborative Projects
+     * Publications
+     * Contact us
+
+   Potioc designs, develops and evaluates new approaches that exploit
+   multimodal interaction to promote a stimulating user experience. In
+   particular, we explore approaches based on mixed reality (AR, RV),
+   tangible interaction, brain-computer interfaces, and physiological
+   interfaces. The main areas of application we are targeting are
+   education, well-being, art, and accessibility.
+
+   Potioc is an Inria project-team, joint with Université de Bordeaux and
+   CNRS. We are located at the center Inria Bordeaux - Sud-Ouest.
+   inria   Université de Bordeaux   Université de Bordeaux
+   See also::
+     * Our activity reports
+     * Our Vimeo videos
+     * Our Twitter feed
+     * How to contact us
+
+Main research axes
+
+   Subject thumb Mixed Reality
+   VR, AR, Tangible
+   Subject thumb Brain-Computer InterfacesInterfaces Cerveau-Ordinateur
+   Subject thumb Connecting Mixed-Reality and Physiological computing
+
+Main application domains
+
+   Picto thumb
+   Education
+   Picto thumb
+   Art
+   Picto thumb
+   Well-being
+   Picto thumb
+   Accessibility
+
+     *
+          + English
+          + Français
+
+   Powered by Nirvana & WordPress.
+   Vimeo Twitter Contact
+   #Cairn » Feed Cairn » Comments Feed alternate alternate alternate
+   alternate
+
+   (BUTTON) Toggle navigation
+
+Cairn
+
+Energy-Efficient Computing Architectures
+
+     * Home
+          + General Presentation
+          + Projects and grants
+          + Collaborations
+          + Team Seminars & SAV
+          + CST CAIRN
+          + Events
+          + Video and slides
+          + Teaching
+          + What is a Cairn?
+     * Members
+          + Team members
+          + Members Pictures
+          + Group Pictures
+          + Former Members
+          + Visitors
+     * Research Topics
+          + Overview
+          + Reconfigurable architecture design
+          + Reconfigurable architectures for video coding
+          + Design methodologies for Software Defined Radio
+          + Optical Interconnections for 3D Multiprocessor Architectures
+          + Ultra-low power architectures
+          + Polyhedral Loop Transformations
+          + Reconfigurable Processor Extension Generation
+          + Real-Time Scheduling of Reconfigurable Battery-Powered
+            Multi-Core Platforms
+          + Fixed-point arithmetic
+          + Wireless Sensor Networks
+     * Software & Hardware
+     * Publications
+          + Awards
+          + Activity Reports
+          + HDR
+          + PhD Thesis
+          + Bibliography Sources / Informations
+     * Contact
+
+Project-team Cairn
+
+Energy Efficient Computing ArchItectures with Embedded Reconfigurable
+Resources
+
+   Common project-team with INRIA Rennes – Bretagne Atlantique, CNRS, ENS
+   Rennes, University of Rennes 1
+
+   Cairn is located on two campuses: Rennes and Lannion    project_logo
+
+   Abstract: The Cairn project-team researches new architectures,
+   algorithms and design methods for flexible and energy efficiency
+   domain-specific system-on-chip (SoC). As performance and
+   energy-efficiency requirements of SoCs are continuously increasing,
+   they become difficult to fulfil using only programmable processors
+   solutions. To address this issue, we promote/advocate the use of
+   reconfigurable hardware, i.e. hardware structures whose organization
+   may change before or even during execution. Such reconfig- urable SoCs
+   offer high performance at a low energy cost, while preserving a high
+   level of flexibility. The group studies these SoCs from three angles:
+   (i) The invention and design of new reconfigurable platforms with an
+   emphasis on flexible arithmetic operator design, dynamic
+   reconfiguration management and low- power consumption. (ii) The
+   development of their corresponding design flows (compilation and
+   synthesis tools) to enable their automatic design from high-level
+   specifications. (iii) The interaction between algo- rithms and
+   architectures especially for our main application domains (wireless
+   communications, wireless sensor networks and digital security). The
+   team has been created on January the 1st, 2008 and is
+   a “reconfiguration” of the former R2D2 research team from Irisa.
+
+   CairnFlow
+
+   The development of complex applications is traditionally split in three
+   stages: a theoretical study of the algorithms, an analysis of the
+   target architecture and the implementation. When facing new emerging
+   applications such as high-performance, low-power and low-cost mobile
+   communication systems or smart sensor-based systems, it is mandatory to
+   strengthen the design flow by a joint study of both algorithmic and
+   architectural issues. The figure below shows the global design flow
+   that we propose to develop. This flow is organized in levels which
+   refer to our three research themes: application optimization (new
+   algorithms, fixed-point arithmetic and advanced representations of
+   numbers), architecture optimization (reconfigurable and specialized
+   hardware, application-specific processors), and stepwise refinement and
+   code generation (code transformations, hardware synthesis,
+   compilation).
+
+   Keywords: Hardware Accelerators, Compiling, Embedded Systems, Energy
+   Consumption, Parallelism, Wireless Sensor Networks, Security, Signal
+   Processing, Reconfigurable Hardware, Computer Arithmetic,
+   System-On-Chip
+   ____________________ (BUTTON)
+
+Calendar
+
+     * August
+     * October
+
+   CAPTION: September 2019
+
+   MMonday TTuesday WWednesday TThursday FFriday SSaturday SSunday
+   26August 26, 2019 27August 27, 2019 28August 28, 2019 29August 29, 2019
+   30August 30, 2019 31August 31, 2019 1September 1, 2019
+   2September 2, 2019 3September 3, 2019 4September 4, 2019 5September 5,
+   2019 6September 6, 2019 7September 7, 2019 8September 8, 2019
+   9September 9, 2019 10September 10, 2019 11September 11, 2019
+   12September 12, 2019 13September 13, 2019 14September 14, 2019
+   15September 15, 2019
+   16September 16, 2019 17September 17, 2019 18September 18, 2019
+   19September 19, 2019 20September 20, 2019 21September 21, 2019
+   22September 22, 2019
+   23September 23, 2019 24September 24, 2019 25September 25, 2019
+   26September 26, 2019 27September 27, 2019 28September 28, 2019
+   29September 29, 2019
+   30September 30, 2019 1October 1, 2019 2October 2, 2019 3October 3, 2019
+   4October 4, 2019 5October 5, 2019 6October 6, 2019
+
+Intranets Login
+
+   CAIRN Web (WP)
+
+   CAIRN Share (ALFRESCO)
+
+   Public Docs
+
+Institutions
+
+     * CNRS
+     * ENS Rennes
+     * Inria
+     * Université Rennes 1
+
+   © 2013+ Cairn
+   CNRS | ENS Rennes | INRIA | Université Rennes 1
+
+   Made with by Graphene Themes.

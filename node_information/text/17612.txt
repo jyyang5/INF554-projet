@@ -1,0 +1,273 @@
+Insrt the contact form
+
+       Pre-select an author (optional)?
+       [ ] Florence Bellivier
+       [ ] Antoine MADELIN
+       [ ] Isabelle CHEBAT
+       [ ] Antoine BERNARD
+       [ ] Corinne BEZIN
+       [ ] Florent GEEL
+       [ ] Isabelle BRACHET
+       [ ] Julie GROMELLON
+       [ ] Stéphanie DAVID
+       [ ] Eric JOSEPH
+       [ ] José Carlos Thissen
+       [ ] Mathilde HAMON
+       [ ] Nadia YAKHLAF
+       [ ] Jennifer Norris
+       [ ] Joanna HOSA
+       [ ] Marie CAMBERLIN
+       [ ] Nancy DEMICHELI
+       [ ] Yosra FRAWES
+       [ ] Salma El HOSEINY
+       [ ] Céline BALLEREAU
+       [ ] Claire COLARDELLE
+       [ ] Elena CRESPI
+       [ ] Christophe GARDAIS
+       [ ] Geneviève PAUL
+       [ ] Marion CADIER
+       [ ] Katherine BOOTH
+       [ ] Juliane FALLOUX
+       [ ] Marceau SIVIEUDE
+       [ ] Tchérina JEROLON
+       [ ] Cyril MARION
+       [ ] Serguei FUNT
+       [ ] Daisy SCHMITT
+       [ ] Gaelle DUSEPULCHRE
+       [ ] Karine BONNEAU
+       [ ] Jean-Marie ROGUE
+       [ ] Lea SAMAIN-RAIMBAULT
+       [ ] Catherine ABSALOM
+       [ ] Delphine CARLENS
+       [ ] Carrie Comer
+       [ ] Clémence Bectarte
+       [ ] Alexandra POMEON O’NEILL
+       [ ] 23.Glenn PAYOT
+       [ ] 23.Jean-Marie ROGUE
+       [ ] 23.Jean-Marie ROGUE
+       [ ] Hugo GABBERO
+       [ ] Lidya OGBAZGHI
+       [ ] Amina EL MAHDHI
+       [ ] Samia MERAH
+       [ ] Antonin RABECQ
+       [ ] Elin WRZONCKI
+       [ ] Nicolas AGOSTINI
+       [ ] Sonia Tancic
+       [ ] Hassatou BA-MINTÉ
+       [ ] Nina NOUYONGODE
+       [ ] Montserrat CARBONI
+       [ ] Jimena REYES
+       [ ] Lucie Kroening
+       [ ] Mathilde Chiffert
+       [ ] Tony MINET
+       [ ] Jean-Baptiste Paulhet
+       [ ] Andrea GIORGETTA
+       [ ] Kate COLES
+       [ ] Nicolas BAUDEZ
+       [ ] Marie-France BURQ
+       [ ] Michelle KISSENKOETTER
+       [ ] Natalia YAYA
+       [ ] Samuel HANRYON
+       [ ] Audrey COUPRIE
+       [ ] Sacha KOULAEVA
+       [ ] Anne-Laure Thini-Villerel
+       [ ] Nathalie LASSLOP
+       [ ] Lobna Abulhassan
+       [ ] Nicolas DIAZ
+       [ ] acabrer@fidh.org
+       [ ] Adéa Guillot
+       [ ] Adilur  Rahman Khan
+       [ ] alexin
+       [ ] Alice Banens
+       [ ] Alice Mogwe
+       [ ] Amal Nassar
+       [ ] Anissa Daboussi
+       [ ] Anjali Sualy
+       [ ] Anne Vesque
+       [ ] Antoine Bouhey
+       [ ] Ariel Giumarelli
+       [ ] Arnold  TSUNGA
+       [ ] Artak  KIRAKOSYAN
+       [ ] berritane
+       [ ] Bijan
+       [ ] boursin
+       [ ] Camile de Souza Cortez
+       [ ] Camille Gervais
+       [ ] Camille Richard
+       [ ] Charline Fralin
+       [ ] Charlotte Boisse
+       [ ] Chemseddine Ben Jemaa
+       [ ] ckponvi
+       [ ] Coline Maestracci
+       [ ] crosensvaig
+       [ ] Cynthia Okitaloshima
+       [ ] Dan  Van Raemdonck
+       [ ] Daria Kovaleva
+       [ ] Debbie  Stothard
+       [ ] Dimitris Christopoulos
+       [ ] Dismas Kitenge
+       [ ] dkopecky
+       [ ] Doren
+       [ ] Drissa Traore
+       [ ] Elsie  Monge
+       [ ] Eva Canan
+       [ ] Fadwa Sabber
+       [ ] fidhmembers
+       [ ] fidhmission
+       [ ] Florian Rodriguez
+       [ ] fo0
+       [ ] Gerard J-M VAN VLIET
+       [ ] Gloria  Cano
+       [ ] Guissou  JAHANGIRI
+       [ ] Hafidha  CHEKIR
+       [ ] Harald Condé Piquer
+       [ ] hydraze
+       [ ] Ilya Nuzov
+       [ ] internafrica
+       [ ] internasia
+       [ ] interncom
+       [ ] interneeac
+       [ ] interneurope
+       [ ] interngeneva
+       [ ] internglobal
+       [ ] internjustice
+       [ ] internmmo
+       [ ] internobs
+       [ ] internpress
+       [ ] internweb
+       [ ] internwomen
+       [ ] Isidore Ngueuleu
+       [ ] Jane Symonds
+       [ ] Jonathan Donat
+       [ ] jsorbyadams@fidh.org
+       [ ] Juan Francisco  Soto
+       [ ] Juan Francisco  SOTO
+       [ ] Julia Narkeviciute
+       [ ] Juliane Falloux
+       [ ] Juliette Rousselot
+       [ ] Justine Duby
+       [ ] kayivi@fidh.net
+       [ ] Kevin Zinke
+       [ ] Khitem Bargaoui
+       [ ] Kyra Wigard
+       [ ] Laure Aviles
+       [ ] Léa Moreau
+       [ ] Lea Vernhet
+       [ ] Maddalena Neglia
+       [ ] Manon Cabaup
+       [ ] Maria Isabel Cubides
+       [ ] Maria Kanellos
+       [ ] Marie-Aure Perreaut
+       [ ] Marija Marevska
+       [ ] Marta Riggio
+       [ ] Maryse  ARTIGUELONG
+       [ ] Matthieu Marcillaud
+       [ ] Maya Trad
+       [ ] Mélissa
+       [ ] Mohamed Aly Mohamed  ZAREA
+       [ ] Moncef KCHIR
+       [ ] morand patrick
+       [ ] Musungay
+       [ ] Nada Bushnak
+       [ ] Nathalie Nunes
+       [ ] nelsong
+       [ ] Nicanor Haon
+       [ ] Nicolas Tanguay-Leduc
+       [ ] Nina Pereira
+       [ ] Oleksandra MATVIICHUK
+       [ ] Oumou Houmoud
+       [ ] Patrick Baudouin
+       [ ] Paul Kelly
+       [ ] Paul Nsapu Mukulu
+       [ ] pbrunisso
+       [ ] People’s Solidarity for Participatory Democracy
+       [ ] pierot
+       [ ] Pierre Blarre
+       [ ] Pierre Espérance
+       [ ] Rabie Naim
+       [ ] Rosalie Laurent
+       [ ] Rosemarie R. Trajano
+       [ ] Sacha F
+       [ ] Salma Kowatli
+       [ ] Samba Lasa
+       [ ] Samuel Hanryon
+       [ ] Sébastien Lorion
+       [ ] Sergueï FUNT
+       [ ] Shawan Jabarin
+       [ ] Sheila Muwanga
+       [ ] Solène Baudy-Floch
+       [ ] swaack
+       [ ] Talya Swissa
+       [ ] themery@gmail.com
+       [ ] Tolekan Ismailova
+       [ ] toutou
+       [ ] V G
+       [ ] vallenou
+       [ ] Vinayak Rajesekhar
+       [ ] Vincent Fargeas
+       [ ] webmaster
+       [ ] Webmaster Nursit
+       [ ] xcanon
+       [ ] Yasmine Laveille
+       [ ] Yi Pan
+       [ ] Yvon Chagué
+       [ ] Zoé Bertrand
+
+   Insert
+Insrt a document
+
+       Document number: (Required) ____________________
+       [BUTTON Input] (not
+       implemented)_____________________________________
+       Template: (Required) [doc]
+       Alignment : [______]
+
+   Insert
+Insrt A location-based point
+
+       Point(s) category [free single point____________]
+       ID ____________________
+       ID (optionnal) ____________________
+       ID (optionnal) ____________________
+       ID (optionnal) ____________________
+       ID (optionnal) ____________________
+       ID (optionnal) ____________________
+       ID (optionnal) ____________________
+
+       Title ____________________
+       Description
+       ________________________________________
+       ________________________________________
+       ____________________
+       ____________________
+       ____________________
+       ____________________
+
+       options
+
+       Map title ____________________
+       Map width ____________________
+       Map height ____________________
+       Maximum number of points ____________________
+       [ ] Scale
+       [ ] Full screen button
+       [ ] Mini situation map
+       [ ] Disable the scroll wheel
+       [ ] Hide controls
+       [ ] Hide types
+       [ ] Afficher un tooltip au survol des points
+       [ ] Center on the visitor
+       [ ] No automatic centring
+       KML files to overlay ____________________
+       GPX file to overlay ____________________
+       [ ] Do not center the map on the KLM/GPX files
+       [ ] Hide points
+
+   Insert
+Insrt one form
+
+       Which form ?
+       [#StopThisMovie (petition_stopthismovie)___________________________
+       ____________________.......]
+
+   Insert

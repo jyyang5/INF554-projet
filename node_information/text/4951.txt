@@ -1,0 +1,2267 @@
+     * Aller au menu principal
+     * Aller au contenu
+     * Aller au formulaire de recherche
+
+   (BUTTON) Menu
+   (BUTTON) Fermer
+     * Accueil
+     * Politique et Enjeux
+       (BUTTON) Politique et Enjeux
+          + Compétitivité
+          + Entrepreneuriat
+          + Métiers - Formation
+          + Normes - Qualité
+          + Relocaliser : le choix de la France
+          + La semaine de l'industrie
+          + Égalité
+     * Secteurs professionnels
+       (BUTTON) Secteurs professionnels
+          + L'artisanat
+          + Le commerce
+          + L'industrie
+          + Le numérique
+          + Les prof. libérales
+          + Les services
+          + Les services à la personne
+          + Le tourisme
+     * Études et statistiques
+     * Accès directs
+       (BUTTON) Accès directs
+          + Appels à projets
+          + Communiqués de presse
+          + Événements
+          + La DGE sur Twitter
+          + La DGE sur Facebook
+          + La DGE sur DailyMotion
+          + Newsletters « La DGE & Vous »
+          + competitivite.gouv.fr
+     * Autres dossiers
+       (BUTTON) Autres dossiers
+          + Agence du numérique
+          + Biens à double usage
+          + Commission nationale des services (CNS)
+          + Conseil national de l'industrie (CNI)
+          + Guide de la propriété intellectuelle dans les pôles de
+            compétitivité
+          + Libre circulation des marchandises en Europe
+          + Marketing et PME
+          + Marques nationales du tourisme
+          + Métrologie
+          + Précurseurs chimiques de drogues
+          + Qualité tourisme
+     * Semaine de l'industrie
+     * English
+
+     * Flux RSS
+
+     Facebook
+   Liberté, Égalité, Fraternité, République Française - Ministère de
+   l'Economie et des Finances
+   Le portail de la DGE
+     * Appels à Projet
+     * Evénements
+     * Communiqués
+     * La DGE sur Twitter
+     * La DGE sur Facebook
+
+   DGE, Direction Générale des Entreprises
+     * Accueil
+          + A la Une
+          + Bruno Le Maire
+          + Agnès Pannier-Runacher
+          + Cédric O
+          + Les thématiques de la DGE
+     * La DGE
+     * Politique - Enjeux
+     * Secteurs professionnels
+     * Etudes - Statistiques
+     * A votre service
+     * Web TV
+     * English
+
+   Accueil du portail › POLITIQUE-ET-ENJEUX › Compétitivité › Réseau
+   Entreprise Europe › Success Stories › Success stories – Case studies
+
+   [bandeau-politique-et-enjeux.png]
+   (BUTTON) Politique et enjeux
+   (BUTTON) Fermer
+     * Accueil
+     * Compétitivité
+       (BUTTON) Compétitivité
+          + Loi croissance
+          + Innovation
+            (BUTTON) Innovation
+               o Conseil de l'innovation
+               o Aides à l'innovation
+               o Innovation 2030
+               o Achats innovants
+                 (BUTTON) Achats innovants
+                    # Plate-forme achats innovants
+               o CAP'TRONIC
+               o Innovation dans les services
+               o Technologies clés 2020
+               o Technologies clés 2015
+          + Design
+          + Investissements d'avenir
+          + Pôles de compétitivité
+          + Propriété intellectuelle
+            (BUTTON) Propriété intellectuelle
+               o Lutte contre la contrefaçon
+                 (BUTTON) Lutte contre la contrefaçon
+                    # Actions de sensibilisation
+                    # Boite à outils des PME
+                    # Documentation
+                      (BUTTON) Documentation
+                         @ Guides et fiches pratiques
+                         @ Rapports et études
+                         @ Réglementation
+                         @ Autres publications
+                    # Questions / réponses
+          + Politique industrielle
+            (BUTTON) Politique industrielle
+               o La nouvelle France industrielle
+                 (BUTTON) La nouvelle France industrielle
+                    # Les objets de la nouvelle France industrielle
+                    # New Face of Industry in France
+               o CRP
+               o Référents uniques à l'investissement
+               o Conseil national de l'industrie
+               o Le made in France
+                 (BUTTON) Le made in France
+                    # Les indications géographiques
+               o Silver economy
+               o Propriété industrielle
+          + Financement & aides aux entreprises
+            (BUTTON) Financement & aides aux entreprises
+               o Investissements des personnes physiques dans les PME
+               o Compensation carbone
+               o Crédit d’impôt collection
+               o Crédit impôt innovation
+               o Crédit d'impôt jeux vidéo
+               o Crédit d'impôt Maître-restaurateur
+               o Crédit d'impôt métiers d'art
+               o Crédit d'impôt recherche
+               o Le financement participatif ou crowdfunding
+               o Programmes communautaires
+                 (BUTTON) Programmes communautaires
+                    # COSME
+                    # Horizon 2020
+          + Réseau Entreprise Europe
+            (BUTTON) Réseau Entreprise Europe
+               o Le rôle du réseau
+               o Success Stories
+               o Contacts en région
+     * Entrepreneuriat
+       (BUTTON) Entrepreneuriat
+          + Financement & aides aux entreprises
+            (BUTTON) Financement & aides aux entreprises
+               o Crédit d’impôt collection
+               o Crédit impôt innovation
+               o Crédit d'impôt jeux vidéo
+               o Crédit d'impôt Maître-restaurateur
+               o Crédit d'impôt métiers d'art
+               o Crédit d'impôt recherche
+               o Le financement participatif ou crowdfunding
+               o Programmes communautaires
+                 (BUTTON) Programmes communautaires
+                    # COSME
+                    # Horizon 2020
+          + Transmission-reprise
+          + Evaluer ses ressources immatérielles
+          + Ambassadeurs des PME
+          + Micro-entrepreneur
+          + Les Cfe
+            (BUTTON) Les Cfe
+               o La commission de coordination des Cfe
+          + Eirl
+          + Promotion esprit d'entreprise
+     * Métiers - Formation
+       (BUTTON) Métiers - Formation
+          + Formation initiale
+            (BUTTON) Formation initiale
+               o Apprentissage et alternance
+               o Les métiers du tourisme
+               o La formation au design
+               o La formation à la création
+               o Enseignement supérieur
+          + Formation continue
+            (BUTTON) Formation continue
+               o Certification et VAE
+               o Contrats de professionalisation
+               o Formation à la metrologie
+               o Stage de préparation à l'installation
+               o Travailleurs indépendants
+          + Métiers d'art
+          + Métiers des Services à la Personne
+          + Métiers du tourisme
+          + Relation Ecole/Entreprise
+            (BUTTON) Relation Ecole/Entreprise
+               o Les Campus des métiers et des qualifications
+               o Le Conseil national éducation emploi
+          + Les concours de la DGE
+            (BUTTON) Les concours de la DGE
+               o Ingénieur de l'industrie et des mines
+               o Technicien supérieur de l'économie et de l'industrie
+          + Valorisation des métiers
+          + Web TV métiers
+     * Normes - Qualité
+       (BUTTON) Normes - Qualité
+          + Labels, marques et titres
+            (BUTTON) Labels, marques et titres
+               o Entreprise du patrimoine vivant
+               o Maître-restaurateur
+               o Qualité Tourisme™
+               o Tourisme et Handicap™
+          + Métrologie
+          + Normalisation
+          + Accréditation
+          + Qualité
+            (BUTTON) Qualité
+               o Quelques notions clés
+               o France Qualité Performance
+          + Sécurité
+            (BUTTON) Sécurité
+               o Jouets
+               o Matériels électriques et électroniques
+     * Simplifications
+       (BUTTON) Simplifications
+          + France Expérimentation
+          + Le choc de simplification
+          + Les grands principes
+          + La participation de la DGE
+          + Administration électronique
+          + Consulter pour mieux réglementer
+     * Égalité
+       (BUTTON) Égalité
+          + Les actions du Gouvernement
+          + Les femmes et les métiers
+            (BUTTON) Les femmes et les métiers
+               o Répartition femmes/hommes par métiers
+               o Association Force Femmes
+               o Le Trophée Femmes du tourisme 2014
+               o Les métiers du numérique et les femmes
+               o La CRMA du limousin
+
+     * Loi croissance
+     * Innovation
+          + Conseil de l'innovation
+          + Aides à l'innovation
+          + Innovation 2030
+          + Achats innovants
+               o Plate-forme achats innovants
+          + CAP'TRONIC
+          + Innovation dans les services
+          + Technologies clés 2020
+          + Technologies clés 2015
+     * Design
+     * Investissements d'avenir
+     * Pôles de compétitivité
+     * Propriété intellectuelle
+          + Lutte contre la contrefaçon
+               o Actions de sensibilisation
+               o Boite à outils des PME
+               o Documentation
+                    # Guides et fiches pratiques
+                    # Rapports et études
+                    # Réglementation
+                    # Autres publications
+               o Questions / réponses
+     * Politique industrielle
+          + La nouvelle France industrielle
+               o Les objets de la nouvelle France industrielle
+               o New Face of Industry in France
+          + CRP
+          + Référents uniques à l'investissement
+          + Conseil national de l'industrie
+          + Le made in France
+               o Les indications géographiques
+          + Silver economy
+          + Propriété industrielle
+     * Financement & aides aux entreprises
+          + Investissements des personnes physiques dans les PME
+          + Compensation carbone
+          + Crédit d’impôt collection
+          + Crédit impôt innovation
+          + Crédit d'impôt jeux vidéo
+          + Crédit d'impôt Maître-restaurateur
+          + Crédit d'impôt métiers d'art
+          + Crédit d'impôt recherche
+          + Le financement participatif ou crowdfunding
+          + Programmes communautaires
+               o COSME
+               o Horizon 2020
+     * Réseau Entreprise Europe> Success Stories
+          + Le rôle du réseau
+          + Success Stories
+          + Contacts en région
+
+   Écouter la page
+
+Success stories – Case studies
+
+L’entreprise 2CRSI accompagnée par Enterprise Europe Network pour décrocher
+un nouveau marché.
+
+   L’entreprise alsacienne 2CRSI conçoit et fabrique des serveurs et
+   systèmes informatiques sur-mesure. Pour se préparer aux audits de
+   certification par Intel et répondre à une appel d’offres du groupe
+   Dassault, les dirigeants ont sollicité les services Enterprise Europe
+   Network de la CCI de Région Alsace pour leur expliquer leurs
+   obligations règlementaires européennes au titre du règlement REACH et
+   des directives ROHS, CEM, BT et DEEE et les coacher dans leur mise en
+   oeuvre. Akim Pantescu, responsable administratif et qualité « Les
+   conseillères EEN nous ont posé les bonnes questions, en insistant sur
+   les points d'achoppement, et nous ont vraiment bien challengés. » Une
+   stratégie payante puisque l'entreprise a décroché une commande
+   conséquente de simulateurs de vols, avec un engagement contractuel sur
+   dix ans.
+
+
+
+Un Info Day et une convention d’affaires pour trouver des partenaires R&D
+
+   Les cancers sont une des principales causes de décès dans l’Union
+   européenne et, malgré l’amélioration des thérapies mises en œuvre, ils
+   restent difficiles à soigner. Une des solutions réside dans la
+   détection rapide du cancer et la mise en œuvre de protocoles de soins
+   personnalisés en fonction du profil du patient. Cette orientation est
+   explorée par le laboratoire Homéostasie Cellulaire et Pathologies
+   (EA3842) de l’Université de Limoges qui travaille notamment sur
+   l’isolement et la culture de cellules souches cancéreuses.
+
+   Une première participation, initiée par le Dr Fabrice Lalloué, maître
+   de conférences au EA 3842, à un programme du 7e Programme Cadre de
+   Recherche et Développement en 2007 avait déjà permis des avancées.
+   L’organisation d’un Info Day à Limoges en novembre 2013 par le réseau
+   Entreprise Europe a permis au Dr Barbara Bessette, enseignant
+   chercheur, « de rencontrer le Point de Contact National (PCN) santé et
+   de valider l’adéquation de mon sujet de recherche avec les orientations
+   de Horizon 2020 ».
+
+   « Il me manquait cependant des partenaires de recherche pour pouvoir
+   répondre aux appels du programme Horizon 2020. C’est ainsi que j’ai
+   décidé de passer à l’échelon supérieur et de participer à l’info day
+   national organisé par le PCN à Lyon en juillet 2014 et surtout à la
+   convention d’affaires proposée à cette occasion par le réseau
+   Entreprise Europe. J’ai pu y rencontrer une dizaine de représentants
+   d’organisations de recherche ou d’entreprises avec des préoccupations
+   similaires aux miennes ».
+
+   « Finalement avec trois partenaires rencontrés à Lyon, j’ai déposé un
+   projet dans le cadre du call H2020–PHC-3 understanding common
+   mechanisms of disease and their relevance in co-morbidities ; chose qui
+   aurait été impossible sans les occasions d’information et de prise de
+   contact créées par le réseau Entreprise Europe ».
+
+   Contact : Barbara Bessette – Université de Limoges, Laboratoire EA3842
+
+   NL n°75 - Avril 2015
+   (www.entreprise-europe-sud-ouest.fr/ckfinder/userfiles/private/newslett
+   ers/Newsletter%20n%C2%B075%20Avril%202015.pdf)
+
+
+Rencontres Technologiques Micro & Nanotechnologies, un événement plébiscité
+par les PME
+
+   IFRAME: //www.youtube.com/embed/-z7jWEyR6bk?rel=0
+
+   La CCIR de Franche-Comté organise depuis 1998 à chaque édition du salon
+   Micronora des rencontres technologiques européennes (Micro &
+   Nanotechnologies brokerage event) dans le cadre du réseau Enterprise
+   Europe Network et avec le soutien du groupe sectoriel Micro &
+   Nanotechnologies.
+
+   Outre un très fort niveau de satisfaction, l'événement produit de plus
+   en plus de partenariats. A l'issue de l'édition 2012, 4 PME européennes
+   ont été interviewées. L'édition 2012 a déjà généré 7 collaborations
+   transnationales.
+
+   A ne pas manquer la 9ème édition qui est en cours de préparation et se
+   tiendra les 25 et 26 septembre 2014 à Besançon.
+
+   Plus d'informations : www.micro-nano-event.eu
+   Contact : Anne-Marie VIEUX Chef de projet innovation Enterprise Europe
+   Network / CCIR de Franche-Comté (ARIST) amvieux@franche-comte.cci.fr
+
+
+Pêche : innovation dans la pêche de coquilles Saint-Jacques
+
+   La société Mécatol basée à Perros-Guirrec, spécialisée en mécanique et
+   chaudronnerie, propose désormais aux pêcheurs de coquilles
+   Saint-Jacques plusieurs types de dragues innovants et robustes
+   (largueur 800 et 2000). Spécialement conçues pour être efficaces tout
+   en respectant l’environnement, ces nouvelles dragues sont
+   co-développées en partenariat avec une société écossaise rencontrée
+   lors des rendez-vous d’affaires organisés par Entreprise Europe Ouest
+   au salon ITECHMER 2011. Ce partenariat se traduit par l’amélioration
+   significative des dragues pour répondre aux fortes attentes des
+   pêcheurs pour la nouvelle saison de pêche qui démarre au mois d’octobre
+   2013.
+   Contact : MECATOL - M. Thierry Monjaret – 02 96 23 23 43
+   – mecatol22@orange.fr
+
+
+
+Guérir la surdité
+
+Partenaires :
+
+   France: Chambre Régionale de Commerce et d'Industrie Rhône-Alpes
+   Royaume-Uni : London Technology Network
+
+   IFRAME: http://www.youtube.com/embed/u_WpUh5O_lk
+
+   A l’occasion de la quatrième conférence annuelle Enterprise Europe
+   Network qui s’est tenue à Varsovie du 26 au 28 septembre dernier, les
+   prix spéciaux "Étoiles du réseau" ont été décernés pour récompenser les
+   entreprises et les chercheurs qui ont utilisé le réseau pour trouver
+   des opportunités à l’étranger ou pour développer leurs affaires et
+   leurs activités de recherche.
+   Dans la catégorie "Doing Good Business" ont été récompensés la
+   scientifique française Frédérique Magdinier (LBMC) et le chercheur
+   britannique Mark Maconochie (University of Sussex). Le réseau a
+   facilité un transfert de technologie qui a aidé les chercheurs à
+   trouver un traitement potentiel de la surdité.
+
+   Pour en savoir plus :
+   http://www.enterprise-europe-network.ec.europa.eu/success-stories/searc
+   h-cure-deafness
+   Modifié le 22/02/2016
+
+
+Témoignages vidéo
+
+   Innovation, anticiper la mise en conformité de vos produits!
+   par l'entreprise NDMAC systems, accompagnée par le réseau Entreprise
+   Europe Network.
+
+   Vidéo réalisée par Bretagne Développement Innovation
+
+   IFRAME: https://www.youtube.com/embed/KDTbil1B3Q4?rel=0
+
+
+   Innover et accéder à de nouveaux marchés
+   par David Le Meur, Responsable international de l'entreprise Bookbeo,
+   située à Le Faou dans le Finistère
+
+   IFRAME: https://www.youtube.com/embed/G5rt1Lk-V70?rel=0
+
+
+
+   Haut de page
+
+   (BUTTON) Mentions légales et infos pratiques
+     * Mentions légales
+     * Plan du site
+     * Foire Aux Questions (FAQ)
+
+   Partager :
+
+Accès directs
+
+   Agence du numérique Biens à double usage Commission nationale
+   d'aménagement commercial Commission nationale des services Conseil
+   national de l'industrie Coeur de Ville L'industrie Espace Innovation
+   2030 Libre circulation des marchandises en Europe Marques nationales du
+   tourisme
+   Métrologie Précurseurs chimiques de drogues Observatoire du numérique
+   Qualité tourisme Semaine de l'industrie 2019 Services Services à la
+   personne Information stratégique - SISSE Tourisme Zones touristiques
+   internationales
+
+
+Le portail de la DGE
+
+     * Plan du site
+     * Mentions légales
+     * Saisir la DGE par voie électronique (SVE)
+     * Accessibilité
+     * Archives des anciens sites
+
+L'Actu de la DGE
+
+     * Fils d'actualités (Flux RSS)
+     * Communiqués de presse
+     * Appels à projets
+     * Événements de la DGE
+     * La Dge & vous
+     * Rapport d'activité - Perspectives
+
+Les réseaux sociaux
+
+     * Sur Twitter
+     * Sur Facebook
+     * Sur DailyMotion
+     * Sur YouTube
+     * Sur Instagram
+     * Sur Linkedin
+
+Sites de Bercy
+
+     * Économie
+     * Pôles de compétitivité
+     * France Num : Entreprises, passez au numérique
+
+Autres sites
+
+     * L'alliance pour l'innovation ouverte
+     * Innovation 2030 - Concours mondial d'innovation
+     * Le portail des aides aux entreprises
+     * oups.gouv.fr : Vous avez droit à l'erreur
+
+   Le sens de l'entreprise pour l'intérêt général
+
+   © Direction générale des entreprises (DGE) 2019
+
+   Service public  service-public.fr     Legifrance
+   legifrance.gouv.fr     www.gouvernement.fr  gouvernement.fr
+   France.fr  france.fr     RGAA  Accessibilité
+
+   image xiti
+
+   Fermer Fermer
+
+   Le paysage réseaux sociaux de la DGE évolue !
+   Pour la 10e édition de la Semaine de l'industrie, du 30 mars au 5 avril
+   2020, nous vous proposons de retrouver tous nos contenus sur la page
+   Facebook de la Direction générale des entreprises.
+
+
+     DGEntreprises
+
+   Connaissez-vous La page Facebook de la DGE ?
+
+   Pour suivre toute l'actualité, cliquez sur le bouton « J'aime »
+     * Aller au menu principal
+     * Aller au contenu
+     * Aller au formulaire de recherche
+
+   (BUTTON) Menu
+   (BUTTON) Fermer
+     * Accueil
+     * Politique et Enjeux
+       (BUTTON) Politique et Enjeux
+          + Compétitivité
+          + Entrepreneuriat
+          + Métiers - Formation
+          + Normes - Qualité
+          + Relocaliser : le choix de la France
+          + La semaine de l'industrie
+          + Égalité
+     * Secteurs professionnels
+       (BUTTON) Secteurs professionnels
+          + L'artisanat
+          + Le commerce
+          + L'industrie
+          + Le numérique
+          + Les prof. libérales
+          + Les services
+          + Les services à la personne
+          + Le tourisme
+     * Études et statistiques
+     * Accès directs
+       (BUTTON) Accès directs
+          + Appels à projets
+          + Communiqués de presse
+          + Événements
+          + La DGE sur Twitter
+          + La DGE sur Facebook
+          + La DGE sur DailyMotion
+          + Newsletters « La DGE & Vous »
+          + competitivite.gouv.fr
+     * Autres dossiers
+       (BUTTON) Autres dossiers
+          + Agence du numérique
+          + Biens à double usage
+          + Commission nationale des services (CNS)
+          + Conseil national de l'industrie (CNI)
+          + Guide de la propriété intellectuelle dans les pôles de
+            compétitivité
+          + Libre circulation des marchandises en Europe
+          + Marketing et PME
+          + Marques nationales du tourisme
+          + Métrologie
+          + Précurseurs chimiques de drogues
+          + Qualité tourisme
+     * Semaine de l'industrie
+     * English
+
+     * Flux RSS
+
+     Facebook
+   Liberté, Égalité, Fraternité, République Française - Ministère de
+   l'Economie et des Finances
+   Le portail de la DGE
+     * Appels à Projet
+     * Evénements
+     * Communiqués
+     * La DGE sur Twitter
+     * La DGE sur Facebook
+
+   DGE, Direction Générale des Entreprises
+     * Accueil
+          + A la Une
+          + Bruno Le Maire
+          + Agnès Pannier-Runacher
+          + Cédric O
+          + Les thématiques de la DGE
+     * La DGE
+     * Politique - Enjeux
+     * Secteurs professionnels
+     * Etudes - Statistiques
+     * A votre service
+     * Web TV
+     * English
+
+   Accueil du portail › POLITIQUE-ET-ENJEUX › Compétitivité › Réseau
+   Entreprise Europe › Contacts en région › Réseau Entreprise Europe :
+   contacts en régions
+
+   [bandeau-politique-et-enjeux.png]
+   (BUTTON) Politique et enjeux
+   (BUTTON) Fermer
+     * Accueil
+     * Compétitivité
+       (BUTTON) Compétitivité
+          + Loi croissance
+          + Innovation
+            (BUTTON) Innovation
+               o Conseil de l'innovation
+               o Aides à l'innovation
+               o Innovation 2030
+               o Achats innovants
+                 (BUTTON) Achats innovants
+                    # Plate-forme achats innovants
+               o CAP'TRONIC
+               o Innovation dans les services
+               o Technologies clés 2020
+               o Technologies clés 2015
+          + Design
+          + Investissements d'avenir
+          + Pôles de compétitivité
+          + Propriété intellectuelle
+            (BUTTON) Propriété intellectuelle
+               o Lutte contre la contrefaçon
+                 (BUTTON) Lutte contre la contrefaçon
+                    # Actions de sensibilisation
+                    # Boite à outils des PME
+                    # Documentation
+                      (BUTTON) Documentation
+                         @ Guides et fiches pratiques
+                         @ Rapports et études
+                         @ Réglementation
+                         @ Autres publications
+                    # Questions / réponses
+          + Politique industrielle
+            (BUTTON) Politique industrielle
+               o La nouvelle France industrielle
+                 (BUTTON) La nouvelle France industrielle
+                    # Les objets de la nouvelle France industrielle
+                    # New Face of Industry in France
+               o CRP
+               o Référents uniques à l'investissement
+               o Conseil national de l'industrie
+               o Le made in France
+                 (BUTTON) Le made in France
+                    # Les indications géographiques
+               o Silver economy
+               o Propriété industrielle
+          + Financement & aides aux entreprises
+            (BUTTON) Financement & aides aux entreprises
+               o Investissements des personnes physiques dans les PME
+               o Compensation carbone
+               o Crédit d’impôt collection
+               o Crédit impôt innovation
+               o Crédit d'impôt jeux vidéo
+               o Crédit d'impôt Maître-restaurateur
+               o Crédit d'impôt métiers d'art
+               o Crédit d'impôt recherche
+               o Le financement participatif ou crowdfunding
+               o Programmes communautaires
+                 (BUTTON) Programmes communautaires
+                    # COSME
+                    # Horizon 2020
+          + Réseau Entreprise Europe
+            (BUTTON) Réseau Entreprise Europe
+               o Le rôle du réseau
+               o Success Stories
+               o Contacts en région
+     * Entrepreneuriat
+       (BUTTON) Entrepreneuriat
+          + Financement & aides aux entreprises
+            (BUTTON) Financement & aides aux entreprises
+               o Crédit d’impôt collection
+               o Crédit impôt innovation
+               o Crédit d'impôt jeux vidéo
+               o Crédit d'impôt Maître-restaurateur
+               o Crédit d'impôt métiers d'art
+               o Crédit d'impôt recherche
+               o Le financement participatif ou crowdfunding
+               o Programmes communautaires
+                 (BUTTON) Programmes communautaires
+                    # COSME
+                    # Horizon 2020
+          + Transmission-reprise
+          + Evaluer ses ressources immatérielles
+          + Ambassadeurs des PME
+          + Micro-entrepreneur
+          + Les Cfe
+            (BUTTON) Les Cfe
+               o La commission de coordination des Cfe
+          + Eirl
+          + Promotion esprit d'entreprise
+     * Métiers - Formation
+       (BUTTON) Métiers - Formation
+          + Formation initiale
+            (BUTTON) Formation initiale
+               o Apprentissage et alternance
+               o Les métiers du tourisme
+               o La formation au design
+               o La formation à la création
+               o Enseignement supérieur
+          + Formation continue
+            (BUTTON) Formation continue
+               o Certification et VAE
+               o Contrats de professionalisation
+               o Formation à la metrologie
+               o Stage de préparation à l'installation
+               o Travailleurs indépendants
+          + Métiers d'art
+          + Métiers des Services à la Personne
+          + Métiers du tourisme
+          + Relation Ecole/Entreprise
+            (BUTTON) Relation Ecole/Entreprise
+               o Les Campus des métiers et des qualifications
+               o Le Conseil national éducation emploi
+          + Les concours de la DGE
+            (BUTTON) Les concours de la DGE
+               o Ingénieur de l'industrie et des mines
+               o Technicien supérieur de l'économie et de l'industrie
+          + Valorisation des métiers
+          + Web TV métiers
+     * Normes - Qualité
+       (BUTTON) Normes - Qualité
+          + Labels, marques et titres
+            (BUTTON) Labels, marques et titres
+               o Entreprise du patrimoine vivant
+               o Maître-restaurateur
+               o Qualité Tourisme™
+               o Tourisme et Handicap™
+          + Métrologie
+          + Normalisation
+          + Accréditation
+          + Qualité
+            (BUTTON) Qualité
+               o Quelques notions clés
+               o France Qualité Performance
+          + Sécurité
+            (BUTTON) Sécurité
+               o Jouets
+               o Matériels électriques et électroniques
+     * Simplifications
+       (BUTTON) Simplifications
+          + France Expérimentation
+          + Le choc de simplification
+          + Les grands principes
+          + La participation de la DGE
+          + Administration électronique
+          + Consulter pour mieux réglementer
+     * Égalité
+       (BUTTON) Égalité
+          + Les actions du Gouvernement
+          + Les femmes et les métiers
+            (BUTTON) Les femmes et les métiers
+               o Répartition femmes/hommes par métiers
+               o Association Force Femmes
+               o Le Trophée Femmes du tourisme 2014
+               o Les métiers du numérique et les femmes
+               o La CRMA du limousin
+
+     * Loi croissance
+     * Innovation
+          + Conseil de l'innovation
+          + Aides à l'innovation
+          + Innovation 2030
+          + Achats innovants
+               o Plate-forme achats innovants
+          + CAP'TRONIC
+          + Innovation dans les services
+          + Technologies clés 2020
+          + Technologies clés 2015
+     * Design
+     * Investissements d'avenir
+     * Pôles de compétitivité
+     * Propriété intellectuelle
+          + Lutte contre la contrefaçon
+               o Actions de sensibilisation
+               o Boite à outils des PME
+               o Documentation
+                    # Guides et fiches pratiques
+                    # Rapports et études
+                    # Réglementation
+                    # Autres publications
+               o Questions / réponses
+     * Politique industrielle
+          + La nouvelle France industrielle
+               o Les objets de la nouvelle France industrielle
+               o New Face of Industry in France
+          + CRP
+          + Référents uniques à l'investissement
+          + Conseil national de l'industrie
+          + Le made in France
+               o Les indications géographiques
+          + Silver economy
+          + Propriété industrielle
+     * Financement & aides aux entreprises
+          + Investissements des personnes physiques dans les PME
+          + Compensation carbone
+          + Crédit d’impôt collection
+          + Crédit impôt innovation
+          + Crédit d'impôt jeux vidéo
+          + Crédit d'impôt Maître-restaurateur
+          + Crédit d'impôt métiers d'art
+          + Crédit d'impôt recherche
+          + Le financement participatif ou crowdfunding
+          + Programmes communautaires
+               o COSME
+               o Horizon 2020
+     * Réseau Entreprise Europe> Contacts en région
+          + Le rôle du réseau
+          + Success Stories
+          + Contacts en région
+
+   Écouter la page
+
+Réseau Entreprise Europe : contacts en régions
+
+   IFRAME: https://outils.entreprises.gouv.fr/cartographie/een.php
+
+
+
+
+
+
+Voir aussi
+
+     * La liste complète des contacts en région
+
+
+
+   Haut de page
+
+   (BUTTON) Mentions légales et infos pratiques
+     * Mentions légales
+     * Plan du site
+     * Foire Aux Questions (FAQ)
+
+   Partager :
+
+Accès directs
+
+   Agence du numérique Biens à double usage Commission nationale
+   d'aménagement commercial Commission nationale des services Conseil
+   national de l'industrie Coeur de Ville L'industrie Espace Innovation
+   2030 Libre circulation des marchandises en Europe Marques nationales du
+   tourisme
+   Métrologie Précurseurs chimiques de drogues Observatoire du numérique
+   Qualité tourisme Semaine de l'industrie 2019 Services Services à la
+   personne Information stratégique - SISSE Tourisme Zones touristiques
+   internationales
+
+
+Le portail de la DGE
+
+     * Plan du site
+     * Mentions légales
+     * Saisir la DGE par voie électronique (SVE)
+     * Accessibilité
+     * Archives des anciens sites
+
+L'Actu de la DGE
+
+     * Fils d'actualités (Flux RSS)
+     * Communiqués de presse
+     * Appels à projets
+     * Événements de la DGE
+     * La Dge & vous
+     * Rapport d'activité - Perspectives
+
+Les réseaux sociaux
+
+     * Sur Twitter
+     * Sur Facebook
+     * Sur DailyMotion
+     * Sur YouTube
+     * Sur Instagram
+     * Sur Linkedin
+
+Sites de Bercy
+
+     * Économie
+     * Pôles de compétitivité
+     * France Num : Entreprises, passez au numérique
+
+Autres sites
+
+     * L'alliance pour l'innovation ouverte
+     * Innovation 2030 - Concours mondial d'innovation
+     * Le portail des aides aux entreprises
+     * oups.gouv.fr : Vous avez droit à l'erreur
+
+   Le sens de l'entreprise pour l'intérêt général
+
+   © Direction générale des entreprises (DGE) 2019
+
+   Service public  service-public.fr     Legifrance
+   legifrance.gouv.fr     www.gouvernement.fr  gouvernement.fr
+   France.fr  france.fr     RGAA  Accessibilité
+
+   image xiti
+
+   Fermer Fermer
+
+   Le paysage réseaux sociaux de la DGE évolue !
+   Pour la 10e édition de la Semaine de l'industrie, du 30 mars au 5 avril
+   2020, nous vous proposons de retrouver tous nos contenus sur la page
+   Facebook de la Direction générale des entreprises.
+
+
+     DGEntreprises
+
+   Connaissez-vous La page Facebook de la DGE ?
+
+   Pour suivre toute l'actualité, cliquez sur le bouton « J'aime »
+     * Aller au menu principal
+     * Aller au contenu
+     * Aller au formulaire de recherche
+
+   (BUTTON) Menu
+   (BUTTON) Fermer
+     * Accueil
+     * Politique et Enjeux
+       (BUTTON) Politique et Enjeux
+          + Compétitivité
+          + Entrepreneuriat
+          + Métiers - Formation
+          + Normes - Qualité
+          + Relocaliser : le choix de la France
+          + La semaine de l'industrie
+          + Égalité
+     * Secteurs professionnels
+       (BUTTON) Secteurs professionnels
+          + L'artisanat
+          + Le commerce
+          + L'industrie
+          + Le numérique
+          + Les prof. libérales
+          + Les services
+          + Les services à la personne
+          + Le tourisme
+     * Études et statistiques
+     * Accès directs
+       (BUTTON) Accès directs
+          + Appels à projets
+          + Communiqués de presse
+          + Événements
+          + La DGE sur Twitter
+          + La DGE sur Facebook
+          + La DGE sur DailyMotion
+          + Newsletters « La DGE & Vous »
+          + competitivite.gouv.fr
+     * Autres dossiers
+       (BUTTON) Autres dossiers
+          + Agence du numérique
+          + Biens à double usage
+          + Commission nationale des services (CNS)
+          + Conseil national de l'industrie (CNI)
+          + Guide de la propriété intellectuelle dans les pôles de
+            compétitivité
+          + Libre circulation des marchandises en Europe
+          + Marketing et PME
+          + Marques nationales du tourisme
+          + Métrologie
+          + Précurseurs chimiques de drogues
+          + Qualité tourisme
+     * Semaine de l'industrie
+     * English
+
+     * Flux RSS
+
+     Facebook
+   Liberté, Égalité, Fraternité, République Française - Ministère de
+   l'Economie et des Finances
+   Le portail de la DGE
+     * Appels à Projet
+     * Evénements
+     * Communiqués
+     * La DGE sur Twitter
+     * La DGE sur Facebook
+
+   DGE, Direction Générale des Entreprises
+     * Accueil
+          + A la Une
+          + Bruno Le Maire
+          + Agnès Pannier-Runacher
+          + Cédric O
+          + Les thématiques de la DGE
+     * La DGE
+     * Politique - Enjeux
+     * Secteurs professionnels
+     * Etudes - Statistiques
+     * A votre service
+     * Web TV
+     * English
+
+   Accueil du portail › SECTEURS-PROFESSIONNELS › Professions libérales ›
+   Ressources › Doctrine et jurisprudence › Doctrine et jurisprudence
+
+   (BUTTON) Secteurs professionnels
+   (BUTTON) Fermer
+     * Accueil
+     * Artisanat
+       (BUTTON) Artisanat
+          + Rendez-vous de l'artisanat
+          + Chambres de métiers et de l'artisanat
+            (BUTTON) Chambres de métiers et de l'artisanat
+               o L'APCMA
+               o Les chambres du réseau
+               o Tutelle des CMA
+          + Le conjoint de l’artisan
+          + EPARECA
+          + Les EPV
+          + FNPCA
+          + Le FISAC
+            (BUTTON) Le FISAC
+               o Financement 2016
+          + Hôtels Cafés Restaurants
+            (BUTTON) Hôtels Cafés Restaurants
+               o Le "fait maison"
+               o Le titre de Maître restaurateur
+               o Les débitants de tabac
+          + Restauration à domicile
+            (BUTTON) Restauration à domicile
+               o Plateforme d'intermédiation
+               o Restaurateur à domicile
+          + Métiers d'art
+          + La NAFA (Rev. 2)
+          + Numérique
+          + Pôles d'innovation pour l'artisanat
+          + Valorisation des métiers
+     * Commerce
+       (BUTTON) Commerce
+          + Aménagement commercial
+            (BUTTON) Aménagement commercial
+               o Commissions départementales
+               o Commission nationale
+               o Implantation des commerces de détails
+          + Activités ambulantes
+          + Commission de concertation du Commerce
+          + Hôtels-Cafés-Restaurants
+          + Réseaux commerciaux
+            (BUTTON) Réseaux commerciaux
+               o La Franchise
+               o Le commerce coopératif et associé
+          + Soldes
+          + Autres ventes réglementées
+          + EPARECA
+          + Le FISAC
+          + Les chambres de commerce et d'industrie
+            (BUTTON) Les chambres de commerce et d'industrie
+               o Organisation des CCI
+               o La tutelle des CCI
+               o Schémas directeurs des CCI
+     * Industrie
+       (BUTTON) Industrie
+          + Territoires d'Industrie
+            (BUTTON) Territoires d'Industrie
+               o Présentation du dispositif
+               o Chiffres clés
+               o Accompagner le développement
+               o Évènements
+               o Ressources
+          + Alimentaire
+          + Bois
+          + Chimie
+            (BUTTON) Chimie
+               o Bonnes pratiques de laboratoires
+                 (BUTTON) Bonnes pratiques de laboratoires
+                    # La réglementation nationale
+                    # Le fonctionnement du GIPC
+               o Comité stratégique de filière
+               o Plates-formes chimiques
+               o Précurseurs chimiques
+               o Règlement Reach
+               o Substances chimiques
+          + Design
+            (BUTTON) Design
+               o Les actions de la DGE en faveur du Design
+               o Les acteurs français
+               o La Web TV Design
+          + Imprimerie
+          + Matériaux
+            (BUTTON) Matériaux
+               o Métaux stratégiques
+               o Acier - Aluminium
+          + Nucléaire
+          + Photonique
+          + Robotique
+            (BUTTON) Robotique
+               o Robotique de service
+               o Concours robotique
+               o Etats généraux de la robotique
+               o Tech days robotiques
+          + Santé
+          + Textile, mode et luxe
+            (BUTTON) Textile, mode et luxe
+               o Le comité stratégique de filière
+               o Mode et Luxe
+                 (BUTTON) Mode et Luxe
+                    # Appellation "Haute Couture"
+                    # Le dispositif de financement des jeunes entreprises
+                      de création
+                    # Dispositifs d'appui aux industries de la mode et du
+                      luxe
+                    # La réglementation en vigueur
+                    # La contrefaçon
+                    # Les formations aux métiers du luxe
+                    # Etudes rapports et guides pratiques
+                    # Les sites utiles
+               o Textile
+                 (BUTTON) Textile
+                    # Textiles techniques : le projet VATEX
+          + Transports
+            (BUTTON) Transports
+               o Aéronautique
+               o Automobile
+                 (BUTTON) Automobile
+                    # Comité stratégique de filière
+               o Ferroviaire
+               o Naval
+          + Politique industrielle
+            (BUTTON) Politique industrielle
+               o La nouvelle France industrielle
+                 (BUTTON) La nouvelle France industrielle
+                    # New face of industry in France
+                    # Les objets de la nouvelle France industrielle
+               o Conseil national de l'industrie
+                 (BUTTON) Conseil national de l'industrie
+                    # Comités stratégiques de filières
+               o Commissaires au redressement productif
+               o Référents uniques à l'investissement
+                 (BUTTON) Référents uniques à l'investissement
+                    # Relocaliser
+               o Silver economy
+               o Le made in France
+                 (BUTTON) Le made in France
+                    # Indications géographiques
+          + Propriété Industrielle
+            (BUTTON) Propriété Industrielle
+               o Une politique au cœur de l’action de la DGE
+               o Comment valoriser un brevet grâce à France Brevets ?
+               o Le brevet européen
+               o La lutte contre la contrefaçon
+                 (BUTTON) La lutte contre la contrefaçon
+                    # La contrefaçon en chiffres
+                    # Comment lutter contre la contrefaçon ?
+                    # Comment réagir en cas de contrefaçon de vos produits
+                      ?
+          + Les CCI
+          + Les CTI
+     * Numérique
+     * Professions libérales
+       (BUTTON) Professions libérales
+          + Les professionnels
+            (BUTTON) Les professionnels
+               o Droit
+               o Santé
+               o Technique et cadre de vie
+          + Observatoire de l'activité libérale
+          + Contrat de collaboration libérale
+            (BUTTON) Contrat de collaboration libérale
+               o Architecte
+               o Expert comptable
+               o Chirurgien-dentiste
+               o Avocat
+               o Masseur-kinésithérapeute
+               o Médecin
+               o Vétérinaire
+               o Sage-femme
+          + International – export
+          + Ressources
+            (BUTTON) Ressources
+               o Références juridiques
+               o Doctrine et jurisprudence
+               o Autres ressources
+     * Services
+       (BUTTON) Services
+          + Activités postales
+            (BUTTON) Activités postales
+               o Rôle de la Dgcis
+               o Cadre juridique des activités postales
+               o Aménagement du territoire
+               o Union postale universelle
+               o Europe postale
+               o Normalisation
+               o Réclamations
+               o Terminologie
+               o Poste:contacts et liens utiles
+          + La CNS
+          + Le FISAC
+          + Services à la personne
+            (BUTTON) Services à la personne
+               o Réglementation
+               o Créer son entreprise
+               o Activités
+               o Exonérations fiscales et sociales
+          + Commission des Comptes
+     * Tourisme
+
+     * Les professionnels
+          + Droit
+          + Santé
+          + Technique et cadre de vie
+     * Observatoire de l'activité libérale
+     * Contrat de collaboration libérale
+          + Architecte
+          + Expert comptable
+          + Chirurgien-dentiste
+          + Avocat
+          + Masseur-kinésithérapeute
+          + Médecin
+          + Vétérinaire
+          + Sage-femme
+     * International – export
+     * Ressources> Doctrine et jurisprudence
+          + Références juridiques
+          + Doctrine et jurisprudence
+          + Autres ressources
+
+   Écouter la page
+
+   Professions libérales
+
+Doctrine et jurisprudence
+
+Rapports publics et avis
+
+
+     * Avis n° 16-A-26 du 20 décembre 2016 de l'Autorité de la
+       concurrence, relatif à la liberté d’installation des
+       commissaires-priseurs judiciaires et à une proposition de carte des
+       zones d’implantation, assortie de recommandations sur le rythme de
+       création de nouveaux offices de commissaires-priseurs judiciaires
+
+   A consulter sur le même sujet: Recommandations chiffrées relatives aux
+   commissaires-priseurs judiciaires
+     * Avis n° 16-A-25 du 20 décembre 2016 de l'Autorité de la
+       concurrence, relatif à la liberté d’installation des huissiers de
+       justice et à une proposition de carte des zones d’implantation,
+       assortie de recommandations sur le rythme de création de nouveaux
+       offices d’huissiers de justice
+
+   A consulter sur le même sujet: Recommandations chiffrées relatives aux
+   huissiers de justice
+     * Rapport de l'IGF et de l'IGAS sur les "Évolutions de l’assiette et
+       des modalités de calcul et de recouvrement des cotisations
+       sociales des travailleurs indépendants", juillet 2016
+     * Rapport de l'IGF "Les associations de gestion et de comptabilité et
+       les sociétés d’expertise comptable", juin 2016
+     * Avis n° 16-A-13 du 9 juin 2016 de l'Autorité de la concurrence
+       relatif à la liberté d’installation des notaires et à une
+       proposition de carte des zones d’implantation, assortie de
+       recommandations sur le rythme de création de nouveaux offices
+       notariaux
+
+
+   Avis n° 15-A-02 du 9 janvier 2015 relatif aux questions de concurrence
+   concernant certaines professions juridiques réglementées
+
+   Saisie par le ministre chargé de l'Economie le 3 juin 2014, l'Autorité
+   de la concurrence, sur saisine du ministre chargé de l’Economie, rend
+   son avis sur les professions juridiques : maintenir un certain niveau
+   de réglementation afin de garantir aux consommateurs et aux entreprises
+   compétence et sécurité juridique tout en modernisant et en ouvrant les
+   professions juridiques concernées.
+
+   Synthèse de l'avis 15-A-02 du 9 janvier 2015 relatif aux questions de
+   concurrence concernant certaines professions juridiques réglementées
+
+   Rapport d'information sur les professions juridiques réglementées
+   -Commission des lois constitutionnelles, de la législation et de
+   l'administration générale de la République
+
+   Présentation des travaux et des conclusions de la Commission des lois
+   constitutionnelles, de la législation et de l’administration générale
+   de la République sur les réformes à envisager pour moderniser les
+   conditions d’exercice des professions juridiques favoriser une meilleur
+   maillage territorial et réviser les tarifs règlementés.
+
+   « Professions règlementées : pour une nouvelle jeunesse » Rapport sur
+   les professions réglementées, Richard Ferrand, octobre 2014
+
+   Répondant à une lettre de mission du Premier Ministre, le député
+   Richard Ferrand rapporte les conclusions des recherches menées et
+   propose différentes pistes de réforme des professions règlementées en
+   vue d’une meilleure insertion des jeunes professionnels, via une
+   modernisation des conditions d’exercices (maillage territorial,
+   détention capitalistique, tarifs).
+
+
+
+
+Jurisprudence
+
+
+     * Arrêt de la CJUE du 4 mai 2017, renvoi préjudiciel portant sur
+       l'article 56 du TFUE relatif à la libre prestation des services –
+       Prestations de soins buccaux et dentaires
+     * Décision n° 2016-551 QPC du 6 juillet 2016
+
+   Question prioritaire de constitutionnalité: décision n°2015-463 du
+   Conseil constitutionnel (direction d'une entreprise exerçant des
+   activités privées de sécurité - Condition de nationalité)
+
+   Question prioritaire de constitutionnalité: décision n° 2015-459 du
+   Conseil constitutionnel (Droit de présentation des greffiers des
+   tribunaux de commerce)
+
+   Question prioritaire de constitutionnalité: décision n°2014-457 du
+   Conseil constitutionnel relative à la composition du conseil national
+   de l’ordre des pharmaciens statuant en matière disciplinaire
+
+   Question prioritaire de constitutionnalité: decision n° 2013-364 du
+   Conseil constitutionnel (publicité Publicité en faveur des officines de
+   pharmacie)
+
+   Arrêt n° 369949 du Conseil d’Etat du 27 février 2015 relatif aux
+   conditions d’exploitation d’une officine de pharmacie par une société
+   d’exercice libéral (SEL) et aux sociétés de participation financière de
+   professions libérales (SPFPL) de pharmacies d’officines.
+
+   Arrêt n°382830 du Conseil d'Etat du 30 décembre 2014       Procédure de
+   saisine du Conseil d’Etat d’une question prioritaire de
+   constitutionalité par un Ordre professionnel
+
+   Synthèse de décisions
+
+
+
+   Modifié le 08/08/2018
+
+   Haut de page
+
+   (BUTTON) Mentions légales et infos pratiques
+     * Mentions légales
+     * Plan du site
+     * Foire Aux Questions (FAQ)
+
+   Partager :
+
+Accès directs
+
+   Agence du numérique Biens à double usage Commission nationale
+   d'aménagement commercial Commission nationale des services Conseil
+   national de l'industrie Coeur de Ville L'industrie Espace Innovation
+   2030 Libre circulation des marchandises en Europe Marques nationales du
+   tourisme
+   Métrologie Précurseurs chimiques de drogues Observatoire du numérique
+   Qualité tourisme Semaine de l'industrie 2019 Services Services à la
+   personne Information stratégique - SISSE Tourisme Zones touristiques
+   internationales
+
+
+Le portail de la DGE
+
+     * Plan du site
+     * Mentions légales
+     * Saisir la DGE par voie électronique (SVE)
+     * Accessibilité
+     * Archives des anciens sites
+
+L'Actu de la DGE
+
+     * Fils d'actualités (Flux RSS)
+     * Communiqués de presse
+     * Appels à projets
+     * Événements de la DGE
+     * La Dge & vous
+     * Rapport d'activité - Perspectives
+
+Les réseaux sociaux
+
+     * Sur Twitter
+     * Sur Facebook
+     * Sur DailyMotion
+     * Sur YouTube
+     * Sur Instagram
+     * Sur Linkedin
+
+Sites de Bercy
+
+     * Économie
+     * Pôles de compétitivité
+     * France Num : Entreprises, passez au numérique
+
+Autres sites
+
+     * L'alliance pour l'innovation ouverte
+     * Innovation 2030 - Concours mondial d'innovation
+     * Le portail des aides aux entreprises
+     * oups.gouv.fr : Vous avez droit à l'erreur
+
+   Le sens de l'entreprise pour l'intérêt général
+
+   © Direction générale des entreprises (DGE) 2019
+
+   Service public  service-public.fr     Legifrance
+   legifrance.gouv.fr     www.gouvernement.fr  gouvernement.fr
+   France.fr  france.fr     RGAA  Accessibilité
+
+   image xiti
+
+   Fermer Fermer
+
+   Le paysage réseaux sociaux de la DGE évolue !
+   Pour la 10e édition de la Semaine de l'industrie, du 30 mars au 5 avril
+   2020, nous vous proposons de retrouver tous nos contenus sur la page
+   Facebook de la Direction générale des entreprises.
+
+
+     DGEntreprises
+
+   Connaissez-vous La page Facebook de la DGE ?
+
+   Pour suivre toute l'actualité, cliquez sur le bouton « J'aime »
+     * Aller au menu principal
+     * Aller au contenu
+     * Aller au formulaire de recherche
+
+   (BUTTON) Menu
+   (BUTTON) Fermer
+     * Accueil
+     * Politique et Enjeux
+       (BUTTON) Politique et Enjeux
+          + Compétitivité
+          + Entrepreneuriat
+          + Métiers - Formation
+          + Normes - Qualité
+          + Relocaliser : le choix de la France
+          + La semaine de l'industrie
+          + Égalité
+     * Secteurs professionnels
+       (BUTTON) Secteurs professionnels
+          + L'artisanat
+          + Le commerce
+          + L'industrie
+          + Le numérique
+          + Les prof. libérales
+          + Les services
+          + Les services à la personne
+          + Le tourisme
+     * Études et statistiques
+     * Accès directs
+       (BUTTON) Accès directs
+          + Appels à projets
+          + Communiqués de presse
+          + Événements
+          + La DGE sur Twitter
+          + La DGE sur Facebook
+          + La DGE sur DailyMotion
+          + Newsletters « La DGE & Vous »
+          + competitivite.gouv.fr
+     * Autres dossiers
+       (BUTTON) Autres dossiers
+          + Agence du numérique
+          + Biens à double usage
+          + Commission nationale des services (CNS)
+          + Conseil national de l'industrie (CNI)
+          + Guide de la propriété intellectuelle dans les pôles de
+            compétitivité
+          + Libre circulation des marchandises en Europe
+          + Marketing et PME
+          + Marques nationales du tourisme
+          + Métrologie
+          + Précurseurs chimiques de drogues
+          + Qualité tourisme
+     * Semaine de l'industrie
+     * English
+
+     * Flux RSS
+
+     Facebook
+   Liberté, Égalité, Fraternité, République Française - Ministère de
+   l'Economie et des Finances
+   Le portail de la DGE
+     * Appels à Projet
+     * Evénements
+     * Communiqués
+     * La DGE sur Twitter
+     * La DGE sur Facebook
+
+   DGE, Direction Générale des Entreprises
+     * Accueil
+          + A la Une
+          + Bruno Le Maire
+          + Agnès Pannier-Runacher
+          + Cédric O
+          + Les thématiques de la DGE
+     * La DGE
+     * Politique - Enjeux
+     * Secteurs professionnels
+     * Etudes - Statistiques
+     * A votre service
+     * Web TV
+     * English
+
+   Accueil du portail › SECTEURS-PROFESSIONNELS › Professions libérales ›
+   Ressources › Autres ressources › Autres ressources
+
+   (BUTTON) Secteurs professionnels
+   (BUTTON) Fermer
+     * Accueil
+     * Artisanat
+       (BUTTON) Artisanat
+          + Rendez-vous de l'artisanat
+          + Chambres de métiers et de l'artisanat
+            (BUTTON) Chambres de métiers et de l'artisanat
+               o L'APCMA
+               o Les chambres du réseau
+               o Tutelle des CMA
+          + Le conjoint de l’artisan
+          + EPARECA
+          + Les EPV
+          + FNPCA
+          + Le FISAC
+            (BUTTON) Le FISAC
+               o Financement 2016
+          + Hôtels Cafés Restaurants
+            (BUTTON) Hôtels Cafés Restaurants
+               o Le "fait maison"
+               o Le titre de Maître restaurateur
+               o Les débitants de tabac
+          + Restauration à domicile
+            (BUTTON) Restauration à domicile
+               o Plateforme d'intermédiation
+               o Restaurateur à domicile
+          + Métiers d'art
+          + La NAFA (Rev. 2)
+          + Numérique
+          + Pôles d'innovation pour l'artisanat
+          + Valorisation des métiers
+     * Commerce
+       (BUTTON) Commerce
+          + Aménagement commercial
+            (BUTTON) Aménagement commercial
+               o Commissions départementales
+               o Commission nationale
+               o Implantation des commerces de détails
+          + Activités ambulantes
+          + Commission de concertation du Commerce
+          + Hôtels-Cafés-Restaurants
+          + Réseaux commerciaux
+            (BUTTON) Réseaux commerciaux
+               o La Franchise
+               o Le commerce coopératif et associé
+          + Soldes
+          + Autres ventes réglementées
+          + EPARECA
+          + Le FISAC
+          + Les chambres de commerce et d'industrie
+            (BUTTON) Les chambres de commerce et d'industrie
+               o Organisation des CCI
+               o La tutelle des CCI
+               o Schémas directeurs des CCI
+     * Industrie
+       (BUTTON) Industrie
+          + Territoires d'Industrie
+            (BUTTON) Territoires d'Industrie
+               o Présentation du dispositif
+               o Chiffres clés
+               o Accompagner le développement
+               o Évènements
+               o Ressources
+          + Alimentaire
+          + Bois
+          + Chimie
+            (BUTTON) Chimie
+               o Bonnes pratiques de laboratoires
+                 (BUTTON) Bonnes pratiques de laboratoires
+                    # La réglementation nationale
+                    # Le fonctionnement du GIPC
+               o Comité stratégique de filière
+               o Plates-formes chimiques
+               o Précurseurs chimiques
+               o Règlement Reach
+               o Substances chimiques
+          + Design
+            (BUTTON) Design
+               o Les actions de la DGE en faveur du Design
+               o Les acteurs français
+               o La Web TV Design
+          + Imprimerie
+          + Matériaux
+            (BUTTON) Matériaux
+               o Métaux stratégiques
+               o Acier - Aluminium
+          + Nucléaire
+          + Photonique
+          + Robotique
+            (BUTTON) Robotique
+               o Robotique de service
+               o Concours robotique
+               o Etats généraux de la robotique
+               o Tech days robotiques
+          + Santé
+          + Textile, mode et luxe
+            (BUTTON) Textile, mode et luxe
+               o Le comité stratégique de filière
+               o Mode et Luxe
+                 (BUTTON) Mode et Luxe
+                    # Appellation "Haute Couture"
+                    # Le dispositif de financement des jeunes entreprises
+                      de création
+                    # Dispositifs d'appui aux industries de la mode et du
+                      luxe
+                    # La réglementation en vigueur
+                    # La contrefaçon
+                    # Les formations aux métiers du luxe
+                    # Etudes rapports et guides pratiques
+                    # Les sites utiles
+               o Textile
+                 (BUTTON) Textile
+                    # Textiles techniques : le projet VATEX
+          + Transports
+            (BUTTON) Transports
+               o Aéronautique
+               o Automobile
+                 (BUTTON) Automobile
+                    # Comité stratégique de filière
+               o Ferroviaire
+               o Naval
+          + Politique industrielle
+            (BUTTON) Politique industrielle
+               o La nouvelle France industrielle
+                 (BUTTON) La nouvelle France industrielle
+                    # New face of industry in France
+                    # Les objets de la nouvelle France industrielle
+               o Conseil national de l'industrie
+                 (BUTTON) Conseil national de l'industrie
+                    # Comités stratégiques de filières
+               o Commissaires au redressement productif
+               o Référents uniques à l'investissement
+                 (BUTTON) Référents uniques à l'investissement
+                    # Relocaliser
+               o Silver economy
+               o Le made in France
+                 (BUTTON) Le made in France
+                    # Indications géographiques
+          + Propriété Industrielle
+            (BUTTON) Propriété Industrielle
+               o Une politique au cœur de l’action de la DGE
+               o Comment valoriser un brevet grâce à France Brevets ?
+               o Le brevet européen
+               o La lutte contre la contrefaçon
+                 (BUTTON) La lutte contre la contrefaçon
+                    # La contrefaçon en chiffres
+                    # Comment lutter contre la contrefaçon ?
+                    # Comment réagir en cas de contrefaçon de vos produits
+                      ?
+          + Les CCI
+          + Les CTI
+     * Numérique
+     * Professions libérales
+       (BUTTON) Professions libérales
+          + Les professionnels
+            (BUTTON) Les professionnels
+               o Droit
+               o Santé
+               o Technique et cadre de vie
+          + Observatoire de l'activité libérale
+          + Contrat de collaboration libérale
+            (BUTTON) Contrat de collaboration libérale
+               o Architecte
+               o Expert comptable
+               o Chirurgien-dentiste
+               o Avocat
+               o Masseur-kinésithérapeute
+               o Médecin
+               o Vétérinaire
+               o Sage-femme
+          + International – export
+          + Ressources
+            (BUTTON) Ressources
+               o Références juridiques
+               o Doctrine et jurisprudence
+               o Autres ressources
+     * Services
+       (BUTTON) Services
+          + Activités postales
+            (BUTTON) Activités postales
+               o Rôle de la Dgcis
+               o Cadre juridique des activités postales
+               o Aménagement du territoire
+               o Union postale universelle
+               o Europe postale
+               o Normalisation
+               o Réclamations
+               o Terminologie
+               o Poste:contacts et liens utiles
+          + La CNS
+          + Le FISAC
+          + Services à la personne
+            (BUTTON) Services à la personne
+               o Réglementation
+               o Créer son entreprise
+               o Activités
+               o Exonérations fiscales et sociales
+          + Commission des Comptes
+     * Tourisme
+
+     * Les professionnels
+          + Droit
+          + Santé
+          + Technique et cadre de vie
+     * Observatoire de l'activité libérale
+     * Contrat de collaboration libérale
+          + Architecte
+          + Expert comptable
+          + Chirurgien-dentiste
+          + Avocat
+          + Masseur-kinésithérapeute
+          + Médecin
+          + Vétérinaire
+          + Sage-femme
+     * International – export
+     * Ressources> Autres ressources
+          + Références juridiques
+          + Doctrine et jurisprudence
+          + Autres ressources
+
+   Écouter la page
+
+   Professions libérales
+
+Autres ressources
+
+Données chiffrées
+
+
+   Emploi et revenus des indépendants - INSEE, Edition 2015
+
+   Ce numéro de la collection « Insee Références » offre un nouveau regard
+   sur les travailleurs indépendants, catégorie réunie par l'absence de
+   lien de subordination à l'égard d'un donneur d'ordre.
+
+   Chiffres clés des professions libérales, DGE - Edition 2015
+
+   Synthèse 2015 des statistiques disponibles sur les professions
+   libérales : le nombre de professionnels, la répartition géographique ou
+   par âge, les principales données comptables d’entreprises libérale
+   ainsi que des données détaillées pour quelques professions libérales du
+   droit, de la santé ou techniques.
+
+   Réforme, investissement et croissance: un agenda pour la France,
+   l'Allemagne et l'Europe
+
+   Caractéristiques structurelles de chaque pays, secteurs où les réformes
+   et investissements communs sont possibles et recommandation de mesures
+   concrètes et réalisables
+
+   Les activités libérales - Poids dans l’économie générale et enjeux
+   actuels, Credoc
+
+   Avec 700 000 entreprises, près de 2 millions d’emplois (salariés et
+   non-salariés) et 5% du PIB (110 M €), les professions libérales ont un
+   poids non-négligeable dans l’économie française. Leur développement
+   est-il lié à celui des autres activités économiques ? Analyse des
+   évolutions (emploi, dynamique économique, dynamique territoriale) et
+   des usages par la population et les entreprises.
+
+   4 pages n°22 - Les activités libérales continuent à se développer,
+   notamment grâce aux professions non réglementées - DGCIS, Novembre
+   2012
+
+
+Fiches pratiques, autres sites publics de référence
+
+
+   Les fiches pratiques de Service-public.fr
+
+   Les services en ligne et les formulaires de Service-public.fr
+
+   Créer et développer votre activité libérale avec les fiches pratiques
+   de l’Agence France Entrepreneur
+   Modifié le 12/06/2018
+
+   Haut de page
+
+   (BUTTON) Mentions légales et infos pratiques
+     * Mentions légales
+     * Plan du site
+     * Foire Aux Questions (FAQ)
+
+   Partager :
+
+Accès directs
+
+   Agence du numérique Biens à double usage Commission nationale
+   d'aménagement commercial Commission nationale des services Conseil
+   national de l'industrie Coeur de Ville L'industrie Espace Innovation
+   2030 Libre circulation des marchandises en Europe Marques nationales du
+   tourisme
+   Métrologie Précurseurs chimiques de drogues Observatoire du numérique
+   Qualité tourisme Semaine de l'industrie 2019 Services Services à la
+   personne Information stratégique - SISSE Tourisme Zones touristiques
+   internationales
+
+
+Le portail de la DGE
+
+     * Plan du site
+     * Mentions légales
+     * Saisir la DGE par voie électronique (SVE)
+     * Accessibilité
+     * Archives des anciens sites
+
+L'Actu de la DGE
+
+     * Fils d'actualités (Flux RSS)
+     * Communiqués de presse
+     * Appels à projets
+     * Événements de la DGE
+     * La Dge & vous
+     * Rapport d'activité - Perspectives
+
+Les réseaux sociaux
+
+     * Sur Twitter
+     * Sur Facebook
+     * Sur DailyMotion
+     * Sur YouTube
+     * Sur Instagram
+     * Sur Linkedin
+
+Sites de Bercy
+
+     * Économie
+     * Pôles de compétitivité
+     * France Num : Entreprises, passez au numérique
+
+Autres sites
+
+     * L'alliance pour l'innovation ouverte
+     * Innovation 2030 - Concours mondial d'innovation
+     * Le portail des aides aux entreprises
+     * oups.gouv.fr : Vous avez droit à l'erreur
+
+   Le sens de l'entreprise pour l'intérêt général
+
+   © Direction générale des entreprises (DGE) 2019
+
+   Service public  service-public.fr     Legifrance
+   legifrance.gouv.fr     www.gouvernement.fr  gouvernement.fr
+   France.fr  france.fr     RGAA  Accessibilité
+
+   image xiti
+
+   Fermer Fermer
+
+   Le paysage réseaux sociaux de la DGE évolue !
+   Pour la 10e édition de la Semaine de l'industrie, du 30 mars au 5 avril
+   2020, nous vous proposons de retrouver tous nos contenus sur la page
+   Facebook de la Direction générale des entreprises.
+
+
+     DGEntreprises
+
+   Connaissez-vous La page Facebook de la DGE ?
+
+   Pour suivre toute l'actualité, cliquez sur le bouton « J'aime »
+     * Aller au menu principal
+     * Aller au contenu
+     * Aller au formulaire de recherche
+
+   (BUTTON) Menu
+   (BUTTON) Fermer
+     * Accueil
+     * Politique et Enjeux
+       (BUTTON) Politique et Enjeux
+          + Compétitivité
+          + Entrepreneuriat
+          + Métiers - Formation
+          + Normes - Qualité
+          + Relocaliser : le choix de la France
+          + La semaine de l'industrie
+          + Égalité
+     * Secteurs professionnels
+       (BUTTON) Secteurs professionnels
+          + L'artisanat
+          + Le commerce
+          + L'industrie
+          + Le numérique
+          + Les prof. libérales
+          + Les services
+          + Les services à la personne
+          + Le tourisme
+     * Études et statistiques
+     * Accès directs
+       (BUTTON) Accès directs
+          + Appels à projets
+          + Communiqués de presse
+          + Événements
+          + La DGE sur Twitter
+          + La DGE sur Facebook
+          + La DGE sur DailyMotion
+          + Newsletters « La DGE & Vous »
+          + competitivite.gouv.fr
+     * Autres dossiers
+       (BUTTON) Autres dossiers
+          + Agence du numérique
+          + Biens à double usage
+          + Commission nationale des services (CNS)
+          + Conseil national de l'industrie (CNI)
+          + Guide de la propriété intellectuelle dans les pôles de
+            compétitivité
+          + Libre circulation des marchandises en Europe
+          + Marketing et PME
+          + Marques nationales du tourisme
+          + Métrologie
+          + Précurseurs chimiques de drogues
+          + Qualité tourisme
+     * Semaine de l'industrie
+     * English
+
+     * Flux RSS
+
+     Facebook
+   Liberté, Égalité, Fraternité, République Française - Ministère de
+   l'Economie et des Finances
+   Le portail de la DGE
+     * Appels à Projet
+     * Evénements
+     * Communiqués
+     * La DGE sur Twitter
+     * La DGE sur Facebook
+
+   DGE, Direction Générale des Entreprises
+     * Accueil
+          + A la Une
+          + Bruno Le Maire
+          + Agnès Pannier-Runacher
+          + Cédric O
+          + Les thématiques de la DGE
+     * La DGE
+     * Politique - Enjeux
+     * Secteurs professionnels
+     * Etudes - Statistiques
+     * A votre service
+     * Web TV
+     * English
+
+   Accueil du portail › SECTEURS-PROFESSIONNELS › Services › Activités
+   postales › Activités postales (old)
+
+   (BUTTON) Secteurs professionnels
+   (BUTTON) Fermer
+     * Accueil
+     * Artisanat
+       (BUTTON) Artisanat
+          + Rendez-vous de l'artisanat
+          + Chambres de métiers et de l'artisanat
+            (BUTTON) Chambres de métiers et de l'artisanat
+               o L'APCMA
+               o Les chambres du réseau
+               o Tutelle des CMA
+          + Le conjoint de l’artisan
+          + EPARECA
+          + Les EPV
+          + FNPCA
+          + Le FISAC
+            (BUTTON) Le FISAC
+               o Financement 2016
+          + Hôtels Cafés Restaurants
+            (BUTTON) Hôtels Cafés Restaurants
+               o Le "fait maison"
+               o Le titre de Maître restaurateur
+               o Les débitants de tabac
+          + Restauration à domicile
+            (BUTTON) Restauration à domicile
+               o Plateforme d'intermédiation
+               o Restaurateur à domicile
+          + Métiers d'art
+          + La NAFA (Rev. 2)
+          + Numérique
+          + Pôles d'innovation pour l'artisanat
+          + Valorisation des métiers
+     * Commerce
+       (BUTTON) Commerce
+          + Aménagement commercial
+            (BUTTON) Aménagement commercial
+               o Commissions départementales
+               o Commission nationale
+               o Implantation des commerces de détails
+          + Activités ambulantes
+          + Commission de concertation du Commerce
+          + Hôtels-Cafés-Restaurants
+          + Réseaux commerciaux
+            (BUTTON) Réseaux commerciaux
+               o La Franchise
+               o Le commerce coopératif et associé
+          + Soldes
+          + Autres ventes réglementées
+          + EPARECA
+          + Le FISAC
+          + Les chambres de commerce et d'industrie
+            (BUTTON) Les chambres de commerce et d'industrie
+               o Organisation des CCI
+               o La tutelle des CCI
+               o Schémas directeurs des CCI
+     * Industrie
+       (BUTTON) Industrie
+          + Territoires d'Industrie
+            (BUTTON) Territoires d'Industrie
+               o Présentation du dispositif
+               o Chiffres clés
+               o Accompagner le développement
+               o Évènements
+               o Ressources
+          + Alimentaire
+          + Bois
+          + Chimie
+            (BUTTON) Chimie
+               o Bonnes pratiques de laboratoires
+                 (BUTTON) Bonnes pratiques de laboratoires
+                    # La réglementation nationale
+                    # Le fonctionnement du GIPC
+               o Comité stratégique de filière
+               o Plates-formes chimiques
+               o Précurseurs chimiques
+               o Règlement Reach
+               o Substances chimiques
+          + Design
+            (BUTTON) Design
+               o Les actions de la DGE en faveur du Design
+               o Les acteurs français
+               o La Web TV Design
+          + Imprimerie
+          + Matériaux
+            (BUTTON) Matériaux
+               o Métaux stratégiques
+               o Acier - Aluminium
+          + Nucléaire
+          + Photonique
+          + Robotique
+            (BUTTON) Robotique
+               o Robotique de service
+               o Concours robotique
+               o Etats généraux de la robotique
+               o Tech days robotiques
+          + Santé
+          + Textile, mode et luxe
+            (BUTTON) Textile, mode et luxe
+               o Le comité stratégique de filière
+               o Mode et Luxe
+                 (BUTTON) Mode et Luxe
+                    # Appellation "Haute Couture"
+                    # Le dispositif de financement des jeunes entreprises
+                      de création
+                    # Dispositifs d'appui aux industries de la mode et du
+                      luxe
+                    # La réglementation en vigueur
+                    # La contrefaçon
+                    # Les formations aux métiers du luxe
+                    # Etudes rapports et guides pratiques
+                    # Les sites utiles
+               o Textile
+                 (BUTTON) Textile
+                    # Textiles techniques : le projet VATEX
+          + Transports
+            (BUTTON) Transports
+               o Aéronautique
+               o Automobile
+                 (BUTTON) Automobile
+                    # Comité stratégique de filière
+               o Ferroviaire
+               o Naval
+          + Politique industrielle
+            (BUTTON) Politique industrielle
+               o La nouvelle France industrielle
+                 (BUTTON) La nouvelle France industrielle
+                    # New face of industry in France
+                    # Les objets de la nouvelle France industrielle
+               o Conseil national de l'industrie
+                 (BUTTON) Conseil national de l'industrie
+                    # Comités stratégiques de filières
+               o Commissaires au redressement productif
+               o Référents uniques à l'investissement
+                 (BUTTON) Référents uniques à l'investissement
+                    # Relocaliser
+               o Silver economy
+               o Le made in France
+                 (BUTTON) Le made in France
+                    # Indications géographiques
+          + Propriété Industrielle
+            (BUTTON) Propriété Industrielle
+               o Une politique au cœur de l’action de la DGE
+               o Comment valoriser un brevet grâce à France Brevets ?
+               o Le brevet européen
+               o La lutte contre la contrefaçon
+                 (BUTTON) La lutte contre la contrefaçon
+                    # La contrefaçon en chiffres
+                    # Comment lutter contre la contrefaçon ?
+                    # Comment réagir en cas de contrefaçon de vos produits
+                      ?
+          + Les CCI
+          + Les CTI
+     * Numérique
+     * Professions libérales
+       (BUTTON) Professions libérales
+          + Les professionnels
+            (BUTTON) Les professionnels
+               o Droit
+               o Santé
+               o Technique et cadre de vie
+          + Observatoire de l'activité libérale
+          + Contrat de collaboration libérale
+            (BUTTON) Contrat de collaboration libérale
+               o Architecte
+               o Expert comptable
+               o Chirurgien-dentiste
+               o Avocat
+               o Masseur-kinésithérapeute
+               o Médecin
+               o Vétérinaire
+               o Sage-femme
+          + International – export
+          + Ressources
+            (BUTTON) Ressources
+               o Références juridiques
+               o Doctrine et jurisprudence
+               o Autres ressources
+     * Services
+       (BUTTON) Services
+          + Activités postales
+            (BUTTON) Activités postales
+               o Rôle de la Dgcis
+               o Cadre juridique des activités postales
+               o Aménagement du territoire
+               o Union postale universelle
+               o Europe postale
+               o Normalisation
+               o Réclamations
+               o Terminologie
+               o Poste:contacts et liens utiles
+          + La CNS
+          + Le FISAC
+          + Services à la personne
+            (BUTTON) Services à la personne
+               o Réglementation
+               o Créer son entreprise
+               o Activités
+               o Exonérations fiscales et sociales
+          + Commission des Comptes
+     * Tourisme
+
+     * Activités postales
+          + Rôle de la Dgcis
+          + Cadre juridique des activités postales
+          + Aménagement du territoire
+          + Union postale universelle
+          + Europe postale
+          + Normalisation
+          + Réclamations
+          + Terminologie
+          + Poste:contacts et liens utiles
+     * La CNS
+     * Le FISAC
+     * Services à la personne
+          + Réglementation
+          + Créer son entreprise
+          + Activités
+          + Exonérations fiscales et sociales
+     * Commission des Comptes
+
+   Haut de page
+
+   (BUTTON) Mentions légales et infos pratiques
+     * Mentions légales
+     * Plan du site
+     * Foire Aux Questions (FAQ)
+
+   Partager :
+
+Accès directs
+
+   Agence du numérique Biens à double usage Commission nationale
+   d'aménagement commercial Commission nationale des services Conseil
+   national de l'industrie Coeur de Ville L'industrie Espace Innovation
+   2030 Libre circulation des marchandises en Europe Marques nationales du
+   tourisme
+   Métrologie Précurseurs chimiques de drogues Observatoire du numérique
+   Qualité tourisme Semaine de l'industrie 2019 Services Services à la
+   personne Information stratégique - SISSE Tourisme Zones touristiques
+   internationales
+
+
+Le portail de la DGE
+
+     * Plan du site
+     * Mentions légales
+     * Saisir la DGE par voie électronique (SVE)
+     * Accessibilité
+     * Archives des anciens sites
+
+L'Actu de la DGE
+
+     * Fils d'actualités (Flux RSS)
+     * Communiqués de presse
+     * Appels à projets
+     * Événements de la DGE
+     * La Dge & vous
+     * Rapport d'activité - Perspectives
+
+Les réseaux sociaux
+
+     * Sur Twitter
+     * Sur Facebook
+     * Sur DailyMotion
+     * Sur YouTube
+     * Sur Instagram
+     * Sur Linkedin
+
+Sites de Bercy
+
+     * Économie
+     * Pôles de compétitivité
+     * France Num : Entreprises, passez au numérique
+
+Autres sites
+
+     * L'alliance pour l'innovation ouverte
+     * Innovation 2030 - Concours mondial d'innovation
+     * Le portail des aides aux entreprises
+     * oups.gouv.fr : Vous avez droit à l'erreur
+
+   Le sens de l'entreprise pour l'intérêt général
+
+   © Direction générale des entreprises (DGE) 2019
+
+   Service public  service-public.fr     Legifrance
+   legifrance.gouv.fr     www.gouvernement.fr  gouvernement.fr
+   France.fr  france.fr     RGAA  Accessibilité
+
+   image xiti
+
+   Fermer Fermer
+
+   Le paysage réseaux sociaux de la DGE évolue !
+   Pour la 10e édition de la Semaine de l'industrie, du 30 mars au 5 avril
+   2020, nous vous proposons de retrouver tous nos contenus sur la page
+   Facebook de la Direction générale des entreprises.
+
+
+     DGEntreprises
+
+   Connaissez-vous La page Facebook de la DGE ?
+
+   Pour suivre toute l'actualité, cliquez sur le bouton « J'aime »

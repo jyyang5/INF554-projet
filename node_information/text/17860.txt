@@ -1,0 +1,1259 @@
+   #CINES » Flux CINES » Flux des commentaires CINES » Flux des articles
+   écrits par gay
+
+     *
+          + Marchés publics
+               o Marchés à procédure Adaptée
+               o Marchés à Procédure Formalisée
+          + Historique
+          + FAQ
+          + fr
+          + en
+
+     *
+
+       ____________________ OK
+
+   CINES
+   gay | CINES | Page 4
+     * Accueil
+     * Présentation
+          + Les Missions
+          + Organisation
+          + Partenaires
+          + Instances
+               o CA
+               o COS
+          + Statuts
+          + Plaquette
+     * Calcul
+          + Comment calculer ?
+          + FAQ Calcul Intensif
+          + Matériels
+               o Le supercalculateur OCCIGEN
+                    # Guide de démarrage Occigen
+                    # Configuration
+                    # Environnement
+                    # Comptabilisation
+                    # Logiciels scientifiques
+               o Visualisation
+               o Le supercalculateur Frioul
+                    # Guide de démarrage Frioul
+          + Gestion des données
+               o Espaces de données
+               o L’infrastructure de stockage datacentrique
+          + Utilisateurs du calcul
+               o Exemples des résultats de simulation
+          + Projets européens
+          + Espace utilisateur
+     * Archivage
+          + Typologies d’archives
+               o Archives publiques courantes et intermédiaires
+                    # Archivage des données numériques des juridictions
+                      financières françaises
+               o Données scientifiques
+                    # Archivage pérenne des images d’Observation de la
+                      Terre du projet Equipex-GEOSUD
+                    # Hébergement de la plateforme ESGF de distribution de
+                      données en climatologie
+               o Ressources des bibliothèques et centres de documentation
+                    # Archivage de la banque d’images numériques de
+                      l’INSERM
+                    # Pérennisation de l’archive ouverte HAL
+                    # Archivage des publications scientifiques en sciences
+                      humaines et sociales de PERSEE
+               o Data Management Plan (DMP)
+          + Comment archiver au CINES
+          + Nos expertises
+               o Les formats de fichier
+                    # Veille
+                    # Sélection
+                    # Validation
+                    # Conversion
+               o Les métadonnées
+                    # PPDI
+                    # Bordereaux de versement
+                    # Métadonnées métier
+                    # BIR
+               o La qualité
+                    # La gestion des risques
+                    # La sécurité informatique
+                    # Processus formalisés
+                         @ Généralités
+                         @ Apports de l’approche processus par rapport aux
+                           référentiels normatifs existants
+                         @ Le métamodèle
+                         @ Le système de processus métier
+                    # La certification
+          + Nos solutions d’archivage
+               o PAC
+                    # Schémas fonctionnels
+                    # Workflow d’archivage
+                    # Architecture technique
+                    # Stratégies de pérennisation
+                         @ La migration physique
+               o Le projet européen EUDAT
+          + L’archivage numérique, qu’est-ce que c’est ?
+               o Le concept d’archivage numérique pérenne
+               o Le modèle de référence : l’OAIS
+               o Les métadonnées de pérennisation
+               o Bibliographie
+          + Nos ressources en ligne
+          + Nos actualités
+     * Hébergement
+          + Les services
+          + Les infrastructures
+          + Configurations hébergées
+     * Services
+          + Conditions générales
+          + Support
+          + Suivi d’incidents
+          + Formulaires et textes
+          + Charte du CINES
+          + Wifi et Eduroam
+          + Formations
+               o Calendrier des formations 2019
+               o PATC
+               o Supports de cours
+     * Actualités
+          + Evénements
+          + La Gazette du CINES
+          + Publications
+          + Flash Info
+          + Revue de presse
+          + Le CINES recrute
+          + Arrêts maintenance
+          + Dates de fermeture
+     * L’Europe
+          + EOSC Hub
+          + EOSC-PILLAR
+          + EUDAT CDI
+          + FAIRsFAIR
+          + ICEDIG
+          + PHIDIAS
+          + PRACE
+
+   L’Université de Strasbourg archive désormais au CINES
+
+L’Université de Strasbourg archive désormais au CINES
+
+   Dans le cadre d’un projet pilote, l’Université de Strasbourg, via le
+   Service des Archives et la DSI, a mené avec le CINES un partenariat
+   pour l’archivage intermédiaire des données des Ressources humaines
+   issues de l’application ...
+   Lire la suite
+
+   Plénière du groupe PIN le 12 septembre à Paris
+
+Plénière du groupe PIN le 12 septembre à Paris
+
+   La prochaine plénière  du groupe PIN aura lieu le 12 Septembre 2017 au
+   siège du CNES à Paris, 2 Place Maurice Quentin. L’ordre du jour est en
+   cours de finalisation. D’ores et déjà, vous pouvez ...
+   Lire la suite
+
+   Nouveau look pour les archives de France
+
+Nouveau look pour les archives de France
+
+   Les archives de France changent de look et s’offrent un nouveau portail
+   national. Ce portail, dénommé francearchives.fr, a vocation à valoriser
+   les actions culturelles et scientifiques de l’ensemble des services
+   d’archives français et à mieux ...
+   Lire la suite
+
+   PIN – réunion plénière du 10 mai 2017
+
+PIN – réunion plénière du 10 mai 2017
+
+   La réunion aura lieu  au CNES à Paris, 2 Place Maurice Quentin. Le
+   thème de cette journée portera sur la CERTIFICATION ( OAIS, SIAF,
+   NF461, DSA, WDS ). L’ordre du jour est en phase de ...
+   Lire la suite
+
+   Troisième renouvellement de l’agrément SIAF pour le CINES
+
+Troisième renouvellement de l’agrément SIAF pour le CINES
+
+   Le CINES vient d’obtenir du SIAF le renouvellement de l’agrément pour
+   la conservation d’archives publiques courantes et intermédiaires,
+   agrément déjà obtenu en 2010 et 2014. La plateforme PAC est ainsi
+   agréée pour une durée de ...
+   Lire la suite
+
+   OPIDoR : une aide aux chercheurs français pour l’écriture de leur DMP
+
+OPIDoR : une aide aux chercheurs français pour l’écriture de leur DMP
+
+   L’INIST vient de déployer DMP OPIDoR (DMP pour une Optimisation
+   du Partage et de l’Interopérabilité des Données de la Recherche),
+   l’instance de DMPonline à l’attention de l’ESR français qui permet de
+   rédiger un Data Management Plan (DMP)   ou ...
+   Lire la suite
+
+   Rencontres Huma-Num – 10/13 octobre 2016
+
+Rencontres Huma-Num – 10/13 octobre 2016
+
+   Le CINES était présent aux Rencontres annuelles de la TGIR Huma-Num
+   organisées du 10 au 13 octobre 2016 à Ecully, près de Lyon.Une centaine
+   d’acteurs issus de communautés de recherche, d’institutions et
+   d’infrastructures françaises, européennes ...
+   Lire la suite
+
+   18 octobre : Réunion plénière au CNES (Paris).
+
+18 octobre : Réunion plénière au CNES (Paris).
+
+   La réunion du groupe PIN-Aristote se fera autour des axes suivants :
+   Actualités des normes : points sur la révision de la norme OAIS
+   Présentation de solution : présentation d’un nouveau système
+   d’archivage Focus : ...
+   Lire la suite
+
+   Digital preservation handbook, 2nd edition
+
+Digital preservation handbook, 2nd edition
+
+     Une ressource pédagogique sur la préservation numérique vient d’être
+   mise à jour : http://handbook.dpconline.org/ Ce manuel peut être
+   intéressant  pour préparer des formations ou pour voir des exemples
+   d’actions de préservation concrètes effectuées par ...
+   Lire la suite
+
+   Les présentations du forum de l’AAF en ligne !
+
+Les présentations du forum de l’AAF en ligne !
+
+     Retrouvez à l’adresse suivante :
+   http://www.archivistes.org/AAFtroyes16-retrouvez-les-presentations-en-l
+   igne les présentations du forum de l’AAF qui s’est tenu à Troyes en
+   mars dernier, dont celle du CINES « 10 ans d’archivage numérique au
+   CINES : premiers bilans et ...
+   Lire la suite
+   Article précédent 2 3 45 6 Next
+
+Articles
+
+Kick-off meeting PHIDIAS
+
+iPres 2019 : Conférence internationale sur la préservation digitale
+
+Journée des utilisateurs de la plateforme PAC lundi 24 juin au CINES
+
+Le futur de l’archivage pérenne se prépare au CINES
+
+PIN : VITAM (Episode II) – Usages et implémentations connexes – le 13 juin
+2019
+
+Étiquettes
+
+   archivage Assistance calcul conférence DARI DiSSCo DMP EOSC EUDAT
+   Europe formation formats H2020 HPC hébergement ICEDIG ISC Jade Occigen
+   PDF PHIDIAS PIN PRACE supercalculateur SV T&T TOP500
+
+CINES
+
+   Le C.I.N.E.S. (Centre Informatique National de l’Enseignement
+   Supérieur) est un établissement public national, basé à Montpellier
+   (France) et placé sous la tutelle du Ministère de lʼEnseignement
+   Supérieur, de la Recherche et de lʼInnovation (MESRI). Le C.I.N.E.S. a
+   trois missions stratégiques nationales : le calcul numérique intensif,
+   l’archivage pérenne de données électroniques, l’hébergement de
+   plates-formes informatiques d’envergure nationale
+
+Actualités
+
+     * Archivage
+     * Calcul
+     * Revue de presse
+
+Pour contacter le CINES :
+
+     * Téléphone : (33) 04 67 14 14 14
+     * Fax : (33) 04 67 52 37 63
+     * Venir au CINES
+     * Mel technique
+     * Mel administratif
+
+   Toute personne souhaitant accéder au CINES doit être munie d’une pièce
+   d’identité.
+
+   © 2014 - CINES | mentions legales | Création site internet keole.net |
+   Plan du site
+
+   Nous utilisons des cookies pour vous offrir la meilleure expérience sur
+   notre site.
+
+   Vous pouvez en savoir plus sur les cookies que nous utilisons ou les
+   désactiver dans paramètres[/ setting].
+   (BUTTON) Accepter
+
+   CINES
+
+     * Accueil
+     * Présentation
+          + Les Missions
+          + Organisation
+          + Partenaires
+          + Instances
+               o CA
+               o COS
+          + Statuts
+          + Plaquette
+     * Calcul
+          + Comment calculer ?
+          + FAQ Calcul Intensif
+          + Matériels
+               o Le supercalculateur OCCIGEN
+               o Visualisation
+               o Le supercalculateur Frioul
+          + Gestion des données
+               o Espaces de données
+               o L’infrastructure de stockage datacentrique
+          + Utilisateurs du calcul
+               o Exemples des résultats de simulation
+          + Projets européens
+          + Espace utilisateur
+     * Archivage
+          + Typologies d’archives
+               o Archives publiques courantes et intermédiaires
+               o Données scientifiques
+               o Ressources des bibliothèques et centres de documentation
+               o Data Management Plan (DMP)
+          + Comment archiver au CINES
+          + Nos expertises
+               o Les formats de fichier
+               o Les métadonnées
+               o La qualité
+          + Nos solutions d’archivage
+               o PAC
+               o Le projet européen EUDAT
+          + L’archivage numérique, qu’est-ce que c’est ?
+               o Le concept d’archivage numérique pérenne
+               o Le modèle de référence : l’OAIS
+               o Les métadonnées de pérennisation
+               o Bibliographie
+          + Nos ressources en ligne
+          + Nos actualités
+     * Hébergement
+          + Les services
+          + Les infrastructures
+          + Configurations hébergées
+     * Services
+          + Conditions générales
+          + Support
+          + Suivi d’incidents
+          + Formulaires et textes
+          + Charte du CINES
+          + Wifi et Eduroam
+          + Formations
+               o Calendrier des formations 2019
+               o PATC
+               o Supports de cours
+     * Actualités
+          + Evénements
+          + La Gazette du CINES
+          + Publications
+          + Flash Info
+          + Revue de presse
+          + Le CINES recrute
+          + Arrêts maintenance
+          + Dates de fermeture
+     * L’Europe
+          + EOSC Hub
+          + EOSC-PILLAR
+          + EUDAT CDI
+          + FAIRsFAIR
+          + ICEDIG
+          + PHIDIAS
+          + PRACE
+
+     * Marchés publics
+          + Marchés à procédure Adaptée
+          + Marchés à Procédure Formalisée
+     * Historique
+     * FAQ
+     * fr
+     * en
+
+   CINES
+     * (BUTTON) Résumé de la politique de confidentialité
+     * (BUTTON) Cookies strictement nécessaires
+     * (BUTTON) Cookies tiers
+
+   Powered by GDPR plugin
+   Résumé de la politique de confidentialité
+
+   Ce site utilise des cookies afin que nous puissions vous fournir la
+   meilleure expérience utilisateur possible. Les informations sur les
+   cookies sont stockées dans votre navigateur et remplissent des
+   fonctions telles que vous reconnaître lorsque vous revenez sur notre
+   site Web et aider notre équipe à comprendre les sections du site que
+   vous trouvez les plus intéressantes et utiles.
+
+   This website uses cookies so that we can provide you with the best user
+   experience possible. Cookie information is stored in your browser and
+   performs functions such as recognising you when you return to our
+   website and helping our team to understand which sections of the
+   website you find most interesting and useful.
+   Cookies strictement nécessaires
+
+   Le cookie strictement nécessaire doit être activé à tout moment pour
+   que nous puissions enregistrer vos préférences pour les paramètres de
+   cookie.
+
+   Strictly Necessary Cookie should be enabled at all times so that we can
+   save your preferences for cookie settings.
+
+   désactiver [ ]
+
+   Si vous désactivez ce cookie, nous ne pourrons pas enregistrer vos
+   préférences. Cela signifie que chaque fois que vous visitez ce site,
+   vous devrez activer ou désactiver à nouveau les cookies.
+   Cookies tiers
+
+   Ce site utilise Google Analytics pour collecter des informations
+   anonymes telles que le nombre de visiteurs du site et les pages les
+   plus populaires.
+
+   Garder ce cookie activé nous aide à améliorer notre site web.
+
+   This website uses Google Analytics to collect anonymous information
+   such as the number of visitors to the site, and the most popular pages.
+
+   Keeping this cookie enabled helps us to improve our website.
+
+   désactiver [ ]
+
+   Veuillez activer les cookies strictement nécessaires en premier afin
+   que nous puissions enregistrer vos préférences!
+   (BUTTON) Tout activer (BUTTON) Enregistrer paramètres
+   #alternate CINES » Flux CINES » Flux des commentaires CINES »
+   L’institut national de recherches archéologiques préventives archive au
+   CINES Flux des commentaires alternate alternate
+
+     *
+          + Marchés publics
+               o Marchés à procédure Adaptée
+               o Marchés à Procédure Formalisée
+          + Historique
+          + FAQ
+          + fr
+          + en
+
+     *
+
+       ____________________ OK
+
+   CINES
+   L’institut national de recherches archéologiques préventives archive au
+   CINES | CINES
+     * Accueil
+     * Présentation
+          + Les Missions
+          + Organisation
+          + Partenaires
+          + Instances
+               o CA
+               o COS
+          + Statuts
+          + Plaquette
+     * Calcul
+          + Comment calculer ?
+          + FAQ Calcul Intensif
+          + Matériels
+               o Le supercalculateur OCCIGEN
+                    # Guide de démarrage Occigen
+                    # Configuration
+                    # Environnement
+                    # Comptabilisation
+                    # Logiciels scientifiques
+               o Visualisation
+               o Le supercalculateur Frioul
+                    # Guide de démarrage Frioul
+          + Gestion des données
+               o Espaces de données
+               o L’infrastructure de stockage datacentrique
+          + Utilisateurs du calcul
+               o Exemples des résultats de simulation
+          + Projets européens
+          + Espace utilisateur
+     * Archivage
+          + Typologies d’archives
+               o Archives publiques courantes et intermédiaires
+                    # Archivage des données numériques des juridictions
+                      financières françaises
+               o Données scientifiques
+                    # Archivage pérenne des images d’Observation de la
+                      Terre du projet Equipex-GEOSUD
+                    # Hébergement de la plateforme ESGF de distribution de
+                      données en climatologie
+               o Ressources des bibliothèques et centres de documentation
+                    # Archivage de la banque d’images numériques de
+                      l’INSERM
+                    # Pérennisation de l’archive ouverte HAL
+                    # Archivage des publications scientifiques en sciences
+                      humaines et sociales de PERSEE
+               o Data Management Plan (DMP)
+          + Comment archiver au CINES
+          + Nos expertises
+               o Les formats de fichier
+                    # Veille
+                    # Sélection
+                    # Validation
+                    # Conversion
+               o Les métadonnées
+                    # PPDI
+                    # Bordereaux de versement
+                    # Métadonnées métier
+                    # BIR
+               o La qualité
+                    # La gestion des risques
+                    # La sécurité informatique
+                    # Processus formalisés
+                         @ Généralités
+                         @ Apports de l’approche processus par rapport aux
+                           référentiels normatifs existants
+                         @ Le métamodèle
+                         @ Le système de processus métier
+                    # La certification
+          + Nos solutions d’archivage
+               o PAC
+                    # Schémas fonctionnels
+                    # Workflow d’archivage
+                    # Architecture technique
+                    # Stratégies de pérennisation
+                         @ La migration physique
+               o Le projet européen EUDAT
+          + L’archivage numérique, qu’est-ce que c’est ?
+               o Le concept d’archivage numérique pérenne
+               o Le modèle de référence : l’OAIS
+               o Les métadonnées de pérennisation
+               o Bibliographie
+          + Nos ressources en ligne
+          + Nos actualités
+     * Hébergement
+          + Les services
+          + Les infrastructures
+          + Configurations hébergées
+     * Services
+          + Conditions générales
+          + Support
+          + Suivi d’incidents
+          + Formulaires et textes
+          + Charte du CINES
+          + Wifi et Eduroam
+          + Formations
+               o Calendrier des formations 2019
+               o PATC
+               o Supports de cours
+     * Actualités
+          + Evénements
+          + La Gazette du CINES
+          + Publications
+          + Flash Info
+          + Revue de presse
+          + Le CINES recrute
+          + Arrêts maintenance
+          + Dates de fermeture
+     * L’Europe
+          + EOSC Hub
+          + EOSC-PILLAR
+          + EUDAT CDI
+          + FAIRsFAIR
+          + ICEDIG
+          + PHIDIAS
+          + PRACE
+
+     * actualitesPA
+     * L’institut national de recherches archéologiques préventives
+       archive au CINES
+
+L’institut national de recherches archéologiques préventives archive au CINES
+
+   Depuis le 20 juin 2017,  l’INRAP, dépose ses rapports d’opérations de
+   diagnostic et de fouille préventives sur la plateforme PAC.
+
+   Dernière modification le : 22 juin 2017
+     Previous Next
+
+Articles
+
+Kick-off meeting PHIDIAS
+
+iPres 2019 : Conférence internationale sur la préservation digitale
+
+Journée des utilisateurs de la plateforme PAC lundi 24 juin au CINES
+
+Le futur de l’archivage pérenne se prépare au CINES
+
+PIN : VITAM (Episode II) – Usages et implémentations connexes – le 13 juin
+2019
+
+Étiquettes
+
+   archivage Assistance calcul conférence DARI DiSSCo DMP EOSC EUDAT
+   Europe formation formats H2020 HPC hébergement ICEDIG ISC Jade Occigen
+   PDF PHIDIAS PIN PRACE supercalculateur SV T&T TOP500
+
+CINES
+
+   Le C.I.N.E.S. (Centre Informatique National de l’Enseignement
+   Supérieur) est un établissement public national, basé à Montpellier
+   (France) et placé sous la tutelle du Ministère de lʼEnseignement
+   Supérieur, de la Recherche et de lʼInnovation (MESRI). Le C.I.N.E.S. a
+   trois missions stratégiques nationales : le calcul numérique intensif,
+   l’archivage pérenne de données électroniques, l’hébergement de
+   plates-formes informatiques d’envergure nationale
+
+Actualités
+
+     * Archivage
+     * Calcul
+     * Revue de presse
+
+Pour contacter le CINES :
+
+     * Téléphone : (33) 04 67 14 14 14
+     * Fax : (33) 04 67 52 37 63
+     * Venir au CINES
+     * Mel technique
+     * Mel administratif
+
+   Toute personne souhaitant accéder au CINES doit être munie d’une pièce
+   d’identité.
+
+   © 2014 - CINES | mentions legales | Création site internet keole.net |
+   Plan du site
+
+   Nous utilisons des cookies pour vous offrir la meilleure expérience sur
+   notre site.
+
+   Vous pouvez en savoir plus sur les cookies que nous utilisons ou les
+   désactiver dans paramètres[/ setting].
+   (BUTTON) Accepter
+
+   CINES
+
+     * Accueil
+     * Présentation
+          + Les Missions
+          + Organisation
+          + Partenaires
+          + Instances
+               o CA
+               o COS
+          + Statuts
+          + Plaquette
+     * Calcul
+          + Comment calculer ?
+          + FAQ Calcul Intensif
+          + Matériels
+               o Le supercalculateur OCCIGEN
+               o Visualisation
+               o Le supercalculateur Frioul
+          + Gestion des données
+               o Espaces de données
+               o L’infrastructure de stockage datacentrique
+          + Utilisateurs du calcul
+               o Exemples des résultats de simulation
+          + Projets européens
+          + Espace utilisateur
+     * Archivage
+          + Typologies d’archives
+               o Archives publiques courantes et intermédiaires
+               o Données scientifiques
+               o Ressources des bibliothèques et centres de documentation
+               o Data Management Plan (DMP)
+          + Comment archiver au CINES
+          + Nos expertises
+               o Les formats de fichier
+               o Les métadonnées
+               o La qualité
+          + Nos solutions d’archivage
+               o PAC
+               o Le projet européen EUDAT
+          + L’archivage numérique, qu’est-ce que c’est ?
+               o Le concept d’archivage numérique pérenne
+               o Le modèle de référence : l’OAIS
+               o Les métadonnées de pérennisation
+               o Bibliographie
+          + Nos ressources en ligne
+          + Nos actualités
+     * Hébergement
+          + Les services
+          + Les infrastructures
+          + Configurations hébergées
+     * Services
+          + Conditions générales
+          + Support
+          + Suivi d’incidents
+          + Formulaires et textes
+          + Charte du CINES
+          + Wifi et Eduroam
+          + Formations
+               o Calendrier des formations 2019
+               o PATC
+               o Supports de cours
+     * Actualités
+          + Evénements
+          + La Gazette du CINES
+          + Publications
+          + Flash Info
+          + Revue de presse
+          + Le CINES recrute
+          + Arrêts maintenance
+          + Dates de fermeture
+     * L’Europe
+          + EOSC Hub
+          + EOSC-PILLAR
+          + EUDAT CDI
+          + FAIRsFAIR
+          + ICEDIG
+          + PHIDIAS
+          + PRACE
+
+     * Marchés publics
+          + Marchés à procédure Adaptée
+          + Marchés à Procédure Formalisée
+     * Historique
+     * FAQ
+     * fr
+     * en
+
+   CINES
+     * (BUTTON) Résumé de la politique de confidentialité
+     * (BUTTON) Cookies strictement nécessaires
+     * (BUTTON) Cookies tiers
+
+   Powered by GDPR plugin
+   Résumé de la politique de confidentialité
+
+   Ce site utilise des cookies afin que nous puissions vous fournir la
+   meilleure expérience utilisateur possible. Les informations sur les
+   cookies sont stockées dans votre navigateur et remplissent des
+   fonctions telles que vous reconnaître lorsque vous revenez sur notre
+   site Web et aider notre équipe à comprendre les sections du site que
+   vous trouvez les plus intéressantes et utiles.
+
+   This website uses cookies so that we can provide you with the best user
+   experience possible. Cookie information is stored in your browser and
+   performs functions such as recognising you when you return to our
+   website and helping our team to understand which sections of the
+   website you find most interesting and useful.
+   Cookies strictement nécessaires
+
+   Le cookie strictement nécessaire doit être activé à tout moment pour
+   que nous puissions enregistrer vos préférences pour les paramètres de
+   cookie.
+
+   Strictly Necessary Cookie should be enabled at all times so that we can
+   save your preferences for cookie settings.
+
+   désactiver [ ]
+
+   Si vous désactivez ce cookie, nous ne pourrons pas enregistrer vos
+   préférences. Cela signifie que chaque fois que vous visitez ce site,
+   vous devrez activer ou désactiver à nouveau les cookies.
+   Cookies tiers
+
+   Ce site utilise Google Analytics pour collecter des informations
+   anonymes telles que le nombre de visiteurs du site et les pages les
+   plus populaires.
+
+   Garder ce cookie activé nous aide à améliorer notre site web.
+
+   This website uses Google Analytics to collect anonymous information
+   such as the number of visitors to the site, and the most popular pages.
+
+   Keeping this cookie enabled helps us to improve our website.
+
+   désactiver [ ]
+
+   Veuillez activer les cookies strictement nécessaires en premier afin
+   que nous puissions enregistrer vos préférences!
+   (BUTTON) Tout activer (BUTTON) Enregistrer paramètres
+   #CINES » Flux CINES » Flux des commentaires CINES » Flux des articles
+   écrits par gay
+
+     *
+          + Marchés publics
+               o Marchés à procédure Adaptée
+               o Marchés à Procédure Formalisée
+          + Historique
+          + FAQ
+          + fr
+          + en
+
+     *
+
+       ____________________ OK
+
+   CINES
+   gay | CINES | Page 5
+     * Accueil
+     * Présentation
+          + Les Missions
+          + Organisation
+          + Partenaires
+          + Instances
+               o CA
+               o COS
+          + Statuts
+          + Plaquette
+     * Calcul
+          + Comment calculer ?
+          + FAQ Calcul Intensif
+          + Matériels
+               o Le supercalculateur OCCIGEN
+                    # Guide de démarrage Occigen
+                    # Configuration
+                    # Environnement
+                    # Comptabilisation
+                    # Logiciels scientifiques
+               o Visualisation
+               o Le supercalculateur Frioul
+                    # Guide de démarrage Frioul
+          + Gestion des données
+               o Espaces de données
+               o L’infrastructure de stockage datacentrique
+          + Utilisateurs du calcul
+               o Exemples des résultats de simulation
+          + Projets européens
+          + Espace utilisateur
+     * Archivage
+          + Typologies d’archives
+               o Archives publiques courantes et intermédiaires
+                    # Archivage des données numériques des juridictions
+                      financières françaises
+               o Données scientifiques
+                    # Archivage pérenne des images d’Observation de la
+                      Terre du projet Equipex-GEOSUD
+                    # Hébergement de la plateforme ESGF de distribution de
+                      données en climatologie
+               o Ressources des bibliothèques et centres de documentation
+                    # Archivage de la banque d’images numériques de
+                      l’INSERM
+                    # Pérennisation de l’archive ouverte HAL
+                    # Archivage des publications scientifiques en sciences
+                      humaines et sociales de PERSEE
+               o Data Management Plan (DMP)
+          + Comment archiver au CINES
+          + Nos expertises
+               o Les formats de fichier
+                    # Veille
+                    # Sélection
+                    # Validation
+                    # Conversion
+               o Les métadonnées
+                    # PPDI
+                    # Bordereaux de versement
+                    # Métadonnées métier
+                    # BIR
+               o La qualité
+                    # La gestion des risques
+                    # La sécurité informatique
+                    # Processus formalisés
+                         @ Généralités
+                         @ Apports de l’approche processus par rapport aux
+                           référentiels normatifs existants
+                         @ Le métamodèle
+                         @ Le système de processus métier
+                    # La certification
+          + Nos solutions d’archivage
+               o PAC
+                    # Schémas fonctionnels
+                    # Workflow d’archivage
+                    # Architecture technique
+                    # Stratégies de pérennisation
+                         @ La migration physique
+               o Le projet européen EUDAT
+          + L’archivage numérique, qu’est-ce que c’est ?
+               o Le concept d’archivage numérique pérenne
+               o Le modèle de référence : l’OAIS
+               o Les métadonnées de pérennisation
+               o Bibliographie
+          + Nos ressources en ligne
+          + Nos actualités
+     * Hébergement
+          + Les services
+          + Les infrastructures
+          + Configurations hébergées
+     * Services
+          + Conditions générales
+          + Support
+          + Suivi d’incidents
+          + Formulaires et textes
+          + Charte du CINES
+          + Wifi et Eduroam
+          + Formations
+               o Calendrier des formations 2019
+               o PATC
+               o Supports de cours
+     * Actualités
+          + Evénements
+          + La Gazette du CINES
+          + Publications
+          + Flash Info
+          + Revue de presse
+          + Le CINES recrute
+          + Arrêts maintenance
+          + Dates de fermeture
+     * L’Europe
+          + EOSC Hub
+          + EOSC-PILLAR
+          + EUDAT CDI
+          + FAIRsFAIR
+          + ICEDIG
+          + PHIDIAS
+          + PRACE
+
+   Formation Pin – Pérennisation des Informations Numériques – 19 au 23
+   septembre 2016
+
+Formation Pin – Pérennisation des Informations Numériques – 19 au 23
+septembre 2016
+
+   Le groupe PIN de l’association Aristote organise un stage de formation
+   sur la pérennisation de l’information numérique sur 5 jours à Paris. Il
+   se tiendra à la Bibliothèque nationale de France (Quai François Mauriac
+   75013 ...
+   Lire la suite
+
+   Signature d’une convention VITAM/CINES
+
+Signature d’une convention VITAM/CINES
+
+   VITAM (Valeurs Immatérielles Transmises aux Archives pour Mémoire) est
+   un programme  interministériel visant à développer un socle d’archivage
+   électronique réutilisable par l’ensemble des administrations françaises
+   pour classer, conserver et sécuriser les documents numériques. Fruit de
+   ...
+   Lire la suite
+
+   Présentation des services d’archivage du CINES, 24 juin 2016
+
+Présentation des services d’archivage du CINES, 24 juin 2016
+
+   « Documents et données numériques: et si on archivait avant de les
+   perdre? ». Sous cet intitulé était organisée le 24 juin 2016 une
+   matinée de présentation des services d’archivage du CINES. Elle
+   s’articulait autour de trois ...
+   Lire la suite
+
+   Journée utilisateurs PAC 4ième édition
+
+Journée utilisateurs PAC 4ième édition
+
+   Pour la quatrième année consécutive la journée utilisateurs PAC s’est
+   déroulée à Montpellier sur notre site du CINES. Après une présentation
+   des news de l’archivage par l’équipe du DAD,   Anne Ciolek-Figiel nous
+   a présenté ...
+   Lire la suite
+
+   News sur la journée AURORE : « Archiver la recherche : responsabilités
+   partagées »
+
+News sur la journée AURORE : « Archiver la recherche : responsabilités
+partagées »
+
+   Le 23 juin 2016, à l’Université de Montpellier, s’est tenue la journée
+   d’études « Archiver la recherche : responsabilités partagées »
+   organisée par la section AURORE de l’association des Archivistes
+   Français. Cette journée a rassemblé ...
+   Lire la suite
+
+   Séminaire IndexMed 2016 « Faites parler vos données : data mining,
+   graphes et métadonnées »
+
+Séminaire IndexMed 2016 « Faites parler vos données : data mining, graphes et
+métadonnées »
+
+   Lire la suite
+
+   Le 24 juin 2016 matinée sur les services proposés au CINES sur
+   l’archivage pérenne.
+
+Le 24 juin 2016 matinée sur les services proposés au CINES sur l’archivage
+pérenne.
+
+   Cette journée est ouverte à tous, uniquement sur inscription et dans la
+   limite des places disponibles. Contact : pacju@cines.fr Limite
+   d’inscription le 10 juin 2016.
+   Lire la suite
+
+   PREFORMA, OPEN SOURCE PRESERVATION WORKSHOP _ 7 AVRIL 2016, STOCKHOLM
+
+PREFORMA, OPEN SOURCE PRESERVATION WORKSHOP _ 7 AVRIL 2016, STOCKHOLM
+
+   Jeudi 7 avril 2016, une session de présentation du projet PREFORMA
+   (PREservation FORMATs) a eu lieu au sein de la bibliothèque nationale
+   de Stockholm (Kungliga Biblioteket). L’inscription gratuite permettait
+   d’accueillir de nombreuses institutions nationales, bibliothèques ...
+   Lire la suite
+
+   Le CINES recrute au titre de la campagne d’emploi ITRF 2016
+
+Le CINES recrute au titre de la campagne d’emploi ITRF 2016
+
+     1 IGE Administrateur des systèmes informatiques, réseaux et
+   télécommunications (DCI) Vous pouvez consulter la fiche de poste en
+   cliquant sur l’icône.     1 IGE Ingénieur en développement et
+   déploiement d’applications (DAD) Vous pouvez ...
+   Lire la suite
+
+   Forum des archivistes : 30 mars – 1er avril 2016, Troyes
+
+Forum des archivistes : 30 mars – 1er avril 2016, Troyes
+
+   Le CINES sera présent à l’édition 2016 du Forum des archivistes, du 30
+   mars au 1er avril à Troyes. Le forum, intitulé « meta/morphoses, les
+   archives, bouillon de culture numérique » se propose de « questionner
+   les métamorphoses ...
+   Lire la suite
+   Article précédent 3 4 56 7 Next
+
+Articles
+
+Kick-off meeting PHIDIAS
+
+iPres 2019 : Conférence internationale sur la préservation digitale
+
+Journée des utilisateurs de la plateforme PAC lundi 24 juin au CINES
+
+Le futur de l’archivage pérenne se prépare au CINES
+
+PIN : VITAM (Episode II) – Usages et implémentations connexes – le 13 juin
+2019
+
+Étiquettes
+
+   archivage Assistance calcul conférence DARI DiSSCo DMP EOSC EUDAT
+   Europe formation formats H2020 HPC hébergement ICEDIG ISC Jade Occigen
+   PDF PHIDIAS PIN PRACE supercalculateur SV T&T TOP500
+
+CINES
+
+   Le C.I.N.E.S. (Centre Informatique National de l’Enseignement
+   Supérieur) est un établissement public national, basé à Montpellier
+   (France) et placé sous la tutelle du Ministère de lʼEnseignement
+   Supérieur, de la Recherche et de lʼInnovation (MESRI). Le C.I.N.E.S. a
+   trois missions stratégiques nationales : le calcul numérique intensif,
+   l’archivage pérenne de données électroniques, l’hébergement de
+   plates-formes informatiques d’envergure nationale
+
+Actualités
+
+     * Archivage
+     * Calcul
+     * Revue de presse
+
+Pour contacter le CINES :
+
+     * Téléphone : (33) 04 67 14 14 14
+     * Fax : (33) 04 67 52 37 63
+     * Venir au CINES
+     * Mel technique
+     * Mel administratif
+
+   Toute personne souhaitant accéder au CINES doit être munie d’une pièce
+   d’identité.
+
+   © 2014 - CINES | mentions legales | Création site internet keole.net |
+   Plan du site
+
+   Nous utilisons des cookies pour vous offrir la meilleure expérience sur
+   notre site.
+
+   Vous pouvez en savoir plus sur les cookies que nous utilisons ou les
+   désactiver dans paramètres[/ setting].
+   (BUTTON) Accepter
+
+   CINES
+
+     * Accueil
+     * Présentation
+          + Les Missions
+          + Organisation
+          + Partenaires
+          + Instances
+               o CA
+               o COS
+          + Statuts
+          + Plaquette
+     * Calcul
+          + Comment calculer ?
+          + FAQ Calcul Intensif
+          + Matériels
+               o Le supercalculateur OCCIGEN
+               o Visualisation
+               o Le supercalculateur Frioul
+          + Gestion des données
+               o Espaces de données
+               o L’infrastructure de stockage datacentrique
+          + Utilisateurs du calcul
+               o Exemples des résultats de simulation
+          + Projets européens
+          + Espace utilisateur
+     * Archivage
+          + Typologies d’archives
+               o Archives publiques courantes et intermédiaires
+               o Données scientifiques
+               o Ressources des bibliothèques et centres de documentation
+               o Data Management Plan (DMP)
+          + Comment archiver au CINES
+          + Nos expertises
+               o Les formats de fichier
+               o Les métadonnées
+               o La qualité
+          + Nos solutions d’archivage
+               o PAC
+               o Le projet européen EUDAT
+          + L’archivage numérique, qu’est-ce que c’est ?
+               o Le concept d’archivage numérique pérenne
+               o Le modèle de référence : l’OAIS
+               o Les métadonnées de pérennisation
+               o Bibliographie
+          + Nos ressources en ligne
+          + Nos actualités
+     * Hébergement
+          + Les services
+          + Les infrastructures
+          + Configurations hébergées
+     * Services
+          + Conditions générales
+          + Support
+          + Suivi d’incidents
+          + Formulaires et textes
+          + Charte du CINES
+          + Wifi et Eduroam
+          + Formations
+               o Calendrier des formations 2019
+               o PATC
+               o Supports de cours
+     * Actualités
+          + Evénements
+          + La Gazette du CINES
+          + Publications
+          + Flash Info
+          + Revue de presse
+          + Le CINES recrute
+          + Arrêts maintenance
+          + Dates de fermeture
+     * L’Europe
+          + EOSC Hub
+          + EOSC-PILLAR
+          + EUDAT CDI
+          + FAIRsFAIR
+          + ICEDIG
+          + PHIDIAS
+          + PRACE
+
+     * Marchés publics
+          + Marchés à procédure Adaptée
+          + Marchés à Procédure Formalisée
+     * Historique
+     * FAQ
+     * fr
+     * en
+
+   CINES
+     * (BUTTON) Résumé de la politique de confidentialité
+     * (BUTTON) Cookies strictement nécessaires
+     * (BUTTON) Cookies tiers
+
+   Powered by GDPR plugin
+   Résumé de la politique de confidentialité
+
+   Ce site utilise des cookies afin que nous puissions vous fournir la
+   meilleure expérience utilisateur possible. Les informations sur les
+   cookies sont stockées dans votre navigateur et remplissent des
+   fonctions telles que vous reconnaître lorsque vous revenez sur notre
+   site Web et aider notre équipe à comprendre les sections du site que
+   vous trouvez les plus intéressantes et utiles.
+
+   This website uses cookies so that we can provide you with the best user
+   experience possible. Cookie information is stored in your browser and
+   performs functions such as recognising you when you return to our
+   website and helping our team to understand which sections of the
+   website you find most interesting and useful.
+   Cookies strictement nécessaires
+
+   Le cookie strictement nécessaire doit être activé à tout moment pour
+   que nous puissions enregistrer vos préférences pour les paramètres de
+   cookie.
+
+   Strictly Necessary Cookie should be enabled at all times so that we can
+   save your preferences for cookie settings.
+
+   désactiver [ ]
+
+   Si vous désactivez ce cookie, nous ne pourrons pas enregistrer vos
+   préférences. Cela signifie que chaque fois que vous visitez ce site,
+   vous devrez activer ou désactiver à nouveau les cookies.
+   Cookies tiers
+
+   Ce site utilise Google Analytics pour collecter des informations
+   anonymes telles que le nombre de visiteurs du site et les pages les
+   plus populaires.
+
+   Garder ce cookie activé nous aide à améliorer notre site web.
+
+   This website uses Google Analytics to collect anonymous information
+   such as the number of visitors to the site, and the most popular pages.
+
+   Keeping this cookie enabled helps us to improve our website.
+
+   désactiver [ ]
+
+   Veuillez activer les cookies strictement nécessaires en premier afin
+   que nous puissions enregistrer vos préférences!
+   (BUTTON) Tout activer (BUTTON) Enregistrer paramètres
+   Title Page Alex
+   CINES
+   0 Comments
+   (BUTTON)
+
+     * (BUTTON) WordPress Embed
+     * (BUTTON) HTML Embed
+
+   https://www.cines.fr
+
+   Copy and paste this URL into your WordPress site to embed
+
+   <blockquote class="wp-embedded-content"><a href="https://www
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copy and paste this code into your site to embed
+   (BUTTON)
+   DARI : Request compute hours
+
+   The requests for the attribution of compute hours on the national
+   computing center, are organized two times the year (spring  and fall)
+   through the DARI procedure. To make a request, you have to use the …
+   Continue reading DARI : Request compute hours
+   CINES
+   0 Comments
+   (BUTTON)
+
+     * (BUTTON) WordPress Embed
+     * (BUTTON) HTML Embed
+
+   https://www.cines.fr
+
+   Copy and paste this URL into your WordPress site to embed
+
+   <blockquote class="wp-embedded-content"><a href="https://www
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   		!function(a,b){"use strict";function c(){if(!e){e=!0;var a
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copy and paste this code into your site to embed
+   (BUTTON)

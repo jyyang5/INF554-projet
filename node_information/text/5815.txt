@@ -1,0 +1,1390 @@
+
+   Google Chrome帮助
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * Google 帐号
+     * 搜索
+     * 地图
+     * YouTube
+     * Play
+     * Gmail
+     * 通讯录
+     * 云端硬盘
+     * 日历
+     * 翻译
+     * 相册
+     * 购物
+
+   更多
+     * 文档
+     * 图书
+     * Blogger
+     * Duo
+     * 环聊
+     * Keep
+     * Jamboard
+     * 收藏
+
+   来自 Google 的更多应用
+   登录
+   搜索
+   清除搜索查询
+   关闭搜索框
+   Google 应用
+   主菜单
+   Google 帮助 (BUTTON)
+     * 帮助中心
+
+     Google Chrome
+     * 隐私政策
+     * 服务条款
+     * 提交反馈
+
+   发送以下项目的反馈
+   (*)
+   本帮助内容和信息
+   ( )
+   帮助中心常规体验
+   (BUTTON) 下一页
+
+   帮助中心通告
+   Google Chrome帮助论坛论坛
+
+开启或关闭“请勿跟踪”功能
+
+   当您在计算机或 Android 设备上浏览网页时，您可以向网站发出请求，要求该网站不收集或不跟踪您的浏览数据。默认情况下，该功能处于关闭状态。
+
+   不过，网站会对您的数据进行何种操作取决于该网站如何响应此请求。许多网站仍会收集和使用您的浏览数据，并将其用于以下目的：提高安全性，在其网站上提
+   供相关内容、服务、广告和推荐内容，以及生成报告统计信息。
+
+   大多数网站或网络服务（包括 Google
+   在内）在收到“请勿跟踪”请求时都不会改变其行为。至于哪些网站和网络服务会遵守“请勿跟踪”功能请求，以及网站如何解读此类请求，Chrome
+   并不会提供相关详情。
+    1. 在 Android 设备上，打开 Chrome 应用 Chrome 。
+    2. 在地址栏的右侧，依次点按“更多”图标 更多 然后 设置。
+    3. 点按“高级”下方的隐私设置。
+    4. 点按不跟踪。
+    5. 开启/关闭这项设置。
+
+   该内容对您有帮助吗？
+   您有什么改进建议？
+   (BUTTON) 是 (BUTTON) 否
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) 提交
+   Android 设备 计算机iPhone 和 iPad
+   [更多�多]
+   false
+     * ©2019 Google
+     * 隐私政策
+     * 服务条款
+
+   [中文（简体）‎_______�）‎.......]
+   (BUTTON)
+   启用夜间模式
+   针对我们的帮助中心提供反馈意见
+   发送以下项目的反馈
+   (BUTTON) 本帮助内容和信息 (BUTTON) 帮助中心常规体验
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   搜索支持中心
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Clear, enable, and manage cookies in Chrome
+
+   You can choose to delete existing cookies, allow or block all cookies,
+   and set preferences for certain websites.
+
+What cookies are
+
+   Cookies are files created by websites you visit. They make your online
+   experience easier by saving browsing information. With cookies, sites
+   can keep you signed in, remember your site preferences, and give you
+   locally relevant content.
+
+   There are two types of cookies:
+     * First-party cookies are created by the site you visit. The site is
+       shown in the address bar.
+     * Third-party cookies are created by other sites. These sites own
+       some of the content, like ads or images, that you see on the
+       webpage you visit.
+
+Clear all cookies
+
+   If you remove cookies, you'll be signed out of websites and your saved
+   preferences could be deleted.
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings.
+    5. Click Cookies  and then  See all cookies and site data  and then
+       Remove all.
+    6. Confirm by clicking Clear all.
+
+Delete specific cookies
+
+   Delete cookies from a site
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings.
+    5. Click Cookies  and then See all cookies and site data.
+    6. At the top right, search for the website's name.
+    7. To the right of the site, click Remove  Remove .
+
+   Delete cookies from a period of time
+    1. On your computer, open Chrome.
+    2. At the top right, click More More .
+    3. Click More tools and then Clear browsing data.
+    4. At the top, click the dropdown next to "Time range."
+    5. Choose a time period, such as the past hour or the past day.
+    6. Check "Cookies and other site data." Uncheck all the other items.
+    7. Click Clear data.
+
+Change your cookie settings
+
+   You can allow or block cookies saved by websites.
+
+   Note: If you don't allow sites to save cookies, most sites that require
+   you to sign in won't work.
+   Allow or block cookies by default
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings  and then
+       Cookies.
+    5. Turn Allow sites to save and read cookie data on or off.
+
+Block cookies from other sites
+
+   You can allow cookies from the site you visit, while blocking cookies
+   from other sites that own ads or images on the webpage. To block these
+   third-party cookies, turn on Block third-party cookies.
+
+   All cookies and site data from other sites will be blocked, even if the
+   site is allowed on your exceptions list.
+   Allow or block cookies for a specific site
+
+   If you allow cookies by default, you can still block them for a certain
+   site.
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings  and then
+       Cookies.
+    5. Next to "Block," "Clear on exit," or "Allow," select Add.
+    6. Enter the web address.
+          + To create an exception for an entire domain, insert [*.]
+            before the domain name. For example, [*.]google.com will match
+            drive.google.com and calendar.google.com.
+          + You can also put an IP address or a web address that doesn't
+            start with http://.
+    7. Select Add.
+
+   To remove an exception you don't want any more, to the right of the
+   website, click More More and then Remove.
+
+   Note: If you’re using your Chromebook at work or school, you might not
+   be able to change this setting. For more help, contact your
+   administrator.
+   Delete cookies after you close Chrome
+
+   You can let sites remember information during your browsing session,
+   but automatically delete the cookies when you quit Chrome.
+    1. On your computer, open Google Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings  and then
+       Cookies.
+    5. Turn on Keep local data only until you quit your browser.
+
+Related articles
+
+     * Adjust website content settings
+     * Clear browsing data
+     * Clear cache and cookies
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Computer AndroidiPhone & iPad
+   [More]
+   true
+   Chrome Beta logo
+   Want a preview of what's coming soon?
+
+   Download the beta version of Chrome, then join our community and let us
+   know how well it works for you.
+
+
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Clear, enable, and manage cookies in Chrome
+
+   You can choose to delete existing cookies, allow or block all cookies,
+   and set preferences for certain websites.
+
+What cookies are
+
+   Cookies are files created by websites you visit. They make your online
+   experience easier by saving browsing information. With cookies, sites
+   can keep you signed in, remember your site preferences, and give you
+   locally relevant content.
+
+   There are two types of cookies:
+     * First-party cookies are created by the site you visit. The site is
+       shown in the address bar.
+     * Third-party cookies are created by other sites. These sites own
+       some of the content, like ads or images, that you see on the
+       webpage you visit.
+
+Clear all cookies
+
+   If you remove cookies, you'll be signed out of websites and your saved
+   preferences could be deleted.
+    1. On your Android phone or tablet, open the Chrome app Chrome .
+    2. To the right of the address bar, tap More More and then Settings.
+    3. Tap Privacy and then Clear browsing data.
+    4. Choose a time range, like Last hour or All time.
+    5. Check "Cookies, media licenses and site data." Uncheck all the
+       other items.
+    6. Tap Clear data  and then  Clear.
+
+Allow or block cookies
+
+   You can allow or block cookies saved by websites.
+
+   Note: If you don't allow sites to save cookies, most sites that require
+   you to sign in won't work.
+    1. On your Android phone or tablet, open the Chrome app Chrome .
+    2. To the right of the address bar, tap More More and then Settings.
+    3. Tap Site settings and then Cookies.
+    4. Turn Cookies on or off.
+
+Block cookies from other sites
+
+   You can allow cookies from the site you visit, while blocking cookies
+   from other sites that own ads or images on the webpage. To block these
+   third-party cookies, uncheck the box next to "Allow third-party
+   cookies."
+
+   All cookies and site data from other sites will be blocked, even if the
+   site is allowed on your exceptions list.
+
+Related articles
+
+     * Adjust website content settings
+     * Clear browsing data
+     * Clear cache and cookies
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Android ComputeriPhone & iPad
+   [More]
+   true
+   Chrome Beta logo
+   Want a preview of what's coming soon?
+
+   Download the beta version of Chrome, then join our community and let us
+   know how well it works for you.
+
+
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Turn "Do Not Track" on or off
+
+   When you browse the web on computers or Android devices, you can send a
+   request to websites not to collect or track your browsing data. It's
+   turned off by default.
+
+   However, what happens to your data depends on how a website responds to
+   the request. Many websites will still collect and use your browsing
+   data to improve security, provide content, services, ads and
+   recommendations on their websites, and generate reporting statistics.
+
+   Most websites and web services, including Google's, don't change their
+   behavior when they receive a Do Not Track request. Chrome doesn't
+   provide details of which websites and web services respect Do Not Track
+   requests and how websites interpret them.
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," turn Send a "Do Not Track" request
+       with your browsing traffic on or off.
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Computer AndroidiPhone & iPad
+   [More]
+   false
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Turn "Do Not Track" on or off
+
+   When you browse the web on computers or Android devices, you can send a
+   request to websites not to collect or track your browsing data. It's
+   turned off by default.
+
+   However, what happens to your data depends on how a website responds to
+   the request. Many websites will still collect and use your browsing
+   data to improve security, provide content, services, ads and
+   recommendations on their websites, and generate reporting statistics.
+
+   Most websites and web services, including Google's, don't change their
+   behavior when they receive a Do Not Track request. Chrome doesn't
+   provide details of which websites and web services respect Do Not Track
+   requests and how websites interpret them.
+    1. On your Android device, open the Chrome app Chrome .
+    2. To the right of the address bar, tap More More and then Settings.
+    3. Under "Advanced," tap Privacy.
+    4. Tap Do Not Track.
+    5. Turn the setting on or off.
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Android ComputeriPhone & iPad
+   [More]
+   false
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome帮助
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * Google 帐号
+     * 搜索
+     * 地图
+     * YouTube
+     * Play
+     * Gmail
+     * 通讯录
+     * 云端硬盘
+     * 日历
+     * 翻译
+     * 相册
+     * 购物
+
+   更多
+     * 文档
+     * 图书
+     * Blogger
+     * Duo
+     * 环聊
+     * Keep
+     * Jamboard
+     * 收藏
+
+   来自 Google 的更多应用
+   登录
+   搜索
+   清除搜索查询
+   关闭搜索框
+   Google 应用
+   主菜单
+   Google 帮助 (BUTTON)
+     * 帮助中心
+
+     Google Chrome
+     * 隐私政策
+     * 服务条款
+     * 提交反馈
+
+   发送以下项目的反馈
+   (*)
+   本帮助内容和信息
+   ( )
+   帮助中心常规体验
+   (BUTTON) 下一页
+
+   帮助中心通告
+   Google Chrome帮助论坛论坛
+
+开启或关闭“请勿跟踪”功能
+
+   当您在计算机或 Android 设备上浏览网页时，您可以向网站发出请求，要求该网站不收集或不跟踪您的浏览数据。默认情况下，该功能处于关闭状态。
+
+   不过，网站会对您的数据进行何种操作取决于该网站如何响应此请求。许多网站仍会收集和使用您的浏览数据，并将其用于以下目的：提高安全性，在其网站上提
+   供相关内容、服务、广告和推荐内容，以及生成报告统计信息。
+
+   大多数网站或网络服务（包括 Google
+   在内）在收到“请勿跟踪”请求时都不会改变其行为。至于哪些网站和网络服务会遵守“请勿跟踪”功能请求，以及网站如何解读此类请求，Chrome
+   并不会提供相关详情。
+    1. 在 Android 设备上，打开 Chrome 应用 Chrome 。
+    2. 在地址栏的右侧，依次点按“更多”图标 更多 然后 设置。
+    3. 点按“高级”下方的隐私设置。
+    4. 点按不跟踪。
+    5. 开启/关闭这项设置。
+
+   该内容对您有帮助吗？
+   您有什么改进建议？
+   (BUTTON) 是 (BUTTON) 否
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) 提交
+   Android 设备 计算机iPhone 和 iPad
+   [更多�多]
+   false
+     * ©2019 Google
+     * 隐私政策
+     * 服务条款
+
+   [中文（简体）‎_______�）‎.......]
+   (BUTTON)
+   启用夜间模式
+   针对我们的帮助中心提供反馈意见
+   发送以下项目的反馈
+   (BUTTON) 本帮助内容和信息 (BUTTON) 帮助中心常规体验
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   搜索支持中心
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Clear, enable, and manage cookies in Chrome
+
+   You can choose to delete existing cookies, allow or block all cookies,
+   and set preferences for certain websites.
+
+What cookies are
+
+   Cookies are files created by websites you visit. They make your online
+   experience easier by saving browsing information. With cookies, sites
+   can keep you signed in, remember your site preferences, and give you
+   locally relevant content.
+
+   There are two types of cookies:
+     * First-party cookies are created by the site you visit. The site is
+       shown in the address bar.
+     * Third-party cookies are created by other sites. These sites own
+       some of the content, like ads or images, that you see on the
+       webpage you visit.
+
+Clear all cookies
+
+   If you remove cookies, you'll be signed out of websites and your saved
+   preferences could be deleted.
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings.
+    5. Click Cookies  and then  See all cookies and site data  and then
+       Remove all.
+    6. Confirm by clicking Clear all.
+
+Delete specific cookies
+
+   Delete cookies from a site
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings.
+    5. Click Cookies  and then See all cookies and site data.
+    6. At the top right, search for the website's name.
+    7. To the right of the site, click Remove  Remove .
+
+   Delete cookies from a period of time
+    1. On your computer, open Chrome.
+    2. At the top right, click More More .
+    3. Click More tools and then Clear browsing data.
+    4. At the top, click the dropdown next to "Time range."
+    5. Choose a time period, such as the past hour or the past day.
+    6. Check "Cookies and other site data." Uncheck all the other items.
+    7. Click Clear data.
+
+Change your cookie settings
+
+   You can allow or block cookies saved by websites.
+
+   Note: If you don't allow sites to save cookies, most sites that require
+   you to sign in won't work.
+   Allow or block cookies by default
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings  and then
+       Cookies.
+    5. Turn Allow sites to save and read cookie data on or off.
+
+Block cookies from other sites
+
+   You can allow cookies from the site you visit, while blocking cookies
+   from other sites that own ads or images on the webpage. To block these
+   third-party cookies, turn on Block third-party cookies.
+
+   All cookies and site data from other sites will be blocked, even if the
+   site is allowed on your exceptions list.
+   Allow or block cookies for a specific site
+
+   If you allow cookies by default, you can still block them for a certain
+   site.
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings  and then
+       Cookies.
+    5. Next to "Block," "Clear on exit," or "Allow," select Add.
+    6. Enter the web address.
+          + To create an exception for an entire domain, insert [*.]
+            before the domain name. For example, [*.]google.com will match
+            drive.google.com and calendar.google.com.
+          + You can also put an IP address or a web address that doesn't
+            start with http://.
+    7. Select Add.
+
+   To remove an exception you don't want any more, to the right of the
+   website, click More More and then Remove.
+
+   Note: If you’re using your Chromebook at work or school, you might not
+   be able to change this setting. For more help, contact your
+   administrator.
+   Delete cookies after you close Chrome
+
+   You can let sites remember information during your browsing session,
+   but automatically delete the cookies when you quit Chrome.
+    1. On your computer, open Google Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," click Site settings  and then
+       Cookies.
+    5. Turn on Keep local data only until you quit your browser.
+
+Related articles
+
+     * Adjust website content settings
+     * Clear browsing data
+     * Clear cache and cookies
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Computer AndroidiPhone & iPad
+   [More]
+   true
+   Chrome Beta logo
+   Want a preview of what's coming soon?
+
+   Download the beta version of Chrome, then join our community and let us
+   know how well it works for you.
+
+
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Clear, enable, and manage cookies in Chrome
+
+   You can choose to delete existing cookies, allow or block all cookies,
+   and set preferences for certain websites.
+
+What cookies are
+
+   Cookies are files created by websites you visit. They make your online
+   experience easier by saving browsing information. With cookies, sites
+   can keep you signed in, remember your site preferences, and give you
+   locally relevant content.
+
+   There are two types of cookies:
+     * First-party cookies are created by the site you visit. The site is
+       shown in the address bar.
+     * Third-party cookies are created by other sites. These sites own
+       some of the content, like ads or images, that you see on the
+       webpage you visit.
+
+Clear all cookies
+
+   If you remove cookies, you'll be signed out of websites and your saved
+   preferences could be deleted.
+    1. On your Android phone or tablet, open the Chrome app Chrome .
+    2. To the right of the address bar, tap More More and then Settings.
+    3. Tap Privacy and then Clear browsing data.
+    4. Choose a time range, like Last hour or All time.
+    5. Check "Cookies, media licenses and site data." Uncheck all the
+       other items.
+    6. Tap Clear data  and then  Clear.
+
+Allow or block cookies
+
+   You can allow or block cookies saved by websites.
+
+   Note: If you don't allow sites to save cookies, most sites that require
+   you to sign in won't work.
+    1. On your Android phone or tablet, open the Chrome app Chrome .
+    2. To the right of the address bar, tap More More and then Settings.
+    3. Tap Site settings and then Cookies.
+    4. Turn Cookies on or off.
+
+Block cookies from other sites
+
+   You can allow cookies from the site you visit, while blocking cookies
+   from other sites that own ads or images on the webpage. To block these
+   third-party cookies, uncheck the box next to "Allow third-party
+   cookies."
+
+   All cookies and site data from other sites will be blocked, even if the
+   site is allowed on your exceptions list.
+
+Related articles
+
+     * Adjust website content settings
+     * Clear browsing data
+     * Clear cache and cookies
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Android ComputeriPhone & iPad
+   [More]
+   true
+   Chrome Beta logo
+   Want a preview of what's coming soon?
+
+   Download the beta version of Chrome, then join our community and let us
+   know how well it works for you.
+
+
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Turn "Do Not Track" on or off
+
+   When you browse the web on computers or Android devices, you can send a
+   request to websites not to collect or track your browsing data. It's
+   turned off by default.
+
+   However, what happens to your data depends on how a website responds to
+   the request. Many websites will still collect and use your browsing
+   data to improve security, provide content, services, ads and
+   recommendations on their websites, and generate reporting statistics.
+
+   Most websites and web services, including Google's, don't change their
+   behavior when they receive a Do Not Track request. Chrome doesn't
+   provide details of which websites and web services respect Do Not Track
+   requests and how websites interpret them.
+    1. On your computer, open Chrome.
+    2. At the top right, click More More and then Settings.
+    3. At the bottom, click Advanced.
+    4. Under "Privacy and security," turn Send a "Do Not Track" request
+       with your browsing traffic on or off.
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Computer AndroidiPhone & iPad
+   [More]
+   false
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237
+
+   Google Chrome Help
+   (BUTTON)
+   ____________________
+   (BUTTON) (BUTTON)
+     * គណនី Google
+     * ស្វែងរក
+     * ផែនទី
+     * YouTube
+     * Gmail
+     * ទំនាក់​ទំនង
+     * ថាស
+     * ប្រតិទិន
+     * បក​ប្រែ
+     * រូបថត
+
+   ច្រើនទៀត
+     * ឯកសារ
+     * Blogger
+     * Duo
+     * Hangouts
+     * Keep
+     * Jamboard
+     * បណ្ដុំ
+
+   ចូល
+   ស្វែងរក
+   ជម្រះការស្វែងរក
+   បិទការស្វែងរក
+   កម្មវិធី Google
+   ម៉ឺនុយដើម
+   Google Help (BUTTON)
+     * Help Center
+
+     Community
+
+     Google Chrome
+     * Privacy Policy
+     * Terms of Service
+     * Submit feedback
+
+   Send feedback on...
+   (*)
+   This help content & information
+   ( )
+   General Help Center experience
+   (BUTTON) Next
+
+   Help CenterCommunityAnnouncements
+   Google Chrome
+
+   ទំព័រដែលអ្នកបានស្នើមិនមានផ្តល់ជូនជាភាសារបស់អ្នកទេនាពេលបច្ចុប្បន្ន។
+   អ្នកអាចជ្រើសរើសភាសាផ្សេងទៀតនៅផ្នែកខាងក្រោមទំព័រ
+   ឬបកប្រែគេហទំព័រណាមួយទៅភាសាដែលអ្នកចង់បានភ្លាមៗ
+   ដោយប្រើលក្ខណៈពិសេសបកប្រែដែលភ្ជាប់នៅក្នុង Google Chrome។
+
+Turn "Do Not Track" on or off
+
+   When you browse the web on computers or Android devices, you can send a
+   request to websites not to collect or track your browsing data. It's
+   turned off by default.
+
+   However, what happens to your data depends on how a website responds to
+   the request. Many websites will still collect and use your browsing
+   data to improve security, provide content, services, ads and
+   recommendations on their websites, and generate reporting statistics.
+
+   Most websites and web services, including Google's, don't change their
+   behavior when they receive a Do Not Track request. Chrome doesn't
+   provide details of which websites and web services respect Do Not Track
+   requests and how websites interpret them.
+    1. On your Android device, open the Chrome app Chrome .
+    2. To the right of the address bar, tap More More and then Settings.
+    3. Under "Advanced," tap Privacy.
+    4. Tap Do Not Track.
+    5. Turn the setting on or off.
+
+   Was this helpful?
+   How can we improve it?
+   (BUTTON) Yes (BUTTON) No
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Submit
+   Android ComputeriPhone & iPad
+   [More]
+   false
+     * ©2019 Google
+     * Privacy Policy
+     * Terms of Service
+
+   [English‎__________________..]
+   (BUTTON)
+   Enable Dark Mode
+   Send feedback about our Help Center
+   Send feedback on...
+   (BUTTON) This help content & information (BUTTON) General Help Center
+   experience
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Search Help Center
+
+   //www.google.com/tools/feedback/metric/report
+
+   237

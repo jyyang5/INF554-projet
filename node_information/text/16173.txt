@@ -1,0 +1,164 @@
+From LaBRI - Laboratoire Bordelais de Recherche en Informatique
+
+Projets: Visidia
+
+   Projets
+   Visidia (Lien vers la page du projet)
+
+   Le dveloppement d'une information de plus en plus complexe et
+   massivement distribue sur les grands rseaux, comme Internet, est trs
+   rapide. Le nombre de serveurs et de machines connects Internet explose.
+   La mise en oeuvre d'une application web distribue dans ce contexte est
+   un vrai dfi. Les progrs technologiques des postes de travail et des
+   rseaux, notamment haut dbit, et les efforts de standardisation des
+   services d'interoprabilit (comme CORBA) ont permis de surmonter les
+   problmes classiques de bas niveaux lis aux rseaux htrognes, aux
+   diffrents systmes d'exploitation et aux langages de programmation.
+   Ainsi, les systmes distribus et les solutions coopratives sont devenus
+   une option accessible et mme courante pour de nombreuses applications:
+   industrielles, bancaires, multimdia, web. C'est une volution d'actualit
+   laquelle doivent s'adapter les entreprises afin de garantir une
+   productivit et une comptitivit en phase avec cette mutation. L'enjeu
+   conomique est donc considrable. Toutefois, le dveloppement
+   d'applications distribues est un processus trs difficile. la complexit
+   classique de dveloppement d'applications centralises, s'ajoute une
+   complexit lie la distribution et l'introduction de la communication
+   entre processus, de la concurrence, des conflits de ressources.
+
+   On se propose de fournir un atelier compos d'outils de simulation, de
+   visualisation et d'aide aux preuves devenus indispensables pour la
+   conception et la validation de programmes dans des environnements
+   distribus. Le modle classique consiste reprsenter le rseau par un
+   graphe o les sommets correspondent des machines ou processeurs, et les
+   artes des connexions. Pour les concepteurs et les chercheurs en
+   algorithmique distribue, cet atelier permettra d'effectuer facilement
+   des tests et des simulations, de comprendre le fonctionnement d'un
+   algorithme distribu et d'intuiter certaines proprits. Il est
+   indispensable en particulier de disposer de cet outil pour viter de
+   faire les tests la main, et surtout pour expliquer le droulement de
+   l'excution d'un algorithme distribu. Pour les dveloppeurs, la
+   visualisation de l'excution d'un programme distribu permet une
+   abstraction de l'application, ce qui est bnfique notamment pour
+   l'implantation, la mise au point et la vrification de programmes. Pour
+   plusieurs applications distribues, la mise au point effectue l'aide de
+   fichiers textes ou traces ou log, s'avre souvent inefficace cause de la
+   complexit et des changements dynamiques des donnes et du rseau. La
+   visualisation peut, dans ces cas, montrer l'excution du logiciel et
+   peut aider diagnostiquer les erreurs.
+
+   Le but de notre projet est de dvelopper un environnement de simulation
+   et de visualisation d'algorithmes distribus. Ce projet runit des
+   chercheurs de plusieurs quipes du LaBRI ayant des comptences varies
+   mais complmentaires: en algorithmique distribue, en graphes, en
+   rcriture, en objets distribus. Notre objectif final est une
+   exprimentation grandeur nature.
+
+   Rcupr sur https://www.labri.fr/index.php?n=Projets.Visidia
+   Page mise jour le 19/06/2008 à 15:07
+         Groupe de travail: Preuves formelles d'algorithmes distribués
+
+   Salle 381, Le jeudi de 9h30 à 10h30. Ce groupe s'intéresse
+   principalement à la preuve assistée d'algorithmes distribués présentés
+   sous forme de calculs locaux (systèmes de réétiquetage dans un graphe
+   (voir par exemple cet article et l'outil Visidia).
+   Nous construisons un environnement de preuve sur les calculs locaux où
+   la métathéorie est exprimée dans le calcul des constructions inductives
+   en utilisant l'assistant de preuves Coq. Le générateur d'obligations de
+   preuves
+   Outre l'algorithmique distribuée et sa modélisation, ce groupe
+   s'intéresse à tous les aspects de la preuve interactive en logique
+   d'ordre supérieur.
+
+Programme 2010-2011
+
+     * 7 octobre 2010:
+       Allyx Fontaine
+       Représentation de graphes en Coq.
+     * 30 septembre 2010:
+       Akka Zemmari
+       Suite du cours sur les algorithmes distribués probabilistes.
+     * 23 septembre 2010:
+       Vincent Filou
+       Une preuve d'algorithme de construction d'arbre recouvrant
+     * 16 septembre 2010:
+       Akka Zemmari d&ecute,bute une série de 3 cours sur les algorithmes
+       distribués probabilistes.
+       Les transparents
+
+   Responsable : Pierre Castéran
+   pierre dot casteran at labri dot fr
+
+
+
+       Accéder aux actualités
+       Evènements des groupes
+       Liste des groupes publics
+   Evènement pour le groupe BioInformatique et Visualisation
+   Date  2017-10-19  11:00-12:00
+   Titre Finding a gene tree in a phylogenetic network
+   Résumé Phylogenetic networks have been introduced as a model
+   generalizing phylogenetic trees in order to represent the evolution of
+   species. Contrary to trees, it allows to represent the transfer of
+   genetic material between coexisting species or populations, through
+   recombination, hybridization or horizontal gene transfers. Several
+   methods have been proposed to reconstruct phylogenetic networks by
+   combining together gene trees, where each gene tree represents the
+   evolution of one gene. These methods expect the gene trees to be
+   contained in the reconstructed phylogenetic network, but given the tree
+   and the network, just checking if the tree is contained in the network
+   is already an NP-hard problem. We will present some subclasses of
+   phylogenetic networks where polynomial-time algorithms can be found for
+   this decision problem, as well as a system describing those subclasses
+   and their inclusions.
+   Lieu salle 178, LaBRI
+   Orateur Philippe Gambette
+   Url Université Marne-la-Vallée
+   Aucun document lié à cet événement.
+   Retour
+   Retour à l'index
+
+
+
+       Accéder aux actualités
+       Evènements des groupes
+       Liste des groupes publics
+   Evènement pour le groupe BioInformatique et Visualisation
+   Date  2016-12-08  10:00-11:00
+   Titre D-Wave, le début de l'informatique quantique
+   Résumé La société canadienne D-Wave a commencé la commercialisation de
+   la machine D-Wave 2X, présentée comme le premier calculateur quantique
+   disponible. Quelles sont les capacités de cette machine? Comment
+   fonctionne-t-elle? Je vais tenter de répondre à ces questions, et
+   présenterai les résultats des premiers tests effectués sur de
+   l'algorithmique des graphes.
+   Lieu Amphi, LaBRI
+   Orateur Guillaume Rizk
+   Url INRIA, Rennes
+   Aucun document lié à cet événement.
+   Retour
+   Retour à l'index
+
+
+
+       Accéder aux actualités
+       Evènements des groupes
+       Liste des groupes publics
+   Evènement pour le groupe BioInformatique et Visualisation
+   Date  2016-06-30  11:00-12:00
+   Titre Mécanique chromosomique de l’oncogenèse des Leiomyosarcomes
+   Résumé Depuis 2009, le consortium international ICGC (International
+   Cancer Genome Consortium) a pour objectif de séquencer le génome de 50
+   types de cancers différents. Parmi ceux-ci nous avons la charge de
+   celui des Leiomyosarcomes, tumeur mésenchymateuse très agressive. Ces
+   sarcomes sont caractérisés par une génétique très complexe basée sur de
+   nombreux réarrangements chromosomiques et mutations. Nous présenterons
+   comment l’analyse des données de séquençage (WGseq et RNAseq) d’une
+   première série de 68 LMS nous permet d’avancer dans notre compréhension
+   de cette oncogenèse.
+   Lieu 178
+   Orateur Laetitia Bourgeade
+   Email l.bourgeade@bordeaux.unicancer.f
+   Url unicancer
+   Aucun document lié à cet événement.
+   Retour
+   Retour à l'index

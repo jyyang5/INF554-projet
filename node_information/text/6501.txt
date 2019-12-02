@@ -1,0 +1,22 @@
+   var arrWebsiteStatus = '网站编辑 发布MP3同步字幕@Britain's Supreme Co
+   7:02:52<$>网站编辑 发布MP3同步字幕@Trump Defends Nation 6:44:02<$>网站编辑
+   发布MP3节目录音@Spanish Court Approv 6:37:57<$>网站编辑 发布MP3节目录音@Trump Defends
+   Nation 6:37:37<$>网站编辑 发布MP3节目录音@Australia Uses Techn 6:37:24<$>网站编辑
+   发布MP3节目录音@Britain's Supreme Co 6:36:44<$>网站编辑 发布MP3节目录音@Study Finds
+   Educator 6:36:24<$>网站编辑 发布MP3节目录音@And the (Fashion) Em 8:32:40<$>网站编辑
+   发布MP3节目录音@Indian Security Camp 8:32:06<$>网站编辑 发布MP3节目录音@Scientists in
+   Austri 8:31:35<$>网站编辑 发布MP3节目录音@Trump Suggests He Di 8:30<$>网站编辑
+   发布MP3节目录音@Beekeeping May Reduc 8:29:15<$>网站编辑 发布MP3同步字幕@ASK A TEACHER -
+   Wait 23:38:38<$>网站编辑 发布MP3节目录音@ASK A TEACHER - Wait 8:13:51<$>网站编辑
+   发布MP3节目录音@Combination Pill Tes 8:12:24<$>'.split('<$>');
+   //定位当前的网站状态数组指针 var intWebsiteStatus = 0; var objTimer = null; function
+   displayWebsiteStatus(){
+   if(document.getElementById("divBroadcast")==null){ return false; }
+   if(arrWebsiteStatus.length<2){ return false; }
+   if(intWebsiteStatus<(arrWebsiteStatus.length-1)){ try{
+   document.getElementById("divBroadcast").innerHTML =
+   arrWebsiteStatus[intWebsiteStatus]; intWebsiteStatus =
+   (intWebsiteStatus+1); } catch(e){ } } else{ intWebsiteStatus = 0; }
+   if(objTimer){ window.clearTimeout(objTimer); } objTimer =
+   window.setTimeout("displayWebsiteStatus()",5000); }
+   displayWebsiteStatus();

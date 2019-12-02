@@ -1,0 +1,4298 @@
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   BONUS
+
+   NVIDIA Home
+   >
+   Bonus
+   >
+   Wallpaper
+   Démo Fond d’écran Économiseur d’écran
+   Fond d’écran
+   Téléchargez gratuitement les derniers fonds d’écran
+     * Tous les fonds d’écran
+
+     * NVIDIA Deep Learning
+     * NVIDIA GeForce
+     * NVIDIA Tegra
+     * Dragon d’eau
+     * NVArt I
+     * NVArt II
+     * NVArt III
+     * NVArt IV
+     * NVIDIA Got Art
+     * Atelier de design NVIDIA
+     * Griffe NVIDIA
+     * 3D Vision Surround
+
+   Revenir à la liste
+   [btn_prev_enabled.png] 3 de 193 [btn_next_enabled.png]
+   NVIDIA Synapse
+
+NVIDIA Synapse
+
+   Tout comme le cerveau humain, les réseaux de neurones peuvent apprendre
+   et s’adapter. Les capacités de programmation intrinsèquement parallèles
+   des GPU en font un support privilégié pour des méthodes d’apprentissage
+   automatique comme le Deep Learning.
+   À propos de cette création : Pour créer des milliers de neurones avec
+   des fonctions de transmission dynamique des signaux, un code Python a
+   été spécialement créé afin de générer et de manipuler efficacement un
+   grand nombre de structures ramifiées en simultané. Ce code a permis de
+   générer un rendu reproduisant l’apparence et le comportement des
+   connexions neuronales.
+   Résolutions supportées (écran):
+   1024x768
+   1280x1024
+   1280x720
+   1600x1200
+   1680x1050
+   1920x1080
+   1920x1200
+   2560x1080
+   2560x1440
+   2560x1600
+   Date de sortie:
+   06 April 2015
+
+   #NVIDIA News
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   Plateformes
+     * CUDA-X
+     * Machines Autonomes
+     * Cloud & Data Center
+     * IA ET DEEP LEARNING
+     * Conception & Visualisation
+     * SANTÉ
+     * Véhicules autonomes
+     * Gaming GeForce
+     * SHIELD
+     * NGC
+
+   Produits
+     * Systèmes DGX
+     * DRIVE PX
+     * GeForce RTX Série 20
+     * GRID
+     * Jetson
+     * Quadro
+     * SHIELD TV
+     * Tesla
+     * T4 Serveur d’entreprise
+
+   Développeurs
+     * Programme Développeurs
+     * CUDA
+     * Formation
+     * Conférence technologie GPU
+
+   Entreprise
+     * Réseau partenaires NVIDIA
+     * Carrières
+     * Contactez-nous
+     * Sécurité
+     * Communautés
+     * Blog NVIDIA
+     * Inscription Newsletters
+     * Centre de confidentialité
+
+   INSCRIVEZ-VOUS POUR
+   SUIVRE L'ACTUALITÉ NVIDIA
+   S'INSCRIRE
+   Suivez NVIDIA
+   Facebook Twitter You Tube Twitch TV Instagram
+   FRA - FRANCE
+     * Déclaration de confidentialité
+     * Informations Juridiques
+     * Contactez-Nous
+
+   Copyright © 2019 NVIDIA Corporation
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   BONUS
+
+   NVIDIA Home
+   >
+   Bonus
+   >
+   Wallpaper
+   Démo Fond d’écran Économiseur d’écran
+   Fond d’écran
+   Téléchargez gratuitement les derniers fonds d’écran
+     * Tous les fonds d’écran
+
+     * NVIDIA Deep Learning
+     * NVIDIA GeForce
+     * NVIDIA Tegra
+     * Dragon d’eau
+     * NVArt I
+     * NVArt II
+     * NVArt III
+     * NVArt IV
+     * NVIDIA Got Art
+     * Atelier de design NVIDIA
+     * Griffe NVIDIA
+     * 3D Vision Surround
+
+   Revenir à la liste
+   [btn_prev_enabled.png] 4 de 193 [btn_next_enabled.png]
+   GeForce GTX TITAN X – L’ultime
+
+GeForce GTX TITAN X – L’ultime
+
+   La GeForce® GTX TITAN X est la carte graphique ultime. Elle combine les
+   dernières technologies graphiques et la puissance phénoménale de
+   l''architecture NVIDIA Maxwell™ pour vous offrir les performances les
+   plus rapides et avancées au monde.
+   La TITAN X perpétue l’héritage de la gamme GeForce GTX TITAN et vous
+   garantit une hausse significative des performances tout en maintenant
+   l''efficacité acoustique et thermique à des niveaux incomparables. Les
+   joueurs les plus exigeants pourront jouer en poussant tous les détails
+   au maximum dans des résolutions 4K extrêmes.
+   Résolutions supportées (écran):
+   1024x768
+   1280x1024
+   1280x720
+   1440x900
+   1600x1200
+   1600x900
+   1680x1050
+   1920x1080
+   1920x1200
+   2560x1080
+   2560x1440
+   3840x2160
+   5760x1080
+   Date de sortie:
+   20 March 2015
+
+   #NVIDIA News
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   Plateformes
+     * CUDA-X
+     * Machines Autonomes
+     * Cloud & Data Center
+     * IA ET DEEP LEARNING
+     * Conception & Visualisation
+     * SANTÉ
+     * Véhicules autonomes
+     * Gaming GeForce
+     * SHIELD
+     * NGC
+
+   Produits
+     * Systèmes DGX
+     * DRIVE PX
+     * GeForce RTX Série 20
+     * GRID
+     * Jetson
+     * Quadro
+     * SHIELD TV
+     * Tesla
+     * T4 Serveur d’entreprise
+
+   Développeurs
+     * Programme Développeurs
+     * CUDA
+     * Formation
+     * Conférence technologie GPU
+
+   Entreprise
+     * Réseau partenaires NVIDIA
+     * Carrières
+     * Contactez-nous
+     * Sécurité
+     * Communautés
+     * Blog NVIDIA
+     * Inscription Newsletters
+     * Centre de confidentialité
+
+   INSCRIVEZ-VOUS POUR
+   SUIVRE L'ACTUALITÉ NVIDIA
+   S'INSCRIRE
+   Suivez NVIDIA
+   Facebook Twitter You Tube Twitch TV Instagram
+   FRA - FRANCE
+     * Déclaration de confidentialité
+     * Informations Juridiques
+     * Contactez-Nous
+
+   Copyright © 2019 NVIDIA Corporation
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   BONUS
+
+   NVIDIA Home
+   >
+   Bonus
+   >
+   Wallpaper
+   Démo Fond d’écran Économiseur d’écran
+   Fond d’écran
+   Téléchargez gratuitement les derniers fonds d’écran
+     * Tous les fonds d’écran
+
+     * NVIDIA Deep Learning
+     * NVIDIA GeForce
+     * NVIDIA Tegra
+     * Dragon d’eau
+     * NVArt I
+     * NVArt II
+     * NVArt III
+     * NVArt IV
+     * NVIDIA Got Art
+     * Atelier de design NVIDIA
+     * Griffe NVIDIA
+     * 3D Vision Surround
+
+   Revenir à la liste
+   [btn_prev_enabled.png] 5 de 193 [btn_next_enabled.png]
+   GeForce GTX 960 - Jouez avec une technologie d’avance
+
+GeForce GTX 960 - Jouez avec une technologie d’avance
+
+   La GeForce® GTX 960 vous offre des performances avancées, une
+   efficacité énergétique et des technologies de jeu innovantes que seule
+   NVIDIA Maxwell™ peut garantir.
+   Upgradez votre PC avec des performances 60% plus rapides et une
+   consommation deux fois plus faible qu’avec les cartes graphiques de
+   génération précédente*. Bénéficiez d’effets d’éclairage réalistes avec
+   la technologie VXGI, profitez d’un rendu fluide sans saccade avec
+   NVIDIA G-SYNC™ et découvrez des graphismes époustouflants avec
+   l’anti-aliasing MFAA.
+   *Par rapport aux GPU GeForce GTX 660.
+   Résolutions supportées (écran):
+   1024x768
+   1280x1024
+   1280x720
+   1440x900
+   1600x1200
+   1600x900
+   1680x1050
+   1920x1080
+   1920x1200
+   2560x1080
+   2560x1440
+   3840x2160
+   5760x1080
+   Date de sortie:
+   27 January 2015
+
+   #NVIDIA News
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   Plateformes
+     * CUDA-X
+     * Machines Autonomes
+     * Cloud & Data Center
+     * IA ET DEEP LEARNING
+     * Conception & Visualisation
+     * SANTÉ
+     * Véhicules autonomes
+     * Gaming GeForce
+     * SHIELD
+     * NGC
+
+   Produits
+     * Systèmes DGX
+     * DRIVE PX
+     * GeForce RTX Série 20
+     * GRID
+     * Jetson
+     * Quadro
+     * SHIELD TV
+     * Tesla
+     * T4 Serveur d’entreprise
+
+   Développeurs
+     * Programme Développeurs
+     * CUDA
+     * Formation
+     * Conférence technologie GPU
+
+   Entreprise
+     * Réseau partenaires NVIDIA
+     * Carrières
+     * Contactez-nous
+     * Sécurité
+     * Communautés
+     * Blog NVIDIA
+     * Inscription Newsletters
+     * Centre de confidentialité
+
+   INSCRIVEZ-VOUS POUR
+   SUIVRE L'ACTUALITÉ NVIDIA
+   S'INSCRIRE
+   Suivez NVIDIA
+   Facebook Twitter You Tube Twitch TV Instagram
+   FRA - FRANCE
+     * Déclaration de confidentialité
+     * Informations Juridiques
+     * Contactez-Nous
+
+   Copyright © 2019 NVIDIA Corporation
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   BONUS
+
+   NVIDIA Home
+   >
+   Bonus
+   >
+   Wallpaper
+   Démo Fond d’écran Économiseur d’écran
+   Fond d’écran
+   Téléchargez gratuitement les derniers fonds d’écran
+     * Tous les fonds d’écran
+
+     * NVIDIA Deep Learning
+     * NVIDIA GeForce
+     * NVIDIA Tegra
+     * Dragon d’eau
+     * NVArt I
+     * NVArt II
+     * NVArt III
+     * NVArt IV
+     * NVIDIA Got Art
+     * Atelier de design NVIDIA
+     * Griffe NVIDIA
+     * 3D Vision Surround
+
+   Revenir à la liste
+   [btn_prev_enabled.png] 6 de 193 [btn_next_enabled.png]
+   GeForce GTX 980 et GTX 970 - Jouez avec une technologie d’avance!
+
+GeForce GTX 980 et GTX 970 - Jouez avec une technologie d’avance!
+
+   Les cartes graphiques GeForce® GTX 980 et GTX 970, accélérées par
+   l’architecture de nouvelle génération NVIDIA® Maxwell™, vous offrent
+   des performances incroyables, une efficacité énergétique sans précédent
+   et des innovations à la pointe de la technologie. La GeForce® GTX 980
+   embarque le GPU le plus rapide et le plus puissant au monde, et la
+   GeForce® GTX 970 vous offre les performances les plus avancées de sa
+   catégorie. Vivez une expérience de nouvelle génération, et voyez vos
+   jeux sous un nouveau jour grâce à des effets graphiques et des
+   fonctions d’illumination globale inspirées des meilleures technologies
+   professionnelles.
+   Résolutions supportées (écran):
+   1024x768
+   1280x720
+   1600x1200
+   1920x1080
+   1920x1200
+   2560x1200
+   2560x1600
+   3840x2160
+   5760x1080
+   Date de sortie:
+   18 September 2014
+
+   #NVIDIA News
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   Plateformes
+     * CUDA-X
+     * Machines Autonomes
+     * Cloud & Data Center
+     * IA ET DEEP LEARNING
+     * Conception & Visualisation
+     * SANTÉ
+     * Véhicules autonomes
+     * Gaming GeForce
+     * SHIELD
+     * NGC
+
+   Produits
+     * Systèmes DGX
+     * DRIVE PX
+     * GeForce RTX Série 20
+     * GRID
+     * Jetson
+     * Quadro
+     * SHIELD TV
+     * Tesla
+     * T4 Serveur d’entreprise
+
+   Développeurs
+     * Programme Développeurs
+     * CUDA
+     * Formation
+     * Conférence technologie GPU
+
+   Entreprise
+     * Réseau partenaires NVIDIA
+     * Carrières
+     * Contactez-nous
+     * Sécurité
+     * Communautés
+     * Blog NVIDIA
+     * Inscription Newsletters
+     * Centre de confidentialité
+
+   INSCRIVEZ-VOUS POUR
+   SUIVRE L'ACTUALITÉ NVIDIA
+   S'INSCRIRE
+   Suivez NVIDIA
+   Facebook Twitter You Tube Twitch TV Instagram
+   FRA - FRANCE
+     * Déclaration de confidentialité
+     * Informations Juridiques
+     * Contactez-Nous
+
+   Copyright © 2019 NVIDIA Corporation
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   BONUS
+
+   NVIDIA Home
+   >
+   Bonus
+   >
+   Wallpaper
+   Démo Fond d’écran Économiseur d’écran
+   Fond d’écran
+   Téléchargez gratuitement les derniers fonds d’écran
+     * Tous les fonds d’écran
+
+     * NVIDIA Deep Learning
+     * NVIDIA GeForce
+     * NVIDIA Tegra
+     * Dragon d’eau
+     * NVArt I
+     * NVArt II
+     * NVArt III
+     * NVArt IV
+     * NVIDIA Got Art
+     * Atelier de design NVIDIA
+     * Griffe NVIDIA
+     * 3D Vision Surround
+
+   Revenir à la liste
+   [btn_prev_enabled.png] 7 de 193 [btn_next_enabled.png]
+   GeForce GTX TITAN Z (Vue en éclaté)
+
+GeForce GTX TITAN Z (Vue en éclaté)
+
+   La GeForce® GTX TITAN Z est un véritable monstre de puissance. Cette
+   nouvelle carte graphique GeForce accélère les performances des PC les
+   plus puissants de la planète. Avec pas moins de 5760 cœurs de GPU, 12
+   Go de mémoire GDDR5 à 7 Go/sec et une efficacité énergétique sans
+   précédent, la GTX TITAN Z vous offrira des performances ahurissantes.
+   C''est tout simplement la carte graphique la plus rapide au monde.
+   Résolutions supportées (écran):
+   1024x768
+   1280x720
+   1600x1200
+   1920x1080
+   1920x1200
+   2560x1200
+   2560x1600
+   5760x1080
+   Date de sortie:
+   28 May 2014
+
+   #NVIDIA News
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   NVIDIA - Leader du calcul IA
+
+     * ____________________ Submitsearch
+     *
+
+PLATEFORMES
+
+   IA ET DEEP LEARNING
+   GPU CLOUD
+   DATA CENTER
+
+   CONCEPTION & VISUALISATION PRO
+   MACHINES INTELLIGENTES
+   VÉHICULES AUTONOMES
+
+   GAMING GEFORCE
+   SHIELD
+
+AUTRES LIENS
+
+     * DÉVELOPPEURS
+     * GPU TECH CONFERENCE
+     * PILOTES
+     * ASSISTANCE
+
+     * VOIR TOUS LES PRODUITS
+     * MODÈLE CALCUL IA
+     * BLOG NVIDIA
+     * COMMUNAUTÉ
+     * EMPLOI
+
+     * PLATEFORMES
+          + MACHINES AUTONOMES
+          + INDUSTRIES
+               o DRONES
+               o ROBOTIQUE
+               o ANALYSE VIDÉO INTELLIGENTE
+          + PRODUITS
+          + JETSON NANO
+          + JETSON AGX XAVIER
+          + JETSON TX2
+     * POUR LES DÉVELOPPEURS
+     * BOUTIQUE JETSON
+
+     Cloud & Data Center
+     * PRODUITS
+
+     * Tesla
+     * T4 ENTERPRISE SERVER
+     * DGX
+     * DGX-2
+     * STATION DGX
+     * HGX
+     * NGC
+     * EGX
+
+     Solutions
+     * IA ET DEEP LEARNING
+     * CALCUL HAUTE PERFORMANCE
+     * CLOUD GAMING
+     * CLOUD COMPUTING SUR GPU
+     * VIRTUALISATION GPU
+     * ANALYSE
+
+
+
+   APPLICATIONS
+
+     * APPLICATIONS GPU READY
+
+
+
+   POUR LES DÉVELOPPEURS
+
+
+
+   Technologies
+
+     * NVIDIA VOLTA
+     * NVIDIA PASCAL
+     * NVLINK/NVSWITCH
+     * COEURS TENSOR
+     * PLUG-IN INDEX PARAVIEW
+
+
+
+   IA ET DEEP LEARNING
+
+     * Industries
+
+     * APERÇU
+     * INNOVATEURS IA
+     * VILLES IA
+     * IA POUR LE BIEN COMMUN
+     * SANTÉ
+     * Enseignement supérieur
+     * COMMERCE
+     * ROBOTIQUE
+     * VÉHICULES AUTONOMES
+
+
+
+   DÉVELOPPEURS
+
+
+
+   PRODUITS
+
+     * AGX SYSTEMS
+     * Systèmes DGX
+     * NGC
+     * NVIDIA TITAN RTX
+     * NVIDIA TITAN V
+     * NVIDIA TESLA
+     * T4 Serveur d’entreprise
+
+
+
+   Solutions
+
+     * Science des données
+     * INFÉRENCE
+
+
+
+   FORMATION
+
+
+
+   STARTUPS IA
+
+
+
+   CONCEPTION & VISUALISATION
+
+     * INDUSTRIES
+          + ARCHITECTURE, INGÉNIERIE ET CONSTRUCTION
+          + ENSEIGNEMENT
+          + PRODUCTION INDUSTRIELLE
+          + MULTIMÉDIA ET DIVERTISSEMENT
+     * PRODUITS
+          + QUADRO
+          + QUADRO VDWS
+          + GRID VPC/VAPPS
+          + NVIDIA TITAN RTX
+          + NVIDIA TITAN Xp
+          + NVS
+     * SOLUTIONS
+          + MULTI-ÉCRANS
+          + RENDU
+          + VIRTUALISATION
+          + RÉALITÉ VIRTUELLE
+          + VISUALISATION HPC
+          + POUR LES CRÉATEURS
+          + FOR DATA SCIENTISTS
+     * TECHNOLOGIES
+          + NVIDIA MDL
+          + NVIDIA RTX
+          + NVLINK
+          + ARCHITECTURE GPU TURING
+          + TECHNOLOGIE DE GPU VIRTUELS
+          + HOLODECK
+     * POUR LES CRÉATEURS
+     * POUR LES DÉVELOPPEURS
+
+
+
+   SANTÉ
+
+
+
+   VÉHICULES AUTONOMES
+
+     * SOLUTIONS
+          + NVIDIA DRIVE PLATEFORME
+          + NVIDIA Systèmes DGX
+          + NVIDIA DRIVE CONSTELLATION
+          + NVIDIA DRIVE IX
+          + CARTOGRAPHIE HD
+          + SYSTÈMES AVANCÉS D'ASSISTANCE AU CONDUCTEUR (ADAS)
+     * PARTENAIRES
+     * POUR LES DÉVELOPPEURS
+
+
+
+   GAMING GEFORCE
+
+     * Cartes graphiques GeForce série 20
+     * CARTES GRAPHIQUES GEFORCE SÉRIE 16
+     * Cartes graphiques GeForce série 10
+     * PC PORTABLES GAMING
+     * ÉCRANS G-SYNC
+     * ÉCRANS GAMING GRAND FORMAT (BFGD)
+     * GeForce Experience
+     * GeForce Now
+
+
+
+   SHIELD
+
+     * ÉCRANS AVEC SHIELD TV
+
+
+
+   DÉVELOPPEURS
+
+     * PROGRAMME DÉVELOPPEURS
+     * CUDA
+     * FORMATION
+     * CONFÉRENCE TECH. GPU
+
+
+
+   Industries
+
+     * FINANCE
+     * DÉVELOPPEMENT DE JEUX VIDÉO
+     * MULTIMÉDIA ET DIVERTISSEMENT
+
+
+
+   BOUTIQUE
+
+
+
+   PILOTES
+
+     * PILOTES GEFORCE
+     * TOUS LES PILOTES NVIDIA
+
+
+
+   ASSISTANCE
+
+
+
+   NVIDIA
+
+     * RÉSEAU PARTENAIRES NVIDIA
+     * MODÈLE CALCUL IA
+     * TECHNOLOGIES
+     * Newsroom
+     * BLOG NVIDIA
+     * RECHERCHE
+     * WEBINAIRES
+     * ÉVÉNEMENTS
+     * INFORMATIONS NVIDIA
+     * CARRIÈRES
+     * INVESTISSEURS
+     * RESPONSABILITÉ SOCIALE
+
+   Plateformes
+     * CUDA-X
+     * Machines Autonomes
+     * Cloud & Data Center
+     * IA ET DEEP LEARNING
+     * Conception & Visualisation
+     * SANTÉ
+     * Véhicules autonomes
+     * Gaming GeForce
+     * SHIELD
+     * NGC
+
+   Produits
+     * Systèmes DGX
+     * DRIVE PX
+     * GeForce RTX Série 20
+     * GRID
+     * Jetson
+     * Quadro
+     * SHIELD TV
+     * Tesla
+     * T4 Serveur d’entreprise
+
+   Développeurs
+     * Programme Développeurs
+     * CUDA
+     * Formation
+     * Conférence technologie GPU
+
+   Entreprise
+     * Réseau partenaires NVIDIA
+     * Carrières
+     * Contactez-nous
+     * Sécurité
+     * Communautés
+     * Blog NVIDIA
+     * Inscription Newsletters
+     * Centre de confidentialité
+
+   INSCRIVEZ-VOUS POUR
+   SUIVRE L'ACTUALITÉ NVIDIA
+   S'INSCRIRE
+   Suivez NVIDIA
+   Facebook Twitter You Tube Twitch TV Instagram
+   FRA - FRANCE
+     * Déclaration de confidentialité
+     * Informations Juridiques
+     * Contactez-Nous
+
+   Copyright © 2019 NVIDIA Corporation

@@ -1,0 +1,2002 @@
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01721316, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Time to Treatment in Patients Suffering from Cancers in France and
+   Impact of Health Social Inequalities : Study from Medico-Administrative
+   Databases
+   Délais d’accès au traitement des patients atteints de cancers en France
+   et impact des inégalités sociales de santé : étude à partir des bases
+   de données médico-administratives
+   Yao Cyril Kudjawu ^1 (BUTTON) Détails
+   1 Santé publique France
+
+       Yao Cyril Kudjawu ^1 AuthorId : 11139105
+     Auteur
+
+   1 Santé publique France (Santé publique France (siège social) 12, rue
+   du Val d'Osne 94415 Saint-Maurice cedex - France) StructId : 461591
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Background: timeliness of cancer treatment is an important
+   aspect of health quality. Care centers are expected to treat a growing
+   number of patients with cancer. Our objectives were to examine
+   treatment times from diagnosis to first-course therapy for patients
+   with colon (CC), rectum-anus (RC), and lung (LC) cancers and assess
+   factors associated with time to-treatment and the impact of deprivation
+   index.Methods: using the international classification of diseases and
+   medical procedures codes, from national hospital discharge database
+   which has been crossed with long term illness data and French
+   deprivation Index information, we selected patients newly diagnosed for
+   CC, RC or LC in 2009-2010 who had undergone treatment.Results: We
+   included 15,694, 6,623 and 14,596 patients diagnosed and treated for
+   CC, RC and LC respectively. Median times from endoscopy to: 1) surgery
+   in patients with a surgical treatment pathway for CC, RC, and LC were
+   22 (Q25 = 14; Q75 = 34), 97 (Q25 = 34; Q75 = 141), and 44 (Q25 = 26;
+   Q75 = 82) days, respectively; 2) to chemotherapy for patients with a
+   non-surgical treatment pathway, for CC, RC, and LC were 36 (Q25 = 21;
+   Q75 = 59), 40 (Q25 = 27; Q75 = 59), and 33 (Q25 = 22; Q75 = 49) days
+   respectively; 3) to radiotherapy in RC and LC patients were 53 (Q25 =
+   39; Q75 = 78) and 88 (Q25 = 46; Q75 = 162) days respectively; 4) to
+   first treatment, irrespective of pathway and treatment combination for
+   CC, RC and LC were 23 (Q25 = 14; Q75 = 35), 43 (Q25 = 27; Q75 = 74),
+   and 34 (Q25 = 22; Q75 = 50) days respectively.Time to first treatment
+   vary across regions. It was longer in most northern regions and in
+   overseas districts and shorter in Île-de-France, southern, eastern and
+   sometimes in western regions for the three cancers. In multilevel
+   analysis, Age and status of the first care center were significantly
+   associated to time to first treatment in CC patients. Similar factors,
+   including Deprivation index, were significantly associated to time to
+   first treatment in RC and LC patients. The time to first treatment
+   increased with age. It was higher in public hospitals compared to
+   private hospitals and low in patients with low deprivation index
+   compared to patients with high deprivation index. Conclusion: To our
+   knowledge, this is the first study based on medico-administrative
+   database describing time to first treatment after endoscopy in patients
+   suffering from cancers in France. The results, which will complement
+   those from cancer registry data and regional networks of cancerology,
+   could inform decision-making policies on the implementation of
+   guidelines on timeframes for cancer treatment access.
+   Résumé : Contexte : Le délai d’accès au traitement pour cancer est un
+   aspect important de la qualité des soins. Compte tenu de l’augmentation
+   du nombre de cancers, les établissements de soins seront amenés à
+   traiter un nombre élevé de patients atteints de cancers. Notre objectif
+   était d’étudier le délai d’accès au traitement après le diagnostic de
+   cancer chez les patients atteints de cancers du côlon (CC), du
+   rectum-anus (RC) ou du poumon (CP) ainsi que les facteurs associés et
+   l’impact des inégalités sociales.Méthode : A l’aide de codes
+   diagnostiques de la classification internationale des maladies et de
+   codes de la classification commune des actes médicaux, nous avons
+   sélectionné dans la base du programme de médicalisation des systèmes
+   d’information de nouveaux patients diagnostiqués pour CC, RC et CP en
+   2009-2010 et traités. Les informations sur ces patients ont été
+   croisées avec celles des bénéficiaires d’affection longue durée pour
+   ces cancers et avec celles de l’indice de désavantage social.Résultats
+   : Nous avons inclus 15 694, 6 623 et 14 596 patients atteints et
+   traités respectivement pour CC, CR et CP. Les délais médians entre
+   l’endoscopie et l’accès à : 1) la chirurgie chez les patients avec un
+   parcours chirurgical pour CC, CR et CP étaient respectivement de 22
+   (Q25 = 14; Q75 = 34), 97 (Q25 = 34; Q75 = 141), et 44 (Q25 = 26; Q75 =
+   82) jours ; 2) la chimiothérapie chez les patients avec un parcours
+   non-chirurgical pour CC, CR et CP étaient respectivement de 36 (Q25 =
+   21; Q75 = 59), 40 (Q25 = 27; Q75 = 59) et 33 (Q25 = 22; Q75 = 49)
+   jours; 3) la radiothérapie chez les patients avec un parcours
+   non-chirurgical chez les patients avec CR et CP étaient respectivement
+   de 53 (Q25 = 39; Q75 = 78) et 88 (Q25 = 46; Q75 = 162) jours; 4) au
+   premier traitement, quel que soit le parcours, était de 23 (Q25 = 14;
+   Q75 = 35), 43 (Q25 = 27; Q75 = 74) et 34 (Q25 = 22; Q75 = 50) jours
+   respectivement pour CC, CR et CP. Le délai d’accès au premier
+   traitement variait selon les régions. Il était long dans la plupart des
+   régions du nord et dans les départements d’Outre-mer, court dans les
+   régions d’Île-de-France, du sud, de l’est et parfois de l’ouest pour
+   les trois cancers. En analyse multiniveau, l’âge et le statut de
+   l’établissement du premier traitement étaient significativement
+   associés au délai d’accès au premier traitement pour CC. Ces facteurs,
+   y compris l’indice de désavantage social étaient significativement
+   associés au délai d’accès au premier traitement pour le CR et le CP. Le
+   délai d’accès au premier traitement augmentait avec l’âge. Il était
+   plus élevé dans les hôpitaux publics comparés aux hôpitaux privés et
+   faible chez les patients des communes les moins défavorisées comparés
+   aux patients des communes les plus défavorisées. Conclusion : A notre
+   connaissance, cette étude est la première à décrire les délais d’accès
+   au traitement après endoscopie chez les patients atteints de cancer à
+   partir des bases médico-administratives en France. Les résultats, qui
+   compléteront ceux issus des données registres de cancers et des réseaux
+   régionaux de cancérologie, pourront être utiles aux décideurs
+   politiques dans la mise en place de recommandations de prise en charge
+   des cancers.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Medico-Administrative database Health social inequalities
+   Time to treatment
+   Mots-clés : Base de données médico-Administratives Cancer Délai d'accès
+   au traitement Inégalité sociale de santé France
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+   Sciences du Vivant [q-bio] / Cancer
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [57 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01721316
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 2 mars 2018 - 01:02:12
+   Dernière modification le : jeudi 11 avril 2019 - 08:28:09
+
+Fichier
+
+   [small]
+   73955_KUDJAWU_2017_diffusion.p...
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01721316, version 1
+
+Collections
+
+   STAR
+
+Citation
+
+   Yao Cyril Kudjawu. Délais d’accès au traitement des patients atteints
+   de cancers en France et impact des inégalités sociales de santé : étude
+   à partir des bases de données médico-administratives. Santé publique et
+   épidémiologie. Université Paris-Saclay, 2017. Français. ⟨NNT :
+   2017SACLS023⟩. ⟨tel-01721316⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+277
+
+   Téléchargements de fichiers
+
+260
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01687719, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Clinomics Information Retrieval in Electronic Health Records :
+   Modelling, Implantation and Evaluation
+   Recherche d'information clinomique dans le Dossier Patient Informatisé
+   : modélisation, implantation et évaluation.
+   Chloé Cabot ^1 (BUTTON) Détails
+   1 LITIS - Laboratoire d'Informatique, de Traitement de l'Information et
+   des Systèmes
+
+       Chloé Cabot ^1 AuthorId : 1168985
+     Auteur
+
+   1 LITIS - Laboratoire d'Informatique, de Traitement de l'Information et
+   des Systèmes (Avenue de l'Université 76800 Saint-Étienne-du-Rouvray -
+   France) StructId : 23832
+     * INSA Rouen Normandie - Institut national des sciences appliquées
+       Rouen Normandie (Avenue de l’Université 76801
+       Saint-Étienne-du-Rouvray Cedex - France) StructId : 301288
+          + INSA - Institut National des Sciences Appliquées (France)
+            StructId : 301232
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+     * UNIROUEN - Université de Rouen Normandie : EA4108 (1, rue Thomas
+       Becket 76821 Mont-Saint-Aignan Cedex - France) StructId : 300318
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+     * ULH - Université Le Havre Normandie (25 rue Philippe Lebon - BP
+       1123 - 76063 Le Havre Cedex France - France) StructId : 300317
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : The aim of this thesis is part of the broad issue of
+   information retrieval in Electronic Health Records (EHRs). The aspects
+   tackled in this topic are numerous : on the one hand clinomics
+   information retrieval within EHRs and secondly information retrieval
+   within unstructured data from EHRs. As a first step, one of the
+   objectives is to integrate in EHRs information beyond the scope of
+   medicine to integrate data, information and knowledge from molecular
+   biology ; omic data from genomics, proteomics or metabolomics. The
+   integration of this type of data improves health information systems,
+   their interoperability and the processing and exploitation of data for
+   clinical purposes. An important challenge is to ensure the integration
+   of heterogeneous data, through research on conceptual models of data,
+   ontology and terminology servers, and semantic data warehouses. The
+   integration of this data and their interpretation into a conceptual
+   data model is an important challenge. Finally, it is important to
+   integrate clinical research and fundamental research in order to ensure
+   continuity of knowledge between research and clinical practice and to
+   understand personalized medicine challenges. This thesis thus leads to
+   the design and development of a generic model of omics data exploited
+   in a prototype application for information retrieval and visualization
+   in omic and clinical data within a sample of 2,000 patients. The second
+   objective of this thesis is the multi-terminological indexing of
+   medical documents through the development of the Extracting Concepts
+   with Multiple Terminologies tool (ECMT). It uses terminologies embedded
+   in the Health Terminology/Ontology Portal (HeTOP) to identify concepts
+   in unstructured documents. From a document written by a human, and
+   therefore potentially showing typing errors, spelling or grammar
+   mistakes, the challenge is to identify concepts and thus structure the
+   information contained in the text. In health information retrieval,
+   indexing is of great interest for information retrieval in unstructured
+   documents, such as reports and medical notes. This thesis proposes
+   several methods and their evaluation along two axes : the indexing of
+   medical texts using several terminologies and the processing of natural
+   language in narrative medical notes.
+   Résumé : Les objectifs de cette thèse s’inscrivent dans la large
+   problématique de recherche d’information dans les données issues du
+   Dossier Patient Informatisé (DPI). Les aspects abordés dans cette
+   problématique sont multiples : d’une part la mise en oeuvre d’une
+   recherche d’information clinomique au sein du DPI et d’autre part la
+   recherche d’information au sein de données non structurées issues du
+   DPI. Dans un premier temps, l’un des objectifs de cette thèse est
+   d’intégrer au sein du DPI des informations dépassant le cadre de la
+   médecine pour intégrer des données, informations et connaissances
+   provenant de la biologie moléculaire ; les données omiques, issues de
+   la génomique, protéomique ou encore métabolomique. L’intégration de ce
+   type de données permet d’améliorer les systèmes d’information en santé,
+   leur interopérabilité ainsi que le traitement et l’exploitation des
+   données à des fins cliniques. Un enjeu important est d’assurer
+   l’intégration de données hétérogènes, grâce à des recherches sur les
+   modèles conceptuels de données, sur les ontologies et serveurs
+   terminologiques et sur les entrepôts sémantiques. L’intégration de ces
+   données et leur interprétation selon un même modèle de données
+   conceptuel sont un verrou important. Enfin, il est important d’intégrer
+   recherche clinique et recherche fondamentale afin d’assurer une
+   continuité des connaissances entre recherche et pratique clinique et
+   afin d’appréhender la problématique de personnalisation des soins.
+   Cette thèse aboutit ainsi à la conception et au développement d’un
+   modèle générique des données omiques exploité dans une application
+   prototype de recherche et visualisation dans les données omiques et
+   cliniques d’un échantillon de 2 000 patients. Le second objectif de ma
+   thèse est l’indexation multi terminologique de documents médicaux à
+   travers le développement de l’outil Extracteur de Concepts
+   Multi-Terminologique (ECMT). Il exploite les terminologies intégrées au
+   portail terminologique Health Terminology/Ontology Portal (HeTOP) pour
+   identifier des concepts dans des documents non structurés. Ainsi, à
+   partir d’un document rédigé par un humain, et donc porteur
+   potentiellement d’erreurs de frappe, d’orthographe ou de
+   grammaire,l’enjeu est d’identifier des concepts et ainsi structurer
+   l’information contenue dans le document. Pour la recherche
+   d’information médicale, l’indexation présente un intérêt incontournable
+   pour la recherche dans les documents non structurés, comme
+   lescomptes-rendus de séjour ou d’examens. Cette thèse propose plusieurs
+   méthodes et leur évaluation suivant deux axes : l’indexation de textes
+   médicaux à l’aide de plusieurs terminologies et le traitement du
+   langage naturel dans les textes médicaux narratifs.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Information retrieval Electronic Health Records Modelling
+   Information Extraction Controlled Vocabularies Natural Language
+   Processing
+   Mots-clés : Recherche d'information Dossiers patients informatisés
+   Modélisation Extraction d'information Vocabulaires contrôlés Traitement
+   du langage naturel
+   Type de document :
+   Thèse
+   Domaine :
+
+   Informatique [cs] / Traitement du texte et du document
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [198 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01687719
+   Contributeur : Abes Star <>
+   Soumis le : jeudi 18 janvier 2018 - 16:46:09
+   Dernière modification le : mardi 5 février 2019 - 11:44:23
+   Document(s) archivé(s) le : mercredi 23 mai 2018 - 23:26:04
+
+Fichier
+
+   [small]
+   cabotchloe2.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01687719, version 1
+
+Collections
+
+   STAR | LITIS | INSA-ROUEN | COMUE-NORMANDIE | THESES-NU | UNIROUEN |
+   UNILEHAVRE | INSA-GROUPE
+
+Citation
+
+   Chloé Cabot. Recherche d'information clinomique dans le Dossier Patient
+   Informatisé : modélisation, implantation et évaluation.. Traitement du
+   texte et du document. Normandie Université, 2017. Français. ⟨NNT :
+   2017NORMR041⟩. ⟨tel-01687719⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+579
+
+   Téléchargements de fichiers
+
+1080
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01508529, version 1
+
+   (BUTTON) en (BUTTON) fr
+   The French Alzheimer database (BNA) as an epidemiologic tool : current
+   status and perspectives
+   La Banque Nationale de Données Alzheimer comme outil épidémiologique :
+   état des lieux et perspectives
+   Karim Tifratène ^1 (BUTTON) Détails
+   1 CobTek - Cognition Behaviour Technology
+
+       Karim Tifratène ^1 AuthorId : 1528337
+     Auteur IdRef : https://www.idref.fr/085934909
+
+   1 CobTek - Cognition Behaviour Technology (Centre Mémoire de Ressources
+   et de Recherche - Pavillon Mossa - Hôpital de Cimiez - 4 avenue
+   Victoria 06000 Nice. - France) StructId : 168629
+     * UNS - Université Nice Sophia Antipolis : EA 7276 (Parc Valrose - BP
+       2135 - 06103 Nice cedex 2 - France) StructId : 117617
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+     * CHU Nice - Centre Hospitalier Universitaire de Nice (30, Voie
+       Romaine CS 51069 - 06001 Nice Cedex 1 - France) StructId : 300113
+     * ICP - Nice - Institut Claude Pompidou [Nice] (10 Rue Molière, 06100
+       Nice. - France) StructId : 506164
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : The French Alzheimer database (BNA) is part of the third
+   French plan against Alzheimer’s disease and related disorders. The
+   objective of this database is to collect activity data of all French
+   memory centers in order to help health authorities to organize the care
+   offer and to generate epidemiologic knowledge on dementia.
+   Administrative database have advantages and drawback in terms of
+   medical research. It can gather data related to a large population,
+   reflects the “real life” of patients and medical practices and allows
+   longitudinal follow-up. On this other side some specific problems
+   exists among them validity is a real concern. The objective of this
+   work was to assess the BNA as an epidemiologic tool. We performed
+   quality analyses and external validity studies in this perspective and
+   initiated a research on posterior cortical atrophy to illustrate the
+   potential of the database for the study of rare conditions. Our work
+   shows that quality can be increased by the setup of a more structured
+   quality program. The BNA is currently able to reproduce known published
+   results and is sensitive to the environment. In this work we give some
+   recommendations to increase the value of the BNA for epidemiological
+   research.
+   Résumé : Le plan Alzheimer 2008-2012 prévoyait la création d’une base
+   de données nationale recueillant des données d’activité de l’ensemble
+   des centres mémoire français. La banque nationale Alzheimer (BNA) s’est
+   vu assignée un double objectif : contribuer à adapter l’offre de soins
+   spécialisés et générer des données épidémiologiques sur la maladie
+   d’Alzheimer et les maladies apparentées. Les bases de données
+   médico-administratives sont utiles dans le champ de l’épidémiologie car
+   les effectifs sont importants, les données reflètent les pratiques
+   quotidiennes et le suivi longitudinal est le plus souvent possible. Des
+   problèmes spécifiques se posent également car elles n’ont en général
+   pas été conçues dans un objectif de recherche, manquent d’informations
+   spécifiques d’une problématique donnée et présentent des limites en
+   termes de validité. L’objectif de ce travail est d’étudier la BNA comme
+   outil épidémiologique. Pour ce faire nous avons effectué des travaux
+   relatifs à la qualité des données et à la validité externe de la base
+   de données, nous avons également mené un travail spécifique sur
+   l’atrophie corticale postérieure afin de montrer les possibilités de la
+   BNA comme outil pour l’étude des affections neuro-dégénératives rares.
+   Notre travail montre que la qualité des données est perfectible par la
+   mise en place d’un contrôle qualité plus structuré. La BNA est
+   actuellement capable de reproduire des résultats de recherche décrits
+   dans la littérature et semble sensible aux grandes tendances décrites
+   dans l’environnement. Nous proposons une série de mesures qui
+   permettrait à la BNA d’être un meilleur outil pour la recherche en
+   épidémiologie.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Alzheimer’s disease Administrative database French Alzheimer
+   database Dementia Mild cognitive impairment Posterior cortical atrophy
+   Mots-clés : Maladie d’Alzheimer Base de données administrative Banque
+   nationale Alzheimer Démence Troubles cognitifs légers Atrophie
+   corticale postérieure
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [120 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01508529
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 14 avril 2017 - 12:00:21
+   Dernière modification le : jeudi 31 janvier 2019 - 11:30:03
+   Document(s) archivé(s) le : samedi 15 juillet 2017 - 14:46:06
+
+Fichier
+
+   [small]
+   TIFRATENE_KARIM_2016.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01508529, version 1
+
+Collections
+
+   STAR | UNICE | U-BORDEAUX | UNIV-COTEDAZUR
+
+Citation
+
+   Karim Tifratène. La Banque Nationale de Données Alzheimer comme outil
+   épidémiologique : état des lieux et perspectives. Santé publique et
+   épidémiologie. Université de Bordeaux, 2016. Français. ⟨NNT :
+   2016BORD0214⟩. ⟨tel-01508529⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+707
+
+   Téléchargements de fichiers
+
+654
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01622157, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Living conditions, health and healthcare use in homeless women,
+   sheltered in the Greater Paris area
+   Conditions de vie, état de santé et recours aux soins des femmes sans
+   logement personnel hébergées en Ile-de-France
+   Cécile Vuillermoz ^1 (BUTTON) Détails
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+
+       Cécile Vuillermoz ^1 AuthorId : 1658247
+     Auteur IdRef : https://www.idref.fr/204720249
+
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+   (56, boulevard Vincent Auriol - CS 81393 - 75646 Paris Cedex 13 -
+   France) StructId : 267618
+     * UPMC - Université Pierre et Marie Curie - Paris 6 (4 place Jussieu
+       - 75005 Paris - France) StructId : 93591
+     * INSERM - Institut National de la Santé et de la Recherche Médicale
+       : U1136 (101, rue de Tolbiac, 75013 Paris - France) StructId :
+       303623
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Social sciences and public health research conducted mainly
+   in North America, since the 1980s, have shown that homelessness has a
+   significant impact on health, physical conditions and psychological
+   health of families without housing. In France, quantitative studies on
+   homeless women were scarce until the realization of the ENFAMS survey
+   in Paris region in 2013.Based on data from this survey, we showed that,
+   although younger than women in the general population, the health of
+   homeless women is worse, especially with regards to their mental health
+   and nutritional status. Despite their poor health, homeless women have
+   less access to health care than women in the general population. Our
+   research has highlighted the importance of gynecological follow-up in
+   accessing women's cancer screening since the proportion of women who
+   were screened for cervical cancer was twice as high among women with
+   follow-up than among women without follow-up. We have also shown that
+   in the French context of universal health coverage and numerous social
+   safety nets, we do not find the classic associations between unmet
+   health care needs and financial resources or health insurance
+   status.Primary care professionals need to rely on windows of
+   opportunity provided by each of their contact with health care services
+   to make them benefit from cancer screening. Strategies to improve the
+   access to health care of these women must not only aim to remove
+   financial barriers.
+   Résumé : Un corpus de recherches en sciences sociales et en santé
+   publique menées principalement en Amérique du Nord depuis les années
+   1980 montre que l'absence de logement personnel a un effet délétère sur
+   l'état de santé, physique et psychique des familles sans logement. En
+   France, les études quantitatives sur la santé des femmes sans-domicile
+   restaient exceptionnelles avant la réalisation de l'enquête ENFAMS
+   conduite en Ile-de-France en 2013. A partir des données de cette
+   enquête, nous avons montré que, bien qu’elles soient plus jeunes que
+   les femmes en population générale, la santé des femmes sans logement
+   est plus mauvaise, en particulier en ce qui concerne leur santé mentale
+   et leur santé nutritionnelle. Malgré un état de santé plus mauvais, les
+   femmes sans logement ont moins recours aux soins que les femmes en
+   population générale. Cette thèse a permis de souligner l’importance du
+   suivi gynécologique dans l’accès au dépistage des cancers féminins
+   puisque la proportion de femmes dépistées du cancer du col de l’utérus
+   est deux fois plus élevée chez les femmes avec un suivi que chez celles
+   sans suivi. Nous avons aussi montré que dans le contexte français d’une
+   couverture maladie universelle et de l’existence de filets de
+   protection sociale, nous ne retrouvons pas les associations
+   classiquement observées entre renoncement aux soins et ressources
+   financières ou assurance maladie. Les professionnels en soins primaires
+   doivent s’appuyer sur les fenêtres d’opportunité de dépistage qu’offre
+   chacun de leur contact avec les services de soins. Les stratégies
+   d’amélioration à l’accès aux soins de ces femmes ne doivent pas
+   seulement viser à lever les obstacles financiers.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Homeless women Women healthcare Women's cancer screening
+   Mots-clés : Femmes sans domicile Précarité Dépistage des cancers
+   féminins Renoncement aux soins Behavioral Model for Vulnerable
+   Populations Modèles à équations structurelles
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [276 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01622157
+   Contributeur : Abes Star <>
+   Soumis le : mardi 24 octobre 2017 - 10:26:20
+   Dernière modification le : vendredi 22 mars 2019 - 01:31:11
+   Document(s) archivé(s) le : jeudi 25 janvier 2018 - 12:27:21
+
+Fichier
+
+   [small]
+   these_archivage_3070090o.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01622157, version 1
+
+Collections
+
+   STAR | THESES-UPMC | IPLESP | UPMC | SORBONNE-UNIVERSITE | SU-MEDECINE
+
+Citation
+
+   Cécile Vuillermoz. Conditions de vie, état de santé et recours aux
+   soins des femmes sans logement personnel hébergées en Ile-de-France.
+   Santé publique et épidémiologie. Université Pierre et Marie Curie -
+   Paris VI, 2017. Français. ⟨NNT : 2017PA066108⟩. ⟨tel-01622157⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+916
+
+   Téléchargements de fichiers
+
+984
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01570446, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Epidemiology of malaria in persons working on illegal gold mining sites
+   in French Guiana : challenges for public health
+   Epidémiologie du paludisme chez les personnes travaillant sur des sites
+   d’orpaillage illégal en Guyane : Quels enjeux pour la santé publique ?
+   Maylis Douine ^1 (BUTTON) Détails
+   1 UG - Université de Guyane
+
+       Maylis Douine ^1 AuthorId : 1310307
+     Auteur
+
+   1 UG - Université de Guyane (Campus de Troubiran - BP 20792- 97337
+   Cayenne Cedex - Guyane - Guyane française) StructId : 424370
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Introduction: Although official data show a global decrease
+   of malaria in French Guiana, this disease often affects illegal gold
+   miners working in the deep Amazonian forest. The main objective of this
+   study was to evaluate the malaria prevalence in this population. The
+   secondary objectives were to evaluate and map the proportion of
+   Plasmodium species, to assess behavior, attitudes and practices
+   regarding malaria in this population, to measure the artemisinin
+   resistance level in parasites and to evaluate their general health.
+   Material and methods: Inclusions took place at the gold miners’ resting
+   sites, spread along the Maroni river. After recording their informed
+   consent, a malaria rapid test was performed, as well as a
+   questionnaire, a clinical exam and a blood sample for microscopy, PCR
+   and resistance test (RSA and PfK13 genotyping for P. falciparum
+   positive samples). Results: From January to June 2015, 421 gold miners
+   were included, mainly men (sex ratio 2.4), Brazilian nationals (93.8%),
+   with a median age of 37 years. Plasmodium prevalence using PCR was
+   22.3% (CI95%: 18.3 - 26.3), of whom 84% were asymptomatic. During the
+   last malaria attack, 52.4% selfmedicated with artemisinin derivatives
+   (93.8%) and a poor treatment adherence (37.8%). Being in French Guiana
+   when the malaria attack occurred was strongly associated with
+   selfmedication (AOR=22.1). One sample showed a survival rate higher
+   than 1% in RSA test but PfK13 genotyping did not reveal any mutation in
+   P. falciparum. Discussion: This high prevalence of asymptomatic
+   carriers constitutes a huge reservoir for malaria transmission in the
+   region. Massive use of artemisinin derivatives associated with poor
+   treatment adherence are factors that may contribute to the emergence of
+   artemisinin resistance. That would have huge sanitary and economical
+   consequences. With political will, actions are possible to limit this
+   risk, as the distribution of kits for self diagnosis and self-treatment
+   with training on resting sites.
+   Résumé : Introduction : Bien que les données officielles fassent état
+   d’une diminution globale du nombre de cas de paludisme en Guyane, les
+   orpailleurs travaillant sur les sites illégaux au cœur de la forêt
+   amazonienne semblent très touchés par cette pathologie. L’objectif
+   principal de cette étude était de déterminer la prévalence du paludisme
+   dans cette population. Les objectifs secondaires évaluaient la
+   proportion des différentes espèces plasmodiales et leur distribution
+   géographique, le niveau de résistance des parasites aux dérivés de
+   l’artémisinine, les connaissances attitudes et pratiques vis à vis de
+   cette pathologie, et des données de santé de cette population. Matériel
+   et méthodes : Les inclusions ont eu lieu sur les sites de repli des
+   orpailleurs le long du fleuve Maroni. Après recueil du consentement
+   éclairé, un test de diagnostic rapide du paludisme était effectué,
+   ainsi qu’un questionnaire, un examen clinique, et un prélèvement de
+   sang pour microscopie, PCR et tests de résistance (RSA et génotypage du
+   gène pfK13 pour les PCR positives à Plasmodium falciparum). Résultats :
+   De janvier à juin 2015, 421 orpailleurs ont été inclus, majoritairement
+   des hommes (70,6%) brésiliens (93,8%), de médiane d’âge de 37 ans. La
+   prévalence du portage de plasmodies déterminée par PCR était de 22,3%
+   (IC95% : 18,3-26,3) à 84% asymptomatiques. Les espèces identifiées
+   étaient principalement P. falciparum (47,9%) puis P. vivax (37,2%) avec
+   10,6% de coinfections. Lors du dernier accès palustre, 52,4% des
+   orpailleurs avaient eu recours à l’automédication, majoritairement avec
+   des dérivés de l’artémisinine (93,8%) avec une mauvaise observance
+   (37,8%). Le fait d’être en Guyane était fortement associé à
+   l’automédication (AOR=22,1). Le test RSA montrait un taux de survie
+   supérieur à 1% pour un échantillon mais l’analyse du gène pfK13 ne
+   mettait pas en évidence de mutations associées à la résistance à P.
+   falciparum Discussion: La prévalence élevée de porteurs asymptomatiques
+   de paludisme constitue un réservoir important pourla transmission du
+   paludisme dans la région. L’utilisation massive de dérivés de
+   l’artémisinine associée à une mauvaise observance sont des facteurs de
+   risque d’émergence de résistance, ce qui entraînerait des conséquences
+   sanitaires et économiques importantes. Avec une volonté politique, des
+   actions sont possibles pour limiter ce risque, comme la distribution de
+   kits d’autodiagnostic et d’auto-traitement avec une formation au niveau
+   des sites de repli.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Epidemiology Public Health Resistance of artemisinin French
+   Guiana Malaria Gold Panning The Amazon rainforest
+   Mots-clés : Paludisme Orpaillage Guyane française Résistance à
+   l'artemisinine Santé publique Épidémiologie Amazonie
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Autre [q-bio.OT]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [285 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01570446
+   Contributeur : Abes Star <>
+   Soumis le : dimanche 30 juillet 2017 - 06:17:06
+   Dernière modification le : samedi 21 avril 2018 - 03:32:48
+
+Fichier
+
+   [small]
+   these_Douine.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01570446, version 1
+
+Collections
+
+   STAR | GUYANE
+
+Citation
+
+   Maylis Douine. Epidémiologie du paludisme chez les personnes
+   travaillant sur des sites d’orpaillage illégal en Guyane : Quels enjeux
+   pour la santé publique ?. Autre [q-bio.OT]. Université de Guyane, 2017.
+   Français. ⟨NNT : 2017YANE0006⟩. ⟨tel-01570446⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+825
+
+   Téléchargements de fichiers
+
+2431
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01721316, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Time to Treatment in Patients Suffering from Cancers in France and
+   Impact of Health Social Inequalities : Study from Medico-Administrative
+   Databases
+   Délais d’accès au traitement des patients atteints de cancers en France
+   et impact des inégalités sociales de santé : étude à partir des bases
+   de données médico-administratives
+   Yao Cyril Kudjawu ^1 (BUTTON) Détails
+   1 Santé publique France
+
+       Yao Cyril Kudjawu ^1 AuthorId : 11139105
+     Auteur
+
+   1 Santé publique France (Santé publique France (siège social) 12, rue
+   du Val d'Osne 94415 Saint-Maurice cedex - France) StructId : 461591
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Background: timeliness of cancer treatment is an important
+   aspect of health quality. Care centers are expected to treat a growing
+   number of patients with cancer. Our objectives were to examine
+   treatment times from diagnosis to first-course therapy for patients
+   with colon (CC), rectum-anus (RC), and lung (LC) cancers and assess
+   factors associated with time to-treatment and the impact of deprivation
+   index.Methods: using the international classification of diseases and
+   medical procedures codes, from national hospital discharge database
+   which has been crossed with long term illness data and French
+   deprivation Index information, we selected patients newly diagnosed for
+   CC, RC or LC in 2009-2010 who had undergone treatment.Results: We
+   included 15,694, 6,623 and 14,596 patients diagnosed and treated for
+   CC, RC and LC respectively. Median times from endoscopy to: 1) surgery
+   in patients with a surgical treatment pathway for CC, RC, and LC were
+   22 (Q25 = 14; Q75 = 34), 97 (Q25 = 34; Q75 = 141), and 44 (Q25 = 26;
+   Q75 = 82) days, respectively; 2) to chemotherapy for patients with a
+   non-surgical treatment pathway, for CC, RC, and LC were 36 (Q25 = 21;
+   Q75 = 59), 40 (Q25 = 27; Q75 = 59), and 33 (Q25 = 22; Q75 = 49) days
+   respectively; 3) to radiotherapy in RC and LC patients were 53 (Q25 =
+   39; Q75 = 78) and 88 (Q25 = 46; Q75 = 162) days respectively; 4) to
+   first treatment, irrespective of pathway and treatment combination for
+   CC, RC and LC were 23 (Q25 = 14; Q75 = 35), 43 (Q25 = 27; Q75 = 74),
+   and 34 (Q25 = 22; Q75 = 50) days respectively.Time to first treatment
+   vary across regions. It was longer in most northern regions and in
+   overseas districts and shorter in Île-de-France, southern, eastern and
+   sometimes in western regions for the three cancers. In multilevel
+   analysis, Age and status of the first care center were significantly
+   associated to time to first treatment in CC patients. Similar factors,
+   including Deprivation index, were significantly associated to time to
+   first treatment in RC and LC patients. The time to first treatment
+   increased with age. It was higher in public hospitals compared to
+   private hospitals and low in patients with low deprivation index
+   compared to patients with high deprivation index. Conclusion: To our
+   knowledge, this is the first study based on medico-administrative
+   database describing time to first treatment after endoscopy in patients
+   suffering from cancers in France. The results, which will complement
+   those from cancer registry data and regional networks of cancerology,
+   could inform decision-making policies on the implementation of
+   guidelines on timeframes for cancer treatment access.
+   Résumé : Contexte : Le délai d’accès au traitement pour cancer est un
+   aspect important de la qualité des soins. Compte tenu de l’augmentation
+   du nombre de cancers, les établissements de soins seront amenés à
+   traiter un nombre élevé de patients atteints de cancers. Notre objectif
+   était d’étudier le délai d’accès au traitement après le diagnostic de
+   cancer chez les patients atteints de cancers du côlon (CC), du
+   rectum-anus (RC) ou du poumon (CP) ainsi que les facteurs associés et
+   l’impact des inégalités sociales.Méthode : A l’aide de codes
+   diagnostiques de la classification internationale des maladies et de
+   codes de la classification commune des actes médicaux, nous avons
+   sélectionné dans la base du programme de médicalisation des systèmes
+   d’information de nouveaux patients diagnostiqués pour CC, RC et CP en
+   2009-2010 et traités. Les informations sur ces patients ont été
+   croisées avec celles des bénéficiaires d’affection longue durée pour
+   ces cancers et avec celles de l’indice de désavantage social.Résultats
+   : Nous avons inclus 15 694, 6 623 et 14 596 patients atteints et
+   traités respectivement pour CC, CR et CP. Les délais médians entre
+   l’endoscopie et l’accès à : 1) la chirurgie chez les patients avec un
+   parcours chirurgical pour CC, CR et CP étaient respectivement de 22
+   (Q25 = 14; Q75 = 34), 97 (Q25 = 34; Q75 = 141), et 44 (Q25 = 26; Q75 =
+   82) jours ; 2) la chimiothérapie chez les patients avec un parcours
+   non-chirurgical pour CC, CR et CP étaient respectivement de 36 (Q25 =
+   21; Q75 = 59), 40 (Q25 = 27; Q75 = 59) et 33 (Q25 = 22; Q75 = 49)
+   jours; 3) la radiothérapie chez les patients avec un parcours
+   non-chirurgical chez les patients avec CR et CP étaient respectivement
+   de 53 (Q25 = 39; Q75 = 78) et 88 (Q25 = 46; Q75 = 162) jours; 4) au
+   premier traitement, quel que soit le parcours, était de 23 (Q25 = 14;
+   Q75 = 35), 43 (Q25 = 27; Q75 = 74) et 34 (Q25 = 22; Q75 = 50) jours
+   respectivement pour CC, CR et CP. Le délai d’accès au premier
+   traitement variait selon les régions. Il était long dans la plupart des
+   régions du nord et dans les départements d’Outre-mer, court dans les
+   régions d’Île-de-France, du sud, de l’est et parfois de l’ouest pour
+   les trois cancers. En analyse multiniveau, l’âge et le statut de
+   l’établissement du premier traitement étaient significativement
+   associés au délai d’accès au premier traitement pour CC. Ces facteurs,
+   y compris l’indice de désavantage social étaient significativement
+   associés au délai d’accès au premier traitement pour le CR et le CP. Le
+   délai d’accès au premier traitement augmentait avec l’âge. Il était
+   plus élevé dans les hôpitaux publics comparés aux hôpitaux privés et
+   faible chez les patients des communes les moins défavorisées comparés
+   aux patients des communes les plus défavorisées. Conclusion : A notre
+   connaissance, cette étude est la première à décrire les délais d’accès
+   au traitement après endoscopie chez les patients atteints de cancer à
+   partir des bases médico-administratives en France. Les résultats, qui
+   compléteront ceux issus des données registres de cancers et des réseaux
+   régionaux de cancérologie, pourront être utiles aux décideurs
+   politiques dans la mise en place de recommandations de prise en charge
+   des cancers.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Medico-Administrative database Health social inequalities
+   Time to treatment
+   Mots-clés : Base de données médico-Administratives Cancer Délai d'accès
+   au traitement Inégalité sociale de santé France
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+   Sciences du Vivant [q-bio] / Cancer
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [57 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01721316
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 2 mars 2018 - 01:02:12
+   Dernière modification le : jeudi 11 avril 2019 - 08:28:09
+
+Fichier
+
+   [small]
+   73955_KUDJAWU_2017_diffusion.p...
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01721316, version 1
+
+Collections
+
+   STAR
+
+Citation
+
+   Yao Cyril Kudjawu. Délais d’accès au traitement des patients atteints
+   de cancers en France et impact des inégalités sociales de santé : étude
+   à partir des bases de données médico-administratives. Santé publique et
+   épidémiologie. Université Paris-Saclay, 2017. Français. ⟨NNT :
+   2017SACLS023⟩. ⟨tel-01721316⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+277
+
+   Téléchargements de fichiers
+
+260
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01687719, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Clinomics Information Retrieval in Electronic Health Records :
+   Modelling, Implantation and Evaluation
+   Recherche d'information clinomique dans le Dossier Patient Informatisé
+   : modélisation, implantation et évaluation.
+   Chloé Cabot ^1 (BUTTON) Détails
+   1 LITIS - Laboratoire d'Informatique, de Traitement de l'Information et
+   des Systèmes
+
+       Chloé Cabot ^1 AuthorId : 1168985
+     Auteur
+
+   1 LITIS - Laboratoire d'Informatique, de Traitement de l'Information et
+   des Systèmes (Avenue de l'Université 76800 Saint-Étienne-du-Rouvray -
+   France) StructId : 23832
+     * INSA Rouen Normandie - Institut national des sciences appliquées
+       Rouen Normandie (Avenue de l’Université 76801
+       Saint-Étienne-du-Rouvray Cedex - France) StructId : 301288
+          + INSA - Institut National des Sciences Appliquées (France)
+            StructId : 301232
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+     * UNIROUEN - Université de Rouen Normandie : EA4108 (1, rue Thomas
+       Becket 76821 Mont-Saint-Aignan Cedex - France) StructId : 300318
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+     * ULH - Université Le Havre Normandie (25 rue Philippe Lebon - BP
+       1123 - 76063 Le Havre Cedex France - France) StructId : 300317
+          + NU - Normandie Université (Esplanade de la Paix - CS 14032 -
+            14032 Caen Cedex 5 - France) StructId : 455934
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : The aim of this thesis is part of the broad issue of
+   information retrieval in Electronic Health Records (EHRs). The aspects
+   tackled in this topic are numerous : on the one hand clinomics
+   information retrieval within EHRs and secondly information retrieval
+   within unstructured data from EHRs. As a first step, one of the
+   objectives is to integrate in EHRs information beyond the scope of
+   medicine to integrate data, information and knowledge from molecular
+   biology ; omic data from genomics, proteomics or metabolomics. The
+   integration of this type of data improves health information systems,
+   their interoperability and the processing and exploitation of data for
+   clinical purposes. An important challenge is to ensure the integration
+   of heterogeneous data, through research on conceptual models of data,
+   ontology and terminology servers, and semantic data warehouses. The
+   integration of this data and their interpretation into a conceptual
+   data model is an important challenge. Finally, it is important to
+   integrate clinical research and fundamental research in order to ensure
+   continuity of knowledge between research and clinical practice and to
+   understand personalized medicine challenges. This thesis thus leads to
+   the design and development of a generic model of omics data exploited
+   in a prototype application for information retrieval and visualization
+   in omic and clinical data within a sample of 2,000 patients. The second
+   objective of this thesis is the multi-terminological indexing of
+   medical documents through the development of the Extracting Concepts
+   with Multiple Terminologies tool (ECMT). It uses terminologies embedded
+   in the Health Terminology/Ontology Portal (HeTOP) to identify concepts
+   in unstructured documents. From a document written by a human, and
+   therefore potentially showing typing errors, spelling or grammar
+   mistakes, the challenge is to identify concepts and thus structure the
+   information contained in the text. In health information retrieval,
+   indexing is of great interest for information retrieval in unstructured
+   documents, such as reports and medical notes. This thesis proposes
+   several methods and their evaluation along two axes : the indexing of
+   medical texts using several terminologies and the processing of natural
+   language in narrative medical notes.
+   Résumé : Les objectifs de cette thèse s’inscrivent dans la large
+   problématique de recherche d’information dans les données issues du
+   Dossier Patient Informatisé (DPI). Les aspects abordés dans cette
+   problématique sont multiples : d’une part la mise en oeuvre d’une
+   recherche d’information clinomique au sein du DPI et d’autre part la
+   recherche d’information au sein de données non structurées issues du
+   DPI. Dans un premier temps, l’un des objectifs de cette thèse est
+   d’intégrer au sein du DPI des informations dépassant le cadre de la
+   médecine pour intégrer des données, informations et connaissances
+   provenant de la biologie moléculaire ; les données omiques, issues de
+   la génomique, protéomique ou encore métabolomique. L’intégration de ce
+   type de données permet d’améliorer les systèmes d’information en santé,
+   leur interopérabilité ainsi que le traitement et l’exploitation des
+   données à des fins cliniques. Un enjeu important est d’assurer
+   l’intégration de données hétérogènes, grâce à des recherches sur les
+   modèles conceptuels de données, sur les ontologies et serveurs
+   terminologiques et sur les entrepôts sémantiques. L’intégration de ces
+   données et leur interprétation selon un même modèle de données
+   conceptuel sont un verrou important. Enfin, il est important d’intégrer
+   recherche clinique et recherche fondamentale afin d’assurer une
+   continuité des connaissances entre recherche et pratique clinique et
+   afin d’appréhender la problématique de personnalisation des soins.
+   Cette thèse aboutit ainsi à la conception et au développement d’un
+   modèle générique des données omiques exploité dans une application
+   prototype de recherche et visualisation dans les données omiques et
+   cliniques d’un échantillon de 2 000 patients. Le second objectif de ma
+   thèse est l’indexation multi terminologique de documents médicaux à
+   travers le développement de l’outil Extracteur de Concepts
+   Multi-Terminologique (ECMT). Il exploite les terminologies intégrées au
+   portail terminologique Health Terminology/Ontology Portal (HeTOP) pour
+   identifier des concepts dans des documents non structurés. Ainsi, à
+   partir d’un document rédigé par un humain, et donc porteur
+   potentiellement d’erreurs de frappe, d’orthographe ou de
+   grammaire,l’enjeu est d’identifier des concepts et ainsi structurer
+   l’information contenue dans le document. Pour la recherche
+   d’information médicale, l’indexation présente un intérêt incontournable
+   pour la recherche dans les documents non structurés, comme
+   lescomptes-rendus de séjour ou d’examens. Cette thèse propose plusieurs
+   méthodes et leur évaluation suivant deux axes : l’indexation de textes
+   médicaux à l’aide de plusieurs terminologies et le traitement du
+   langage naturel dans les textes médicaux narratifs.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Information retrieval Electronic Health Records Modelling
+   Information Extraction Controlled Vocabularies Natural Language
+   Processing
+   Mots-clés : Recherche d'information Dossiers patients informatisés
+   Modélisation Extraction d'information Vocabulaires contrôlés Traitement
+   du langage naturel
+   Type de document :
+   Thèse
+   Domaine :
+
+   Informatique [cs] / Traitement du texte et du document
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [198 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01687719
+   Contributeur : Abes Star <>
+   Soumis le : jeudi 18 janvier 2018 - 16:46:09
+   Dernière modification le : mardi 5 février 2019 - 11:44:23
+   Document(s) archivé(s) le : mercredi 23 mai 2018 - 23:26:04
+
+Fichier
+
+   [small]
+   cabotchloe2.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01687719, version 1
+
+Collections
+
+   STAR | LITIS | INSA-ROUEN | COMUE-NORMANDIE | THESES-NU | UNIROUEN |
+   UNILEHAVRE | INSA-GROUPE
+
+Citation
+
+   Chloé Cabot. Recherche d'information clinomique dans le Dossier Patient
+   Informatisé : modélisation, implantation et évaluation.. Traitement du
+   texte et du document. Normandie Université, 2017. Français. ⟨NNT :
+   2017NORMR041⟩. ⟨tel-01687719⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+579
+
+   Téléchargements de fichiers
+
+1080
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01508529, version 1
+
+   (BUTTON) en (BUTTON) fr
+   The French Alzheimer database (BNA) as an epidemiologic tool : current
+   status and perspectives
+   La Banque Nationale de Données Alzheimer comme outil épidémiologique :
+   état des lieux et perspectives
+   Karim Tifratène ^1 (BUTTON) Détails
+   1 CobTek - Cognition Behaviour Technology
+
+       Karim Tifratène ^1 AuthorId : 1528337
+     Auteur IdRef : https://www.idref.fr/085934909
+
+   1 CobTek - Cognition Behaviour Technology (Centre Mémoire de Ressources
+   et de Recherche - Pavillon Mossa - Hôpital de Cimiez - 4 avenue
+   Victoria 06000 Nice. - France) StructId : 168629
+     * UNS - Université Nice Sophia Antipolis : EA 7276 (Parc Valrose - BP
+       2135 - 06103 Nice cedex 2 - France) StructId : 117617
+          + UCA - Université Côte d'Azur (Parc Valrose, 28 avenue Valrose
+            06108 Nice Cedex 2 - France) StructId : 523042
+     * CHU Nice - Centre Hospitalier Universitaire de Nice (30, Voie
+       Romaine CS 51069 - 06001 Nice Cedex 1 - France) StructId : 300113
+     * ICP - Nice - Institut Claude Pompidou [Nice] (10 Rue Molière, 06100
+       Nice. - France) StructId : 506164
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : The French Alzheimer database (BNA) is part of the third
+   French plan against Alzheimer’s disease and related disorders. The
+   objective of this database is to collect activity data of all French
+   memory centers in order to help health authorities to organize the care
+   offer and to generate epidemiologic knowledge on dementia.
+   Administrative database have advantages and drawback in terms of
+   medical research. It can gather data related to a large population,
+   reflects the “real life” of patients and medical practices and allows
+   longitudinal follow-up. On this other side some specific problems
+   exists among them validity is a real concern. The objective of this
+   work was to assess the BNA as an epidemiologic tool. We performed
+   quality analyses and external validity studies in this perspective and
+   initiated a research on posterior cortical atrophy to illustrate the
+   potential of the database for the study of rare conditions. Our work
+   shows that quality can be increased by the setup of a more structured
+   quality program. The BNA is currently able to reproduce known published
+   results and is sensitive to the environment. In this work we give some
+   recommendations to increase the value of the BNA for epidemiological
+   research.
+   Résumé : Le plan Alzheimer 2008-2012 prévoyait la création d’une base
+   de données nationale recueillant des données d’activité de l’ensemble
+   des centres mémoire français. La banque nationale Alzheimer (BNA) s’est
+   vu assignée un double objectif : contribuer à adapter l’offre de soins
+   spécialisés et générer des données épidémiologiques sur la maladie
+   d’Alzheimer et les maladies apparentées. Les bases de données
+   médico-administratives sont utiles dans le champ de l’épidémiologie car
+   les effectifs sont importants, les données reflètent les pratiques
+   quotidiennes et le suivi longitudinal est le plus souvent possible. Des
+   problèmes spécifiques se posent également car elles n’ont en général
+   pas été conçues dans un objectif de recherche, manquent d’informations
+   spécifiques d’une problématique donnée et présentent des limites en
+   termes de validité. L’objectif de ce travail est d’étudier la BNA comme
+   outil épidémiologique. Pour ce faire nous avons effectué des travaux
+   relatifs à la qualité des données et à la validité externe de la base
+   de données, nous avons également mené un travail spécifique sur
+   l’atrophie corticale postérieure afin de montrer les possibilités de la
+   BNA comme outil pour l’étude des affections neuro-dégénératives rares.
+   Notre travail montre que la qualité des données est perfectible par la
+   mise en place d’un contrôle qualité plus structuré. La BNA est
+   actuellement capable de reproduire des résultats de recherche décrits
+   dans la littérature et semble sensible aux grandes tendances décrites
+   dans l’environnement. Nous proposons une série de mesures qui
+   permettrait à la BNA d’être un meilleur outil pour la recherche en
+   épidémiologie.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Alzheimer’s disease Administrative database French Alzheimer
+   database Dementia Mild cognitive impairment Posterior cortical atrophy
+   Mots-clés : Maladie d’Alzheimer Base de données administrative Banque
+   nationale Alzheimer Démence Troubles cognitifs légers Atrophie
+   corticale postérieure
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [120 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01508529
+   Contributeur : Abes Star <>
+   Soumis le : vendredi 14 avril 2017 - 12:00:21
+   Dernière modification le : jeudi 31 janvier 2019 - 11:30:03
+   Document(s) archivé(s) le : samedi 15 juillet 2017 - 14:46:06
+
+Fichier
+
+   [small]
+   TIFRATENE_KARIM_2016.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01508529, version 1
+
+Collections
+
+   STAR | UNICE | U-BORDEAUX | UNIV-COTEDAZUR
+
+Citation
+
+   Karim Tifratène. La Banque Nationale de Données Alzheimer comme outil
+   épidémiologique : état des lieux et perspectives. Santé publique et
+   épidémiologie. Université de Bordeaux, 2016. Français. ⟨NNT :
+   2016BORD0214⟩. ⟨tel-01508529⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+707
+
+   Téléchargements de fichiers
+
+654
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01622157, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Living conditions, health and healthcare use in homeless women,
+   sheltered in the Greater Paris area
+   Conditions de vie, état de santé et recours aux soins des femmes sans
+   logement personnel hébergées en Ile-de-France
+   Cécile Vuillermoz ^1 (BUTTON) Détails
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+
+       Cécile Vuillermoz ^1 AuthorId : 1658247
+     Auteur IdRef : https://www.idref.fr/204720249
+
+   1 iPLESP - Institut Pierre Louis d'Epidémiologie et de Santé Publique
+   (56, boulevard Vincent Auriol - CS 81393 - 75646 Paris Cedex 13 -
+   France) StructId : 267618
+     * UPMC - Université Pierre et Marie Curie - Paris 6 (4 place Jussieu
+       - 75005 Paris - France) StructId : 93591
+     * INSERM - Institut National de la Santé et de la Recherche Médicale
+       : U1136 (101, rue de Tolbiac, 75013 Paris - France) StructId :
+       303623
+
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Social sciences and public health research conducted mainly
+   in North America, since the 1980s, have shown that homelessness has a
+   significant impact on health, physical conditions and psychological
+   health of families without housing. In France, quantitative studies on
+   homeless women were scarce until the realization of the ENFAMS survey
+   in Paris region in 2013.Based on data from this survey, we showed that,
+   although younger than women in the general population, the health of
+   homeless women is worse, especially with regards to their mental health
+   and nutritional status. Despite their poor health, homeless women have
+   less access to health care than women in the general population. Our
+   research has highlighted the importance of gynecological follow-up in
+   accessing women's cancer screening since the proportion of women who
+   were screened for cervical cancer was twice as high among women with
+   follow-up than among women without follow-up. We have also shown that
+   in the French context of universal health coverage and numerous social
+   safety nets, we do not find the classic associations between unmet
+   health care needs and financial resources or health insurance
+   status.Primary care professionals need to rely on windows of
+   opportunity provided by each of their contact with health care services
+   to make them benefit from cancer screening. Strategies to improve the
+   access to health care of these women must not only aim to remove
+   financial barriers.
+   Résumé : Un corpus de recherches en sciences sociales et en santé
+   publique menées principalement en Amérique du Nord depuis les années
+   1980 montre que l'absence de logement personnel a un effet délétère sur
+   l'état de santé, physique et psychique des familles sans logement. En
+   France, les études quantitatives sur la santé des femmes sans-domicile
+   restaient exceptionnelles avant la réalisation de l'enquête ENFAMS
+   conduite en Ile-de-France en 2013. A partir des données de cette
+   enquête, nous avons montré que, bien qu’elles soient plus jeunes que
+   les femmes en population générale, la santé des femmes sans logement
+   est plus mauvaise, en particulier en ce qui concerne leur santé mentale
+   et leur santé nutritionnelle. Malgré un état de santé plus mauvais, les
+   femmes sans logement ont moins recours aux soins que les femmes en
+   population générale. Cette thèse a permis de souligner l’importance du
+   suivi gynécologique dans l’accès au dépistage des cancers féminins
+   puisque la proportion de femmes dépistées du cancer du col de l’utérus
+   est deux fois plus élevée chez les femmes avec un suivi que chez celles
+   sans suivi. Nous avons aussi montré que dans le contexte français d’une
+   couverture maladie universelle et de l’existence de filets de
+   protection sociale, nous ne retrouvons pas les associations
+   classiquement observées entre renoncement aux soins et ressources
+   financières ou assurance maladie. Les professionnels en soins primaires
+   doivent s’appuyer sur les fenêtres d’opportunité de dépistage qu’offre
+   chacun de leur contact avec les services de soins. Les stratégies
+   d’amélioration à l’accès aux soins de ces femmes ne doivent pas
+   seulement viser à lever les obstacles financiers.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Homeless women Women healthcare Women's cancer screening
+   Mots-clés : Femmes sans domicile Précarité Dépistage des cancers
+   féminins Renoncement aux soins Behavioral Model for Vulnerable
+   Populations Modèles à équations structurelles
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Santé publique et épidémiologie
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [276 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01622157
+   Contributeur : Abes Star <>
+   Soumis le : mardi 24 octobre 2017 - 10:26:20
+   Dernière modification le : vendredi 22 mars 2019 - 01:31:11
+   Document(s) archivé(s) le : jeudi 25 janvier 2018 - 12:27:21
+
+Fichier
+
+   [small]
+   these_archivage_3070090o.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01622157, version 1
+
+Collections
+
+   STAR | THESES-UPMC | IPLESP | UPMC | SORBONNE-UNIVERSITE | SU-MEDECINE
+
+Citation
+
+   Cécile Vuillermoz. Conditions de vie, état de santé et recours aux
+   soins des femmes sans logement personnel hébergées en Ile-de-France.
+   Santé publique et épidémiologie. Université Pierre et Marie Curie -
+   Paris VI, 2017. Français. ⟨NNT : 2017PA066108⟩. ⟨tel-01622157⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+916
+
+   Téléchargements de fichiers
+
+984
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD
+   #HAL
+
+   (BUTTON) Toggle navigation
+   CCSD
+     * HAL
+          + HAL
+          + HALSHS
+          + TEL
+          + MédiHAL
+          + Liste des portails
+          +
+          + AURéHAL
+          + API
+          + Data
+          + Documentation
+     * Episciences.org
+          + Episciences.org
+          + Revues
+          +
+          + Documentation
+     * Sciencesconf.org
+     * Support
+
+   (BUTTON)  Connexion (BUTTON)
+     * Connexion
+     * Connexion avec ORCID
+     * se connecter avec Fédération
+     *
+     * Créer un compte
+     *
+     * Mot de passe oublié ?
+     * Login oublié ?
+
+     * fr
+     * en
+
+   HAL - hal.archives-ouvertes.fr CCSd - Centre pour la Communication
+   Scientifique Direct
+     * Accueil
+     * Dépôt
+     * Consulter
+          + Les derniers dépôts
+          + Par discipline
+          + Par date de soutenance
+          + Consultation par collections
+     * Recherche
+     * Documentation HAL
+
+   (BUTTON) tel-01570446, version 1
+
+   (BUTTON) en (BUTTON) fr
+   Epidemiology of malaria in persons working on illegal gold mining sites
+   in French Guiana : challenges for public health
+   Epidémiologie du paludisme chez les personnes travaillant sur des sites
+   d’orpaillage illégal en Guyane : Quels enjeux pour la santé publique ?
+   Maylis Douine ^1 (BUTTON) Détails
+   1 UG - Université de Guyane
+
+       Maylis Douine ^1 AuthorId : 1310307
+     Auteur
+
+   1 UG - Université de Guyane (Campus de Troubiran - BP 20792- 97337
+   Cayenne Cedex - Guyane - Guyane française) StructId : 424370
+   (BUTTON) Masquer les détails
+   (BUTTON) en (BUTTON) fr
+   Abstract : Introduction: Although official data show a global decrease
+   of malaria in French Guiana, this disease often affects illegal gold
+   miners working in the deep Amazonian forest. The main objective of this
+   study was to evaluate the malaria prevalence in this population. The
+   secondary objectives were to evaluate and map the proportion of
+   Plasmodium species, to assess behavior, attitudes and practices
+   regarding malaria in this population, to measure the artemisinin
+   resistance level in parasites and to evaluate their general health.
+   Material and methods: Inclusions took place at the gold miners’ resting
+   sites, spread along the Maroni river. After recording their informed
+   consent, a malaria rapid test was performed, as well as a
+   questionnaire, a clinical exam and a blood sample for microscopy, PCR
+   and resistance test (RSA and PfK13 genotyping for P. falciparum
+   positive samples). Results: From January to June 2015, 421 gold miners
+   were included, mainly men (sex ratio 2.4), Brazilian nationals (93.8%),
+   with a median age of 37 years. Plasmodium prevalence using PCR was
+   22.3% (CI95%: 18.3 - 26.3), of whom 84% were asymptomatic. During the
+   last malaria attack, 52.4% selfmedicated with artemisinin derivatives
+   (93.8%) and a poor treatment adherence (37.8%). Being in French Guiana
+   when the malaria attack occurred was strongly associated with
+   selfmedication (AOR=22.1). One sample showed a survival rate higher
+   than 1% in RSA test but PfK13 genotyping did not reveal any mutation in
+   P. falciparum. Discussion: This high prevalence of asymptomatic
+   carriers constitutes a huge reservoir for malaria transmission in the
+   region. Massive use of artemisinin derivatives associated with poor
+   treatment adherence are factors that may contribute to the emergence of
+   artemisinin resistance. That would have huge sanitary and economical
+   consequences. With political will, actions are possible to limit this
+   risk, as the distribution of kits for self diagnosis and self-treatment
+   with training on resting sites.
+   Résumé : Introduction : Bien que les données officielles fassent état
+   d’une diminution globale du nombre de cas de paludisme en Guyane, les
+   orpailleurs travaillant sur les sites illégaux au cœur de la forêt
+   amazonienne semblent très touchés par cette pathologie. L’objectif
+   principal de cette étude était de déterminer la prévalence du paludisme
+   dans cette population. Les objectifs secondaires évaluaient la
+   proportion des différentes espèces plasmodiales et leur distribution
+   géographique, le niveau de résistance des parasites aux dérivés de
+   l’artémisinine, les connaissances attitudes et pratiques vis à vis de
+   cette pathologie, et des données de santé de cette population. Matériel
+   et méthodes : Les inclusions ont eu lieu sur les sites de repli des
+   orpailleurs le long du fleuve Maroni. Après recueil du consentement
+   éclairé, un test de diagnostic rapide du paludisme était effectué,
+   ainsi qu’un questionnaire, un examen clinique, et un prélèvement de
+   sang pour microscopie, PCR et tests de résistance (RSA et génotypage du
+   gène pfK13 pour les PCR positives à Plasmodium falciparum). Résultats :
+   De janvier à juin 2015, 421 orpailleurs ont été inclus, majoritairement
+   des hommes (70,6%) brésiliens (93,8%), de médiane d’âge de 37 ans. La
+   prévalence du portage de plasmodies déterminée par PCR était de 22,3%
+   (IC95% : 18,3-26,3) à 84% asymptomatiques. Les espèces identifiées
+   étaient principalement P. falciparum (47,9%) puis P. vivax (37,2%) avec
+   10,6% de coinfections. Lors du dernier accès palustre, 52,4% des
+   orpailleurs avaient eu recours à l’automédication, majoritairement avec
+   des dérivés de l’artémisinine (93,8%) avec une mauvaise observance
+   (37,8%). Le fait d’être en Guyane était fortement associé à
+   l’automédication (AOR=22,1). Le test RSA montrait un taux de survie
+   supérieur à 1% pour un échantillon mais l’analyse du gène pfK13 ne
+   mettait pas en évidence de mutations associées à la résistance à P.
+   falciparum Discussion: La prévalence élevée de porteurs asymptomatiques
+   de paludisme constitue un réservoir important pourla transmission du
+   paludisme dans la région. L’utilisation massive de dérivés de
+   l’artémisinine associée à une mauvaise observance sont des facteurs de
+   risque d’émergence de résistance, ce qui entraînerait des conséquences
+   sanitaires et économiques importantes. Avec une volonté politique, des
+   actions sont possibles pour limiter ce risque, comme la distribution de
+   kits d’autodiagnostic et d’auto-traitement avec une formation au niveau
+   des sites de repli.
+   (BUTTON) en (BUTTON) fr
+   Keywords : Epidemiology Public Health Resistance of artemisinin French
+   Guiana Malaria Gold Panning The Amazon rainforest
+   Mots-clés : Paludisme Orpaillage Guyane française Résistance à
+   l'artemisinine Santé publique Épidémiologie Amazonie
+   Type de document :
+   Thèse
+   Domaine :
+
+   Sciences du Vivant [q-bio] / Autre [q-bio.OT]
+
+   Liste complète des métadonnées (BUTTON)  Voir (BUTTON)  Masquer
+   Littérature citée [285 références]  Voir  Masquer  Télécharger
+     __________________________________________________________________
+
+   https://tel.archives-ouvertes.fr/tel-01570446
+   Contributeur : Abes Star <>
+   Soumis le : dimanche 30 juillet 2017 - 06:17:06
+   Dernière modification le : samedi 21 avril 2018 - 03:32:48
+
+Fichier
+
+   [small]
+   these_Douine.pdf
+   Version validée par le jury (STAR)
+
+Identifiants
+
+     * HAL Id : tel-01570446, version 1
+
+Collections
+
+   STAR | GUYANE
+
+Citation
+
+   Maylis Douine. Epidémiologie du paludisme chez les personnes
+   travaillant sur des sites d’orpaillage illégal en Guyane : Quels enjeux
+   pour la santé publique ?. Autre [q-bio.OT]. Université de Guyane, 2017.
+   Français. ⟨NNT : 2017YANE0006⟩. ⟨tel-01570446⟩
+
+Exporter
+
+   BibTeX TEI DC DCterms EndNote
+
+Partager
+
+Métriques
+
+   Consultations de la notice
+
+825
+
+   Téléchargements de fichiers
+
+2431
+
+Contact
+
+   support.ccsd.cnrs.fr
+   hal.support@ccsd.cnrs.fr
+   Logo CCSD

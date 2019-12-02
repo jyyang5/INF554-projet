@@ -1,0 +1,1134 @@
+   #search
+
+   Skip to navigationSkip to content
+
+     * (BUTTON)
+     * Latest
+     * Obsessions
+
+These are the core obsessions that drive our newsroom—defining topics of
+seismic importance to the global economy.
+     * Featured
+     *
+     * Emails
+
+Our emails are made to shine in your inbox, with something fresh every
+morning, afternoon, and weekend.
+     * Editions
+
+Quartz is a guide to the new global economy for people excited by change.
+          +
+
+Quartz Africa
+            The important stories of innovation across the continent’s
+            wide-ranging economies
+          +
+
+Quartz India
+            In-depth coverage of the world’s largest democracy for India
+            and its far-flung diaspora
+          +
+
+Quartzy
+            Lifestyle, culture, and living well in the new global economy
+          +
+
+Quartz at Work
+            Management news, advice, and ideas for business leaders
+          +
+
+Atlas
+            Create, share, and discover charts, using the same tools as
+            the Quartz newsroom
+     * Become a member
+     * (BUTTON)
+
+   A woman marches in the women's march holding a sign that says "We are
+   better than this."
+   Jerry Kiesewetter/Unsplash
+   Censorship vs. free speech is a false duality.
+   JUST A NUDGE
+
+These simple design tricks can help diminish hate speech online
+
+   By Karen HaoOctober 11, 2017
+
+   Everyone is mad at tech platforms. Conservatives attack them for
+   heavy-handed censorship. Liberals say they’re too lax on hate speech.
+   Both sides agree they have too much unchecked power.
+
+   The age-old problem of balancing free expression with harmful, and
+   false, content seems like an impossible problem. But online, at least,
+   there’s a lot that sites can do to fix it, says Susan Benesch, a
+   faculty associate of Harvard University’s Berkman Klein Center for
+   Internet and Society who studies dangerous speech on and
+   offline. Indeed, our decades of experience in web design have already
+   taught many sites how to discourage incivility and promote reasoned
+   debate.
+
+   “There is often the assumption in public discourse and in government
+   policymaking and so forth that there are only two things you can do to
+   respond to harmful speech online,” says Benesch. “One of those is to
+   censor the speech, and the other is to punish the person who has said
+   or distributed it.” Instead, she says, we could be persuading people
+   not to post the content in the first place, rank it lower in a feed, or
+   even convince people to take it down and apologize for it themselves.
+
+   What does this look like in practice?
+
+Change how you incentivize comments
+
+   In 1997, Mike Masnick founded an online technology blog called Techdirt
+   to analyze the policy, technology, and legal changes affecting company
+   innovation and growth. Early on he decided that his blog would neither
+   censor comments and nor filter out anonymous commenters.
+
+   Then a troll used the comments section to describe in graphic detail
+   how he was going to kill someone.
+   Screenshot/Techdirt
+   Techdirt uses “insightful” (the lightbulb icon) and “funny” (the “LOL”
+   icon) upvote buttons to incentivize those comments. When a comment
+   garners a certain number of votes for either, a badge appears to honor
+   the contribution.
+
+   Masnick doesn’t recall exactly how he dealt with the troll, but rather
+   than compromise his original vision, he added three small design tweaks
+   on each comment to foster more civil discourse: a “funny” upvote button
+   (a green “LOL” icon), an “insightful” upvote button (a green
+   lightbulb), and a “report” button (a red flag)—to mark abuse, trolling,
+   or spam. (The grey buttons were added later for users to pay to promote
+   their comments.)
+
+   The idea was, “Can we sort of nudge people in a better direction
+   without being heavy-handed about it?” Masnick says. “Certainly at that
+   point, there were a bunch of sites that had started having either an
+   upvote option or an upvote and downvote option. We just felt that it
+   wasn’t a very information-rich solution.”
+
+   In contrast, the funny and insightful buttons incentivized those
+   specific types of comments. “It sort of gave an explicit indication
+   that that’s what we’re looking for,” he says. “It also gave a way for
+   the community to participate.”
+   Screenshot/Techdirt
+   Techdirt minimizes, but doesn’t delete, comments flagged by the
+   community. Anyone can still click through to read the full response.
+
+   When a comment passes a set number of votes for funny or insightful, a
+   little icon pops up to honor the author’s contribution. When it reaches
+   the threshold for reports, a line of text appears in its place: “This
+   comment has been flagged by the community. Click here to show it.”
+
+   “The comments don’t disappear,” Masnick says. “Anyone can click and
+   still see them. But it’s an indication that this is not the community’s
+   viewpoint.”
+
+   The system isn’t perfect and it may not work for large sites—the blog
+   averages 1.5 million visitors per month. But since its implementation,
+   “we definitely felt like we saw an uptick in comments that were both
+   insightful and funny,” Masnick says.
+
+Encourage long comments, not Twitter-like bursts
+
+   Online publishing platform Medium, which hit 60 million readers a month
+   in November 2016, wanted to encourage substantive engagement on the
+   site. In 2015, it rolled out its “Responses” feature to allow readers
+   to write as much as they wanted in response to something posted, says
+   lead designer Peter Cho. Previously, the platform only allowed comments
+   to be written about specific paragraphs or lines within the post.
+   Screenshot/Medium
+   After testing out “Write a response” and “Write a related story,”
+   Medium settled with the former.
+
+   Inspired by the idea of long form letter correspondence, the feature
+   treated comments as independent stories rather than posts dependent on
+   already published material. The design team confirmed from observing
+   user behavior that this approach encouraged longer and, subsequently,
+   more thoughtful prose.
+
+   They also tested out the different prompts “Write a response” and
+   “Write a related story.” The latter generated lengthier posts and more
+   engagement from readers, but the team felt the phrase didn’t spur
+   direct discussion of ideas. In contrast, “write a response,” sparked
+   thoughtful dialogue because commenters replied to the original story—so
+   Medium went with that.
+
+   In another test, the design team tried unfurling a comment box at the
+   bottom of a story or redirecting users to a full screen.  The full
+   screen encouraged greater depth, but unfurling a comment box made it
+   easier to reference the original story. The team ultimately created a
+   hybrid feature: When a user clicks the comments section to respond, the
+   edit box by default stays confined within the bottom of the story, but
+   there is also an option to “Go full screen.”
+
+   Medium also decided to let only registered users respond to stories.
+   Additionally, an algorithm orders the responses to a story based on
+   their relevance to an individual reader. Responses written by the
+   story’s author or by the users that a reader follows are highlighted at
+   the top of the comments section; responses written by less relevant
+   users are hidden behind a “Show all responses” button.
+
+Make users sign pledge to be civil
+
+   Parlio, a platform founded by Egyptian Revolution activist and former
+   Google manager Wael Ghonim, used several relatively simple mechanisms
+   to dissuade bad behavior.
+
+   First, it required users to sign a civility pledge before joining the
+   platform. Unlike most tech platforms that have long-winded, dense
+   community guidelines that almost no one reads, Parlio made the pledge
+   clear, concise, and prominent. Users had to sign off on each rule,
+   helping ensure they read them, Benesch says.
+   Screenshot/Parlio
+   A post on Parlio.
+
+   In addition, the platform implemented a hierarchy of participants.
+   Users could post through invitation only, though anyone could read the
+   discussion threads. It also hosted Q&A’s to bring the audience more
+   civil and stimulating debates, which helped reinforce community norms.
+
+   “Parlio built a small but devoted following, including thought leaders
+   from media, academia and business,” chief strategy officer Emily Parker
+   wrote in a Politico article published in January. “We hosted remarkably
+   civil conversations about divisive issues like race, terrorism,
+   refugees, sexism, and even Donald Trump’s candidacy for president.”
+
+   “I find that I’m using Parlio more because I can find a more reasoned
+   engagement there than I do on Twitter,” wrote Max Boot, a senior fellow
+   at the Council on Foreign Relations, on Commentary magazine in February
+   2016.
+
+   Parlio was acquired by Quora in March of the same year because its
+   invite-only approach did not allow the platform to scale. It no longer
+   accepts postings, and Quora said it bought the site for its talent.
+   “Parlio was an acqui-hire for Quora,” the company said. Ghonim also
+   wrote of the acquisition: “We look forward to apply what we’ve learnt
+   at Parlio, and help build product experiences that make the Internet a
+   better place!”
+
+   Benesch says other platforms could take cues from Parlio’s design,
+   especially implementing a simple code of conduct that users are more
+   likely to read.
+
+Use clear feedback to reform bad behavior
+
+   In 2012, Riot Games, maker of one of the most popular computer games,
+   League of Legends, hired Jeffrey Lin to head their social systems
+   design team. At the time, the gaming industry believed that vitriolic
+   language was an inseparable part of social computer games. Lin
+   disagreed. Applying his background in cognitive neuroscience, he
+   conducted a series of data-driven design experiments to reduce toxic
+   behavior during gameplay.
+
+   In one experiment, Lin measured the impact of giving players who
+   engaged in toxic behavior specific feedback. Previously, if a player
+   received a suspension for making racist, homophobic, sexist, or
+   harassing comments, they were given an error message during login with
+   no specifics on why the punishment had occurred. Consequently, players
+   often got angry and engaged in worse behavior once they returned to the
+   game.
+   League of Legends
+   League of Legends uses reform cards to give users specific feedback
+   about and evidence of their toxic behavior.
+
+   As a response, Lin implemented “reformation cards” to tell players
+   exactly what they had said or done to earn their suspension and
+   included evidence of the player engaging in that behavior. This time,
+   if a player got angry and posted complaints about their reformation
+   card on the community forum, other members of the community would
+   reinforce the card with comments like, “You deserve every ban you got
+   with language like that.” The team saw a 70% increase in their success
+   with avoiding repeat offenses from suspended users.
+   Screenshot/League of Legends
+   Users can honor or report other players based on their behavior.
+
+   Lin also realized that the cards gave players delayed feedback. So he
+   conducted another experiment to speed up the feedback cycle by giving
+   players mechanisms to report or honor each other during a game. The
+   reported phrases—those that other players objected to—were fed into a
+   machine learning model, which learned over time which phrases were
+   considered toxic in different languages and cultures. If a player used
+   any of those flagged terms during a game, the system could give him or
+   her feedback immediately after the game ended to discourage their use.
+   After the system was implemented, League of Legends saw a 40% drop in
+   the number of ranked mode games—the most competitive mode where wins
+   and losses determine the team’s global ranking—that had instances of
+   racism, homophobia, sexism, or extreme harassment.
+
+   The machine learning algorithm isn’t perfect, Lin said in his 2015 Game
+   Developer Conference talk. Once, it flagged a player who was using
+   self-deprecating language in the third person. Riot later apologized to
+   the player and used the case to improve its system.
+
+   “When you’re dealing with design issues in online communities and
+   games, you’re dealing with a pretty new space. Mistakes are going to
+   happen,” Lin said. “But when you have the players’ trust, you can
+   survive these and come out stronger.”
+
+Hold steadfast to freedom of expression
+
+   Both Masnick and Benesch say that with social media proliferating,
+   thoughtful tactics to reduce toxic screaming matches is important. At
+   the same time, they worry about society’s growing complacency with
+   compromising free speech.
+
+   “As people are shocked and repulsed and even frightened by some of the
+   content that they see online, there seems to be an increasing
+   willingness to see lots and lots of speech suppressed,” Benesch says.
+
+   The suppressed can ultimately create their own platforms in darker
+   corners of the internet where discussions like organizing hate crimes
+   or terrorist attacks are no less dangerous.
+
+   “We’re in a time where we are seeing more bad behavior and we’re seeing
+   bad behavior go more mainstream than it has in the past,” says Masnick.
+   “But I think that at the same time we do have more tools and more
+   things that we can do.”
+
+   facebook, twitter, Internet, design, harvard
+   https://qz.com/10938
+
+   LatestFeaturedObsessionsEmailsEditions
+   (BUTTON) Close
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRD738C
+   #search
+
+   Skip to navigationSkip to content
+
+     * (BUTTON)
+     * Latest
+     * Obsessions
+
+These are the core obsessions that drive our newsroom—defining topics of
+seismic importance to the global economy.
+     * Featured
+     *
+     * Emails
+
+Our emails are made to shine in your inbox, with something fresh every
+morning, afternoon, and weekend.
+     * Editions
+
+Quartz is a guide to the new global economy for people excited by change.
+          +
+
+Quartz Africa
+            The important stories of innovation across the continent’s
+            wide-ranging economies
+          +
+
+Quartz India
+            In-depth coverage of the world’s largest democracy for India
+            and its far-flung diaspora
+          +
+
+Quartzy
+            Lifestyle, culture, and living well in the new global economy
+          +
+
+Quartz at Work
+            Management news, advice, and ideas for business leaders
+          +
+
+Atlas
+            Create, share, and discover charts, using the same tools as
+            the Quartz newsroom
+     * Become a member
+     * (BUTTON)
+
+   Sony CSL-Paris
+   A screenshot from the Sony’s video of the AI-composed pop song.
+   NICE ONE
+
+The first pop song ever written by artificial intelligence is pretty good,
+actually
+
+   By Olivia GoldhillSeptember 24, 2016
+
+   We already know that artificial intelligence systems can work in law
+   firms and beat the world champion at a game of Go. Now it turns out
+   that AI can write some pretty good pop songs, too.
+
+   Researchers at Sony have been working on AI-generated music for years,
+   and has previously used AI to create impressive jazz tracks. But this
+   is the first time the Sony CSL Research Laboratory has released pop
+   music composed by AI, and the results are impressive.
+
+   The first song, “Daddy’s Car,” is a catchy, sunny tune reminiscent of
+   The Beatles.
+
+   IFRAME:
+   https://www.youtube.com/embed/LSHZ_b05W7o?autoplay=0&showinfo=0&modestb
+   randing=1&playsinline=true
+
+   The second song, a dreamy ditty called “Mr Shadow,” was created in the
+   style of American musicians Irving Berlin, Duke Ellington, George
+   Gershwin and Cole Porter.
+
+   IFRAME:
+   https://www.youtube.com/embed/lcGYEXJqun8?autoplay=0&showinfo=0&modestb
+   randing=1&playsinline=true
+
+   The AI system, called FlowMachines, works by first analyzing a database
+   of songs, and then following a particular musical style to create
+   similar compositions. The final result does have a human touch,
+   however. In the case of both songs above, French composer Benoît Carré
+   arranged the songs and wrote the lyrics.
+
+   So perhaps humans are artistically necessary—at least for the time
+   being. But Sony is preparing to release a complete album composed by
+   artificial intelligence in 2017, and its plan is to create truly great
+   AI music. Beyoncé and Taylor Swift: watch your backs.
+
+   music, artificial intelligence, Sony, computer science, pop song
+   https://qz.com/79052
+
+   LatestFeaturedObsessionsEmailsEditions
+   (BUTTON) Close
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRD738C
+   #search
+
+   Skip to navigationSkip to content
+
+     * (BUTTON)
+     * Latest
+     * Obsessions
+
+These are the core obsessions that drive our newsroom—defining topics of
+seismic importance to the global economy.
+     * Featured
+     *
+     * Emails
+
+Our emails are made to shine in your inbox, with something fresh every
+morning, afternoon, and weekend.
+     * Editions
+
+Quartz is a guide to the new global economy for people excited by change.
+          +
+
+Quartz
+            Global news and insights for leaders
+          +
+
+Quartz Africa
+            The important stories of innovation across the continent’s
+            wide-ranging economies
+          +
+
+Quartzy
+            Lifestyle, culture, and living well in the new global economy
+          +
+
+Quartz at Work
+            Management news, advice, and ideas for business leaders
+          +
+
+Atlas
+            Create, share, and discover charts, using the same tools as
+            the Quartz newsroom
+     * Become a member
+     * (BUTTON)
+
+   India's new finance minister Nirmala Sitharaman will represent the
+   country at G20 tax discussions in Tokyo.
+   Reuters/Kham
+   India’s new finance minister Nirmala Sitharaman will represent the
+   country at G20 tax discussions in Tokyo.
+   A TAXING DEBATE
+
+India is leading a global charge to make corporate giants pay fair tax
+
+   By Max de HaldevangJune 7, 2019
+
+   They’re talking about a revolution in the tax world.
+
+   At a Tokyo summit this weekend, G20 finance ministers are expected to
+   give a thumbs-up to a “road map” proposing various ways to upend the
+   system that lets many of the world’s corporate giants get away with
+   paying little-to-no tax.
+
+   “They’re extraordinarily radical,” Reuven Avi-Yonah, a tax law
+   professor at the University of Michigan, said of the proposals. “Even
+   the most conservative ones would have seemed almost inconceivable, I
+   would say, as short as five years ago.”
+
+   Five years ago, the world’s powers were also discussing reforms to the
+   global tax system. After two years of debate between 2013 and 2015 at
+   the Organization for Economic Cooperation and Development (OECD) in
+   Paris, they passed some useful changes—for example, a system to force
+   multinationals to tell authorities how much they earn in each country
+   and one to tackle tax evasion by the super rich. But reformists were
+   left frustrated that the OECD, often dubbed a “club of rich countries,”
+   failed to tackle loopholes that allow behemoths like Apple and
+   Microsoft to avoid shelling out billions by booking their profits in
+   tax havens. “They refused to countenance such radical change,”
+   Avi-Yonah said of previous discussions.
+
+   Today, however, none of the proposals submitted to the G20 aim to keep
+   the profit-shifting status quo. One of the main reasons that has
+   changed is India.
+
+India is “fed up”
+
+   The world’s largest democracy is leading dozens of developing nations,
+   which feel digital giants and others should pay taxes in countries
+   where they have hundreds of millions of users. After years of the OECD
+   asking it to play along with international negotiations, New Delhi has
+   made a number of unilateral moves that indicate it is “fed up with the
+   OECD and that it cannot wait any longer,” said Ajitesh Kir, a doctoral
+   candidate at Michigan and co-author with Avi-Yonah of an upcoming paper
+   on India’s tax proposals.
+
+   Its most bombastic move came this April. India offered up an 84-page
+   “public consultation” paper, which explored ways to forgo the tortuous
+   international process and simply forcing multinationals to pay some
+   taxes there. It proposes taxing companies partly on where they have
+   economic activity, rather than just where they locate their
+   headquarters or intellectual property. Kir thinks prime minister
+   Narendra Modi’s newly re-elected government may well pass these changes
+   in a matter of months.
+
+   The paper amounts to a loaded weapon that New Delhi can place gently in
+   front of them at future negotiations, implicitly demanding: “Send more
+   tax revenue to developing countries, or we’ll simply pass this law on
+   our own.” Many analysts expect that would inspire other developing
+   countries—which rely much more heavily on corporate taxation than
+   Western ones—to adopt similar plans, rupturing the international tax
+   system from a current state where most countries are aligned on how
+   they tax multinationals.
+
+   It would be an unhappy outcome for corporate giants, who enjoy the
+   profit-shifting status quo, but would prefer that any changes result in
+   a one-size-fits-all system. Having every country put in place a
+   different unilateral measure would “be distortive of trade. It would
+   increase tax disputes. It would negatively affect multinationals,” said
+   Tommaso Faccio, head of secretariat at ICRICT, a commission pushing for
+   tax reform, who supports India’s efforts.
+
+   OECD tax chief Pascal Saint-Amans told Quartz that “the threat of
+   unilateral measures is all around,” but insisted it is just one factor
+   in the negotiations. He warned developing countries about playing with
+   fire: “If you’re a very big country like the United States, you can
+   protect yourself. But if you’re a midsized or developing country, you
+   get screwed by unilateral measures—you lose business or don’t protect
+   yourself because companies have ways of using other routes [to avoid
+   taxes],” he said.
+
+OECD under fire
+
+   India isn’t alone in using unilateralism to push the OECD. Saint-Amans
+   notes that the United States, United Kingdom, and France are among
+   other countries adopting their own measures. However, the South Asian
+   giant has gone beyond mere policy—making unsubtle stabs at the
+   legitimacy of the OECD in language that, in the diplomatic world, is
+   akin to a bar brawler smashing a glass bottle and waving the jagged
+   remnants in an adversary’s face.
+
+   The attacks have centered on the OECD’s small, overwhelmingly Western,
+   membership. In its consultation paper, India argued that these members’
+   interests “take precedence over the interests of non member countries.”
+   The OECD has opened tax reform discussions to around 90 outside
+   countries in what it calls an “inclusive framework.” But, at a recent
+   UN tax debate, India’s representative pointedly said, “calling a
+   process inclusive does not make it so.” The diplomat then called for a
+   new platform to debate tax at the United Nations.
+
+   The apparent threat is that if the OECD doesn’t shift revenues towards
+   developing countries, India and others will concertedly push to remove
+   its status as the convener of all things tax.
+
+   Saint-Amans said he was unfazed by the criticism, insisting that
+   everyone in the “inclusive framework” participates on “an equal
+   footing.” He brushed off India’s rhetoric at the United Nations, saying
+   activity there is “more about making political statements and taking
+   positions, while our work is more about negotiating stuff and agreeing
+   on stuff.”
+
+   He pointedly added that for the Modi government, which has prioritized
+   attracting foreign business, keeping up its “pretty aggressive”
+   behavior might “not be the best way of attracting investment.”
+
+On the table
+
+   The OECD seems to have taken note of India’s machinations, including
+   New Delhi’s proposal as one of a handful of options to be considered in
+   its “road map” to passing a major tax reform by the end of 2020.
+
+   Tax reformists, like Faccio, see the mere inclusion of a policy once
+   deemed unthinkable as a win; a sign the tides are moving in their
+   direction. But the proposal being put on the table doesn’t guarantee
+   any success. “India are putting pressure on the negotiations—this is
+   the first time there is a developing country proposal on table. It’s
+   backed by a number of countries but I expect this to be a negotiation,”
+   said Faccio, whose commission counts leftist economists Thomas
+   Picketty, Joseph Stiglitz, and Gabriel Zucman as members.
+
+   The US Treasury’s international tax policy chief fired a salvo this
+   week by calling for developing countries to accept a system which, he
+   admitted, won’t make any actual change to revenues “in many, many
+   cases.” But Saint-Amans played down the notion that the US and Indian
+   positions are too far apart to reconcile, arguing that Washington has
+   come a long way to a point where it’s adopting a policy that “would
+   have been a shock” just two years ago. “Frankly speaking, this is big,
+   this is massive—which makes me think there may be room for some form of
+   agreement,” he said. “I’m not sure we’ll be able to bridge the gap, but
+   at least we have the building blocks to do so.”
+
+   Reaching an agreement on most areas being discussed would require all
+   but a handful of the 129 countries involved to sign on. Finding that
+   consensus will be a massive task. Saint-Amans acknowledged that
+   “there’s no outcome which benefits everyone,” half-joking that his life
+   “is a nightmare” as he tries to help so many disparate countries find
+   consensus. But he argued that the question for any pact should be
+   whether a concrete, real-world deal is “acceptable” for everyone,
+   rather than a notional agreement that’s “optimal” for all.
+
+   “Because if we don’t have a deal countries would go ahead with
+   unilateral measures,” he said. “Is the real world satisfactory? No, but
+   I don’t know any other world.”
+
+   This story has been updated with quotes from Pascal Saint-Amans.
+
+   Correction (June 6, 2019): Due to an editing error, an earlier version
+   of this article mistakenly called the OECD the “Office of Economic
+   Cooperation and Development.”
+
+   tax, OECD, edited by pete gelling, offshore, G20
+   https://qz.com/india
+
+   LatestPopularObsessionsEditions
+   (BUTTON) Close
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRD738C
+   #search
+
+   Skip to navigationSkip to content
+
+     * (BUTTON)
+     * Latest
+     * Obsessions
+
+These are the core obsessions that drive our newsroom—defining topics of
+seismic importance to the global economy.
+     * Featured
+     *
+     * Emails
+
+Our emails are made to shine in your inbox, with something fresh every
+morning, afternoon, and weekend.
+     * Editions
+
+Quartz is a guide to the new global economy for people excited by change.
+          +
+
+Quartz
+            Global news and insights for leaders
+          +
+
+Quartz Africa
+            The important stories of innovation across the continent’s
+            wide-ranging economies
+          +
+
+Quartzy
+            Lifestyle, culture, and living well in the new global economy
+          +
+
+Quartz at Work
+            Management news, advice, and ideas for business leaders
+          +
+
+Atlas
+            Create, share, and discover charts, using the same tools as
+            the Quartz newsroom
+     * Become a member
+     * (BUTTON)
+
+   India's new finance minister Nirmala Sitharaman will represent the
+   country at G20 tax discussions in Tokyo.
+   Reuters/Kham
+   India’s new finance minister Nirmala Sitharaman will represent the
+   country at G20 tax discussions in Tokyo.
+   A TAXING DEBATE
+
+India is leading a global charge to make corporate giants pay fair tax
+
+   By Max de HaldevangJune 7, 2019
+
+   They’re talking about a revolution in the tax world.
+
+   At a Tokyo summit this weekend, G20 finance ministers are expected to
+   give a thumbs-up to a “road map” proposing various ways to upend the
+   system that lets many of the world’s corporate giants get away with
+   paying little-to-no tax.
+
+   “They’re extraordinarily radical,” Reuven Avi-Yonah, a tax law
+   professor at the University of Michigan, said of the proposals. “Even
+   the most conservative ones would have seemed almost inconceivable, I
+   would say, as short as five years ago.”
+
+   Five years ago, the world’s powers were also discussing reforms to the
+   global tax system. After two years of debate between 2013 and 2015 at
+   the Organization for Economic Cooperation and Development (OECD) in
+   Paris, they passed some useful changes—for example, a system to force
+   multinationals to tell authorities how much they earn in each country
+   and one to tackle tax evasion by the super rich. But reformists were
+   left frustrated that the OECD, often dubbed a “club of rich countries,”
+   failed to tackle loopholes that allow behemoths like Apple and
+   Microsoft to avoid shelling out billions by booking their profits in
+   tax havens. “They refused to countenance such radical change,”
+   Avi-Yonah said of previous discussions.
+
+   Today, however, none of the proposals submitted to the G20 aim to keep
+   the profit-shifting status quo. One of the main reasons that has
+   changed is India.
+
+India is “fed up”
+
+   The world’s largest democracy is leading dozens of developing nations,
+   which feel digital giants and others should pay taxes in countries
+   where they have hundreds of millions of users. After years of the OECD
+   asking it to play along with international negotiations, New Delhi has
+   made a number of unilateral moves that indicate it is “fed up with the
+   OECD and that it cannot wait any longer,” said Ajitesh Kir, a doctoral
+   candidate at Michigan and co-author with Avi-Yonah of an upcoming paper
+   on India’s tax proposals.
+
+   Its most bombastic move came this April. India offered up an 84-page
+   “public consultation” paper, which explored ways to forgo the tortuous
+   international process and simply forcing multinationals to pay some
+   taxes there. It proposes taxing companies partly on where they have
+   economic activity, rather than just where they locate their
+   headquarters or intellectual property. Kir thinks prime minister
+   Narendra Modi’s newly re-elected government may well pass these changes
+   in a matter of months.
+
+   The paper amounts to a loaded weapon that New Delhi can place gently in
+   front of them at future negotiations, implicitly demanding: “Send more
+   tax revenue to developing countries, or we’ll simply pass this law on
+   our own.” Many analysts expect that would inspire other developing
+   countries—which rely much more heavily on corporate taxation than
+   Western ones—to adopt similar plans, rupturing the international tax
+   system from a current state where most countries are aligned on how
+   they tax multinationals.
+
+   It would be an unhappy outcome for corporate giants, who enjoy the
+   profit-shifting status quo, but would prefer that any changes result in
+   a one-size-fits-all system. Having every country put in place a
+   different unilateral measure would “be distortive of trade. It would
+   increase tax disputes. It would negatively affect multinationals,” said
+   Tommaso Faccio, head of secretariat at ICRICT, a commission pushing for
+   tax reform, who supports India’s efforts.
+
+   OECD tax chief Pascal Saint-Amans told Quartz that “the threat of
+   unilateral measures is all around,” but insisted it is just one factor
+   in the negotiations. He warned developing countries about playing with
+   fire: “If you’re a very big country like the United States, you can
+   protect yourself. But if you’re a midsized or developing country, you
+   get screwed by unilateral measures—you lose business or don’t protect
+   yourself because companies have ways of using other routes [to avoid
+   taxes],” he said.
+
+OECD under fire
+
+   India isn’t alone in using unilateralism to push the OECD. Saint-Amans
+   notes that the United States, United Kingdom, and France are among
+   other countries adopting their own measures. However, the South Asian
+   giant has gone beyond mere policy—making unsubtle stabs at the
+   legitimacy of the OECD in language that, in the diplomatic world, is
+   akin to a bar brawler smashing a glass bottle and waving the jagged
+   remnants in an adversary’s face.
+
+   The attacks have centered on the OECD’s small, overwhelmingly Western,
+   membership. In its consultation paper, India argued that these members’
+   interests “take precedence over the interests of non member countries.”
+   The OECD has opened tax reform discussions to around 90 outside
+   countries in what it calls an “inclusive framework.” But, at a recent
+   UN tax debate, India’s representative pointedly said, “calling a
+   process inclusive does not make it so.” The diplomat then called for a
+   new platform to debate tax at the United Nations.
+
+   The apparent threat is that if the OECD doesn’t shift revenues towards
+   developing countries, India and others will concertedly push to remove
+   its status as the convener of all things tax.
+
+   Saint-Amans said he was unfazed by the criticism, insisting that
+   everyone in the “inclusive framework” participates on “an equal
+   footing.” He brushed off India’s rhetoric at the United Nations, saying
+   activity there is “more about making political statements and taking
+   positions, while our work is more about negotiating stuff and agreeing
+   on stuff.”
+
+   He pointedly added that for the Modi government, which has prioritized
+   attracting foreign business, keeping up its “pretty aggressive”
+   behavior might “not be the best way of attracting investment.”
+
+On the table
+
+   The OECD seems to have taken note of India’s machinations, including
+   New Delhi’s proposal as one of a handful of options to be considered in
+   its “road map” to passing a major tax reform by the end of 2020.
+
+   Tax reformists, like Faccio, see the mere inclusion of a policy once
+   deemed unthinkable as a win; a sign the tides are moving in their
+   direction. But the proposal being put on the table doesn’t guarantee
+   any success. “India are putting pressure on the negotiations—this is
+   the first time there is a developing country proposal on table. It’s
+   backed by a number of countries but I expect this to be a negotiation,”
+   said Faccio, whose commission counts leftist economists Thomas
+   Picketty, Joseph Stiglitz, and Gabriel Zucman as members.
+
+   The US Treasury’s international tax policy chief fired a salvo this
+   week by calling for developing countries to accept a system which, he
+   admitted, won’t make any actual change to revenues “in many, many
+   cases.” But Saint-Amans played down the notion that the US and Indian
+   positions are too far apart to reconcile, arguing that Washington has
+   come a long way to a point where it’s adopting a policy that “would
+   have been a shock” just two years ago. “Frankly speaking, this is big,
+   this is massive—which makes me think there may be room for some form of
+   agreement,” he said. “I’m not sure we’ll be able to bridge the gap, but
+   at least we have the building blocks to do so.”
+
+   Reaching an agreement on most areas being discussed would require all
+   but a handful of the 129 countries involved to sign on. Finding that
+   consensus will be a massive task. Saint-Amans acknowledged that
+   “there’s no outcome which benefits everyone,” half-joking that his life
+   “is a nightmare” as he tries to help so many disparate countries find
+   consensus. But he argued that the question for any pact should be
+   whether a concrete, real-world deal is “acceptable” for everyone,
+   rather than a notional agreement that’s “optimal” for all.
+
+   “Because if we don’t have a deal countries would go ahead with
+   unilateral measures,” he said. “Is the real world satisfactory? No, but
+   I don’t know any other world.”
+
+   This story has been updated with quotes from Pascal Saint-Amans.
+
+   Correction (June 6, 2019): Due to an editing error, an earlier version
+   of this article mistakenly called the OECD the “Office of Economic
+   Cooperation and Development.”
+
+   tax, OECD, edited by pete gelling, offshore, G20
+   https://qz.com/india
+
+   LatestPopularObsessionsEditions
+   (BUTTON) Close
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRD738C
+   #search
+
+   Skip to navigationSkip to content
+
+     *
+     * Latest
+     * Obsessions
+
+These are the core obsessions that drive our newsroom—defining topics of
+seismic importance to the global economy.
+     * Featured
+     *
+     * Emails
+
+Our emails are made to shine in your inbox, with something fresh every
+morning, afternoon, and weekend.
+     * Editions
+
+Quartz is a guide to the new global economy for people excited by change.
+          +
+
+Quartz
+            Global news and insights for leaders
+          +
+
+Quartz Africa
+            The important stories of innovation across the continent’s
+            wide-ranging economies
+          +
+
+Quartzy
+            Lifestyle, culture, and living well in the new global economy
+          +
+
+Quartz at Work
+            Management news, advice, and ideas for business leaders
+          +
+
+Atlas
+            Create, share, and discover charts, using the same tools as
+            the Quartz newsroom
+     * Become a member
+     *
+
+   Reuters/Kham
+   India’s new finance minister Nirmala Sitharaman will represent the
+   country at G20 tax discussions in Tokyo.
+   A TAXING DEBATE
+
+India is leading a global charge to make corporate giants pay fair tax
+
+   By Max de HaldevangJune 7, 2019
+
+   They’re talking about a revolution in the tax world.
+
+   At a Tokyo summit this weekend, G20 finance ministers are expected to
+   give a thumbs-up to a “road map” proposing various ways to upend the
+   system that lets many of the world’s corporate giants get away with
+   paying little-to-no tax.
+
+   “They’re extraordinarily radical,” Reuven Avi-Yonah, a tax law
+   professor at the University of Michigan, said of the proposals. “Even
+   the most conservative ones would have seemed almost inconceivable, I
+   would say, as short as five years ago.”
+
+   Five years ago, the world’s powers were also discussing reforms to the
+   global tax system. After two years of debate between 2013 and 2015 at
+   the Organization for Economic Cooperation and Development (OECD) in
+   Paris, they passed some useful changes—for example, a system to force
+   multinationals to tell authorities how much they earn in each country
+   and one to tackle tax evasion by the super rich. But reformists were
+   left frustrated that the OECD, often dubbed a “club of rich countries,”
+   failed to tackle loopholes that allow behemoths like Apple and
+   Microsoft to avoid shelling out billions by booking their profits in
+   tax havens. “They refused to countenance such radical change,”
+   Avi-Yonah said of previous discussions.
+
+   Today, however, none of the proposals submitted to the G20 aim to keep
+   the profit-shifting status quo. One of the main reasons that has
+   changed is India.
+
+India is “fed up”
+
+   The world’s largest democracy is leading dozens of developing nations,
+   which feel digital giants and others should pay taxes in countries
+   where they have hundreds of millions of users. After years of the OECD
+   asking it to play along with international negotiations, New Delhi has
+   made a number of unilateral moves that indicate it is “fed up with the
+   OECD and that it cannot wait any longer,” said Ajitesh Kir, a doctoral
+   candidate at Michigan and co-author with Avi-Yonah of an upcoming paper
+   on India’s tax proposals.
+
+   Its most bombastic move came this April. India offered up an 84-page
+   “public consultation” paper, which explored ways to forgo the tortuous
+   international process and simply forcing multinationals to pay some
+   taxes there. It proposes taxing companies partly on where they have
+   economic activity, rather than just where they locate their
+   headquarters or intellectual property. Kir thinks prime minister
+   Narendra Modi’s newly re-elected government may well pass these changes
+   in a matter of months.
+
+   The paper amounts to a loaded weapon that New Delhi can place gently in
+   front of them at future negotiations, implicitly demanding: “Send more
+   tax revenue to developing countries, or we’ll simply pass this law on
+   our own.” Many analysts expect that would inspire other developing
+   countries—which rely much more heavily on corporate taxation than
+   Western ones—to adopt similar plans, rupturing the international tax
+   system from a current state where most countries are aligned on how
+   they tax multinationals.
+
+   It would be an unhappy outcome for corporate giants, who enjoy the
+   profit-shifting status quo, but would prefer that any changes result in
+   a one-size-fits-all system. Having every country put in place a
+   different unilateral measure would “be distortive of trade. It would
+   increase tax disputes. It would negatively affect multinationals,” said
+   Tommaso Faccio, head of secretariat at ICRICT, a commission pushing for
+   tax reform, who supports India’s efforts.
+
+   OECD tax chief Pascal Saint-Amans told Quartz that “the threat of
+   unilateral measures is all around,” but insisted it is just one factor
+   in the negotiations. He warned developing countries about playing with
+   fire: “If you’re a very big country like the United States, you can
+   protect yourself. But if you’re a midsized or developing country, you
+   get screwed by unilateral measures—you lose business or don’t protect
+   yourself because companies have ways of using other routes [to avoid
+   taxes],” he said.
+
+OECD under fire
+
+   India isn’t alone in using unilateralism to push the OECD. Saint-Amans
+   notes that the United States, United Kingdom, and France are among
+   other countries adopting their own measures. However, the South Asian
+   giant has gone beyond mere policy—making unsubtle stabs at the
+   legitimacy of the OECD in language that, in the diplomatic world, is
+   akin to a bar brawler smashing a glass bottle and waving the jagged
+   remnants in an adversary’s face.
+
+   The attacks have centered on the OECD’s small, overwhelmingly Western,
+   membership. In its consultation paper, India argued that these members’
+   interests “take precedence over the interests of non member countries.”
+   The OECD has opened tax reform discussions to around 90 outside
+   countries in what it calls an “inclusive framework.” But, at a recent
+   UN tax debate, India’s representative pointedly said, “calling a
+   process inclusive does not make it so.” The diplomat then called for a
+   new platform to debate tax at the United Nations.
+
+   The apparent threat is that if the OECD doesn’t shift revenues towards
+   developing countries, India and others will concertedly push to remove
+   its status as the convener of all things tax.
+
+   Saint-Amans said he was unfazed by the criticism, insisting that
+   everyone in the “inclusive framework” participates on “an equal
+   footing.” He brushed off India’s rhetoric at the United Nations, saying
+   activity there is “more about making political statements and taking
+   positions, while our work is more about negotiating stuff and agreeing
+   on stuff.”
+
+   He pointedly added that for the Modi government, which has prioritized
+   attracting foreign business, keeping up its “pretty aggressive”
+   behavior might “not be the best way of attracting investment.”
+
+On the table
+
+   The OECD seems to have taken note of India’s machinations, including
+   New Delhi’s proposal as one of a handful of options to be considered in
+   its “road map” to passing a major tax reform by the end of 2020.
+
+   Tax reformists, like Faccio, see the mere inclusion of a policy once
+   deemed unthinkable as a win; a sign the tides are moving in their
+   direction. But the proposal being put on the table doesn’t guarantee
+   any success. “India are putting pressure on the negotiations—this is
+   the first time there is a developing country proposal on table. It’s
+   backed by a number of countries but I expect this to be a negotiation,”
+   said Faccio, whose commission counts leftist economists Thomas
+   Picketty, Joseph Stiglitz, and Gabriel Zucman as members.
+
+   The US Treasury’s international tax policy chief fired a salvo this
+   week by calling for developing countries to accept a system which, he
+   admitted, won’t make any actual change to revenues “in many, many
+   cases.” But Saint-Amans played down the notion that the US and Indian
+   positions are too far apart to reconcile, arguing that Washington has
+   come a long way to a point where it’s adopting a policy that “would
+   have been a shock” just two years ago. “Frankly speaking, this is big,
+   this is massive—which makes me think there may be room for some form of
+   agreement,” he said. “I’m not sure we’ll be able to bridge the gap, but
+   at least we have the building blocks to do so.”
+
+   Reaching an agreement on most areas being discussed would require all
+   but a handful of the 129 countries involved to sign on. Finding that
+   consensus will be a massive task. Saint-Amans acknowledged that
+   “there’s no outcome which benefits everyone,” half-joking that his life
+   “is a nightmare” as he tries to help so many disparate countries find
+   consensus. But he argued that the question for any pact should be
+   whether a concrete, real-world deal is “acceptable” for everyone,
+   rather than a notional agreement that’s “optimal” for all.
+
+   “Because if we don’t have a deal countries would go ahead with
+   unilateral measures,” he said. “Is the real world satisfactory? No, but
+   I don’t know any other world.”
+
+   This story has been updated with quotes from Pascal Saint-Amans.
+
+   Correction (June 6, 2019): Due to an editing error, an earlier version
+   of this article mistakenly called the OECD the “Office of Economic
+   Cooperation and Development.”
+
+Enjoy this content in the new Quartz app
+
+   (BUTTON) Get the app
+
+   tax, OECD, edited by pete gelling, offshore, G20
+   https://qz.com/india
+   Read This Next
+
+The good old BA is India’s most popular graduate course, and that’s a problem
+
+   September 24, 2019Quartz India
+
+Recommended stories
+
+   ACCOUNTING CONTORTIONS
+
+The Mauritius Leaks show the West profiting from poor nations while depriving
+them of tax revenue
+
+   Quartz
+
+   NOT BREAKING STRIDE
+
+Billions and billions in fines can’t seem to hurt Facebook
+
+   Quartz
+
+   KNOCKIN' ON HAVEN'S DOOR
+
+How Bob Geldof’s African investment fund avoids paying taxes to some of the
+continent’s poorest countries
+
+   Quartz Africa
+
+   HAVEN HELP US
+
+How Sequoia Capital is trying to avoid taxes on over a billion dollars in
+Indian investments
+
+   Quartz
+
+   BRINGING THE BONHOMIE
+
+Trump discovers global cooperation isn’t so bad—at least on taxing corporate
+giants
+
+   Quartz
+
+   THE FUTURE OF FACT
+
+Censorship could be just as common in an open internet as a closed one
+
+   Quartz
+
+   FREEDOM OF MIND
+
+At Davos, George Soros tears into Facebook and Google
+
+   Quartz
+
+   🌐 🌐 🌐 🌐
+
+The GOP tax bill is a massive victory for globalization
+
+   Quartz
+
+   ROYALTY PAIN
+
+The UK is aiming a new tax at tech giants that shift profits offshore
+
+   Quartz
+
+   THE TAXMAN COMETH
+
+Indonesian authorities are threatening to hit Google with a $400 million tax
+bill
+
+   Quartz
+
+   SURPRISE
+
+Apple’s tax rate in China also appears to be remarkably low
+
+   Quartz
+
+   TEMPORARY DIVERSION
+
+Google struck a tax deal with the UK, but it’s not off the hook yet
+
+   Quartz
+
+   LIP SERVICE
+
+Rich countries rejected an international plan to let the UN help fight tax
+evasion
+
+   Quartz
+
+   LatestPopularObsessionsEditions
+
+   Welcome to Quartz! Please read our privacy policy.
+
+   Cookies: By using this site, you agree to our use of cookies for
+   analytics and personalization.
+
+   Personal data: Do you agree to the use of your personal data by Quartz
+   and its partners to serve you targeted ads?
+   (BUTTON) Yes (BUTTON) No
+   (BUTTON) Close

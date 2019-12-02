@@ -1,0 +1,119 @@
+   #Announcements publisher
+
+   FluxBB Home
+
+   You are not logged in. Please login or register.
+     * Home
+     * About
+     * Downloads
+     * Resources
+     * Forums
+     * Community
+     * Documentation
+     * Development
+
+FluxBB is fast, light, user-friendly forum software for your website.
+
+   FluxBB is designed as a lighter, faster alternative to some of the
+   traditional feature heavy forum applications. It is easy to use and has
+   a proven track record of stability and security making it an ideal
+   choice of forum for your website.
+
+Features
+
+     * Supports PHP5 & PHP7
+     * Easy installation and setup
+     * Open-source (GNU General Public Licence)
+     * Clean administration interface
+     * Flexible permission system
+     * Lots of community modifications
+
+   [ Full feature list ] [ Tour of FluxBB v1.5.11 ]
+
+Get FluxBB
+
+   The current stable release is FluxBB v1.5.11.
+     * Download FluxBB v1.5.11
+
+Posted 2018-12-31FluxBB 1.5.11 released
+
+   I am glad to finally announce the next patch release of FluxBB: version
+   1.5.11.
+
+Feature updates
+
+     * Increase minimum password length
+     * Prohibit links in topic subjects (based on existing anti-spam
+       permission)
+     * Allow longer SMTP passwords
+     * Return correct HTTP status code on error and maintenance pages (to
+       prevent search engines from indexing)
+     * Prevent duplicate bans
+     * User profiles: Use user's date/time formats, not the viewer's
+     * Improve error message for very short searches
+
+   Please check out the details in the full changelog. In addition, this
+   release fixes nine bugs, some of which affect...
+
+Security
+
+     * Proper CSRF protection for rebuilding the search index, logging in
+       and promoting users
+     * Stop using insecure random number generator on certain PHP versions
+     * Fix insufficient escaping of HTML output in installer and error
+       pages
+
+   This release has benefited from contributions by jasonrohrer, nsuchy
+   and Visman. Thank you!
+
+   I also want to thank TheBritain, Visman, Li of SEC Consult
+   Vulnerability Lab and Omar Kurt of Netsparker for respectfully and
+   responsibly disclosing security-relevant issues.
+
+Project update
+
+   As you know, this is the first release in a long time. I have decided
+   to continue giving FluxBB the maintenance it deserves. However, I need
+   support to achieve this. Before I announce all of my plans, as a token
+   of goodwill and to regain some trust, I plan to release the
+   long-awaited v1.6 within the next few weeks. This release will clean up
+   some of the dusty bits under the hood of FluxBB. By removing support
+   for old PHP and browser versions, we can lay the foundations to
+   carefully modernize the codebase, while staying true to the spirit of
+   FluxBB. This means that 1.5.11 is the last release to support PHP 4
+   (which is horribly outdated). In addition, 1.6 will get some
+   much-needed love in the realm of security hardening.
+
+   With that out of the way: please go ahead and download the new version
+   on the downloads page. If you are upgrading an existing forum, you can
+   find instructions and resources on the upgrade page.
+
+   Enjoy using FluxBB and stay tuned for more news on v1.6!
+
+Latest announcements
+
+     * FluxBB 1.5.11 released
+     * FluxBB 1.5.10 released
+     * Merry Christmas from FluxBB
+     * FluxBB 1.5.9 released
+     * 2.0: Joining forces with Flarum
+     * FluxBB 1.5.8 released
+     * FluxBB 1.5.7 and 1.4.13 released
+     * Round-up #12 - Screw snow in particular
+     * Round up #11 - No snowflakes
+     * FluxBB 1.5.6 released
+
+     * Announcements
+     * Development
+
+     * Forums
+     * Report a bug
+
+     * Donate
+     * Contact us
+
+     * Follow us
+     * Newsletter
+
+     * Copyright © FluxBB 2008 - 2019
+     * Hosting provided by gandi.net. Thanks!

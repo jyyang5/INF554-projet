@@ -1,0 +1,413 @@
+
+     * _____
+     *
+     * Sign Up
+     * Login
+     *
+     * API
+     * FAQ
+     * Tools
+     * Archive
+
+   PASTEBIN
+   new paste
+   API tools faq deals
+   _____
+
+   Guest User
+   -
+   Public Pastes
+     * Untitled0 sec ago
+     * Untitled5 sec ago
+     * dsadasdasdas6 sec ago
+     * UntitledLatex | 7 sec ago
+     * Untitled11 sec ago
+     * Untitled14 sec ago
+     * Untitled15 sec ago
+     * Untitled31 sec ago
+
+   Tools & Applications
+   On this page you find tools, add-ons, extensions and applications
+   created for Pastebin.com. If you are a developer and have built
+   something using our API, we can feature your creation with your credits
+   on this page. Be sure to contact us and tell us all about it.
+   1. Google Chrome Extension ** RECOMMENDED **
+   2. Pastebin Manager for Windows 10
+   3. Pastebin Desktop for Windows
+   4. iPhone/iPad Application
+   5. Windows 8 & RT Application
+   6. Click.to Pastebin for Windows
+   7. Firefox Add-on
+   8. HP WebOS Application
+   9. BlackBerry Application
+   10. Android Application
+   11. Pastebin for Android Application
+   12. Pastebin for Android
+   13. Pastebin It! desktop tool for Mac OS X
+   14. Mac OS X Desktop Widget
+   15. Opera Extension
+   16. PastebinCL
+   17. Pastebin Ruby Gem
+   18. PastebinPython (Python Wrapper)
+   19. Brush (PHP Wrapper)
+   20. Pastebin.cs (C# Wrapper)
+   21. jPastebin (Java Wrapper)
+   22. Pastebin4Scala (Scala Wrapper)
+   23. PasteBin IntelliJ IDEA Plugin
+   24. Pastebin-JS
+   25. Pastebin Eclipse Plugin
+   26. Pastebin for Windows Phone
+   27. Pastebin Manager for Windows Phone
+   28. Another Pastebin for Windows Desktop
+   29. ShareX
+   30. Pastebin WordPress Embed Plugin
+   > 31. Share Code for Visual Studio Code
+   32. PasteToBin for Adobe Brackets
+   Google Chrome Extension ** RECOMMENDED **
+   With this Google Chrome Extension you are able to create new pastes
+   directly from your browser. A recommended extension for all Pastebin
+   users who use Google Chrome.
+   Version Download API Version Developer
+   3.0.1   DOWNLOAD 3.0         Joshua Luckers
+   * Download Google Chrome Add-on
+   iPhone/iPad Application ** NOT RECOMMENDED **
+   With this application you can create new pastes directly from your iOS
+   devices suchs as the iPhone and iPad.
+   Version Download API Version Developer
+   1.1     DOWNLOAD 3.1         Euphoric Panda (Adrian Hooper)
+   * Download iPhone/iPad Application
+   If you are looking for an iOS app, but didn't like the one above,
+   please check out PasteMe an alternative app.
+   * Download PasteMe (alternative iOS Application)
+   Pastebin Manager for Windows 10
+   This is a great application for Windows 10. With this application
+   installed you are able to take full advantage of your Pastebin.com
+   account directly from your Windows 10 desktop.
+   Version  Download API Version Developer
+   2016.621 DOWNLOAD 3.0         deHoDev (Stefan Wexel)
+   * Download Pastebin Manager for Window 10
+   Pastebin Desktop for Windows
+   This is the official Pastebin Desktop application for Windows based
+   computers. With this application installed you are able to take full
+   advantage of your Pastebin.com account directly from your Windows
+   desktop. You will get a small icon in your system tray which will be
+   your access to the full application. You are able to set customized
+   shortcuts which will automatically create a new paste of the text that
+   is stored in your clipboard. This way you never have to lose a code
+   snippet again. This application is totally free and will always remain
+   free.
+   Version Download API Version Developer
+   1.1     DOWNLOAD 3.0         Leke Dobruna
+   * Download Pastebin Desktop 1.1 via Download.com
+   * Download Pastebin Desktop 1.1 via Pastebin.com
+   Windows 8 & RT Application
+   With this application you can create new pastes directly from your
+   Windows 8 & RT Metro interface.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Victor Häggqvist
+   * Download Windows 8 & RT Application
+   Also for Windows 8 & RT is PasteWin another similar application. Worth
+   checking out :)
+   Click.to Pastebin for Windows
+   Both Pastebin.com and Click.to rely on the copy and paste principle.
+   Pastebin.com provides users with a platform where you can store and
+   share source code. Click.to saves its users clicks between Copy and
+   Paste commands by offering a variety of further uses for copied
+   content. With this new application for Windows you can store all your
+   ctrl+c's instantly online.
+   Version Download API Version Developer
+   0.92    DOWNLOAD 3.0         Click.to
+   * Download Click.to Pastebin for Windows via Pastebin.com
+   * Download Click.to Pastebin for Mac
+   Firefox Extension
+   With this Firefox Add-on you are able to create new pastes directly
+   from your browser. A recommended add-on for all Pastebin users who use
+   Firefox.
+   Version Download API Version Developer
+   3.0     DOWNLOAD 3.0         Prafulla Kiran
+   * Download Firefox Extension
+   HP WebOS Application
+   With this application you can create new pastes directly from your HP
+   WebOS devices.
+   Version Download API Version Developer
+   2.1     DOWNLOAD 3.0         Ben Fysh
+   * Download HP WebOS Application
+   BlackBerry Pastebin Application
+   With this application you can create new pastes directly from your
+   BlackBerry devices.
+   Version Download API Version Developer
+   1.0.0.2 DOWNLOAD 3.0         Derek Konigsberg
+   * Download BlackBerry Application
+   Android Application
+   With this application you can create new pastes directly from your
+   Android devices.
+   Version Download API Version Developer
+   2.1     DOWNLOAD 3.0         Jamie Countryman
+   * Download Android Application
+   Pastebin for Android Application
+   With this application you can create new pastes directly from your
+   Android devices.
+   Version Download API Version Developer
+   2.1     DOWNLOAD 3.0         Jobin Johnson
+   * Download Android Application
+   Pastebin for Android
+   With this application you can create new pastes directly from your
+   Android devices.
+   Version Download API Version Developer
+   3.0     DOWNLOAD 3.0         Pzy64
+   * Download Android Application
+   Pastebin It! desktop tool for Mac OS X
+   With this application you can create new pastes directly from your Mac
+   OS X interface.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.1         PrismTechnologyWales
+   * Pastebin It! desktop tool for Mac OS X
+   Mac OS X Desktop Widget
+   You can place this widget on your Mac OS X desktop and create new
+   pastes.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Radek Slupik
+   * Download Mac OS X Desktop Widget
+   Opera Extension
+   With this Opera Extension on you are able to create new pastes directly
+   from your browser. A recommended extension for all Pastebin users who
+   use Opera.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         CycaHuH
+   * Download Opera Extension
+   PastebinCL for UNIX (Pastebin command-line)
+   PastebinCL is a small program designed for UNIX based systems to
+   quickly paste any piece of text to Pastebin.com. A manual for
+   PastebinCL can be found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Theophile BASTIAN
+   * Download PastebinCL
+   Pastebin Ruby Gem (Pastebin command-line)
+   This is a nifty little tool written in Ruby to quickly paste any piece
+   of text to Pastebin.com.
+   Version Download API Version Developer
+   2.2     DOWNLOAD 3.0         dougsko
+   * Download Pastebin Ruby Gem
+   jPastebin (Pastebin API wrapper for Java)
+   A complete pastebin.com API wrapper for Java. More information can be
+   found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         BrianBB
+   * Download jPastebin
+   Pastebin4Scala (Pastebin API wrapper for Scala)
+   A complete pastebin.com API wrapper for Scala. More information can be
+   found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         lare96
+   * Download Pastebin4Scala
+   Pastebin IntelliJ IDEA Plugin
+   A great plugin for Pastebin in IntelliJ IDEA. More information can be
+   found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Kennedy Oliveira
+   * Download Pastebin IntelliJ Plugin
+   PastebinPython (Pastebin API wrapper for Python)
+   A complete pastebin.com API wrapper for Python. More information can be
+   found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Ferdinand E. Silva
+   * Download PastebinPython
+   * Download another Python class for Pastebin API
+   Brush (Pastebin API wrapper for PHP)
+   A complete pastebin.com API wrapper for PHP. More information can be
+   found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         George Brighton
+   * Download Brush
+   Pastebin.cs (Pastebin API wrapper for C#)
+   A complete pastebin.com API wrapper for C#. More information can be
+   found here.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Tony J. Montana
+   * Download Pastebin.cs
+   Pastebin-JS (NodeJS module for Pastebin)
+   A NodeJS module for the Pastebin API. More information can be found
+   here.
+   Version Download API Version Developer
+   0.0.1   DOWNLOAD 3.0         Jelte Lagendijk
+   * Download Pastebin-JS
+   Pastebin Eclipse Plugin
+   Make and manage your pastebin code from Eclipse without restrictions.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Miclen
+   * Download Pastebin Eclipse Plugin
+   Pastebin for Windows Phone
+   With this application you can create new pastes directly from your
+   Windows Phone devices.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.0         Alexander Schuc
+   * Download Pastebin for Windows Phone
+   Pastebin Manager for Windows Phone
+   With this application you can create new pastes directly from your
+   Windows Phone devices.
+   Version Download API Version Developer
+   1.0.0.1 DOWNLOAD 3.0         deHoDev (Stefan Wexel)
+   * Download Pastebin Manager for Windows Phone
+   Also for Windows Phone is Paste It! another similar application. Worth
+   checking out :)
+   Another Pastebin for Windows Desktop
+   With this application installed you are able to take full advantage of
+   your Pastebin.com account directly from your Windows desktop.
+   Version Download API Version Developer
+   1.6     DOWNLOAD 3.1         SoftwareSpot
+   * Download Another Pastebin for Windows Desktop
+   ShareX
+   With this application installed you are able to instantly upload your
+   clipboard's content to Pastebin. This program can also be used for many
+   other things, such as image uploading.
+   Version Download API Version Developer
+   9.4.2   DOWNLOAD 3.1         ShareX
+   * Download ShareX
+   Pastebin WordPress Embed Plugin
+   Using this plugin you can embed content from Pastebin to your WordPress
+   post/page using nothing but a URL. Just copy the paste URL from
+   pastebin.com and paste it to your post.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.1         Rami Yushuvaev
+   * Download Pastebin WordPress Embed Plugin
+   Share Code for Visual Studio Code
+   Quickly upload your code to Pastebin with this handy Share Code
+   extension for Visual Studio Code.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.1         Roland Greim
+   * Download Share Code for Visual Studio Code
+   PasteToBin for Adobe Brackets
+   Adobe Brackets extension that allows upload snippets to pastebin
+   quickly.
+   Version Download API Version Developer
+   1.0     DOWNLOAD 3.1         Wojciech Połowniak
+   * Download PasteToBin for Adobe Brackets
+   We use cookies for various purposes including analytics. By continuing
+   to use Pastebin, you agree to our use of cookies as described in the
+   Cookies Policy. OK, I Understand
+   Not a member of Pastebin yet?
+   Sign Up, it unlocks many cool features!
+
+   create new paste  /  deals^new!  /  syntax languages  /  archive  /
+   faq  /  tools  /  night mode  /  api  /  scraping api
+   privacy statement  /  cookies policy  /  terms of service  /  security
+   disclosure  /  dmca  /  contact
+   By using Pastebin.com you agree to our cookies policy to enhance your
+   experience.
+   Site design & logo © 2018 Pastebin; user contributions (pastes)
+   licensed under cc by-sa 3.0 -- FavPNG -- Dedicated Server Hosting by
+   Steadfast
+
+   Top
+
+     * _____
+     *
+     * Sign Up
+     * Login
+     *
+     * API
+     * FAQ
+     * Tools
+     * Archive
+
+   PASTEBIN
+   new paste
+   API tools faq deals
+   _____
+
+   Guest User
+   -
+   Public Pastes
+     * UntitledPython | 5 sec ago
+     * Untitled6 sec ago
+     * Untitled11 sec ago
+     * dsadasdasdas12 sec ago
+     * UntitledLatex | 13 sec ago
+     * Untitled17 sec ago
+     * Untitled20 sec ago
+     * Untitled21 sec ago
+
+   Pastes Archive
+   This page contains the most recently created 'public' pastes.
+          Name / Title           Posted     Syntax
+   Untitled                    5 sec ago  Python
+   Untitled                    6 sec ago  -
+   Untitled                    11 sec ago -
+   dsadasdasdas                12 sec ago -
+   Untitled                    13 sec ago Latex
+   Untitled                    17 sec ago -
+   Untitled                    20 sec ago -
+   Untitled                    21 sec ago -
+   Untitled                    37 sec ago -
+   Untitled                    50 sec ago -
+   dependencies.sh             40 sec ago -
+   Untitled                    47 sec ago JavaScript
+   Frosloom Weavile Beasts UNM 59 sec ago -
+   Untitled                    50 sec ago -
+   Untitled                    51 sec ago -
+   Untitled                    52 sec ago -
+   Untitled                    57 sec ago -
+   Untitled                    1 min ago  -
+   Netasq U70S                 1 min ago  -
+   Untitled                    1 min ago  -
+   buy sell system             1 min ago  -
+   Untitled                    1 min ago  -
+   30.09.19                    1 min ago  -
+   Santa Muerte de la Gloria   1 min ago  -
+   Untitled                    1 min ago  Email
+   Untitled                    1 min ago  -
+   Untitled                    1 min ago  -
+   Untitled                    1 min ago  -
+   setup.py                    2 min ago  -
+   Untitled                    1 min ago  -
+   Untitled                    1 min ago  -
+   Public Agent - May Thai     1 min ago  -
+   Untitled                    1 min ago  -
+   sway stuff roblox character 1 min ago  Lua
+   Untitled                    2 min ago  -
+   tvsl                        2 min ago  -
+   mc RAR                      2 min ago  -
+   Untitled                    2 min ago  -
+   Untitled                    2 min ago  C#
+   Untitled                    2 min ago  -
+   Untitled                    6 min ago  -
+   Untitled                    2 min ago  -
+   Untitled                    2 min ago  -
+   Untitled                    2 min ago  -
+   74499480                    2 min ago  -
+   Untitled                    2 min ago  -
+   dsadsada                    2 min ago  -
+   Untitled                    2 min ago  C#
+   KhloeR_Set01                2 min ago  -
+   We use cookies for various purposes including analytics. By continuing
+   to use Pastebin, you agree to our use of cookies as described in the
+   Cookies Policy. OK, I Understand
+   Not a member of Pastebin yet?
+   Sign Up, it unlocks many cool features!
+
+   create new paste  /  deals^new!  /  syntax languages  /  archive  /
+   faq  /  tools  /  night mode  /  api  /  scraping api
+   privacy statement  /  cookies policy  /  terms of service  /  security
+   disclosure  /  dmca  /  contact
+   By using Pastebin.com you agree to our cookies policy to enhance your
+   experience.
+   Site design & logo © 2018 Pastebin; user contributions (pastes)
+   licensed under cc by-sa 3.0 -- FavPNG -- Dedicated Server Hosting by
+   Steadfast
+
+   Top
+
+
+   Latest Pastebin Deals
+   99% off
+   The Complete CompTIA Certification Training Bundle: Lifetime Access
+   96% off
+   Ivacy VPN: Lifetime Subscription + NAT Firewall
+   0% off
+   Arcadia Power: $20 Off Your First Utility Bill
+   79% off
+   Freemake Complete Video Conversion Suite: Lifetime License
+   Pull Videos Direct From Over 10,000 Sites & Convert to Over 500 Formats
+   For 4K Playback on Any Device
+   Normally: $95.95 Now: $19.99
+   via Pastebin Deals Store

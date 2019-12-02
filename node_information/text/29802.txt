@@ -1,0 +1,268 @@
+
+   (BUTTON)
+     * Vendre un commerce
+     * Diffuser une annonce
+     * Base de repreneurs
+     * Fonctionnement & Tarifs
+     * Boite à outils
+       Trouver un expert Documentation Formations Presse & Salons
+     *
+     *
+
+    1. Accueil
+    2. Recherche avancée
+
+Recherche avancée
+
+   Par référence de l'annonce :
+   C   __________   (BUTTON) Ok
+   ou
+
+Concernant l'activité
+
+   (BUTTON) Voir les  49 659  annonces
+   Activité
+   ____________________
+   Surface
+   ____________________
+   [ ] Afficher les annonces dont la surface n'est pas indiquée
+   Chiffre d'affaires
+   ____________________
+   [ ] Afficher les annonces dont le chiffre d'affaires n'est pas indiqué
+   Logement de fonction
+   ( ) Oui       ( ) Non       (*) Indifférent
+   Affilié à un réseau
+   ( ) Oui       ( ) Non       (*) Indifférent
+   Activité saisonnière
+   ( ) Oui       ( ) Non       (*) Indifférent
+
+   [ ]  Été       [ ]  Hiver     [ ] Autre
+
+Concernant la localisation
+
+   (BUTTON) Voir les  49 659  annonces
+   Localisation
+   ____________________
+     * Commune
+     * [ ] de moins de 2 000 habitants
+     * [ ] entre 2 000 et 10 000
+     * [ ] entre 10 000 et 50 000
+     * [ ] entre 50 000 et 100 000
+     * [ ] de plus de 100 000 habitants
+
+     * Précisions sur la commune
+     * [ ] En bord de mer
+     * [ ] Dans une station balnéaire
+     * [ ] En montagne
+     * [ ] Station de sports d'hiver
+     * [ ] En bord de rivière ou lac
+
+     * Situation du bien
+     * [ ] En zone touristique
+     * [ ] En centre ville
+     * [ ] En emplacement no. 1
+     * [ ] En zone commerciale
+     * [ ] En zone industrielle
+
+   France
+   [USEMAP:fond_transp.png]
+
+Concernant la cession
+
+   (BUTTON) Voir les  49 659  annonces
+   Prix de cession
+   ____________________
+   [ ] Afficher les annonces dont le prix de cession n'est pas indiqué
+   Apport personnel demandé
+   ____________________
+   [ ] Afficher les annonces dont le l'apport n'est pas indiqué
+   Repreneur possible
+   ( ) une personne seule ( ) un couple ou des associés (*) Indifférent
+   Murs à vendre
+   ( ) Oui ( ) Non (*) Indifférent
+   Locataire présent ?
+   ( ) Oui (*) Non ( ) Indifférent
+   Spécificités
+   [ ] Location gérance [ ] Location sans droit au bail
+   Idéal pour
+   [ ] Reconversion ou 1ère installation [ ] Profession libérale [ ]
+   Manager
+   [ ] Créer une alerte à partir de cette recherche (BUTTON) Réinitialiser
+   (BUTTON) Rechercher
+
+Erreur
+
+   (BUTTON) ×
+   une erreur est survenue lors de l'exécution de cette action, veuillez
+   réessayer.
+
+
+   © 2019 - Place des Commerces
+   Publicité   |   Formations   |   Contactez-nous   |   Partenaires   |
+     CGU   |    Mentions
+   légales   |   Confidentialité   |   Cookies   |   Supervised by Heatmap
+
+   FUSACQ - Achat & vente d'entreprises    |    Place des Franchises -
+   Entreprendre en réseau
+
+   (BUTTON)
+     * Vendre un commerce
+     * Diffuser une annonce
+     * Base de repreneurs
+     * Fonctionnement & Tarifs
+     * Boite à outils
+       Trouver un expert Documentation Formations Presse & Salons
+     *
+     *
+
+    1. Accueil
+    2. Recherche avancée
+
+Recherche avancée
+
+   Par référence de l'annonce :
+   C   __________   (BUTTON) Ok
+   ou
+
+Concernant l'activité
+
+   (BUTTON) Voir les  49 659  annonces
+   Activité
+   ____________________
+   Surface
+   ____________________
+   [ ] Afficher les annonces dont la surface n'est pas indiquée
+   Chiffre d'affaires
+   ____________________
+   [ ] Afficher les annonces dont le chiffre d'affaires n'est pas indiqué
+   Logement de fonction
+   ( ) Oui       ( ) Non       (*) Indifférent
+   Affilié à un réseau
+   ( ) Oui       ( ) Non       (*) Indifférent
+   Activité saisonnière
+   ( ) Oui       ( ) Non       (*) Indifférent
+
+   [ ]  Été       [ ]  Hiver     [ ] Autre
+
+Concernant la localisation
+
+   (BUTTON) Voir les  49 659  annonces
+   Localisation
+   ____________________
+     * Commune
+     * [ ] de moins de 2 000 habitants
+     * [ ] entre 2 000 et 10 000
+     * [ ] entre 10 000 et 50 000
+     * [ ] entre 50 000 et 100 000
+     * [ ] de plus de 100 000 habitants
+
+     * Précisions sur la commune
+     * [ ] En bord de mer
+     * [ ] Dans une station balnéaire
+     * [ ] En montagne
+     * [ ] Station de sports d'hiver
+     * [ ] En bord de rivière ou lac
+
+     * Situation du bien
+     * [ ] En zone touristique
+     * [ ] En centre ville
+     * [ ] En emplacement no. 1
+     * [ ] En zone commerciale
+     * [ ] En zone industrielle
+
+   France
+   [USEMAP:fond_transp.png]
+
+Concernant la cession
+
+   (BUTTON) Voir les  49 659  annonces
+   Prix de cession
+   ____________________
+   [ ] Afficher les annonces dont le prix de cession n'est pas indiqué
+   Apport personnel demandé
+   ____________________
+   [ ] Afficher les annonces dont le l'apport n'est pas indiqué
+   Repreneur possible
+   ( ) une personne seule ( ) un couple ou des associés (*) Indifférent
+   Murs à vendre
+   ( ) Oui ( ) Non (*) Indifférent
+   Locataire présent ?
+   ( ) Oui (*) Non ( ) Indifférent
+   Spécificités
+   [ ] Location gérance [ ] Location sans droit au bail
+   Idéal pour
+   [ ] Reconversion ou 1ère installation [ ] Profession libérale [ ]
+   Manager
+   [ ] Créer une alerte à partir de cette recherche (BUTTON) Réinitialiser
+   (BUTTON) Rechercher
+
+Erreur
+
+   (BUTTON) ×
+   une erreur est survenue lors de l'exécution de cette action, veuillez
+   réessayer.
+
+
+   © 2019 - Place des Commerces
+   Publicité   |   Formations   |   Contactez-nous   |   Partenaires   |
+     CGU   |    Mentions
+   légales   |   Confidentialité   |   Cookies   |   Supervised by Heatmap
+
+   FUSACQ - Achat & vente d'entreprises    |    Place des Franchises -
+   Entreprendre en réseau
+
+   (BUTTON)
+     * Vendre un commerce
+     * Diffuser une annonce
+     * Base de repreneurs
+     * Fonctionnement & Tarifs
+     * Boite à outils
+       Trouver un expert Documentation Formations Presse & Salons
+     *
+     *
+
+
+   Vous êtes acheteur
+
+   Vous êtes vendeur
+
+   Vous êtes un cabinet
+
+Cookies
+
+   Vos choix concernant l’utilisation des cookies sur notre site Internet.
+   Depuis octobre 2012, Place des Commerces optimise votre navigation
+   grâce à des cookies (petits fichiers stockés sur votre appareil) pour
+   améliorer votre expérience utilisateur et vous proposer du contenu
+   personnalisé.
+   Tout accepter
+   Quels que soient vos choix en matière de cookies, vous pourrez à tout
+   moment les modifier en cliquant sur le lien « cookies » présent en bas
+   de chaque page de notre site Internet. Les réglages ci-dessous ne
+   seront valables que sur le navigateur que vous utilisez actuellement.
+   Cookies obligatoires
+   Afin de pouvoir vous fournir nos services – identification, connexion à
+   votre compte, … - nous devons positionner des cookies techniques. Ces
+   cookies sont obligatoires et ne peuvent pas être désactivés.
+   [X]   Mesure d’audience
+   Si vous désactivez ce cookie, nous ne pourrons plus recueillir
+   d’information sur votre adresse IP.
+   Nos partenaires :
+      • Google Analytics
+   [X]   Personnalisation publicitaire
+   Ce choix n’a pas d’impact sur le volume de publicité que vous verrez,
+   seulement sur sa pertinence pour vous.
+   Liste de nos partenaires en matière d’affichage publicitaire :
+      • Smart Adserver
+      • Google Adsense
+      • Google AdManager
+   Enregistrer mes préférences
+
+
+   © 2019 - Place des Commerces
+   Publicité   |   Formations   |   Contactez-nous   |   Partenaires   |
+     CGU   |    Mentions
+   légales   |   Confidentialité   |   Cookies   |   Supervised by Heatmap
+
+   FUSACQ - Achat & vente d'entreprises    |    Place des Franchises -
+   Entreprendre en réseau

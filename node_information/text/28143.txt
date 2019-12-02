@@ -1,0 +1,1490 @@
+   × We are experiencing a NETGEARCloud Issue and are diligently working
+   to resolve the issue.
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   (BUTTON)
+   Browse
+   NETGEAR ® COMMUNITY
+     * Downloads
+     * MyNETGEAR
+     * Community
+     * Support
+     * Netgear
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+   [All___________] g Search the community Search the community
+   Search the community Search the community cancel
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search
+     * Search
+
+   Log In
+   Join Now
+     * Community Home
+     * Community Browser:
+
+     * NETGEAR Website
+     * Support
+     * Downloads
+     * MyNETGEAR
+
+   Log In
+     * Search
+
+     * Join Now
+     * |
+     * Log In
+     * |
+     * Help
+
+     * Posts
+     * Users
+     *
+
+Search the Community
+
+   ____________________ g
+   [sample-image-for-search-notification-alert2.png]
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search Options
+     * Subscribe to RSS Feed for this Search
+
+   Advanced Hide Advanced
+   Advanced Search Options
+   Search Modifiers:
+   You can apply modifiers to the terms you enter in the search field.
+   Use quotes to search for an "exact phrase".
+   Use the plus sign to search for +one +or +more +words.
+   Use the minus sign to -exclude -certain -words from your search.
+   View results by
+   [Topics________]
+   Results per page
+   [10 results]
+   [ ]
+   Topics with no replies
+   Limits search results to topics that have no replies.
+   ____________________
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+     * (*) All
+     * ( ) A day ago
+     * ( ) A week ago
+     * ( ) A month ago
+     * ( ) A year ago
+
+     * [ ] Solved
+     * [ ] Kudoed
+
+     * [ ] Forums
+     * [ ] Blogs
+     * [ ] Ideas
+     * [ ] Knowledge Bases
+     * [ ] Contests
+     * [ ] Groups
+
+     * [ ] Images
+     * [ ] Videos
+     * [ ] Attachments
+
+   100,000 results
+   Sorted by:
+   Best Match
+     * Date
+     *
+     * Views
+     *
+     * Kudos
+     *
+     * Replies
+     *
+     * Best Match
+
+Orbi Firmware 2.3.1.60
+
+   by ReallyAnnoyedAF Guide in Orbi
+   �2019-05-02 07:18 AM
+   �2019-05-02 07:18 AM
+   Welp, anyone have any notes on this thing?  It's already downloaded to
+   my router and satellite waiting for me to pull the pin.
+   Show results in replies (9)
+     * Hi,   Just for information, when you're in the Firmware Update page
+       and it downloads new f...
+     *
+     * are you using terminal or another telnet client?
+     * Keep checking the download web site for posted release notes...if
+       your system is running with out a...
+     *
+     * Same for me - a lmost 12 hours into use for the updated firmware.
+       Working pretty well, no problem e...
+     * After hitting the "Update All" button, everything came back online
+       in ~10mins.   Orbi/Sat...
+     * No, I've not had any reason to do so.
+     * @Dd852 wrote: are you using terminal or another telnet client? I
+       don't have any issue...
+
+Firmware 2.5.0.36 release notes
+
+   by SkywalkerPD Star in Orbi
+   �2019-09-30 02:20 AM
+   �2019-09-30 02:20 AM
+   Hi,   Just got a new firmware on my RBK50. version is 2.5.0.36. Are
+   there any release notes for this firmware please?
+   Show results in replies (9)
+     * The notes are now there, I upgraded and lost the "attached
+       devices". Although all my devices connec...
+     * New Features and Enhancements: Circle Parental Controls support for
+       India. Auto Time zone detect...
+     * Where can I download the new firmware?
+     * Factory reset and setup from scratch the RBR and RBS to see if this
+       helps resolve anything next tim...
+     * I've got the same question.  Happened to go into Admin on my Orbi's
+       and explore a little. ...
+     * Unfortunataly i don't know another way.
+     * Does this new firmware support separating the 2.4 and 5ghz bands?
+     * I agree! Netgear please add this feature.
+     * The Orbi is based of Smart Connect which employs a signle SSID name
+       use for operation. This is how ...
+
+Your existing cabling can handle more than 1g - Mu...
+
+   by BretD Community Manager in Smart / Plus / Click Switches
+   �2019-08-05 02:48 PM
+   1 Kudo
+   �2019-08-05 02:48 PM
+   1 Kudo
+   As networks get more and more crowded, everyone needs more speed.
+   Looking to amplify your Network and boost the speed of your devices?
+   You might be suprised of the flexibility of your existing cables...
+   Labels:
+     * Multi-Gig
+     * Solutions
+
+   Show results in replies (4)
+     * A replay of the NBase-T Multi-Gig Switches webinar is avaliable
+       below. Please let us know your feed...
+     * @msi wrote: While the later isn't fanless, the form factor is
+       almost ideal - it's just that ...
+     * Thank you for the excellent feedback! We really appreciate it.
+     * Would you be able to go into a bit more detail as to your use cases
+       for these size and format of sw...
+
+NETGEAR Service Status Page - LIVE - Status.Netgea...
+
+   by BretD Community Manager in Nighthawk App
+   �2018-10-26 01:46 PM
+   3 Kudos
+   �2018-10-26 01:46 PM
+   3 Kudos
+     At NETGEAR we strive to provide you quality and peace of mind for all
+   your home networking and small business networking products and service
+   needs. So if something isn't...
+   Show results in replies (8)
+     * Here is an example of a planned maintenance update/outage for your
+       reference.   ...
+     * I was having trouble connecting my range extender (model 2700)
+       which is not listed here. When I cal...
+     * @oldgeeze wrote: Hello. I have a problem with my Arris SB8200
+       modem. It has two ports but I...
+     * @BretD wrote:   At NETGEAR we strive to provide you quality and
+       pea...
+     * @dbooklady wrote: I'm trying to go to https://status.netgear.com/,
+       but have repeatedly...
+     * Im so disgusted with this site I could scream. 90 days free
+       support.......'WHERE"  Try to po...
+     * I'm trying to go to https://status.netgear.com/, but have
+       repeatedly received error message "5...
+     * @michaelkenward wrote:   @gyosearose wrote: Try to post a questioin
+       to commu...
+
+Attention Silicon Valley AV Integrator - Register ...
+
+   by BretD Community Manager in Pro AV over IP Switches
+   �2019-08-13 01:30 PM
+   �2019-08-13 01:30 PM
+     Join us at the NETGEAR Headquarters for our first AV over IP
+   Technology Showcase August 27th Come meet with the executives from
+   NETGEAR, ZeeVee, and Herman and better understand how the AV...
+   Show results in replies (1)
+     * Strong turnout for #NetgearBiz #AVoverIP Open day! So excited to
+       see reps from @HermanPr...
+
+5G Stopped appearing on my devices as an available...
+
+   by rapacheco3162 Aspirant in Nighthawk WiFi Routers
+   �2018-09-24 10:29 AM
+   �2018-09-24 10:29 AM
+   My R7000 has stopped broadcasting the 5g network on all my 5g capable
+   devices. 5g Light on router is lit solidly ( not blinking) but network
+   is no where to be found to connect to. I noticed this with...
+   Labels:
+     * Troubleshooting
+
+   Show results in replies (3)
+     * Thank you very much!!! Worked like a charm nd I am now back up and
+       running thanks to you!!!!
+     * Greetings, Sounds like you're almost there.  The reset has resolved
+       the wireless issue if bo...
+     * Greetings, In this situation:   Start by logging into the routers
+       admin portal > Basi...
+
+Sonos can't connect to Orbi
+
+   by PiepeltjeNL Tutor in Orbi
+   �2019-01-25 11:42 AM
+   �2019-01-25 11:42 AM
+   Hi there,   I'm in stress... ;-) I bought myself an Orbi
+   router+satellite last week. But after succesfull installation of my
+   mesh-network, my Sonos play:1 (2 pcs) can't connect to the wifi...
+   Labels:
+     * Troubleshooting
+
+   Show results in replies (8)
+     * Spent a few months figuring how to get my Sonos speakers working on
+       a new Orbi Wifi. The changing o...
+     * So do you mean that you now have more than one Sonos Speaker wired
+       to Orbi?
+     *
+     * No. They are all wireless. The “wire” was just used to get them set
+       up on the orbi. Once they were ...
+     *
+     * It worked! Exactly as written above. Thank you very much for all
+       the help. It took Some time,...
+     * This sounds very strange to me! How would the Sonos get the Orbi
+       SSID and password if all speakers...
+     * Yes. My issue was cleaned up by doing what the post says.   My orbi
+       is set to on DHCP mode ...
+
+Insight 101: Stay Ahead of your Network - Free #We...
+
+   by BretD Community Manager in NETGEAR Insight Network Management
+   �2019-06-04 02:21 PM
+   1 Kudo
+   �2019-06-04 02:21 PM
+   1 Kudo
+   Jun 5, 2019 11:00 AM - 12:00 PM PT Manage your network devices like a
+   Pro by joining our Insight training webinar. Get trained on important
+   aspects of NETGEAR Insight with visibility and control fo...
+   Show results in replies (1)
+     * The video recap of the NETGEAR Insight 101 webinar is now
+       avaliable. See it below. Or view on Youtu...
+
+Orbi Firmware Check Error
+
+   by Aydo Tutor in Orbi
+   �2019-06-14 09:11 PM
+   �2019-06-14 09:11 PM
+   My parents have the RBK50 purchased from Costco. It hasn’t had any
+   issues other than the initial firmware update issues. When I visited a
+   few months ago I manually updated the firmware to 2.3.1.44 wh...
+   Show results in replies (6)
+     * [continued from my previous post] I confirmed the RBR50 and RBS50
+       are on 2.3.1.60. Oddly enough,...
+     * I had same problem -rebooted orbi a few time over the pst several
+       weeks and yesterday finally got a...
+     * Thank you for your help. I had my father log into orbilogin.net,
+       which gave him an alert saying a n...
+     * Sad, sad, sad.  Technology is complicated enough without our tools
+       being unreliable.
+     * Thanks - worked
+     * I’m having the same exact problem.  I’m hesitant to do anything
+       like rebooting because my syst...
+
+Join NETGEAR Business at SpiceWorld 2019 Booth No....
+
+   by BretD Community Manager in Business Wireless
+   �2019-09-20 02:01 PM
+   �2019-09-20 02:01 PM
+     SpiceWorld 2019 has arrived! Sep 23-25 in Austin, TX. You won't want
+   to miss the NETGEAR Business team located in Booth #1. Get hands on
+   with a large range of profesional networking products...
+   Labels:
+     * Before You Buy
+     * Installation
+     * Share
+
+   Show results in replies (1)
+     * NETGEAR Business at #SpiceworldATX 2019 is in full effect! Packed
+       house for our #NETGEARInsig...
+
+     * « Previous
+     *
+          + 1
+          + 2
+     * Next »
+
+   Need More Help?
+     * Contact Support
+
+     * About Us
+     * Investor Relations
+     * Contact us
+     * Careers
+     * Sign Up
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+     *
+     *
+     *
+     *
+
+   © 1996-2019 NETGEAR^®
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-WJHFF9Z
+
+   [tr?id=431542533712561&ev=PageView&noscript=1]
+   × We are experiencing a NETGEARCloud Issue and are diligently working
+   to resolve the issue.
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   (BUTTON)
+   Browse
+   NETGEAR ® COMMUNITY
+     * Downloads
+     * MyNETGEAR
+     * Community
+     * Support
+     * Netgear
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+   [All___________] g Search the community Search the community
+   Search the community Search the community cancel
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search
+     * Search
+
+   Log In
+   Join Now
+     * Community Home
+     * Community Browser:
+
+     * NETGEAR Website
+     * Support
+     * Downloads
+     * MyNETGEAR
+
+   Log In
+     * Search
+
+     * Join Now
+     * |
+     * Log In
+     * |
+     * Help
+
+     * Posts
+     * Users
+     *
+
+Search the Community
+
+   ____________________ g
+   [sample-image-for-search-notification-alert2.png]
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search Options
+     * Subscribe to RSS Feed for this Search
+
+   Advanced Hide Advanced
+   Advanced Search Options
+   Search Modifiers:
+   You can apply modifiers to the terms you enter in the search field.
+   Use quotes to search for an "exact phrase".
+   Use the plus sign to search for +one +or +more +words.
+   Use the minus sign to -exclude -certain -words from your search.
+   View results by
+   [Topics________]
+   Results per page
+   [10 results]
+   [ ]
+   Topics with no replies
+   Limits search results to topics that have no replies.
+   ____________________
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+     * (*) All
+     * ( ) A day ago
+     * ( ) A week ago
+     * ( ) A month ago
+     * ( ) A year ago
+
+     * [ ] Solved
+     * [ ] Kudoed
+
+     * [ ] Forums
+     * [ ] Blogs
+     * [ ] Ideas
+     * [ ] Knowledge Bases
+     * [ ] Contests
+     * [ ] Groups
+
+     * [ ] Images
+     * [ ] Videos
+     * [ ] Attachments
+
+   100,000 results
+   Sorted by:
+   Best Match
+     * Date
+     *
+     * Views
+     *
+     * Kudos
+     *
+     * Replies
+     *
+     * Best Match
+
+Orbi Firmware 2.3.1.60
+
+   by ReallyAnnoyedAF Guide in Orbi
+   �2019-05-02 07:18 AM
+   �2019-05-02 07:18 AM
+   Welp, anyone have any notes on this thing?  It's already downloaded to
+   my router and satellite waiting for me to pull the pin.
+   Show results in replies (9)
+     * Hi,   Just for information, when you're in the Firmware Update page
+       and it downloads new f...
+     *
+     * are you using terminal or another telnet client?
+     * Keep checking the download web site for posted release notes...if
+       your system is running with out a...
+     *
+     * Same for me - a lmost 12 hours into use for the updated firmware.
+       Working pretty well, no problem e...
+     * After hitting the "Update All" button, everything came back online
+       in ~10mins.   Orbi/Sat...
+     * No, I've not had any reason to do so.
+     * @Dd852 wrote: are you using terminal or another telnet client? I
+       don't have any issue...
+
+Firmware 2.5.0.36 release notes
+
+   by SkywalkerPD Star in Orbi
+   �2019-09-30 02:20 AM
+   �2019-09-30 02:20 AM
+   Hi,   Just got a new firmware on my RBK50. version is 2.5.0.36. Are
+   there any release notes for this firmware please?
+   Show results in replies (9)
+     * The notes are now there, I upgraded and lost the "attached
+       devices". Although all my devices connec...
+     * New Features and Enhancements: Circle Parental Controls support for
+       India. Auto Time zone detect...
+     * Where can I download the new firmware?
+     * Factory reset and setup from scratch the RBR and RBS to see if this
+       helps resolve anything next tim...
+     * I've got the same question.  Happened to go into Admin on my Orbi's
+       and explore a little. ...
+     * Unfortunataly i don't know another way.
+     * Does this new firmware support separating the 2.4 and 5ghz bands?
+     * I agree! Netgear please add this feature.
+     * The Orbi is based of Smart Connect which employs a signle SSID name
+       use for operation. This is how ...
+
+Your existing cabling can handle more than 1g - Mu...
+
+   by BretD Community Manager in Smart / Plus / Click Switches
+   �2019-08-05 02:48 PM
+   1 Kudo
+   �2019-08-05 02:48 PM
+   1 Kudo
+   As networks get more and more crowded, everyone needs more speed.
+   Looking to amplify your Network and boost the speed of your devices?
+   You might be suprised of the flexibility of your existing cables...
+   Labels:
+     * Multi-Gig
+     * Solutions
+
+   Show results in replies (4)
+     * A replay of the NBase-T Multi-Gig Switches webinar is avaliable
+       below. Please let us know your feed...
+     * @msi wrote: While the later isn't fanless, the form factor is
+       almost ideal - it's just that ...
+     * Thank you for the excellent feedback! We really appreciate it.
+     * Would you be able to go into a bit more detail as to your use cases
+       for these size and format of sw...
+
+NETGEAR Service Status Page - LIVE - Status.Netgea...
+
+   by BretD Community Manager in Nighthawk App
+   �2018-10-26 01:46 PM
+   3 Kudos
+   �2018-10-26 01:46 PM
+   3 Kudos
+     At NETGEAR we strive to provide you quality and peace of mind for all
+   your home networking and small business networking products and service
+   needs. So if something isn't...
+   Show results in replies (8)
+     * Here is an example of a planned maintenance update/outage for your
+       reference.   ...
+     * I was having trouble connecting my range extender (model 2700)
+       which is not listed here. When I cal...
+     * @oldgeeze wrote: Hello. I have a problem with my Arris SB8200
+       modem. It has two ports but I...
+     * @BretD wrote:   At NETGEAR we strive to provide you quality and
+       pea...
+     * @dbooklady wrote: I'm trying to go to https://status.netgear.com/,
+       but have repeatedly...
+     * Im so disgusted with this site I could scream. 90 days free
+       support.......'WHERE"  Try to po...
+     * I'm trying to go to https://status.netgear.com/, but have
+       repeatedly received error message "5...
+     * @michaelkenward wrote:   @gyosearose wrote: Try to post a questioin
+       to commu...
+
+Attention Silicon Valley AV Integrator - Register ...
+
+   by BretD Community Manager in Pro AV over IP Switches
+   �2019-08-13 01:30 PM
+   �2019-08-13 01:30 PM
+     Join us at the NETGEAR Headquarters for our first AV over IP
+   Technology Showcase August 27th Come meet with the executives from
+   NETGEAR, ZeeVee, and Herman and better understand how the AV...
+   Show results in replies (1)
+     * Strong turnout for #NetgearBiz #AVoverIP Open day! So excited to
+       see reps from @HermanPr...
+
+5G Stopped appearing on my devices as an available...
+
+   by rapacheco3162 Aspirant in Nighthawk WiFi Routers
+   �2018-09-24 10:29 AM
+   �2018-09-24 10:29 AM
+   My R7000 has stopped broadcasting the 5g network on all my 5g capable
+   devices. 5g Light on router is lit solidly ( not blinking) but network
+   is no where to be found to connect to. I noticed this with...
+   Labels:
+     * Troubleshooting
+
+   Show results in replies (3)
+     * Thank you very much!!! Worked like a charm nd I am now back up and
+       running thanks to you!!!!
+     * Greetings, Sounds like you're almost there.  The reset has resolved
+       the wireless issue if bo...
+     * Greetings, In this situation:   Start by logging into the routers
+       admin portal > Basi...
+
+Sonos can't connect to Orbi
+
+   by PiepeltjeNL Tutor in Orbi
+   �2019-01-25 11:42 AM
+   �2019-01-25 11:42 AM
+   Hi there,   I'm in stress... ;-) I bought myself an Orbi
+   router+satellite last week. But after succesfull installation of my
+   mesh-network, my Sonos play:1 (2 pcs) can't connect to the wifi...
+   Labels:
+     * Troubleshooting
+
+   Show results in replies (8)
+     * Spent a few months figuring how to get my Sonos speakers working on
+       a new Orbi Wifi. The changing o...
+     * So do you mean that you now have more than one Sonos Speaker wired
+       to Orbi?
+     *
+     * No. They are all wireless. The “wire” was just used to get them set
+       up on the orbi. Once they were ...
+     *
+     * It worked! Exactly as written above. Thank you very much for all
+       the help. It took Some time,...
+     * This sounds very strange to me! How would the Sonos get the Orbi
+       SSID and password if all speakers...
+     * Yes. My issue was cleaned up by doing what the post says.   My orbi
+       is set to on DHCP mode ...
+
+Insight 101: Stay Ahead of your Network - Free #We...
+
+   by BretD Community Manager in NETGEAR Insight Network Management
+   �2019-06-04 02:21 PM
+   1 Kudo
+   �2019-06-04 02:21 PM
+   1 Kudo
+   Jun 5, 2019 11:00 AM - 12:00 PM PT Manage your network devices like a
+   Pro by joining our Insight training webinar. Get trained on important
+   aspects of NETGEAR Insight with visibility and control fo...
+   Show results in replies (1)
+     * The video recap of the NETGEAR Insight 101 webinar is now
+       avaliable. See it below. Or view on Youtu...
+
+Orbi Firmware Check Error
+
+   by Aydo Tutor in Orbi
+   �2019-06-14 09:11 PM
+   �2019-06-14 09:11 PM
+   My parents have the RBK50 purchased from Costco. It hasn’t had any
+   issues other than the initial firmware update issues. When I visited a
+   few months ago I manually updated the firmware to 2.3.1.44 wh...
+   Show results in replies (6)
+     * [continued from my previous post] I confirmed the RBR50 and RBS50
+       are on 2.3.1.60. Oddly enough,...
+     * I had same problem -rebooted orbi a few time over the pst several
+       weeks and yesterday finally got a...
+     * Thank you for your help. I had my father log into orbilogin.net,
+       which gave him an alert saying a n...
+     * Sad, sad, sad.  Technology is complicated enough without our tools
+       being unreliable.
+     * Thanks - worked
+     * I’m having the same exact problem.  I’m hesitant to do anything
+       like rebooting because my syst...
+
+Join NETGEAR Business at SpiceWorld 2019 Booth No....
+
+   by BretD Community Manager in Business Wireless
+   �2019-09-20 02:01 PM
+   �2019-09-20 02:01 PM
+     SpiceWorld 2019 has arrived! Sep 23-25 in Austin, TX. You won't want
+   to miss the NETGEAR Business team located in Booth #1. Get hands on
+   with a large range of profesional networking products...
+   Labels:
+     * Before You Buy
+     * Installation
+     * Share
+
+   Show results in replies (1)
+     * NETGEAR Business at #SpiceworldATX 2019 is in full effect! Packed
+       house for our #NETGEARInsig...
+
+     * « Previous
+     *
+          + 1
+          + 2
+     * Next »
+
+   Need More Help?
+     * Contact Support
+
+     * About Us
+     * Investor Relations
+     * Contact us
+     * Careers
+     * Sign Up
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+     *
+     *
+     *
+     *
+
+   © 1996-2019 NETGEAR^®
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-WJHFF9Z
+
+   [tr?id=431542533712561&ev=PageView&noscript=1]
+   × We are experiencing a NETGEARCloud Issue and are diligently working
+   to resolve the issue.
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   (BUTTON)
+   Browse
+   NETGEAR ® COMMUNITY
+     * Downloads
+     * MyNETGEAR
+     * Community
+     * Support
+     * Netgear
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+   [All___________] g Search the community Search the community
+   Search the community Search the community cancel
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search
+     * Users
+
+   Log In
+   Join Now
+     * Community Home
+     * Community Browser:
+
+     * NETGEAR Website
+     * Support
+     * Downloads
+     * MyNETGEAR
+
+   Log In
+     * Users
+
+     * Join Now
+     * |
+     * Log In
+     * |
+     * Help
+
+     * Posts
+     * Users
+     *
+
+Search the Community
+
+   ____________________ g
+   [sample-image-for-search-notification-alert2.png]
+   Advanced Hide Advanced
+   Advanced User Search
+   Search Modifiers:
+   You can apply modifiers to the terms you enter in the search field.
+   Use quotes to search for an "exact phrase".
+   Use the plus sign to search for +one +or +more +words.
+   Use the minus sign to -exclude -certain -words from your search.
+   Find Results In
+   Choose one or more areas to search. Click an area to select it.
+   Control-click to select additional areas. Control-click again to clear
+   a selection.
+   [ ] Rank
+   [ ] Username
+   [ ] page.search.field.custom_profile.interests
+   Results per page
+   [48 results_]
+   638,125 results
+   Sorted by:
+   Username
+     * Username
+     *
+     * Rank
+     *
+     * Posts
+     *
+     * Registration Date
+
+   --
+   -- Novice
+   Novice
+   0 Posts
+   �2015-12-01
+   ------
+   ------ Novice
+   Novice
+   0 Posts
+   �2017-07-17
+   ---------------
+   --------------- Novice
+   Novice
+   0 Posts
+   �2019-09-10
+   ----me----
+   ----me---- Aspirant
+   Aspirant
+   1 Post
+   �2015-10-23
+   ---eric---
+   ---eric--- Novice
+   Novice
+   0 Posts
+   �2015-11-14
+   --Chuck
+   --Chuck Tutor
+   Tutor
+   5 Posts
+   �2017-12-20
+   --JFK--
+   --JFK-- Follower
+   Follower
+   1 Post
+   �2016-04-15
+   --Keith
+   --Keith Novice
+   Novice
+   0 Posts
+   �2017-10-25
+   -2
+   -2 Novice
+   Novice
+   0 Posts
+   �2018-01-14
+   -254
+   -254 Novice
+   Novice
+   0 Posts
+   �2017-11-26
+   -2Lorin_1997
+   -2Lorin_1997 Novice
+   Novice
+   0 Posts
+   �2018-05-31
+   -3
+   -3 Novice
+   Novice
+   0 Posts
+   �2018-10-02
+   -6300
+   -6300 Initiate
+   Initiate
+   2 Posts
+   �2016-02-03
+   -7
+   -7 Onlooker
+   Onlooker
+   0 Posts
+   �2018-04-25
+   -_
+   -_ Novice
+   Novice
+   0 Posts
+   �2015-11-10
+   -_-
+   -_- Novice
+   Novice
+   0 Posts
+   �2015-11-03
+   -_-Chris-_-
+   -_-Chris-_- Aspirant
+   Aspirant
+   5 Posts
+   �2018-06-04
+   -_chris91_-
+   -_chris91_- Novice
+   Novice
+   0 Posts
+   �2016-11-14
+   -AJK-
+   -AJK- Aspirant
+   Aspirant
+   3 Posts
+   �2019-07-31
+   -Anslo-
+   -Anslo- Follower
+   Follower
+   1 Post
+   �2018-07-12
+   -b
+   -b Novice
+   Novice
+   0 Posts
+   �2016-12-05
+   -Ballkünstler-
+   -Ballkünstler- Follower
+   Follower
+   2 Posts
+   �2017-08-11
+   -BG-GH0ST
+   -BG-GH0ST Novice
+   Novice
+   0 Posts
+   �2018-06-10
+   -c0de-
+   -c0de- Tutor
+   Tutor
+   3 Posts
+   �2017-04-24
+   -Cali2017
+   -Cali2017 Novice
+   Novice
+   0 Posts
+   �2019-07-29
+   -Carolin93-
+   -Carolin93- Follower
+   Follower
+   1 Post
+   �2018-03-19
+   -CB
+   -CB Novice
+   Novice
+   1 Post
+   �2015-09-17
+   -Chris
+   -Chris Aspirant
+   Aspirant
+   7 Posts
+   �2017-09-24
+   -codgod-
+   -codgod- Follower
+   Follower
+   1 Post
+   �2016-12-28
+   -DanC-
+   -DanC- Fledgling
+   Fledgling
+   0 Posts
+   �2018-03-17
+   -Dave-
+   -Dave- Aspirant
+   Aspirant
+   1 Post
+   �2018-01-13
+   -DB
+   -DB Aspirant
+   Aspirant
+   2 Posts
+   �2018-08-20
+   -DC-
+   -DC- Aspirant
+   Aspirant
+   14 Posts
+   �2017-08-16
+   -derrol-
+   -derrol- Novice
+   Novice
+   0 Posts
+   �2017-03-08
+   -dlhopkins
+   -dlhopkins Novice
+   Novice
+   0 Posts
+   �2017-12-31
+   -Donovan-
+   -Donovan- Luminary
+   Luminary
+   65 Posts
+   �2019-06-25
+   -fedoR
+   -fedoR Novice
+   Novice
+   0 Posts
+   �2017-05-03
+   -fRB
+   -fRB Follower
+   Follower
+   1 Post
+   �2016-05-05
+   -Greg-
+   -Greg- Novice
+   Novice
+   0 Posts
+   �2018-06-06
+   -H-
+   -H- Aspirant
+   Aspirant
+   3 Posts
+   �2018-01-31
+   -hamilton-
+   -hamilton- Novice
+   Novice
+   0 Posts
+   �2017-03-29
+   -henry
+   -henry Novice
+   Novice
+   1 Post
+   �2017-08-02
+   -JD
+   -JD Aspirant
+   Aspirant
+   1 Post
+   �2018-02-28
+   -JD-
+   -JD- Novice
+   Novice
+   1 Post
+   �2018-02-26
+   -Joey-
+   -Joey- Follower
+   Follower
+   1 Post
+   �2019-01-23
+   -Johnathon-kati
+   -Johnathon-kati Novice
+   Novice
+   0 Posts
+   �2018-08-04
+   -jon_smitty-
+   -jon_smitty- Aspirant
+   Aspirant
+   3 Posts
+   �2018-01-05
+   -jonk-
+   -jonk- Fledgling
+   Fledgling
+   0 Posts
+   �2019-09-30
+     * « Previous
+     *
+          + 1
+          + 2
+          + 3
+          + 
+          + 13295
+     * Next »
+
+   Need More Help?
+     * Contact Support
+
+     * About Us
+     * Investor Relations
+     * Contact us
+     * Careers
+     * Sign Up
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+     *
+     *
+     *
+     *
+
+   © 1996-2019 NETGEAR^®
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-WJHFF9Z
+
+   [tr?id=431542533712561&ev=PageView&noscript=1]
+   × We are experiencing a NETGEARCloud Issue and are diligently working
+   to resolve the issue.
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   × We are experiencing an outage of our ReadyCloud service and are
+   working to resolve the issue..
+   (BUTTON)
+   Browse
+   NETGEAR ® COMMUNITY
+     * Downloads
+     * MyNETGEAR
+     * Community
+     * Support
+     * Netgear
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+   [All___________] g Search the community Search the community
+   Search the community Search the community cancel
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search
+     * Search
+
+   Log In
+   Join Now
+     * Community Home
+     * Community Browser:
+
+     * NETGEAR Website
+     * Support
+     * Downloads
+     * MyNETGEAR
+
+   Log In
+     * Search
+
+     * Join Now
+     * |
+     * Log In
+     * |
+     * Help
+
+     * Posts
+     * Users
+     *
+
+Search the Community
+
+   ____________________ g
+   [sample-image-for-search-notification-alert2.png]
+   Showing results for
+   Search instead for
+   Did you mean:
+   Search Options
+     * Subscribe to RSS Feed for this Search
+
+   Advanced Hide Advanced
+   Advanced Search Options
+   Search Modifiers:
+   You can apply modifiers to the terms you enter in the search field.
+   Use quotes to search for an "exact phrase".
+   Use the plus sign to search for +one +or +more +words.
+   Use the minus sign to -exclude -certain -words from your search.
+   View results by
+   [Topics________]
+   Results per page
+   [10 results]
+   [ ]
+   Topics with no replies
+   Limits search results to topics that have no replies.
+   ____________________
+   Turn on suggestions
+   Auto-suggest helps you quickly narrow down your search results by
+   suggesting possible matches as you type.
+     * (*) All
+     * ( ) A day ago
+     * ( ) A week ago
+     * ( ) A month ago
+     * ( ) A year ago
+
+     * [ ] Solved
+     * [ ] Kudoed
+
+     * [ ] Forums
+     * [ ] Blogs
+     * [ ] Ideas
+     * [ ] Knowledge Bases
+     * [ ] Contests
+     * [ ] Groups
+
+     * [ ] Images
+     * [ ] Videos
+     * [ ] Attachments
+
+   100,000 results
+   Sorted by:
+   Best Match
+     * Date
+     *
+     * Views
+     *
+     * Kudos
+     *
+     * Replies
+     *
+     * Best Match
+
+Orbi Firmware 2.3.1.60
+
+   by ReallyAnnoyedAF Guide in Orbi
+   �2019-05-02 07:18 AM
+   �2019-05-02 07:18 AM
+   Welp, anyone have any notes on this thing?  It's already downloaded to
+   my router and satellite waiting for me to pull the pin.
+   Show results in replies (9)
+     * Hi,   Just for information, when you're in the Firmware Update page
+       and it downloads new f...
+     *
+     * are you using terminal or another telnet client?
+     * Keep checking the download web site for posted release notes...if
+       your system is running with out a...
+     *
+     * Same for me - a lmost 12 hours into use for the updated firmware.
+       Working pretty well, no problem e...
+     * After hitting the "Update All" button, everything came back online
+       in ~10mins.   Orbi/Sat...
+     * No, I've not had any reason to do so.
+     * @Dd852 wrote: are you using terminal or another telnet client? I
+       don't have any issue...
+
+NETGEAR Service Status Page - LIVE - Status.Netgea...
+
+   by BretD Community Manager in Nighthawk App
+   �2018-10-26 01:46 PM
+   3 Kudos
+   �2018-10-26 01:46 PM
+   3 Kudos
+     At NETGEAR we strive to provide you quality and peace of mind for all
+   your home networking and small business networking products and service
+   needs. So if something isn't...
+   Show results in replies (8)
+     * Here is an example of a planned maintenance update/outage for your
+       reference.   ...
+     * I was having trouble connecting my range extender (model 2700)
+       which is not listed here. When I cal...
+     * @oldgeeze wrote: Hello. I have a problem with my Arris SB8200
+       modem. It has two ports but I...
+     * @BretD wrote:   At NETGEAR we strive to provide you quality and
+       pea...
+     * @dbooklady wrote: I'm trying to go to https://status.netgear.com/,
+       but have repeatedly...
+     * Im so disgusted with this site I could scream. 90 days free
+       support.......'WHERE"  Try to po...
+     * Interesting. Missing are Genie (Remote Access, I assume Nighthawk
+       is using the same), ReadyCloud, ....
+     * I'm trying to go to https://status.netgear.com/, but have
+       repeatedly received error message "5...
+
+Your existing cabling can handle more than 1g - Mu...
+
+   by BretD Community Manager in Smart / Plus / Click Switches
+   �2019-08-05 02:48 PM
+   1 Kudo
+   �2019-08-05 02:48 PM
+   1 Kudo
+   As networks get more and more crowded, everyone needs more speed.
+   Looking to amplify your Network and boost the speed of your devices?
+   You might be suprised of the flexibility of your existing cables...
+   Labels:
+     * Multi-Gig
+     * Solutions
+
+   Show results in replies (4)
+     * A replay of the NBase-T Multi-Gig Switches webinar is avaliable
+       below. Please let us know your feed...
+     * @msi wrote: While the later isn't fanless, the form factor is
+       almost ideal - it's just that ...
+     * Thank you for the excellent feedback! We really appreciate it.
+     * Would you be able to go into a bit more detail as to your use cases
+       for these size and format of sw...
+
+Firmware 2.5.0.36 release notes
+
+   by SkywalkerPD Star in Orbi
+   �2019-09-30 02:20 AM
+   �2019-09-30 02:20 AM
+   Hi,   Just got a new firmware on my RBK50. version is 2.5.0.36. Are
+   there any release notes for this firmware please?
+   Show results in replies (8)
+     * The notes are now there, I upgraded and lost the "attached
+       devices". Although all my devices connec...
+     * I've got the same question.  Happened to go into Admin on my Orbi's
+       and explore a little. ...
+     * Does this new firmware support separating the 2.4 and 5ghz bands?
+     * New Features and Enhancements: Circle Parental Controls support for
+       India. Auto Time zone detect...
+     * I agree! Netgear please add this feature.
+     * The Orbi is based of Smart Connect which employs a signle SSID name
+       use for operation. This is how ...
+     * Where can I download the new firmware?
+     * Factory reset and setup from scratch the RBR and RBS to see if this
+       helps resolve anything next tim...
+
+Orbi Firmware Check Error
+
+   by Aydo Tutor in Orbi
+   �2019-06-14 09:11 PM
+   �2019-06-14 09:11 PM
+   My parents have the RBK50 purchased from Costco. It hasn’t had any
+   issues other than the initial firmware update issues. When I visited a
+   few months ago I manually updated the firmware to 2.3.1.44 wh...
+   Show results in replies (6)
+     * [continued from my previous post] I confirmed the RBR50 and RBS50
+       are on 2.3.1.60. Oddly enough,...
+     * I had same problem -rebooted orbi a few time over the pst several
+       weeks and yesterday finally got a...
+     * Thank you for your help. I had my father log into orbilogin.net,
+       which gave him an alert saying a n...
+     * Sad, sad, sad.  Technology is complicated enough without our tools
+       being unreliable.
+     * Thanks - worked
+     * I’m having the same exact problem.  I’m hesitant to do anything
+       like rebooting because my syst...
+
+5G Stopped appearing on my devices as an available...
+
+   by rapacheco3162 Aspirant in Nighthawk WiFi Routers
+   �2018-09-24 10:29 AM
+   �2018-09-24 10:29 AM
+   My R7000 has stopped broadcasting the 5g network on all my 5g capable
+   devices. 5g Light on router is lit solidly ( not blinking) but network
+   is no where to be found to connect to. I noticed this with...
+   Labels:
+     * Troubleshooting
+
+   Show results in replies (3)
+     * Thank you very much!!! Worked like a charm nd I am now back up and
+       running thanks to you!!!!
+     * Greetings, Sounds like you're almost there.  The reset has resolved
+       the wireless issue if bo...
+     * Greetings, In this situation:   Start by logging into the routers
+       admin portal > Basi...
+
+ALL Netgear USB Drive Mapping Issues ReadyShareCo...
+
+   by SPUBOL Tutor in Nighthawk WiFi Routers
+   �2017-06-27 05:41 PM
+   9 Kudos
+   �2017-06-27 05:41 PM
+   9 Kudos
+   This reply will solve TWO Issues pertaining to Mapping a Windows
+   Network Drive to your USB Connected Drive on your Netgear Router. This
+   posting applies to ALL Netgear Routers utilizing Shared USB Win...
+   Labels:
+     * Before You Buy
+     * Security
+     * Share
+     * Troubleshooting
+
+   Show results in replies (3)
+     * This posting is from the author of the original post above. As of
+       mid-OCT/2017 the Netgear Website ...
+     * Is there a target date for the Samba upgrade for this router?  The
+       2GB limit is quite inconven...
+     * I agree it is time forget the 30 year old stand and the firmware
+       writers joint the modern world.
+
+Nighthawk M2 (MR2100) constant reboot
+
+   by Tinsanta Aspirant in Mobile Routers, Hotspots & Modems
+   �2019-04-23 02:32 PM
+   �2019-04-23 02:32 PM
+   Hi All, I just bought the nighthawk m2 and I am finding it really
+   unstable. I am getting constant reboots when using the wifi function.
+   The only way I have made it stable is by turning off wifi an...
+   Labels:
+     * Before You Buy
+     * Firmware
+     * Hardware
+     * Mobile Routers
+     * Troubleshooting
+
+   Show results in replies (8)
+     * Hi All,   NETGEAR release MR1 Firmware
+       NTGX24_10.13.05.00_00_TELSTRA_02.10_00 today which ...
+     * It appears as they are aware of this problem. You can get a new
+       unit from Telstra if it in within 3...
+     * Hi Tinsanta I returned my MR2 after 3 weeks. I received a new with
+       same firmware and has now been...
+     * I got my third m2 from Telstra yesterday. Came out this morning and
+       it had frozen. Solid blue light...
+     * Thanks, I guess I will have to return mine as well. Shame the
+       netgear team are not more engaged in ...
+     * Hi, just wondering if there is an update on this issue. Is it a
+       hardware issue or software? Should ...
+     * Hi Blanca, Any update on this. To help, here are the specifics of
+       my modem  - Hardware V...
+     * Nobody will admit there has been other people with same issue. This
+       is always the case when you hav...
+
+Attention Silicon Valley AV Integrator - Register ...
+
+   by BretD Community Manager in Pro AV over IP Switches
+   �2019-08-13 01:30 PM
+   �2019-08-13 01:30 PM
+     Join us at the NETGEAR Headquarters for our first AV over IP
+   Technology Showcase August 27th Come meet with the executives from
+   NETGEAR, ZeeVee, and Herman and better understand how the AV...
+   Show results in replies (1)
+     * Strong turnout for #NetgearBiz #AVoverIP Open day! So excited to
+       see reps from @HermanPr...
+
+Can't login to the Nighthawk app
+
+   by Rol23 Guide in Nighthawk App
+   �2019-03-23 08:03 AM
+   �2019-03-23 08:03 AM
+   Model: R8000P   I have used the Nighthawk app for a year now, no
+   problems.  Bought a new phone, tried to sign in to Nighthawk app, no
+   error message, just always returns to the login a...
+   Show results in replies (6)
+     * Holy crap, I got it to work!!!!!!   So read on another thread about
+       clearing cache and app...
+     * I am also on the same boat as you are. I had my phone replaced
+       under warranty and reinstalled every...
+     * I deleted the app and all its associated data. Reinstalled the app
+       and re-entered my netgear creden...
+     * OP here, well now the genie app is no longer supporting my device.
+       The nighthawk app is still...
+     * I tried that too but with no luck, deleted data,
+       uninstalled/reinstalled app from the playstore. I ...
+     * The Remote Administration/Remote Management (for the Apps, by
+       cloud) is the same for both the Genie...
+
+     * « Previous
+     *
+          + 1
+          + 2
+     * Next »
+
+   Need More Help?
+     * Contact Support
+
+     * About Us
+     * Investor Relations
+     * Contact us
+     * Careers
+     * Sign Up
+
+     * United States
+          + 中国 (汉语)
+          + Deutschland (Deutsch)
+          + España (Español)
+          + France (Français)
+          + Italia (Italiano)
+          + 日本 (日本語)
+          + Netherlands (Dutch)
+          + Sweden (Svenska)
+          + United States (English)
+
+     *
+     *
+     *
+     *
+
+   © 1996-2019 NETGEAR^®
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-WJHFF9Z
+
+   [tr?id=431542533712561&ev=PageView&noscript=1]

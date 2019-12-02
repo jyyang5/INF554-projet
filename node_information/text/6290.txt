@@ -1,0 +1,2742 @@
+   Skip to main content
+
+   (BUTTON)
+   Home NVIDIA Developer
+     * Downloads
+     * Training
+     * Ecosystem
+     * Forums
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+TRAIN MODELS FASTER
+
+   Explore exclusive discounts for higher education
+
+   Learn more
+
+CUDA Zone
+
+   CUDA® is a parallel computing platform and programming model developed
+   by NVIDIA for general computing on graphical processing units (GPUs).
+   With CUDA, developers are able to dramatically speed up computing
+   applications by harnessing the power of GPUs.
+
+   In GPU-accelerated applications, the sequential part of the workload
+   runs on the CPU – which is optimized for single-threaded performance –
+   while the compute intensive portion of the application runs on
+   thousands of GPU cores in parallel. When using CUDA, developers program
+   in popular languages such as C, C++, Fortran, Python and MATLAB and
+   express parallelism through extensions in the form of a few basic
+   keywords.
+
+   The CUDA Toolkit from NVIDIA provides everything you need to develop
+   GPU-accelerated applications. The CUDA Toolkit includes GPU-accelerated
+   libraries, a compiler, development tools and the CUDA runtime.
+   Download Now
+     __________________________________________________________________
+
+   Thousands of applications developed with CUDA have been deployed to
+   GPUs in embedded systems, workstations, datacenters and in the cloud.
+   [adobe.jpg]
+   [ANSYS_170x54.jpg]
+   [Autodesk_170x28.jpg]
+   [Dassault-Systemes_170x51.jpg]
+   [mathworks.jpg]
+   [microsoft2.jpg]
+   [ni.jpg]
+   [wolfram.jpg]
+
+   See More Applications
+     __________________________________________________________________
+
+   CUDA serves as a common platform across all NVIDIA GPU families so you
+   can deploy and scale your application across GPU configurations.
+
+   [cuda-tech-hw1.jpg]
+
+   [cuda-tech-hw2.jpg]
+
+   [cuda-tech-emdedded-apps.jpg]
+
+   [cuda-tech-cloud-apps.jpg]
+
+   The first GPUs were designed as graphics accelerators, becoming more
+   programmable over the 90s, culminating in NVIDIA's first GPU in 1999.
+   Researchers and scientists rapidly began to apply the excellent
+   floating point performance of this GPU for general purpose computing.
+   In 2003, a team of researchers led by Ian Buck unveiled Brook, the
+   first widely adopted programming model to extend C with data-parallel
+   constructs. Ian Buck later joined NVIDIA and led the launch of CUDA in
+   2006, the world's first solution for general-computing on GPUs.
+
+   Since its inception, the CUDA ecosystem has grown rapidly to include
+   software development tools, services and partner-based solutions. The
+   CUDA Toolkit includes libraries, debugging and optimization tools, a
+   compiler and a runtime library to deploy your application. You'll also
+   find code samples, programming guides, user manuals, API references and
+   other documentation to help you get started.
+
+Libraries
+
+   [cuRandImage.png]
+
+   cuRAND
+   [nppeye.jpg]
+
+   NPP
+   [KeyVisual_Primary_verysm.PNG]
+
+   Math Library
+   [cuff_ampchart.jpg]
+
+   cuFFT
+   [nv_graph_01.png]
+
+   nvGRAPH
+   [nccl.png]
+
+   NCCL
+
+   See More Libraries
+
+Tools and Integrations
+
+   [Parallel_Nsight-webGraphic.jpg]
+
+   Nsight
+   [CUDA_VisualProfiler-webGraphic.jpg]
+
+   Visual Profiler
+   [CUDA_GDB-webGraphic.jpg]
+
+   CUDA GDB
+   [CUDA_MemCheck-webGraphic.jpg]
+
+   CUDA MemCheck
+   [OpenACC-logo-notag360x190.jpg]
+
+   OpenACC
+   [cupti.png]
+
+   CUDA Profiling Tools Interface
+
+   See More Tools
+     __________________________________________________________________
+
+   CUDA accelerates applications across a wide range of domains from image
+   processing, to deep learning, numerical analytics and computational
+   science.
+   [md2.png]
+   [ml.png]
+   [data.png]
+   [bioinfo.png]
+   [cfd.png]
+   [weather.png]
+
+   More Applications
+     __________________________________________________________________
+
+   Get started with CUDA by downloading the CUDA Toolkit and exploring
+   introductory resources including videos, code samples, hands-on labs
+   and webinars.
+
+   Download Now
+
+   Get Started with CUDA
+     __________________________________________________________________
+
+Accelerated Computing News
+
+   Read more
+   [Skydio_feature.png?itok=MnQh3wP0]
+   Autonomous Machines - Oct 01 2019
+   Inception Spotlight: New Skydio 2 Drone Powered by NVIDIA Jetson GPUs
+   Can Track up to 10 Objects at a Time
+
+   Redwood City, California-based Skydio and member of NVIDIA’s startup
+   accelerator, Inception, has just released the latest version of their
+   AI capable GPU-accelerated drone, Skydio 2.
+
+   Read more
+   Read more
+   [TensorFlow-main-270x151_0.png?itok=b9MIwrZV]
+   AI / Deep Learning - Oct 01 2019
+   TensorFlow 2.0 with Tighter TensorRT Integration Now Available
+
+   To help developers build scalable ML-powered applications, Google
+   released TensorFlow 2.0, one of the core open source libraries for
+   training deep learning models.
+
+   Read more
+   Read more
+   [Nano_Booz_Allen_Feature.png?itok=SLHR6uyC]
+   Autonomous Machines - Sep 27 2019
+   Interns Top Competition with Jetson Nano at Booz Allen Summer Games
+   Challenge
+
+   This summer, student interns at Booz Allen Hamilton bested the
+   competition on edge computing with the help of NVIDIA Jetson Nano
+
+   Read more
+   Read more
+   [mit_lincoln.png?itok=fIF7Ppi2]
+   AI / Deep Learning - Sep 26 2019
+   MIT Lincoln Laboratory Supercomputing Center Installs World’s Fastest
+   Supercomputer at a University, powered by NVIDIA V100 GPUs
+
+   To power AI applications and research across engineering, science, and
+   medicine, the Massachusetts Institute of Technology (MIT) Lincoln
+   Laboratory Supercomputing Center has just installed a new
+   GPU-accelerated supercomputer, powered by 896 NVIDIA
+
+   Read more
+
+Parallel ForAll Blog
+
+   Read more
+   [Jetson-MATLAB-1.png?itok=gscoCwBE]
+   AI / Deep Learning - Sep 30 2019
+   Rapid Prototyping on NVIDIA Jetson Platforms with MATLAB
+
+   This blog discusses how an application developer can prototype and
+   deploy deep learning algorithms on hardware like the NVIDIA Jetson Nano
+   Developer Kit with MATLAB.
+
+   Read more
+   Read more
+   [nsight1.png?itok=4xew4Skn]
+   HPC - Sep 16 2019
+   Using Nsight Compute to Inspect your Kernels
+
+   By now, hopefully you read the first two blogs in this series
+   “Migrating to NVIDIA Nsight Tools from NVVP and Nvprof” and
+   “Transitioning to Nsight Systems from NVIDIA Visual Profiler / nvprof,”
+   and you’ve discovered NVIDIA added a few new tools, b
+
+   Read more
+   Read more
+   [Neural-Modules-Diagram1-002_0.png?itok=6ZvUjcSA]
+   AI / Deep Learning - Sep 14 2019
+   Neural Modules for Fast Development of Speech and Language models
+
+   As a researcher building state-of-the-art speech and language models,
+   you need to be able to quickly experiment with novel network
+   architectures.
+
+   Read more
+   Read more
+   [10864444_Embedded_NVDLA_Diagram_v02.png?itok=KEgbKeYW]
+   AI / Deep Learning - Sep 11 2019
+   NVDLA Deep Learning Inference Compiler is Now Open Source
+
+   Designing new custom hardware accelerators for deep learning is clearly
+   popular, but achieving state-of-the-art performance and efficiency with
+   a new design is a complex and challenging problem.
+
+   Read more
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+Get Started
+
+     * About CUDA
+     * Parallel Computing
+     * CUDA Toolkit
+     * CUDACasts
+
+Learn More
+
+     * Training and Courseware
+     * Tools and Ecosystem
+     * Academic Collaboration
+     * Documentation
+
+Get Involved
+
+     * Forums
+     * Developer Blog
+     * Contact Us
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home GameWorks
+     * About
+          + What is GameWorks?
+          + Partners and Ecosystem
+     * GeForce
+          + GeForce Overview
+          + Highlights
+          + Ansel
+          + Virtual Reality Development
+          + HDR Display Development
+          + Optimus
+          + SLI Best Practice Guide
+          + 3D Vision and Surround Guides
+          + G-SYNC
+          + NVAPI
+          + 4K Developer Guide
+          + VR FunHouse Mod Kit
+          + OpenGL
+          + DirectX
+          + Vulkan
+     * SHIELD
+          + Develop for SHIELD
+          + Android TV Developer Guide
+          + Fixing Android Lifecycle Issues
+          + ASTC Texture Compression Guide
+          + Open Source Materials & Drivers
+          + CodeWorks for Android
+          + Vulkan on Android
+          + Training for SHIELD
+          + Tegra
+     * Support
+          + Documentation
+          + GPU Gems
+          + Training
+          + Indie Dev Program
+          + Forums
+          + Events
+          + The Archive
+          + Contact
+     * Blog
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+     * Ray Tracing
+          + Overview
+          + RTX
+     * VisualFX
+          + Overview
+          + Volumetric Lighting
+          + NVIDIA WaveWorks
+          + NVIDIA FaceWorks
+          + NVIDIA HairWorks
+          + NVIDIA TurfEffects
+          + NVIDIA VXGI
+          + NVIDIA VXAO
+          + NVIDIA ShadowWorks
+          + NVIDIA HFTS
+          + NVIDIA PostWorks
+          + NVIDIA FleX
+          + NVIDIA Flow
+          + NVIDIA Blast
+     * VRWorks
+          + Overview
+     * PhysX
+          + Overview
+     * Core SDK
+          + Overview
+          + NVAPI
+          + GeForce Settings API
+          + Cross-Platform Gamepad API
+     * Samples
+          + Overview
+          + Vulkan and OpenGL Samples
+          + DirectX
+     * Tools
+          + Overview
+          + Nsight Systems
+          + Nsight Graphics
+          + Nsight Compute
+          + Nsight Visual Studio Edition
+          + Nsight Aftermath SDK
+          + R&D tools
+          + Linux Graphics Debugger
+          + CodeWorks for Android
+          + Nsight Tegra, Visual Studio Edition
+          + Tegra Graphics Debugger
+          + Tegra System Profiler
+          + PerfKit
+          + PerfHUD ES
+          + PerfWorks
+          + CUPTI
+          + Texture Tools for Adobe Photoshop
+          + GameWorks Materials & Textures
+          + PhysX Visual Debugger
+     * Showcase
+          + Overview
+
+     * Download
+
+    1. Home
+    2. GameWorks
+    3. GameWorks PhysX Overview
+
+GameWorks PhysX Overview
+
+   PhysX is a scalable multi-platform game physics solution supporting a
+   wide range of devices, from smartphones to high-end multicore CPUs and
+   GPUs. PhysX is already integrated into some of the most popular game
+   engines, including Unreal Engine (versions 3 and 4), Unity3D, and
+   Stingray.
+
+   New! PhysX GPU Rigid Bodies (PhysX-GRB) available in PhysX 3.4.
+
+   Please note: We no longer provide precompiled binaries for PhysX.
+   Please use Github to download and build the libraries
+
+   PhysX Destruction, PhysX Clothing and PhysX Particles have been
+   deprecated. Please consider the following libraries instead:
+     * PhysX Destruction: NVIDIA Blast.
+     * PhysX Clothing: NVIDIA Cloth.
+     * PhysX Particles: NVIDIA FleX and NVIDIA Flow
+
+   Click Here to Join GameWorks Access Team on GitHub
+     __________________________________________________________________
+     __________________________________________________________________
+
+PhysX SDK Most popular physics sdk: 500+ games PhysX SDK
+Most popular physics sdk
+
+PhysX Destruction Enable fully destructible worlds PhysX Destruction
+Enable fully destructible worlds
+
+PhysX Clothing Realistic clothing simulations PhysX Clothing
+Realistic clothing simulations
+
+PhysX Particles Scalable particle system PhysX Particles
+Scalable particle system
+     __________________________________________________________________
+
+NVIDIA GameWorks in Action
+
+TheWitcher 3
+
+   IFRAME: https://www.youtube.com/embed/Md4Hmgtl8q0
+
+   Award winning The Witcher 3: Wild Hunt, is packed with GameWorks
+   technology: HairWorks, HBAO+, Clothing, Destruction.
+
+Tom Clancy's The Division
+
+   IFRAME: https://www.youtube.com/embed/eHh0SFCRhv4
+
+   The Division takes uses GameWorks shadows to create a truely immersive
+   experience: HBAO+, PCSS, HFTS.
+
+Fallout 4
+
+   IFRAME: https://www.youtube.com/embed/RnKpwiT8pA0
+
+   Fallout 4 is one of the first games to take advantage of our new
+   Volumetric lighting algorithms: Volumetric Lighting, HBAO+.
+
+Grand Theft Auto V
+
+   IFRAME: https://www.youtube.com/embed/hvoD7ehZPcM
+
+   GTA V looks even better on PC with temporal antialiasing and contact
+   hardening shadows: TXAA, PCSS.
+     __________________________________________________________________
+
+NVIDIA PhysX Feature Videos
+
+   Watch Video
+   PhysX: FleX
+   PhysX: FleX
+   Watch Video
+   PhysX Clothing
+   PhysX Clothing
+   Watch Video
+   PhysX Destruction
+   PhysX Destruction
+   Watch Video
+   PhysX Particles and Fluids
+   PhysX Particles and Fluids
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home GameWorks
+     * About
+          + What is GameWorks?
+          + Partners and Ecosystem
+     * GeForce
+          + GeForce Overview
+          + Highlights
+          + Ansel
+          + Virtual Reality Development
+          + HDR Display Development
+          + Optimus
+          + SLI Best Practice Guide
+          + 3D Vision and Surround Guides
+          + G-SYNC
+          + NVAPI
+          + 4K Developer Guide
+          + VR FunHouse Mod Kit
+          + OpenGL
+          + DirectX
+          + Vulkan
+     * SHIELD
+          + Develop for SHIELD
+          + Android TV Developer Guide
+          + Fixing Android Lifecycle Issues
+          + ASTC Texture Compression Guide
+          + Open Source Materials & Drivers
+          + CodeWorks for Android
+          + Vulkan on Android
+          + Training for SHIELD
+          + Tegra
+     * Support
+          + Documentation
+          + GPU Gems
+          + Training
+          + Indie Dev Program
+          + Forums
+          + Events
+          + The Archive
+          + Contact
+     * Blog
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+     * Ray Tracing
+          + Overview
+          + RTX
+     * VisualFX
+          + Overview
+          + Volumetric Lighting
+          + NVIDIA WaveWorks
+          + NVIDIA FaceWorks
+          + NVIDIA HairWorks
+          + NVIDIA TurfEffects
+          + NVIDIA VXGI
+          + NVIDIA VXAO
+          + NVIDIA ShadowWorks
+          + NVIDIA HFTS
+          + NVIDIA PostWorks
+          + NVIDIA FleX
+          + NVIDIA Flow
+          + NVIDIA Blast
+     * VRWorks
+          + Overview
+     * PhysX
+          + Overview
+     * Core SDK
+          + Overview
+          + NVAPI
+          + GeForce Settings API
+          + Cross-Platform Gamepad API
+     * Samples
+          + Overview
+          + Vulkan and OpenGL Samples
+          + DirectX
+     * Tools
+          + Overview
+          + Nsight Systems
+          + Nsight Graphics
+          + Nsight Compute
+          + Nsight Visual Studio Edition
+          + Nsight Aftermath SDK
+          + R&D tools
+          + Linux Graphics Debugger
+          + CodeWorks for Android
+          + Nsight Tegra, Visual Studio Edition
+          + Tegra Graphics Debugger
+          + Tegra System Profiler
+          + PerfKit
+          + PerfHUD ES
+          + PerfWorks
+          + CUPTI
+          + Texture Tools for Adobe Photoshop
+          + GameWorks Materials & Textures
+          + PhysX Visual Debugger
+     * Showcase
+          + Overview
+
+     * Download
+
+    1. Home
+    2. GameWorks
+    3. GeForce
+    4. 3D Vision and Surround Technology
+
+3D Vision and Surround Technology
+
+   Imagine immersing yourself in the world of 3D content like never
+   before. Monsters, bullets, and landscapes jump out of your flat monitor
+   and into your imagination, making you part of the game. With NVIDIA® 3D
+   Vision, gaming will never be the same.
+
+   2011 is a big year for 3D entertainment, with blockbuster 3D film
+   releases, brand new 3D HDTVs, and expanding the 3D Vision technologies
+   that make stereoscopic 3D for home users an inexpensive and
+   high-quality option.
+
+   What surprises most game developers is just how little they may have to
+   do to fully 3D in the games they are making. In fact, many shipping
+   games that were never originally written for stereo already look great
+   in 3D with 3D Vision. Just check out our latest list of supported
+   games!
+
+   Lots of games need no modification, but there are simple things that
+   developers can do to make the experience really fantastic - and a few
+   stumbling blocks that developers can avoid to ensure that their game
+   plays well.
+
+How Does It Work?
+
+   The NVIDIA 3D Vision products supports the leading 3D products
+   available on the market, including 120Hz desktop LCD monitors, 3D
+   projectors, and DLP HDTVs (complete list of supported displays). The
+   NVIDIA 3D Vision driver can process any game to support all of these
+   displays, so specifics of the display are isolated from the application
+   and game developers don't need to worry about the details. The 3D
+   Vision driver architecture even supports HDMI 1.4 3D TVs using NVIDIA
+   3DTV Play software.
+
+   Inside the driver, each 3D scene gets rendered twice - once for the
+   left eye, and once for the right eye. The driver is able to
+   automatically modify typical 3D game vertex shaders “in flight” so that
+   it can generate the correct images at run time. User options allow
+   players to adjust settings like inter-ocular distance (that is, the
+   amount of “depth”) to their own preference. Developers can explicitly
+   control the stereo aspects of the experience, or just let the driver do
+   its job.
+
+   For the best experience, of course, there are a few simple steps that a
+   developer can take to ensure that their game plays its best with 3D
+   Vision, including making sure that player HUD elements are displayed at
+   screen depth, that UI's like crosshair reticules show in depth
+   correctly (screen reticules can be confusing, but laser sights look
+   *incredible* in 3D, as do projectile ballistics!), and that
+   render-to-texture passes follow a few simple rules (that most
+   developers already follow without realizing it).
+
+   With a little more effort, developers can take the reins to control
+   their own 3D stereo experiences, altering subtle player-attention
+   controls like dynamic convergence or adding startling out-of-the-screen
+   special effects.
+
+Developer Resources for NVIDIA 3D Vision Technology
+
+     * NVIDIA 3D Vision Automatic Best Practices. (Updated, Sept 2011)
+     * Stereo Unprojection *New* This document exposes the technical
+       problems faced in stereo with NVIDIA driver automatic mode when the
+       fragment position must be unprojected in mono space in the pixel
+       shader.
+
+     * Stereo Unprojection Sample. *New*
+
+     Developer Conferences Presentations
+     * GDC 2008 - Video (second half of this twin-talk) and Presentation
+     * GDC 2009 - Presentation
+     * GTC 2010 - Implementing Stereoscopic 3D in Your Applications
+
+NVIDIA Surround Technology
+
+   Imagine expanding your gaming real estate across three displays in Full
+   HD 3D for a completely immersive gaming experience with NVIDIA Surround
+   technology. With the introduction of NVIDIA GeForce GTX 400 GPUs, you
+   can now use the award winning NVIDIA 3D Vision to build the world's
+   first multi-display 3D gaming experience on your PC.
+
+   NVIDIA Surround technology supports both 2D and 3D Vision modes,
+   allowing end users to take advantage of wider field of views.
+
+Developer Resources for NVIDIA Surround Technology
+
+     * Surround System Information
+     * Surround Best Practices
+     * Frequently Asked Questions
+
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home DesignWorks
+     * About
+     * Contact
+     * Forums
+     * Blog
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+    1. Home
+    2. DesignWorks
+    3. NVIDIA OptiX™ Ray Tracing Engine
+
+NVIDIA OptiX™ Ray Tracing Engine
+
+   A software development kit for achieving high performance ray tracing
+   on the GPU.
+
+      [optix-isotropix-1280x620.png] Click to enlarge -- Image courtesy
+                                  Isotropix
+
+                       Image courtesy Tom Grammerstorf
+
+
+   The OptiX API is an application framework for achieving optimal ray
+   tracing performance on the GPU. It provides a simple, recursive, and
+   flexible pipeline for accelerating ray tracing algorithms. Bring the
+   power of NVIDIA GPUs to your ray tracing applications with programmable
+   intersection, ray generation, and shading.
+
+   From film and games to design and scientific visualization, OptiX has
+   been successfully deployed in a broad range of commercial applications.
+   These applications range from rendering software to scientific
+   visualization (including Gordon Bell Award finalists), defense
+   applications, audio synthesis, and computing lightmaps for games.
+
+   Get OptiX
+   Documentation
+
+                             Watch GTC sessions
+
+                       An introduction to NVIDIA OptiX
+                      New features in NVIDIA OptiX 6.0
+
+   NVIDIA Blog
+   NVIDIA OptiX Ray Tracing Overview
+
+                [fig1_Enrico-Cereda_OctaneRender-362x204.jpg]
+   Learn about the OptiX SDK with an in-depth introduction... Read More...
+
+Key Features
+
+     * Programmable GPU-accelerated Ray-Tracing Pipeline
+     * Single-ray shader programming model using C++
+     * Optimized for current and future generations of NVIDIA GPU
+       architectures
+     * Transparently scales across multiple GPUs
+     * Automatically combines GPU memory over NVLink for large scenes
+     * AI Accelerated rendering using Tensor Cores
+     * Ray Tracing acceleration using RT Cores
+     * Free for Commercial-Use
+
+   Operating System Windows and Linux
+   (see release notes for specific version)
+   Dependencies
+
+   NVIDIA GeForce, Quadro and Tesla products with Maxwell and newer
+   generation GPUs.
+
+   Recent NVIDIA Display Driver
+   Development Environment C/C++ Compiler and Recent CUDA Toolkit
+
+AI-Accelerated Denoiser
+
+   NVIDIA rendering partners can add AI-accelerated denoising to their
+   renderers using the SDK.
+   [logo-isotropix.png]
+   [logo-redshift.png]
+   [logo-chaosgroup.png]
+   [logo-action-autodesk.png]
+   [logo-cebas.png]
+   [altair-showcase-logo.png]
+   Learn more about the AI-Accelerated Denoiser
+   [aiaoptix_001.png]
+
+Partners (Click logos to learn more)
+
+   Read more
+   [logo-action-pixar1.png]
+   Pixar’s Flow Material Editing Tool
+
+                          [logo-action-pixar1.png]
+
+   Pixar Animation Studio's new material editing tool "Flow" enables their
+   artists to interactively edit rich, complex shading networks. Flow
+   provides live real-time feedback with full, multi-bounce progressive
+   ray tracing using OptiX.
+
+   [] Pixar Flow material editing tool. Image courtesy of Pixar Animation
+                                   Studios
+
+   Watch SIGGRAPH talk on OptiX integration in Flow >
+   Read more
+   [logo-action-vmd.png]
+   Visual Molecular Dynamics (VMD)
+
+                            [logo-action-vmd.png]
+
+   Visual Molecular Dynamics (VMD) is a molecular visualization program
+   for displaying, animating, and analyzing large biomolecular systems
+   using 3-D graphics and built-in scripting. VMD’s preferred rendering
+   mode for both viewport and final render is OptiX, with full VCA support
+   available. The OptiX path renders the highest visual quality and even
+   has a frame rate five times higher than OpenGL on massive datasets.
+
+                                   IFRAME:
+   https://www.youtube.com/embed/6hKq5A__yrY?&loop=1&playlist=6hKq5A__yrY
+
+   Learn more about VMD >
+   Read more
+   [logo-action-iray.png]
+   NVIDIA Iray
+
+                           [logo-action-iray.png]
+
+   NVIDIA Iray employs OptiX technology for optimal performance in both
+   its path tracing and ray tracing render modes. Iray is a state of the
+   art, yet easy to use, photorealistic rendering solution provided as an
+   SDK for seamless integration into custom tools and within
+   industry-leading products from the likes of Dassault Systemes and
+   Siemens PLM.
+
+                                     []
+
+   Learn more about Iray >
+   Read more
+   [logo-action-solidworks.png]
+   SOLIDWORKS Visualize
+
+                        [logo-action-swvisualize.png]
+
+   SOLIDWORKS® Visualization products (formerly known as Bunkspeed)
+   provide a suite of standalone software tools that combine
+   industry-leading rendering capabilities with design-oriented features
+   and workflows that enable easy and fast creation of visual content for
+   designers, engineers, marketing, and other content creators. Import
+   SOLIDWORKS, Autodesk Alias®, Rhino®, SketchUp® and many other CAD
+   formats to create compelling scenes and ultimately the most realistic
+   content possible.
+
+                         [denoiser_cover-image.png]
+
+   Learn more about SOLIDWORKS Visulaize >
+   News:
+   Blog: Introducing the New Artificial Intelligence Denoiser
+   Blog: From Great Idea to Amazing Product: SOLIDWORKS and NVIDIA Power
+   AI, VR and Virtualized Workflows
+   Read more
+   [logo-action-optis1.png]
+   OPTIS
+
+                          [logo-action-optis1.png]
+
+   OPTIS, the virtual prototyping company, brings life and emotion to all
+   industrial projects. Its world-leading solutions pave the way for a
+   revolutionary design process: towards zero physical prototypes. Since
+   1989, OPTIS offers its know-how in light and human vision simulation
+   into leading CAD/CAM software and dedicated immersive virtual
+   solutions. This synergy creates true-to-life virtual mockups which are
+   used as real decision-making tools. Today, more than 2,500 clients in
+   over 50 countries already trust OPTIS and innovate day after day with
+   its solutions to ensure the look and safety of their designs, reduce
+   their ecological footprint and bring their future products faster on
+   the market.
+   []
+
+     “We use powerful NVIDIA GPU technologies, like the new Quadro GV100
+     to accelerate our simulation applications and algorithms, and NVIDIA
+     OptiX for fast AI-based rendering. Looking ahead, we’re excited
+     about the potential NVIDIA RTX ray-tracing technology holds to
+     deliver more lifelike images faster than ever,” said Jacques
+     Delacour, CEO and founder of OPTIS.
+
+   Learn more about SPEOS (Bright Light and Appearance Simulation) >
+
+   Learn more about Theia RT (Real-time Color and Material Evaluation) >
+
+   Learn more about Optis >
+   Read more
+   [logo-action-icido.png]
+   ESI IC.IDO
+
+                           [logo-action-icido.png]
+
+   ESI Group is a leading innovator in Virtual Prototyping software and
+   services. ESI | IC.IDO provides a Human Centric digital mock-up
+   environment that enables individual engineers as well as teams to
+   explore, experience, validate, and collaborate to resolve complex
+   integration scenarios at the intersection between product function,
+   human interaction and assembly/service requirements.
+
+     “We adopted OptiX for ray tracing in IC.IDO. It was incredibly easy
+     to integrate and offers amazing speed and performance with NVIDIA
+     GPUs, this frees our engineering team to focus their time and
+     talents on developing new features for our Virtual Engineering
+     enterprise customers. Offering a unified visualization and physical
+     simulation experience in VR gives users the ability to interact with
+     their products and processes in ways previously only possible with
+     full scale physical prototypes.”
+     Dr. Christian Odaker, Director of R&D, Immersive Experience at ESI
+     Group
+
+   Learn more about IC.IDO
+   Read more
+   [altair-showcase-logo.png]
+   Thea Render
+
+                           [logo-action-thea1.png]
+
+   Thea Render is a physically-based global illumination renderer of high
+   quality. It is a unique renderer that is able to render using
+   state-of-the-art techniques in biased photorealistic, unbiased and GPU
+   modes. Thea Render comes with its own standalone application (Studio)
+   with various tools, material editor and advanced staging operations
+   along with integration (plugins) on various popular modeling solutions.
+
+                        Click to enlarge either side
+
+   [thea_with.png] [thea_without1.png]
+
+     Altair® Thea Render® v2.0 integrates NVIDIA® OptiX™ denoiser,
+     dramatically accelerating production of final renders. Users can
+     take advantage of this optimized workflow, creating out-of-the-box,
+     stunning photorealistic images in a fraction of previous render
+     times.
+     Dr. Ing. Ioannis Pantazopoulos, VP Rendering Technology, Altair
+
+   Learn more about Thea Render >
+   Read more
+   [logo-action-autodesk.png]
+   Autodesk Arnold
+
+                        [logo-action-arnold_001.png]
+
+   Arnold is an advanced Monte Carlo ray tracing renderer. It is designed
+   for artists and built for the demands of modern animation and visual
+   effects production. It is available as a standalone renderer on Linux,
+   Windows and Mac OS X, with plug-ins for Maya, 3ds Max, Houdini, Cinema
+   4D, and Katana. With an integrated OptiX denoiser, Arnold takes
+   advantage of NVIDIA AI tech for accelerated interactive rendering.
+
+            [optiX-denoiser_Arnold-kitchen.PNG] Click to enlarge
+
+     The OptiX Denoiser is an invaluable option for interactive workflows
+     in Arnold. The artist can create and move around geometry and lights
+     and get immediate noise-free visual feedback, even for challenging
+     rendering scenarios.
+     Frederic Servant, Arnold Development Manager, Autodesk
+
+   Learn more about Arnold
+   Read more
+   [logo-cebas.png]
+   cebas finalRender
+
+                        [logo-action-finalrender.png]
+
+   cebas Visual Technology, founded in Heidelberg, Germany and
+   headquartered in Victoria, BC Canada, has been developing 3dsMax
+   plugins for visual technology since 1988. Following the launch of our
+   latest finalRender trueHybrid™, cebas' mission as always, is dedicated
+   to getting the most sophisticated renderer into the hands of the
+   artists affordably by incorporating latest NVIDIA GPU technology
+   combined with cebas CPU enhancements, to achieve a powerful as well as
+   an unique mix of processing power. Our new finalRender's latest
+   addition is the NVIDIA's OptiX 5.0 AI Denoiser feature. Users can
+   expect ongoing innovative updates as finalRender progresses.
+
+    [Before_after_Ai-denoiser.png] This image shows the OptiX AI-Denoiser
+       running in finalRender at 100 samples after only 45 seconds of
+                                 rendering.
+
+     Our very first integration tests revealed right from the start that
+     NVIDIA has created an exceptional piece of software engineering by
+     combining the power of AI and their powerful GPU hardware to
+     surmount what has bothered every single GPU software developer for
+     years - Noise in the image. The use of AI Neuronal Network
+     technology in OptiX 5.0 to enhance the process of denoising and
+     cebas' engineering work on finalRender's trueHybrid™ technology
+     offers a bright future towards higher quality photo-realistic images
+     in much lesser time.
+     Edwin Braun, CEO & Co-founder, cebas Visual Technology
+
+   Learn more about finalRender >
+   Read more
+   [logo-chaosgroup.png]
+   Chaos Group Vray
+
+                             [V_Ray_logo_B.png]
+
+   Chaos Group is a worldwide leader in computer graphics. They create the
+   technology that helps artists and designers create photoreal imagery
+   and animation for design, television, and feature films. Their
+   physically-based rendering and simulation software is used daily by top
+   design studios, architectural firms, advertising agencies, and visual
+   effects companies around the globe. Their research and development in
+   cloud rendering, material scanning, and virtual reality is shaping the
+   future of creative storytelling and digital design.
+
+                              [CGvrayblog.png]
+
+     We’re finding the NVIDIA denoising results to be very impressive on
+     interactive scenes, giving artists a much quicker estimate of what
+     their final result will look like. We believe this will speed the
+     creative process while using our upcoming V-Ray GPU.
+     Vlado Koylazov, founder, Chaos Group
+
+   Learn more about Vray >
+   Read more
+   [logo-isotropix.png]
+   Isotropix Clarisse
+
+                         [logo-action-clarisse.png]
+
+   Founded by animation industry veterans, Isotropix™ is a start-up
+   specialized in developing high-end professional graphics software and
+   aims at providing CG artists game-changing innovations.
+
+                                   IFRAME:
+   https://www.youtube.com/embed/elWx5d7c_DI?&loop=1&playlist=elWx5d7c_DI
+
+     Thanks to its AI-driven denoising capability, OptiX 5.0 accelerates
+     the Clarisse path tracer up to eight times! Combined with TITAN V,
+     it will be a game changer for artists as they can make instant
+     creative decisions on images that are very close to final renders —
+     all from their PC.
+     Sam Assadian, CEO and co-founder, Isotropix
+
+     It was staggering to witness OptiX 5.0’s ability to create clean
+     images that are genuinely representative of the final frame. As
+     Clarisse continues to refine the render, the denoiser converges on
+     the final clean result in a smooth, deterministic way, meaning that
+     artists are able to make detailed artistic lighting decisions
+     considerably faster than they could before.
+     Graham Jack, chief technology officer, Double Negative
+
+   Learn more about Clarisse >
+   Read more
+   [logo-redshift.png]
+   Redshift
+
+                             [logo-redshift.png]
+
+   Redshift Rendering Technologies Inc was founded in early 2012 in
+   Newport Beach, California with the goal of developing a
+   production-quality, GPU-accelerated renderer with support for the
+   biased global illumination techniques that until now have remained
+   squarely in the CPU-only domain.
+
+                                   IFRAME:
+   https://www.youtube.com/embed/2vJ_5nPVU0s?&loop=1&playlist=2vJ_5nPVU0s
+
+     With OptiX 5.0, NVIDIA continues to lead the way for the use of AI
+     in rendering for design, character generation and the creation of
+     virtual worlds. Integration of OptiX 5.0 was a no-brainer for us —
+     being both easy and free, it turbocharges the creative process and
+     improves productivity for our users.
+     Panos Zompolas, chief technology officer and co-founder, Redshift
+
+   Learn more about Redshift >
+     __________________________________________________________________
+
+Developer Forums
+
+   Our forum community is where Developers can ask questions, share
+   experiences and participate in discussions with NVIDIA and other
+   experts in the field.
+
+   Check out available forums here.
+     __________________________________________________________________
+
+Resources
+
+              IFRAME: https://www.youtube.com/embed/Z7QsPb7YWjc
+
+   OptiX Advanced Samples
+
+   [optixadvsamp01.png]
+
+   This is a set of basic to advanced samples for the NVIDIA OptiX Ray
+   Tracing Engine. This set includes introduction samples that go along
+   with the video presented to the left.
+
+   Get Advanced Samples
+   Get more samples here.
+     * Documentation
+     * Learn more about the AI-accelerated denoiser
+     * Developer Forum
+     * GTC on Demand
+     * OptiX GPU Ray Tracing ACM paper
+
+   For business critical matters contact: OptiX-Help@nvidia.com
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home NVIDIA Developer
+     * Solutions
+          + AI and Deep Learning
+               o Deep Learning
+               o Machine Learning
+               o Inference
+               o Deep Learning institute
+               o Genomics
+               o GPU-Optimized S/W (NGC)
+          + Autonomous Machines
+               o Hardware (Jetson)
+               o Robotics
+               o Video analytics
+          + Autonomous Vehicles
+               o Hardware (DRIVE AGX)
+               o Car reference architecture
+               o Autonomous Vehicle Software
+               o Data Center Simulation Platform
+          + Graphics and Simulation
+               o Raytracing
+               o AI for graphics
+               o Real-time VFX
+               o Virtual and Augmented Reality
+               o Simulation
+               o Medical Imaging
+               o Scientific Visualization
+               o Display
+               o Video Processing
+          + High-performance Computing
+               o Languages and APIs
+               o GPU accelerated libraries
+               o OpenACC Programming Model
+          + Tools and Management
+               o Productivity Tools
+               o Management Tools
+               o Android and Tegra for Mobile
+     * Platforms
+          + CUDA-X AI
+               o TensorRT
+               o cuDNN
+               o NCCL
+               o cuBLAS
+               o cuSPARSE
+               o DeepStream SDK
+               o Optical Flow SDK
+               o DALI
+               o Transfer Learning Toolkit
+               o DIGITS
+          + CLARA
+               o Clara Train
+               o Clara Deploy
+               o Clara Genomics SDK
+          + HPC
+               o CUDA Toolkit
+               o OpenACC
+          + DRIVE
+               o DRIVE AGX
+               o DRIVE Hyperion
+               o DRIVE Sim
+               o DRIVE Constellation
+               o DGX
+          + RTX
+               o OptiX SDK
+               o Path-traced Audio (VRWorks)
+               o VKRay
+               o MDL SDK
+               o vMaterials
+               o PhysX
+               o Flex
+               o Optical Flow SDK
+               o Video Codec SDK
+               o GPUDirect for Video
+          + ISAAC
+               o Jetson Developer Kits
+               o JetPack
+               o Isaac Robot Engine
+               o Isaac Sim
+          + Metropolis
+               o DeepStream SDK
+     * Documentation
+          + Ray tracing
+          + Library
+          + CUDA Toolkit
+          + GameWorks
+          + DRIVE
+          + NGC
+          + Isaac
+     * Downloads
+          + CUDA Toolkit
+          + CLARA
+          + DRIVE
+          + Gameworks
+          + Isaac
+          + Jetson
+          + Metropolis
+     * Resources
+          + Developer Program
+          + Deep Learning Institute
+          + Educators
+          + NGC
+          + GTC Videos
+          + Open Source
+          + Contact us
+     * Community
+          + Forums (DevTalk)
+          + Blog
+          + News
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+     * RTX
+     * GAMEWORKS
+     * DESIGNWORKS
+     * VRWORKS
+     * HPC
+     * METROPOLIS
+     * DRIVE
+     * CLARA
+     * OPEN SOURCE
+
+DO MORE WITH MIXED PRECISION TRAINING
+
+   Get greater GPU acceleration for deep learning models with Tensor Cores
+
+   Learn More
+    1. Home
+    2. Deep Learning
+    3. Automatic Mixed Precision for Deep Learning
+
+Automatic Mixed Precision for Deep Learning
+
+Automatic Mixed Precision for Deep Learning
+
+   Deep Neural Network training has traditionally relied on IEEE
+   single-precision format, however with mixed precision, you can train
+   with half precision while maintaining the network accuracy achieved
+   with single precision. This technique of using both single- and
+   half-precision representations is referred to as mixed precision
+   technique.
+
+Benefits of Mixed precision training
+
+     Speeds up math-intensive operations, such as linear and convolution
+   layers, by using Tensor Cores.
+
+     Speeds up memory-limited operations by accessing half the bytes
+   compared to single-precision.
+
+     Reduces memory requirements for training models, enabling larger
+   models or larger minibatches.
+
+     Nuance Research advances and applies conversational AI technologies
+     to power solutions that redefine how humans and computers interact.
+     The rate of our advances reflects the speed at which we train and
+     assess deep learning models. With Automatic Mixed Precision, we’ve
+     realized a 50% speedup in TensorFlow-based ASR model training
+     without loss of accuracy via a minimal code change. We’re eager to
+     achieve a similar impact in our other deep learning language
+     processing applications.
+     Wenxuan Teng, Senior Research Manager, Nuance Communications
+
+   Enabling mixed precision involves two steps: porting the model to use
+   the half-precision data type where appropriate; and using loss scaling
+   to preserve small gradient values.
+
+   The automatic mixed precision feature in TensorFlow, PyTorch and MXNet
+   provides deep learning researcher and engineers with AI training
+   speedups of up to 3X on NVIDIA Volta and Turing GPUs with adding just a
+   few lines of code.
+
+                                     amp
+
+Using Automatic Mixed Precision for Major Deep Learning Frameworks
+
+TensorFlow
+
+   Automatic Mixed Precision feature is available both in native
+   TensorFlow and inside the TensorFlow container on NVIDIA NGC container
+   registry:
+
+   export TF_ENABLE_AUTO_MIXED_PRECISION=1
+
+   As an alternative, the environment variable can be set inside the
+   TensorFlow Python script:
+
+   os.environ['TF_ENABLE_AUTO_MIXED_PRECISION'] = '1'
+
+   Automatic mixed precision applies both of these steps, automatic
+   casting and automatic loss scaling, internally in TensorFlow with a
+   single environment variable, along with more fine-grained control when
+   necessary.
+
+   Additionally, for NGC TensorFlow 19.07 or later, and native TensorFlow
+   1.14 or later, an explicit optimizer wrapper is available:
+
+   opt = tf.train.experimental.enable_mixed_precision_graph_rewrite(opt)
+
+     “TensorFlow developers will greatly benefit from NVIDIA automatic
+     mixed precision feature. This easy integration enables them to get
+     up to 3X higher performance with mixed precision training on NVIDIA
+     Tensor Core GPUs while maintaining model accuracy.”
+
+     — Rajat Monga, Engineering Director, TensorFlow, Google
+
+     “Automated mixed precision powered by NVIDIA Tensor Core GPUs on
+     Alibaba allows us to instantly speedup AI models nearly 3X. Our
+     researchers appreciated the ease of turning on this feature to
+     instantly accelerate our AI.”
+
+     — Wei Lin，Senior Director at Alibaba Computing Platform, Alibaba
+
+   Try with TensorFlow
+   Developer Blog
+   Documentation
+
+PyTorch
+
+   Automatic Mixed Precision feature is available in the Apex repository
+   on GitHub. To enable, add these two lines of code into your existing
+   training script:
+
+   model, optimizer = amp.initialize(model, optimizer, opt_level="O1")
+
+   with amp.scale_loss(loss, optimizer) as scaled_loss:
+       scaled_loss.backward()
+   Try with PyTorch
+   Developer Blog
+   Documentation
+
+MXNet
+
+   Automatic Mixed Precision feature is available both in native MXNet
+   (1.5 or later) and inside the MXNet container (19.04 or later) on
+   NVIDIA NGC container registry. To enable the feature, add the following
+   lines of code to your existing training script:
+
+   amp.init()
+   amp.init_trainer(trainer)
+   with amp.scale_loss(loss, trainer) as scaled_loss:
+      autograd.backward(scaled_loss)
+   Try with MXNet
+   Documentation
+
+Additional Resources
+
+     * Learn more: Tensor Cores for developers
+     * Test drive: Tensor Core Optimized Examples
+     * Developer Blog: Automatic Mixed Precision for NVIDIA Tensor Core
+       Architecture in TensorFlow
+
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home NVIDIA Developer
+     * Downloads
+     * Training
+     * Ecosystem
+     * Forums
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+TRAIN MODELS FASTER
+
+   Explore exclusive discounts for higher education
+
+   Learn more
+
+CUDA Zone
+
+   CUDA® is a parallel computing platform and programming model developed
+   by NVIDIA for general computing on graphical processing units (GPUs).
+   With CUDA, developers are able to dramatically speed up computing
+   applications by harnessing the power of GPUs.
+
+   In GPU-accelerated applications, the sequential part of the workload
+   runs on the CPU – which is optimized for single-threaded performance –
+   while the compute intensive portion of the application runs on
+   thousands of GPU cores in parallel. When using CUDA, developers program
+   in popular languages such as C, C++, Fortran, Python and MATLAB and
+   express parallelism through extensions in the form of a few basic
+   keywords.
+
+   The CUDA Toolkit from NVIDIA provides everything you need to develop
+   GPU-accelerated applications. The CUDA Toolkit includes GPU-accelerated
+   libraries, a compiler, development tools and the CUDA runtime.
+   Download Now
+     __________________________________________________________________
+
+   Thousands of applications developed with CUDA have been deployed to
+   GPUs in embedded systems, workstations, datacenters and in the cloud.
+   [adobe.jpg]
+   [ANSYS_170x54.jpg]
+   [Autodesk_170x28.jpg]
+   [Dassault-Systemes_170x51.jpg]
+   [mathworks.jpg]
+   [microsoft2.jpg]
+   [ni.jpg]
+   [wolfram.jpg]
+
+   See More Applications
+     __________________________________________________________________
+
+   CUDA serves as a common platform across all NVIDIA GPU families so you
+   can deploy and scale your application across GPU configurations.
+
+   [cuda-tech-hw1.jpg]
+
+   [cuda-tech-hw2.jpg]
+
+   [cuda-tech-emdedded-apps.jpg]
+
+   [cuda-tech-cloud-apps.jpg]
+
+   The first GPUs were designed as graphics accelerators, becoming more
+   programmable over the 90s, culminating in NVIDIA's first GPU in 1999.
+   Researchers and scientists rapidly began to apply the excellent
+   floating point performance of this GPU for general purpose computing.
+   In 2003, a team of researchers led by Ian Buck unveiled Brook, the
+   first widely adopted programming model to extend C with data-parallel
+   constructs. Ian Buck later joined NVIDIA and led the launch of CUDA in
+   2006, the world's first solution for general-computing on GPUs.
+
+   Since its inception, the CUDA ecosystem has grown rapidly to include
+   software development tools, services and partner-based solutions. The
+   CUDA Toolkit includes libraries, debugging and optimization tools, a
+   compiler and a runtime library to deploy your application. You'll also
+   find code samples, programming guides, user manuals, API references and
+   other documentation to help you get started.
+
+Libraries
+
+   [cuRandImage.png]
+
+   cuRAND
+   [nppeye.jpg]
+
+   NPP
+   [KeyVisual_Primary_verysm.PNG]
+
+   Math Library
+   [cuff_ampchart.jpg]
+
+   cuFFT
+   [nv_graph_01.png]
+
+   nvGRAPH
+   [nccl.png]
+
+   NCCL
+
+   See More Libraries
+
+Tools and Integrations
+
+   [Parallel_Nsight-webGraphic.jpg]
+
+   Nsight
+   [CUDA_VisualProfiler-webGraphic.jpg]
+
+   Visual Profiler
+   [CUDA_GDB-webGraphic.jpg]
+
+   CUDA GDB
+   [CUDA_MemCheck-webGraphic.jpg]
+
+   CUDA MemCheck
+   [OpenACC-logo-notag360x190.jpg]
+
+   OpenACC
+   [cupti.png]
+
+   CUDA Profiling Tools Interface
+
+   See More Tools
+     __________________________________________________________________
+
+   CUDA accelerates applications across a wide range of domains from image
+   processing, to deep learning, numerical analytics and computational
+   science.
+   [md2.png]
+   [ml.png]
+   [data.png]
+   [bioinfo.png]
+   [cfd.png]
+   [weather.png]
+
+   More Applications
+     __________________________________________________________________
+
+   Get started with CUDA by downloading the CUDA Toolkit and exploring
+   introductory resources including videos, code samples, hands-on labs
+   and webinars.
+
+   Download Now
+
+   Get Started with CUDA
+     __________________________________________________________________
+
+Accelerated Computing News
+
+   Read more
+   [Skydio_feature.png?itok=MnQh3wP0]
+   Autonomous Machines - Oct 01 2019
+   Inception Spotlight: New Skydio 2 Drone Powered by NVIDIA Jetson GPUs
+   Can Track up to 10 Objects at a Time
+
+   Redwood City, California-based Skydio and member of NVIDIA’s startup
+   accelerator, Inception, has just released the latest version of their
+   AI capable GPU-accelerated drone, Skydio 2.
+
+   Read more
+   Read more
+   [TensorFlow-main-270x151_0.png?itok=b9MIwrZV]
+   AI / Deep Learning - Oct 01 2019
+   TensorFlow 2.0 with Tighter TensorRT Integration Now Available
+
+   To help developers build scalable ML-powered applications, Google
+   released TensorFlow 2.0, one of the core open source libraries for
+   training deep learning models.
+
+   Read more
+   Read more
+   [Nano_Booz_Allen_Feature.png?itok=SLHR6uyC]
+   Autonomous Machines - Sep 27 2019
+   Interns Top Competition with Jetson Nano at Booz Allen Summer Games
+   Challenge
+
+   This summer, student interns at Booz Allen Hamilton bested the
+   competition on edge computing with the help of NVIDIA Jetson Nano
+
+   Read more
+   Read more
+   [mit_lincoln.png?itok=fIF7Ppi2]
+   AI / Deep Learning - Sep 26 2019
+   MIT Lincoln Laboratory Supercomputing Center Installs World’s Fastest
+   Supercomputer at a University, powered by NVIDIA V100 GPUs
+
+   To power AI applications and research across engineering, science, and
+   medicine, the Massachusetts Institute of Technology (MIT) Lincoln
+   Laboratory Supercomputing Center has just installed a new
+   GPU-accelerated supercomputer, powered by 896 NVIDIA
+
+   Read more
+
+Parallel ForAll Blog
+
+   Read more
+   [Jetson-MATLAB-1.png?itok=gscoCwBE]
+   AI / Deep Learning - Sep 30 2019
+   Rapid Prototyping on NVIDIA Jetson Platforms with MATLAB
+
+   This blog discusses how an application developer can prototype and
+   deploy deep learning algorithms on hardware like the NVIDIA Jetson Nano
+   Developer Kit with MATLAB.
+
+   Read more
+   Read more
+   [nsight1.png?itok=4xew4Skn]
+   HPC - Sep 16 2019
+   Using Nsight Compute to Inspect your Kernels
+
+   By now, hopefully you read the first two blogs in this series
+   “Migrating to NVIDIA Nsight Tools from NVVP and Nvprof” and
+   “Transitioning to Nsight Systems from NVIDIA Visual Profiler / nvprof,”
+   and you’ve discovered NVIDIA added a few new tools, b
+
+   Read more
+   Read more
+   [Neural-Modules-Diagram1-002_0.png?itok=6ZvUjcSA]
+   AI / Deep Learning - Sep 14 2019
+   Neural Modules for Fast Development of Speech and Language models
+
+   As a researcher building state-of-the-art speech and language models,
+   you need to be able to quickly experiment with novel network
+   architectures.
+
+   Read more
+   Read more
+   [10864444_Embedded_NVDLA_Diagram_v02.png?itok=KEgbKeYW]
+   AI / Deep Learning - Sep 11 2019
+   NVDLA Deep Learning Inference Compiler is Now Open Source
+
+   Designing new custom hardware accelerators for deep learning is clearly
+   popular, but achieving state-of-the-art performance and efficiency with
+   a new design is a complex and challenging problem.
+
+   Read more
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+Get Started
+
+     * About CUDA
+     * Parallel Computing
+     * CUDA Toolkit
+     * CUDACasts
+
+Learn More
+
+     * Training and Courseware
+     * Tools and Ecosystem
+     * Academic Collaboration
+     * Documentation
+
+Get Involved
+
+     * Forums
+     * Developer Blog
+     * Contact Us
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home GameWorks
+     * About
+          + What is GameWorks?
+          + Partners and Ecosystem
+     * GeForce
+          + GeForce Overview
+          + Highlights
+          + Ansel
+          + Virtual Reality Development
+          + HDR Display Development
+          + Optimus
+          + SLI Best Practice Guide
+          + 3D Vision and Surround Guides
+          + G-SYNC
+          + NVAPI
+          + 4K Developer Guide
+          + VR FunHouse Mod Kit
+          + OpenGL
+          + DirectX
+          + Vulkan
+     * SHIELD
+          + Develop for SHIELD
+          + Android TV Developer Guide
+          + Fixing Android Lifecycle Issues
+          + ASTC Texture Compression Guide
+          + Open Source Materials & Drivers
+          + CodeWorks for Android
+          + Vulkan on Android
+          + Training for SHIELD
+          + Tegra
+     * Support
+          + Documentation
+          + GPU Gems
+          + Training
+          + Indie Dev Program
+          + Forums
+          + Events
+          + The Archive
+          + Contact
+     * Blog
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+     * Ray Tracing
+          + Overview
+          + RTX
+     * VisualFX
+          + Overview
+          + Volumetric Lighting
+          + NVIDIA WaveWorks
+          + NVIDIA FaceWorks
+          + NVIDIA HairWorks
+          + NVIDIA TurfEffects
+          + NVIDIA VXGI
+          + NVIDIA VXAO
+          + NVIDIA ShadowWorks
+          + NVIDIA HFTS
+          + NVIDIA PostWorks
+          + NVIDIA FleX
+          + NVIDIA Flow
+          + NVIDIA Blast
+     * VRWorks
+          + Overview
+     * PhysX
+          + Overview
+     * Core SDK
+          + Overview
+          + NVAPI
+          + GeForce Settings API
+          + Cross-Platform Gamepad API
+     * Samples
+          + Overview
+          + Vulkan and OpenGL Samples
+          + DirectX
+     * Tools
+          + Overview
+          + Nsight Systems
+          + Nsight Graphics
+          + Nsight Compute
+          + Nsight Visual Studio Edition
+          + Nsight Aftermath SDK
+          + R&D tools
+          + Linux Graphics Debugger
+          + CodeWorks for Android
+          + Nsight Tegra, Visual Studio Edition
+          + Tegra Graphics Debugger
+          + Tegra System Profiler
+          + PerfKit
+          + PerfHUD ES
+          + PerfWorks
+          + CUPTI
+          + Texture Tools for Adobe Photoshop
+          + GameWorks Materials & Textures
+          + PhysX Visual Debugger
+     * Showcase
+          + Overview
+
+     * Download
+
+    1. Home
+    2. GameWorks
+    3. GameWorks PhysX Overview
+
+GameWorks PhysX Overview
+
+   PhysX is a scalable multi-platform game physics solution supporting a
+   wide range of devices, from smartphones to high-end multicore CPUs and
+   GPUs. PhysX is already integrated into some of the most popular game
+   engines, including Unreal Engine (versions 3 and 4), Unity3D, and
+   Stingray.
+
+   New! PhysX GPU Rigid Bodies (PhysX-GRB) available in PhysX 3.4.
+
+   Please note: We no longer provide precompiled binaries for PhysX.
+   Please use Github to download and build the libraries
+
+   PhysX Destruction, PhysX Clothing and PhysX Particles have been
+   deprecated. Please consider the following libraries instead:
+     * PhysX Destruction: NVIDIA Blast.
+     * PhysX Clothing: NVIDIA Cloth.
+     * PhysX Particles: NVIDIA FleX and NVIDIA Flow
+
+   Click Here to Join GameWorks Access Team on GitHub
+     __________________________________________________________________
+     __________________________________________________________________
+
+PhysX SDK Most popular physics sdk: 500+ games PhysX SDK
+Most popular physics sdk
+
+PhysX Destruction Enable fully destructible worlds PhysX Destruction
+Enable fully destructible worlds
+
+PhysX Clothing Realistic clothing simulations PhysX Clothing
+Realistic clothing simulations
+
+PhysX Particles Scalable particle system PhysX Particles
+Scalable particle system
+     __________________________________________________________________
+
+NVIDIA GameWorks in Action
+
+TheWitcher 3
+
+   IFRAME: https://www.youtube.com/embed/Md4Hmgtl8q0
+
+   Award winning The Witcher 3: Wild Hunt, is packed with GameWorks
+   technology: HairWorks, HBAO+, Clothing, Destruction.
+
+Tom Clancy's The Division
+
+   IFRAME: https://www.youtube.com/embed/eHh0SFCRhv4
+
+   The Division takes uses GameWorks shadows to create a truely immersive
+   experience: HBAO+, PCSS, HFTS.
+
+Fallout 4
+
+   IFRAME: https://www.youtube.com/embed/RnKpwiT8pA0
+
+   Fallout 4 is one of the first games to take advantage of our new
+   Volumetric lighting algorithms: Volumetric Lighting, HBAO+.
+
+Grand Theft Auto V
+
+   IFRAME: https://www.youtube.com/embed/hvoD7ehZPcM
+
+   GTA V looks even better on PC with temporal antialiasing and contact
+   hardening shadows: TXAA, PCSS.
+     __________________________________________________________________
+
+NVIDIA PhysX Feature Videos
+
+   Watch Video
+   PhysX: FleX
+   PhysX: FleX
+   Watch Video
+   PhysX Clothing
+   PhysX Clothing
+   Watch Video
+   PhysX Destruction
+   PhysX Destruction
+   Watch Video
+   PhysX Particles and Fluids
+   PhysX Particles and Fluids
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home GameWorks
+     * About
+          + What is GameWorks?
+          + Partners and Ecosystem
+     * GeForce
+          + GeForce Overview
+          + Highlights
+          + Ansel
+          + Virtual Reality Development
+          + HDR Display Development
+          + Optimus
+          + SLI Best Practice Guide
+          + 3D Vision and Surround Guides
+          + G-SYNC
+          + NVAPI
+          + 4K Developer Guide
+          + VR FunHouse Mod Kit
+          + OpenGL
+          + DirectX
+          + Vulkan
+     * SHIELD
+          + Develop for SHIELD
+          + Android TV Developer Guide
+          + Fixing Android Lifecycle Issues
+          + ASTC Texture Compression Guide
+          + Open Source Materials & Drivers
+          + CodeWorks for Android
+          + Vulkan on Android
+          + Training for SHIELD
+          + Tegra
+     * Support
+          + Documentation
+          + GPU Gems
+          + Training
+          + Indie Dev Program
+          + Forums
+          + Events
+          + The Archive
+          + Contact
+     * Blog
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+     * Ray Tracing
+          + Overview
+          + RTX
+     * VisualFX
+          + Overview
+          + Volumetric Lighting
+          + NVIDIA WaveWorks
+          + NVIDIA FaceWorks
+          + NVIDIA HairWorks
+          + NVIDIA TurfEffects
+          + NVIDIA VXGI
+          + NVIDIA VXAO
+          + NVIDIA ShadowWorks
+          + NVIDIA HFTS
+          + NVIDIA PostWorks
+          + NVIDIA FleX
+          + NVIDIA Flow
+          + NVIDIA Blast
+     * VRWorks
+          + Overview
+     * PhysX
+          + Overview
+     * Core SDK
+          + Overview
+          + NVAPI
+          + GeForce Settings API
+          + Cross-Platform Gamepad API
+     * Samples
+          + Overview
+          + Vulkan and OpenGL Samples
+          + DirectX
+     * Tools
+          + Overview
+          + Nsight Systems
+          + Nsight Graphics
+          + Nsight Compute
+          + Nsight Visual Studio Edition
+          + Nsight Aftermath SDK
+          + R&D tools
+          + Linux Graphics Debugger
+          + CodeWorks for Android
+          + Nsight Tegra, Visual Studio Edition
+          + Tegra Graphics Debugger
+          + Tegra System Profiler
+          + PerfKit
+          + PerfHUD ES
+          + PerfWorks
+          + CUPTI
+          + Texture Tools for Adobe Photoshop
+          + GameWorks Materials & Textures
+          + PhysX Visual Debugger
+     * Showcase
+          + Overview
+
+     * Download
+
+    1. Home
+    2. GameWorks
+    3. GeForce
+    4. 3D Vision and Surround Technology
+
+3D Vision and Surround Technology
+
+   Imagine immersing yourself in the world of 3D content like never
+   before. Monsters, bullets, and landscapes jump out of your flat monitor
+   and into your imagination, making you part of the game. With NVIDIA® 3D
+   Vision, gaming will never be the same.
+
+   2011 is a big year for 3D entertainment, with blockbuster 3D film
+   releases, brand new 3D HDTVs, and expanding the 3D Vision technologies
+   that make stereoscopic 3D for home users an inexpensive and
+   high-quality option.
+
+   What surprises most game developers is just how little they may have to
+   do to fully 3D in the games they are making. In fact, many shipping
+   games that were never originally written for stereo already look great
+   in 3D with 3D Vision. Just check out our latest list of supported
+   games!
+
+   Lots of games need no modification, but there are simple things that
+   developers can do to make the experience really fantastic - and a few
+   stumbling blocks that developers can avoid to ensure that their game
+   plays well.
+
+How Does It Work?
+
+   The NVIDIA 3D Vision products supports the leading 3D products
+   available on the market, including 120Hz desktop LCD monitors, 3D
+   projectors, and DLP HDTVs (complete list of supported displays). The
+   NVIDIA 3D Vision driver can process any game to support all of these
+   displays, so specifics of the display are isolated from the application
+   and game developers don't need to worry about the details. The 3D
+   Vision driver architecture even supports HDMI 1.4 3D TVs using NVIDIA
+   3DTV Play software.
+
+   Inside the driver, each 3D scene gets rendered twice - once for the
+   left eye, and once for the right eye. The driver is able to
+   automatically modify typical 3D game vertex shaders “in flight” so that
+   it can generate the correct images at run time. User options allow
+   players to adjust settings like inter-ocular distance (that is, the
+   amount of “depth”) to their own preference. Developers can explicitly
+   control the stereo aspects of the experience, or just let the driver do
+   its job.
+
+   For the best experience, of course, there are a few simple steps that a
+   developer can take to ensure that their game plays its best with 3D
+   Vision, including making sure that player HUD elements are displayed at
+   screen depth, that UI's like crosshair reticules show in depth
+   correctly (screen reticules can be confusing, but laser sights look
+   *incredible* in 3D, as do projectile ballistics!), and that
+   render-to-texture passes follow a few simple rules (that most
+   developers already follow without realizing it).
+
+   With a little more effort, developers can take the reins to control
+   their own 3D stereo experiences, altering subtle player-attention
+   controls like dynamic convergence or adding startling out-of-the-screen
+   special effects.
+
+Developer Resources for NVIDIA 3D Vision Technology
+
+     * NVIDIA 3D Vision Automatic Best Practices. (Updated, Sept 2011)
+     * Stereo Unprojection *New* This document exposes the technical
+       problems faced in stereo with NVIDIA driver automatic mode when the
+       fragment position must be unprojected in mono space in the pixel
+       shader.
+
+     * Stereo Unprojection Sample. *New*
+
+     Developer Conferences Presentations
+     * GDC 2008 - Video (second half of this twin-talk) and Presentation
+     * GDC 2009 - Presentation
+     * GTC 2010 - Implementing Stereoscopic 3D in Your Applications
+
+NVIDIA Surround Technology
+
+   Imagine expanding your gaming real estate across three displays in Full
+   HD 3D for a completely immersive gaming experience with NVIDIA Surround
+   technology. With the introduction of NVIDIA GeForce GTX 400 GPUs, you
+   can now use the award winning NVIDIA 3D Vision to build the world's
+   first multi-display 3D gaming experience on your PC.
+
+   NVIDIA Surround technology supports both 2D and 3D Vision modes,
+   allowing end users to take advantage of wider field of views.
+
+Developer Resources for NVIDIA Surround Technology
+
+     * Surround System Information
+     * Surround Best Practices
+     * Frequently Asked Questions
+
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home DesignWorks
+     * About
+     * Contact
+     * Forums
+     * Blog
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+    1. Home
+    2. DesignWorks
+    3. NVIDIA OptiX™ Ray Tracing Engine
+
+NVIDIA OptiX™ Ray Tracing Engine
+
+   A software development kit for achieving high performance ray tracing
+   on the GPU.
+
+      [optix-isotropix-1280x620.png] Click to enlarge -- Image courtesy
+                                  Isotropix
+
+                       Image courtesy Tom Grammerstorf
+
+
+   The OptiX API is an application framework for achieving optimal ray
+   tracing performance on the GPU. It provides a simple, recursive, and
+   flexible pipeline for accelerating ray tracing algorithms. Bring the
+   power of NVIDIA GPUs to your ray tracing applications with programmable
+   intersection, ray generation, and shading.
+
+   From film and games to design and scientific visualization, OptiX has
+   been successfully deployed in a broad range of commercial applications.
+   These applications range from rendering software to scientific
+   visualization (including Gordon Bell Award finalists), defense
+   applications, audio synthesis, and computing lightmaps for games.
+
+   Get OptiX
+   Documentation
+
+                             Watch GTC sessions
+
+                       An introduction to NVIDIA OptiX
+                      New features in NVIDIA OptiX 6.0
+
+   NVIDIA Blog
+   NVIDIA OptiX Ray Tracing Overview
+
+                [fig1_Enrico-Cereda_OctaneRender-362x204.jpg]
+   Learn about the OptiX SDK with an in-depth introduction... Read More...
+
+Key Features
+
+     * Programmable GPU-accelerated Ray-Tracing Pipeline
+     * Single-ray shader programming model using C++
+     * Optimized for current and future generations of NVIDIA GPU
+       architectures
+     * Transparently scales across multiple GPUs
+     * Automatically combines GPU memory over NVLink for large scenes
+     * AI Accelerated rendering using Tensor Cores
+     * Ray Tracing acceleration using RT Cores
+     * Free for Commercial-Use
+
+   Operating System Windows and Linux
+   (see release notes for specific version)
+   Dependencies
+
+   NVIDIA GeForce, Quadro and Tesla products with Maxwell and newer
+   generation GPUs.
+
+   Recent NVIDIA Display Driver
+   Development Environment C/C++ Compiler and Recent CUDA Toolkit
+
+AI-Accelerated Denoiser
+
+   NVIDIA rendering partners can add AI-accelerated denoising to their
+   renderers using the SDK.
+   [logo-isotropix.png]
+   [logo-redshift.png]
+   [logo-chaosgroup.png]
+   [logo-action-autodesk.png]
+   [logo-cebas.png]
+   [altair-showcase-logo.png]
+   Learn more about the AI-Accelerated Denoiser
+   [aiaoptix_001.png]
+
+Partners (Click logos to learn more)
+
+   Read more
+   [logo-action-pixar1.png]
+   Pixar’s Flow Material Editing Tool
+
+                          [logo-action-pixar1.png]
+
+   Pixar Animation Studio's new material editing tool "Flow" enables their
+   artists to interactively edit rich, complex shading networks. Flow
+   provides live real-time feedback with full, multi-bounce progressive
+   ray tracing using OptiX.
+
+   [] Pixar Flow material editing tool. Image courtesy of Pixar Animation
+                                   Studios
+
+   Watch SIGGRAPH talk on OptiX integration in Flow >
+   Read more
+   [logo-action-vmd.png]
+   Visual Molecular Dynamics (VMD)
+
+                            [logo-action-vmd.png]
+
+   Visual Molecular Dynamics (VMD) is a molecular visualization program
+   for displaying, animating, and analyzing large biomolecular systems
+   using 3-D graphics and built-in scripting. VMD’s preferred rendering
+   mode for both viewport and final render is OptiX, with full VCA support
+   available. The OptiX path renders the highest visual quality and even
+   has a frame rate five times higher than OpenGL on massive datasets.
+
+                                   IFRAME:
+   https://www.youtube.com/embed/6hKq5A__yrY?&loop=1&playlist=6hKq5A__yrY
+
+   Learn more about VMD >
+   Read more
+   [logo-action-iray.png]
+   NVIDIA Iray
+
+                           [logo-action-iray.png]
+
+   NVIDIA Iray employs OptiX technology for optimal performance in both
+   its path tracing and ray tracing render modes. Iray is a state of the
+   art, yet easy to use, photorealistic rendering solution provided as an
+   SDK for seamless integration into custom tools and within
+   industry-leading products from the likes of Dassault Systemes and
+   Siemens PLM.
+
+                                     []
+
+   Learn more about Iray >
+   Read more
+   [logo-action-solidworks.png]
+   SOLIDWORKS Visualize
+
+                        [logo-action-swvisualize.png]
+
+   SOLIDWORKS® Visualization products (formerly known as Bunkspeed)
+   provide a suite of standalone software tools that combine
+   industry-leading rendering capabilities with design-oriented features
+   and workflows that enable easy and fast creation of visual content for
+   designers, engineers, marketing, and other content creators. Import
+   SOLIDWORKS, Autodesk Alias®, Rhino®, SketchUp® and many other CAD
+   formats to create compelling scenes and ultimately the most realistic
+   content possible.
+
+                         [denoiser_cover-image.png]
+
+   Learn more about SOLIDWORKS Visulaize >
+   News:
+   Blog: Introducing the New Artificial Intelligence Denoiser
+   Blog: From Great Idea to Amazing Product: SOLIDWORKS and NVIDIA Power
+   AI, VR and Virtualized Workflows
+   Read more
+   [logo-action-optis1.png]
+   OPTIS
+
+                          [logo-action-optis1.png]
+
+   OPTIS, the virtual prototyping company, brings life and emotion to all
+   industrial projects. Its world-leading solutions pave the way for a
+   revolutionary design process: towards zero physical prototypes. Since
+   1989, OPTIS offers its know-how in light and human vision simulation
+   into leading CAD/CAM software and dedicated immersive virtual
+   solutions. This synergy creates true-to-life virtual mockups which are
+   used as real decision-making tools. Today, more than 2,500 clients in
+   over 50 countries already trust OPTIS and innovate day after day with
+   its solutions to ensure the look and safety of their designs, reduce
+   their ecological footprint and bring their future products faster on
+   the market.
+   []
+
+     “We use powerful NVIDIA GPU technologies, like the new Quadro GV100
+     to accelerate our simulation applications and algorithms, and NVIDIA
+     OptiX for fast AI-based rendering. Looking ahead, we’re excited
+     about the potential NVIDIA RTX ray-tracing technology holds to
+     deliver more lifelike images faster than ever,” said Jacques
+     Delacour, CEO and founder of OPTIS.
+
+   Learn more about SPEOS (Bright Light and Appearance Simulation) >
+
+   Learn more about Theia RT (Real-time Color and Material Evaluation) >
+
+   Learn more about Optis >
+   Read more
+   [logo-action-icido.png]
+   ESI IC.IDO
+
+                           [logo-action-icido.png]
+
+   ESI Group is a leading innovator in Virtual Prototyping software and
+   services. ESI | IC.IDO provides a Human Centric digital mock-up
+   environment that enables individual engineers as well as teams to
+   explore, experience, validate, and collaborate to resolve complex
+   integration scenarios at the intersection between product function,
+   human interaction and assembly/service requirements.
+
+     “We adopted OptiX for ray tracing in IC.IDO. It was incredibly easy
+     to integrate and offers amazing speed and performance with NVIDIA
+     GPUs, this frees our engineering team to focus their time and
+     talents on developing new features for our Virtual Engineering
+     enterprise customers. Offering a unified visualization and physical
+     simulation experience in VR gives users the ability to interact with
+     their products and processes in ways previously only possible with
+     full scale physical prototypes.”
+     Dr. Christian Odaker, Director of R&D, Immersive Experience at ESI
+     Group
+
+   Learn more about IC.IDO
+   Read more
+   [altair-showcase-logo.png]
+   Thea Render
+
+                           [logo-action-thea1.png]
+
+   Thea Render is a physically-based global illumination renderer of high
+   quality. It is a unique renderer that is able to render using
+   state-of-the-art techniques in biased photorealistic, unbiased and GPU
+   modes. Thea Render comes with its own standalone application (Studio)
+   with various tools, material editor and advanced staging operations
+   along with integration (plugins) on various popular modeling solutions.
+
+                        Click to enlarge either side
+
+   [thea_with.png] [thea_without1.png]
+
+     Altair® Thea Render® v2.0 integrates NVIDIA® OptiX™ denoiser,
+     dramatically accelerating production of final renders. Users can
+     take advantage of this optimized workflow, creating out-of-the-box,
+     stunning photorealistic images in a fraction of previous render
+     times.
+     Dr. Ing. Ioannis Pantazopoulos, VP Rendering Technology, Altair
+
+   Learn more about Thea Render >
+   Read more
+   [logo-action-autodesk.png]
+   Autodesk Arnold
+
+                        [logo-action-arnold_001.png]
+
+   Arnold is an advanced Monte Carlo ray tracing renderer. It is designed
+   for artists and built for the demands of modern animation and visual
+   effects production. It is available as a standalone renderer on Linux,
+   Windows and Mac OS X, with plug-ins for Maya, 3ds Max, Houdini, Cinema
+   4D, and Katana. With an integrated OptiX denoiser, Arnold takes
+   advantage of NVIDIA AI tech for accelerated interactive rendering.
+
+            [optiX-denoiser_Arnold-kitchen.PNG] Click to enlarge
+
+     The OptiX Denoiser is an invaluable option for interactive workflows
+     in Arnold. The artist can create and move around geometry and lights
+     and get immediate noise-free visual feedback, even for challenging
+     rendering scenarios.
+     Frederic Servant, Arnold Development Manager, Autodesk
+
+   Learn more about Arnold
+   Read more
+   [logo-cebas.png]
+   cebas finalRender
+
+                        [logo-action-finalrender.png]
+
+   cebas Visual Technology, founded in Heidelberg, Germany and
+   headquartered in Victoria, BC Canada, has been developing 3dsMax
+   plugins for visual technology since 1988. Following the launch of our
+   latest finalRender trueHybrid™, cebas' mission as always, is dedicated
+   to getting the most sophisticated renderer into the hands of the
+   artists affordably by incorporating latest NVIDIA GPU technology
+   combined with cebas CPU enhancements, to achieve a powerful as well as
+   an unique mix of processing power. Our new finalRender's latest
+   addition is the NVIDIA's OptiX 5.0 AI Denoiser feature. Users can
+   expect ongoing innovative updates as finalRender progresses.
+
+    [Before_after_Ai-denoiser.png] This image shows the OptiX AI-Denoiser
+       running in finalRender at 100 samples after only 45 seconds of
+                                 rendering.
+
+     Our very first integration tests revealed right from the start that
+     NVIDIA has created an exceptional piece of software engineering by
+     combining the power of AI and their powerful GPU hardware to
+     surmount what has bothered every single GPU software developer for
+     years - Noise in the image. The use of AI Neuronal Network
+     technology in OptiX 5.0 to enhance the process of denoising and
+     cebas' engineering work on finalRender's trueHybrid™ technology
+     offers a bright future towards higher quality photo-realistic images
+     in much lesser time.
+     Edwin Braun, CEO & Co-founder, cebas Visual Technology
+
+   Learn more about finalRender >
+   Read more
+   [logo-chaosgroup.png]
+   Chaos Group Vray
+
+                             [V_Ray_logo_B.png]
+
+   Chaos Group is a worldwide leader in computer graphics. They create the
+   technology that helps artists and designers create photoreal imagery
+   and animation for design, television, and feature films. Their
+   physically-based rendering and simulation software is used daily by top
+   design studios, architectural firms, advertising agencies, and visual
+   effects companies around the globe. Their research and development in
+   cloud rendering, material scanning, and virtual reality is shaping the
+   future of creative storytelling and digital design.
+
+                              [CGvrayblog.png]
+
+     We’re finding the NVIDIA denoising results to be very impressive on
+     interactive scenes, giving artists a much quicker estimate of what
+     their final result will look like. We believe this will speed the
+     creative process while using our upcoming V-Ray GPU.
+     Vlado Koylazov, founder, Chaos Group
+
+   Learn more about Vray >
+   Read more
+   [logo-isotropix.png]
+   Isotropix Clarisse
+
+                         [logo-action-clarisse.png]
+
+   Founded by animation industry veterans, Isotropix™ is a start-up
+   specialized in developing high-end professional graphics software and
+   aims at providing CG artists game-changing innovations.
+
+                                   IFRAME:
+   https://www.youtube.com/embed/elWx5d7c_DI?&loop=1&playlist=elWx5d7c_DI
+
+     Thanks to its AI-driven denoising capability, OptiX 5.0 accelerates
+     the Clarisse path tracer up to eight times! Combined with TITAN V,
+     it will be a game changer for artists as they can make instant
+     creative decisions on images that are very close to final renders —
+     all from their PC.
+     Sam Assadian, CEO and co-founder, Isotropix
+
+     It was staggering to witness OptiX 5.0’s ability to create clean
+     images that are genuinely representative of the final frame. As
+     Clarisse continues to refine the render, the denoiser converges on
+     the final clean result in a smooth, deterministic way, meaning that
+     artists are able to make detailed artistic lighting decisions
+     considerably faster than they could before.
+     Graham Jack, chief technology officer, Double Negative
+
+   Learn more about Clarisse >
+   Read more
+   [logo-redshift.png]
+   Redshift
+
+                             [logo-redshift.png]
+
+   Redshift Rendering Technologies Inc was founded in early 2012 in
+   Newport Beach, California with the goal of developing a
+   production-quality, GPU-accelerated renderer with support for the
+   biased global illumination techniques that until now have remained
+   squarely in the CPU-only domain.
+
+                                   IFRAME:
+   https://www.youtube.com/embed/2vJ_5nPVU0s?&loop=1&playlist=2vJ_5nPVU0s
+
+     With OptiX 5.0, NVIDIA continues to lead the way for the use of AI
+     in rendering for design, character generation and the creation of
+     virtual worlds. Integration of OptiX 5.0 was a no-brainer for us —
+     being both easy and free, it turbocharges the creative process and
+     improves productivity for our users.
+     Panos Zompolas, chief technology officer and co-founder, Redshift
+
+   Learn more about Redshift >
+     __________________________________________________________________
+
+Developer Forums
+
+   Our forum community is where Developers can ask questions, share
+   experiences and participate in discussions with NVIDIA and other
+   experts in the field.
+
+   Check out available forums here.
+     __________________________________________________________________
+
+Resources
+
+              IFRAME: https://www.youtube.com/embed/Z7QsPb7YWjc
+
+   OptiX Advanced Samples
+
+   [optixadvsamp01.png]
+
+   This is a set of basic to advanced samples for the NVIDIA OptiX Ray
+   Tracing Engine. This set includes introduction samples that go along
+   with the video presented to the left.
+
+   Get Advanced Samples
+   Get more samples here.
+     * Documentation
+     * Learn more about the AI-accelerated denoiser
+     * Developer Forum
+     * GTC on Demand
+     * OptiX GPU Ray Tracing ACM paper
+
+   For business critical matters contact: OptiX-Help@nvidia.com
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact
+   Skip to main content
+
+   (BUTTON)
+   Home NVIDIA Developer
+     * Solutions
+          + AI and Deep Learning
+               o Deep Learning
+               o Machine Learning
+               o Inference
+               o Deep Learning institute
+               o Genomics
+               o GPU-Optimized S/W (NGC)
+          + Autonomous Machines
+               o Hardware (Jetson)
+               o Robotics
+               o Video analytics
+          + Autonomous Vehicles
+               o Hardware (DRIVE AGX)
+               o Car reference architecture
+               o Autonomous Vehicle Software
+               o Data Center Simulation Platform
+          + Graphics and Simulation
+               o Raytracing
+               o AI for graphics
+               o Real-time VFX
+               o Virtual and Augmented Reality
+               o Simulation
+               o Medical Imaging
+               o Scientific Visualization
+               o Display
+               o Video Processing
+          + High-performance Computing
+               o Languages and APIs
+               o GPU accelerated libraries
+               o OpenACC Programming Model
+          + Tools and Management
+               o Productivity Tools
+               o Management Tools
+               o Android and Tegra for Mobile
+     * Platforms
+          + CUDA-X AI
+               o TensorRT
+               o cuDNN
+               o NCCL
+               o cuBLAS
+               o cuSPARSE
+               o DeepStream SDK
+               o Optical Flow SDK
+               o DALI
+               o Transfer Learning Toolkit
+               o DIGITS
+          + CLARA
+               o Clara Train
+               o Clara Deploy
+               o Clara Genomics SDK
+          + HPC
+               o CUDA Toolkit
+               o OpenACC
+          + DRIVE
+               o DRIVE AGX
+               o DRIVE Hyperion
+               o DRIVE Sim
+               o DRIVE Constellation
+               o DGX
+          + RTX
+               o OptiX SDK
+               o Path-traced Audio (VRWorks)
+               o VKRay
+               o MDL SDK
+               o vMaterials
+               o PhysX
+               o Flex
+               o Optical Flow SDK
+               o Video Codec SDK
+               o GPUDirect for Video
+          + ISAAC
+               o Jetson Developer Kits
+               o JetPack
+               o Isaac Robot Engine
+               o Isaac Sim
+          + Metropolis
+               o DeepStream SDK
+     * Documentation
+          + Ray tracing
+          + Library
+          + CUDA Toolkit
+          + GameWorks
+          + DRIVE
+          + NGC
+          + Isaac
+     * Downloads
+          + CUDA Toolkit
+          + CLARA
+          + DRIVE
+          + Gameworks
+          + Isaac
+          + Jetson
+          + Metropolis
+     * Resources
+          + Developer Program
+          + Deep Learning Institute
+          + Educators
+          + NGC
+          + GTC Videos
+          + Open Source
+          + Contact us
+     * Community
+          + Forums (DevTalk)
+          + Blog
+          + News
+
+     *
+
+Search form
+       _______________ (BUTTON)
+       (Search) Search
+     * Account
+
+     * RTX
+     * GAMEWORKS
+     * DESIGNWORKS
+     * VRWORKS
+     * HPC
+     * METROPOLIS
+     * DRIVE
+     * CLARA
+     * OPEN SOURCE
+
+DO MORE WITH MIXED PRECISION TRAINING
+
+   Get greater GPU acceleration for deep learning models with Tensor Cores
+
+   Learn More
+    1. Home
+    2. Deep Learning
+    3. Automatic Mixed Precision for Deep Learning
+
+Automatic Mixed Precision for Deep Learning
+
+Automatic Mixed Precision for Deep Learning
+
+   Deep Neural Network training has traditionally relied on IEEE
+   single-precision format, however with mixed precision, you can train
+   with half precision while maintaining the network accuracy achieved
+   with single precision. This technique of using both single- and
+   half-precision representations is referred to as mixed precision
+   technique.
+
+Benefits of Mixed precision training
+
+     Speeds up math-intensive operations, such as linear and convolution
+   layers, by using Tensor Cores.
+
+     Speeds up memory-limited operations by accessing half the bytes
+   compared to single-precision.
+
+     Reduces memory requirements for training models, enabling larger
+   models or larger minibatches.
+
+     Nuance Research advances and applies conversational AI technologies
+     to power solutions that redefine how humans and computers interact.
+     The rate of our advances reflects the speed at which we train and
+     assess deep learning models. With Automatic Mixed Precision, we’ve
+     realized a 50% speedup in TensorFlow-based ASR model training
+     without loss of accuracy via a minimal code change. We’re eager to
+     achieve a similar impact in our other deep learning language
+     processing applications.
+     Wenxuan Teng, Senior Research Manager, Nuance Communications
+
+   Enabling mixed precision involves two steps: porting the model to use
+   the half-precision data type where appropriate; and using loss scaling
+   to preserve small gradient values.
+
+   The automatic mixed precision feature in TensorFlow, PyTorch and MXNet
+   provides deep learning researcher and engineers with AI training
+   speedups of up to 3X on NVIDIA Volta and Turing GPUs with adding just a
+   few lines of code.
+
+                                     amp
+
+Using Automatic Mixed Precision for Major Deep Learning Frameworks
+
+TensorFlow
+
+   Automatic Mixed Precision feature is available both in native
+   TensorFlow and inside the TensorFlow container on NVIDIA NGC container
+   registry:
+
+   export TF_ENABLE_AUTO_MIXED_PRECISION=1
+
+   As an alternative, the environment variable can be set inside the
+   TensorFlow Python script:
+
+   os.environ['TF_ENABLE_AUTO_MIXED_PRECISION'] = '1'
+
+   Automatic mixed precision applies both of these steps, automatic
+   casting and automatic loss scaling, internally in TensorFlow with a
+   single environment variable, along with more fine-grained control when
+   necessary.
+
+   Additionally, for NGC TensorFlow 19.07 or later, and native TensorFlow
+   1.14 or later, an explicit optimizer wrapper is available:
+
+   opt = tf.train.experimental.enable_mixed_precision_graph_rewrite(opt)
+
+     “TensorFlow developers will greatly benefit from NVIDIA automatic
+     mixed precision feature. This easy integration enables them to get
+     up to 3X higher performance with mixed precision training on NVIDIA
+     Tensor Core GPUs while maintaining model accuracy.”
+
+     — Rajat Monga, Engineering Director, TensorFlow, Google
+
+     “Automated mixed precision powered by NVIDIA Tensor Core GPUs on
+     Alibaba allows us to instantly speedup AI models nearly 3X. Our
+     researchers appreciated the ease of turning on this feature to
+     instantly accelerate our AI.”
+
+     — Wei Lin，Senior Director at Alibaba Computing Platform, Alibaba
+
+   Try with TensorFlow
+   Developer Blog
+   Documentation
+
+PyTorch
+
+   Automatic Mixed Precision feature is available in the Apex repository
+   on GitHub. To enable, add these two lines of code into your existing
+   training script:
+
+   model, optimizer = amp.initialize(model, optimizer, opt_level="O1")
+
+   with amp.scale_loss(loss, optimizer) as scaled_loss:
+       scaled_loss.backward()
+   Try with PyTorch
+   Developer Blog
+   Documentation
+
+MXNet
+
+   Automatic Mixed Precision feature is available both in native MXNet
+   (1.5 or later) and inside the MXNet container (19.04 or later) on
+   NVIDIA NGC container registry. To enable the feature, add the following
+   lines of code to your existing training script:
+
+   amp.init()
+   amp.init_trainer(trainer)
+   with amp.scale_loss(loss, trainer) as scaled_loss:
+      autograd.backward(scaled_loss)
+   Try with MXNet
+   Documentation
+
+Additional Resources
+
+     * Learn more: Tensor Cores for developers
+     * Test drive: Tensor Core Optimized Examples
+     * Developer Blog: Automatic Mixed Precision for NVIDIA Tensor Core
+       Architecture in TensorFlow
+
+     * HIGH PERFORMANCE COMPUTING
+     * GAMEWORKS
+     * JETPACK
+     * DESIGNWORKS
+     * DRIVE
+
+   Copyright © 2019 NVIDIA Corporation
+     * Legal Information
+     * Privacy Policy
+     * Contact

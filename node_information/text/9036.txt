@@ -1,0 +1,8 @@
+   FRAME: logo
+   FRAME: contents
+   FRAME: banner
+
+                      The Comprehensive R Archive Network
+
+   Your browser seems not to support frames, here is the contents page of
+   CRAN.

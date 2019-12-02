@@ -1,0 +1,310 @@
+
+
+   #alternate Tela Botanica » Flux Tela Botanica » Flux des commentaires
+   alternate alternate
+
+   Tela Botanica
+   (BUTTON) Menu (BUTTON) Fermer
+
+     * Actualités
+          + Actualités
+          + Évènements
+          + Offres d’emploi
+          + Proposer une actualité
+     * Flores
+          + France métropolitaine
+          + Antilles françaises
+          + Afrique du Nord
+          + Afrique tropicale
+          + Parcourez des informations sur différentes flores
+     * Végétations
+          + Végétations d’Europe (eVeg)
+          + Phytosociologie
+          + Accédez et contribuez aux bases de données phytosociologiques
+            (syntaxons, associations végétales…)
+     * Outils
+          + Les bases de connaissances
+          + Pour la saisie et l’enrichissement de données
+          + Pour échanger
+          + Pour apprendre
+          + Sur le terrain
+     * Projets
+          + Tous les projets
+          + Qu’est-ce qu’un projet ?
+          + Créer un projet
+          + Échangez avec la communauté et contribuez à la co-création de
+            projets botaniques
+     * Ressources
+          + Thématiques
+          + Pédagogiques
+          + Bibliographiques
+          + Données
+          + Cartographies
+          + Exposition
+     * Qui sommes-nous ?
+          + Le réseau
+          + Adhérez
+          + L’équipe
+          + Partenaires
+          + Notre savoir-faire
+          + Soutenir le réseau
+          + Contactez-nous
+
+     * Connexion
+     * Faites un don !
+     * ____________________ (BUTTON)
+
+     * Identifier une plante
+     * Apprendre la botanique
+     * Aller sur le terrain
+     * Comment participer ?
+
+   (BUTTON) Retour
+
+   ____________________ (BUTTON)
+
+France métropolitaine
+
+   Silene gallica L. par Jean-Jacques Houdré, licence CC BY-SA
+
+Sommaire
+
+     * France métropolitaine
+          + Le référentiel
+          + Les noms communs des plantes
+          + Les données écologiques
+          + Les cartes de répartition départementales
+          + Les données des telabotanistes
+     * Antilles françaises
+     * Afrique du Nord
+     * Afrique tropicale
+     * Liban
+     * Guyane
+     * La Réunion
+     * Nouvelle-Calédonie
+
+Filtrer les résultats
+
+     *
+
+   Remonter
+    1. Accueil
+    2. Flore
+    3. France métropolitaine
+
+Le référentiel
+
+   La BDNFF (Base de Données Nomenclaturale de la Flore de France) compile
+   la nomenclature et la synonymie des plantes vasculaires (trachéophytes)
+   de la France métropolitaine étendue à certains taxons des contrées
+   limitrophes. Cet index est réalisé par Tela Botanica dans le cadre
+   d’une convention quadripartite MNHN/ Tela Botanica / Ministère chargé
+   de l’Écologie / Fédération des conservatoires botaniques nationaux.
+
+   Basé sur les travaux de Michel Kerguelen (1928-1999), c’est un travail
+   de synthèse réalisé par Benoît Bock avec la collaboration de nombreux
+   botanistes du réseau Tela Botanica, de l’INPN (MNHN), des
+   Conservatoires botaniques nationaux avec le soutien financier du
+   Ministère chargé de l’Écologie.
+
+   La BDNFF du 27 mai 2018 comporte 99 409 noms pour 24 052 taxons (en
+   comptant les taxons infra et supra spécifiques ainsi que les hybrides)
+   dont 14 042 pour la France. Elle intègre les données actualisées de
+   l’ouvrage Flora Gallica (Tison, J-M & de Foucault, B, Flora Gallica
+   Flore de France. Biotope éditions, 1196 p) paru en 2014 ainsi que les
+   dernières corrections issues de la relecture de l’ouvrage. Elle intègre
+   également les derniers travaux sur les Rubus de France réalisés par
+   David Mercier.
+   La BDTFX (Base de Données des Trachéophytes de métropole et contrées
+   limitrophes) est la version standardisée (1) puis versionnée par Tela
+   Botanica de la BDNFF.
+
+   Une extraction de la BDTFX (2), limitée aux taxons cités en France
+   métropolitaine et à quelques taxons potentiels,  est transmise
+   périodiquement au Muséum national d’Histoire naturelle pour constituer
+   la source de référence des plantes vasculaires de métropole dans la
+   réalisation du référentiel national sur la faune, la flore et la fonge
+   de France métropolitaine et Outre-mer, TAXREF. Le travail d’intégration
+   est réalisé par le MNHN et de ce fait, les données dans TAXREF peuvent
+   différer de la BDTFX pour certains taxons.
+
+   Un index réduit de la BDTFX a été créé en sélectionnant les noms
+   retenus présents en France et les synonymes présents dans les flores
+   suivantes : flores de Bonnier, Coste, Fournier et du CNRS, Flora
+   Gallica. Cet index contient 27 404 noms.
+
+   Actuellement en consultation dans eFlore : la BDTFX V5.00 de mai 2018.
+
+   Dans RTax-ß, l’espace de gestion des BDNT (Bases de Données
+   Nomenclaturales et Taxonomiques) de Tela Botanica,
+
+Vous pouvez
+
+     * consulter la version en cours de mise à jour de la BDTFX
+     * consulter l'arbre taxonomique de la BDTFX
+     * télécharger les versions successives de la BDTFX
+
+     * Icône de Référentiels taxonomiques
+    Référentiels taxonomiques
+       RTax-ß permet de consulter les référentiels nomenclaturaux et
+       taxonomiques en cours de mises à jour et permet de télécharger les
+       différentes versions. C'est aussi un outil d'experts permettant de
+       tester et versionner ces référentiels.
+       Accéder à cet outil
+
+   Note de l’auteur de la BDNFF, Benoit Bock :
+   « Nous nous sommes efforcés d’avoir un résultat le plus homogène
+   possible pour l’ensemble de tous les taxons. Certains genres sont
+   encore en cours d’études donc seront amenés à évoluer (Rubus,
+   Hieracium). La chorologie est indiquée pour tous les taxons pour la
+   France métropolitaine et la Corse. Cette version est la plus aboutie
+   jamais réalisée puisque tous les taxons ont été revus en s’appuyant sur
+   la nomenclature de la future Flora Gallica qui prend en compte les
+   résultats des études phylogénétiques récentes. Les versions précédentes
+   n’étaient que partiellement révisées. Il reste encore à améliorer les
+   références bibliographiques pas toujours complétées ni vérifiées pour
+   tous les taxons. Nous nous efforcerons de corriger petit à petit par la
+   suite. »
+
+   (1) Standardiser le nom des fichiers ainsi que le nom et la
+   structuration des champs informatifs des bases de données
+   nomenclaturales et taxonomiques que Tela Botanica diffuse permet au
+   pôle informatique d’en optimiser la gestion dans nos différentes
+   applications. Ce format standardisé permet également la ré-utilisation
+   des données pour d’autres usages, si l’auteur souhaite que nous
+   publions une version téléchargeable.
+   (2) Ne sont transmis au MNHN que certains champs de la BDTFX pour les
+   taxons exclusivement présents en France.
+
+En savoir plus
+
+     * Accéder au projet référentiel des trachéophytes de métropole (BDNFF
+       - BDTFX)
+
+Les noms communs des plantes
+
+   Les noms communs des plantes sont donnés dans 8 langues européennes
+   (français, espagnol, catalan, italien, allemand, hollandais, anglais et
+   grec). Ces noms sont issus pour l’essentiel de la base de données des
+   noms vernaculaires compilée par Jean-François LEGER (2007) et par
+   Pierre SEBA (2017) pour les noms grecs.
+
+En savoir plus
+
+     * Accéder au projet les noms vernaculaires des plantes
+
+Les données écologiques
+
+   Les optimums écologiques des plantes sont extraits de la base de
+   données baseflor (version 09 février 2017) et les données
+   phytosociologiques de la base de données baseveg (version 09 février
+   2017), compilées par Philippe Julve dans le cadre de son programme de
+   travail CATMINAT.
+
+En savoir plus
+
+     * Accéder au projet phytosociologie
+
+Les cartes de répartition départementales
+
+   La chorologie est établie à partir des données compilées par Philippe
+   Julve avec les contributions des membres du réseau Tela Botanica
+   (version de avril 2018).
+
+En savoir plus
+
+     * Accéder au projet chorologie départementale
+
+   Si vous constatez des problèmes sur eFlore ou souhaitez nous adresser
+   vos remarques
+   Contactez-nous
+
+Les données des telabotanistes
+
+   IFRAME:
+   https://www.tela-botanica.org/widget:cel:photo?referentiel=bdtfx&vignet
+   te=8,4&extra=0
+
+   Les dernières images
+
+Lien
+
+     * Voir la cartographie
+
+   Ajouter une observation
+
+   Tela Botanica
+   1b rue de Verdun, 34000 Montpellier, France
+   Téléphone : +33 (0)4 67 52 41 22
+   accueil@tela-botanica.org
+     * Facebook
+     * Twitter
+     * Vimeo
+     * Github
+
+   Recevoir la lettre d'actualités
+
+   Chaque jeudi, recevez un condensé de l'actualité du réseau, les
+   évènements et les offres d'emplois directement dans votre boîte mail.
+   S'abonner
+
+   (BUTTON) Plan du site
+
+     * Thématiques
+          + Apprendre la botanique
+          + Comment participer ?
+          + Flora Data
+          + Herbiers
+          + Identifier une plante
+          + Les plantes messicoles
+          + Phytosociologie
+          + Relais locaux
+          + Sciences participatives
+          + Aller sur le terrain
+          + Toutes les thématiques
+     * Outils
+          + Annuaire des telabotanistes
+          + Carnet en Ligne
+          + Collections en Ligne
+          + eFlore (taxons)
+          + eVeg (syntaxons)
+          + IdentiPlante
+          + PictoFlora
+          + Plateforme TelaFormation
+          + Référentiels taxonomiques
+          + Smart’Flore
+          + Tous les outils
+     * Projets
+          + Espace projets
+          + Botanique générale
+          + Bryophytes
+          + Chorologie départementale
+          + Ethnobotanique
+          + Flore d’Afrique du Nord
+          + Herbiers
+          + Flore d’Afrique tropicale
+          + Notions de botanique
+          + Phytosociologie
+          + Tous les projets
+     * Partenaires
+          + Accompagnement de projets
+          + Notre savoir-faire
+     * Données
+          + Qualification
+          + Téléchargements
+     * Pratique
+          + Cartographies
+          + Offres d’emploi
+          + Faites un don
+          + Presse
+
+     * Contact
+     * Mentions légales
+     * Aide en ligne
+
+   BY-SA 4.0
+
+   En poursuivant votre navigation sur tela-botanica.org, vous acceptez le
+   dépôt de cookies sur votre terminal et l'utilisation de ceux-ci à des
+   fins statistiques.
+   (BUTTON) J'accepteEn savoir plus

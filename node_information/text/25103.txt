@@ -1,0 +1,671 @@
+   #Colorlib Feed Colorlib Comments Feed
+
+   Skip to main content
+
+   (BUTTON) Toggle navigation Colorlib
+
+     * Blog
+     * Free Themes
+     * WP Theme
+     * Website Templates
+     * Support
+
+     *
+     *
+
+   Colorlib logo
+
+   We change everything WordPress.
+   One WP theme at a time.
+
+Free WordPress Themes
+
+   We are excited to be part of the WordPress community and looking to
+   make contribution by releasing
+   free WordPress themes for everyone to use. Other themes can be found
+   here.
+     __________________________________________________________________
+
+   Shapely - Free One Page WordPress Theme
+
+Shapely
+
+   Shapely is a nature inspired One Page WordPress theme ready to take any
+   website to the next level.
+   Illdy - Creative One Page Theme
+
+Illdy
+
+   Illdy is a beautiful One Page WordPress theme best suited for business
+   and landing page style websites.
+   Activello - Creative WordPress Blog Theme
+
+Activello
+
+   Minimal and highly flexible multipurpose WordPress blog theme based on
+   Bootstrap and WordPress Theme Customizer
+   Sparkling - Flat WordPress Business Theme
+
+Sparkling
+
+   Highly customizable Bootstrap powered WordPress theme well suited for
+   blogs, business, portfolio and travel websites
+   Dazzling - Simple Flat Design Business Theme
+
+Dazzling
+
+   Clean, modern and responsive WordPress theme with fullscreen content
+   slider, dozens of options well suited for corporate websites
+   Travelify - Awesome Travel Theme
+
+Travelify
+
+   Clean, flexible and stunning WordPress theme designed for travel
+   websites, blogs and corporate websites
+   Unite - Free Wedding Theme for WordPress
+
+Unite
+
+   Stunning, clean and customizable WordPress wedding theme developed
+   using Bootstrap 3.
+   Pinbin - Free Grid WordPress Theme
+
+Pinbin
+
+   WordPress Portfolio theme designed with image-first approach. Well
+   suited for freelancers, agencies, artists and everyone looking to
+   showcase their work and images
+
+   Looking for more customizable WordPress Themes?
+   you might want to have a look at these
+
+Simplicity. Performance. Perfection.
+
+   Simple, responsive, clean and fast loading WordPress themes for
+   everyone.
+   Highly customizable functionality and design to create website you have
+   always wanted.
+     __________________________________________________________________
+
+Highly Customizable
+
+   All our themes have dozens of Theme Options to get the most out of
+   them. You won't need to touch a code to create a website you have
+   always wanted.
+
+Clean Code
+
+   Our themes have the best coding standards in place and they are
+   reviewed by WordPress experts. We promise performance, simplicity and
+   error free experience.
+
+Well Documented
+
+   All our themes come with detailed documentation that will get you
+   started in no time. If you happen to get stuck, we have support forum
+   to get additional help with theme setup.
+
+From Our Blog
+
+   Here are the latest posts on web design, graphic design, development
+   and WordPress
+     __________________________________________________________________
+
+   Top 18 Cutting-edge Admin Panel Templates 2019
+   Posted on Monday November 18, 2019
+
+   Looking to build a SaaS or web app and need an admin pane? These simple
+   admin panel templates are...
+
+   25 Hands Down The Best Magento Technology Themes 2019
+   Posted on Monday November 18, 2019
+
+   Building a tech-oriented online store with the best Magento technology
+   themes is easy as pie. You...
+
+   WordPress Gutenberg tutorial on how to create a custom website using
+   blocks
+   Posted on Monday November 18, 2019
+
+   This is a WordPress Gutenberg tutorial written by web developers who
+   have significant experience...
+
+How to Start a Blog From Scratch – A Comprehensive Guide
+
+   Unless you’ve been hiding under a rock for the past decade or so,
+   you’ve probably noticed the sudden increase in blogging websites.
+
+   Regardless of the nature of your business, setting up a web presence is
+   more important than ever before. And once you’ve got your website in
+   place, you’ll need a blog to go with it – after all, blogging is
+   perhaps one of the most powerful tools you can leverage to boost sales,
+   attract new customers and build brand credibility with existing
+   clients.
+
+   With all of this in mind, we’ve decided to put together a comprehensive
+   yet simple-to-follow step by step guide to help you create your very
+   own blog from scratch. In this article, you’ll find everything you need
+   from purchasing a domain name to selecting a hosting provider and
+   installing software to publishing your first blog post.
+
+   Let’s get started building your first blog!
+
+5 Steps to Start a Blog
+
+   Let me start off by saying that you don’t need to be programming
+   literate to follow this practical guide – in fact, you won’t have to
+   write a single line of code. To those of you who shy away from the mere
+   thought of coding (don’t worry; I’m no stranger in that community!) I
+   say “Fear not, for this guide is with you.”
+
+   I’ll walk you through five simple steps to help you launch your blog:
+    1. Choose a Blogging Platform
+    2. Choose Suitable Hosting
+    3. Set Up Your Domain Name and Hosting
+    4. Customize Your Blog
+    5. Add Useful Plugins
+
+   Now that we’ve gotten all of the preliminary details out of the ways,
+   let’s jump right into the tutorial. You’ll have it up and running in
+   the next 15 minutes – I kid you not!
+     __________________________________________________________________
+
+Step 1
+
+Choose a Blogging Platform
+
+   The first thing you’ll have to do is select a content management system
+   (CMS) that will serve as the underlying platform for your blog. Now
+   you’ve probably heard of a few of the major blogging platforms out
+   there – WordPress, Blogger, Joomla, Drupal, etc.
+
+WordPress All The Way
+
+   I’m a huge advocate of WordPress and I wholeheartedly recommend it to
+   anyone who wants to start their own blog. Here are a few simple reasons
+   why:
+     * It’s massive. As of the writing of this article, WordPress powers
+       nearly 74.6 million websites.
+     * It’s absolutely free. WordPress was essentially designed to be an
+       open source project.
+
+     * It’s secure and reliable. The dedicated team of developers behind
+       WordPress, Automattic, is always updating the CMS to ensure maximum
+       safety. If it’s safe enough for NASA, chances are it’s safe enough
+       for you.
+     * It’s scalable. Whether you want to launch a personal blog or are in
+       hopes of a much bigger, CNN-sized site (yes, CNN runs on WordPress,
+       too!), you can rest assured that it’ll operate without any
+       glitches.
+
+   Those of you who are launching their first blog and probably don’t have
+   a ton of potential traffic lined up are far better off opting for
+   WordPress. Aside from the platform-specific benefits the CMS offers,
+   it’ll save you a ton of time, effort, and money.
+
+   Hosting with WordPress is low-cost and installation takes 5 minutes.
+   The best part, however, is and will always be that you don’t need to be
+   exceptionally skilled in a web programming language (or even know the
+   ABC’s of it) to launch and operate a successful WordPress-based blog.
+
+   If you’re convinced that WordPress really is the best CMS out there,
+   let’s move on to the next section.
+     __________________________________________________________________
+
+Step 2
+
+Choose Suitable Hosting
+
+   Now that you’ve made the right decision in choosing WordPress as your
+   CMS, there’s just one more choice to make – choosing a type of hosting
+   provider.
+
+   The decision you make at this stage will have a colossal effect on the
+   outcome of your blog. You can choose to fork out a couple of dollars
+   every month for self-hosting or go for a free alternative instead. And
+   although the latter sounds absolutely incredible, that’s not the
+   direction you’ll want to head in.
+
+Why You Should Avoid Free Blog Sites
+
+   With free blogging platforms (non-hosted platforms) the disadvantages
+   always outnumber the advantages. Always. For starters, you get a
+   terrible domain name – something like
+   ‘myblog.freebloggingplatform.com’. Your blog’s domain name has a
+   significant impact on SEO and social media marketing so if you want
+   your blog to really take off and be discoverable then you’ll want to go
+   with a self-hosting.
+
+   A .com extension is the standard norm and nearly 75% of all websites
+   have it. I’m not saying it’s impossible to attract millions of unique
+   monthly page views with a .freebloggingplatform.com extension but how
+   many successful bloggers (or any successful site for that matter) do
+   you know by that domain name extension?
+
+     “Brand is the sum total of how someone perceives a particular
+     organization.”
+
+   You want a web address that rolls off the tongue easily. One that
+   people will remember. One that tactfully illustrates your brand and
+   communicates what your blog is all about in a concise yet relevant set
+   of characters.
+
+Disadvantages of Non-Hosted Blogging Platforms
+
+     * URL Problem. Your blog’s URL will be long, unappealing, and
+       unprofessional.
+     * No Real Ownership. Since you’re not paying for hosting, your blog
+       won’t actually be your blog – it’s hosted on someone else’s web
+       property. This means that they can delete it whenever they want.
+     * Other Restrictions. Free blogging platforms don’t let you do all
+       the cool stuff like monetize your blog, use themes, or install
+       plugins. Worst of all, your site’s space on the server is limited
+       which means you can’t even upload all of the images and videos you
+       were hoping would attract traffic.
+
+   These are factors that most of us simply can’t afford to compromise on.
+   They are essential to the timely success of our blog and we’re willing
+   to spend a few bucks for it.
+
+   Luckily enough for you, I’ve worked out the most optimal and
+   cost-efficient solution after carefully analyzing the hosting industry.
+   (It’s a difficult and confusing world to navigate through.) Long story
+   short: Bluehost is the winner.
+
+Why Bluehost Is Best
+
+   Bluehost offers everything from shared hosting to optimized hosting for
+   WordPress at a reasonable price. Being a first-time webmaster, it’s
+   best to go for shared hosting. The rest of them are advanced hosting
+   services and more suitable for bigger blogs. You won’t need the kind of
+   functionality they offer right away and when you feel like you do, you
+   can always upgrade to another hosting plan.
+
+   Bluehost’s Shared Hosting plan is an ideal candidate for several
+   reasons:
+    1. WordPress users get a special discount price at $3.49/month.
+    2. You’ll get a free domain name.
+    3. 1-click WordPress install.
+    4. 24/7 support.
+    5. 30-day money back guarantee.
+
+   It stands to reason that WordPress and Bluehost go hand in hand — the
+   best CMS paired with an affordable and reliable hosting provider. In
+   the next section, we’ll walk you through a simple procedure to set up
+   your domain name and hosting service with Bluehost.
+     __________________________________________________________________
+
+Step 3
+
+Set Up Your Domain Name and Hosting
+
+   Click here to visit the Bluehost homepage to begin setting up your
+   first blog. We'll receive a commission if you decided to purchase
+   through these links.
+
+   1. On the Bluehost homepage, you’ll find products in the menu bar.
+   Hover over it and click on shared hosting.
+   Bluehost's products menu.
+
+   Select shared hosting from the products menu.
+
+   2. You will be redirected to a page that gives you a brief overview of
+   Bluehost’s shared hosting plan. Click on the green get started now
+   button to proceed with the setup.
+   Get started now button.
+
+   Get started with shared hosting.
+
+   3. Select your preferred shared hosting plan. We recommend you go with
+   the basic plan for now.
+   Bluehost's pricing table.
+
+   Select the basic shared hosting plan.
+
+   4. The next page prompts you to select a domain name and domain name
+   extension for your blog — the fun (sometimes frustrating) part of the
+   whole experience. Click next once you’re done.
+   Domain name.
+
+   Enter a domain name.
+
+   5. Once you select a domain name that you like and is available, you’ll
+   see a verification message on the next page notifying you that the
+   domain is available and you can advance to the next step.
+
+   6. On the same page, you’ll see an account information form that
+   requires you to fill out your personal details.
+   Bluehost form.
+
+   Fill in your account information.
+
+   7. Once you’ve filled out your account information details, you’ll be
+   prompted to select/deselect options for your package in the package
+   information form.
+   Package information form.
+
+   Tick all the features you’d like to opt for.
+
+   Let’s quickly review the options you can select to enhance the
+   functionality and security of your brand new blogging site:
+     * Constant Contact. Constant Contact is one of the best tools to
+       connect with your audience without hassle. It allows you to create,
+       send, and track emails and newsletters to your readership. This
+       isn’t mandatory, but if you think that you’ll be sending emails to
+       your subscribers regularly then go for it!
+     * Domain Privacy Protection. A domain name’s whois information is
+       available for anyone to acquire on the Internet. Most of the time,
+       marketing companies leverage this information and send a ton of
+       unwanted solicitations your way. By selecting this option, the only
+       visible information will be Bluehost thus preventing your whois
+       information from being publicly available.
+     * Site Backup Pro. This feature takes automatic backups of your blog
+       regularly. I would strongly recommend that you leave this box
+       ticked. Choosing to opt out would mean that you’d have to take
+       manual backups using a plugin.
+     * Search Engine Jumpstart. Since you’re just starting out with your
+       blog, you can leave this box un-ticked. There’s no reason to start
+       worrying about search engines just yet.
+     * SiteLock Security — Find. This feature isn’t compulsory but it adds
+       an additional layer of security to your blogging site. Check out
+       the features it offers to determine if it’s right for you.
+
+   Leaving the default options as they are is perfectly fine, too.
+
+   8. The billing information form requires you to fill in your credit
+   card number to complete the transaction.
+    1. Bluehost accepts Visa, MasterCard, Discover, and American Express.
+    2. Clicking on the More payment options link enables you to pay
+       through your PayPal account.
+
+   Billing information form.
+
+   Enter your credit card information to complete the transaction.
+    1. Once you’ve filled in your billing information, tick I confirm I
+       have read and agree to the Terms of Service… box and click the
+       submit button.
+
+   Submit button to complete transaction.
+
+   Click the submit button once you’ve filled out the forms.
+
+   By now your hosting service and domain name are paid for. In the
+   following steps, we’ll login to the Bluehost cPanel and use its 1-click
+   WordPress install feature to install the CMS to our blog site.
+
+   9. Using the login details emailed to you by Bluehost, sign in to the
+   Bluehost cPanel.
+
+   10. Under the website section on the homepage, click the Install
+   WordPress button.
+   Bluehost's cPanel.
+
+   1-click WordPress install in Bluehost’s cPanel.
+
+   11. You will be redirected to a new page with information about
+   WordPress. Click the green Install button to continue with the
+   installation.
+   Green install button to complete WordPress installation.
+
+   Click Install to proceed.
+
+   12. On the next screen, select your newly registered domain name (it
+   should be selected by default) to let the system know which directory
+   you’d like to install WordPress to. Click Check Domain once you’re
+   done.
+   Selecting installation folder.
+
+   Select your blog’s domain name from the drop-down menu.
+
+   13. All that’s left is to enter your site’s name, your admin username,
+   and a password in the next screen and you’re good to go! Click Install
+   Now after filling out the form.
+   Install button to initiate WordPress installation.
+
+   Click Install!
+
+   Note: Be sure to save your admin username and password in a text file.
+   You’ll login to your blog using these credentials.
+
+   Congratulations! By now you’ve successfully:
+     * Registered a domain name.
+     * Purchased web hosting for your blog.
+     * Installed WordPress to your blog.
+
+   14. Login to your blog site by clicking on the Admin URL that looks
+   something like http://myblogname.com/wp-admin.
+   WordPress Dashboard.
+
+   Your WordPress Dashboard should look something like this.
+     __________________________________________________________________
+
+Step 4
+
+Customize Your Blog
+
+   In this section, I’ll introduce you to the WordPress Dashboard and help
+   you install a theme to increase your blog’s visual appeal.
+
+An Introduction to the WordPress Dashboard
+
+   The WordPress Dashboard can be quite overwhelming for first-time users
+   but I promise you’ll get used to it sooner than you think. For the
+   purpose of this post, I’ll cover the following items:
+     * Activating a Theme
+     * Writing Your First Post
+     * Exploring the Media Library
+     * Adding a User
+
+   Sounds good? Let’s get started.
+
+Activating a Theme
+
+   We’ll start out by installing and activating a WordPress theme to our
+   blog. By default, WordPress has its default theme activated (Twenty
+   Sixteen as of this writing). We’re going to change the default theme to
+   a more sophisticated and contemporary theme designed specifically for
+   blogging sites. Enter Activello.
+
+   Activello is a simple, multipurpose blog theme for WordPress designed
+   by our exceptionally talented team. It’s got all the right features to
+   get you started with a professional and modern-looking blog. Best of
+   all it’s free! You can download it from here.
+   Install Activello theme
+
+   Upload the theme’s .zip file and click Install Now.
+    1. From your WordPress Dashboard, hover over the Appearance menu item
+       and click on Themes in the sub-menu. (Appearance > Themes)
+    2. Once you’re at the Themes window, click the Add New button at the
+       top
+    3. Click the Upload Theme button and upload the theme’s .zip file.
+    4. Once it’s uploaded, click Install Now.
+    5. You will be redirected to a screen that notifies you of the status
+       of the installation. Click the Activate link once the theme is
+       successfully installed.
+
+   You can leave it be or tweak it if you’d like to change a design aspect
+   by navigating to Appearance > Customize. If you’re thinking of setting
+   up a niche-specific blog then be sure to check out our complete
+   collection of WordPress themes.
+
+Writing Your First Post
+
+   As a blogger, you’ll be writing a ton of posts so it’s important that
+   you pay attention to this section to get the basics down.
+   Adding a post.
+
+   Post-ception!
+    1. Hover over the Posts menu item and click Add New. (Posts > Add New)
+    2. You’ll be redirected to the Add New Post screen which looks
+       something like this:
+    3. Add a suitable title in the text box that says Enter title here.
+    4. In the big text editor below, add your post’s content. You’ll find
+       that there’s a handy dandy toolbar embedded inside to help you
+       format your post.
+    5. Click the Publish button once you’re done.
+
+   Voila! The post is published to your blog and everyone can see it now.
+   How easy was that?
+
+Exploring the Media Library
+
+   The WordPress Media Library is a powerful tool that you can leverage to
+   handle practically all of your media management. It stores all media
+   files (images, videos, audio, and documents) that you upload to your
+   WordPress blog regardless of whether it’s published or not.
+   WordPress Media Library.
+
+   The powerful Media Library.
+    1. Click the Media menu item from the WordPress Dashboard.
+    2. You will be redirected to the Media Library screen from where you
+       can manage all of your media files.
+    3. Click the Add New button at the top of the screen.
+    4. Select a media item from your drive and upload it.
+    5. The media item will be added to your Media Library and you can
+       embed it in posts and pages now.
+
+   The Media Library also lets you edit images from within WordPress —
+   cropping, resizing, scaling – you name it. A blog post isn’t complete
+   without a few relevant images to go with it!
+
+Adding a User
+
+   Seeing that you’re a dedicated blogger and are in high hopes of taking
+   your blogging site to better frontiers (after all, you have made it
+   this far down the post), there will come a time when you’ll need some
+   outside help or in other words, you’ll want to outsource some of your
+   work.
+
+   Whether it’s to manage the technical side of your website or to add a
+   few regular authors to your team, the best way to go about it is to add
+   user accounts. WordPress enables admins to add users to their site
+   which allows them restricted access to the blog’s back end (depending
+   upon the user’s role).
+   Add New User form.
+
+   Fill out the Add New User form and select a user role.
+    1. On the WordPress Dashboard, hover over Users and click Add New.
+       (Users > Add New)
+    2. The Add New User screen will appear and you will be prompted to add
+       some personal details of the user you intend to add.
+    3. Once you’ve filled out the details, select a user role from the
+       drop-down menu e.g. Admin, Author, Editor, etc.
+    4. Click Add New User.
+
+   Your new user will be added to your site and they’ll receive an
+   automated email containing their login information.
+     __________________________________________________________________
+
+Step 5
+
+Add Useful Plugins
+
+   Want to add a new feature to your blog? There’s a plugin for that!
+   Plugins are ways to extend and add to the functionality that already
+   exists in WordPress.
+
+   Plugins can be thought of as tiny apps that enhance your blog’s
+   functionality. WordPress has a ton of plugins, both free and premium,
+   for you to select from. In fact, there’s a whole official WordPress
+   Repository full of freebies that you should definitely check out.
+
+How to Add Plugins
+
+   Adding plugins to your WordPress blog is quite simple.
+   Add New Plugin screen.
+
+   Adding plugins to enhance functionality.
+    1. Navigate to the WordPress Dashboard, hover over the Plugins menu
+       item and click Add New. (Plugins > Add New)
+    2. On the Add Plugins screen, you’ll find that you can upload plugins
+       or search for free plugins using the search box located in the
+       top-right corner of the screen.
+    3. Once you’ve selected a plugin to install, click the Install Now
+       button.
+    4. Activate the plugin after it’s been installed.
+
+   Installing plugins is quite unchallenging and after tinkering with
+   their settings you can start using them immediately.
+
+A Word to the Wise
+
+   Take it from a plugin hoarder, it’s very easy to become addicted to
+   installing and storing plugins to your blog site. I mean they’re so
+   cool and there’s so many of them and they do so many cool things.
+
+   One thing you need to remember is that you don’t have unlimited space
+   on your server. Now 50 GB is more than enough to get your blog off the
+   ground but it’s not enough for you to store hundreds of activated
+   plugins on. I strongly suggest that you evaluate your blog’s needs and
+   make a list of the most essential plugins it requires to deliver value
+   to your readership.
+
+   Instead of getting labeled as a plugin hoarder like me, thoroughly
+   assess your desire every time you get the itch to install a new plugin.
+   Believe me, it’ll save you a ton of space and your blog won’t slow
+   down.
+
+Some Essential Plugins
+
+   Having said all of that, there are some plugins that you should install
+   without question.
+     * A contact form plugin — Contact Form 7 and Gravity Forms both work
+       great.
+     * A caching plugin — I’d recommend W3 Total Cache; it’s blazing fast!
+     * An SEO plugin — Yoast SEO is hands down the best SEO plugin. There
+       really is no competition.
+     * Kiwi Social Sharing WordPress Plugin — Kiwi gives you tons of
+       options and it’s super easy to use.
+     * The Jetpack plugin — you can activate / deactivate its modules as
+       per your requirement.
+
+   Without a doubt, these plugins are essential to running a successful
+   blog and you can install most of them free of charge. Fore more useful
+   pluguins you can read our essential WordPress plugin guide.
+
+Wrapping It Up
+
+   There’s definitely a lot more to blogging than what this guide covers.
+   Hopefully, we’ve provided you with enough information to get started
+   with setting up your very own WordPress blog from scratch. We encourage
+   you to explore WordPress further and leverage the powerful content
+   management system to its full potential.
+
+   Did this guide help you set up your WordPress blog? Would you be
+   interested in a detailed guide to getting started with blogging in
+   WordPress? If you have any questions or need help with a step, please
+   don’t hesitate to ask us in the comments section below!
+
+   If this tutorials wasn't enough to launch your first blog you might
+   also read our other website setup guide which you can find here.
+
+   If you are having problems with website setup, feel free to use our
+   support forum.
+
+   Tutorial last updated: November 9, 2018
+     __________________________________________________________________
+
+Subscribe For More!
+
+   If you want to be the first to find out more about our colorful
+   WordPress themes,
+   please subscribe to our newsletter
+     __________________________________________________________________
+
+   ____________________
+   ____________________
+   Subscribe
+
+     * Follow @colorlib
+     * Tweet
+
+     * About
+     * WordPress Themes
+     * Contact us
+     * Support Forum
+     * Bootstrap Templates
+     * Privacy Policy
+     * Disclaimer
+
+   Copyright © 2013-2019 Colorlib
+   Proudly Made in Latvia

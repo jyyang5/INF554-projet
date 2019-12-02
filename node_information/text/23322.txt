@@ -1,0 +1,146 @@
+   #RSS 2.0
+
+   Sublime Text
+
+   Download Buy Support News Forum
+
+   Introducing our Git client
+   [merge_icon.svg] Sublime Merge [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   A sophisticated text editor for
+   code, markup and prose
+   Download for Windows Download for Windows Install for Linux Download
+   for Mac
+   Sublime Text 3 (Build 3211)
+   Changelog
+
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+   Use Multiple Selections to rename variables quickly Here Ctrl+D⌘+D is
+   used to select the next occurrence of the current word. Once created,
+   each selection allows for full-featured editing.
+   Quickly jump to files and functions with Goto Anything Here Ctrl+P⌘+P
+   is used to open the Goto Anything menu, xcc is used to select the file
+   xla_compilation_cache.cc, @ switches to symbol mode, and :c selects the
+   XlaCompilationCache::Compile method.
+   Navigate source using Goto Definition Here the mouse is hovered over a
+   symbol to jump to the definition. The keyboard shortcut F12 can be used
+   when the caret is located on a symbol, or Goto Symbol in Project can be
+   opened via Ctrl+Shift+R⇧+⌘+R to jump to the definition of any symbol in
+   the project.
+   Unsurpassed performance Here a 7MB source code file is opened, and Goto
+   Symbol Ctrl+R⌘+R is used to jump to a function 200k lines down. Full
+   editing features are retained for code in large files, or with complex
+   syntax.
+
+Some features our users love:
+
+Goto Anything
+
+   Use Goto Anything to open files with only a few keystrokes, and
+   instantly jump to symbols, lines or words.
+
+   Triggered with Ctrl+P⌘+P, it is possible to:
+     * Type part of a file name to open it.
+     * Type @ to jump to symbols, # to search within the file, and : to go
+       to a line number.
+
+   These shortcuts can be combined, so tp@rf may take you to a function
+   read_file within a file text_parser.py. Similarly, tp:100 would take
+   you to line 100 of the same file.
+
+Goto Definition
+
+   Using information from syntax definitions, Sublime Text automatically
+   generates a project-wide index of every class, method and function.
+   This index powers Goto Definition, which is exposed in three different
+   ways:
+     * A popup is displayed when hovering over a symbol
+     * Pressing F12 when the caret is on a symbol
+     * The Goto Symbol in Project functionality
+
+   Symbol indexing can be customized on a per-syntax basis via
+   configuration files, allowing users to tailor the feature to their
+   needs.
+
+Multiple Selections
+
+   Make ten changes at the same time, not one change ten times. Multiple
+   selections allow you to interactively change many lines at once, rename
+   variables with ease, and manipulate files faster than ever.
+
+   Try pressing Ctrl+Shift+L⇧+⌘+L to split the selection into lines and
+   Ctrl+D⌘+D to select the next occurrence of the selected word. To make
+   multiple selections with the mouse, take a look at the Column Selection
+   documentation.
+
+Command Palette
+
+   The Command Palette holds infrequently used functionality, like
+   sorting, changing the syntax and changing the indentation settings.
+   With just a few keystrokes, you can search for what you want, without
+   ever having to navigate through the menus or remember obscure key
+   bindings.
+
+   Show the Command Palette with Ctrl+Shift+P⇧+⌘+P.
+
+Powerful API and Package Ecosystem
+
+   Sublime Text has a powerful, Python API that allows plugins to augment
+   built-in functionality.
+
+   Package Control can be installed via the command palette, providing
+   simple access to thousands of packages built by the community.
+
+Customize Anything
+
+   Key bindings, menus, snippets, macros, completions and more - just
+   about everything in Sublime Text is customizable with simple JSON
+   files. This system gives you flexibility as settings can be specified
+   on a per-file type and per-project basis.
+
+Split Editing
+
+   Get the most out of your wide screen monitor with split editing
+   support. Edit files side by side, or edit two locations in the one
+   file. You can edit with as many rows and columns as you wish. Take
+   advantage of multiple monitors by editing with multiple windows, and
+   using multiple splits in each window.
+
+   Take a look at the View ▶ Layout menu for split editing options. To
+   open multiple views into the one file, use the File ▶ New View into
+   File menu item.
+
+Instant Project Switch
+
+   Projects in Sublime Text capture the full contents of the workspace,
+   including modified and unsaved files. You can switch between projects
+   in a manner similar to Goto Anything, and the switch is instant, with
+   no save prompts - all your modifications will be restored next time the
+   project is opened.
+
+Performance
+
+   Sublime Text is built from custom components, providing for unmatched
+   responsiveness. From a powerful, custom cross-platform UI toolkit, to
+   an unmatched syntax highlighting engine, Sublime Text sets the bar for
+   performance.
+
+Cross Platform
+
+   Sublime Text is available for Mac, Windows and Linux. One license is
+   all you need to use Sublime Text on every computer you own, no matter
+   what operating system it uses.
+
+   Sublime Text uses a custom UI toolkit, optimized for speed and beauty,
+   while taking advantage of native functionality on each platform.
+
+Sublime HQ Family
+
+Sublime Merge
+
+   Have you seen our sister product, Sublime Merge? It's a Git Client,
+   done the Sublime Text way.
+
+   © Sublime HQ Pty Ltd
+
+   Woollahra, Sydney.

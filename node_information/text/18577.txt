@@ -1,0 +1,1058 @@
+   #TechPowerUp Frontpage News TechPowerup Reviews
+
+   [ ] [ ]
+
+     * Home
+     * Reviews
+     * Forums
+     * Downloads
+     * Case Mod Gallery
+     * Databases [ ]
+          + Databases… Back
+          + VGA Bios Collection
+          + GPU Database
+          + CPU Database
+          + Review Database
+     * Our Software [ ]
+          + Our Software… Back
+          + GPU-Z
+          + RealTemp
+          + NVCleanstall
+          + TPUCapture
+          + MemTest64
+     * More [ ]
+          + More… Back
+          + Articles
+          + Old Stuff
+          + Computer Trivia
+          + TPU Live
+          + Free Image Hosting
+     * Contact Us
+     *
+
+Latest Reviews
+
+   Antec Dark Avenger DA601
+   1st Player Steampunk PS-750SP 750 W
+   Star Wars Jedi: Fallen Order Benchmark Test & Performance
+   V-Color PRISM II RGB DDR4-3600 MHz CL18 2x8 GB
+   CORSAIR iCUE QL RGB Fans
+   MSI Immerse GH30
+   EVGA GeForce GTX 1660 Super SC Ultra
+   EK-Meltemi 120ER Fan
+   Intel Core i9-9900KS
+   Xtrfy M4
+
+Trending Topics
+
+     * Zombieload v2, a new Intel Vulnerability
+     * AMD's new Ryzen 9 3950X, Threadripper & Athlon
+     * AMD RX 5500 & RX 5300 SKUs Listed
+     * NVIDIA Releases GTX 1660 SUPER
+     * Press Release
+       Intel Announces Core i9-9900KS
+     * GTX 1650 SUPER Coming Late November
+
+What do you think?
+
+What's the fastest storage in your PC?
+
+     * (*) NVMe SSD
+     * ( ) SATA SSD
+     * ( ) HDD
+     * ( ) HDD RAID
+
+   [BUTTON Input] (not implemented)__________ Discuss Results
+   Hardware Giveaway
+   News Search: ____________________
+   Tuesday, November 19th 2019
+
+Today's Reviews
+
+   Cases
+     * Cooler Master C700P OverClocked Inside (de)
+     * Lian Li PC-O11D XL ROG HardwareInside.de (de)
+
+   CPU Coolers
+     * Noctua chromax.black NH-D15, NH-12S et NH-L9i Modding.fr (fr)
+     * Silverstone Permafrost PF240 Guru3D
+
+   Graphics Cards
+     * XFX Radeon RX 5700 XT THICC III Ultra Overclockers Club
+     * ASRock Radeon RX 5700 XT Taichi 8G OC+ Tech-Legend
+     * MSI GeForce RTX 2070 Super Ventus OC i2Hard (ru)
+
+   Headphones
+     * Corsair Void RGB Elite Wireless KitGuru
+
+   Memory
+     * G.Skill Trident Z Neo 32GB DDR4-3600 CL16 HardwareCooking (fr)
+
+   Motherboards
+     * ASUS ROG Crosshair VIII Impact HardwareCooking (fr)
+     * ASUS TUF X570 Plus Gaming GreenTech Reviews (ru)
+
+   Mouse
+     * Cherry Gentix 4K HardwareCooking (fr)
+     * Roccat Kain 120 AIMO OCC
+
+   Processors
+     * AMD Ryzen 9 3950X on Various B450 Motherboards TechSpot
+
+   Storage
+     * WD Black D10 Game Drive for Xbox 12TB Tweaktown
+
+PowerColor Launches the Radeon RX 5700 XT Liquid Devil Graphics Card
+
+   Press Release by
+
+
+    btarunr
+
+   Today, 10:20 Discuss (4 Comments)
+   TUL Corporation, a leading manufacturer of AMD graphic cards since
+   1997, brings out a Navi first with a water cooled RX 5700 XT, the
+   Liquid Devil. A long term AMD partner, PowerColor was one of the
+   original adopters of factory overclocked graphics cards and was the
+   first AMD partner to manufacture a graphics cards with premium
+   performance water blocks. PowerColor once again partner with the liquid
+   cooling industry leader EK to customize a uniquely designed water block
+   for its custom RX 5700 XT for unmatched thermals and performance.
+   Featuring a nickel plated copper base, the Liquid Devil provides the
+   better heat transfer capabilities of copper with the corrosion
+   protection of the nickel, with the added bonus of making for a clean
+   and sleek aesthetic. In order to maximize the potential of the
+   PowerColor Liquid Devil, only the best 5700 XT GPUs which have been
+   binned specifically for lower temperature and higher clock speeds have
+   been selected for use, making sure that all Liquid Devil cards are the
+   able to hit the highest performance points.
+   Read full story
+
+BIOSTAR Rolls Out M700 Series M.2 NVMe SSDs
+
+   by
+
+
+    btarunr
+
+   Today, 09:42 Discuss (2 Comments)
+   BIOSTAR today rolled out the M700 line of SSDs in the M.2-2280
+   form-factor with PCI-Express 3.0 x4 interface, taking advantage of the
+   NVMe 1.3 protocol. The drive combines a Silicon Motion SM2263XT
+   DRAM-less controller with 3D NAND flash, and comes in 256 GB and 512 GB
+   capacities. The 256 GB model offers sequential transfer speeds of up to
+   1,850 MB/s reads with up to 950 MB/s writes, while the 512 GB model
+   offers up to 2,000 MB/s reads, with up to 1,600 MB/s writes. The
+   controller features native AES 256-bit encryption. The company didn't
+   reveal pricing.
+
+MSI Unveils Comet Lake Powered Cubi 5 10M Mini-PC
+
+   by
+
+
+    btarunr
+
+   Today, 08:17 Discuss (3 Comments)
+   MSI updated its Cubi line of NUC-like mini-PCs with the new Cubi 5 10M,
+   powered by 10th generation Core "Comet Lake" mobile processors.
+   Measuring 124 mm x 124 mm X 53.7 mm (WxDxH), and weighing 550 g
+   (excluding the power-brick), the Cubi 5 10M is powered by a Core i7
+   "Comet Lake-U" SoC (either i7-10510U quad-core or i7-10710U six-core),
+   with its integrated UHD Graphics putting out pixels. Two DDR4 SO-DIMM
+   slots let you drop in up to 64 GB of dual-channel memory, while your
+   storage options are an M.2-2280 slot with both PCI-Express 3.0 x4 and
+   SATA 6 Gbps wiring, and a 2.5-inch drive bay with SATA 6 Gbps.
+   Connectivity includes USB 3.2 gen 1 type-C and type-A ports along the
+   front panel, next to the audio jacks; additional type-A gen 1 ports at
+   the rear; DisplayPort and HDMI making up the display outputs; a gigabit
+   Ethernet interface driven by an Intel i219-V controller, and Intel
+   AX201 WLAN card that provides 802.11ax and Bluetooth 5.0. The company
+   didn't reveal pricing.
+
+VIA CenTaur Develops a Multi-core x86 Processor for Enterprise with in-built
+AI Hardware
+
+   by
+
+
+    btarunr
+
+   Today, 04:10 Discuss (9 Comments)
+   Tasting Intel's blood in the water with AMD's return to
+   competitiveness, dormant x86 licensee VIA wants to take another swing
+   at the market, this time with a multi-core processor targeted at
+   enterprises and possibly workstations, developed by its subsidiary
+   CenTaur. The company appears to want to cash in on the AI boom, and
+   could develop turnkey facial-recognition CCTV solutions with the chip.
+   CenTaur is ready with a working prototype. It features eight 64-bit x86
+   CPU cores, and an on-die "AI co-processor" named NCORE. A ringbus
+   connects the eight CPU cores and the NCORE with the processor's other
+   components. The processor features 16 MB of shared L3 cache, a
+   quad-channel DDR4-3200 memory interface, and a 44-lane PCI-Express gen
+   3.0 root-complex, along with a fully integrated southbridge, making it
+   an SoC. It also appears to be multi-socket capable, although VIA didn't
+   detail the interconnect in use.
+   The NCORE is a PCI-mapped device to the software, which provides
+   functions such as DNN building and training acceleration. From the
+   looks of it, there's more to NCORE than simply a fixed-function
+   hardware that multiplies matrices. Its developers state that the device
+   accelerates AI at a rate of "20 trillion AI operations/sec with 20
+   terabytes/sec memory bandwidth." The CPU cores on the processor tick at
+   2.50 GHz, and while VIA hasn't made any IPC claims, it has mentioned
+   support for the cutting-edge AVX-512 instruction-set, something even
+   "Zen 2" lacks, which possibly indicates a powerful FPU. The silicon
+   measures 195 mm², and has been built on 16 nm FinFET node at TSMC. VIA
+   will demonstrate the unnamed processor and its testbed at ISC East
+   2019, held on November 20 and 21.
+   The full technology announcement slide-deck follows.
+   Read full story
+
+AMD Releases Radeon Software Adrenalin 19.11.3
+
+   by
+
+
+    btarunr
+
+   Today, 01:51 Discuss (1 Comment)
+   AMD late Monday posted Radeon Software Adrenalin 19.11.3 beta graphics
+   drivers. The drivers add optimization for "Fortnite" in DirectX 12 mode
+   introduced through patch v11.20, which is the only item in the
+   change-log. Besides this, the company has acknowledged just like in the
+   19.11.2 changelog, that it's firefighting the issue of intermittent
+   display signal loss when gaming with Radeon RX 5700-series graphics
+   cards. Grab the driver from the link below.
+   DOWNLOAD: AMD Radeon Software Adrenalin 19.11.3
+   Monday, November 18th 2019
+
+Today's Files
+
+     * TechPowerUp GPU-Z v2.27.0
+     * AMD Radeon Software Adrenalin 2019 19.11.3 Beta
+
+Today's Reviews
+
+   Cases
+     * Antec Dark Avenger DA601 TechPowerUp
+     * Cooler Master MasterCase H100 OverClocked Inside (de)
+     * Corsair Void Elite RGB Wireless Basic Tutorials (de)
+     * Corsair 110R Tempered Glass HardwareInside.de (de)
+     * Lian Li O11 Dynamic XL ASUS ROG Edition Basic Tutorials (de)
+
+   CPU Coolers
+     * Noctua NH-L9i Chromax Black Glob3trotters
+     * SilverStone PF360-ARGB Cowcotland (fr)
+     * SilverStone PF120-ARGB OC Club (ru)
+
+   Desktop PC
+     * OnLogic Karbon 700 IPC Phoronix
+
+   Headphones
+     * MSI Immerse GH50 Basic Tutorials (de)
+
+   Keyboards
+     * HyperX Alloy Origins OC Club (ru)
+     * SteelSeries Apex Pro Madshrimps
+     * SteelSeries Apex Pro NikkTech
+
+   Monitors
+     * ASUS TUF Gaming VG27AQ KitGuru
+     * LG Ultragear 34GK950F-B HardwareInside.de (de)
+
+   Motherboards
+     * MSI MEG X570 GODLIKE HardwareInside.de (de)
+
+   Mouse
+     * Cougar Surpassion RX Wireless Funkykit
+     * Dream Machines DM1 FPS MacFay Hardware (fr)
+
+   Processors
+     * Intel Core i9-9900KS Guru3D
+
+   PSUs
+     * 1st Player Steampunk PS-750SP 750 W TechPowerUp
+
+   Speakers
+     * Creative T100 Compact HiFi 2.0 Madshrimps
+
+   SSD
+     * Crucial X8 1TB External APH Networks
+     * MyDigitalSSD SBXe 480GB Tweaktown
+     * Team T-Force Cardea Zero Z440 1TB Tweaktown
+
+   1st Player Steampunk PS-750SP 750 W
+
+1st Player Steampunk PS-750SP 750 W
+
+   Review Power Supplies
+   The Steampunk PS-750SP performs decently overall, despite the strange
+   name. Efficiency is good, and the warranty is generous at seven years.
+   Priced around $90 we take a closer look to see if it can challenge the
+   offerings from EVGA, Seasonic and Corsair.
+   Read Review
+
+   Antec Dark Avenger DA601
+
+Antec Dark Avenger DA601
+
+   Review Cases
+   Antec launches their new Dark Avenger line of cases with the DA601
+   clearly geared towards gamers and enthusiasts who like flashy designs
+   with RGB elements built right into the body, all without breaking the
+   bank.
+   Read Review
+
+A VGA Stand with RGB LED and Power Routing, Courtesy DeepCool
+
+   by
+
+
+    btarunr
+
+   Yesterday, 15:28 Discuss (28 Comments)
+   DeepCool rolled out the GH-01, a graphics card reinforcement stand that
+   you install inside your tower-type case, to minimize PCB bending over
+   time (a vastly exaggerated phenomenon). But wait, it does more: the
+   stand has an RGB LED embellishment along its length, and has space to
+   route your graphics card's power cables. Up to two 8-pin PCIe power
+   cables can be routed. You use a thumb-screw and notches to adjust the
+   GH-01's VGA support height from 47.2 mm to 154 mm. The stand itself
+   measures 52.6 mm x 60.6 mm x 163.73 mm (WxDxH). It can bear a load of
+   up to 5 kg. There are two sub-variants of the GH-01 based on the
+   illumination type. The GH-01 RGB uses old-school RGB lighting through
+   12 V 4-pin RGB control. The GH-01 LED, on the other hand, uses more
+   modern 5 V addressable-RGB over a 3-pin connector. The company didn't
+   reveal pricing.
+
+HP Rejects Acquisition Offer from Xerox
+
+   by
+
+
+    AleksandarK
+
+   Yesterday, 15:15 Discuss (23 Comments)
+   On Sunday, HP Inc. released a letter from its board of directors
+   stating that it rejects acquisition offer from Xerox Corporation
+   pointing out that: "We have great confidence in our strategy and our
+   ability to execute to continue driving sustainable long-term value at
+   HP. In addition, the Board and management team continue to take actions
+   to enhance shareholder value including the deployment of our strong
+   balance sheet for increased repurchases of our significantly
+   undervalued stock and for value-creating M&A."
+   This decision shows a strong will from the folks over at HP to continue
+   their business in the way they usually done for many years.
+   Additionally, HP stated the following: "We recognize the potential
+   benefits of consolidation, and we are open to exploring whether there
+   is value to be created for HP shareholders through a potential
+   combination with Xerox. However, as we have previously shared in
+   connection with our prior requests for diligence, we have fundamental
+   questions that need to be addressed in our diligence of Xerox. We note
+   the decline of Xerox's revenue from $10.2 billion to $9.2 billion (on a
+   trailing 12-month basis) since June 2018, which raises significant
+   questions for us regarding the trajectory of your business and future
+   prospects.", showing the downsides of the potential merger and
+   questioning abilities of Xerox to manage two companies.
+
+TechPowerUp GPU-Z v2.27.0 Released
+
+   by
+
+
+    btarunr
+
+   Yesterday, 12:57 Discuss (0 Comments)
+   TechPowerUp today released the latest version of GPU-Z, the popular
+   standalone graphics sub-system information, diagnostic, and monitoring
+   utility. The new version 2.27.0 adds support for a few new GPUs, and
+   fixes certain bugs, and improves the user experience. To begin with,
+   we've added support for NVIDIA GeForce GTX 1660 Super, TX 1650 Max-Q,
+   GeForce 945A, Tesla V100-SXM2-16 GB, Tesla P4, and Tesla K8; AMD Radeon
+   Pro Vega 48 and FirePro A300.
+   The Advanced tab now shows PCI device location of your graphics
+   processor. An application crash on old CPUs that lack SSE has been
+   fixed. EVGA ICX fan-speed reporting for RTX 20-series graphics cards
+   has been fixed. A sensor error with AMD CrossFire setups has been
+   fixed. Default clock speed reporting on NVIDIA GPUs has been improved,
+   even with no drivers installed. Memory type reporting has been improved
+   on setups with multiple graphics cards that have different memory types
+   from each other. Grab GPU-Z from the link below.
+   DOWNLOAD: TechPowerUp GPU-Z v2.27.0
+   The change-log follows.
+   Read full story
+
+GoodOffer24 Announces Black Friday Sale on Genuine Software: Lowest Ever
+Prices
+
+   Sponsored by
+
+
+    btarunr
+
+   Yesterday, 12:01
+   This Black Friday, before you head out to gouge on the year's lowest
+   prices on home appliances and electronics, take a bigger wallet with
+   you by spending lesser on genuine, globally-valid software from
+   GoodOffer24. Sure to beat your favorite retail chain, GoodOffer24
+   brings you popular software such as Windows 10 and Office at the year's
+   lowest ever prices. Windows 10 Pro can now be had for as less as USD
+   $10.62, a 92 percent discount over prevalent prices. Office is another
+   piece of software your PC is incomplete without. Get Office 2016
+   Professional Plus for as low as $26.31. The latest and greatest Office
+   2019 Professional Plus is going for $46.10. Find other interesting
+   combos of Windows and Office below to save even more.
+   Apply the discount-code JGBF30 at check-out to avail the prices you see
+   here on the following software:
+   Buy Windows 10 Pro for $10.62 | Buy Windows 10 Enterprise LTSC for
+   $12.40 | Buy Windows 10 Pro (2-pack) for $18.20 | Buy Windows 10 Home
+   for $11.08 | Buy Office 2016 Professional Plus for $26.31 | Buy Office
+   2016 Home and Student 1-user for $22.34 | Buy Windows 10 Pro + Office
+   2016 Professional Bundle for $31.44 | Buy Windows 10 Home + Office 2016
+   Professional Bundle for $27.59
+   Save even more on bundles featuring Office 2019, by applying the coupon
+   code JGBF35 on the following items for the prices you see here:
+   Buy Office 2019 Professional Plus for $46.10 | Buy Office 2019 Home and
+   Student 1-user for $21.52 | Buy Windows 10 Pro + Office 2019
+   Professional for $49.95 | Buy Windows 10 Home + Office 2019
+   Professional Bundle for $48.91
+   Read full story
+
+MATLAB MKL Codepath Tweak Boosts AMD Ryzen MKL Performance Significantly
+
+   by
+
+
+    btarunr
+
+   Yesterday, 10:53 Discuss (48 Comments)
+   MATLAB is a popular math computing environment in use by engineering
+   firms, universities, and other research institutes. Some of its
+   operations can be made to leverage Intel MKL (Math Kernel Library),
+   which is poorly optimized for, and notoriously slow on AMD Ryzen
+   processors. Reddit user Nedflanders1976 devised a way to restore
+   anywhere between 20 to 300 percent performance on Ryzen and Ryzen
+   Threadripper processors, by forcing MATLAB to use advanced
+   instruction-sets such as AVX2. By default, MKL queries your processor's
+   vendor ID string, and if it sees anything other than "GenuineIntel...,"
+   it falls back to SSE, posing a significant performance disadvantage to
+   "AuthenticAMD" Ryzen processors that have a full IA SSE4, AVX, and AVX2
+   implementation.
+   The tweak, meant to be manually applied by AMD Ryzen users, forces MKL
+   to use AVX2 regardless of the CPU Vendor ID query result. The tweak is
+   as simple as it is powerful. A simple 4-line Windows batch file with a
+   set of arguments starts MKL in AVX2 mode. You can also make the tweak
+   "permanent" by creating a system environment variable. The environment
+   variable will apply to all instances of MATLAB, and not just those
+   spawned by the batch file. Nedflanders1976 also posted a benchmark
+   script that highlights the performance impact of AVX2, however you can
+   use your own scripts and post results.
+
+Silicon Power Unveils Four New Memory Cards
+
+   Press Release by
+
+
+    btarunr
+
+   Yesterday, 09:39 Discuss (1 Comment)
+   The market may be saturated with a number of confusing memory card
+   options, but Silicon Power is releasing a new set of 4 microSD cards
+   that will be sure to meet your expectations, clearly. With each of them
+   geared toward a specific usage, we're making it easy to choose the best
+   card for your needs. So, whether you're a beginner who's just looking
+   to improve your mobile phone performance or a professional who's
+   looking to capture footage in the most stunning 8K Ultra HD quality -
+   or anyone in between - we've got you covered.
+   UHS-II technology introduces blazingly fast read and write speeds up to
+   290 and 160 MB/s, respectively, to fully maximize your time. Capture
+   stunning 8K Ultra HD photos and videos quickly, easily, and with smooth
+   playback. Write raw files in nearly half the time compared to UHS-I.
+   Dramatically accelerate post-production transfers with an appropriate
+   card reader. For professional-level performance that you can trust,
+   this card will have your back.
+   Read full story
+
+Desktop AMD Radeon RX 5300 XT Rears its Head in HP Specs Sheet
+
+   by
+
+
+    btarunr
+
+   Yesterday, 07:32 Discuss (8 Comments)
+   A desktop variant of the AMD Radeon RX 5300 XT graphics card surfaced
+   in a specs sheet of an upcoming HP Pavilion desktop model
+   (TP01-0004ng). The listing describes the RX 5300 XT as featuring 4 GB
+   of GDDR5 memory. This is the first instance of an RX 5300 XT in the
+   wild. An older report citing driver files pointed to there being only
+   two RX 5300-series products, the RX 5300 (desktop), and the mobile RX
+   5300M. The "XT" brand extension could denote a higher CU count than the
+   RX 5300, although the series is still differentiated from the RX
+   5500-series with cheaper GDDR5 memory.
+   The RX 5300 series and RX 5500 series are based on a common silicon,
+   the 7 nm "Navi 14," featuring up to 24 RDNA compute units (up to 1,536
+   stream processors), and a 128-bit wide memory interface that supports
+   up to 8 GB of GDDR6 or GDDR5 memory. AMD hopes to phase out its 14 nm
+   and 12 nm "Polaris 10" and "Polaris 30" chips with "Navi 14." It's
+   possible that the RX 5300 XT is OEM-only, just like the other key
+   component in this HP desktop, the Ryzen 5 3500 6-core/6-thread
+   processor.
+
+ASUS Intros AX3000 Dual Band PCIe WiFi 6 Card
+
+   by
+
+
+    btarunr
+
+   Yesterday, 07:17 Discuss (9 Comments)
+   For those wanting 802.11ax Wi-Fi 6 on their desktops without an M.2
+   E-key slot on their motherboards, ASUS came up with the PCE-AX3000, a
+   low-profile capable (half-height) NIC that provides up to 3000 Mbps
+   (2.4 Gbps over 5 GHz and 600 Mbps over 2.4 GHz) wireless connectivity,
+   and the added convenience of Bluetooth 5.0 for short-range
+   communications. A set of MU-MIMO antennae come included. Besides
+   MU-MIMO, the card supports OFDMA for better collision-prevention with
+   other devices in the same channel, and WPA3 security protocol. The NIC
+   is essentially a PCI-Express 3.0 x1 add-on card with an M.2 E-key slot
+   that holds an Intel AX200 "Cyclone Peak" WLAN card. We expect the
+   AX3000 to be priced well under $50 given that the "Cyclone Peak" card
+   at the heart of it costs just $10-17 in volume pricing.
+
+EK Launches a Tall Pump-Reservoir Combo Unit to Expand on Classic Line
+
+   Press Release by
+
+
+    btarunr
+
+   Yesterday, 06:57 Discuss (3 Comments)
+   EK, a premium computer liquid cooling gear manufacturer is launching a
+   pump-reservoir combo unit belonging to the Classic Line, the EK-XRES
+   250 SPC PWM Classic RGB - Plexi (incl. pump). These pump-combo units
+   offer a streamlined Classic look and are an entry class combo solution
+   that is able to offer great hydraulic performance complemented with RGB
+   LEDs for modern aesthetics.
+   EK-XRES 250 SPC PWM Classic RGB - Plexi (incl. pump) comes with a 250
+   mm tall reservoir with an integrated EK-SPC 60 water pump that offers
+   4-pin PWM control for allowing the pump to adapt to thermal load. The
+   reservoir is a tube design made of see-through acrylic thus increasing
+   the RGB LED effect. Bellow the reservoir sits the pump-top which is of
+   square design in line with the rest of the EK Classic product
+   portfolio. The mounting is done from the bottom side, utilizing the 120
+   mm fan mounting holes.
+   Read full story
+
+Intel Announces New GPU Architecture and oneAPI for Unified Software Stack at
+SC19
+
+   Press Release by
+
+
+    btarunr
+
+   Yesterday, 05:47 Discuss (7 Comments)
+   At Supercomputing 2019, Intel unveiled its vision for extending its
+   leadership in the convergence of high-performance computing (HPC) and
+   artificial intelligence (AI) with new additions to its data-centric
+   silicon portfolio and an ambitious new software initiative that
+   represents a paradigm shift from today's single-architecture,
+   single-vendor programming models.
+   Addressing the increasing use of heterogeneous architectures in
+   high-performance computing, Intel expanded on its existing technology
+   portfolio to move, store and process data more effectively by
+   announcing a new category of discrete general-purpose GPUs optimized
+   for AI and HPC convergence. Intel also launched the oneAPI industry
+   initiative to deliver a unified and simplified programming model for
+   application development across heterogenous processing architectures,
+   including CPUs, GPUs, FPGAs and other accelerators. The launch of
+   oneAPI represents millions of Intel engineering hours in software
+   development and marks a game-changing evolution from today's limiting,
+   proprietary programming approaches to an open standards-based model for
+   cross-architecture developer engagement and innovation.
+   Read full story
+   Friday, November 15th 2019
+
+Today's Files
+
+     * Intel Graphics Drivers 26.20.100.7463
+
+Today's Reviews
+
+   Cases
+     * Metallic Gear Neo Air XtremeHardware (it)
+     * Silverstone Redline RL08 Comptoir du Hardware (fr)
+
+   Cooling
+     * Corsair QL120 RGB Fan Hardware Journal (de)
+     * Corsair QL120 RGB Fan HardwareInside.de (de)
+     * Corsair QL120 RGB Fan LAN OC
+     * Corsair QL120 RGB Fan Think Computers
+     * Corsair QL120 RGB Fan Vortez
+
+   CPU Coolers
+     * Arctic Freezer 50 TR KitGuru
+     * Noctua NH-L9I Chromax Black GreenTech Reviews (ru)
+
+   Desktop PC
+     * Intel NUC Islay Canyon i5 and i7 Comptoir du Hardware (fr)
+
+   Gaming PC
+     * Alienwaere Aurora AMD Ryzen Edition HotHardware
+     * Stormforce Magnum GTX 1660 Vortez
+
+   Headphones
+     * Audio-Technica ATH-G1 HardwareInside.de (de)
+     * Corsair HS60 Pro Surround HardwareCooking (fr)
+     * HyperX Cloud Alpha S NikkTech
+     * Sharkoon Skiller SGH3 MacFay Hardware (fr)
+
+   Keyboards
+     * Logitech G915 Lightspeed Comptoir du Hardware (fr)
+
+   Memory
+     * V-Color PRISM II RGB DDR4-3600 MHz CL18 2x8 GB TechPowerUp
+
+   Motherboards
+     * ASRock X570 Phantom Gaming ITX TB3 Comptoir du Hardware (fr)
+     * ASRock X570 Steel Legend Comptoir du Hardware (fr)
+
+   NAS
+     * TerraMaster F2-210 Vortez
+
+   Processors
+     * AMD Ryzen 9 3950X and Intel Core i9-9900KS Comptoir du Hardware
+       (fr)
+     * AMD Ryzen 9 3950X ComputerBase (de)
+     * AMD Ryzen 9 3950X Guru3D
+     * AMD Ryzen 9 3950X Hexus.net
+     * AMD Ryzen 9 3950X HotHardware
+     * AMD Ryzen 9 3950X KitGuru
+     * AMD Ryzen 9 3950X TechGage
+     * AMD Ryzen 9 3950X TechSpot
+     * AMD Ryzen 9 3950X Tweaktown
+     * Intel Core i9-9900T Comptoir du Hardware (fr)
+     * Zombieload v2 Performance Impact on Cascade Lake Phoronix
+
+   Sound Cards
+     * Creative Sound Blaster X3 Hexus.net
+
+   Storage
+     * SilverStone FS303 Drivebay Monberg.dk
+
+   V-Color PRISM II RGB DDR4-3600 MHz CL18 2x8 GB
+
+V-Color PRISM II RGB DDR4-3600 MHz CL18 2x8 GB
+
+   Review Memory
+   With a polished silver heat spreader and a pastel RGB LED diffuser that
+   is available in seven different colors, the PRISM II RGB kit from
+   V-Color certainly has flair. This premium kit has the perfect sweet
+   spot for Ryzen performance with a 3600 MHz XMP profile and is
+   affordably priced to boot.
+   Read Review
+
+   Star Wars Jedi: Fallen Order Benchmark Test & Performance Analysis
+
+Star Wars Jedi: Fallen Order Benchmark Test & Performance Analysis
+
+   Article PC Port Testing
+   Finally a new Star Wars game! EA took inspiration from titles like Dark
+   Souls, Sekiro, Uncharted, and Tomb Raider, and the rich Star Wars lore
+   takes it to the next level. Under the hood, Fallen Order uses Unreal
+   Engine 4, delivering good graphics with solid framerates on both AMD
+   and NVIDIA hardware.
+   Read Article
+
+NEC Launches the MultiSync PA311D Monitor: 31" IPS, 4K, 10-bit color, 100%
+AdobeRGB Coverage
+
+   Press Release by
+
+
+    Raevenlord
+
+   Friday, 20:33 Discuss (23 Comments)
+   NEC today announced the launch of the MultiSync PA311D, a new 31-inch
+   IPS wide color gamut display with a 4K (4096x2160) resolution. "The
+   MultiSync PA311D will take its place as our flagship monitor in the PA
+   Series of professional desktop displays," said Kevin Christopherson,
+   Director of Product Marketing at NEC Display Solutions. "It provides
+   higher resolution, along with better black levels and contrast.
+   Further, the PA311D includes USB-C connectivity with 65 W charging and
+   several new cutting-edge features to meet the color-critical needs of
+   professional graphic designers, photographers and video producers."
+   Read full story
+
+MSI Prepares Another Version of AMD Radeon RX 580 Armor Graphics Card
+
+   by
+
+
+    Raevenlord
+
+   Friday, 20:26 Discuss (30 Comments)
+   While AMD is giving all signs of being preparing to release their
+   latest entries into the midrange graphics card market in the form of
+   the RX 5500 and RX 5300 series of graphics cards based on Navi, AMD's
+   AIB partners are giving the slow burn on existing inventories of AMD's
+   Polaris graphics chips. MSI, in this case, seems to have bet on a
+   slight redesign of their previously-released RX 580 Armor and Armor
+   MK2.
+   Changed is the color scheme - MSI went full black on this one. There's
+   also a redesigned PCB, a redesigned I/O bracket (which keeps four
+   display connectors), and a new cooler shroud. The heatsink's surface
+   area also seems to have been increased, which should provide lower
+   operating temperatures (anything beyond that, such as higher
+   overclockability and longer lifespan, are speculations). The redesigned
+   Armor keeps the single 8-pin PCIe power connector. No other details are
+   available at time of writing.
+
+Curiously Named "Athlon Gold" Surfaces on Geekbench Database
+
+   by
+
+
+    btarunr
+
+   Friday, 18:24 Discuss (13 Comments)
+   A Geekbench database submission from an HP "17-ca2xxx" laptop (likely a
+   prototype), spilled the beans on an upcoming AMD Athlon Gold 3150U
+   processor, with nomenclature that looks inspired from the Pentium Gold.
+   Intel uses the "Gold" and "Silver" brand extensions to distinguish
+   processors based on its performance microarchitectures from those based
+   on its low-power microarchitectures (eg: a "Skylake" based Pentium
+   Gold, and a "Goldmont" based Pentium Silver). The addition of "Gold" to
+   the Athlon brand could denote performance rivaling mobile versions of
+   Pentium Gold found in entry-level full-size notebooks.
+   Moving on to the test itself, and we see the Athlon Gold 3150U being
+   listed as a "Raven Ridge" derivative featuring a 2-core/4-thread CPU
+   and Radeon graphics (likely "Vega 3" as with its desktop counterpart).
+   The CPU is shown having a 2.40 GHz base frequency, and 3.30 GHz boost,
+   512 KB L2 cache per core, and 4 MB shared L3 cache. The chip scores
+   3,559 single-core points, and 7,336 points multi-core, comparable to
+   entry-level dual-core processors from this generation. This makes us
+   wonder what the Athlon "Silver" could be, and whether AMD is working on
+   a new low-power microarchitecture in the near future.
+
+Sapphire Formally Launches the Radeon RX 5700 XT NITRO+ Special Edition
+
+   Press Release by
+
+
+    btarunr
+
+   Friday, 17:33 Discuss (14 Comments)
+   In September, Sapphire unveiled its most powerful graphics card to date
+   - the SAPPHIRE NITRO+ RX 5700 XT - which delivers amazing 4K and 1440p
+   performance, but also features very advanced RGB customization options.
+   We even created a set of SAPPHIRE ARGB Fans specifically for this card
+   (sold separately), so you could illuminate your system even more. Since
+   then, many of you have asked if we could include the ARGB Fans with the
+   card itself. oday we are ready and excited to announce the SAPPHIRE
+   NITRO+ RX 5700 XT SPECIAL EDITION! Not only does it include the
+   SAPPHIRE ARGB Fans out of the box, but we've increased the card's
+   performance even more.
+   Read full story
+
+Thermaltake Announces New Commander G Series Tempered Glass ARGB Cases
+
+   Press Release by
+
+
+    btarunr
+
+   Friday, 17:22 Discuss (0 Comments)
+   Thermaltake, a leading premium gaming tower manufacturer, is thrilled
+   to announce a new compact design case line up- the Commander G Series
+   Mid-Tower Chassis including G31, G32, and G33. The Commander G Series
+   Tempered Glass ARGB Edition mid-tower chassis is a brand-new high
+   airflow case designed with a special mesh front panel. This entry-level
+   chassis comes with a preinstalled 200 mm ARGB fan that can be
+   controlled via motherboard synchronization software or the RGB switch
+   on the I/O port. Located at the rear of the chassis is another 120 mm
+   standard fan preinstalled for outstanding ventilation. Other
+   outstanding features include a 4 mm tempered glass panel, a riser GPU
+   support bracket, and removable magnetic filters for an overall
+   exceptional PC performance which is the deal for both gamers and
+   enthusiasts.
+   Read full story
+
+GIGABYTE Also Announces the GeForce RTX 2080 Super Gaming OC WaterForce WB
+
+   Press Release by
+
+
+    btarunr
+
+   Friday, 17:15 Discuss (7 Comments)
+   GIGABYTE, the world's leading premium water-cooled graphics card
+   manufacturer, today announced the GIGABYTE WATERFORCE graphics cards -
+   GeForce RTX 2080 SUPER GAMING OC WATERFORCE WB 8G powered by the NVIDIA
+   GeForce RTX 2080 SUPERTM GPU. Whether users are looking to fulfill the
+   demands of their high-end water-cooled systems, or to enjoy the
+   benefits of water-cooled GPU and CPUs, GIGABYTE WATERFORCE graphics
+   card is the best choice. WATERFORCE WB graphics card is equipped with a
+   top-of-the-line overclocked GPU certified by GIGABYTE GPU Gauntlet
+   sorting technology.
+   It provides an all-around cooling solution for all key components of
+   the graphics card. It takes care of not only the GPU but also VRAM and
+   MOSFET to ensure stable overclock operation and longer durability. In
+   addition, with excellent RGB lighting effects, protection metal back
+   plate, Ultra-Durable top-grade materials and extended warranty for
+   registered members, etc., GIGABYTE WATERFORCE WB graphics card is the
+   best choice for top players to pursue both quiet operation and
+   performance.
+   Read full story
+
+PowerColor Radeon RX 5700 XT Liquid Devil Pictured
+
+   by
+
+
+    btarunr
+
+   Friday, 17:06 Discuss (12 Comments)
+   Here's the first picture of the Radeon RX 5700 XT Liquid Devil by
+   PowerColor. This premium graphics card is meant for people with DIY
+   liquid-cooling setups, and comes with a factory-fitted full-coverage
+   water-block. Sourced from EK Water Blocks, the cooling solution
+   features a nickel-plated copper primary material, with an acrylic top
+   and PowerColor-exclusive embellishments, which include a factory-fitted
+   RGB LED setup. The card is 2-slot thick at the rear I/O. Under the
+   block is a PCB similar in design to the air-cooled RX 5700 XT Red Devil
+   graphics card. Its clock speeds and price are still under the wraps. We
+   expect a price that's north of $500 given the cost of the block alone.
+
+GIGABYTE Announces AORUS Radeon RX 5700 XT Graphics Card
+
+   Press Release by
+
+
+    AleksandarK
+
+   Friday, 15:57 Discuss (6 Comments)
+   GIGABYTE, the world's leading premium gaming hardware manufacturer,
+   today announced the launch of the AORUS Radeon RX 5700 XT 8G, which is
+   built upon the 2nd generation 7 nm processor technology with RDNA
+   architecture. AORUS Radeon RX 5700 XT is equipped with the WINDFORCE 3x
+   cooling system with alternate spinning fans, 6 copper direct touch
+   heat-pipes for the GPU, BIOS switch for silence, RGB Fusion 2.0,
+   protection metal backplate, GIGABYTE certified ultra-durable materials,
+   and supports 6 Displays at once, gamers can experience top computing
+   performance and overwhelming aesthetics smooth working state.
+   Even though graphics cards can generate strong performance during
+   gaming, the thermal cooling system of graphics cards is an essential
+   factor for many gamers to take into account. From alpha to omega, the
+   tenet of the GIGABYTE WINDFORCE cooling system is to not only keep GPU
+   temperatures lower but just as importantly, to tend to the temperatures
+   of the VRAM and MOSFETs, so that the graphics cards offer more
+   efficient and stable performance. Distinct from other brands' thermal
+   solutions, GIGABYTE allows users to have low-temperature GPU
+   performance and reduces the temperature of components such as the VRAM
+   and MOSFETs to increase the lifespan. You never encounter the risk of
+   damage to components from overheating when your GPU still works well
+   under that scenario. GIGABYTE graphics cards are a good choice for
+   gamers and delivers reliable, powerful performance.
+   Read full story
+
+Razer Kraken Ultimate Delivers the Winning Edge for Competitive Gamers
+
+   Press Release by
+
+
+    AleksandarK
+
+   Friday, 15:26 Discuss (3 Comments)
+   Razer, the leading global lifestyle brand for gamers, introduced today
+   the Razer Kraken Ultimate, a competitive gaming headset featuring THX
+   Spatial Audio technology that delivers pinpoint positional accuracy
+   greater than 7.1 surround sound.
+   Powered by custom-tuned 50 mm drivers that produce a more natural sound
+   curve, the realistic and immersive soundscape captures every auditory
+   detail, allowing users to pick up even the slightest nuance in sound
+   and use it to their advantage. The Kraken Ultimate's active noise
+   canceling microphone allows for crystal-clear team communication
+   completing a winning combination that gives gamers a competitive edge
+   and the definitive gaming audio experience.
+   Read full story
+
+Intel Recalls Boxed Xeon E-2274G Processors Due to Inadequate Stock Cooler
+Effectiveness
+
+   by
+
+
+    btarunr
+
+   Friday, 09:01 Discuss (44 Comments)
+   Intel issued a product change notification (PCN) dated November 13,
+   calling for a recall of boxed Xeon E-2274G processors from customers
+   and distributors. The boxed SKU of the E-2274G, which includes a stock
+   cooling solution, has been marked as "discontinued" and "end of life."
+   Intel is offering an E-2274G tray processor (chip-only) as replacement
+   for the returned inventory. The cause for the recall is the cooling
+   solution included in the boxed SKU, which has been found to be
+   insufficient to cool the E-2274G, a 4-core/8-thread processor based on
+   the 14 nm++ "Coffee Lake" microarchitecture, with a rated TDP of 88 W.
+   The E973708-003 fan-heatsink included with boxed Xeon E-2274G
+   processors is supplied by Foxconn, and has been known to be bundled
+   with Intel's entry-level client-segment processors, such as the Pentium
+   Gold series and Core i3 series (chips with TDP typically rated 65 W or
+   less). It features a thin, circular, all-aluminium heatsink, which
+   lacks a copper core that certain other LGA115x-compatible stock coolers
+   by Intel have. The heatsink makes contact with the CPU over pre-applied
+   TIM on an aluminium surface, with spirally-projecting fins dissipating
+   heat under the fan's airflow. It could be been an oversight bundling
+   such an underpowered cooler with an 88 W TDP processor that's designed
+   for the rigors of mission-critical use-cases such as workstations and
+   small-business servers.
+   Heatsink images courtesy: AndyKingParts (Amazon seller)
+
+NVIDIA "Ampere" Successor Reportedly Codenamed "Hopper"
+
+   by
+
+
+    btarunr
+
+   Friday, 07:19 Discuss (26 Comments)
+   NVIDIA has reportedly codenamed a future GPU architecture "Hopper," in
+   honor of Grace Hopper, an eminent computer scientist who invented one
+   of the first linkers, and programmed the Harvard Mark I computer that
+   aided the American war efforts in World War II. This came to light as
+   Twitter user "@kopite7kimi," who's had a fairly high hit-rate with
+   NVIDIA info tweeted not just the codename, but also a key NVIDIA
+   product design change. The tweets were later deleted, but not before
+   3DCenter.org reported on them. To begin with, "Hopper" is reportedly
+   succeeding the upcoming "Ampere" architecture slated for the first half
+   of 2020.
+   "Hopper" is also rumored to introduce MCM (multi-chip module) GPU
+   packages, which are packages with multiple GPU dies. Currently, GPU
+   MCMs are packages that have one GPU die surrounded by memory dies or
+   stacks. This combination of GPU dies could make up "giant cores," at
+   least in the higher end of the performance spectrum. NVIDIA reserves
+   MCMs for only its most expensive Tesla family of compute accelerators,
+   or Quadro professional graphics cards, and seldom offers client-segment
+   GeForce products.
+
+AMD Releases Radeon Software Adrenalin 19.11.2
+
+   by
+
+
+    btarunr
+
+   Friday, 06:51 Discuss (11 Comments)
+   AMD Thursday released its latest version of Radeon Software Adrenalin
+   2019 Edition. Version 19.11.2 beta is the second release for the month
+   of November 2019, and comes with optimization for "Star Wars Jedi: The
+   Fallen Order." The driver also addresses a bug with certain map areas
+   or cities in "Player Unknown's Battlegrounds" (PUBG) intermittently
+   experiencing stuttering or performance loss. Grab the drivers from the
+   link below.
+   DOWNLOAD: AMD Radeon Software Adrenalin 19.11.2
+   Read full story
+
+NVIDIA Announces Financial Results for Third Quarter Fiscal 2020
+
+   Press Release by
+
+
+    btarunr
+
+   Friday, 06:42 Discuss (10 Comments)
+   NVIDIA today reported revenue for the third quarter ended Oct. 27,
+   2019, of $3.01 billion compared with $3.18 billion a year earlier and
+   $2.58 billion in the previous quarter. GAAP earnings per diluted share
+   for the quarter were $1.45, compared with $1.97 a year ago and $0.90 in
+   the previous quarter. Non-GAAP earnings per diluted share were $1.78,
+   compared with $1.84 a year earlier and $1.24 in the previous quarter.
+   "Our gaming business and demand from hyperscale customers powered Q3's
+   results," said Jensen Huang, founder and CEO of NVIDIA. "The realism of
+   computer graphics is taking a giant leap forward with NVIDIA RTX. "This
+   quarter, we have laid the foundation for where AI will ultimately make
+   the greatest impact. We extended our reach beyond the cloud, to the
+   edge, where GPU-accelerated 5G, AI and IoT will revolutionize the
+   world's largest industries. We see strong data center growth ahead,
+   driven by the rise of conversational AI and inference."
+   Read full story
+   Loading more posts, please wait... Load more news posts
+
+   Nov 19th, 2019 13:46 CET change timezone
+
+   ____________________ Submit
+
+   Sign in / Register
+
+Latest VGA Drivers
+
+   NVIDIA GeForce 441.20 WHQL AMD Radeon Adrenalin 19.11.3 Beta
+
+New Forum Posts
+
+     * 13:44 by lynx29
+       Your PC ATM (30046)
+     * 13:43 by EarthDog
+       Intel Releasing 10 core 20 thread i9-10900KF for $499 very soon...
+       5.2 Ghz boost (184)
+     * 13:42 by silkstone
+       Sabrent M.2 4TB SSD NVMe PCIe (11)
+     * 13:31 by Zach_01
+       My PC keeps turning on and off every 3 seconds. Is my motherboard
+       faulty? (36)
+     * 13:27 by csendesmark
+       AMD Ryzen 9 3950X - vcore and thermal (23)
+     * 13:26 by Komshija
+       What game sequel(s) would you offer up a blood sacrifice... (96)
+     * 13:04 by phill
+       Have you got pie today? (14420)
+     * 13:00 by phill
+       Milestones (12475)
+     * 12:59 by phill
+       WCG Daily Numbers (10925)
+     * 12:57 by phill
+       Folding Pie and Milestones!! (6814)
+
+Popular Reviews
+
+     * Nov 4th, 2019 1usmus Custom Power Plan for Ryzen 3000 Zen 2
+       Processors
+     * Nov 6th, 2019 Red Dead Redemption 2 Benchmark Test & Performance
+       Analysis
+     * Oct 26th, 2019 Outer Worlds Benchmark Test & Performance Analysis
+     * Oct 18th, 2019 Upcoming Hardware Launches 2019 (Updated)
+     * Nov 15th, 2019 Star Wars Jedi: Fallen Order Benchmark Test &
+       Performance Analysis
+     * Nov 8th, 2019 PC Build Guide: $700 Gaming System on a Budget
+     * Nov 5th, 2019 Call of Duty Modern Warfare Benchmark Test, RTX &
+       Performance Analysis
+     * Mar 20th, 2019 AMD Ryzen Memory Tweaking & Overclocking Guide
+     * Oct 22nd, 2019 InWin 309 Review
+     * Nov 14th, 2019 CORSAIR iCUE QL RGB Fans Review
+
+TechPowerUp Mobile App
+
+   Android iPhone
+
+Controversial News Posts
+
+     * AMD Ryzen 9 3950X Beats Intel Core i9-10980XE by 24% in 3DMark
+       Physics (143)
+     * Intel Announces Core i9-9900KS, World's Best Processor for Gaming
+       Made Better (130)
+     * AMD Announces Ryzen 9 3950X, Details 3rd Gen Ryzen Threadripper,
+       unlocked Athlon 3000G (112)
+     * Intel Core i9-10980XE "Cascade Lake-X" Benchmarked (78)
+     * Intel CPUs Since Haswell Vulnerable to "Zombieload v2" Attacks,
+       "Cascade Lake" Included (70)
+     * NVIDIA Partners Order Fresh GeForce RTX 2070 Chips as they Expect
+       RX 5700 XT Inventories to Slump (65)
+     * Diablo IV Announced at BlizzCon 2019 (62)
+     * U.S. Legislators Including AOC Come Down Hard on
+       Activision-Blizzard on Blitzchung Ban (62)
+
+   Copyright © 2004-2019 www.techpowerup.com.
+   All rights reserved.
+   All trademarks used are properties of their respective owners.

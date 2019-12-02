@@ -1,0 +1,20 @@
+   REFRESH(2 sec):
+   file://localhost/retrieve/articleSelectSinglePerm?Redirect=https%3A%2F%
+   2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS187110141200088X%3
+   Fvia%253Dihub&key=a8d582e42112f3954f449740ec4094b23bc7e9e3
+   REFRESH(2 sec):
+   file://localhost/retrieve/articleSelectSinglePerm?Redirect=https%3A%2F%
+   2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1290072916313126%3
+   Fvia%253Dihub&key=1a1ef7de0952cd779e9462ffbd0a2d31b5bfed08
+   REFRESH(2 sec):
+   file://localhost/retrieve/articleSelectPrefsPerm?Redirect=https%3A%2F%2
+   Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0960982219307869%3F
+   via%253Dihub&key=980e5d9f116bad53c29b8b65229c7aebc0fc447c
+   REFRESH(2 sec):
+   file://localhost/retrieve/articleSelectSinglePerm?Redirect=https%3A%2F%
+   2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0269749117349990%3
+   Fvia%253Dihub&key=fa39e3f0bfbcd500920bc5686a602245d575622e
+   REFRESH(2 sec):
+   file://localhost/retrieve/articleSelectSinglePerm?Redirect=https%3A%2F%
+   2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0048969717311579%3
+   Fvia%253Dihub&key=3a597ae24c64f04c90981545b530e5974d81c8b5

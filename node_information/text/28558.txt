@@ -1,0 +1,90 @@
+   Skip to main content
+
+     * Home
+     * Documentation
+     * Examples
+     * Themes
+     * Expo
+     * Blog
+
+     * v4.3
+       Latest (4.3.x) v4.2.1 v4.0.0
+       v4 Alpha 6 v3.4.1 v3.3.7 v2.3.2
+       All versions
+     *
+     *
+     *
+     *
+
+   Download
+
+Bootstrap
+
+   Build responsive, mobile-first projects on the web with the world’s
+   most popular front-end component library.
+
+   Bootstrap is an open source toolkit for developing with HTML, CSS, and
+   JS. Quickly prototype your ideas or build your entire app with our Sass
+   variables and mixins, responsive grid system, extensive prebuilt
+   components, and powerful plugins built on jQuery.
+   Get started
+   Download
+
+   Currently v4.3.1
+
+Installation
+
+   Include Bootstrap’s source Sass and JavaScript files via npm, Composer
+   or Meteor. Package managed installs don’t include documentation, but do
+   include our build system and readme.
+npm install bootstrap
+gem install bootstrap -v 4.3.1
+     __________________________________________________________________
+
+   Read installation docs
+
+  BootstrapCDN
+
+   When you only need to include Bootstrap’s compiled CSS or JS, you can
+   use BootstrapCDN.
+
+      CSS only
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/
+css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/
+iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+      JS, Popper.js, and jQuery
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384
+-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="
+anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.
+min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF8
+6dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min
+.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM
++B07jRM" crossorigin="anonymous"></script>
+     __________________________________________________________________
+
+   Explore the docs
+
+  Official Themes
+
+   Take Bootstrap 4 to the next level with official premium
+   themes—toolkits built on Bootstrap with new components and plugins,
+   docs, and build tools.
+   Bootstrap Themes
+     __________________________________________________________________
+
+   Browse themes
+
+     * GitHub
+     * Twitter
+     * Examples
+     * About
+
+   Designed and built with all the love in the world by the Bootstrap team
+   with the help of our contributors.
+
+   Currently v4.3.1. Code licensed MIT, docs CC BY 3.0.

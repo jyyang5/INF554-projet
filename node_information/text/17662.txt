@@ -1,0 +1,2410 @@
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+
+   (BUTTON)
+
+UI Design Do’s and Don’ts
+
+   iOS raises the bar for excellence in user interface design and offers
+   great opportunities for you to deliver engaging and unique user
+   experiences. Consider these common design concepts before you start
+   coding to enhance the usability and appeal of your apps. To see more
+   recommendations for great interface design, read the iOS Human
+   Interface Guidelines.
+
+     * Interactivity
+     * Readability
+     * Graphics
+     * Clarity
+
+Formatting Content
+
+   Create a layout that fits the screen of an iOS device. Users should see
+   primary content without zooming or scrolling horizontally.
+   Learn more
+
+Touch Controls
+
+   Use UI elements that are designed for touch gestures to make
+   interaction with your app feel easy and natural.
+   Learn more
+
+Hit Targets
+
+   Create controls that measure at least 44 points x 44 points so they can
+   be accurately tapped with a finger.
+   Learn more
+
+Text Size
+
+   Text should be at least 11 points so it’s legible at a typical viewing
+   distance without zooming.
+   Learn more
+
+Contrast
+
+   Make sure there is ample contrast between the font color and the
+   background so text is legible.
+   Learn more
+
+Spacing
+
+   Don’t let text overlap. Improve legibility by increasing line height or
+   letter spacing.
+   Learn more
+
+High Resolution
+
+   Provide high-resolution versions of all image assets. Images that are
+   not @2x and @3x will appear blurry on the Retina display.
+   Learn more
+
+Distortion
+
+   Always display images at their intended aspect ratio to avoid
+   distortion.
+   Learn more
+
+Organization
+
+   Create an easy-to-read layout that puts controls close to the content
+   they modify.
+   Learn more
+
+Alignment
+
+   Align text, images, and buttons to show users how information is
+   related.
+   Learn more
+
+Additional Design Resources
+
+   View video presentations and guides for designing great apps.
+   Learn more
+
+Developer Footer
+
+   Developer
+    1. Design
+    2. UI Design Do’s and Don’ts
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+   (BUTTON)
+
+   [ ]
+
+Human Interface Guidelines
+
+   Open Menu Close Menu
+     * iOS
+          + Themes
+          + Mac Catalyst
+          + Interface Essentials
+     * App Architecture
+          + Loading
+          + Modality
+          + Navigation
+          + Onboarding
+          + Requesting Permission
+          + Settings
+     * User Interaction
+          + 3D Touch
+          + Apple Pencil
+          + Audio
+          + Authentication
+          + Data Entry
+          + Drag and Drop
+          + Feedback
+          + File Handling
+          + Gestures
+          + Haptics
+          + Near Field Communication
+          + Undo and Redo
+     * System Capabilities
+          + Augmented Reality
+          + Multitasking
+          + Multiple Windows
+          + Notifications
+          + Printing
+          + Quick Look
+          + Ratings and Reviews
+          + Screenshots
+          + TV Providers
+     * Visual Design
+          + Adaptivity and Layout
+          + Animation
+          + Branding
+          + Color
+          + Dark Mode
+          + Materials
+          + Terminology
+          + Typography
+          + Video
+     * Icons and Images
+          + Image Size and Resolution
+          + App Icon
+          + Custom Icons
+          + Launch Screen
+          + System Icons
+     * Bars
+          + Navigation Bars
+          + Search Bars
+          + Status Bars
+          + Tab Bars
+          + Toolbars
+     * Views
+          + Action Sheets
+          + Activity Views
+          + Alerts
+          + Collections
+          + Image Views
+          + Pages
+          + Popovers
+          + Scroll Views
+          + Split Views
+          + Tables
+          + Text Views
+          + Web Views
+     * Controls
+          + Buttons
+          + Context Menus
+          + Edit Menus
+          + Labels
+          + Page Controls
+          + Pickers
+          + Progress Indicators
+          + Refresh Content Controls
+          + Segmented Controls
+          + Sliders
+          + Steppers
+          + Switches
+          + Text Fields
+     * Extensions
+          + Custom Keyboards
+          + File Providers
+          + Home Screen Actions
+          + Messaging
+          + Photo Editing
+          + Sharing and Actions
+          + Widgets
+         ______________________________________________________________
+
+     * macOS
+     * tvOS
+     * watchOS
+     * Technologies
+          + Accessibility
+          + AirPlay
+          + Apple Pay
+          + Augmented Reality
+          + Business Chat
+          + CareKit
+          + CarPlay
+          + GameKit
+          + HealthKit
+          + HomeKit
+          + iCloud
+          + In-App Purchase
+          + Live Photos
+          + Machine Learning
+          + Maps
+          + ResearchKit
+          + Sign in with Apple
+          + SiriKit
+          + Social Media
+          + Subscriptions
+          + SF Symbols
+          + Wallet
+
+     * Overview
+     * Resources
+     * Videos
+     * What's New
+
+     * iOS
+          + Themes
+          + Mac Catalyst
+          + Interface Essentials
+     * App Architecture
+          + Loading
+          + Modality
+          + Navigation
+          + Onboarding
+          + Requesting Permission
+          + Settings
+     * User Interaction
+          + 3D Touch
+          + Apple Pencil
+          + Audio
+          + Authentication
+          + Data Entry
+          + Drag and Drop
+          + Feedback
+          + File Handling
+          + Gestures
+          + Haptics
+          + Near Field Communication
+          + Undo and Redo
+     * System Capabilities
+          + Augmented Reality
+          + Multitasking
+          + Multiple Windows
+          + Notifications
+          + Printing
+          + Quick Look
+          + Ratings and Reviews
+          + Screenshots
+          + TV Providers
+     * Visual Design
+          + Adaptivity and Layout
+          + Animation
+          + Branding
+          + Color
+          + Dark Mode
+          + Materials
+          + Terminology
+          + Typography
+          + Video
+     * Icons and Images
+          + Image Size and Resolution
+          + App Icon
+          + Custom Icons
+          + Launch Screen
+          + System Icons
+     * Bars
+          + Navigation Bars
+          + Search Bars
+          + Status Bars
+          + Tab Bars
+          + Toolbars
+     * Views
+          + Action Sheets
+          + Activity Views
+          + Alerts
+          + Collections
+          + Image Views
+          + Pages
+          + Popovers
+          + Scroll Views
+          + Split Views
+          + Tables
+          + Text Views
+          + Web Views
+     * Controls
+          + Buttons
+          + Context Menus
+          + Edit Menus
+          + Labels
+          + Page Controls
+          + Pickers
+          + Progress Indicators
+          + Refresh Content Controls
+          + Segmented Controls
+          + Sliders
+          + Steppers
+          + Switches
+          + Text Fields
+     * Extensions
+          + Custom Keyboards
+          + File Providers
+          + Home Screen Actions
+          + Messaging
+          + Photo Editing
+          + Sharing and Actions
+          + Widgets
+         ______________________________________________________________
+
+     * macOS
+     * tvOS
+     * watchOS
+     * Technologies
+          + Accessibility
+          + AirPlay
+          + Apple Pay
+          + Augmented Reality
+          + Business Chat
+          + CareKit
+          + CarPlay
+          + GameKit
+          + HealthKit
+          + HomeKit
+          + iCloud
+          + In-App Purchase
+          + Live Photos
+          + Machine Learning
+          + Maps
+          + ResearchKit
+          + Sign in with Apple
+          + SiriKit
+          + Social Media
+          + Subscriptions
+          + SF Symbols
+          + Wallet
+
+iOS Design Themes
+
+   As an app designer, you have the opportunity to deliver an
+   extraordinary product that rises to the top of the App Store charts. To
+   do so, you'll need to meet high expectations for quality and
+   functionality.
+
+   Three primary themes differentiate iOS from other platforms:
+     * Clarity. Throughout the system, text is legible at every size,
+       icons are precise and lucid, adornments are subtle and appropriate,
+       and a sharpened focus on functionality motivates the design.
+       Negative space, color, fonts, graphics, and interface elements
+       subtly highlight important content and convey interactivity.
+     * Deference. Fluid motion and a crisp, beautiful interface help
+       people understand and interact with content while never competing
+       with it. Content typically fills the entire screen, while
+       translucency and blurring often hint at more. Minimal use of
+       bezels, gradients, and drop shadows keep the interface light and
+       airy, while ensuring that content is paramount.
+     * Depth. Distinct visual layers and realistic motion convey
+       hierarchy, impart vitality, and facilitate understanding. Touch and
+       discoverability heighten delight and enable access to functionality
+       and additional content without losing context. Transitions provide
+       a sense of depth as you navigate through content.
+
+Design Principles
+
+   To maximize impact and reach, keep the following principles in mind as
+   you imagine your app’s identity.
+
+Aesthetic Integrity
+
+   Aesthetic integrity represents how well an app’s appearance and
+   behavior integrate with its function. For example, an app that helps
+   people perform a serious task can keep them focused by using subtle,
+   unobtrusive graphics, standard controls, and predictable behaviors. On
+   the other hand, an immersive app, such as a game, can deliver a
+   captivating appearance that promises fun and excitement, while
+   encouraging discovery.
+
+Consistency
+
+   A consistent app implements familiar standards and paradigms by using
+   system-provided interface elements, well-known icons, standard text
+   styles, and uniform terminology. The app incorporates features and
+   behaviors in ways people expect.
+
+Direct Manipulation
+
+   The direct manipulation of onscreen content engages people and
+   facilitates understanding. Users experience direct manipulation when
+   they rotate the device or use gestures to affect onscreen content.
+   Through direct manipulation, they can see the immediate, visible
+   results of their actions.
+
+Feedback
+
+   Feedback acknowledges actions and shows results to keep people
+   informed. The built-in iOS apps provide perceptible feedback in
+   response to every user action. Interactive elements are highlighted
+   briefly when tapped, progress indicators communicate the status of
+   long-running operations, and animation and sound help clarify the
+   results of actions.
+
+Metaphors
+
+   People learn more quickly when an app’s virtual objects and actions are
+   metaphors for familiar experiences—whether rooted in the real or
+   digital world. Metaphors work well in iOS because people physically
+   interact with the screen. They move views out of the way to expose
+   content beneath. They drag and swipe content. They toggle switches,
+   move sliders, and scroll through picker values. They even flick through
+   pages of books and magazines.
+
+User Control
+
+   Throughout iOS, people—not apps—are in control. An app can suggest a
+   course of action or warn about dangerous consequences, but it’s usually
+   a mistake for the app to take over the decision-making. The best apps
+   find the correct balance between enabling users and avoiding unwanted
+   outcomes. An app can make people feel like they’re in control by
+   keeping interactive elements familiar and predictable, confirming
+   destructive actions, and making it easy to cancel operations, even when
+   they’re already underway.
+
+Next Mac Catalyst
+
+Developer Footer
+
+   Developer
+    1. Design
+    2. Human Interface Guidelines
+    3. iOS
+    4. Themes
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+
+   (BUTTON)
+
+Submit your apps today.
+
+   Build your apps using Xcode 11, test them on devices running the latest
+   OS, and submit them to the App Store.
+
+   Learn more
+
+     *
+
+Apple Platforms
+       iOS iPadOS macOS tvOS watchOS
+     *
+
+Xcode 11 + SwiftUI
+
+This innovative new way to build user interfaces across
+all Apple platforms lets you create better apps with less code.
+     *
+
+From iPad to Mac
+
+Now it’s incredibly simple to start building
+a native Mac app from your current iPad app.
+
+     *
+
+Augmented Reality
+
+Take advantage of incredible advances in ARKit 3, the new RealityKit
+framework, and the new Reality Composer app to easily prototype and produce
+cutting-edge AR experiences.
+     *
+
+Machine Learning
+
+Build, train, and deploy machine learning models using Core ML 3 and the new
+Create ML app — with no machine learning expertise required.
+     *
+
+Siri
+
+Provide an interactive voice experience with follow-up questions, let Siri
+know about user reservations so they can get reminders, and more.
+     *
+
+Sign in with Apple
+
+The fast, easy way to sign in to apps and websites.
+     *
+
+watchOS 6
+
+Create an independent watchOS app, or an app just for watchOS without an
+iOS companion.
+     *
+
+iPadOS
+
+Take advantage of the unique capabilities and functionality of iPad.
+
+     * WWDC19
+
+WWDC19
+
+Session videos
+
+   News and Updates
+
+   See the latest announcements and recommendations for Apple developers.
+
+   View News and Updates
+
+   Documentation
+
+   Browse comprehensive set of API reference, articles, and sample code.
+
+   Read Documentation
+
+   Software Downloads
+
+   Get the latest releases of Xcode, macOS, iOS, watchOS, tvOS, and more.
+
+   Download Resources
+
+   Developer Program
+
+   Become a member to access the resources for distribution on
+   Apple platforms.
+
+   View Developer Program
+
+Developer Footer
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * 打开菜单 关闭菜单
+     * Apple Developer
+
+   搜索
+   关闭搜索
+     * Apple Developer
+     * 探索
+     * 设计
+     * 开发
+     * 分发
+     * 支持
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 关闭搜索
+
+   (BUTTON)
+
+今天就提交您的 app。
+
+   使用 Xcode 11 来构建您的 app，在运行最新 OS 系统的设备上进行测试，并将其提交至 App Store。
+
+   进一步了解
+
+     *
+
+Apple 平台
+       iOS iPadOS macOS watchOS tvOS
+     *
+
+Xcode 11 + SwiftUI
+
+为任何 Apple 平台构建用户界面，
+这种创新的方法让您用更少的代码，创建更赞的 app。
+     *
+
+从 iPad 到 Mac
+
+从您现有的 iPad app，到构建原生 Mac app，
+简单得无法想象。
+
+     *
+
+增强现实
+
+利用 ARKit 3，新的 RealityKit 框架，还有新的 Reality Composer app 中的非凡进步，轻松制作原型，创造先进前沿的
+AR 体验。
+     *
+
+机器学习
+
+无需机器学习的专业知识，使用 Core ML 3 和新的 Create ML app，轻松创建、训练并部署机器学习模型。
+     *
+
+Siri
+
+提供带有后续问题的交互式语音体验，让 Siri 了解用户的完整需要，以向用户发送提醒和更多其他功能。
+     *
+
+Sign in with Apple
+
+登入 app 和网页的轻松便捷之法。
+     *
+
+watchOS 6
+
+您现可创建独立的 watchOS app，或不带有 iOS 版的 watchOS app。
+     *
+
+iPadOS
+
+充分利用 iPad 独特的性能和功能。
+
+     * WWDC19
+
+WWDC19
+
+大会视频 (简体中文字幕)
+
+   新闻和更新
+
+   查看面向 Apple 开发者的最新公告和推荐。
+
+   查看新闻和更新
+
+   文档
+
+   浏览全套的 API 参考、文章和示例代码。
+
+   英文文档
+   简体中文文档
+
+   软件下载
+
+   获取最新版本的 Xcode、macOS、iOS、watchOS 和 tvOS 等。
+
+   下载资源 (英文)
+
+   Developer Program
+
+   成为会员，访问在 Apple 平台上进行分发的相关资源。
+
+   查看开发者计划
+
+Developer Footer
+
+   [ ]
+
+探索
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari 和 Web (英文)
+     * 游戏开发 (英文)
+     * 企业 (英文)
+     * 教育 (英文)
+     * WWDC (英文)
+
+   [ ]
+
+设计
+
+   Open Menu Close Menu
+     * Human Interface Guidelines (英文)
+     * 资源 (英文)
+     * 视频 (英文)
+     * Apple 设计大奖 (英文)
+     * 字体 (英文)
+     * 辅助功能
+     * App 国际化
+     * 配件设计
+
+   [ ]
+
+开发
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * 文档 (英文)
+     * 简体中文文档
+     * 视频 (英文)
+     * 下载 (英文)
+
+   [ ]
+
+分发
+
+   Open Menu Close Menu
+     * 开发者帐户
+     * App Store
+     * App Review
+     * Mac 软件
+     * 商务 App (英文)
+     * Safari 扩展 (英文)
+     * 营销资源
+     * 商标使用许可 (英文)
+
+   [ ]
+
+支持
+
+   Open Menu Close Menu
+     * 文档
+     * 开发者论坛 (英文)
+     * 反馈 & 错误报告 (英文)
+     * 系统状态 (英文)
+     * 联系我们
+
+   [ ]
+
+帐户 (英文)
+
+   Open Menu Close Menu
+     * 证书、标识符和描述文件 (英文)
+     * App Store Connect
+
+   查看最新的开发者新闻，请访问新闻及更新页面。
+   版权所有 © 2019 Apple Inc. 保留所有权利。
+   使用条款 隐私政策 许可协议 (英文)
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * メニューを開く メニューを閉じる
+     * Apple Developer
+
+   検索
+   検索を終了
+     * Apple Developer
+     * 見つける
+     * デザイン
+     * 開発
+     * 配信
+     * サポート
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 検索を終了
+
+   (BUTTON)
+
+今すぐAppを提出しましょう。
+
+   Xcode 11でビルドされたアプリを最新のOSに実行しているデバイスでテストしてから、審査に提出しましょう。
+
+   さらに詳しく
+
+     *
+
+Appleプラットフォーム
+       iOS iPadOS macOS watchOS tvOS
+     *
+
+Xcode 11 + SwiftUI
+
+すべてのAppleプラットフォームのユーザーインターフェイスを構築できるこの革新的な新しい方法を使えば、
+いっそう優れたAppをより少ないコードで作成することができます。
+     *
+
+iPadからMacへ
+
+既存のiPad AppからネイティブMac Appの構築
+を始めるのが驚くほどシンプルになりました。
+
+     *
+
+拡張現実
+
+驚異的に進歩したARKit 3、新しいRealityKitフレームワーク、そして新しいReality Composer
+Appを活用して簡単にプロトタイプし、最先端のAR体験を生み出すことができます。
+     *
+
+機械学習
+
+機械学習の経験がなくても、Core ML 3と新しいCreate ML Appを使えば、機械学習のモデルを作成、トレーニング、展開することができます。
+     *
+
+Siri
+
+質問の補足によるインタラクティブな音声体験の提供や、Siriにユーザーの予約に関して知らせることで、リマインダーなどを受けることができます。
+     *
+
+Appleでサインイン
+
+すばやく簡単にAppやWebサイトにサインインすることができます。
+     *
+
+watchOS 6
+
+独立したwatchOS App、またはiOS Appを伴わないwatchOS専用Appを作成することができます。
+     *
+
+iPadOS
+
+iPadのユニークな性能や機能を活用しましょう。
+
+     * WWDC19
+
+WWDC19
+
+ビデオを見る（日本語字幕）
+
+   ニュースとアップデート
+
+   Appleデベロッパ向けの最新のニュースやお勧めをご確認いただけます。
+
+   ニュースとアップデートを確認する
+
+   ドキュメント
+
+   包括的なAPIリファレンス、記事、サンプルコードをご確認いただけます。
+
+   ドキュメントを確認する（英語）
+   日本語ドキュメント
+
+   ソフトウェアのダウンロード
+
+   Xcode、macOS、iOS、watchOS、tvOSなどの最新リリースをご利用いただけます。
+
+   リソースをダウンロードする
+   （英語）
+
+   Developer Program
+
+   プログラムに加入すると、Appleプラットフォームで配信するためのリソースにアクセスできます。
+
+   Developer Programを
+   確認する
+
+Developer Footer
+
+   [ ]
+
+見つける
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * SafariとWeb（英語）
+     * ゲーム（英語）
+     * エンタープライズ （英語）
+     * 教育（英語）
+     * WWDC（英語）
+
+   [ ]
+
+デザイン
+
+   Open Menu Close Menu
+     * Human Interface Guidelines（英語）
+     * リソース（英語）
+     * ビデオ（英語）
+     * Apple Design Awards（英語）
+     * フォント（英語）
+     * アクセシビリティ
+     * 国際化
+     * アクセサリ
+
+   [ ]
+
+開発
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * ドキュメンテーション（英語）
+     * 日本語ドキュメント
+     * ビデオ（英語）
+     * ダウンロード（英語）
+
+   [ ]
+
+配信
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * ビジネス向けのApp（英語）
+     * Safari Extensions（英語）
+     * マーケティングガイドライン
+     * 商標使用許諾（英語）
+
+   [ ]
+
+サポート
+
+   Open Menu Close Menu
+     * ドキュメント
+     * Developer Forums（英語）
+     * フィードバック & バグをレポートする（英語）
+     * システム状況（英語）
+     * お問い合わせ
+
+   [ ]
+
+アカウント（英語）
+
+   Open Menu Close Menu
+     * 証明書、ID、プロファイル（英語）
+     * App Store Connect
+
+   最新のデベロッパ向けニュースは、ニュースとアップデートでご確認いただけます。
+   Copyright © 2019 Apple Inc. All rights reserved.
+   利用規約 プライバシーポリシー 使用許諾契約（英語）
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+
+   (BUTTON)
+
+UI Design Do’s and Don’ts
+
+   iOS raises the bar for excellence in user interface design and offers
+   great opportunities for you to deliver engaging and unique user
+   experiences. Consider these common design concepts before you start
+   coding to enhance the usability and appeal of your apps. To see more
+   recommendations for great interface design, read the iOS Human
+   Interface Guidelines.
+
+     * Interactivity
+     * Readability
+     * Graphics
+     * Clarity
+
+Formatting Content
+
+   Create a layout that fits the screen of an iOS device. Users should see
+   primary content without zooming or scrolling horizontally.
+   Learn more
+
+Touch Controls
+
+   Use UI elements that are designed for touch gestures to make
+   interaction with your app feel easy and natural.
+   Learn more
+
+Hit Targets
+
+   Create controls that measure at least 44 points x 44 points so they can
+   be accurately tapped with a finger.
+   Learn more
+
+Text Size
+
+   Text should be at least 11 points so it’s legible at a typical viewing
+   distance without zooming.
+   Learn more
+
+Contrast
+
+   Make sure there is ample contrast between the font color and the
+   background so text is legible.
+   Learn more
+
+Spacing
+
+   Don’t let text overlap. Improve legibility by increasing line height or
+   letter spacing.
+   Learn more
+
+High Resolution
+
+   Provide high-resolution versions of all image assets. Images that are
+   not @2x and @3x will appear blurry on the Retina display.
+   Learn more
+
+Distortion
+
+   Always display images at their intended aspect ratio to avoid
+   distortion.
+   Learn more
+
+Organization
+
+   Create an easy-to-read layout that puts controls close to the content
+   they modify.
+   Learn more
+
+Alignment
+
+   Align text, images, and buttons to show users how information is
+   related.
+   Learn more
+
+Additional Design Resources
+
+   View video presentations and guides for designing great apps.
+   Learn more
+
+Developer Footer
+
+   Developer
+    1. Design
+    2. UI Design Do’s and Don’ts
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+   (BUTTON)
+
+   [ ]
+
+Human Interface Guidelines
+
+   Open Menu Close Menu
+     * iOS
+          + Themes
+          + Mac Catalyst
+          + Interface Essentials
+     * App Architecture
+          + Loading
+          + Modality
+          + Navigation
+          + Onboarding
+          + Requesting Permission
+          + Settings
+     * User Interaction
+          + 3D Touch
+          + Apple Pencil
+          + Audio
+          + Authentication
+          + Data Entry
+          + Drag and Drop
+          + Feedback
+          + File Handling
+          + Gestures
+          + Haptics
+          + Near Field Communication
+          + Undo and Redo
+     * System Capabilities
+          + Augmented Reality
+          + Multitasking
+          + Multiple Windows
+          + Notifications
+          + Printing
+          + Quick Look
+          + Ratings and Reviews
+          + Screenshots
+          + TV Providers
+     * Visual Design
+          + Adaptivity and Layout
+          + Animation
+          + Branding
+          + Color
+          + Dark Mode
+          + Materials
+          + Terminology
+          + Typography
+          + Video
+     * Icons and Images
+          + Image Size and Resolution
+          + App Icon
+          + Custom Icons
+          + Launch Screen
+          + System Icons
+     * Bars
+          + Navigation Bars
+          + Search Bars
+          + Status Bars
+          + Tab Bars
+          + Toolbars
+     * Views
+          + Action Sheets
+          + Activity Views
+          + Alerts
+          + Collections
+          + Image Views
+          + Pages
+          + Popovers
+          + Scroll Views
+          + Split Views
+          + Tables
+          + Text Views
+          + Web Views
+     * Controls
+          + Buttons
+          + Context Menus
+          + Edit Menus
+          + Labels
+          + Page Controls
+          + Pickers
+          + Progress Indicators
+          + Refresh Content Controls
+          + Segmented Controls
+          + Sliders
+          + Steppers
+          + Switches
+          + Text Fields
+     * Extensions
+          + Custom Keyboards
+          + File Providers
+          + Home Screen Actions
+          + Messaging
+          + Photo Editing
+          + Sharing and Actions
+          + Widgets
+         ______________________________________________________________
+
+     * macOS
+     * tvOS
+     * watchOS
+     * Technologies
+          + Accessibility
+          + AirPlay
+          + Apple Pay
+          + Augmented Reality
+          + Business Chat
+          + CareKit
+          + CarPlay
+          + GameKit
+          + HealthKit
+          + HomeKit
+          + iCloud
+          + In-App Purchase
+          + Live Photos
+          + Machine Learning
+          + Maps
+          + ResearchKit
+          + Sign in with Apple
+          + SiriKit
+          + Social Media
+          + Subscriptions
+          + SF Symbols
+          + Wallet
+
+     * Overview
+     * Resources
+     * Videos
+     * What's New
+
+     * iOS
+          + Themes
+          + Mac Catalyst
+          + Interface Essentials
+     * App Architecture
+          + Loading
+          + Modality
+          + Navigation
+          + Onboarding
+          + Requesting Permission
+          + Settings
+     * User Interaction
+          + 3D Touch
+          + Apple Pencil
+          + Audio
+          + Authentication
+          + Data Entry
+          + Drag and Drop
+          + Feedback
+          + File Handling
+          + Gestures
+          + Haptics
+          + Near Field Communication
+          + Undo and Redo
+     * System Capabilities
+          + Augmented Reality
+          + Multitasking
+          + Multiple Windows
+          + Notifications
+          + Printing
+          + Quick Look
+          + Ratings and Reviews
+          + Screenshots
+          + TV Providers
+     * Visual Design
+          + Adaptivity and Layout
+          + Animation
+          + Branding
+          + Color
+          + Dark Mode
+          + Materials
+          + Terminology
+          + Typography
+          + Video
+     * Icons and Images
+          + Image Size and Resolution
+          + App Icon
+          + Custom Icons
+          + Launch Screen
+          + System Icons
+     * Bars
+          + Navigation Bars
+          + Search Bars
+          + Status Bars
+          + Tab Bars
+          + Toolbars
+     * Views
+          + Action Sheets
+          + Activity Views
+          + Alerts
+          + Collections
+          + Image Views
+          + Pages
+          + Popovers
+          + Scroll Views
+          + Split Views
+          + Tables
+          + Text Views
+          + Web Views
+     * Controls
+          + Buttons
+          + Context Menus
+          + Edit Menus
+          + Labels
+          + Page Controls
+          + Pickers
+          + Progress Indicators
+          + Refresh Content Controls
+          + Segmented Controls
+          + Sliders
+          + Steppers
+          + Switches
+          + Text Fields
+     * Extensions
+          + Custom Keyboards
+          + File Providers
+          + Home Screen Actions
+          + Messaging
+          + Photo Editing
+          + Sharing and Actions
+          + Widgets
+         ______________________________________________________________
+
+     * macOS
+     * tvOS
+     * watchOS
+     * Technologies
+          + Accessibility
+          + AirPlay
+          + Apple Pay
+          + Augmented Reality
+          + Business Chat
+          + CareKit
+          + CarPlay
+          + GameKit
+          + HealthKit
+          + HomeKit
+          + iCloud
+          + In-App Purchase
+          + Live Photos
+          + Machine Learning
+          + Maps
+          + ResearchKit
+          + Sign in with Apple
+          + SiriKit
+          + Social Media
+          + Subscriptions
+          + SF Symbols
+          + Wallet
+
+iOS Design Themes
+
+   As an app designer, you have the opportunity to deliver an
+   extraordinary product that rises to the top of the App Store charts. To
+   do so, you'll need to meet high expectations for quality and
+   functionality.
+
+   Three primary themes differentiate iOS from other platforms:
+     * Clarity. Throughout the system, text is legible at every size,
+       icons are precise and lucid, adornments are subtle and appropriate,
+       and a sharpened focus on functionality motivates the design.
+       Negative space, color, fonts, graphics, and interface elements
+       subtly highlight important content and convey interactivity.
+     * Deference. Fluid motion and a crisp, beautiful interface help
+       people understand and interact with content while never competing
+       with it. Content typically fills the entire screen, while
+       translucency and blurring often hint at more. Minimal use of
+       bezels, gradients, and drop shadows keep the interface light and
+       airy, while ensuring that content is paramount.
+     * Depth. Distinct visual layers and realistic motion convey
+       hierarchy, impart vitality, and facilitate understanding. Touch and
+       discoverability heighten delight and enable access to functionality
+       and additional content without losing context. Transitions provide
+       a sense of depth as you navigate through content.
+
+Design Principles
+
+   To maximize impact and reach, keep the following principles in mind as
+   you imagine your app’s identity.
+
+Aesthetic Integrity
+
+   Aesthetic integrity represents how well an app’s appearance and
+   behavior integrate with its function. For example, an app that helps
+   people perform a serious task can keep them focused by using subtle,
+   unobtrusive graphics, standard controls, and predictable behaviors. On
+   the other hand, an immersive app, such as a game, can deliver a
+   captivating appearance that promises fun and excitement, while
+   encouraging discovery.
+
+Consistency
+
+   A consistent app implements familiar standards and paradigms by using
+   system-provided interface elements, well-known icons, standard text
+   styles, and uniform terminology. The app incorporates features and
+   behaviors in ways people expect.
+
+Direct Manipulation
+
+   The direct manipulation of onscreen content engages people and
+   facilitates understanding. Users experience direct manipulation when
+   they rotate the device or use gestures to affect onscreen content.
+   Through direct manipulation, they can see the immediate, visible
+   results of their actions.
+
+Feedback
+
+   Feedback acknowledges actions and shows results to keep people
+   informed. The built-in iOS apps provide perceptible feedback in
+   response to every user action. Interactive elements are highlighted
+   briefly when tapped, progress indicators communicate the status of
+   long-running operations, and animation and sound help clarify the
+   results of actions.
+
+Metaphors
+
+   People learn more quickly when an app’s virtual objects and actions are
+   metaphors for familiar experiences—whether rooted in the real or
+   digital world. Metaphors work well in iOS because people physically
+   interact with the screen. They move views out of the way to expose
+   content beneath. They drag and swipe content. They toggle switches,
+   move sliders, and scroll through picker values. They even flick through
+   pages of books and magazines.
+
+User Control
+
+   Throughout iOS, people—not apps—are in control. An app can suggest a
+   course of action or warn about dangerous consequences, but it’s usually
+   a mistake for the app to take over the decision-making. The best apps
+   find the correct balance between enabling users and avoiding unwanted
+   outcomes. An app can make people feel like they’re in control by
+   keeping interactive elements familiar and predictable, confirming
+   destructive actions, and making it easy to cancel operations, even when
+   they’re already underway.
+
+Next Mac Catalyst
+
+Developer Footer
+
+   Developer
+    1. Design
+    2. Human Interface Guidelines
+    3. iOS
+    4. Themes
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * Global Nav Open Menu Global Nav Close Menu
+     * Apple Developer
+
+   Search Developer
+   Cancel
+     * Apple Developer
+     * Discover
+     * Design
+     * Develop
+     * Distribute
+     * Support
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) Cancel
+
+   (BUTTON)
+
+Submit your apps today.
+
+   Build your apps using Xcode 11, test them on devices running the latest
+   OS, and submit them to the App Store.
+
+   Learn more
+
+     *
+
+Apple Platforms
+       iOS iPadOS macOS tvOS watchOS
+     *
+
+Xcode 11 + SwiftUI
+
+This innovative new way to build user interfaces across
+all Apple platforms lets you create better apps with less code.
+     *
+
+From iPad to Mac
+
+Now it’s incredibly simple to start building
+a native Mac app from your current iPad app.
+
+     *
+
+Augmented Reality
+
+Take advantage of incredible advances in ARKit 3, the new RealityKit
+framework, and the new Reality Composer app to easily prototype and produce
+cutting-edge AR experiences.
+     *
+
+Machine Learning
+
+Build, train, and deploy machine learning models using Core ML 3 and the new
+Create ML app — with no machine learning expertise required.
+     *
+
+Siri
+
+Provide an interactive voice experience with follow-up questions, let Siri
+know about user reservations so they can get reminders, and more.
+     *
+
+Sign in with Apple
+
+The fast, easy way to sign in to apps and websites.
+     *
+
+watchOS 6
+
+Create an independent watchOS app, or an app just for watchOS without an
+iOS companion.
+     *
+
+iPadOS
+
+Take advantage of the unique capabilities and functionality of iPad.
+
+     * WWDC19
+
+WWDC19
+
+Session videos
+
+   News and Updates
+
+   See the latest announcements and recommendations for Apple developers.
+
+   View News and Updates
+
+   Documentation
+
+   Browse comprehensive set of API reference, articles, and sample code.
+
+   Read Documentation
+
+   Software Downloads
+
+   Get the latest releases of Xcode, macOS, iOS, watchOS, tvOS, and more.
+
+   Download Resources
+
+   Developer Program
+
+   Become a member to access the resources for distribution on
+   Apple platforms.
+
+   View Developer Program
+
+Developer Footer
+
+   [ ]
+
+Discover
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari and Web
+     * Games
+     * Business
+     * Education
+     * WWDC
+
+   [ ]
+
+Design
+
+   Open Menu Close Menu
+     * Human Interface Guidelines
+     * Resources
+     * Videos
+     * Apple Design Awards
+     * Fonts
+     * Accessibility
+     * Internationalization
+     * Accessories
+
+   [ ]
+
+Develop
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * Documentation
+     * Videos
+     * Downloads
+
+   [ ]
+
+Distribute
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * Apps for Business
+     * Safari Extensions
+     * Marketing Resources
+     * Trademark Licensing
+
+   [ ]
+
+Support
+
+   Open Menu Close Menu
+     * Articles
+     * Developer Forums
+     * Feedback & Bug Reporting
+     * System Status
+     * Contact Us
+
+   [ ]
+
+Account
+
+   Open Menu Close Menu
+     * Certificates, Identifiers & Profiles
+     * App Store Connect
+
+   To view the latest developer news, visit News and Updates.
+   Copyright © 2019 Apple Inc. All rights reserved.
+   Terms of Use Privacy Policy License Agreements
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * 打开菜单 关闭菜单
+     * Apple Developer
+
+   搜索
+   关闭搜索
+     * Apple Developer
+     * 探索
+     * 设计
+     * 开发
+     * 分发
+     * 支持
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 关闭搜索
+
+   (BUTTON)
+
+今天就提交您的 app。
+
+   使用 Xcode 11 来构建您的 app，在运行最新 OS 系统的设备上进行测试，并将其提交至 App Store。
+
+   进一步了解
+
+     *
+
+Apple 平台
+       iOS iPadOS macOS watchOS tvOS
+     *
+
+Xcode 11 + SwiftUI
+
+为任何 Apple 平台构建用户界面，
+这种创新的方法让您用更少的代码，创建更赞的 app。
+     *
+
+从 iPad 到 Mac
+
+从您现有的 iPad app，到构建原生 Mac app，
+简单得无法想象。
+
+     *
+
+增强现实
+
+利用 ARKit 3，新的 RealityKit 框架，还有新的 Reality Composer app 中的非凡进步，轻松制作原型，创造先进前沿的
+AR 体验。
+     *
+
+机器学习
+
+无需机器学习的专业知识，使用 Core ML 3 和新的 Create ML app，轻松创建、训练并部署机器学习模型。
+     *
+
+Siri
+
+提供带有后续问题的交互式语音体验，让 Siri 了解用户的完整需要，以向用户发送提醒和更多其他功能。
+     *
+
+Sign in with Apple
+
+登入 app 和网页的轻松便捷之法。
+     *
+
+watchOS 6
+
+您现可创建独立的 watchOS app，或不带有 iOS 版的 watchOS app。
+     *
+
+iPadOS
+
+充分利用 iPad 独特的性能和功能。
+
+     * WWDC19
+
+WWDC19
+
+大会视频 (简体中文字幕)
+
+   新闻和更新
+
+   查看面向 Apple 开发者的最新公告和推荐。
+
+   查看新闻和更新
+
+   文档
+
+   浏览全套的 API 参考、文章和示例代码。
+
+   英文文档
+   简体中文文档
+
+   软件下载
+
+   获取最新版本的 Xcode、macOS、iOS、watchOS 和 tvOS 等。
+
+   下载资源 (英文)
+
+   Developer Program
+
+   成为会员，访问在 Apple 平台上进行分发的相关资源。
+
+   查看开发者计划
+
+Developer Footer
+
+   [ ]
+
+探索
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * Safari 和 Web (英文)
+     * 游戏开发 (英文)
+     * 企业 (英文)
+     * 教育 (英文)
+     * WWDC (英文)
+
+   [ ]
+
+设计
+
+   Open Menu Close Menu
+     * Human Interface Guidelines (英文)
+     * 资源 (英文)
+     * 视频 (英文)
+     * Apple 设计大奖 (英文)
+     * 字体 (英文)
+     * 辅助功能
+     * App 国际化
+     * 配件设计
+
+   [ ]
+
+开发
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * 文档 (英文)
+     * 简体中文文档
+     * 视频 (英文)
+     * 下载 (英文)
+
+   [ ]
+
+分发
+
+   Open Menu Close Menu
+     * 开发者帐户
+     * App Store
+     * App Review
+     * Mac 软件
+     * 商务 App (英文)
+     * Safari 扩展 (英文)
+     * 营销资源
+     * 商标使用许可 (英文)
+
+   [ ]
+
+支持
+
+   Open Menu Close Menu
+     * 文档
+     * 开发者论坛 (英文)
+     * 反馈 & 错误报告 (英文)
+     * 系统状态 (英文)
+     * 联系我们
+
+   [ ]
+
+帐户 (英文)
+
+   Open Menu Close Menu
+     * 证书、标识符和描述文件 (英文)
+     * App Store Connect
+
+   查看最新的开发者新闻，请访问新闻及更新页面。
+   版权所有 © 2019 Apple Inc. 保留所有权利。
+   使用条款 隐私政策 许可协议 (英文)
+   #alternate alternate alternate alternate
+
+   [ ]
+
+     * メニューを開く メニューを閉じる
+     * Apple Developer
+
+   検索
+   検索を終了
+     * Apple Developer
+     * 見つける
+     * デザイン
+     * 開発
+     * 配信
+     * サポート
+     * Account
+     *
+
+   ____________________ (BUTTON) (BUTTON)
+   (BUTTON) 検索を終了
+
+   (BUTTON)
+
+今すぐAppを提出しましょう。
+
+   Xcode 11でビルドされたアプリを最新のOSに実行しているデバイスでテストしてから、審査に提出しましょう。
+
+   さらに詳しく
+
+     *
+
+Appleプラットフォーム
+       iOS iPadOS macOS watchOS tvOS
+     *
+
+Xcode 11 + SwiftUI
+
+すべてのAppleプラットフォームのユーザーインターフェイスを構築できるこの革新的な新しい方法を使えば、
+いっそう優れたAppをより少ないコードで作成することができます。
+     *
+
+iPadからMacへ
+
+既存のiPad AppからネイティブMac Appの構築
+を始めるのが驚くほどシンプルになりました。
+
+     *
+
+拡張現実
+
+驚異的に進歩したARKit 3、新しいRealityKitフレームワーク、そして新しいReality Composer
+Appを活用して簡単にプロトタイプし、最先端のAR体験を生み出すことができます。
+     *
+
+機械学習
+
+機械学習の経験がなくても、Core ML 3と新しいCreate ML Appを使えば、機械学習のモデルを作成、トレーニング、展開することができます。
+     *
+
+Siri
+
+質問の補足によるインタラクティブな音声体験の提供や、Siriにユーザーの予約に関して知らせることで、リマインダーなどを受けることができます。
+     *
+
+Appleでサインイン
+
+すばやく簡単にAppやWebサイトにサインインすることができます。
+     *
+
+watchOS 6
+
+独立したwatchOS App、またはiOS Appを伴わないwatchOS専用Appを作成することができます。
+     *
+
+iPadOS
+
+iPadのユニークな性能や機能を活用しましょう。
+
+     * WWDC19
+
+WWDC19
+
+ビデオを見る（日本語字幕）
+
+   ニュースとアップデート
+
+   Appleデベロッパ向けの最新のニュースやお勧めをご確認いただけます。
+
+   ニュースとアップデートを確認する
+
+   ドキュメント
+
+   包括的なAPIリファレンス、記事、サンプルコードをご確認いただけます。
+
+   ドキュメントを確認する（英語）
+   日本語ドキュメント
+
+   ソフトウェアのダウンロード
+
+   Xcode、macOS、iOS、watchOS、tvOSなどの最新リリースをご利用いただけます。
+
+   リソースをダウンロードする
+   （英語）
+
+   Developer Program
+
+   プログラムに加入すると、Appleプラットフォームで配信するためのリソースにアクセスできます。
+
+   Developer Programを
+   確認する
+
+Developer Footer
+
+   [ ]
+
+見つける
+
+   Open Menu Close Menu
+     * macOS
+     * iOS
+     * watchOS
+     * tvOS
+     * SafariとWeb（英語）
+     * ゲーム（英語）
+     * エンタープライズ （英語）
+     * 教育（英語）
+     * WWDC（英語）
+
+   [ ]
+
+デザイン
+
+   Open Menu Close Menu
+     * Human Interface Guidelines（英語）
+     * リソース（英語）
+     * ビデオ（英語）
+     * Apple Design Awards（英語）
+     * フォント（英語）
+     * アクセシビリティ
+     * 国際化
+     * アクセサリ
+
+   [ ]
+
+開発
+
+   Open Menu Close Menu
+     * Xcode
+     * Swift
+     * Swift Playgrounds
+     * TestFlight
+     * ドキュメンテーション（英語）
+     * 日本語ドキュメント
+     * ビデオ（英語）
+     * ダウンロード（英語）
+
+   [ ]
+
+配信
+
+   Open Menu Close Menu
+     * Developer Program
+     * App Store
+     * App Review
+     * Mac Software
+     * ビジネス向けのApp（英語）
+     * Safari Extensions（英語）
+     * マーケティングガイドライン
+     * 商標使用許諾（英語）
+
+   [ ]
+
+サポート
+
+   Open Menu Close Menu
+     * ドキュメント
+     * Developer Forums（英語）
+     * フィードバック & バグをレポートする（英語）
+     * システム状況（英語）
+     * お問い合わせ
+
+   [ ]
+
+アカウント（英語）
+
+   Open Menu Close Menu
+     * 証明書、ID、プロファイル（英語）
+     * App Store Connect
+
+   最新のデベロッパ向けニュースは、ニュースとアップデートでご確認いただけます。
+   Copyright © 2019 Apple Inc. All rights reserved.
+   利用規約 プライバシーポリシー 使用許諾契約（英語）

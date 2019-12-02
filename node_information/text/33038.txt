@@ -1,0 +1,244 @@
+Edit in JSFiddle
+
+     * Result
+     * JavaScript
+     * HTML
+     * CSS
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <!--
+            Inclusion de la bibliothèque Leaflet et sa feuille de style.
+            L'include du js pourrait aussi être fait a la fin du <body>
+        -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/
+0.7.7/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js
+"></script>
+
+    <!-- Une feuille de style éventuel -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Tutoriel Leaflet OSM</title>
+  </head>
+
+  <body>
+    <!-- Le conteneur de notre carte (avec une contrainte CSS pour la taille -->
+    <div id="macarte" style="width:545px; height:490px"></div>
+
+    <script>
+      var carte = L.map('macarte').setView([46.5630104, 1.4846608], 6);
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a
+> contributors'
+      }).addTo(carte);
+                        var marker = L.marker([46.6835956, -0.4137665]).addTo(ca
+rte);
+      var eskimon = L.polyline([
+        [47.077766, -0.219043],
+        [47.077766, -0.643656],
+        [46.912911, -0.643656],
+        [46.912911, -0.219043],
+        [46.912911, -0.643656],
+        [46.778871, -0.643656],
+        [46.778871, -0.219043]
+                        ], {color: 'red'}).addTo(carte);
+      carte.setView([46.6835956, -0.4137665], 9);
+    </script>
+  </body>
+
+</html>
+Edit in JSFiddle
+
+     * Result
+     * JavaScript
+     * HTML
+     * CSS
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <!--
+            Inclusion de la bibliothèque Leaflet et sa feuille de style.
+            L'include du js pourrait aussi être fait a la fin du <body>
+        -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/
+0.7.7/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js
+"></script>
+
+    <!-- Une feuille de style éventuel -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Tutoriel Leaflet OSM</title>
+  </head>
+
+  <body>
+    <!-- Le conteneur de notre carte (avec une contrainte CSS pour la taille -->
+    <div id="macarte" style="width:545px; height:490px"></div>
+
+    <script>
+      var carte = L.map('macarte').setView([46.5630104, 1.4846608], 6);
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a
+> contributors'
+      }).addTo(carte);
+                        var marker = L.marker([46.6835956, -0.4137665]).addTo(ca
+rte);
+      var influence = L.circle([46.6835956, -0.4137665], 210000).addTo(carte);
+    </script>
+  </body>
+
+</html>
+Edit in JSFiddle
+
+     * Result
+     * JavaScript
+     * HTML
+     * CSS
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <!--
+            Inclusion de la bibliothèque Leaflet et sa feuille de style.
+            L'include du js pourrait aussi être fait a la fin du <body>
+        -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/
+0.7.7/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js
+"></script>
+
+    <!-- Une feuille de style éventuel -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Tutoriel Leaflet OSM</title>
+  </head>
+
+  <body>
+    <!-- Le conteneur de notre carte (avec une contrainte CSS pour la taille -->
+    <div id="macarte" style="width:545px; height:490px"></div>
+
+    <script>
+      var carte = L.map('macarte').setView([46.5630104, 1.4846608], 6);
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a
+> contributors'
+      }).addTo(carte);
+                        var marker = L.marker([46.6835956, -0.4137665]).addTo(ca
+rte);
+      var hexa = L.polygon([
+        [47.318398, -0.886464],
+        [47.318398, 0.069346],
+        [46.722971, 0.5862335],
+        [46.000000, 0.069346],
+        [46.000000, -0.886464],
+        [46.722971, -1.4137665]
+                        ], {color: 'red'}).addTo(carte);
+    </script>
+  </body>
+
+</html>
+Edit in JSFiddle
+
+     * Result
+     * JavaScript
+     * HTML
+     * CSS
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <!--
+            Inclusion de la bibliothèque Leaflet et sa feuille de style.
+            L'include du js pourrait aussi être fait a la fin du <body>
+        -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/
+0.7.7/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js
+"></script>
+
+    <!-- Une feuille de style éventuel -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Tutoriel Leaflet OSM</title>
+  </head>
+
+  <body>
+    <!-- Le conteneur de notre carte (avec une contrainte CSS pour la taille -->
+    <div id="macarte" style="width:545px; height:490px"></div>
+
+    <script>
+      var carte = L.map('macarte').setView([46.5630104, 1.4846608], 6);
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a
+> contributors'
+      }).addTo(carte);
+                        var marker = L.marker([46.6835956, -0.4137665]).addTo(ca
+rte);
+      carte.on('click', placerMarqueur);
+
+      function placerMarqueur(e) {
+                                marker.setLatLng(e.latlng);
+      };
+    </script>
+  </body>
+
+</html>
+Edit in JSFiddle
+
+     * Result
+     * JavaScript
+     * HTML
+     * CSS
+
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <!--
+            Inclusion de la bibliothèque Leaflet et sa feuille de style.
+            L'include du js pourrait aussi être fait a la fin du <body>
+        -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/
+0.7.7/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js
+"></script>
+
+    <!-- Une feuille de style éventuel -->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Tutoriel Leaflet OSM</title>
+  </head>
+
+  <body>
+    <!-- Le conteneur de notre carte (avec une contrainte CSS pour la taille -->
+    <div id="macarte" style="width:545px; height:490px"></div>
+
+    <script>
+      var carte = L.map('macarte').setView([46.5630104, 1.4846608], 6);
+      L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a
+> contributors'
+      }).addTo(carte);
+                        var marker = L.marker([46.6835956, -0.4137665]).addTo(ca
+rte);
+
+      marker.bindPopup(''); // Je ne met pas de texte par défaut
+      var mapopup = marker.getPopup();
+      mapopup.setContent('Salut, ça zeste ?');
+      marker.openPopup();
+    </script>
+  </body>
+
+</html>

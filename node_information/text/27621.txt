@@ -1,0 +1,60 @@
+    #Action innocence » Feed Action innocence » Comments Feed Action
+   innocence » Search Results for “{search_term_string}” Feed
+
+   ____________________ (BUTTON) Ok
+
+   Action Innocence
+     * Qui sommes-nous?
+          + A propos
+          + Mot de la Présidente
+          + Équipe
+          + Ils nous soutiennent
+          + Partenaires
+          + Contact
+     * Prévention
+     * AntiPedoFiles
+     * Médias
+          + Campagnes
+          + Evénements
+          + Téléchargements
+          + Presse
+     * News
+
+   Rechercher faites un don
+
+{search_term_string}
+
+résultats de recherche
+     __________________________________________________________________
+
+   Aucun résultat n'a été trouvé pour votre recherche.
+
+Qui sommes nous?
+
+     * Partenaires
+     * Équipe
+     * Mot de la Présidente
+     * Contact
+
+Que faisons nous?
+
+     * news
+     * Faire un don
+     * Campagnes
+     * AntiPedoFiles
+     * Prévention
+
+Dernières news
+
+     * Quelques recommandations d’Action Innocence… Retrouvez cette
+       affiche en téléchargement dans notre rubrique
+       “médias/téléchargements”
+     * En partenariat avec Action Innocence… En partenariat avec la
+       Fondation Action Innocence, 5 organismes de camps de
+       vacances/centres aérés et 1 organisme de formation du canton de ...
+
+Réseaux sociaux
+
+SITES ANNEXES
+
+   bann-net-city@x2 bann-surfer-prudent@x2

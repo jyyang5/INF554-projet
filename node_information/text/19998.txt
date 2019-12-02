@@ -1,0 +1,884 @@
+   #Framboise 314, le Raspberry Pi à la sauce française.... » Flux
+   Framboise 314, le Raspberry Pi à la sauce française.... » Flux des
+   commentaires alternate alternate
+
+                                  kubii.fr
+
+Framboise 314, le Raspberry Pi à la sauce française….
+
+La référence du Raspberry Pi en France – Par l'auteur du livre "Raspberry Pi
+3 et Pi Zero" paru aux Edts. ENI
+
+   Rechercher : ____________________ Rechercher
+
+Menu
+
+   Aller au contenu
+     * Accueil
+     * Publications
+          + The MagPi : Tous les numéros en téléchargement gratuit
+               o The MagPi : Le mensuel
+               o Mini MagPi en Français
+               o MagPi pour les débutants
+               o MagPi Spécial Projets
+               o MagPi Spécial Education
+               o MagPi Spéciaux : C, Scratch, AIY…
+          + L’Officiel PC – Raspberry Pi
+          + Hello World
+          + HackSpace Magazine
+          + Micro:Mag
+          + Livres Raspberry Pi chez Editions ENI
+               o Scratch et Raspberry Pi
+               o Raspberry Pi 3 ou Pi Zero
+                    # Acheter ce livre en ligne
+                         @ Editions ENI
+                         @ Amazon
+                         @ Decitre
+                         @ FNAC
+                         @ La Procure
+                         @ Guyane – Librairie Cas’A Bulles
+                         @ La Réunion – Librairie Autrement
+                         @ Martinique – La Kazabul
+                         @ Belgique – MC HOBBY
+                         @ Belgique – Filigranes
+                         @ Luxembourg – Diderich
+                         @ Suisse – Payot
+               o Raspberry Pi 2
+                    # Livre dédicacé
+               o Raspberry Pi
+                    # Présentation
+                    # Erratum
+                    # Comment est né ce livre ?
+                    # Acheter le livre
+                         @ Editions ENI
+                         @ FNAC
+                         @ Amazon
+                         @ Decitre
+                         @ La Procure
+                         @ Belgique – Filigranes
+                         @ Luxembourg – Diderich
+                         @ Suisse – Payot
+                         @ Canada – Renaud-Bray
+                    # Ce qu’on en dit
+          + eBook gratuit
+          + Articles dans des revues
+          + Twitter
+     * PiYou-PiMe
+          + Les Raspberry Pi solitaires
+          + Associations/Clubs Rasbperry Pi
+          + Boutiques Raspberry Pi et Arduino
+     * Scratch
+          + Scratch et Raspberry Pi : Le livre ENI
+          + Scratch et Raspberry Pi : Composants
+               o GPIO
+               o Carte de prototypage
+               o Bouton poussoir
+               o Résistance
+               o LED – LASER
+                    # LED
+                    # LED RGB
+                    # Module LED LASER
+               o Module détecteur de lumière à LDR
+               o Module détecteur de présence PIR
+               o Module Buzzer
+     * Les Tests
+     * Liens
+     * Forums
+     * A propos
+          + Média-kit
+          + A propos de l’auteur
+          + Tous les articles du blog
+          + Politique de confidentialité
+     * GearBest
+
+   Vous êtes ici : Accueil » Gérer les abonnements
+
+Gérer les abonnements
+
+   Vous pouvez suivre la discussion sur Module LED LASER sans avoir à
+   laisser un commentaire.
+   Chouette, non ? Entrez simplement votre adresse émail dans le champ
+   ci-dessous.
+
+   Email email_________________ Envoyer
+
+   Share Button
+
+Change language
+
+Une pub pour faire vivre le blog
+
+Rejoignez nous !
+
+   Flux RSS
+            Pinterest
+            Follow @framboise314
+
+Abonnez-vous à notre newsletter
+
+   Veuillez laisser ce champ vide ____________________
+
+   E-mail * ____________________
+
+   Je m'abonne !
+
+   Vérifiez votre boîte de réception afin de confirmer votre abonnement.
+
+Apprendre l’électronique/robotique avec Scratch
+
+   Scratch et le Raspberry Pi - S'initier à l'électronique et à la
+   robotique par le jeu
+
+Le livre de référence du Raspberry Pi
+
+                              [Couv_300px.png]
+
+Starter Kit : Livre + Raspberry Pi 3
+
+                         starter Kit Raspberry Pi 3
+
+La vidéo
+
+   video_elephorm_212px
+
+Liens Partagés
+
+   Coupons de réduction pour le Cinquième 5ème anniversaire de PCBWay
+
+   [USEMAP:mc_hobby.jpg]
+
+   comelec
+   Fab Lab Utopi Communauté Urbaine Creusot-Montceau Fab Lab du Chalonnais
+
+   EverPi
+
+eBooks gratuits
+
+   démarrer raspberry pi conseils astuces connecter pi3B+ HDMI USB
+   alimentation réseau ethernet
+
+   guide soudure débutant tutoriel braser brasure souder étain plomb
+   argent flux
+
+Retrouvez nous sur Facebook
+
+                    [365454566886977.1295.664206381.png]
+
+framboise314 est membre de
+
+   logo April
+
+Connections en direct
+
+Visiteurs / Jour
+
+   3,007
+   Visiteurs
+   Uniques
+   Powered By Google Analytics
+
+Partager
+
+   Share Button
+
+          [pilon_creusot.jpg]    [logo_71.jpg]    [cc-by-nc-sa.png]
+
+                           MERCI DE VOTRE VISITE !
+   Nous contacter : contact@framboise314.fr
+   1016 articles ont été publiés sur le blog www.framboise314.fr.
+   Vous trouverez la liste complète des articles ici.
+     __________________________________________________________________
+
+                     Droits d’auteur et reproduction :
+
+      Toute production éditoriale de framboise314.fr est en «Creative
+                       Commons» BY-NC-SA 3.0 France :
+ Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes
+                               Conditions 3.0.
+          [ http://creativecommons.org/licenses/by-nc-sa/3.0/fr/ ]
+                    Retrouvez moi sur Google+ et LinkedIn
+     __________________________________________________________________
+
+                              Mentions légales
+                            Hébergé par :YulPa
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+   Module LED LASER
+
+   Au sommaire :1 Module LED Laser1.1 Définition1.2 Principe1.3
+   Sensibilité de l’œil1.4 Technologie1.5 Photos de diodes LASER1.6 Module
+   LED Laser1.6.1 Présentation1.6.2 Connexion du module laser1.6.3 Le
+   LASER en action1.6.4 C’est quoi ces petits grains ?1.7   Module LED
+   Laser On va rester dans les diodes avec ce premier module. Jusqu’ici
+   nous avons vu quelques composants. Cette … Lire la suite de Module LED
+   LASER
+   Framboise 314, le Raspberry Pi à la sauce française....
+   0 Commentaire
+   (BUTTON)
+
+     * (BUTTON) Contenu embarqué WordPress
+     * (BUTTON) Contenu embarqué HTML
+
+   https://www.frambois
+
+   Copiez-collez cette URL dans votre site WordPress pour l’inclure
+
+   <blockquote class="wp-embedded-content"><a href="https://www
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   /**_________________________________________________________
+    * WordPress inline HTML embed______________________________
+    *__________________________________________________________
+    * @since 4.4.0_____________________________________________
+    * @output wp-includes/js/wp-embed.js_______________________
+    *__________________________________________________________
+    * This file cannot have ampersands in it. This is to ensure
+    * it can be embedded in older versions of WordPress._______
+    * See https://core.trac.wordpress.org/changeset/35708._____
+    */_________________________________________________________
+   (function ( window, document ) {____________________________
+   	'use strict';______________________________________________
+   ____________________________________________________________
+   	var supportedBrowser = false,______________________________
+   		loaded = false;___________________________________________
+   ____________________________________________________________
+   		if ( document.querySelector ) {___________________________
+   			if ( window.addEventListener ) {_________________________
+   				supportedBrowser = true;________________________________
+   			}________________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   	/** @namespace wp */_______________________________________
+   	window.wp = window.wp || {};_______________________________
+   ____________________________________________________________
+   	if ( !! window.wp.receiveEmbedMessage ) {__________________
+   		return;___________________________________________________
+   	}__________________________________________________________
+   ____________________________________________________________
+   	window.wp.receiveEmbedMessage = function( e ) {____________
+   		var data = e.data;________________________________________
+   ____________________________________________________________
+   		if ( ! data ) {___________________________________________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		if ( ! ( data.secret || data.message || data.value ) ) {__
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		if ( /[^a-zA-Z0-9]/.test( data.secret ) ) {_______________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		var iframes = document.querySelectorAll( 'iframe[data-secr
+   			blockquotes = document.querySelectorAll( 'blockquote[data
+   			i, source, height, sourceURL, targetURL;_________________
+   ____________________________________________________________
+   		for ( i = 0; i < blockquotes.length; i++ ) {______________
+   			blockquotes[ i ].style.display = 'none';_________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		for ( i = 0; i < iframes.length; i++ ) {__________________
+   			source = iframes[ i ];___________________________________
+   ____________________________________________________________
+   			if ( e.source !== source.contentWindow ) {_______________
+   				continue;_______________________________________________
+   			}________________________________________________________
+   ____________________________________________________________
+   			source.removeAttribute( 'style' );_______________________
+   ____________________________________________________________
+   			/* Resize the iframe on request. */______________________
+   			if ( 'height' === data.message ) {_______________________
+   				height = parseInt( data.value, 10 );____________________
+   				if ( height > 1000 ) {__________________________________
+   					height = 1000;_________________________________________
+   				} else if ( ~~height < 200 ) {__________________________
+   					height = 200;__________________________________________
+   				}_______________________________________________________
+   ____________________________________________________________
+   				source.height = height;_________________________________
+   			}________________________________________________________
+   ____________________________________________________________
+   			/* Link to a specific URL on request. */_________________
+   			if ( 'link' === data.message ) {_________________________
+   				sourceURL = document.createElement( 'a' );______________
+   				targetURL = document.createElement( 'a' );______________
+   ____________________________________________________________
+   				sourceURL.href = source.getAttribute( 'src' );__________
+   				targetURL.href = data.value;____________________________
+   ____________________________________________________________
+   				/* Only continue if link hostname matches iframe's hostn
+   				if ( targetURL.host === sourceURL.host ) {______________
+   					if ( document.activeElement === source ) {_____________
+   						window.top.location.href = data.value;________________
+   					}______________________________________________________
+   				}_______________________________________________________
+   			}________________________________________________________
+   		}_________________________________________________________
+   	};_________________________________________________________
+   ____________________________________________________________
+   	function onLoad() {________________________________________
+   		if ( loaded ) {___________________________________________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		loaded = true;____________________________________________
+   ____________________________________________________________
+   		var isIE10 = -1 !== navigator.appVersion.indexOf( 'MSIE 10
+   			isIE11 = !!navigator.userAgent.match( /Trident.*rv:11\./ 
+   			iframes = document.querySelectorAll( 'iframe.wp-embedded-
+   			iframeClone, i, source, secret;__________________________
+   ____________________________________________________________
+   		for ( i = 0; i < iframes.length; i++ ) {__________________
+   			source = iframes[ i ];___________________________________
+   ____________________________________________________________
+   			if ( ! source.getAttribute( 'data-secret' ) ) {__________
+   				/* Add secret to iframe */______________________________
+   				secret = Math.random().toString( 36 ).substr( 2, 10 );__
+   				source.src += '#?secret=' + secret;_____________________
+   				source.setAttribute( 'data-secret', secret );___________
+   			}________________________________________________________
+   ____________________________________________________________
+   			/* Remove security attribute from iframes in IE10 and IE1
+   			if ( ( isIE10 || isIE11 ) ) {____________________________
+   				iframeClone = source.cloneNode( true );_________________
+   				iframeClone.removeAttribute( 'security' );______________
+   				source.parentNode.replaceChild( iframeClone, source );__
+   			}________________________________________________________
+   		}_________________________________________________________
+   	}__________________________________________________________
+   ____________________________________________________________
+   	if ( supportedBrowser ) {__________________________________
+   		window.addEventListener( 'message', window.wp.receiveEmbed
+   		document.addEventListener( 'DOMContentLoaded', onLoad, fal
+   		window.addEventListener( 'load', onLoad, false );_________
+   	}__________________________________________________________
+   })( window, document );_____________________________________
+   ____________________________________________________________
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copiez-collez ce code sur votre site pour l’y intégrer
+   (BUTTON)
+   #Framboise 314, le Raspberry Pi à la sauce française.... » Flux
+   Framboise 314, le Raspberry Pi à la sauce française.... » Flux des
+   commentaires alternate alternate
+
+                                  kubii.fr
+
+Framboise 314, le Raspberry Pi à la sauce française….
+
+La référence du Raspberry Pi en France – Par l'auteur du livre "Raspberry Pi
+3 et Pi Zero" paru aux Edts. ENI
+
+   Rechercher : ____________________ Rechercher
+
+Menu
+
+   Aller au contenu
+     * Accueil
+     * Publications
+          + The MagPi : Tous les numéros en téléchargement gratuit
+               o The MagPi : Le mensuel
+               o Mini MagPi en Français
+               o MagPi pour les débutants
+               o MagPi Spécial Projets
+               o MagPi Spécial Education
+               o MagPi Spéciaux : C, Scratch, AIY…
+          + L’Officiel PC – Raspberry Pi
+          + Hello World
+          + HackSpace Magazine
+          + Micro:Mag
+          + Livres Raspberry Pi chez Editions ENI
+               o Scratch et Raspberry Pi
+               o Raspberry Pi 3 ou Pi Zero
+                    # Acheter ce livre en ligne
+                         @ Editions ENI
+                         @ Amazon
+                         @ Decitre
+                         @ FNAC
+                         @ La Procure
+                         @ Guyane – Librairie Cas’A Bulles
+                         @ La Réunion – Librairie Autrement
+                         @ Martinique – La Kazabul
+                         @ Belgique – MC HOBBY
+                         @ Belgique – Filigranes
+                         @ Luxembourg – Diderich
+                         @ Suisse – Payot
+               o Raspberry Pi 2
+                    # Livre dédicacé
+               o Raspberry Pi
+                    # Présentation
+                    # Erratum
+                    # Comment est né ce livre ?
+                    # Acheter le livre
+                         @ Editions ENI
+                         @ FNAC
+                         @ Amazon
+                         @ Decitre
+                         @ La Procure
+                         @ Belgique – Filigranes
+                         @ Luxembourg – Diderich
+                         @ Suisse – Payot
+                         @ Canada – Renaud-Bray
+                    # Ce qu’on en dit
+          + eBook gratuit
+          + Articles dans des revues
+          + Twitter
+     * PiYou-PiMe
+          + Les Raspberry Pi solitaires
+          + Associations/Clubs Rasbperry Pi
+          + Boutiques Raspberry Pi et Arduino
+     * Scratch
+          + Scratch et Raspberry Pi : Le livre ENI
+          + Scratch et Raspberry Pi : Composants
+               o GPIO
+               o Carte de prototypage
+               o Bouton poussoir
+               o Résistance
+               o LED – LASER
+                    # LED
+                    # LED RGB
+                    # Module LED LASER
+               o Module détecteur de lumière à LDR
+               o Module détecteur de présence PIR
+               o Module Buzzer
+     * Les Tests
+     * Liens
+     * Forums
+     * A propos
+          + Média-kit
+          + A propos de l’auteur
+          + Tous les articles du blog
+          + Politique de confidentialité
+     * GearBest
+
+   Vous êtes ici : Accueil » Gérer les abonnements
+
+Gérer les abonnements
+
+   Vous pouvez suivre la discussion sur Module détecteur de lumière à LDR
+   sans avoir à laisser un commentaire.
+   Chouette, non ? Entrez simplement votre adresse émail dans le champ
+   ci-dessous.
+
+   Email email_________________ Envoyer
+
+   Share Button
+
+Change language
+
+Une pub pour faire vivre le blog
+
+Rejoignez nous !
+
+   Flux RSS
+            Pinterest
+            Follow @framboise314
+
+Abonnez-vous à notre newsletter
+
+   Veuillez laisser ce champ vide ____________________
+
+   E-mail * ____________________
+
+   Je m'abonne !
+
+   Vérifiez votre boîte de réception afin de confirmer votre abonnement.
+
+Apprendre l’électronique/robotique avec Scratch
+
+   Scratch et le Raspberry Pi - S'initier à l'électronique et à la
+   robotique par le jeu
+
+Le livre de référence du Raspberry Pi
+
+                              [Couv_300px.png]
+
+Starter Kit : Livre + Raspberry Pi 3
+
+                         starter Kit Raspberry Pi 3
+
+La vidéo
+
+   video_elephorm_212px
+
+Liens Partagés
+
+   Coupons de réduction pour le Cinquième 5ème anniversaire de PCBWay
+
+   [USEMAP:mc_hobby.jpg]
+
+   comelec
+   Fab Lab Utopi Communauté Urbaine Creusot-Montceau Fab Lab du Chalonnais
+
+   EverPi
+
+eBooks gratuits
+
+   démarrer raspberry pi conseils astuces connecter pi3B+ HDMI USB
+   alimentation réseau ethernet
+
+   guide soudure débutant tutoriel braser brasure souder étain plomb
+   argent flux
+
+Retrouvez nous sur Facebook
+
+                    [365454566886977.1295.664206381.png]
+
+framboise314 est membre de
+
+   logo April
+
+Connections en direct
+
+Visiteurs / Jour
+
+   3,007
+   Visiteurs
+   Uniques
+   Powered By Google Analytics
+
+Partager
+
+   Share Button
+
+          [pilon_creusot.jpg]    [logo_71.jpg]    [cc-by-nc-sa.png]
+
+                           MERCI DE VOTRE VISITE !
+   Nous contacter : contact@framboise314.fr
+   1016 articles ont été publiés sur le blog www.framboise314.fr.
+   Vous trouverez la liste complète des articles ici.
+     __________________________________________________________________
+
+                     Droits d’auteur et reproduction :
+
+      Toute production éditoriale de framboise314.fr est en «Creative
+                       Commons» BY-NC-SA 3.0 France :
+ Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes
+                               Conditions 3.0.
+          [ http://creativecommons.org/licenses/by-nc-sa/3.0/fr/ ]
+                    Retrouvez moi sur Google+ et LinkedIn
+     __________________________________________________________________
+
+                              Mentions légales
+                            Hébergé par :YulPa
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site. Si vous continuez à utiliser ce dernier, nous
+   considérerons que vous acceptez l'utilisation des cookies.Ok
+   Module détecteur de lumière à LDR
+
+   Au sommaire :1 Module détecteur de lumière à LDR1.1 Présentation1.2
+   Description1.3 Photo-résistance1.4 Variation de résistance1.5 Schéma du
+   module détecteur de lumière à LDR1.5.1 Fonctionnement dans
+   l’obscurité1.5.2 Fonctionnement à la lumière1.5.3 En résumé1.6
+   Connexion au Raspberry Pi1.7 Un programme de test avec Scratch1.8 Vidéo
+   Module détecteur de lumière à LDR Présentation Voilà le module que j’ai
+   … Lire la suite de Module détecteur de lumière à LDR
+   Framboise 314, le Raspberry Pi à la sauce française....
+   1 Commentaire
+   (BUTTON)
+
+     * (BUTTON) Contenu embarqué WordPress
+     * (BUTTON) Contenu embarqué HTML
+
+   https://www.frambois
+
+   Copiez-collez cette URL dans votre site WordPress pour l’inclure
+
+   <blockquote class="wp-embedded-content"><a href="https://www
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   /**_________________________________________________________
+    * WordPress inline HTML embed______________________________
+    *__________________________________________________________
+    * @since 4.4.0_____________________________________________
+    * @output wp-includes/js/wp-embed.js_______________________
+    *__________________________________________________________
+    * This file cannot have ampersands in it. This is to ensure
+    * it can be embedded in older versions of WordPress._______
+    * See https://core.trac.wordpress.org/changeset/35708._____
+    */_________________________________________________________
+   (function ( window, document ) {____________________________
+   	'use strict';______________________________________________
+   ____________________________________________________________
+   	var supportedBrowser = false,______________________________
+   		loaded = false;___________________________________________
+   ____________________________________________________________
+   		if ( document.querySelector ) {___________________________
+   			if ( window.addEventListener ) {_________________________
+   				supportedBrowser = true;________________________________
+   			}________________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   	/** @namespace wp */_______________________________________
+   	window.wp = window.wp || {};_______________________________
+   ____________________________________________________________
+   	if ( !! window.wp.receiveEmbedMessage ) {__________________
+   		return;___________________________________________________
+   	}__________________________________________________________
+   ____________________________________________________________
+   	window.wp.receiveEmbedMessage = function( e ) {____________
+   		var data = e.data;________________________________________
+   ____________________________________________________________
+   		if ( ! data ) {___________________________________________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		if ( ! ( data.secret || data.message || data.value ) ) {__
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		if ( /[^a-zA-Z0-9]/.test( data.secret ) ) {_______________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		var iframes = document.querySelectorAll( 'iframe[data-secr
+   			blockquotes = document.querySelectorAll( 'blockquote[data
+   			i, source, height, sourceURL, targetURL;_________________
+   ____________________________________________________________
+   		for ( i = 0; i < blockquotes.length; i++ ) {______________
+   			blockquotes[ i ].style.display = 'none';_________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		for ( i = 0; i < iframes.length; i++ ) {__________________
+   			source = iframes[ i ];___________________________________
+   ____________________________________________________________
+   			if ( e.source !== source.contentWindow ) {_______________
+   				continue;_______________________________________________
+   			}________________________________________________________
+   ____________________________________________________________
+   			source.removeAttribute( 'style' );_______________________
+   ____________________________________________________________
+   			/* Resize the iframe on request. */______________________
+   			if ( 'height' === data.message ) {_______________________
+   				height = parseInt( data.value, 10 );____________________
+   				if ( height > 1000 ) {__________________________________
+   					height = 1000;_________________________________________
+   				} else if ( ~~height < 200 ) {__________________________
+   					height = 200;__________________________________________
+   				}_______________________________________________________
+   ____________________________________________________________
+   				source.height = height;_________________________________
+   			}________________________________________________________
+   ____________________________________________________________
+   			/* Link to a specific URL on request. */_________________
+   			if ( 'link' === data.message ) {_________________________
+   				sourceURL = document.createElement( 'a' );______________
+   				targetURL = document.createElement( 'a' );______________
+   ____________________________________________________________
+   				sourceURL.href = source.getAttribute( 'src' );__________
+   				targetURL.href = data.value;____________________________
+   ____________________________________________________________
+   				/* Only continue if link hostname matches iframe's hostn
+   				if ( targetURL.host === sourceURL.host ) {______________
+   					if ( document.activeElement === source ) {_____________
+   						window.top.location.href = data.value;________________
+   					}______________________________________________________
+   				}_______________________________________________________
+   			}________________________________________________________
+   		}_________________________________________________________
+   	};_________________________________________________________
+   ____________________________________________________________
+   	function onLoad() {________________________________________
+   		if ( loaded ) {___________________________________________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		loaded = true;____________________________________________
+   ____________________________________________________________
+   		var isIE10 = -1 !== navigator.appVersion.indexOf( 'MSIE 10
+   			isIE11 = !!navigator.userAgent.match( /Trident.*rv:11\./ 
+   			iframes = document.querySelectorAll( 'iframe.wp-embedded-
+   			iframeClone, i, source, secret;__________________________
+   ____________________________________________________________
+   		for ( i = 0; i < iframes.length; i++ ) {__________________
+   			source = iframes[ i ];___________________________________
+   ____________________________________________________________
+   			if ( ! source.getAttribute( 'data-secret' ) ) {__________
+   				/* Add secret to iframe */______________________________
+   				secret = Math.random().toString( 36 ).substr( 2, 10 );__
+   				source.src += '#?secret=' + secret;_____________________
+   				source.setAttribute( 'data-secret', secret );___________
+   			}________________________________________________________
+   ____________________________________________________________
+   			/* Remove security attribute from iframes in IE10 and IE1
+   			if ( ( isIE10 || isIE11 ) ) {____________________________
+   				iframeClone = source.cloneNode( true );_________________
+   				iframeClone.removeAttribute( 'security' );______________
+   				source.parentNode.replaceChild( iframeClone, source );__
+   			}________________________________________________________
+   		}_________________________________________________________
+   	}__________________________________________________________
+   ____________________________________________________________
+   	if ( supportedBrowser ) {__________________________________
+   		window.addEventListener( 'message', window.wp.receiveEmbed
+   		document.addEventListener( 'DOMContentLoaded', onLoad, fal
+   		window.addEventListener( 'load', onLoad, false );_________
+   	}__________________________________________________________
+   })( window, document );_____________________________________
+   ____________________________________________________________
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copiez-collez ce code sur votre site pour l’y intégrer
+   (BUTTON)
+   Module détecteur de présence PIR
+
+   Au sommaire :1 Détecteur de présence infrarouge PIR1.1 Présentation1.2
+   Principe de la détection1.3 Lentille de Fresnel1.3.1 Lentille classique
+   (loupe)1.3.2 Principe de la lentille de Fresnel1.3.3 La lentille de
+   Fresnel et le PIR1.3.4 Lentille de Fresnel multiple1.3.5 Champ couvert
+   par la lentille du détecteur infrarouge PIR1.4 Schéma du module
+   détecteur PIR HC-SR5011.4.1 Mode avec réenclenchement1.4.2 Mode … Lire
+   la suite de Module détecteur de présence PIR
+   Framboise 314, le Raspberry Pi à la sauce française....
+   (BUTTON)
+
+     * (BUTTON) Contenu embarqué WordPress
+     * (BUTTON) Contenu embarqué HTML
+
+   https://www.frambois
+
+   Copiez-collez cette URL dans votre site WordPress pour l’inclure
+
+   <blockquote class="wp-embedded-content"><a href="https://www
+   <script type='text/javascript'>_____________________________
+   <!--//--><![CDATA[//><!--___________________________________
+   /**_________________________________________________________
+    * WordPress inline HTML embed______________________________
+    *__________________________________________________________
+    * @since 4.4.0_____________________________________________
+    * @output wp-includes/js/wp-embed.js_______________________
+    *__________________________________________________________
+    * This file cannot have ampersands in it. This is to ensure
+    * it can be embedded in older versions of WordPress._______
+    * See https://core.trac.wordpress.org/changeset/35708._____
+    */_________________________________________________________
+   (function ( window, document ) {____________________________
+   	'use strict';______________________________________________
+   ____________________________________________________________
+   	var supportedBrowser = false,______________________________
+   		loaded = false;___________________________________________
+   ____________________________________________________________
+   		if ( document.querySelector ) {___________________________
+   			if ( window.addEventListener ) {_________________________
+   				supportedBrowser = true;________________________________
+   			}________________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   	/** @namespace wp */_______________________________________
+   	window.wp = window.wp || {};_______________________________
+   ____________________________________________________________
+   	if ( !! window.wp.receiveEmbedMessage ) {__________________
+   		return;___________________________________________________
+   	}__________________________________________________________
+   ____________________________________________________________
+   	window.wp.receiveEmbedMessage = function( e ) {____________
+   		var data = e.data;________________________________________
+   ____________________________________________________________
+   		if ( ! data ) {___________________________________________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		if ( ! ( data.secret || data.message || data.value ) ) {__
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		if ( /[^a-zA-Z0-9]/.test( data.secret ) ) {_______________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		var iframes = document.querySelectorAll( 'iframe[data-secr
+   			blockquotes = document.querySelectorAll( 'blockquote[data
+   			i, source, height, sourceURL, targetURL;_________________
+   ____________________________________________________________
+   		for ( i = 0; i < blockquotes.length; i++ ) {______________
+   			blockquotes[ i ].style.display = 'none';_________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		for ( i = 0; i < iframes.length; i++ ) {__________________
+   			source = iframes[ i ];___________________________________
+   ____________________________________________________________
+   			if ( e.source !== source.contentWindow ) {_______________
+   				continue;_______________________________________________
+   			}________________________________________________________
+   ____________________________________________________________
+   			source.removeAttribute( 'style' );_______________________
+   ____________________________________________________________
+   			/* Resize the iframe on request. */______________________
+   			if ( 'height' === data.message ) {_______________________
+   				height = parseInt( data.value, 10 );____________________
+   				if ( height > 1000 ) {__________________________________
+   					height = 1000;_________________________________________
+   				} else if ( ~~height < 200 ) {__________________________
+   					height = 200;__________________________________________
+   				}_______________________________________________________
+   ____________________________________________________________
+   				source.height = height;_________________________________
+   			}________________________________________________________
+   ____________________________________________________________
+   			/* Link to a specific URL on request. */_________________
+   			if ( 'link' === data.message ) {_________________________
+   				sourceURL = document.createElement( 'a' );______________
+   				targetURL = document.createElement( 'a' );______________
+   ____________________________________________________________
+   				sourceURL.href = source.getAttribute( 'src' );__________
+   				targetURL.href = data.value;____________________________
+   ____________________________________________________________
+   				/* Only continue if link hostname matches iframe's hostn
+   				if ( targetURL.host === sourceURL.host ) {______________
+   					if ( document.activeElement === source ) {_____________
+   						window.top.location.href = data.value;________________
+   					}______________________________________________________
+   				}_______________________________________________________
+   			}________________________________________________________
+   		}_________________________________________________________
+   	};_________________________________________________________
+   ____________________________________________________________
+   	function onLoad() {________________________________________
+   		if ( loaded ) {___________________________________________
+   			return;__________________________________________________
+   		}_________________________________________________________
+   ____________________________________________________________
+   		loaded = true;____________________________________________
+   ____________________________________________________________
+   		var isIE10 = -1 !== navigator.appVersion.indexOf( 'MSIE 10
+   			isIE11 = !!navigator.userAgent.match( /Trident.*rv:11\./ 
+   			iframes = document.querySelectorAll( 'iframe.wp-embedded-
+   			iframeClone, i, source, secret;__________________________
+   ____________________________________________________________
+   		for ( i = 0; i < iframes.length; i++ ) {__________________
+   			source = iframes[ i ];___________________________________
+   ____________________________________________________________
+   			if ( ! source.getAttribute( 'data-secret' ) ) {__________
+   				/* Add secret to iframe */______________________________
+   				secret = Math.random().toString( 36 ).substr( 2, 10 );__
+   				source.src += '#?secret=' + secret;_____________________
+   				source.setAttribute( 'data-secret', secret );___________
+   			}________________________________________________________
+   ____________________________________________________________
+   			/* Remove security attribute from iframes in IE10 and IE1
+   			if ( ( isIE10 || isIE11 ) ) {____________________________
+   				iframeClone = source.cloneNode( true );_________________
+   				iframeClone.removeAttribute( 'security' );______________
+   				source.parentNode.replaceChild( iframeClone, source );__
+   			}________________________________________________________
+   		}_________________________________________________________
+   	}__________________________________________________________
+   ____________________________________________________________
+   	if ( supportedBrowser ) {__________________________________
+   		window.addEventListener( 'message', window.wp.receiveEmbed
+   		document.addEventListener( 'DOMContentLoaded', onLoad, fal
+   		window.addEventListener( 'load', onLoad, false );_________
+   	}__________________________________________________________
+   })( window, document );_____________________________________
+   ____________________________________________________________
+   //--><!]]>__________________________________________________
+   </script><iframe sandbox="allow-scripts" security="restricte
+
+   Copiez-collez ce code sur votre site pour l’y intégrer
+   (BUTTON)

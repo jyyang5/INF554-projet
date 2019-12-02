@@ -1,0 +1,1086 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PZRG3F
+
+   Jump to navigation
+
+   Home
+   Developer Zone
+     * 简体中文
+     * English
+     * Español
+     * Português
+     * Русский
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+   Menu
+
+Support
+
+Home
+
+     * Developer Programs
+     * Documentation
+     * Tools & Cloud
+          + Tools & SDKs
+          + Cloud Access
+     * Support
+          + Get Help
+          + Forums
+          + Priority Support
+     * Experts
+          + Black Belts
+          + Evangelists
+          + Innovators
+     * Releases & Events
+          + Recent Updates
+          + Events
+          + Developer Newsletters
+          + Video Channel
+
+     * 简体中文
+     * English
+     * Español
+     * Português
+     * Русский
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+     * Share
+     * Tweet
+     * Share
+     * Send
+
+   Share
+
+   General Site Issues FAQ
+
+You've got questions, we've got answers!
+
+   Take a look at the top questions asked on the Intel® Developer Zone and
+   see if yours is already answered. Don't see your question? You can
+   always ask us in the forums or through our support channels.
+
+   Get Support
+
+   What is the Intel® Developer Zone?
+          The Intel® Developer Zone is a global site designed to engage
+          the software community with insights, information, expertise,
+          and tools to help drive innovation and success among developers
+          who work in the Intel software environment. The program provides
+          opportunities for members to connect and collaborate, share
+          knowledge, learn, and grow professionally. In addition, members
+          have access to a wide variety of opportunities to market and
+          sell their software and apps directly to consumers, as well as
+          tap into promotional and funding opportunities to help them grow
+          their businesses.
+
+          Evolving technologies, growing customer expectations, and
+          heightened consumer experiences—the business of creating
+          best-selling software and popular apps changes from day to day.
+          The Intel Developer Zone provides the perspective and resources
+          software professionals need to plan for and react to these
+          shifts.
+
+   Intel makes processors—how does that relate to software?
+          Intel® processors power a huge range of devices—from Macs* and
+          PCs to smartphones, tablets, and OEM devices. As a result, we
+          need to pay attention to the software that runs on those devices
+          in our constant pursuit of better user experiences. This puts
+          Intel in a unique position to help developers make the most of
+          their efforts across a variety of form factors, operating
+          systems, and platforms.
+
+   Who uses the Intel Developer Zone?
+          The Intel Developer Zone was created for software professionals
+          engaged in creating, developing, marketing, selling, and
+          distributing software and apps. Our website provides development
+          support, software resources, and market opportunities to
+          everyone from seasoned developers and global software businesses
+          to students and software startups.
+
+   Is this a worldwide program?
+          Yes. The program provides opportunities to sell and distribute
+          software and apps directly to customers in 45 countries and
+          provides access to content in English, Spanish, French, Italian,
+          German, Russian, Portuguese, and Chinese. In addition,
+          developers can connect and collaborate with Intel experts
+          worldwide and engage with a community of peers, students, and
+          educators from over 150 countries to share development advice
+          and business opportunities, answer questions, and gather
+          information on new platforms, technologies, and techniques.
+
+   How does registration work?
+          A developer can register to post comments to forums and access a
+          variety of technical content and resources. Additional
+          requirements to access premium business resources may apply.
+
+   Does it cost anything to join?
+          No. There are no costs to join the program or to access nearly
+          all of our resources.
+
+   What is the Intel login?
+          Before you create a new login ID, you should know that many
+          Intel systems allow you to use the same login ID. For example:
+
+          + If you have registered any Intel® Software Development
+            Products (i.e., Intel® VTune™ Performance Analyzer), then use
+            your Intel® Registration Center login ID.
+          + If you have submitted a support request using Intel Premier
+            Support, then you should already have a login ID.
+          + If you are a member of the Intel Software Partner Program,
+            then you should already have a login ID.
+
+          If you think you already have an account, here are some useful
+          links:
+
+          + Log in with your existing login ID
+          + Enter your email address and get your login ID
+          + Enter your login ID and get your password
+          + Sign In FAQ
+
+   What are the Intel password guidelines?
+          The following password rules are for both the Registration
+          Center and for Premier Support.
+
+          + The password must be at least eight characters long, and can
+            contain letters, numbers, and punctuation.
+          + It must not exceed fourteen (14) characters.
+          + It must contain at least one alpha character [a-z; A-Z], one
+            numeric [0-9] and one special character [`!
+            @$%^&*()-_=+[];:'",<.>/?].
+          + It cannot contain spaces.
+          + The password cannot be the same as any of your previous eight
+            (8) passwords.
+          + It cannot contain your login id.
+          + It may not contain any of the following special characters:
+            Asterisk (*) Comma (,) Backslash (\) Forward Slash (/).
+
+          It must not:
+
+          + Be a name (your own, family members, pets, or famous people).
+          + Be your social security number, driver's license number,
+            passport number, or some other identification number.
+          + Have repeating numbers, letters, or characters (111111,
+            aaaaaa, !!!!!!).
+          + Be a number or character combination that is next to each
+            other on the keyboard (123456, asdfgh).
+          + Be a dictionary word of any language.
+          + Begin with an exclamation point (!) or question mark (?).
+          + Have the same first three characters.
+
+   How can I contribute to Intel Developer Zone?
+          Our Intel® Black Belt Software Developers are the most
+          distinguished members of our communities. They have been
+          selected individually for exceptional technical expertise and
+          leadership in the Intel Developer Zone communities and our
+          industry. Do you have what it takes to be an Intel Black Belt
+          Software Developer?
+
+          Intel® Black Belt Software Developer FAQ
+
+          The Intel Developer Zone had the very first external blog at
+          Intel. It's read by thousands of people with an interest in
+          software every week. The following FAQ addresses questions about
+          what the blog is, what it can do, and how you can post there.
+
+          Contributing (Blog Authoring) FAQ
+
+   How can I report an issue related to the Security Software website?
+          To report website issues, email
+          otc-digital-experiences@intel.com.
+
+More Questions?
+
+   Ask us in the forums or through our support channels.
+
+   Get Support
+
+Browse by Topic
+
+   General Site Questions
+   Priority Support
+   Products
+   Purchasing, Renewing, and Upgrading
+   Free Software
+   Downloading
+   Licensing
+   Registration
+   Installation
+   Intel® Hardware and Technology
+
+     * Hardware Developers
+          + Firmware
+          + Modeling & Simulation
+          + Resource and Design Center
+          + Shop Intel
+     * Open Source
+          + 01.org
+          + GitHub*
+     * Manage Your Tools
+          + Download Center
+          + Priority Support
+          + Registration Center
+     * Connect
+          + Forums
+          + Meet the Experts
+          + Newsletter
+          + Recent Updates
+          + YouTube* Channel
+
+   Rate Us
+
+   [bwc_close.png]
+   Get the Newsletter
+   Follow us:
+     * Facebook
+     * Twitter
+     * Github
+     * Twitch
+     * YouTube
+
+     * Terms of Use
+     * *Trademarks
+     * Privacy
+     * Cookies
+     * Email preferences
+
+   [GoogleSearch-icon.jpg]
+
+   [intel_blue.png]
+   #alternate alternate alternate alternate
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PZRG3F
+
+   Jump to navigation
+
+   Home
+   Developer Zone
+     * Português
+     * English
+     * 简体中文
+     * Русский
+     * Español
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+
+   Menu
+
+Support
+
+Home
+
+     * Developer Programs
+     * Documentation
+     * Tools & Cloud
+          + Tools & SDKs
+          + Cloud Access
+     * Support
+          + Get Help
+          + Forums
+          + Priority Support
+     * Experts
+          + Black Belts
+          + Evangelists
+          + Innovators
+     * Releases & Events
+          + Recent Updates
+          + Events
+          + Developer Newsletters
+          + Video Channel
+
+     * Português
+     * English
+     * 简体中文
+     * Русский
+     * Español
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+     * Share
+     * Tweet
+     * Share
+     * Send
+
+   Share
+
+   Get Help
+
+Get Started
+
+   Software Downloads
+   Product Licensing
+   Product Registration
+   General Site Issues
+
+   All FAQ
+
+Documentation
+
+   Get additional information as well as code samples for your Intel
+   products.
+
+   All Documentation
+   Code Samples
+
+Community Forum
+
+   Connect with other developers and technical experts through this public
+   forum.
+
+   All Product Forums
+
+Registration Center
+
+   Register a product, view already registered products, and download
+   updates.
+
+   Register
+
+   Customers with active Priority Support get access to Intel engineers
+   for technical questions.  Priority Support
+
+   Site Support or Non-Technical Questions
+   For site support and non-technical questions, email us.
+
+Product Support
+
+   Suites
+
+   Intel® Media Server Studio
+
+   Intel® Parallel Studio XE
+
+   Intel® System Studio
+
+   Boards and Development Kits
+
+   IEI TANK* AIoT Developer Kit
+
+   Intel® Aero Platform for UAVs
+
+   Intel® IoT Gateway
+
+   Intel® Quark™ Microcontroller D2000
+
+   Intel® Quark™ SE Microcontroller C1000
+
+   Terasic DE10-Nano Kit
+
+   UP Squared* AI Vision Developer Kit
+
+   UP Squared* Grove* IoT Development Kit
+
+   Tools, Compilers, Libraries, APIs, and SDKs
+
+   Intel® Advisor
+
+   Intel® C++ Compilers
+
+   Intel® Data Analytics Acceleration Library
+
+   Intel® Fortran Compilers
+
+   Intel® Inspector
+
+   Intel® Math Kernel Library
+
+   Intel® MPI Library
+
+   OpenCL™ Technology
+
+   OpenVINO™ Toolkit
+
+   Intel® RealSense™ SDK
+
+   Intel® Trace Analyzer and Collector
+
+   Intel® VTune™ Amplifier
+
+   Intel® Threading Building Blocks
+
+   Intel® Integrated Performance Primitives
+
+   Security
+
+   Side-Channel Security Issue: Software Support
+
+   Side Channel Analysis Facts and Intel Products
+
+     * Hardware Developers
+          + Firmware
+          + Modeling & Simulation
+          + Resource and Design Center
+          + Shop Intel
+     * Open Source
+          + 01.org
+          + GitHub*
+     * Manage Your Tools
+          + Download Center
+          + Priority Support
+          + Registration Center
+     * Connect
+          + Forums
+          + Meet the Experts
+          + Newsletter
+          + Recent Updates
+          + YouTube* Channel
+
+   Rate Us
+
+   [bwc_close.png]
+   Get the Newsletter
+
+   Follow us:
+     * Facebook
+     * Twitter
+     * Github
+     * Twitch
+     * YouTube
+
+     * Terms of Use
+     * *Trademarks
+     * Privacy
+     * Cookies
+     * Email preferences
+
+   [GoogleSearch-icon.jpg]
+
+   [intel_blue.png]
+   #alternate alternate alternate alternate
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PZRG3F
+
+   Jump to navigation
+
+   Home
+   Developer Zone
+     * Português
+     * English
+     * 简体中文
+     * Русский
+     * Español
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+
+   Intel® FPGA Academic Program
+
+Home
+
+     * Home
+     * Learn
+          + Overview
+          + Tutorials
+          + Workshops
+     * Teach
+     * Research
+          + Overview
+          + Community Publications
+     * Tools
+          + Intel® Quartus® Prime Software Suite
+          + Intel® FPGA SDK for OpenCL™ Software Technology
+          + Intel® High Level Synthesis Compiler
+          + DSP Builder for Intel® FPGAs
+          + Intel® SoC FPGA Embedded Development Suite
+          + Nios® II Embedded Design Suite
+          + View All
+     * Hardware
+          + Teaching & Research Boards
+          + Development Kits
+          + Intel® FPGAs
+          + Intel® SOC FPGAs
+          + Processors
+     * Events
+     * Support
+          + Overview
+          + Forum
+          + Licensing Center
+          + My Account
+
+All Developer Programs
+
+     * Português
+     * English
+     * 简体中文
+     * Русский
+     * Español
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+     * Share
+     * Tweet
+     * Share
+     * Send
+
+   Share
+
+   Close
+
+   Teach
+
+
+   Craft hands-on courses in digital logic, computer organization, deep
+   learning, and more using Intel® FPGA hardware, software, and lab
+   exercises.
+   Close
+
+   Research
+
+
+   Deliver high-end, leading-edge research with Intel® FPGA hardware and
+   software toolkits.
+   Close
+
+   Learn
+
+   Discover programmable technology through engaging workshops and
+   tutorials for beginners and advanced users.
+
+   [Search Intel® FPGA Resources_____________________.]
+
+Get Started
+
+   [professors-500x250.jpg]
+
+Teach
+
+   Let Intel help you with your course work. Request donation boards,
+   software, and intellectual property licenses, purchase hardware at
+   reduced prices, get course resources, and much more.
+
+   View
+
+   [students-500x250.jpg]
+
+Learn
+
+   Find software, tutorials, sample projects, and more for all learning
+   levels, from beginning to advanced.
+
+   Learn
+
+Research
+
+   Explore FPGA research happening at Intel and get access to
+   industry-leading hardware, software, and support resources.
+
+   Discover
+
+Latest News
+
+   [home-fpga-academic-news-de10pro.jpg]
+
+Terasic DE10-Pro: The Latest Intel FPGA Board for University & Research
+
+   The Terasic DE10-Pro with Intel® Stratix® 10 FPGA GX/SX development kit
+   provides the ideal hardware solution for designs that demand high
+   capacity and bandwidth memory interfacing, ultra-low latency
+   communication, and power efficiency.
+
+   Learn More
+
+FPGA Developer Cloud Beta Program
+
+   Get early access to the most advanced and leading-edge Intel FPGA
+   technologies with a new cloud environment for teaching and research.
+
+   Learn More
+
+Featured Events
+
+   Observe Intel technology demonstrations, attend hands-on workshops,
+   meet with technical experts, and find academic materials, development
+   kits, and more at upcoming conferences.
+
+   Field Programmable Logic & Applications (FPL)
+
+   Barcelona, Spain
+   September 9 - 13
+
+   Attend our full-day tutorial: Expert Design Techniques for OpenCL™
+   Applications with FPGAs.
+   Field-Programmable Technology (FPT)
+
+   Tianjin, China
+   December 11 - 13
+
+   Features Intel FPGA experts, product demos, and hands-on workshops.
+
+   View All
+
+     * Tools
+          + Intel® Quartus® Prime Software Suite
+          + Intel® FPGA SDK for OpenCL™
+          + Intel® High Level Synthesis Compiler
+     * Resources
+          + RocketBoards
+          + Design Store
+          + Licensing Center
+          + Support
+     * Connect
+          + Forum
+
+   Rate Us
+
+   [bwc_close.png]
+   Get the Newsletter
+
+   Follow us:
+     * Facebook
+     * Twitter
+     * Github
+     * Twitch
+     * YouTube
+
+     * Terms of Use
+     * *Trademarks
+     * Privacy
+     * Cookies
+     * Email preferences
+
+   [GoogleSearch-icon.jpg]
+
+   [intel_blue.png]
+   #alternate alternate alternate alternate
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PZRG3F
+
+   Jump to navigation
+
+   Home
+   Developer Zone
+     * Português
+     * English
+     * 简体中文
+     * Русский
+     * Español
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+
+   Menu
+
+Support
+
+Home
+
+     * Developer Programs
+     * Documentation
+     * Tools & Cloud
+          + Tools & SDKs
+          + Cloud Access
+     * Support
+          + Get Help
+          + Forums
+          + Priority Support
+     * Experts
+          + Black Belts
+          + Evangelists
+          + Innovators
+     * Releases & Events
+          + Recent Updates
+          + Events
+          + Developer Newsletters
+          + Video Channel
+
+     * Português
+     * English
+     * 简体中文
+     * Русский
+     * Español
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+     * Share
+     * Tweet
+     * Share
+     * Send
+
+   Share
+
+   [online-service-center-500w-290h.jpg]
+
+   Priority Support
+
+   With your active Priority Support, you can get assistance through the
+   Online Service Center for your Intel® Software Development Products
+     * Submit questions, problems, and other technical support issues
+     * Monitor previously submitted issues
+
+   Priority Support Eligibility
+
+   Registration, Download, Licensing, Installation Questions
+
+   How to Submit a Request
+
+   Online Service Center
+
+Register Your Product
+
+   Purchases or renewals include confidential Priority Support for the
+   duration of the paid support term. To receive Priority Support,
+   register your product at the Intel Registration Center.
+
+   Purchasing, Renewing, and Upgrading FAQ
+
+Floating License
+
+   If your company has a floating license, make sure to add each user
+   before they submit a support request.
+
+   How to Get Support
+
+Additional Support Options
+
+   If you don't have active Priority Support, please use our community
+   forums for support.
+
+   View All Support Options
+
+   Priority Support FAQ
+
+     * Hardware Developers
+          + Firmware
+          + Modeling & Simulation
+          + Resource and Design Center
+          + Shop Intel
+     * Open Source
+          + 01.org
+          + GitHub*
+     * Manage Your Tools
+          + Download Center
+          + Priority Support
+          + Registration Center
+     * Connect
+          + Forums
+          + Meet the Experts
+          + Newsletter
+          + Recent Updates
+          + YouTube* Channel
+
+   Rate Us
+
+   [bwc_close.png]
+   Get the Newsletter
+
+   Follow us:
+     * Facebook
+     * Twitter
+     * Github
+     * Twitch
+     * YouTube
+
+     * Terms of Use
+     * *Trademarks
+     * Privacy
+     * Cookies
+     * Email preferences
+
+   [GoogleSearch-icon.jpg]
+
+   [intel_blue.png]
+   #prev up next
+
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PZRG3F
+
+   Jump to navigation
+
+   Home
+   Developer Zone
+     * 简体中文
+     * English
+     * Español
+     * Português
+     * Русский
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+
+   Menu
+
+Home
+
+     * Developer Programs
+     * Documentation
+     * Tools & Cloud
+          + Tools & SDKs
+          + Cloud Access
+     * Support
+          + Get Help
+          + Forums
+          + Priority Support
+     * Experts
+          + Black Belts
+          + Evangelists
+          + Innovators
+     * Releases & Events
+          + Recent Updates
+          + Events
+          + Developer Newsletters
+          + Video Channel
+
+     * 简体中文
+     * English
+     * Español
+     * Português
+     * Русский
+
+   Sign in Signup
+   Support
+     * Site to search:
+     *
+     * Intel® DZ
+     * Intel.com
+
+   _______________ (Search)
+   _______________
+     * Share
+     * Tweet
+     * Share
+     * Send
+
+   Share
+
+Getting Started with the Intel® Galileo Board on Windows*
+
+   Submitted September 9, 2015
+   Contents
+     * Step 1: Make a bootable micro SD card
+     * Step 2: Assemble and power your board
+     * Step 3: Set up a serial terminal
+     * Step 4: Connect over Wi-Fi*
+     * Step 5: Set up your IDE
+
+   Search ____________________
+   Search
+
+   Search ____________________
+   Search
+     * Step 1: Make a bootable micro SD card
+     * Step 2: Assemble and power your board
+     * Step 3: Set up a serial terminal
+     * Step 4: Connect over Wi-Fi*
+     * Step 5: Set up your IDE
+
+   IFRAME:
+   https://s.qualtrics.com/jfe3/Form/SV_6xRcghrg5frerdz?Referrer=https%3A%
+   2F%2Fwww.google.com%2F&NodeID=623567&PublishedOn=1531234813&RevisionID=
+   3921960
+
+   Translating...[Translate__________]
+   This is a computer translation of the original content. It is provided
+   for general information only and should not be relied upon as complete
+   or accurate.
+   Sorry, we can't translate this content right now, please try again
+   later.
+
+Step 1: Make a bootable micro SD card
+
+   You must boot your Intel® Galileo board using a micro SD card that
+   contains the latest Intel® IoT Developer Kit version of the
+   Yocto*-built Linux image.
+
+   Linux is the operating system that powers the Intel® Galileo board.
+   While there is already a version of Linux built into your board, the
+   developer-kit version of Yocto-built Linux includes even more libraries
+   and resources to help developers create applications in their favorite
+   programming language. This version includes GCC, Python, Node.js,
+   OpenCV, to name a few.
+
+   In addition, sketches that you upload to the Intel® Galileo board are
+   erased when the board is powered down. To be able to resume the sketch
+   even after powering down your board, you must boot from a micro SD
+   card.
+
+Requirements
+
+   You must have a few things to begin. The steps below are for creating a
+   micro SD card with a Windows* host system. There are separate
+   instructions for Windows, Mac OS X, and Linux.
+
+Method 1: Run the integrated installer
+
+   Download and run the latest version of the Intel® Galileo Windows
+   64-bit Arduino* Installer from the Intel® Galileo Board Downloads page.
+
+   The integrated installer will install the Arduino IDE, as well as
+   download the needed Win32 Disk Imager software to write to your SD
+   card. It will not write to the SD card for you, but it will install the
+   imaging software and leave it for you to finish the process. If you get
+   stuck, refer to Method 2 below.
+
+   End-user license
+
+   Third-party program use
+
+Method 2: Manual Process
+
+   This section contains steps to download and extract the latest
+   developer kit version of the Linux image.
+    1. Download and install the 7-Zip file archiver from 7-Zip.org.
+    2. Download the latest Intel® Galileo Board micro SD Card Linux*
+       Operating System Image from the Intel® Galileo Board Downloads
+       page.
+    3. Use 7-Zip to extract the .bz2 file to your system. You must use
+       7-Zip to extract the image, as it supports the extended file paths
+       found in the compressed image file.
+       You should now have a file called
+       iot-devkit-version-mmcblkp0.direct alongside the original .bz2
+       file, where version is either latest or a date in the YYYYMMDDHHMM
+       format.
+
+Write the image to your micro SD card
+
+   This section contains steps to write the image to your micro SD card.
+    1. Visit http://sourceforge.net/projects/win32diskimager and click the
+       Download button to save the latest
+       Win32DiskImager-version-binary.zip file to your system.
+    2. Insert the micro SD card into your card reader.
+    3. Run Win32 Disk Imager as an Administrator, as follows:
+         1. Double-click Win32DiskImager-binary.zip to expand its
+            contents.
+         2. Open the Win32DiskImager-binary folder.
+         3. Right-click Win32DiskImager.exe, then select Run as
+            administrator.
+    4. In Win32 Disk Imager, click the folder icon on the top right.
+       Click the folder icon to browse for the Yocto image.
+    5. In the file type drop-down list, select *.* so you can see all
+       files, regardless of file extension.
+       Select *.* to see all files, regardless of extension.
+    6. Navigate to and select the .direct file that you extracted earlier,
+       then click Open.
+    7. From the Device drop-down list, select the device drive of your
+       micro SD card.
+       Caution: Be sure to select the correct device drive, as the drive
+       letter for your card may be different on your system. Selecting the
+       wrong drive letter could result in erasing your data on the wrong
+       drive.
+       Select the drive letter for your SD card.
+    8. Click Write, then wait for the write process to finish. Please be
+       patient, as this may take up to 5 minutes.
+    9. After completing the write process, click Exit to close Win32 Disk
+       Imager. Once the write process is complete, your bootable micro SD
+       card should contain the following:
+          + boot
+          + firmware
+          + win-driver
+          + bzImage
+   10. Eject and remove the micro SD card from your card reader.
+   11. You can now insert the card into the micro SD card slot on your
+       Intel Galileo board. When you power up your board, the board
+       automatically boots using the image on the card.
+
+
+   Now that you have created your bootable card, continue to assemble and
+   power your board. If you want to get going quickly in Arduino, skip to
+   installing the Arduino IDE.
+   For more complete information about compiler optimizations, see our
+   Optimization Notice.
+
+   ‹ Prev Getting Started with the Intel® ... Step 2: Assemble and power
+   your ... Next ›
+
+     * Hardware Developers
+          + Firmware
+          + Modeling & Simulation
+          + Resource and Design Center
+          + Shop Intel
+     * Open Source
+          + 01.org
+          + GitHub*
+     * Manage Your Tools
+          + Download Center
+          + Priority Support
+          + Registration Center
+     * Connect
+          + Forums
+          + Meet the Experts
+          + Newsletter
+          + Recent Updates
+          + YouTube* Channel
+
+   Rate Us
+
+   [bwc_close.png]
+   Get the Newsletter
+
+   Follow us:
+     * Facebook
+     * Twitter
+     * Github
+     * Twitch
+     * YouTube
+
+     * Terms of Use
+     * *Trademarks
+     * Privacy
+     * Cookies
+     * Email preferences
+
+   [search_publish_icon.jpg]
+
+   [intel_blue.png]

@@ -1,0 +1,313 @@
+   {"name":"Club","id":"page_node_2744037","url":"/page/show/2744037-club"
+   ,"selected":false,"display_status":"enabled","drag_status":"lock","titl
+   e":"click to go to
+   'Club'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "MirrorNode","has_child":0,"nav_url":"https://www.phxrisingfc.com/page/
+   nav/2744037","parent_top_nav_node":2717359,"parent":{"name":"Home","id"
+   :"page_node_2717359","url":"/home","selected":false,"display_status":"e
+   nabled","drag_status":"lock","title":"click to go to
+   'Home'","css_classes":[],"parent_id":2717358,"target":null,"node_type":
+   "Page","has_child":0,"nav_url":"https://www.phxrisingfc.com/page/nav/27
+   17359","parent_top_nav_node":null},"children":[{"name":"Player
+   Stats","id":"page_node_2756935","url":"http://www.uslsoccer.com/stats/t
+   eam_instance/1788719?subseason=280291\u0026tab=team_instance_player_sta
+   ts\u0026tool=1782618?","selected":false,"display_status":"enabled","dra
+   g_status":"drag","title":"Player
+   Stats","css_classes":[],"parent_id":2744037,"target":"_blank","node_typ
+   e":"LinkNode","has_child":0,"nav_url":null,"parent_top_nav_node":null},
+   {"name":"Team
+   Stats","id":"page_node_2756938","url":"http://www.uslsoccer.com/stats/t
+   eam_instance/1788719?subseason=280291\u0026tab=team_instance_team_stats
+   \u0026tool=1782618","selected":false,"display_status":"enabled","drag_s
+   tatus":"drag","title":"Team
+   Stats","css_classes":[],"parent_id":2744037,"target":"_blank","node_typ
+   e":"LinkNode","has_child":0,"nav_url":null,"parent_top_nav_node":null}]
+   ,"siblings":[{"name":"News
+   Archive","id":"page_node_2995073","url":"/page/show/2995073-news-archiv
+   e","selected":false,"display_status":"enabled","drag_status":"drag","ti
+   tle":"click to go to 'News
+   Archive'","css_classes":[],"parent_id":2717359,"target":null,"node_type
+   ":"NewsNode","has_child":0,"nav_url":null,"parent_top_nav_node":null},{
+   "name":"Club","id":"page_node_2744037","url":"/page/show/2744037-club",
+   "selected":true,"display_status":"enabled","drag_status":"drag","title"
+   :"click to go to
+   'Club'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "MirrorNode","has_child":2,"nav_url":"https://www.phxrisingfc.com/page/
+   nav/2744037","parent_top_nav_node":null},{"name":"2017 Player
+   Stats","id":"page_node_4048619","url":"/2017-player-stats","selected":f
+   alse,"display_status":"enabled","drag_status":"drag","title":"click to
+   go to '2017 Player
+   Stats'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"name"
+   :"2017 Team
+   Stats","id":"page_node_4048621","url":"/2017-team-stats","selected":fal
+   se,"display_status":"enabled","drag_status":"drag","title":"click to go
+   to '2017 Team
+   Stats'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"name"
+   :"2017
+   Standings","id":"page_node_4048622","url":"/2017-usl-standings","select
+   ed":false,"display_status":"enabled","drag_status":"drag","title":"clic
+   k to go to '2017 USL Western Conference
+   Standings'","css_classes":[],"parent_id":2717359,"target":null,"node_ty
+   pe":"Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"n
+   ame":"Assets","id":"page_node_2744033","url":"/assets","selected":false
+   ,"display_status":"enabled","drag_status":"drag","title":"click to go
+   to
+   'Assets'","css_classes":[],"parent_id":2717359,"target":null,"node_type
+   ":"Page","has_child":2,"nav_url":"https://www.phxrisingfc.com/page/nav/
+   2744033","parent_top_nav_node":null}]}
+   [tr?id=141474869899185&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TMK6MGB
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KGG8ZWR
+
+   skip navigation
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N3M7PMS
+
+   Phoenix Rising FC | Arizona's Highest Level Professional Soccer Team
+
+2017 Player Stats
+
+Roster
+
+Player Stats
+
+Team Stats
+
+Standings
+
+   [Select a Year...]
+
+   General - GP: Games Played, MP: Minutes Played | Distribution – P:
+   Passes, PA: Passing Accuracy, LP: Long Passes, LP%: Long Passing
+   Success Rate, F: Forward Passes, L: Passes to Left, PAOp%: Passing
+   Accuracy in Opponent’s half, A: Assists, C: Crosses, CA: Crossing
+   Accuracy | Attack - S: Shots (excludes blocked shots), SOnT: Shots on
+   Target, G: Goals | Defense - Cl: Clearances, B: Blocks, INT:
+   Interceptions, T: Tackles, TW: Tackles Won, D: Duels, DW: Duels Won,
+   AD: Aerial Duels, ADW: Aerial Duels Won | Discipline - YC: Yellow
+   Cards, RC: Red Cards, FW: Fouls Won, FC: Fouls Conceded | Goalkeeping –
+   SF: Shots Faced, SAV: Saves, CS: Clean Sheets, Ca: Catches, Cl:
+   Clearances
+     * Phoenix Rising Falls 2-1 Following Wild Finish In Fresno
+     * By Phoenix Rising Communications 09/21/2019, 10:15pm MST
+     *
+     * Read More
+
+     * Phoenix Rising Looks To Avenge Early-Season Draw With Fresno
+     * By Phoenix Rising Communications 09/20/2019, 10:15am MST
+     *
+     * Read More
+
+     * Austin Ledbetter Named To USL Championship Team of the Week
+     * By Phoenix Rising Communications 09/17/2019, 10:30am MST
+     * Forward Junior Flemmings received an honorable mention
+     * Read More
+
+     * Phoenix Rising Wins 20th Straight And Clinches First Place In The
+       Western Conference Playoffs
+     * By Phoenix Rising Communications 09/16/2019, 10:30am MST
+     *
+     * Read More
+
+     * Phoenix Rising Welcomes Los Dos To Casino Arizona Field
+     * By Phoenix Rising Communications 09/13/2019, 12:00pm MST
+     *
+     * Read More
+
+   #WWW News with Tags: Team News View All | RSS
+
+     * ©2019 SportsEngine, Inc. Some logos, trademarks, and content on
+       this website are owned by Phoenix Rising FC | Arizona's Highest
+       Level Professional Soccer Team and other partners and affiliates.
+       All Rights Reserved.
+     * SportsEngine Community
+     * Marketplace
+     * Terms of Use
+     * Privacy Policy
+     * Login
+     *
+       Powered by SportsEngine
+   [tr?id=141474869899185&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TMK6MGB
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KGG8ZWR
+
+   skip navigation
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N3M7PMS
+
+   Phoenix Rising FC | Arizona's Highest Level Professional Soccer Team
+
+2017 Team Stats
+
+Roster
+
+Player Stats
+
+Team Stats
+
+Standings
+
+   [Select a Year...]
+     * Phoenix Rising Falls 2-1 Following Wild Finish In Fresno
+     * By Phoenix Rising Communications 09/21/2019, 10:15pm MST
+     *
+     * Read More
+
+     * Phoenix Rising Looks To Avenge Early-Season Draw With Fresno
+     * By Phoenix Rising Communications 09/20/2019, 10:15am MST
+     *
+     * Read More
+
+     * Austin Ledbetter Named To USL Championship Team of the Week
+     * By Phoenix Rising Communications 09/17/2019, 10:30am MST
+     * Forward Junior Flemmings received an honorable mention
+     * Read More
+
+     * Phoenix Rising Wins 20th Straight And Clinches First Place In The
+       Western Conference Playoffs
+     * By Phoenix Rising Communications 09/16/2019, 10:30am MST
+     *
+     * Read More
+
+     * Phoenix Rising Welcomes Los Dos To Casino Arizona Field
+     * By Phoenix Rising Communications 09/13/2019, 12:00pm MST
+     *
+     * Read More
+
+   #WWW News with Tags: Team News View All | RSS
+
+     * ©2019 SportsEngine, Inc. Some logos, trademarks, and content on
+       this website are owned by Phoenix Rising FC | Arizona's Highest
+       Level Professional Soccer Team and other partners and affiliates.
+       All Rights Reserved.
+     * SportsEngine Community
+     * Marketplace
+     * Terms of Use
+     * Privacy Policy
+     * Login
+     *
+       Powered by SportsEngine
+   [tr?id=141474869899185&ev=PageView&noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TMK6MGB
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KGG8ZWR
+
+   skip navigation
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N3M7PMS
+
+   Phoenix Rising FC | Arizona's Highest Level Professional Soccer Team
+
+2017 USL Western Conference Standings
+
+Roster
+
+Player Stats
+
+Team Stats
+
+Standings
+
+   [Select a Year...]
+     * Phoenix Rising Falls 2-1 Following Wild Finish In Fresno
+     * By Phoenix Rising Communications 09/21/2019, 10:15pm MST
+     *
+     * Read More
+
+     * Phoenix Rising Looks To Avenge Early-Season Draw With Fresno
+     * By Phoenix Rising Communications 09/20/2019, 10:15am MST
+     *
+     * Read More
+
+     * Austin Ledbetter Named To USL Championship Team of the Week
+     * By Phoenix Rising Communications 09/17/2019, 10:30am MST
+     * Forward Junior Flemmings received an honorable mention
+     * Read More
+
+     * Phoenix Rising Wins 20th Straight And Clinches First Place In The
+       Western Conference Playoffs
+     * By Phoenix Rising Communications 09/16/2019, 10:30am MST
+     *
+     * Read More
+
+     * Phoenix Rising Welcomes Los Dos To Casino Arizona Field
+     * By Phoenix Rising Communications 09/13/2019, 12:00pm MST
+     *
+     * Read More
+
+   #WWW News with Tags: Team News View All | RSS
+
+     * ©2019 SportsEngine, Inc. Some logos, trademarks, and content on
+       this website are owned by Phoenix Rising FC | Arizona's Highest
+       Level Professional Soccer Team and other partners and affiliates.
+       All Rights Reserved.
+     * SportsEngine Community
+     * Marketplace
+     * Terms of Use
+     * Privacy Policy
+     * Login
+     *
+       Powered by SportsEngine
+   {"name":"Assets","id":"page_node_2744033","url":"/assets","selected":fa
+   lse,"display_status":"enabled","drag_status":"lock","title":"click to
+   go to
+   'Assets'","css_classes":[],"parent_id":2717359,"target":null,"node_type
+   ":"Page","has_child":0,"nav_url":"https://www.phxrisingfc.com/page/nav/
+   2744033","parent_top_nav_node":2717359,"parent":{"name":"Home","id":"pa
+   ge_node_2717359","url":"/home","selected":false,"display_status":"enabl
+   ed","drag_status":"lock","title":"click to go to
+   'Home'","css_classes":[],"parent_id":2717358,"target":null,"node_type":
+   "Page","has_child":0,"nav_url":"https://www.phxrisingfc.com/page/nav/27
+   17359","parent_top_nav_node":null},"children":[{"name":"Global
+   Network","id":"page_node_2744062","url":"/team-network","selected":fals
+   e,"display_status":"enabled","drag_status":"drag","title":"click to go
+   to 'Global
+   Network'","css_classes":[],"parent_id":2744033,"target":null,"node_type
+   ":"Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"nam
+   e":"Sponsor
+   Scroller","id":"page_node_2744066","url":"/sponsor-scroller","selected"
+   :false,"display_status":"enabled","drag_status":"drag","title":"click
+   to go to 'Sponsor
+   Scroller'","css_classes":[],"parent_id":2744033,"target":null,"node_typ
+   e":"Page","has_child":0,"nav_url":null,"parent_top_nav_node":null}],"si
+   blings":[{"name":"News
+   Archive","id":"page_node_2995073","url":"/page/show/2995073-news-archiv
+   e","selected":false,"display_status":"enabled","drag_status":"drag","ti
+   tle":"click to go to 'News
+   Archive'","css_classes":[],"parent_id":2717359,"target":null,"node_type
+   ":"NewsNode","has_child":0,"nav_url":null,"parent_top_nav_node":null},{
+   "name":"Club","id":"page_node_2744037","url":"/page/show/2744037-club",
+   "selected":false,"display_status":"enabled","drag_status":"drag","title
+   ":"click to go to
+   'Club'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "MirrorNode","has_child":2,"nav_url":"https://www.phxrisingfc.com/page/
+   nav/2744037","parent_top_nav_node":null},{"name":"2017 Player
+   Stats","id":"page_node_4048619","url":"/2017-player-stats","selected":f
+   alse,"display_status":"enabled","drag_status":"drag","title":"click to
+   go to '2017 Player
+   Stats'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"name"
+   :"2017 Team
+   Stats","id":"page_node_4048621","url":"/2017-team-stats","selected":fal
+   se,"display_status":"enabled","drag_status":"drag","title":"click to go
+   to '2017 Team
+   Stats'","css_classes":[],"parent_id":2717359,"target":null,"node_type":
+   "Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"name"
+   :"2017
+   Standings","id":"page_node_4048622","url":"/2017-usl-standings","select
+   ed":false,"display_status":"enabled","drag_status":"drag","title":"clic
+   k to go to '2017 USL Western Conference
+   Standings'","css_classes":[],"parent_id":2717359,"target":null,"node_ty
+   pe":"Page","has_child":0,"nav_url":null,"parent_top_nav_node":null},{"n
+   ame":"Assets","id":"page_node_2744033","url":"/assets","selected":true,
+   "display_status":"enabled","drag_status":"drag","title":"click to go to
+   'Assets'","css_classes":[],"parent_id":2717359,"target":null,"node_type
+   ":"Page","has_child":2,"nav_url":"https://www.phxrisingfc.com/page/nav/
+   2744033","parent_top_nav_node":null}]}

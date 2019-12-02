@@ -1,0 +1,2683 @@
+   #prev next InformatiqueNews.fr » Flux InformatiqueNews.fr » Flux des
+   commentaires
+
+   InformatiqueNews.fr
+
+   open
+     * News
+          + Mobilité
+          + Sécurité
+          + Infrastructures
+          + Applications
+          + Cloud
+          + Poste de travail
+          + stockage
+          + Avis des fournisseurs
+          + Economie
+          + RH
+          + iOS 13 : qui peut en profiter ?
+          + Smartphones : septième trimestre consécutif de baisse des
+            ventes
+          + L’Arcep assure que la 5G sera lancée comme prévu en 2020
+          + Apple recrute le responsable de la puce 5G chez Intel
+          + Huawei surpasse Apple et conforte son rang de n°2
+          + Smartphones : baisse des ventes et montée des constructeurs
+            chinois
+          + Acronis lance un bouquet de cyber services
+          + Agent Smith : l’agent qui ne vous veut pas du bien
+          + Excès de confiance dans la sécurité sur le cloud ?
+          + Ransomware : nécessaires sauvegarde et plan de reprise
+          + Forte croissance des services de cybersécurité
+          + Une dizaine d’opérateurs télécoms mondiaux ainsi que des
+            géants de l’IT hackés
+          + Equinix et VMware s’associent dans le cloud hybride
+          + HPE veut atterrir sur la Lune en douceur
+          + NetApp maintien le cap sur le 100 % Flash NVMe
+          + IBM bascule l’architecture du jeu d’instruction de sa
+            plateforme Power en open source
+          + Marc Linster : « EnterpriseDB prend des parts de marché à
+            Oracle »
+          + Western Digital étoffe sa gamme de baies IntelliFlash
+          + Face à l’utopie holacratique, célébrons le collaboratif !
+            Thibaut Champey, Dropbox
+          + Infor présente une nouvelle version de Concierge Portal
+          + Evolution du nombre de sites Internet
+          + Santé et IA : sans les médecins, la révolution n’aura pas lieu
+            Nadim Daher, NVIDIA
+          + CloudBees dévoile une offre de Software Delivery Management
+          + Adobe Sign pour les PME
+          + NVIDIA et VMware accélèrent le ML, la data science et l’IA
+            pour VMware Cloud sur AWS
+          + Alfresco lance une offre de migration vers le cloud en 5
+            semaines
+          + TCS aide Randstad à migrer vers le cloud
+          + Deutsche Telekom et Software AG s’associent dans l’IoT
+          + Oracle définitivement évincé du contrat JEDI d’une valeur de
+            10 milliards de dollars
+          + Oracle propose un service pour migrer vers le cloud
+          + Lexmark élargit son offre GO Line
+          + HP mise sur le Device as a Service
+          + Dell Technologies World
+            Dell veut simplifier l’environnement de travail
+          + Ivanti Environment Manager accélère l’adoption d’Office 365
+          + Lenovo lance TruScale, une offre Hardware as a Service
+          + Le Top10 des plus mauvais mots de passe selon Dashlane
+          + Acronis automatise les sauvegardes 3-2-1
+          + Comprendre les principes de la cryptologie et du chiffrement
+          + Mangstor propose des SAN ultra-rapides
+          + NetApp Insight 2015 : le flash de plus en plus accessible
+          + Red Hat veut s’imposer sur le stockage et la virtualisation
+          + Un milliard en cash pour des cartes flash
+          + Quelle IA pour votre cybersécurité ?
+            Greg Day, Palo Alto Networks
+          + Quelles technologies pour nourrir 10 milliards d’habitants ?
+            Claire Kago, Paessler AG
+          + Comment sécuriser le capital applicatif ?
+            Arnaud Lemaire, F5 Networks
+          + La clé pour réduire les coûts cachés de la fraude bancaire
+            Alexis Vernières, Kofax
+          + Les directions financières confrontées à la « déconnexion
+            numérique »
+            Frédéric Portal, Workday
+          + Le hacking à l’usage des débutants
+            Eric Heddeland, Barracuda Networks
+          + Nutanix : la transition vers le logiciel met un coup d’arrêt
+            (temporaire) à la croissance
+          + HP change son organisation qui passe de trois régions à 10
+            marchés géographiques
+          + Cisco enrichit son offre pour centres de contact en rachetant
+            CloudCherry
+          + LinkedIn pour recruter des agents chinois
+          + GlobalFoundries attaque son principal concurrent en justice,
+            la plainte vise également Apple, Cisco et Nvidia
+          + Croissance mirobolante pour Salesforce
+          + Cybersécurité : 6.000 postes à pourvoir ne trouvent pas
+            preneur en Ile-de-France
+          + Le salaire annuel moyen d’un développeur à San Francisco
+            atteint 145.000 dollars contre 52.000 euros à Paris
+          + 25 tutoriels en ligne sur les métiers de la fibre optique
+          + Recrutement : Leroy Merlin parie sur la vidéo
+          + Un Mooc sur l’IA pour les managers et leurs équipes
+          + La mobilité en une infographie
+     * Vidéos
+          + Invité de la semaine
+          + Evénement
+          + InfoNews Hebdo
+          + « Teradata fonctionne sur les deux grands cloud publics »
+          + « Nginx est open source et le restera » Sébastien Weber, F5
+            Networks France
+          + « Nos mainframes ont désormais la taille d’un réfrigérateur »,
+            Christopher O’Malley, Compuware
+          + « Survoler un nom fera apparaître des informations sur le
+            client », Jean-Pascal Ancelin, Microstrategy France
+          + « Suse devait devenir indépendant pour continuer à croître »
+            Pierre-Yves Albrieux, Suse
+          + « Grâce une connexion réseau, nous pouvons prendre en charge
+            l’infrastructure d’impression » Jean-Michel Sauvaud, président
+            Lexmark France
+          + La gouvernance des données, une nécessité pour les entreprises
+          + « Stockage primaire et secondaire pourront être dans le même
+            environnement » Bruno Picard Nutanix
+          + « La plateforme Nutanix, pilier du projet VDI de l’Icam »
+            Dominique Bugliani ICAM
+          + « Nous savons protéger les données dans un environnement
+            Nutanix » Gautier Leblanc, Veritas
+          + « Nous apportons de la valeur ajoutée à l’offre Nutanix »
+            Xavier Stern, HYCU
+          + « A terme, nous allons migrer sur l’hyperviseur de Nutanix »,
+            Farouk Ayad, Capgemini
+          + Moody’s-Team8, Microsoft, HPE, Okta, Broadcom-Symantec, Huawei
+            France
+          + Infonews Hebdo 1/07 avec Cigref, IBM-Cisco, Dell, Gafa, Skype,
+            Capgemini-Altran, IBM, Google, Netflix
+          + Apec, KPMG, Syntec, Dropbox, Météo France, Salesforce,
+            Dassault Système, Rencontre du cloud, Darkweb
+          + Infonews Hebdo 10/06 USF-SAP, IBM, IDC, Hadoop,
+            Oracle-Microsoft, Syntec Numérique, Google
+          + Infonews Hebdo 27/05 : Open VMS, ANSSI, Windows, Ivalua,
+            HPE/Cray, Huawei, AI Paris, Teratec, RGPD
+          + Infonews Hebdo 20/05 : Vivatech, Intel, Equinix, Orange,
+            Huawei, Atos, Salesforce, San Francisco
+     * Dossiers
+          + Infogérance d'impression
+          + DSI et Métiers : concurrence ou coopération
+          + Dossier Impression 1/5
+            La transformation numérique aura-t-elle raison du papier ?
+          + Dossier Impression 2/5
+            Des entreprises en quête de sécurité et de flexibilité
+          + Dossier Impression 3/5
+            Ziegler en marche vers la dématérialisation
+          + Dossier Impression 4/5
+            Services de base et offre complémentaire
+          + Dossier Impression 5/5
+            Accélérateurs et freins de mise en œuvre
+          + L’infogérance d’impression (MPS) chez Lexmark France
+          + Viseo pour aller plus loin avec Anaplan
+          + « Itinéraire d’un CIO connecté » épisode 3
+          + Le DSI, vers un dialogue fructueux avec les métiers
+          + « Itinéraire d’un CIO connecté » épisode 2
+          + Le DSI, interlocuteur naturel de la direction générale ?
+          + « Itinéraire d’un CIO connecté » épisode 1
+     * Partner Zone
+          + IBM
+          + Informatica
+          + Poly
+          + Pure Storage
+          + HPE
+          + KYOCERA Document Solutions
+          + Rubrik
+          + Tenable
+          + Fortinet
+          + Veeam
+          + Micro Focus
+          + Réussir son entrepôt de données pour faire face aux nouvelles
+            tendances en matière d’analytique (Hadoop, Spark,…)
+          + Comprendre le Big Data : une journée dans la vie d’un
+            architecte d’entreprise
+          + Les entrepôts de données évoluées, moteur de l’excellence en
+            analytique !
+          + Solutions IBM Data Warehouse : Stockage de données hybride
+            pour répondre aux besoins de l’analytique d’aujourd’hui
+          + Comment organiser l’entreprise Data Ready
+          + Les 5 secrets de l’accès aux données du Cloud en temps réel
+          + Orchestration des modèles d’intégration dans un environnement
+            hybride
+          + Trois façons d’évaluer la qualité des adresses postales
+          + Informatica au cœur de la relation entre le groupe Canal+ et
+            ses abonnés
+          + GDF SUEZ Dolce Vita : La qualité de données Informatica au
+            service de l’efficacité commerciale et marketing
+          + La réalité des open spaces et ce que vous pouvez faire pour y
+            remédier
+          + Des solutions de video-conférences adaptées aux nouvelles
+            générations
+          + Comment résoudre les difficultés liées à la multiplicité des
+            plates-formes vidéo pour améliorer l’expérience utilisateur ?
+          + L’invité de la semaine : Frédéric Batut VP Europe du sud
+            Polycom
+          + Le programme Evergreen Storage modifie les attentes en termes
+            d’expérience client pour le stockage d’entreprise
+          + Mobiliser les outils essentiels pour la transformation
+            digitale des institutions financières
+          + Comment de nouveaux entrants ont-ils pu « disrupter » le
+            secteur des services financiers ?
+          + Pourquoi les DSI innovants du secteur financier se tournent
+            vers le cloud hybride ?
+          + Réussir sa mise en place de DevOps avec l’Infrastructure
+            Composable
+          + Créer une infrastructure agile pour DevOps
+          + HPE Synergy : La première plateforme créée pour faire le lien
+            entre les applications traditionnelles et Cloud
+          + Docker et les infrastructures composables HPE, quelle synergie
+            ?
+          + Le marché des infrastructures composables : le point IDC
+          + Considérations générales sur les solutions Flash et enquêtes
+            auprès de 1000 utilisateurs
+          + Le déploiement d’un parc d’impression nécessite une vraie
+            conduite de projet
+          + Connaître son parc d’impression : un élément essentiel de
+            productivité
+          + Comment dématérialiser vos documents sortants ? Interview de
+            Benjamin Claus, KYOCERA Document Solutions
+          + Imprimer en toute sécurité même en situation de mobilité !
+          + Impression à la demande… comment associer mobilité des
+            collaborateurs et sécurité des documents ?
+          + L’impression mobile est une source de productivité
+          + FranceTV Publicité passe à la vitesse supérieure en termes de
+            cloud hybride avec Rubrik
+          + Guide d’achat d’une solution de sauvegarde et de restauration
+          + Rubrik accélère la conformité avec le RGPD
+          + Guide Rubrik du cloud public : Technologie et fonctionnement
+          + Automatisation, simplification et communication de la
+            conformité aux recommandations de sécurité de l’ANSSI
+          + Sécuriser les conteneurs dans un environnement DevOps
+          + Utiliser Tenable.io pour réduire les risques d’infection par
+            ransomware
+          + Minimiser la Cyber Exposure dans un monde de Cloud, conteneurs
+            et autres ressources modernes
+          + Repensez votre approche en matière de cybersécurité !
+          + Les ransomwares continuent de se développer, quelles
+            conséquences ?
+          + Comprendre l’explosion de l’IoT  et son impact sur la sécurité
+            des entreprises
+          + 45 minutes pour présenter trois scénarios de cohabitation avec
+            du sandboxing
+          + Comment déployer simplement avec Fortinet, le WiFi NextGen
+            chez vous
+          + AKKA Technologies déploie Veeam pour accélérer sa
+            transformation digitale
+          + Rapport Veeam 2019 sur la gestion des données dans le Cloud
+          + Les 6 principales raisons d’utiliser un service de sauvegarde
+            dans le cloud (BaaS)
+          + Prenez le contrôle de vos données Office 365
+          + Pourquoi faut-il sauvegarder Office 365 ?
+          + Les stratégies multicloud sont en plein essor
+          + L’Observatoire DevSecOps pour la DSI 2019
+          + Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+          + Infographie DevSecOps Intégrer la sécurité dans les pratiques
+            DevOps
+          + Webinar : Restitution des résultats de l’Observatoire 2019 –
+            DevSecOps
+
+   S’inscrire
+     * Twitter
+     * Facebook
+     * Linkedin
+     * Flux RSS
+
+Recevoir la newsletter
+
+   ____________________ S'abonner Please wait Please wait
+
+   [INS: :INS]
+
+Not Found
+
+   Sorry, but you are looking for something that isn't here.
+
+Comm
+
+     * Intelligence artificielle et Machine Learning : Iron Mountain
+       remporte le prix Google Cloud du partenaire technologique de
+       l’année Ce prix récompense la plateforme Cloud Iron Mountain
+       InSight. Celle-ci s'appuie sur les ressources en intelligence
+       artificielle et en Machine Learning de Google Cloud pour favoriser
+       la… En ligne depuis 14 heures
+     * Application Faceapp et données personnelles, une responsabilisation
+       des utilisateurs encore trop faible Utilisation en masse des
+       données à caractère personnel, collecte des données sans
+       consentement, stockage illimité des données… les pratiques des
+       entreprises à l’égard des… En ligne depuis 1 mois
+     * Le Groupe Prima Solutions acquiert la société belge OOliba Quelques
+       mois après le rapprochement entre Prima Solutions et Effisoft, le
+       groupe, première AssurTech française dédiée aux professionnels de
+       l’assurance et de la réassurance,… En ligne depuis 1 mois
+     * L’Opérateur & Hébergeur Foliateam valorise son Datacenter de 2000
+       M² en plein cœur de Paris Foliateam, Opérateur Cloud alternatif
+       pour les entreprises, détient un Datacenter souverain dans le
+       XIIème arrondissement de Paris dans lequel il a conduit depuis
+       2016, des… En ligne depuis 1 mois
+     * Le numérique à la rescousse des notes de frais ! Depuis le 1
+       juillet 2019, les entreprises sont autorisées à numériser
+       l’ensemble des notes de frais. En effet, un récent arrêté du 23 mai
+       2019 fixe les modalités de numérisation… En ligne depuis 1 mois
+
+En bref
+
+     * Western Digital lance le nouveau WD Blue SN500 NVMe SSD Western
+       Digital ajoute un nouveau modèle NVMe à sa gamme de SSD WD Blue, le
+       WD Blue SN500 NVMe SSD. Ce nouveau SSD triple les performances de
+       son prédécesseur SATA , tout en conservant… En ligne depuis 6 mois
+     * Battle Dev : 13e édition du concours de développement en ligne Les
+       inscriptions sont ouvertes pour participer à la treizième édition
+       de la Battle Dev, le premier concours de code en ligne. Organisé
+       par HelloWork et BDM en partenariat avec Nexeya,… En ligne depuis 6
+       mois
+     * Infrastructure Fibre : Telcité devient RATP Connect Filiale de la
+       RATP et opérateur d’infrastructures de fibre optique en Ile-de-
+       France, Telcité devient RATP Connect. RATP Connect, filiale
+       infrastructure réseau de la RATP, propose… En ligne depuis 6 mois
+     * NTT Security rachète WhiteHat Security NTT Security vient de signer
+       un accord pour l'acquisition de la société WhiteHat Security,
+       fournisseur en sécurité des applications. À l'issue de
+       l'acquisition, WhiteHat Security… En ligne depuis 6 mois
+     * Le cabinet Julhiet Sterwen à nouveau indépendant Les associés du
+       cabinet Julhiet Sterwen ont racheté la part du capital détenue par
+       ses investisseurs financiers. Début 2015, l’opération de fusion
+       entre les Groupes Bernard… En ligne depuis 7 mois
+     * SCC France référence Outscale parmi ses partenaires cloud SCC
+       France, vient de signer un accord de partenariat avec le
+       fournisseur de cloud souverain Outscale. Il permet à SCC France
+       d’étoffer son catalogue de partenaires stratégiques et de… En ligne
+       depuis 7 mois
+
+Vidéos
+
+     * La gouvernance des données, une nécessité pour les entreprises Dans
+       le cadre de notre rendez-vous mensuel, les tables rondes
+       technologiques, ce mois-ci la discussion tournera autour de la
+       gouvernance des données. L’explosion des données n’est… En ligne
+       depuis 17 heures
+     * Moody’s-Team8, Microsoft, HPE, Okta, Broadcom-Symantec, Huawei
+       France Comme chaque lundi, notre émission hebdomadaire
+       InformatiqueNews Hebdo fait le tour de l’actualité de la semaine
+       écoulée. Ce lundi 8 juillet, Guy Hervier, le rédacteur en chef… En
+       ligne depuis 2 mois
+     * « Teradata fonctionne sur les deux grands cloud publics » Bienvenue
+       sur le plateau d’InformatiqueNews pour notre rendez-vous
+       hebdomadaire qui donne la parole aux responsables des entreprises
+       et des acteurs de IT. Aujourd’hui, nous recevons… En ligne depuis 2
+       mois
+     * Infonews Hebdo 1/07 avec Cigref, IBM-Cisco, Dell, Gafa, Skype,
+       Capgemini-Altran, IBM, Google, Netflix Comme chaque lundi, notre
+       émission hebdomadaire InformatiqueNews Hebdo fait le tour de
+       l’actualité de la semaine écoulée. Ce lundi 1er juillet, Guy
+       Hervier, le rédacteur en chef… En ligne depuis 2 mois
+     * « Stockage primaire et secondaire pourront être dans le même
+       environnement » Bruno Picard Nutanix Bienvenue sur le plateau
+       d’InformatiqueNews. Cette semaine nous recevons Bruno Picard,
+       directeur technique de Nutanix pour la France à l'occasion de
+       l'édition américaine de .Next qui… En ligne depuis 2 mois
+
+Avis
+
+     * Quelle IA pour votre cybersécurité ?
+       Greg Day, Palo Alto Networks En tant que responsable IT, une
+       question vous revient sans cesse : quid de l’optimisation et de
+       l’accélération de vos activités ? Il se trouvera d’ailleurs souvent
+       quelqu’un… En ligne depuis 17 heures
+     * Quelles technologies pour nourrir 10 milliards d’habitants ?
+       Claire Kago, Paessler AG D’ici l’année 2050, il pourrait y avoir
+       pas moins de 10 milliards de personnes vivants sur Terre. Pour
+       parvenir à tous les nourrir, nous aurons besoin de multiples
+       technologies, comme… En ligne depuis 4 jours
+     * Comment sécuriser le capital applicatif ?
+       Arnaud Lemaire, F5 Networks Il est important de mieux contrôler les
+       applications, où qu’elles soient déployées, en rapprochant les
+       équipes de développement et les personnes chargées de veiller sur
+       les… En ligne depuis 4 jours
+     * La clé pour réduire les coûts cachés de la fraude bancaire
+       Alexis Vernières, Kofax La fraude est devenue si omniprésente à
+       l'ère du numérique qu'on peut trouver des exemples partout : la
+       société mondiale accusée de blanchiment d'argent par ses filiales ;
+       la banque… En ligne depuis 5 jours
+     * Les directions financières confrontées à la « déconnexion numérique
+       »
+       Frédéric Portal, Workday L’environnement économique dans lequel les
+       CFO évoluent est plus complexe, interconnecté et imprévisible
+       plus que jamais. Le bouleversement des modèles économiques
+       traditionnels,… En ligne depuis 5 jours
+
+   ____________________ search
+
+   [INS: :INS]
+     * L’Observatoire DevSecOps pour la DSI 2019
+       02 septembre - 14h56
+     * Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+       02 septembre - 14h40
+     * Infographie DevSecOps Intégrer la sécurité dans les pratiques
+       DevOps
+       02 septembre - 14h30
+     * Webinar : Restitution des résultats de l’Observatoire 2019 –
+       DevSecOps
+       02 septembre - 13h42
+     * Equinix et VMware s’associent dans le cloud hybride
+       02 septembre - 09h34
+     * La gouvernance des données, une nécessité pour les entreprises
+       02 septembre - 08h05
+     * Face à l’utopie holacratique, célébrons le collaboratif !
+       Thibaut Champey, Dropbox
+       02 septembre - 07h59
+     * Quelle IA pour votre cybersécurité ?
+       Greg Day, Palo Alto Networks
+       02 septembre - 07h48
+     * Nutanix : la transition vers le logiciel met un coup d’arrêt
+       (temporaire) à la croissance
+       02 septembre - 07h45
+     * Hébergement : Equinix numéro un sur les quatre régions du monde
+       02 septembre - 07h26
+     * Datadog prépare une introduction en bourse
+       29 août - 22h42
+     * Quelles technologies pour nourrir 10 milliards d’habitants ?
+       Claire Kago, Paessler AG
+       29 août - 21h06
+     * Comment sécuriser le capital applicatif ?
+       Arnaud Lemaire, F5 Networks
+       29 août - 21h01
+     * HP change son organisation qui passe de trois régions à 10 marchés
+       géographiques
+       29 août - 20h58
+     * HPE propose des solutions VMware en tant que service Greenlake
+       28 août - 17h14
+     * Cisco enrichit son offre pour centres de contact en rachetant
+       CloudCherry
+       28 août - 16h24
+     * Acronis lance un bouquet de cyber services
+       28 août - 16h10
+     * La clé pour réduire les coûts cachés de la fraude bancaire
+       Alexis Vernières, Kofax
+       28 août - 16h01
+     * Les directions financières confrontées à la « déconnexion numérique
+       »
+       Frédéric Portal, Workday
+       28 août - 15h57
+     * LinkedIn pour recruter des agents chinois
+       28 août - 15h38
+     * VMware étoffe l’environnement applicatif sur Kubernetes
+       27 août - 19h20
+     * Infor présente une nouvelle version de Concierge Portal
+       27 août - 18h12
+     * Le hacking à l’usage des débutants
+       Eric Heddeland, Barracuda Networks
+       27 août - 17h05
+     * Les réalités du software 2.0 : vers un code qui s’écrit tout seul
+       Alexandre Vasseur, Pivotal
+       27 août - 16h58
+     * GlobalFoundries attaque son principal concurrent en justice, la
+       plainte vise également Apple, Cisco et Nvidia
+       27 août - 16h49
+     * La startup Cerebras présente le plus grand processeur jamais conçu
+       26 août - 19h28
+     * Evolution du nombre de sites Internet
+       26 août - 17h40
+     * NVIDIA et VMware accélèrent le ML, la data science et l’IA pour
+       VMware Cloud sur AWS
+       26 août - 16h16
+     * HPE veut atterrir sur la Lune en douceur
+       26 août - 16h06
+     * NetApp maintien le cap sur le 100 % Flash NVMe
+       26 août - 15h42
+     * Comment apprendre à un ordinateur à penser ? En lui apprenant à
+       parler
+       Zachary Jarvinen, OpenText
+       26 août - 15h28
+     * Santé et IA : sans les médecins, la révolution n’aura pas lieu
+       Nadim Daher, NVIDIA
+       26 août - 15h23
+     * Croissance mirobolante pour Salesforce
+       26 août - 15h16
+     * La simulation à l’aide de la chirurgie cardiaque
+       23 août - 19h23
+     * Repenser la relation au travail par le Robotic operation model
+       Frank Guiducci, BluePrism
+       23 août - 15h36
+     * IA : vers une augmentation du QI de l’homme
+       Stéphane Roder, CEO et Fondateur AI Builders
+       23 août - 15h27
+     * IBM bascule l’architecture du jeu d’instruction de sa plateforme
+       Power en open source
+       23 août - 15h23
+     * Le rôle croissant des développeurs
+       22 août - 19h13
+     * CloudBees dévoile une offre de Software Delivery Management
+       22 août - 15h45
+     * Modèle de sécurité Zéro Trust : avantages par rapport aux approches
+       traditionnelles ?
+       Jan van Vliet, Digital Guardian
+       22 août - 15h34
+     * Adobe Sign pour les PME
+       22 août - 15h29
+     * Intel dévoile une puce spécialisée pour l’IA
+       22 août - 15h02
+     * L’industrie du numérique appelle à un alignement des politiques sur
+       le numérique
+       22 août - 14h57
+     * Les trois principaux objectifs des DSI
+       21 août - 18h30
+     * Le SD-WAN peut-il aider à renforcer la sécurité des applications
+       cloud-first ?
+       Nav Chander, Silver Peak
+       21 août - 14h28
+     * Quatre priorités pour sécuriser le cloud
+       Lora O’Haver, Keysight Technologies
+       21 août - 14h25
+     * Microsoft va brider les déploiements de ses logiciels sur les
+       clouds concurrents
+       20 août - 20h52
+     * Acronis automatise les sauvegardes 3-2-1
+       20 août - 17h31
+     * Une décennie pleine de chamboulements technologiques
+       Erwan Paccard, AppDynamics
+       20 août - 17h07
+     * Comment Amazon asphyxie l’ensemble du retail
+       Jean-Paul Crenn, Vuca Strategy
+       20 août - 17h00
+     * HPE joue la carte AMD pour ses serveurs ProLiant
+       19 août - 18h21
+     * BMC automatise le développement d’applications sur DB2
+       19 août - 17h01
+     * La conduite du changement, un facteur à double tranchant pour l’IT
+       Pierre-Yves Albrieux, SUSE
+       19 août - 15h54
+     * Engagement des collaborateurs, un potentiel libéré par les
+       technologies professionnelles
+       William Biotteau, Dynabook
+       19 août - 15h50
+     * Software AG s’associe à Microsoft pour accélérer la migration vers
+       le cloud Azure
+       19 août - 15h45
+     * Les principales actualités de l’été
+       19 août - 15h29
+     * La lente concentration du secteur des hébergeurs
+       18 août - 16h46
+     * Smartphones : Apple et Huawei plongent en Europe
+       16 août - 00h04
+     * Broadcom ne rachète finalement que l’activité entreprises de
+       Symantec
+       15 août - 22h49
+     * IBM dévoile son plan pour renouer avec la croissance avec Red Hat
+       09 août - 16h41
+
+   [INS: :INS]
+
+   InformatiqueNews InformatiqueNews
+
+   Nous proposons aux professionnels de l'informatique et des télécoms
+   français un espace unique pour s'informer sans concession sur
+   l'actualité du secteur, discerner les nouvelles tendances, commenter et
+   échanger en toute sérénité avec leurs pairs et leurs fournisseurs.
+   Heberge par Ikoula Heberge par Ikoula
+   Cloud privé | Infogérance
+   PLAN DU SITE
+     * Applications
+     * Cloud
+     * Economie
+     * Infrastructures
+     * Mobilité
+     * Poste de travail
+     * Sécurité
+
+     * En bref
+     * Avis des fournisseurs
+     * Tribunes
+     * Emploi
+     * Livres blancs
+
+   LIVRES BLANCS
+     * DataManagement
+     * Réseau&télécoms
+     * Virtualisation
+
+   NOS SITES
+     * ChannelNews.fr
+     * Projets-Informatiques.fr
+     * BtoBMarketers.fr
+
+   CONTACTS
+     * Rédaction
+     * Publicité
+     * Advertising
+     * Editorial
+     * Communiquer en vidéo
+
+   MENTIONS LEGALES
+     * Mentions légales
+     * Politique de confidentialité
+     * Maintenance et hébergement par SysnDev
+   #InformatiqueNews.fr » Flux InformatiqueNews.fr » Flux des commentaires
+   InformatiqueNews.fr » Institut Mines-Télécom Business School lance un
+   cours IA et éthique Flux des commentaires
+
+   InformatiqueNews.fr
+
+   open
+     * News
+          + Mobilité
+          + Sécurité
+          + Infrastructures
+          + Applications
+          + Cloud
+          + Poste de travail
+          + stockage
+          + Avis des fournisseurs
+          + Economie
+          + RH
+          + iOS 13 : qui peut en profiter ?
+          + Smartphones : septième trimestre consécutif de baisse des
+            ventes
+          + L’Arcep assure que la 5G sera lancée comme prévu en 2020
+          + Apple recrute le responsable de la puce 5G chez Intel
+          + Huawei surpasse Apple et conforte son rang de n°2
+          + Smartphones : baisse des ventes et montée des constructeurs
+            chinois
+          + Acronis lance un bouquet de cyber services
+          + Agent Smith : l’agent qui ne vous veut pas du bien
+          + Excès de confiance dans la sécurité sur le cloud ?
+          + Ransomware : nécessaires sauvegarde et plan de reprise
+          + Forte croissance des services de cybersécurité
+          + Une dizaine d’opérateurs télécoms mondiaux ainsi que des
+            géants de l’IT hackés
+          + Equinix et VMware s’associent dans le cloud hybride
+          + HPE veut atterrir sur la Lune en douceur
+          + NetApp maintien le cap sur le 100 % Flash NVMe
+          + IBM bascule l’architecture du jeu d’instruction de sa
+            plateforme Power en open source
+          + Marc Linster : « EnterpriseDB prend des parts de marché à
+            Oracle »
+          + Western Digital étoffe sa gamme de baies IntelliFlash
+          + Face à l’utopie holacratique, célébrons le collaboratif !
+            Thibaut Champey, Dropbox
+          + Infor présente une nouvelle version de Concierge Portal
+          + Evolution du nombre de sites Internet
+          + Santé et IA : sans les médecins, la révolution n’aura pas lieu
+            Nadim Daher, NVIDIA
+          + CloudBees dévoile une offre de Software Delivery Management
+          + Adobe Sign pour les PME
+          + NVIDIA et VMware accélèrent le ML, la data science et l’IA
+            pour VMware Cloud sur AWS
+          + Alfresco lance une offre de migration vers le cloud en 5
+            semaines
+          + TCS aide Randstad à migrer vers le cloud
+          + Deutsche Telekom et Software AG s’associent dans l’IoT
+          + Oracle définitivement évincé du contrat JEDI d’une valeur de
+            10 milliards de dollars
+          + Oracle propose un service pour migrer vers le cloud
+          + Lexmark élargit son offre GO Line
+          + HP mise sur le Device as a Service
+          + Dell Technologies World
+            Dell veut simplifier l’environnement de travail
+          + Ivanti Environment Manager accélère l’adoption d’Office 365
+          + Lenovo lance TruScale, une offre Hardware as a Service
+          + Le Top10 des plus mauvais mots de passe selon Dashlane
+          + Acronis automatise les sauvegardes 3-2-1
+          + Comprendre les principes de la cryptologie et du chiffrement
+          + Mangstor propose des SAN ultra-rapides
+          + NetApp Insight 2015 : le flash de plus en plus accessible
+          + Red Hat veut s’imposer sur le stockage et la virtualisation
+          + Un milliard en cash pour des cartes flash
+          + Quelle IA pour votre cybersécurité ?
+            Greg Day, Palo Alto Networks
+          + Quelles technologies pour nourrir 10 milliards d’habitants ?
+            Claire Kago, Paessler AG
+          + Comment sécuriser le capital applicatif ?
+            Arnaud Lemaire, F5 Networks
+          + La clé pour réduire les coûts cachés de la fraude bancaire
+            Alexis Vernières, Kofax
+          + Les directions financières confrontées à la « déconnexion
+            numérique »
+            Frédéric Portal, Workday
+          + Le hacking à l’usage des débutants
+            Eric Heddeland, Barracuda Networks
+          + Nutanix : la transition vers le logiciel met un coup d’arrêt
+            (temporaire) à la croissance
+          + HP change son organisation qui passe de trois régions à 10
+            marchés géographiques
+          + Cisco enrichit son offre pour centres de contact en rachetant
+            CloudCherry
+          + LinkedIn pour recruter des agents chinois
+          + GlobalFoundries attaque son principal concurrent en justice,
+            la plainte vise également Apple, Cisco et Nvidia
+          + Croissance mirobolante pour Salesforce
+          + Cybersécurité : 6.000 postes à pourvoir ne trouvent pas
+            preneur en Ile-de-France
+          + Le salaire annuel moyen d’un développeur à San Francisco
+            atteint 145.000 dollars contre 52.000 euros à Paris
+          + 25 tutoriels en ligne sur les métiers de la fibre optique
+          + Recrutement : Leroy Merlin parie sur la vidéo
+          + Un Mooc sur l’IA pour les managers et leurs équipes
+          + La mobilité en une infographie
+     * Vidéos
+          + Invité de la semaine
+          + Evénement
+          + InfoNews Hebdo
+          + « Teradata fonctionne sur les deux grands cloud publics »
+          + « Nginx est open source et le restera » Sébastien Weber, F5
+            Networks France
+          + « Nos mainframes ont désormais la taille d’un réfrigérateur »,
+            Christopher O’Malley, Compuware
+          + « Survoler un nom fera apparaître des informations sur le
+            client », Jean-Pascal Ancelin, Microstrategy France
+          + « Suse devait devenir indépendant pour continuer à croître »
+            Pierre-Yves Albrieux, Suse
+          + « Grâce une connexion réseau, nous pouvons prendre en charge
+            l’infrastructure d’impression » Jean-Michel Sauvaud, président
+            Lexmark France
+          + La gouvernance des données, une nécessité pour les entreprises
+          + « Stockage primaire et secondaire pourront être dans le même
+            environnement » Bruno Picard Nutanix
+          + « La plateforme Nutanix, pilier du projet VDI de l’Icam »
+            Dominique Bugliani ICAM
+          + « Nous savons protéger les données dans un environnement
+            Nutanix » Gautier Leblanc, Veritas
+          + « Nous apportons de la valeur ajoutée à l’offre Nutanix »
+            Xavier Stern, HYCU
+          + « A terme, nous allons migrer sur l’hyperviseur de Nutanix »,
+            Farouk Ayad, Capgemini
+          + Moody’s-Team8, Microsoft, HPE, Okta, Broadcom-Symantec, Huawei
+            France
+          + Infonews Hebdo 1/07 avec Cigref, IBM-Cisco, Dell, Gafa, Skype,
+            Capgemini-Altran, IBM, Google, Netflix
+          + Apec, KPMG, Syntec, Dropbox, Météo France, Salesforce,
+            Dassault Système, Rencontre du cloud, Darkweb
+          + Infonews Hebdo 10/06 USF-SAP, IBM, IDC, Hadoop,
+            Oracle-Microsoft, Syntec Numérique, Google
+          + Infonews Hebdo 27/05 : Open VMS, ANSSI, Windows, Ivalua,
+            HPE/Cray, Huawei, AI Paris, Teratec, RGPD
+          + Infonews Hebdo 20/05 : Vivatech, Intel, Equinix, Orange,
+            Huawei, Atos, Salesforce, San Francisco
+     * Dossiers
+          + Infogérance d'impression
+          + DSI et Métiers : concurrence ou coopération
+          + Dossier Impression 1/5
+            La transformation numérique aura-t-elle raison du papier ?
+          + Dossier Impression 2/5
+            Des entreprises en quête de sécurité et de flexibilité
+          + Dossier Impression 3/5
+            Ziegler en marche vers la dématérialisation
+          + Dossier Impression 4/5
+            Services de base et offre complémentaire
+          + Dossier Impression 5/5
+            Accélérateurs et freins de mise en œuvre
+          + L’infogérance d’impression (MPS) chez Lexmark France
+          + Viseo pour aller plus loin avec Anaplan
+          + « Itinéraire d’un CIO connecté » épisode 3
+          + Le DSI, vers un dialogue fructueux avec les métiers
+          + « Itinéraire d’un CIO connecté » épisode 2
+          + Le DSI, interlocuteur naturel de la direction générale ?
+          + « Itinéraire d’un CIO connecté » épisode 1
+     * Partner Zone
+          + IBM
+          + Informatica
+          + Poly
+          + Pure Storage
+          + HPE
+          + KYOCERA Document Solutions
+          + Rubrik
+          + Tenable
+          + Fortinet
+          + Veeam
+          + Micro Focus
+          + Réussir son entrepôt de données pour faire face aux nouvelles
+            tendances en matière d’analytique (Hadoop, Spark,…)
+          + Comprendre le Big Data : une journée dans la vie d’un
+            architecte d’entreprise
+          + Les entrepôts de données évoluées, moteur de l’excellence en
+            analytique !
+          + Solutions IBM Data Warehouse : Stockage de données hybride
+            pour répondre aux besoins de l’analytique d’aujourd’hui
+          + Comment organiser l’entreprise Data Ready
+          + Les 5 secrets de l’accès aux données du Cloud en temps réel
+          + Orchestration des modèles d’intégration dans un environnement
+            hybride
+          + Trois façons d’évaluer la qualité des adresses postales
+          + Informatica au cœur de la relation entre le groupe Canal+ et
+            ses abonnés
+          + GDF SUEZ Dolce Vita : La qualité de données Informatica au
+            service de l’efficacité commerciale et marketing
+          + La réalité des open spaces et ce que vous pouvez faire pour y
+            remédier
+          + Des solutions de video-conférences adaptées aux nouvelles
+            générations
+          + Comment résoudre les difficultés liées à la multiplicité des
+            plates-formes vidéo pour améliorer l’expérience utilisateur ?
+          + L’invité de la semaine : Frédéric Batut VP Europe du sud
+            Polycom
+          + Le programme Evergreen Storage modifie les attentes en termes
+            d’expérience client pour le stockage d’entreprise
+          + Mobiliser les outils essentiels pour la transformation
+            digitale des institutions financières
+          + Comment de nouveaux entrants ont-ils pu « disrupter » le
+            secteur des services financiers ?
+          + Pourquoi les DSI innovants du secteur financier se tournent
+            vers le cloud hybride ?
+          + Réussir sa mise en place de DevOps avec l’Infrastructure
+            Composable
+          + Créer une infrastructure agile pour DevOps
+          + HPE Synergy : La première plateforme créée pour faire le lien
+            entre les applications traditionnelles et Cloud
+          + Docker et les infrastructures composables HPE, quelle synergie
+            ?
+          + Le marché des infrastructures composables : le point IDC
+          + Considérations générales sur les solutions Flash et enquêtes
+            auprès de 1000 utilisateurs
+          + Le déploiement d’un parc d’impression nécessite une vraie
+            conduite de projet
+          + Connaître son parc d’impression : un élément essentiel de
+            productivité
+          + Comment dématérialiser vos documents sortants ? Interview de
+            Benjamin Claus, KYOCERA Document Solutions
+          + Imprimer en toute sécurité même en situation de mobilité !
+          + Impression à la demande… comment associer mobilité des
+            collaborateurs et sécurité des documents ?
+          + L’impression mobile est une source de productivité
+          + FranceTV Publicité passe à la vitesse supérieure en termes de
+            cloud hybride avec Rubrik
+          + Guide d’achat d’une solution de sauvegarde et de restauration
+          + Rubrik accélère la conformité avec le RGPD
+          + Guide Rubrik du cloud public : Technologie et fonctionnement
+          + Automatisation, simplification et communication de la
+            conformité aux recommandations de sécurité de l’ANSSI
+          + Sécuriser les conteneurs dans un environnement DevOps
+          + Utiliser Tenable.io pour réduire les risques d’infection par
+            ransomware
+          + Minimiser la Cyber Exposure dans un monde de Cloud, conteneurs
+            et autres ressources modernes
+          + Repensez votre approche en matière de cybersécurité !
+          + Les ransomwares continuent de se développer, quelles
+            conséquences ?
+          + Comprendre l’explosion de l’IoT  et son impact sur la sécurité
+            des entreprises
+          + 45 minutes pour présenter trois scénarios de cohabitation avec
+            du sandboxing
+          + Comment déployer simplement avec Fortinet, le WiFi NextGen
+            chez vous
+          + AKKA Technologies déploie Veeam pour accélérer sa
+            transformation digitale
+          + Rapport Veeam 2019 sur la gestion des données dans le Cloud
+          + Les 6 principales raisons d’utiliser un service de sauvegarde
+            dans le cloud (BaaS)
+          + Prenez le contrôle de vos données Office 365
+          + Pourquoi faut-il sauvegarder Office 365 ?
+          + Les stratégies multicloud sont en plein essor
+          + L’Observatoire DevSecOps pour la DSI 2019
+          + Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+          + Infographie DevSecOps Intégrer la sécurité dans les pratiques
+            DevOps
+          + Webinar : Restitution des résultats de l’Observatoire 2019 –
+            DevSecOps
+
+   S’inscrire
+     * Twitter
+     * Facebook
+     * Linkedin
+     * Flux RSS
+
+Recevoir la newsletter
+
+   ____________________ S'abonner Please wait Please wait
+
+   [INS: :INS]
+
+   En bref
+
+Institut Mines-Télécom Business School lance un cours IA et éthique
+
+   La rédaction La rédaction
+   le 12-02-2019
+
+   Par La rédaction
+     * Email
+     * Print
+     * Facebook
+     * Twitter
+
+   Institut Mines-Télécom Business School propose une offre de cours
+   permettant de comprendre les enjeux éthiques et politiques de
+   l’intelligence artificielle, les concepts éthiques mis en jeu ainsi que
+   l’importance de l’éthique dès la conception des systèmes d’IA.
+
+   Cette offre de cours s’articule autour de 6 modules :
+   – Data Science, Machine Learning, Deep Learning ;
+   – Enjeux Éthiques de l’Intelligence Artificielle ;
+   – Élaboration de Solutions Data Science ;
+   – Élaboration de Solutions Machine Learning ;
+   – Élaboration de Solutions Deep Learning ;
+   – Élaboration de Solutions NLP (natural Language Processing)
+
+   Les cours sont destinés aux étudiants
+   – En 2^e année de Programme Grande Ecole, dans les voies
+   d’approfondissement suivantes : Intelligence Artificielle pour les
+   managers, Systèmes d’information ;
+   – En 3^e année de Programme Grande Ecole, dans les majeures
+   (spécialisations) Ingénierie des Systèmes d’Information (ISI) et
+   Conseil et Management des Systèmes d’Information (CMSI).
+
+   ____________________ search
+
+   [INS: :INS]
+     * L’Observatoire DevSecOps pour la DSI 2019
+       02 septembre - 14h56
+     * Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+       02 septembre - 14h40
+     * Infographie DevSecOps Intégrer la sécurité dans les pratiques
+       DevOps
+       02 septembre - 14h30
+     * Webinar : Restitution des résultats de l’Observatoire 2019 –
+       DevSecOps
+       02 septembre - 13h42
+     * Equinix et VMware s’associent dans le cloud hybride
+       02 septembre - 09h34
+     * La gouvernance des données, une nécessité pour les entreprises
+       02 septembre - 08h05
+     * Face à l’utopie holacratique, célébrons le collaboratif !
+       Thibaut Champey, Dropbox
+       02 septembre - 07h59
+     * Quelle IA pour votre cybersécurité ?
+       Greg Day, Palo Alto Networks
+       02 septembre - 07h48
+     * Nutanix : la transition vers le logiciel met un coup d’arrêt
+       (temporaire) à la croissance
+       02 septembre - 07h45
+     * Hébergement : Equinix numéro un sur les quatre régions du monde
+       02 septembre - 07h26
+     * Datadog prépare une introduction en bourse
+       29 août - 22h42
+     * Quelles technologies pour nourrir 10 milliards d’habitants ?
+       Claire Kago, Paessler AG
+       29 août - 21h06
+     * Comment sécuriser le capital applicatif ?
+       Arnaud Lemaire, F5 Networks
+       29 août - 21h01
+     * HP change son organisation qui passe de trois régions à 10 marchés
+       géographiques
+       29 août - 20h58
+     * HPE propose des solutions VMware en tant que service Greenlake
+       28 août - 17h14
+     * Cisco enrichit son offre pour centres de contact en rachetant
+       CloudCherry
+       28 août - 16h24
+     * Acronis lance un bouquet de cyber services
+       28 août - 16h10
+     * La clé pour réduire les coûts cachés de la fraude bancaire
+       Alexis Vernières, Kofax
+       28 août - 16h01
+     * Les directions financières confrontées à la « déconnexion numérique
+       »
+       Frédéric Portal, Workday
+       28 août - 15h57
+     * LinkedIn pour recruter des agents chinois
+       28 août - 15h38
+     * VMware étoffe l’environnement applicatif sur Kubernetes
+       27 août - 19h20
+     * Infor présente une nouvelle version de Concierge Portal
+       27 août - 18h12
+     * Le hacking à l’usage des débutants
+       Eric Heddeland, Barracuda Networks
+       27 août - 17h05
+     * Les réalités du software 2.0 : vers un code qui s’écrit tout seul
+       Alexandre Vasseur, Pivotal
+       27 août - 16h58
+     * GlobalFoundries attaque son principal concurrent en justice, la
+       plainte vise également Apple, Cisco et Nvidia
+       27 août - 16h49
+     * La startup Cerebras présente le plus grand processeur jamais conçu
+       26 août - 19h28
+     * Evolution du nombre de sites Internet
+       26 août - 17h40
+     * NVIDIA et VMware accélèrent le ML, la data science et l’IA pour
+       VMware Cloud sur AWS
+       26 août - 16h16
+     * HPE veut atterrir sur la Lune en douceur
+       26 août - 16h06
+     * NetApp maintien le cap sur le 100 % Flash NVMe
+       26 août - 15h42
+     * Comment apprendre à un ordinateur à penser ? En lui apprenant à
+       parler
+       Zachary Jarvinen, OpenText
+       26 août - 15h28
+     * Santé et IA : sans les médecins, la révolution n’aura pas lieu
+       Nadim Daher, NVIDIA
+       26 août - 15h23
+     * Croissance mirobolante pour Salesforce
+       26 août - 15h16
+     * La simulation à l’aide de la chirurgie cardiaque
+       23 août - 19h23
+     * Repenser la relation au travail par le Robotic operation model
+       Frank Guiducci, BluePrism
+       23 août - 15h36
+     * IA : vers une augmentation du QI de l’homme
+       Stéphane Roder, CEO et Fondateur AI Builders
+       23 août - 15h27
+     * IBM bascule l’architecture du jeu d’instruction de sa plateforme
+       Power en open source
+       23 août - 15h23
+     * Le rôle croissant des développeurs
+       22 août - 19h13
+     * CloudBees dévoile une offre de Software Delivery Management
+       22 août - 15h45
+     * Modèle de sécurité Zéro Trust : avantages par rapport aux approches
+       traditionnelles ?
+       Jan van Vliet, Digital Guardian
+       22 août - 15h34
+     * Adobe Sign pour les PME
+       22 août - 15h29
+     * Intel dévoile une puce spécialisée pour l’IA
+       22 août - 15h02
+     * L’industrie du numérique appelle à un alignement des politiques sur
+       le numérique
+       22 août - 14h57
+     * Les trois principaux objectifs des DSI
+       21 août - 18h30
+     * Le SD-WAN peut-il aider à renforcer la sécurité des applications
+       cloud-first ?
+       Nav Chander, Silver Peak
+       21 août - 14h28
+     * Quatre priorités pour sécuriser le cloud
+       Lora O’Haver, Keysight Technologies
+       21 août - 14h25
+     * Microsoft va brider les déploiements de ses logiciels sur les
+       clouds concurrents
+       20 août - 20h52
+     * Acronis automatise les sauvegardes 3-2-1
+       20 août - 17h31
+     * Une décennie pleine de chamboulements technologiques
+       Erwan Paccard, AppDynamics
+       20 août - 17h07
+     * Comment Amazon asphyxie l’ensemble du retail
+       Jean-Paul Crenn, Vuca Strategy
+       20 août - 17h00
+     * HPE joue la carte AMD pour ses serveurs ProLiant
+       19 août - 18h21
+     * BMC automatise le développement d’applications sur DB2
+       19 août - 17h01
+     * La conduite du changement, un facteur à double tranchant pour l’IT
+       Pierre-Yves Albrieux, SUSE
+       19 août - 15h54
+     * Engagement des collaborateurs, un potentiel libéré par les
+       technologies professionnelles
+       William Biotteau, Dynabook
+       19 août - 15h50
+     * Software AG s’associe à Microsoft pour accélérer la migration vers
+       le cloud Azure
+       19 août - 15h45
+     * Les principales actualités de l’été
+       19 août - 15h29
+     * La lente concentration du secteur des hébergeurs
+       18 août - 16h46
+     * Smartphones : Apple et Huawei plongent en Europe
+       16 août - 00h04
+     * Broadcom ne rachète finalement que l’activité entreprises de
+       Symantec
+       15 août - 22h49
+     * IBM dévoile son plan pour renouer avec la croissance avec Red Hat
+       09 août - 16h41
+
+   [INS: :INS]
+
+   InformatiqueNews InformatiqueNews
+
+   Nous proposons aux professionnels de l'informatique et des télécoms
+   français un espace unique pour s'informer sans concession sur
+   l'actualité du secteur, discerner les nouvelles tendances, commenter et
+   échanger en toute sérénité avec leurs pairs et leurs fournisseurs.
+   Heberge par Ikoula Heberge par Ikoula
+   Cloud privé | Infogérance
+   PLAN DU SITE
+     * Applications
+     * Cloud
+     * Economie
+     * Infrastructures
+     * Mobilité
+     * Poste de travail
+     * Sécurité
+
+     * En bref
+     * Avis des fournisseurs
+     * Tribunes
+     * Emploi
+     * Livres blancs
+
+   LIVRES BLANCS
+     * DataManagement
+     * Réseau&télécoms
+     * Virtualisation
+
+   NOS SITES
+     * ChannelNews.fr
+     * Projets-Informatiques.fr
+     * BtoBMarketers.fr
+
+   CONTACTS
+     * Rédaction
+     * Publicité
+     * Advertising
+     * Editorial
+     * Communiquer en vidéo
+
+   MENTIONS LEGALES
+     * Mentions légales
+     * Politique de confidentialité
+     * Maintenance et hébergement par SysnDev
+
+Lire les articles précédents :
+
+La gouvernance des données, une nécessité pour les entreprises
+
+   Dans le cadre de notre rendez-vous mensuel, les tables rondes
+   technologiques, ce mois-ci la discussion tournera autour de la
+   gouvernance...
+   Fermer
+   #InformatiqueNews.fr » Flux InformatiqueNews.fr » Flux des commentaires
+   InformatiqueNews.fr » Verizon intègre Alibaba Cloud à son offre Secure
+   Cloud Interconnect Flux des commentaires
+
+   InformatiqueNews.fr
+
+   open
+     * News
+          + Mobilité
+          + Sécurité
+          + Infrastructures
+          + Applications
+          + Cloud
+          + Poste de travail
+          + stockage
+          + Avis des fournisseurs
+          + Economie
+          + RH
+          + iOS 13 : qui peut en profiter ?
+          + Smartphones : septième trimestre consécutif de baisse des
+            ventes
+          + L’Arcep assure que la 5G sera lancée comme prévu en 2020
+          + Apple recrute le responsable de la puce 5G chez Intel
+          + Huawei surpasse Apple et conforte son rang de n°2
+          + Smartphones : baisse des ventes et montée des constructeurs
+            chinois
+          + Acronis lance un bouquet de cyber services
+          + Agent Smith : l’agent qui ne vous veut pas du bien
+          + Excès de confiance dans la sécurité sur le cloud ?
+          + Ransomware : nécessaires sauvegarde et plan de reprise
+          + Forte croissance des services de cybersécurité
+          + Une dizaine d’opérateurs télécoms mondiaux ainsi que des
+            géants de l’IT hackés
+          + Equinix et VMware s’associent dans le cloud hybride
+          + HPE veut atterrir sur la Lune en douceur
+          + NetApp maintien le cap sur le 100 % Flash NVMe
+          + IBM bascule l’architecture du jeu d’instruction de sa
+            plateforme Power en open source
+          + Marc Linster : « EnterpriseDB prend des parts de marché à
+            Oracle »
+          + Western Digital étoffe sa gamme de baies IntelliFlash
+          + Face à l’utopie holacratique, célébrons le collaboratif !
+            Thibaut Champey, Dropbox
+          + Infor présente une nouvelle version de Concierge Portal
+          + Evolution du nombre de sites Internet
+          + Santé et IA : sans les médecins, la révolution n’aura pas lieu
+            Nadim Daher, NVIDIA
+          + CloudBees dévoile une offre de Software Delivery Management
+          + Adobe Sign pour les PME
+          + NVIDIA et VMware accélèrent le ML, la data science et l’IA
+            pour VMware Cloud sur AWS
+          + Alfresco lance une offre de migration vers le cloud en 5
+            semaines
+          + TCS aide Randstad à migrer vers le cloud
+          + Deutsche Telekom et Software AG s’associent dans l’IoT
+          + Oracle définitivement évincé du contrat JEDI d’une valeur de
+            10 milliards de dollars
+          + Oracle propose un service pour migrer vers le cloud
+          + Lexmark élargit son offre GO Line
+          + HP mise sur le Device as a Service
+          + Dell Technologies World
+            Dell veut simplifier l’environnement de travail
+          + Ivanti Environment Manager accélère l’adoption d’Office 365
+          + Lenovo lance TruScale, une offre Hardware as a Service
+          + Le Top10 des plus mauvais mots de passe selon Dashlane
+          + Acronis automatise les sauvegardes 3-2-1
+          + Comprendre les principes de la cryptologie et du chiffrement
+          + Mangstor propose des SAN ultra-rapides
+          + NetApp Insight 2015 : le flash de plus en plus accessible
+          + Red Hat veut s’imposer sur le stockage et la virtualisation
+          + Un milliard en cash pour des cartes flash
+          + Quelle IA pour votre cybersécurité ?
+            Greg Day, Palo Alto Networks
+          + Quelles technologies pour nourrir 10 milliards d’habitants ?
+            Claire Kago, Paessler AG
+          + Comment sécuriser le capital applicatif ?
+            Arnaud Lemaire, F5 Networks
+          + La clé pour réduire les coûts cachés de la fraude bancaire
+            Alexis Vernières, Kofax
+          + Les directions financières confrontées à la « déconnexion
+            numérique »
+            Frédéric Portal, Workday
+          + Le hacking à l’usage des débutants
+            Eric Heddeland, Barracuda Networks
+          + Nutanix : la transition vers le logiciel met un coup d’arrêt
+            (temporaire) à la croissance
+          + HP change son organisation qui passe de trois régions à 10
+            marchés géographiques
+          + Cisco enrichit son offre pour centres de contact en rachetant
+            CloudCherry
+          + LinkedIn pour recruter des agents chinois
+          + GlobalFoundries attaque son principal concurrent en justice,
+            la plainte vise également Apple, Cisco et Nvidia
+          + Croissance mirobolante pour Salesforce
+          + Cybersécurité : 6.000 postes à pourvoir ne trouvent pas
+            preneur en Ile-de-France
+          + Le salaire annuel moyen d’un développeur à San Francisco
+            atteint 145.000 dollars contre 52.000 euros à Paris
+          + 25 tutoriels en ligne sur les métiers de la fibre optique
+          + Recrutement : Leroy Merlin parie sur la vidéo
+          + Un Mooc sur l’IA pour les managers et leurs équipes
+          + La mobilité en une infographie
+     * Vidéos
+          + Invité de la semaine
+          + Evénement
+          + InfoNews Hebdo
+          + « Teradata fonctionne sur les deux grands cloud publics »
+          + « Nginx est open source et le restera » Sébastien Weber, F5
+            Networks France
+          + « Nos mainframes ont désormais la taille d’un réfrigérateur »,
+            Christopher O’Malley, Compuware
+          + « Survoler un nom fera apparaître des informations sur le
+            client », Jean-Pascal Ancelin, Microstrategy France
+          + « Suse devait devenir indépendant pour continuer à croître »
+            Pierre-Yves Albrieux, Suse
+          + « Grâce une connexion réseau, nous pouvons prendre en charge
+            l’infrastructure d’impression » Jean-Michel Sauvaud, président
+            Lexmark France
+          + La gouvernance des données, une nécessité pour les entreprises
+          + « Stockage primaire et secondaire pourront être dans le même
+            environnement » Bruno Picard Nutanix
+          + « La plateforme Nutanix, pilier du projet VDI de l’Icam »
+            Dominique Bugliani ICAM
+          + « Nous savons protéger les données dans un environnement
+            Nutanix » Gautier Leblanc, Veritas
+          + « Nous apportons de la valeur ajoutée à l’offre Nutanix »
+            Xavier Stern, HYCU
+          + « A terme, nous allons migrer sur l’hyperviseur de Nutanix »,
+            Farouk Ayad, Capgemini
+          + Moody’s-Team8, Microsoft, HPE, Okta, Broadcom-Symantec, Huawei
+            France
+          + Infonews Hebdo 1/07 avec Cigref, IBM-Cisco, Dell, Gafa, Skype,
+            Capgemini-Altran, IBM, Google, Netflix
+          + Apec, KPMG, Syntec, Dropbox, Météo France, Salesforce,
+            Dassault Système, Rencontre du cloud, Darkweb
+          + Infonews Hebdo 10/06 USF-SAP, IBM, IDC, Hadoop,
+            Oracle-Microsoft, Syntec Numérique, Google
+          + Infonews Hebdo 27/05 : Open VMS, ANSSI, Windows, Ivalua,
+            HPE/Cray, Huawei, AI Paris, Teratec, RGPD
+          + Infonews Hebdo 20/05 : Vivatech, Intel, Equinix, Orange,
+            Huawei, Atos, Salesforce, San Francisco
+     * Dossiers
+          + Infogérance d'impression
+          + DSI et Métiers : concurrence ou coopération
+          + Dossier Impression 1/5
+            La transformation numérique aura-t-elle raison du papier ?
+          + Dossier Impression 2/5
+            Des entreprises en quête de sécurité et de flexibilité
+          + Dossier Impression 3/5
+            Ziegler en marche vers la dématérialisation
+          + Dossier Impression 4/5
+            Services de base et offre complémentaire
+          + Dossier Impression 5/5
+            Accélérateurs et freins de mise en œuvre
+          + L’infogérance d’impression (MPS) chez Lexmark France
+          + Viseo pour aller plus loin avec Anaplan
+          + « Itinéraire d’un CIO connecté » épisode 3
+          + Le DSI, vers un dialogue fructueux avec les métiers
+          + « Itinéraire d’un CIO connecté » épisode 2
+          + Le DSI, interlocuteur naturel de la direction générale ?
+          + « Itinéraire d’un CIO connecté » épisode 1
+     * Partner Zone
+          + IBM
+          + Informatica
+          + Poly
+          + Pure Storage
+          + HPE
+          + KYOCERA Document Solutions
+          + Rubrik
+          + Tenable
+          + Fortinet
+          + Veeam
+          + Micro Focus
+          + Réussir son entrepôt de données pour faire face aux nouvelles
+            tendances en matière d’analytique (Hadoop, Spark,…)
+          + Comprendre le Big Data : une journée dans la vie d’un
+            architecte d’entreprise
+          + Les entrepôts de données évoluées, moteur de l’excellence en
+            analytique !
+          + Solutions IBM Data Warehouse : Stockage de données hybride
+            pour répondre aux besoins de l’analytique d’aujourd’hui
+          + Comment organiser l’entreprise Data Ready
+          + Les 5 secrets de l’accès aux données du Cloud en temps réel
+          + Orchestration des modèles d’intégration dans un environnement
+            hybride
+          + Trois façons d’évaluer la qualité des adresses postales
+          + Informatica au cœur de la relation entre le groupe Canal+ et
+            ses abonnés
+          + GDF SUEZ Dolce Vita : La qualité de données Informatica au
+            service de l’efficacité commerciale et marketing
+          + La réalité des open spaces et ce que vous pouvez faire pour y
+            remédier
+          + Des solutions de video-conférences adaptées aux nouvelles
+            générations
+          + Comment résoudre les difficultés liées à la multiplicité des
+            plates-formes vidéo pour améliorer l’expérience utilisateur ?
+          + L’invité de la semaine : Frédéric Batut VP Europe du sud
+            Polycom
+          + Le programme Evergreen Storage modifie les attentes en termes
+            d’expérience client pour le stockage d’entreprise
+          + Mobiliser les outils essentiels pour la transformation
+            digitale des institutions financières
+          + Comment de nouveaux entrants ont-ils pu « disrupter » le
+            secteur des services financiers ?
+          + Pourquoi les DSI innovants du secteur financier se tournent
+            vers le cloud hybride ?
+          + Réussir sa mise en place de DevOps avec l’Infrastructure
+            Composable
+          + Créer une infrastructure agile pour DevOps
+          + HPE Synergy : La première plateforme créée pour faire le lien
+            entre les applications traditionnelles et Cloud
+          + Docker et les infrastructures composables HPE, quelle synergie
+            ?
+          + Le marché des infrastructures composables : le point IDC
+          + Considérations générales sur les solutions Flash et enquêtes
+            auprès de 1000 utilisateurs
+          + Le déploiement d’un parc d’impression nécessite une vraie
+            conduite de projet
+          + Connaître son parc d’impression : un élément essentiel de
+            productivité
+          + Comment dématérialiser vos documents sortants ? Interview de
+            Benjamin Claus, KYOCERA Document Solutions
+          + Imprimer en toute sécurité même en situation de mobilité !
+          + Impression à la demande… comment associer mobilité des
+            collaborateurs et sécurité des documents ?
+          + L’impression mobile est une source de productivité
+          + FranceTV Publicité passe à la vitesse supérieure en termes de
+            cloud hybride avec Rubrik
+          + Guide d’achat d’une solution de sauvegarde et de restauration
+          + Rubrik accélère la conformité avec le RGPD
+          + Guide Rubrik du cloud public : Technologie et fonctionnement
+          + Automatisation, simplification et communication de la
+            conformité aux recommandations de sécurité de l’ANSSI
+          + Sécuriser les conteneurs dans un environnement DevOps
+          + Utiliser Tenable.io pour réduire les risques d’infection par
+            ransomware
+          + Minimiser la Cyber Exposure dans un monde de Cloud, conteneurs
+            et autres ressources modernes
+          + Repensez votre approche en matière de cybersécurité !
+          + Les ransomwares continuent de se développer, quelles
+            conséquences ?
+          + Comprendre l’explosion de l’IoT  et son impact sur la sécurité
+            des entreprises
+          + 45 minutes pour présenter trois scénarios de cohabitation avec
+            du sandboxing
+          + Comment déployer simplement avec Fortinet, le WiFi NextGen
+            chez vous
+          + AKKA Technologies déploie Veeam pour accélérer sa
+            transformation digitale
+          + Rapport Veeam 2019 sur la gestion des données dans le Cloud
+          + Les 6 principales raisons d’utiliser un service de sauvegarde
+            dans le cloud (BaaS)
+          + Prenez le contrôle de vos données Office 365
+          + Pourquoi faut-il sauvegarder Office 365 ?
+          + Les stratégies multicloud sont en plein essor
+          + L’Observatoire DevSecOps pour la DSI 2019
+          + Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+          + Infographie DevSecOps Intégrer la sécurité dans les pratiques
+            DevOps
+          + Webinar : Restitution des résultats de l’Observatoire 2019 –
+            DevSecOps
+
+   S’inscrire
+     * Twitter
+     * Facebook
+     * Linkedin
+     * Flux RSS
+
+Recevoir la newsletter
+
+   ____________________ S'abonner Please wait Please wait
+
+   [INS: :INS]
+
+   En bref
+
+Verizon intègre Alibaba Cloud à son offre Secure Cloud Interconnect
+
+   La rédaction La rédaction
+   le 12-02-2019
+
+   Par La rédaction
+     * Email
+     * Print
+     * Facebook
+     * Twitter
+
+   Verizon intègre Alibaba Cloud à son offre Secure Cloud Interconnect.
+   Les clients de Verizon, et notamment les entreprises implantées en
+   Chine ou qui envisagent de s’installer dans la région, peuvent
+   désormais bénéficier d’une connexion directe et sécurisée aux services
+   de Verizon.
+
+   L’intégration d’Alibaba Cloud pour les marchés de Singapour et Hong
+   Kong porte à 10 le nombre de fournisseurs de services cloud accessibles
+   depuis Verizon Secure Cloud Interconnect, pour une couverture étendue à
+   72 localisations dans le monde.
+
+   Secure Cloud Interconnect, avec son regroupement croissant de grands
+   fournisseurs de services cloud et d’hyper-scalers, demeure un actif
+   stratégique de la plateforme Verizon Software Defined and Virtual
+   Services. Le service peut être rendu opérationnel en quelques minutes
+   après l’envoi d’une commande valide, et non en plusieurs jours, ce qui
+   limite les délais de déploiement d’une nouvelle solution cloud. Une
+   fois la connexion établie, il est possible d’ajuster la bande passante
+   à la hausse comme à la baisse en quelques minutes.
+
+   ____________________ search
+
+   [INS: :INS]
+     * L’Observatoire DevSecOps pour la DSI 2019
+       02 septembre - 14h56
+     * Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+       02 septembre - 14h40
+     * Infographie DevSecOps Intégrer la sécurité dans les pratiques
+       DevOps
+       02 septembre - 14h30
+     * Webinar : Restitution des résultats de l’Observatoire 2019 –
+       DevSecOps
+       02 septembre - 13h42
+     * Equinix et VMware s’associent dans le cloud hybride
+       02 septembre - 09h34
+     * La gouvernance des données, une nécessité pour les entreprises
+       02 septembre - 08h05
+     * Face à l’utopie holacratique, célébrons le collaboratif !
+       Thibaut Champey, Dropbox
+       02 septembre - 07h59
+     * Quelle IA pour votre cybersécurité ?
+       Greg Day, Palo Alto Networks
+       02 septembre - 07h48
+     * Nutanix : la transition vers le logiciel met un coup d’arrêt
+       (temporaire) à la croissance
+       02 septembre - 07h45
+     * Hébergement : Equinix numéro un sur les quatre régions du monde
+       02 septembre - 07h26
+     * Datadog prépare une introduction en bourse
+       29 août - 22h42
+     * Quelles technologies pour nourrir 10 milliards d’habitants ?
+       Claire Kago, Paessler AG
+       29 août - 21h06
+     * Comment sécuriser le capital applicatif ?
+       Arnaud Lemaire, F5 Networks
+       29 août - 21h01
+     * HP change son organisation qui passe de trois régions à 10 marchés
+       géographiques
+       29 août - 20h58
+     * HPE propose des solutions VMware en tant que service Greenlake
+       28 août - 17h14
+     * Cisco enrichit son offre pour centres de contact en rachetant
+       CloudCherry
+       28 août - 16h24
+     * Acronis lance un bouquet de cyber services
+       28 août - 16h10
+     * La clé pour réduire les coûts cachés de la fraude bancaire
+       Alexis Vernières, Kofax
+       28 août - 16h01
+     * Les directions financières confrontées à la « déconnexion numérique
+       »
+       Frédéric Portal, Workday
+       28 août - 15h57
+     * LinkedIn pour recruter des agents chinois
+       28 août - 15h38
+     * VMware étoffe l’environnement applicatif sur Kubernetes
+       27 août - 19h20
+     * Infor présente une nouvelle version de Concierge Portal
+       27 août - 18h12
+     * Le hacking à l’usage des débutants
+       Eric Heddeland, Barracuda Networks
+       27 août - 17h05
+     * Les réalités du software 2.0 : vers un code qui s’écrit tout seul
+       Alexandre Vasseur, Pivotal
+       27 août - 16h58
+     * GlobalFoundries attaque son principal concurrent en justice, la
+       plainte vise également Apple, Cisco et Nvidia
+       27 août - 16h49
+     * La startup Cerebras présente le plus grand processeur jamais conçu
+       26 août - 19h28
+     * Evolution du nombre de sites Internet
+       26 août - 17h40
+     * NVIDIA et VMware accélèrent le ML, la data science et l’IA pour
+       VMware Cloud sur AWS
+       26 août - 16h16
+     * HPE veut atterrir sur la Lune en douceur
+       26 août - 16h06
+     * NetApp maintien le cap sur le 100 % Flash NVMe
+       26 août - 15h42
+     * Comment apprendre à un ordinateur à penser ? En lui apprenant à
+       parler
+       Zachary Jarvinen, OpenText
+       26 août - 15h28
+     * Santé et IA : sans les médecins, la révolution n’aura pas lieu
+       Nadim Daher, NVIDIA
+       26 août - 15h23
+     * Croissance mirobolante pour Salesforce
+       26 août - 15h16
+     * La simulation à l’aide de la chirurgie cardiaque
+       23 août - 19h23
+     * Repenser la relation au travail par le Robotic operation model
+       Frank Guiducci, BluePrism
+       23 août - 15h36
+     * IA : vers une augmentation du QI de l’homme
+       Stéphane Roder, CEO et Fondateur AI Builders
+       23 août - 15h27
+     * IBM bascule l’architecture du jeu d’instruction de sa plateforme
+       Power en open source
+       23 août - 15h23
+     * Le rôle croissant des développeurs
+       22 août - 19h13
+     * CloudBees dévoile une offre de Software Delivery Management
+       22 août - 15h45
+     * Modèle de sécurité Zéro Trust : avantages par rapport aux approches
+       traditionnelles ?
+       Jan van Vliet, Digital Guardian
+       22 août - 15h34
+     * Adobe Sign pour les PME
+       22 août - 15h29
+     * Intel dévoile une puce spécialisée pour l’IA
+       22 août - 15h02
+     * L’industrie du numérique appelle à un alignement des politiques sur
+       le numérique
+       22 août - 14h57
+     * Les trois principaux objectifs des DSI
+       21 août - 18h30
+     * Le SD-WAN peut-il aider à renforcer la sécurité des applications
+       cloud-first ?
+       Nav Chander, Silver Peak
+       21 août - 14h28
+     * Quatre priorités pour sécuriser le cloud
+       Lora O’Haver, Keysight Technologies
+       21 août - 14h25
+     * Microsoft va brider les déploiements de ses logiciels sur les
+       clouds concurrents
+       20 août - 20h52
+     * Acronis automatise les sauvegardes 3-2-1
+       20 août - 17h31
+     * Une décennie pleine de chamboulements technologiques
+       Erwan Paccard, AppDynamics
+       20 août - 17h07
+     * Comment Amazon asphyxie l’ensemble du retail
+       Jean-Paul Crenn, Vuca Strategy
+       20 août - 17h00
+     * HPE joue la carte AMD pour ses serveurs ProLiant
+       19 août - 18h21
+     * BMC automatise le développement d’applications sur DB2
+       19 août - 17h01
+     * La conduite du changement, un facteur à double tranchant pour l’IT
+       Pierre-Yves Albrieux, SUSE
+       19 août - 15h54
+     * Engagement des collaborateurs, un potentiel libéré par les
+       technologies professionnelles
+       William Biotteau, Dynabook
+       19 août - 15h50
+     * Software AG s’associe à Microsoft pour accélérer la migration vers
+       le cloud Azure
+       19 août - 15h45
+     * Les principales actualités de l’été
+       19 août - 15h29
+     * La lente concentration du secteur des hébergeurs
+       18 août - 16h46
+     * Smartphones : Apple et Huawei plongent en Europe
+       16 août - 00h04
+     * Broadcom ne rachète finalement que l’activité entreprises de
+       Symantec
+       15 août - 22h49
+     * IBM dévoile son plan pour renouer avec la croissance avec Red Hat
+       09 août - 16h41
+
+   [INS: :INS]
+
+   InformatiqueNews InformatiqueNews
+
+   Nous proposons aux professionnels de l'informatique et des télécoms
+   français un espace unique pour s'informer sans concession sur
+   l'actualité du secteur, discerner les nouvelles tendances, commenter et
+   échanger en toute sérénité avec leurs pairs et leurs fournisseurs.
+   Heberge par Ikoula Heberge par Ikoula
+   Cloud privé | Infogérance
+   PLAN DU SITE
+     * Applications
+     * Cloud
+     * Economie
+     * Infrastructures
+     * Mobilité
+     * Poste de travail
+     * Sécurité
+
+     * En bref
+     * Avis des fournisseurs
+     * Tribunes
+     * Emploi
+     * Livres blancs
+
+   LIVRES BLANCS
+     * DataManagement
+     * Réseau&télécoms
+     * Virtualisation
+
+   NOS SITES
+     * ChannelNews.fr
+     * Projets-Informatiques.fr
+     * BtoBMarketers.fr
+
+   CONTACTS
+     * Rédaction
+     * Publicité
+     * Advertising
+     * Editorial
+     * Communiquer en vidéo
+
+   MENTIONS LEGALES
+     * Mentions légales
+     * Politique de confidentialité
+     * Maintenance et hébergement par SysnDev
+
+Lire les articles précédents :
+
+La gouvernance des données, une nécessité pour les entreprises
+
+   Dans le cadre de notre rendez-vous mensuel, les tables rondes
+   technologiques, ce mois-ci la discussion tournera autour de la
+   gouvernance...
+   Fermer
+   #InformatiqueNews.fr » Flux InformatiqueNews.fr » Flux des commentaires
+   InformatiqueNews.fr » OVH propose une la plateforme logicielle cloud
+   NVIDIA GPU Flux des commentaires
+
+   InformatiqueNews.fr
+
+   open
+     * News
+          + Mobilité
+          + Sécurité
+          + Infrastructures
+          + Applications
+          + Cloud
+          + Poste de travail
+          + stockage
+          + Avis des fournisseurs
+          + Economie
+          + RH
+          + iOS 13 : qui peut en profiter ?
+          + Smartphones : septième trimestre consécutif de baisse des
+            ventes
+          + L’Arcep assure que la 5G sera lancée comme prévu en 2020
+          + Apple recrute le responsable de la puce 5G chez Intel
+          + Huawei surpasse Apple et conforte son rang de n°2
+          + Smartphones : baisse des ventes et montée des constructeurs
+            chinois
+          + Acronis lance un bouquet de cyber services
+          + Agent Smith : l’agent qui ne vous veut pas du bien
+          + Excès de confiance dans la sécurité sur le cloud ?
+          + Ransomware : nécessaires sauvegarde et plan de reprise
+          + Forte croissance des services de cybersécurité
+          + Une dizaine d’opérateurs télécoms mondiaux ainsi que des
+            géants de l’IT hackés
+          + Equinix et VMware s’associent dans le cloud hybride
+          + HPE veut atterrir sur la Lune en douceur
+          + NetApp maintien le cap sur le 100 % Flash NVMe
+          + IBM bascule l’architecture du jeu d’instruction de sa
+            plateforme Power en open source
+          + Marc Linster : « EnterpriseDB prend des parts de marché à
+            Oracle »
+          + Western Digital étoffe sa gamme de baies IntelliFlash
+          + Face à l’utopie holacratique, célébrons le collaboratif !
+            Thibaut Champey, Dropbox
+          + Infor présente une nouvelle version de Concierge Portal
+          + Evolution du nombre de sites Internet
+          + Santé et IA : sans les médecins, la révolution n’aura pas lieu
+            Nadim Daher, NVIDIA
+          + CloudBees dévoile une offre de Software Delivery Management
+          + Adobe Sign pour les PME
+          + NVIDIA et VMware accélèrent le ML, la data science et l’IA
+            pour VMware Cloud sur AWS
+          + Alfresco lance une offre de migration vers le cloud en 5
+            semaines
+          + TCS aide Randstad à migrer vers le cloud
+          + Deutsche Telekom et Software AG s’associent dans l’IoT
+          + Oracle définitivement évincé du contrat JEDI d’une valeur de
+            10 milliards de dollars
+          + Oracle propose un service pour migrer vers le cloud
+          + Lexmark élargit son offre GO Line
+          + HP mise sur le Device as a Service
+          + Dell Technologies World
+            Dell veut simplifier l’environnement de travail
+          + Ivanti Environment Manager accélère l’adoption d’Office 365
+          + Lenovo lance TruScale, une offre Hardware as a Service
+          + Le Top10 des plus mauvais mots de passe selon Dashlane
+          + Acronis automatise les sauvegardes 3-2-1
+          + Comprendre les principes de la cryptologie et du chiffrement
+          + Mangstor propose des SAN ultra-rapides
+          + NetApp Insight 2015 : le flash de plus en plus accessible
+          + Red Hat veut s’imposer sur le stockage et la virtualisation
+          + Un milliard en cash pour des cartes flash
+          + Quelle IA pour votre cybersécurité ?
+            Greg Day, Palo Alto Networks
+          + Quelles technologies pour nourrir 10 milliards d’habitants ?
+            Claire Kago, Paessler AG
+          + Comment sécuriser le capital applicatif ?
+            Arnaud Lemaire, F5 Networks
+          + La clé pour réduire les coûts cachés de la fraude bancaire
+            Alexis Vernières, Kofax
+          + Les directions financières confrontées à la « déconnexion
+            numérique »
+            Frédéric Portal, Workday
+          + Le hacking à l’usage des débutants
+            Eric Heddeland, Barracuda Networks
+          + Nutanix : la transition vers le logiciel met un coup d’arrêt
+            (temporaire) à la croissance
+          + HP change son organisation qui passe de trois régions à 10
+            marchés géographiques
+          + Cisco enrichit son offre pour centres de contact en rachetant
+            CloudCherry
+          + LinkedIn pour recruter des agents chinois
+          + GlobalFoundries attaque son principal concurrent en justice,
+            la plainte vise également Apple, Cisco et Nvidia
+          + Croissance mirobolante pour Salesforce
+          + Cybersécurité : 6.000 postes à pourvoir ne trouvent pas
+            preneur en Ile-de-France
+          + Le salaire annuel moyen d’un développeur à San Francisco
+            atteint 145.000 dollars contre 52.000 euros à Paris
+          + 25 tutoriels en ligne sur les métiers de la fibre optique
+          + Recrutement : Leroy Merlin parie sur la vidéo
+          + Un Mooc sur l’IA pour les managers et leurs équipes
+          + La mobilité en une infographie
+     * Vidéos
+          + Invité de la semaine
+          + Evénement
+          + InfoNews Hebdo
+          + « Teradata fonctionne sur les deux grands cloud publics »
+          + « Nginx est open source et le restera » Sébastien Weber, F5
+            Networks France
+          + « Nos mainframes ont désormais la taille d’un réfrigérateur »,
+            Christopher O’Malley, Compuware
+          + « Survoler un nom fera apparaître des informations sur le
+            client », Jean-Pascal Ancelin, Microstrategy France
+          + « Suse devait devenir indépendant pour continuer à croître »
+            Pierre-Yves Albrieux, Suse
+          + « Grâce une connexion réseau, nous pouvons prendre en charge
+            l’infrastructure d’impression » Jean-Michel Sauvaud, président
+            Lexmark France
+          + La gouvernance des données, une nécessité pour les entreprises
+          + « Stockage primaire et secondaire pourront être dans le même
+            environnement » Bruno Picard Nutanix
+          + « La plateforme Nutanix, pilier du projet VDI de l’Icam »
+            Dominique Bugliani ICAM
+          + « Nous savons protéger les données dans un environnement
+            Nutanix » Gautier Leblanc, Veritas
+          + « Nous apportons de la valeur ajoutée à l’offre Nutanix »
+            Xavier Stern, HYCU
+          + « A terme, nous allons migrer sur l’hyperviseur de Nutanix »,
+            Farouk Ayad, Capgemini
+          + Moody’s-Team8, Microsoft, HPE, Okta, Broadcom-Symantec, Huawei
+            France
+          + Infonews Hebdo 1/07 avec Cigref, IBM-Cisco, Dell, Gafa, Skype,
+            Capgemini-Altran, IBM, Google, Netflix
+          + Apec, KPMG, Syntec, Dropbox, Météo France, Salesforce,
+            Dassault Système, Rencontre du cloud, Darkweb
+          + Infonews Hebdo 10/06 USF-SAP, IBM, IDC, Hadoop,
+            Oracle-Microsoft, Syntec Numérique, Google
+          + Infonews Hebdo 27/05 : Open VMS, ANSSI, Windows, Ivalua,
+            HPE/Cray, Huawei, AI Paris, Teratec, RGPD
+          + Infonews Hebdo 20/05 : Vivatech, Intel, Equinix, Orange,
+            Huawei, Atos, Salesforce, San Francisco
+     * Dossiers
+          + Infogérance d'impression
+          + DSI et Métiers : concurrence ou coopération
+          + Dossier Impression 1/5
+            La transformation numérique aura-t-elle raison du papier ?
+          + Dossier Impression 2/5
+            Des entreprises en quête de sécurité et de flexibilité
+          + Dossier Impression 3/5
+            Ziegler en marche vers la dématérialisation
+          + Dossier Impression 4/5
+            Services de base et offre complémentaire
+          + Dossier Impression 5/5
+            Accélérateurs et freins de mise en œuvre
+          + L’infogérance d’impression (MPS) chez Lexmark France
+          + Viseo pour aller plus loin avec Anaplan
+          + « Itinéraire d’un CIO connecté » épisode 3
+          + Le DSI, vers un dialogue fructueux avec les métiers
+          + « Itinéraire d’un CIO connecté » épisode 2
+          + Le DSI, interlocuteur naturel de la direction générale ?
+          + « Itinéraire d’un CIO connecté » épisode 1
+     * Partner Zone
+          + IBM
+          + Informatica
+          + Poly
+          + Pure Storage
+          + HPE
+          + KYOCERA Document Solutions
+          + Rubrik
+          + Tenable
+          + Fortinet
+          + Veeam
+          + Micro Focus
+          + Réussir son entrepôt de données pour faire face aux nouvelles
+            tendances en matière d’analytique (Hadoop, Spark,…)
+          + Comprendre le Big Data : une journée dans la vie d’un
+            architecte d’entreprise
+          + Les entrepôts de données évoluées, moteur de l’excellence en
+            analytique !
+          + Solutions IBM Data Warehouse : Stockage de données hybride
+            pour répondre aux besoins de l’analytique d’aujourd’hui
+          + Comment organiser l’entreprise Data Ready
+          + Les 5 secrets de l’accès aux données du Cloud en temps réel
+          + Orchestration des modèles d’intégration dans un environnement
+            hybride
+          + Trois façons d’évaluer la qualité des adresses postales
+          + Informatica au cœur de la relation entre le groupe Canal+ et
+            ses abonnés
+          + GDF SUEZ Dolce Vita : La qualité de données Informatica au
+            service de l’efficacité commerciale et marketing
+          + La réalité des open spaces et ce que vous pouvez faire pour y
+            remédier
+          + Des solutions de video-conférences adaptées aux nouvelles
+            générations
+          + Comment résoudre les difficultés liées à la multiplicité des
+            plates-formes vidéo pour améliorer l’expérience utilisateur ?
+          + L’invité de la semaine : Frédéric Batut VP Europe du sud
+            Polycom
+          + Le programme Evergreen Storage modifie les attentes en termes
+            d’expérience client pour le stockage d’entreprise
+          + Mobiliser les outils essentiels pour la transformation
+            digitale des institutions financières
+          + Comment de nouveaux entrants ont-ils pu « disrupter » le
+            secteur des services financiers ?
+          + Pourquoi les DSI innovants du secteur financier se tournent
+            vers le cloud hybride ?
+          + Réussir sa mise en place de DevOps avec l’Infrastructure
+            Composable
+          + Créer une infrastructure agile pour DevOps
+          + HPE Synergy : La première plateforme créée pour faire le lien
+            entre les applications traditionnelles et Cloud
+          + Docker et les infrastructures composables HPE, quelle synergie
+            ?
+          + Le marché des infrastructures composables : le point IDC
+          + Considérations générales sur les solutions Flash et enquêtes
+            auprès de 1000 utilisateurs
+          + Le déploiement d’un parc d’impression nécessite une vraie
+            conduite de projet
+          + Connaître son parc d’impression : un élément essentiel de
+            productivité
+          + Comment dématérialiser vos documents sortants ? Interview de
+            Benjamin Claus, KYOCERA Document Solutions
+          + Imprimer en toute sécurité même en situation de mobilité !
+          + Impression à la demande… comment associer mobilité des
+            collaborateurs et sécurité des documents ?
+          + L’impression mobile est une source de productivité
+          + FranceTV Publicité passe à la vitesse supérieure en termes de
+            cloud hybride avec Rubrik
+          + Guide d’achat d’une solution de sauvegarde et de restauration
+          + Rubrik accélère la conformité avec le RGPD
+          + Guide Rubrik du cloud public : Technologie et fonctionnement
+          + Automatisation, simplification et communication de la
+            conformité aux recommandations de sécurité de l’ANSSI
+          + Sécuriser les conteneurs dans un environnement DevOps
+          + Utiliser Tenable.io pour réduire les risques d’infection par
+            ransomware
+          + Minimiser la Cyber Exposure dans un monde de Cloud, conteneurs
+            et autres ressources modernes
+          + Repensez votre approche en matière de cybersécurité !
+          + Les ransomwares continuent de se développer, quelles
+            conséquences ?
+          + Comprendre l’explosion de l’IoT  et son impact sur la sécurité
+            des entreprises
+          + 45 minutes pour présenter trois scénarios de cohabitation avec
+            du sandboxing
+          + Comment déployer simplement avec Fortinet, le WiFi NextGen
+            chez vous
+          + AKKA Technologies déploie Veeam pour accélérer sa
+            transformation digitale
+          + Rapport Veeam 2019 sur la gestion des données dans le Cloud
+          + Les 6 principales raisons d’utiliser un service de sauvegarde
+            dans le cloud (BaaS)
+          + Prenez le contrôle de vos données Office 365
+          + Pourquoi faut-il sauvegarder Office 365 ?
+          + Les stratégies multicloud sont en plein essor
+          + L’Observatoire DevSecOps pour la DSI 2019
+          + Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+          + Infographie DevSecOps Intégrer la sécurité dans les pratiques
+            DevOps
+          + Webinar : Restitution des résultats de l’Observatoire 2019 –
+            DevSecOps
+
+   S’inscrire
+     * Twitter
+     * Facebook
+     * Linkedin
+     * Flux RSS
+
+Recevoir la newsletter
+
+   ____________________ S'abonner Please wait Please wait
+
+   [INS: :INS]
+
+   En bref
+
+OVH propose une la plateforme logicielle cloud NVIDIA GPU
+
+   La rédaction La rédaction
+   le 05-02-2019
+
+   Par La rédaction
+     * Email
+     * Print
+     * Facebook
+     * Twitter
+
+   OVH franchit un nouveau palier dans son partenariat avec NVIDIA en
+   devenant le premier fournisseur cloud européen à proposer la plateforme
+   logicielle NVIDIA GPU Cloud (NGC).
+
+   Les utilisateurs d’OVH peuvent désormais exécuter des logiciels à
+   partir du registre de conteneurs NGC, qui fournit un catalogue complet
+   des logiciels d’IA optimisés pour les GPU NVIDIA, sur l’infrastructure
+   OVH. Les clients d’OVH peuvent déployer des projets d’intelligence
+   artificielle, de data science et de calcul haute performance sur
+   l’infrastructure OVH en quelques minutes grâce au logiciel plug and
+   play disponible chez NGC.
+
+   L’exécution de logiciels NGC sur l’infrastructure OVH complète la gamme
+   existante d’offres OVH fondées sur les GPU NVIDIA :
+
+   – Les serveurs cloud publics équipés des derniers GPU NVIDIA Tesla
+   V100 ;
+   – Un pool dédié de serveurs NVIDIA DGX-1, comprenant chacun huit GPU
+   NVIDIA V100 Tensor Core de dernière génération interconnectés avec la
+   technologie NVLink, spécialement conçus pour le Machine Learning et le
+   Deep Learning.
+
+   ____________________ search
+
+   [INS: :INS]
+     * L’Observatoire DevSecOps pour la DSI 2019
+       02 septembre - 14h56
+     * Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+       02 septembre - 14h40
+     * Infographie DevSecOps Intégrer la sécurité dans les pratiques
+       DevOps
+       02 septembre - 14h30
+     * Webinar : Restitution des résultats de l’Observatoire 2019 –
+       DevSecOps
+       02 septembre - 13h42
+     * Equinix et VMware s’associent dans le cloud hybride
+       02 septembre - 09h34
+     * La gouvernance des données, une nécessité pour les entreprises
+       02 septembre - 08h05
+     * Face à l’utopie holacratique, célébrons le collaboratif !
+       Thibaut Champey, Dropbox
+       02 septembre - 07h59
+     * Quelle IA pour votre cybersécurité ?
+       Greg Day, Palo Alto Networks
+       02 septembre - 07h48
+     * Nutanix : la transition vers le logiciel met un coup d’arrêt
+       (temporaire) à la croissance
+       02 septembre - 07h45
+     * Hébergement : Equinix numéro un sur les quatre régions du monde
+       02 septembre - 07h26
+     * Datadog prépare une introduction en bourse
+       29 août - 22h42
+     * Quelles technologies pour nourrir 10 milliards d’habitants ?
+       Claire Kago, Paessler AG
+       29 août - 21h06
+     * Comment sécuriser le capital applicatif ?
+       Arnaud Lemaire, F5 Networks
+       29 août - 21h01
+     * HP change son organisation qui passe de trois régions à 10 marchés
+       géographiques
+       29 août - 20h58
+     * HPE propose des solutions VMware en tant que service Greenlake
+       28 août - 17h14
+     * Cisco enrichit son offre pour centres de contact en rachetant
+       CloudCherry
+       28 août - 16h24
+     * Acronis lance un bouquet de cyber services
+       28 août - 16h10
+     * La clé pour réduire les coûts cachés de la fraude bancaire
+       Alexis Vernières, Kofax
+       28 août - 16h01
+     * Les directions financières confrontées à la « déconnexion numérique
+       »
+       Frédéric Portal, Workday
+       28 août - 15h57
+     * LinkedIn pour recruter des agents chinois
+       28 août - 15h38
+     * VMware étoffe l’environnement applicatif sur Kubernetes
+       27 août - 19h20
+     * Infor présente une nouvelle version de Concierge Portal
+       27 août - 18h12
+     * Le hacking à l’usage des débutants
+       Eric Heddeland, Barracuda Networks
+       27 août - 17h05
+     * Les réalités du software 2.0 : vers un code qui s’écrit tout seul
+       Alexandre Vasseur, Pivotal
+       27 août - 16h58
+     * GlobalFoundries attaque son principal concurrent en justice, la
+       plainte vise également Apple, Cisco et Nvidia
+       27 août - 16h49
+     * La startup Cerebras présente le plus grand processeur jamais conçu
+       26 août - 19h28
+     * Evolution du nombre de sites Internet
+       26 août - 17h40
+     * NVIDIA et VMware accélèrent le ML, la data science et l’IA pour
+       VMware Cloud sur AWS
+       26 août - 16h16
+     * HPE veut atterrir sur la Lune en douceur
+       26 août - 16h06
+     * NetApp maintien le cap sur le 100 % Flash NVMe
+       26 août - 15h42
+     * Comment apprendre à un ordinateur à penser ? En lui apprenant à
+       parler
+       Zachary Jarvinen, OpenText
+       26 août - 15h28
+     * Santé et IA : sans les médecins, la révolution n’aura pas lieu
+       Nadim Daher, NVIDIA
+       26 août - 15h23
+     * Croissance mirobolante pour Salesforce
+       26 août - 15h16
+     * La simulation à l’aide de la chirurgie cardiaque
+       23 août - 19h23
+     * Repenser la relation au travail par le Robotic operation model
+       Frank Guiducci, BluePrism
+       23 août - 15h36
+     * IA : vers une augmentation du QI de l’homme
+       Stéphane Roder, CEO et Fondateur AI Builders
+       23 août - 15h27
+     * IBM bascule l’architecture du jeu d’instruction de sa plateforme
+       Power en open source
+       23 août - 15h23
+     * Le rôle croissant des développeurs
+       22 août - 19h13
+     * CloudBees dévoile une offre de Software Delivery Management
+       22 août - 15h45
+     * Modèle de sécurité Zéro Trust : avantages par rapport aux approches
+       traditionnelles ?
+       Jan van Vliet, Digital Guardian
+       22 août - 15h34
+     * Adobe Sign pour les PME
+       22 août - 15h29
+     * Intel dévoile une puce spécialisée pour l’IA
+       22 août - 15h02
+     * L’industrie du numérique appelle à un alignement des politiques sur
+       le numérique
+       22 août - 14h57
+     * Les trois principaux objectifs des DSI
+       21 août - 18h30
+     * Le SD-WAN peut-il aider à renforcer la sécurité des applications
+       cloud-first ?
+       Nav Chander, Silver Peak
+       21 août - 14h28
+     * Quatre priorités pour sécuriser le cloud
+       Lora O’Haver, Keysight Technologies
+       21 août - 14h25
+     * Microsoft va brider les déploiements de ses logiciels sur les
+       clouds concurrents
+       20 août - 20h52
+     * Acronis automatise les sauvegardes 3-2-1
+       20 août - 17h31
+     * Une décennie pleine de chamboulements technologiques
+       Erwan Paccard, AppDynamics
+       20 août - 17h07
+     * Comment Amazon asphyxie l’ensemble du retail
+       Jean-Paul Crenn, Vuca Strategy
+       20 août - 17h00
+     * HPE joue la carte AMD pour ses serveurs ProLiant
+       19 août - 18h21
+     * BMC automatise le développement d’applications sur DB2
+       19 août - 17h01
+     * La conduite du changement, un facteur à double tranchant pour l’IT
+       Pierre-Yves Albrieux, SUSE
+       19 août - 15h54
+     * Engagement des collaborateurs, un potentiel libéré par les
+       technologies professionnelles
+       William Biotteau, Dynabook
+       19 août - 15h50
+     * Software AG s’associe à Microsoft pour accélérer la migration vers
+       le cloud Azure
+       19 août - 15h45
+     * Les principales actualités de l’été
+       19 août - 15h29
+     * La lente concentration du secteur des hébergeurs
+       18 août - 16h46
+     * Smartphones : Apple et Huawei plongent en Europe
+       16 août - 00h04
+     * Broadcom ne rachète finalement que l’activité entreprises de
+       Symantec
+       15 août - 22h49
+     * IBM dévoile son plan pour renouer avec la croissance avec Red Hat
+       09 août - 16h41
+
+   [INS: :INS]
+
+   InformatiqueNews InformatiqueNews
+
+   Nous proposons aux professionnels de l'informatique et des télécoms
+   français un espace unique pour s'informer sans concession sur
+   l'actualité du secteur, discerner les nouvelles tendances, commenter et
+   échanger en toute sérénité avec leurs pairs et leurs fournisseurs.
+   Heberge par Ikoula Heberge par Ikoula
+   Cloud privé | Infogérance
+   PLAN DU SITE
+     * Applications
+     * Cloud
+     * Economie
+     * Infrastructures
+     * Mobilité
+     * Poste de travail
+     * Sécurité
+
+     * En bref
+     * Avis des fournisseurs
+     * Tribunes
+     * Emploi
+     * Livres blancs
+
+   LIVRES BLANCS
+     * DataManagement
+     * Réseau&télécoms
+     * Virtualisation
+
+   NOS SITES
+     * ChannelNews.fr
+     * Projets-Informatiques.fr
+     * BtoBMarketers.fr
+
+   CONTACTS
+     * Rédaction
+     * Publicité
+     * Advertising
+     * Editorial
+     * Communiquer en vidéo
+
+   MENTIONS LEGALES
+     * Mentions légales
+     * Politique de confidentialité
+     * Maintenance et hébergement par SysnDev
+
+Lire les articles précédents :
+
+La gouvernance des données, une nécessité pour les entreprises
+
+   Dans le cadre de notre rendez-vous mensuel, les tables rondes
+   technologiques, ce mois-ci la discussion tournera autour de la
+   gouvernance...
+   Fermer
+   #InformatiqueNews.fr » Flux InformatiqueNews.fr » Flux des commentaires
+   InformatiqueNews.fr » Kofax finalise l’acquisition de Nuance Document
+   Imaging Flux des commentaires
+
+   InformatiqueNews.fr
+
+   open
+     * News
+          + Mobilité
+          + Sécurité
+          + Infrastructures
+          + Applications
+          + Cloud
+          + Poste de travail
+          + stockage
+          + Avis des fournisseurs
+          + Economie
+          + RH
+          + iOS 13 : qui peut en profiter ?
+          + Smartphones : septième trimestre consécutif de baisse des
+            ventes
+          + L’Arcep assure que la 5G sera lancée comme prévu en 2020
+          + Apple recrute le responsable de la puce 5G chez Intel
+          + Huawei surpasse Apple et conforte son rang de n°2
+          + Smartphones : baisse des ventes et montée des constructeurs
+            chinois
+          + Acronis lance un bouquet de cyber services
+          + Agent Smith : l’agent qui ne vous veut pas du bien
+          + Excès de confiance dans la sécurité sur le cloud ?
+          + Ransomware : nécessaires sauvegarde et plan de reprise
+          + Forte croissance des services de cybersécurité
+          + Une dizaine d’opérateurs télécoms mondiaux ainsi que des
+            géants de l’IT hackés
+          + Equinix et VMware s’associent dans le cloud hybride
+          + HPE veut atterrir sur la Lune en douceur
+          + NetApp maintien le cap sur le 100 % Flash NVMe
+          + IBM bascule l’architecture du jeu d’instruction de sa
+            plateforme Power en open source
+          + Marc Linster : « EnterpriseDB prend des parts de marché à
+            Oracle »
+          + Western Digital étoffe sa gamme de baies IntelliFlash
+          + Face à l’utopie holacratique, célébrons le collaboratif !
+            Thibaut Champey, Dropbox
+          + Infor présente une nouvelle version de Concierge Portal
+          + Evolution du nombre de sites Internet
+          + Santé et IA : sans les médecins, la révolution n’aura pas lieu
+            Nadim Daher, NVIDIA
+          + CloudBees dévoile une offre de Software Delivery Management
+          + Adobe Sign pour les PME
+          + NVIDIA et VMware accélèrent le ML, la data science et l’IA
+            pour VMware Cloud sur AWS
+          + Alfresco lance une offre de migration vers le cloud en 5
+            semaines
+          + TCS aide Randstad à migrer vers le cloud
+          + Deutsche Telekom et Software AG s’associent dans l’IoT
+          + Oracle définitivement évincé du contrat JEDI d’une valeur de
+            10 milliards de dollars
+          + Oracle propose un service pour migrer vers le cloud
+          + Lexmark élargit son offre GO Line
+          + HP mise sur le Device as a Service
+          + Dell Technologies World
+            Dell veut simplifier l’environnement de travail
+          + Ivanti Environment Manager accélère l’adoption d’Office 365
+          + Lenovo lance TruScale, une offre Hardware as a Service
+          + Le Top10 des plus mauvais mots de passe selon Dashlane
+          + Acronis automatise les sauvegardes 3-2-1
+          + Comprendre les principes de la cryptologie et du chiffrement
+          + Mangstor propose des SAN ultra-rapides
+          + NetApp Insight 2015 : le flash de plus en plus accessible
+          + Red Hat veut s’imposer sur le stockage et la virtualisation
+          + Un milliard en cash pour des cartes flash
+          + Quelle IA pour votre cybersécurité ?
+            Greg Day, Palo Alto Networks
+          + Quelles technologies pour nourrir 10 milliards d’habitants ?
+            Claire Kago, Paessler AG
+          + Comment sécuriser le capital applicatif ?
+            Arnaud Lemaire, F5 Networks
+          + La clé pour réduire les coûts cachés de la fraude bancaire
+            Alexis Vernières, Kofax
+          + Les directions financières confrontées à la « déconnexion
+            numérique »
+            Frédéric Portal, Workday
+          + Le hacking à l’usage des débutants
+            Eric Heddeland, Barracuda Networks
+          + Nutanix : la transition vers le logiciel met un coup d’arrêt
+            (temporaire) à la croissance
+          + HP change son organisation qui passe de trois régions à 10
+            marchés géographiques
+          + Cisco enrichit son offre pour centres de contact en rachetant
+            CloudCherry
+          + LinkedIn pour recruter des agents chinois
+          + GlobalFoundries attaque son principal concurrent en justice,
+            la plainte vise également Apple, Cisco et Nvidia
+          + Croissance mirobolante pour Salesforce
+          + Cybersécurité : 6.000 postes à pourvoir ne trouvent pas
+            preneur en Ile-de-France
+          + Le salaire annuel moyen d’un développeur à San Francisco
+            atteint 145.000 dollars contre 52.000 euros à Paris
+          + 25 tutoriels en ligne sur les métiers de la fibre optique
+          + Recrutement : Leroy Merlin parie sur la vidéo
+          + Un Mooc sur l’IA pour les managers et leurs équipes
+          + La mobilité en une infographie
+     * Vidéos
+          + Invité de la semaine
+          + Evénement
+          + InfoNews Hebdo
+          + « Teradata fonctionne sur les deux grands cloud publics »
+          + « Nginx est open source et le restera » Sébastien Weber, F5
+            Networks France
+          + « Nos mainframes ont désormais la taille d’un réfrigérateur »,
+            Christopher O’Malley, Compuware
+          + « Survoler un nom fera apparaître des informations sur le
+            client », Jean-Pascal Ancelin, Microstrategy France
+          + « Suse devait devenir indépendant pour continuer à croître »
+            Pierre-Yves Albrieux, Suse
+          + « Grâce une connexion réseau, nous pouvons prendre en charge
+            l’infrastructure d’impression » Jean-Michel Sauvaud, président
+            Lexmark France
+          + La gouvernance des données, une nécessité pour les entreprises
+          + « Stockage primaire et secondaire pourront être dans le même
+            environnement » Bruno Picard Nutanix
+          + « La plateforme Nutanix, pilier du projet VDI de l’Icam »
+            Dominique Bugliani ICAM
+          + « Nous savons protéger les données dans un environnement
+            Nutanix » Gautier Leblanc, Veritas
+          + « Nous apportons de la valeur ajoutée à l’offre Nutanix »
+            Xavier Stern, HYCU
+          + « A terme, nous allons migrer sur l’hyperviseur de Nutanix »,
+            Farouk Ayad, Capgemini
+          + Moody’s-Team8, Microsoft, HPE, Okta, Broadcom-Symantec, Huawei
+            France
+          + Infonews Hebdo 1/07 avec Cigref, IBM-Cisco, Dell, Gafa, Skype,
+            Capgemini-Altran, IBM, Google, Netflix
+          + Apec, KPMG, Syntec, Dropbox, Météo France, Salesforce,
+            Dassault Système, Rencontre du cloud, Darkweb
+          + Infonews Hebdo 10/06 USF-SAP, IBM, IDC, Hadoop,
+            Oracle-Microsoft, Syntec Numérique, Google
+          + Infonews Hebdo 27/05 : Open VMS, ANSSI, Windows, Ivalua,
+            HPE/Cray, Huawei, AI Paris, Teratec, RGPD
+          + Infonews Hebdo 20/05 : Vivatech, Intel, Equinix, Orange,
+            Huawei, Atos, Salesforce, San Francisco
+     * Dossiers
+          + Infogérance d'impression
+          + DSI et Métiers : concurrence ou coopération
+          + Dossier Impression 1/5
+            La transformation numérique aura-t-elle raison du papier ?
+          + Dossier Impression 2/5
+            Des entreprises en quête de sécurité et de flexibilité
+          + Dossier Impression 3/5
+            Ziegler en marche vers la dématérialisation
+          + Dossier Impression 4/5
+            Services de base et offre complémentaire
+          + Dossier Impression 5/5
+            Accélérateurs et freins de mise en œuvre
+          + L’infogérance d’impression (MPS) chez Lexmark France
+          + Viseo pour aller plus loin avec Anaplan
+          + « Itinéraire d’un CIO connecté » épisode 3
+          + Le DSI, vers un dialogue fructueux avec les métiers
+          + « Itinéraire d’un CIO connecté » épisode 2
+          + Le DSI, interlocuteur naturel de la direction générale ?
+          + « Itinéraire d’un CIO connecté » épisode 1
+     * Partner Zone
+          + IBM
+          + Informatica
+          + Poly
+          + Pure Storage
+          + HPE
+          + KYOCERA Document Solutions
+          + Rubrik
+          + Tenable
+          + Fortinet
+          + Veeam
+          + Micro Focus
+          + Réussir son entrepôt de données pour faire face aux nouvelles
+            tendances en matière d’analytique (Hadoop, Spark,…)
+          + Comprendre le Big Data : une journée dans la vie d’un
+            architecte d’entreprise
+          + Les entrepôts de données évoluées, moteur de l’excellence en
+            analytique !
+          + Solutions IBM Data Warehouse : Stockage de données hybride
+            pour répondre aux besoins de l’analytique d’aujourd’hui
+          + Comment organiser l’entreprise Data Ready
+          + Les 5 secrets de l’accès aux données du Cloud en temps réel
+          + Orchestration des modèles d’intégration dans un environnement
+            hybride
+          + Trois façons d’évaluer la qualité des adresses postales
+          + Informatica au cœur de la relation entre le groupe Canal+ et
+            ses abonnés
+          + GDF SUEZ Dolce Vita : La qualité de données Informatica au
+            service de l’efficacité commerciale et marketing
+          + La réalité des open spaces et ce que vous pouvez faire pour y
+            remédier
+          + Des solutions de video-conférences adaptées aux nouvelles
+            générations
+          + Comment résoudre les difficultés liées à la multiplicité des
+            plates-formes vidéo pour améliorer l’expérience utilisateur ?
+          + L’invité de la semaine : Frédéric Batut VP Europe du sud
+            Polycom
+          + Le programme Evergreen Storage modifie les attentes en termes
+            d’expérience client pour le stockage d’entreprise
+          + Mobiliser les outils essentiels pour la transformation
+            digitale des institutions financières
+          + Comment de nouveaux entrants ont-ils pu « disrupter » le
+            secteur des services financiers ?
+          + Pourquoi les DSI innovants du secteur financier se tournent
+            vers le cloud hybride ?
+          + Réussir sa mise en place de DevOps avec l’Infrastructure
+            Composable
+          + Créer une infrastructure agile pour DevOps
+          + HPE Synergy : La première plateforme créée pour faire le lien
+            entre les applications traditionnelles et Cloud
+          + Docker et les infrastructures composables HPE, quelle synergie
+            ?
+          + Le marché des infrastructures composables : le point IDC
+          + Considérations générales sur les solutions Flash et enquêtes
+            auprès de 1000 utilisateurs
+          + Le déploiement d’un parc d’impression nécessite une vraie
+            conduite de projet
+          + Connaître son parc d’impression : un élément essentiel de
+            productivité
+          + Comment dématérialiser vos documents sortants ? Interview de
+            Benjamin Claus, KYOCERA Document Solutions
+          + Imprimer en toute sécurité même en situation de mobilité !
+          + Impression à la demande… comment associer mobilité des
+            collaborateurs et sécurité des documents ?
+          + L’impression mobile est une source de productivité
+          + FranceTV Publicité passe à la vitesse supérieure en termes de
+            cloud hybride avec Rubrik
+          + Guide d’achat d’une solution de sauvegarde et de restauration
+          + Rubrik accélère la conformité avec le RGPD
+          + Guide Rubrik du cloud public : Technologie et fonctionnement
+          + Automatisation, simplification et communication de la
+            conformité aux recommandations de sécurité de l’ANSSI
+          + Sécuriser les conteneurs dans un environnement DevOps
+          + Utiliser Tenable.io pour réduire les risques d’infection par
+            ransomware
+          + Minimiser la Cyber Exposure dans un monde de Cloud, conteneurs
+            et autres ressources modernes
+          + Repensez votre approche en matière de cybersécurité !
+          + Les ransomwares continuent de se développer, quelles
+            conséquences ?
+          + Comprendre l’explosion de l’IoT  et son impact sur la sécurité
+            des entreprises
+          + 45 minutes pour présenter trois scénarios de cohabitation avec
+            du sandboxing
+          + Comment déployer simplement avec Fortinet, le WiFi NextGen
+            chez vous
+          + AKKA Technologies déploie Veeam pour accélérer sa
+            transformation digitale
+          + Rapport Veeam 2019 sur la gestion des données dans le Cloud
+          + Les 6 principales raisons d’utiliser un service de sauvegarde
+            dans le cloud (BaaS)
+          + Prenez le contrôle de vos données Office 365
+          + Pourquoi faut-il sauvegarder Office 365 ?
+          + Les stratégies multicloud sont en plein essor
+          + L’Observatoire DevSecOps pour la DSI 2019
+          + Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+          + Infographie DevSecOps Intégrer la sécurité dans les pratiques
+            DevOps
+          + Webinar : Restitution des résultats de l’Observatoire 2019 –
+            DevSecOps
+
+   S’inscrire
+     * Twitter
+     * Facebook
+     * Linkedin
+     * Flux RSS
+
+Recevoir la newsletter
+
+   ____________________ S'abonner Please wait Please wait
+
+   [INS: :INS]
+
+   En bref
+
+Kofax finalise l’acquisition de Nuance Document Imaging
+
+   La rédaction La rédaction
+   le 05-02-2019
+
+   Par La rédaction
+     * Email
+     * Print
+     * Facebook
+     * Twitter
+
+   L’éditeur de logiciels d’automatisation intelligente des processus
+   métier de bout en bout Kofax a finalisé l’acquisition de Nuance
+   Document Imaging (NDI), une division de Nuance Communications.
+
+   NDI fournit des logiciels permettant aux entreprises d’optimiser la
+   capture et leurs processus d’impression gourmands en main-d’œuvre,
+   sources d’erreur et coûteux, et de passer à des processus automatisés
+   et sécurisés. Grâce à cette opération, Kofax renforce sa plateforme
+   d’automatisation intelligente,des technologies clés telles que la
+   capture, la gestion d’impression et la sécurité des documents sur des
+   imprimantes multifonctions (MFP).
+
+   Plus de 6 millions de professionnels utilisent les solutions de capture
+   et de workflow de NDI. La société compte plus de 100 000 déploiements
+   actifs de ses solutions de gestion d’impression.
+
+   ____________________ search
+
+   [INS: :INS]
+     * L’Observatoire DevSecOps pour la DSI 2019
+       02 septembre - 14h56
+     * Webinar : Enterprise DevOps, les nouveaux défis de la DSI
+       02 septembre - 14h40
+     * Infographie DevSecOps Intégrer la sécurité dans les pratiques
+       DevOps
+       02 septembre - 14h30
+     * Webinar : Restitution des résultats de l’Observatoire 2019 –
+       DevSecOps
+       02 septembre - 13h42
+     * Equinix et VMware s’associent dans le cloud hybride
+       02 septembre - 09h34
+     * La gouvernance des données, une nécessité pour les entreprises
+       02 septembre - 08h05
+     * Face à l’utopie holacratique, célébrons le collaboratif !
+       Thibaut Champey, Dropbox
+       02 septembre - 07h59
+     * Quelle IA pour votre cybersécurité ?
+       Greg Day, Palo Alto Networks
+       02 septembre - 07h48
+     * Nutanix : la transition vers le logiciel met un coup d’arrêt
+       (temporaire) à la croissance
+       02 septembre - 07h45
+     * Hébergement : Equinix numéro un sur les quatre régions du monde
+       02 septembre - 07h26
+     * Datadog prépare une introduction en bourse
+       29 août - 22h42
+     * Quelles technologies pour nourrir 10 milliards d’habitants ?
+       Claire Kago, Paessler AG
+       29 août - 21h06
+     * Comment sécuriser le capital applicatif ?
+       Arnaud Lemaire, F5 Networks
+       29 août - 21h01
+     * HP change son organisation qui passe de trois régions à 10 marchés
+       géographiques
+       29 août - 20h58
+     * HPE propose des solutions VMware en tant que service Greenlake
+       28 août - 17h14
+     * Cisco enrichit son offre pour centres de contact en rachetant
+       CloudCherry
+       28 août - 16h24
+     * Acronis lance un bouquet de cyber services
+       28 août - 16h10
+     * La clé pour réduire les coûts cachés de la fraude bancaire
+       Alexis Vernières, Kofax
+       28 août - 16h01
+     * Les directions financières confrontées à la « déconnexion numérique
+       »
+       Frédéric Portal, Workday
+       28 août - 15h57
+     * LinkedIn pour recruter des agents chinois
+       28 août - 15h38
+     * VMware étoffe l’environnement applicatif sur Kubernetes
+       27 août - 19h20
+     * Infor présente une nouvelle version de Concierge Portal
+       27 août - 18h12
+     * Le hacking à l’usage des débutants
+       Eric Heddeland, Barracuda Networks
+       27 août - 17h05
+     * Les réalités du software 2.0 : vers un code qui s’écrit tout seul
+       Alexandre Vasseur, Pivotal
+       27 août - 16h58
+     * GlobalFoundries attaque son principal concurrent en justice, la
+       plainte vise également Apple, Cisco et Nvidia
+       27 août - 16h49
+     * La startup Cerebras présente le plus grand processeur jamais conçu
+       26 août - 19h28
+     * Evolution du nombre de sites Internet
+       26 août - 17h40
+     * NVIDIA et VMware accélèrent le ML, la data science et l’IA pour
+       VMware Cloud sur AWS
+       26 août - 16h16
+     * HPE veut atterrir sur la Lune en douceur
+       26 août - 16h06
+     * NetApp maintien le cap sur le 100 % Flash NVMe
+       26 août - 15h42
+     * Comment apprendre à un ordinateur à penser ? En lui apprenant à
+       parler
+       Zachary Jarvinen, OpenText
+       26 août - 15h28
+     * Santé et IA : sans les médecins, la révolution n’aura pas lieu
+       Nadim Daher, NVIDIA
+       26 août - 15h23
+     * Croissance mirobolante pour Salesforce
+       26 août - 15h16
+     * La simulation à l’aide de la chirurgie cardiaque
+       23 août - 19h23
+     * Repenser la relation au travail par le Robotic operation model
+       Frank Guiducci, BluePrism
+       23 août - 15h36
+     * IA : vers une augmentation du QI de l’homme
+       Stéphane Roder, CEO et Fondateur AI Builders
+       23 août - 15h27
+     * IBM bascule l’architecture du jeu d’instruction de sa plateforme
+       Power en open source
+       23 août - 15h23
+     * Le rôle croissant des développeurs
+       22 août - 19h13
+     * CloudBees dévoile une offre de Software Delivery Management
+       22 août - 15h45
+     * Modèle de sécurité Zéro Trust : avantages par rapport aux approches
+       traditionnelles ?
+       Jan van Vliet, Digital Guardian
+       22 août - 15h34
+     * Adobe Sign pour les PME
+       22 août - 15h29
+     * Intel dévoile une puce spécialisée pour l’IA
+       22 août - 15h02
+     * L’industrie du numérique appelle à un alignement des politiques sur
+       le numérique
+       22 août - 14h57
+     * Les trois principaux objectifs des DSI
+       21 août - 18h30
+     * Le SD-WAN peut-il aider à renforcer la sécurité des applications
+       cloud-first ?
+       Nav Chander, Silver Peak
+       21 août - 14h28
+     * Quatre priorités pour sécuriser le cloud
+       Lora O’Haver, Keysight Technologies
+       21 août - 14h25
+     * Microsoft va brider les déploiements de ses logiciels sur les
+       clouds concurrents
+       20 août - 20h52
+     * Acronis automatise les sauvegardes 3-2-1
+       20 août - 17h31
+     * Une décennie pleine de chamboulements technologiques
+       Erwan Paccard, AppDynamics
+       20 août - 17h07
+     * Comment Amazon asphyxie l’ensemble du retail
+       Jean-Paul Crenn, Vuca Strategy
+       20 août - 17h00
+     * HPE joue la carte AMD pour ses serveurs ProLiant
+       19 août - 18h21
+     * BMC automatise le développement d’applications sur DB2
+       19 août - 17h01
+     * La conduite du changement, un facteur à double tranchant pour l’IT
+       Pierre-Yves Albrieux, SUSE
+       19 août - 15h54
+     * Engagement des collaborateurs, un potentiel libéré par les
+       technologies professionnelles
+       William Biotteau, Dynabook
+       19 août - 15h50
+     * Software AG s’associe à Microsoft pour accélérer la migration vers
+       le cloud Azure
+       19 août - 15h45
+     * Les principales actualités de l’été
+       19 août - 15h29
+     * La lente concentration du secteur des hébergeurs
+       18 août - 16h46
+     * Smartphones : Apple et Huawei plongent en Europe
+       16 août - 00h04
+     * Broadcom ne rachète finalement que l’activité entreprises de
+       Symantec
+       15 août - 22h49
+     * IBM dévoile son plan pour renouer avec la croissance avec Red Hat
+       09 août - 16h41
+
+   [INS: :INS]
+
+   InformatiqueNews InformatiqueNews
+
+   Nous proposons aux professionnels de l'informatique et des télécoms
+   français un espace unique pour s'informer sans concession sur
+   l'actualité du secteur, discerner les nouvelles tendances, commenter et
+   échanger en toute sérénité avec leurs pairs et leurs fournisseurs.
+   Heberge par Ikoula Heberge par Ikoula
+   Cloud privé | Infogérance
+   PLAN DU SITE
+     * Applications
+     * Cloud
+     * Economie
+     * Infrastructures
+     * Mobilité
+     * Poste de travail
+     * Sécurité
+
+     * En bref
+     * Avis des fournisseurs
+     * Tribunes
+     * Emploi
+     * Livres blancs
+
+   LIVRES BLANCS
+     * DataManagement
+     * Réseau&télécoms
+     * Virtualisation
+
+   NOS SITES
+     * ChannelNews.fr
+     * Projets-Informatiques.fr
+     * BtoBMarketers.fr
+
+   CONTACTS
+     * Rédaction
+     * Publicité
+     * Advertising
+     * Editorial
+     * Communiquer en vidéo
+
+   MENTIONS LEGALES
+     * Mentions légales
+     * Politique de confidentialité
+     * Maintenance et hébergement par SysnDev
+
+Lire les articles précédents :
+
+La gouvernance des données, une nécessité pour les entreprises
+
+   Dans le cadre de notre rendez-vous mensuel, les tables rondes
+   technologiques, ce mois-ci la discussion tournera autour de la
+   gouvernance...
+   Fermer

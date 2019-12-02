@@ -1,0 +1,1340 @@
+   Modules | Directives | FAQ | Glossary | Sitemap
+
+   Apache HTTP Server Version 2.4
+
+   <-
+
+   Apache > HTTP Server > Documentation > Version 2.4
+
+Overview of new features in Apache HTTP Server 2.0
+
+   Available Languages:  de  |  en  |  fr  |  ja  |  ko  |  pt-br  |  ru
+   |  tr
+
+   This document describes some of the major changes between the 1.3 and
+   2.0 versions of the Apache HTTP Server.
+   Support Apache!
+     * Core Enhancements
+     * Module Enhancements
+
+See also
+
+     * Upgrading to 2.0 from 1.3
+     * Comments
+
+   top
+
+Core Enhancements
+
+   Unix Threading
+          On Unix systems with POSIX threads support, Apache httpd can now
+          run in a hybrid multiprocess, multithreaded mode. This improves
+          scalability for many, but not all configurations.
+
+   New Build System
+          The build system has been rewritten from scratch to be based on
+          autoconf and libtool. This makes Apache httpd's configuration
+          system more similar to that of other packages.
+
+   Multiprotocol Support
+          Apache HTTP Server now has some of the infrastructure in place
+          to support serving multiple protocols. mod_echo has been written
+          as an example.
+
+   Better support for non-Unix platforms
+          Apache HTTP Server 2.0 is faster and more stable on non-Unix
+          platforms such as BeOS, OS/2, and Windows. With the introduction
+          of platform-specific multi-processing modules (MPMs) and the
+          Apache Portable Runtime (APR), these platforms are now
+          implemented in their native API, avoiding the often buggy and
+          poorly performing POSIX-emulation layers.
+
+   New Apache httpd API
+          The API for modules has changed significantly for 2.0. Many of
+          the module-ordering/-priority problems from 1.3 should be gone.
+          2.0 does much of this automatically, and module ordering is now
+          done per-hook to allow more flexibility. Also, new calls have
+          been added that provide additional module capabilities without
+          patching the core Apache HTTP Server.
+
+   IPv6 Support
+          On systems where IPv6 is supported by the underlying Apache
+          Portable Runtime library, Apache httpd gets IPv6 listening
+          sockets by default. Additionally, the Listen, NameVirtualHost,
+          and VirtualHost directives support IPv6 numeric address strings
+          (e.g., "Listen [2001:db8::1]:8080").
+
+   Filtering
+          Apache httpd modules may now be written as filters which act on
+          the stream of content as it is delivered to or from the server.
+          This allows, for example, the output of CGI scripts to be parsed
+          for Server Side Include directives using the INCLUDES filter in
+          mod_include. The module mod_ext_filter allows external programs
+          to act as filters in much the same way that CGI programs can act
+          as handlers.
+
+   Multilanguage Error Responses
+          Error response messages to the browser are now provided in
+          several languages, using SSI documents. They may be customized
+          by the administrator to achieve a consistent look and feel.
+
+   Simplified configuration
+          Many confusing directives have been simplified. The often
+          confusing Port and BindAddress directives are gone; only the
+          Listen directive is used for IP address binding; the ServerName
+          directive specifies the server name and port number only for
+          redirection and vhost recognition.
+
+   Native Windows NT Unicode Support
+          Apache httpd 2.0 on Windows NT now uses utf-8 for all filename
+          encodings. These directly translate to the underlying Unicode
+          file system, providing multilanguage support for all Windows
+          NT-based installations, including Windows 2000 and Windows XP.
+          This support does not extend to Windows 95, 98 or ME, which
+          continue to use the machine's local codepage for filesystem
+          access.
+
+   Regular Expression Library Updated
+          Apache httpd 2.0 includes the Perl Compatible Regular Expression
+          Library (PCRE). All regular expression evaluation now uses the
+          more powerful Perl 5 syntax.
+
+   top
+
+Module Enhancements
+
+   mod_ssl
+          New module in Apache httpd 2.0. This module is an interface to
+          the SSL/TLS encryption protocols provided by OpenSSL.
+
+   mod_dav
+          New module in Apache httpd 2.0. This module implements the HTTP
+          Distributed Authoring and Versioning (DAV) specification for
+          posting and maintaining web content.
+
+   mod_deflate
+          New module in Apache httpd 2.0. This module allows supporting
+          browsers to request that content be compressed before delivery,
+          saving network bandwidth.
+
+   mod_auth_ldap
+          New module in Apache httpd 2.0.41. This module allows an LDAP
+          database to be used to store credentials for HTTP Basic
+          Authentication. A companion module, mod_ldap provides connection
+          pooling and results caching.
+
+   mod_auth_digest
+          Includes additional support for session caching across processes
+          using shared memory.
+
+   mod_charset_lite
+          New module in Apache httpd 2.0. This experimental module allows
+          for character set translation or recoding.
+
+   mod_file_cache
+          New module in Apache httpd 2.0. This module includes the
+          functionality of mod_mmap_static in Apache HTTP Server version
+          1.3, plus adds further caching abilities.
+
+   mod_headers
+          This module is much more flexible in Apache httpd 2.0. It can
+          now modify request headers used by mod_proxy, and it can
+          conditionally set response headers.
+
+   mod_proxy
+          The proxy module has been completely rewritten to take advantage
+          of the new filter infrastructure and to implement a more
+          reliable, HTTP/1.1 compliant proxy. In addition, new <Proxy>
+          configuration sections provide more readable (and internally
+          faster) control of proxied sites; overloaded <Directory
+          "proxy:..."> configuration are not supported. The module is now
+          divided into specific protocol support modules including
+          proxy_connect, proxy_ftp and proxy_http.
+
+   mod_negotiation
+          A new ForceLanguagePriority directive can be used to assure that
+          the client receives a single document in all cases, rather than
+          NOT ACCEPTABLE or MULTIPLE CHOICES responses. In addition, the
+          negotiation and MultiViews algorithms have been cleaned up to
+          provide more consistent results and a new form of type map that
+          can include document content is provided.
+
+   mod_autoindex
+          Autoindex'ed directory listings can now be configured to use
+          HTML tables for cleaner formatting, and allow finer-grained
+          control of sorting, including version-sorting, and wildcard
+          filtering of the directory listing.
+
+   mod_include
+          New directives allow the default start and end tags for SSI
+          elements to be changed and allow for error and time format
+          configuration to take place in the main configuration file
+          rather than in the SSI document. Results from regular expression
+          parsing and grouping (now based on Perl's regular expression
+          syntax) can be retrieved using mod_include's variables $0 .. $9.
+
+   mod_auth_dbm
+          Now supports multiple types of DBM-like databases using the
+          AuthDBMType directive.
+
+   Available Languages:  de  |  en  |  fr  |  ja  |  ko  |  pt-br  |  ru
+   |  tr
+
+   top
+
+Comments
+
+   Notice:
+   This is not a Q&A section. Comments placed here should be pointed
+   towards suggestions on improving the documentation or server, and may
+   be removed again by our moderators if they are either implemented or
+   considered invalid/off-topic. Questions on how to manage the Apache
+   HTTP Server should be directed at either our IRC channel, #httpd, on
+   Freenode, or sent to our mailing lists.
+
+   Copyright 2019 The Apache Software Foundation.
+   Licensed under the Apache License, Version 2.0.
+
+   Modules | Directives | FAQ | Glossary | Sitemap
+   Modules | Directives | FAQ | Glossary | Sitemap
+
+   Apache HTTP Server Version 2.4
+
+   <-
+
+   Apache > HTTP Server > Documentation > Version 2.4
+
+Upgrading to 2.4 from 2.2
+
+   Available Languages:  en  |  fr
+
+   In order to assist folks upgrading, we maintain a document describing
+   information critical to existing Apache HTTP Server users. These are
+   intended to be brief notes, and you should be able to find more
+   information in either the New Features document, or in the src/CHANGES
+   file. Application and module developers can find a summary of API
+   changes in the API updates overview.
+
+   This document describes changes in server behavior that might require
+   you to change your configuration or how you use the server in order to
+   continue using 2.4 as you are currently using 2.2. To take advantage of
+   new features in 2.4, see the New Features document.
+
+   This document describes only the changes from 2.2 to 2.4. If you are
+   upgrading from version 2.0, you should also consult the 2.0 to 2.2
+   upgrading document.
+   Support Apache!
+     * Compile-Time Configuration Changes
+     * Run-Time Configuration Changes
+     * Misc Changes
+     * Third Party Modules
+     * Common problems when upgrading
+
+See also
+
+     * Overview of new features in Apache HTTP Server 2.4
+     * Comments
+
+   top
+
+Compile-Time Configuration Changes
+
+   The compilation process is very similar to the one used in version 2.2.
+   Your old configure command line (as found in build/config.nice in the
+   installed server directory) can be used in most cases. There are some
+   changes in the default settings. Some details of changes:
+     * These modules have been removed: mod_authn_default,
+       mod_authz_default, mod_mem_cache. If you were using mod_mem_cache
+       in 2.2, look at mod_cache_disk in 2.4.
+     * All load balancing implementations have been moved to individual,
+       self-contained mod_proxy submodules, e.g. mod_lbmethod_bybusyness.
+       You might need to build and load any of these that your
+       configuration uses.
+     * Platform support has been removed for BeOS, TPF, and even older
+       platforms such as A/UX, Next, and Tandem. These were believed to be
+       broken anyway.
+     * configure: dynamic modules (DSO) are built by default
+     * configure: By default, only a basic set of modules is loaded. The
+       other LoadModule directives are commented out in the configuration
+       file.
+     * configure: the "most" module set gets built by default
+     * configure: the "reallyall" module set adds developer modules to the
+       "all" set
+
+   top
+
+Run-Time Configuration Changes
+
+   There have been significant changes in authorization configuration, and
+   other minor configuration changes, that could require changes to your
+   2.2 configuration files before using them for 2.4.
+
+Authorization
+
+   Any configuration file that uses authorization will likely need
+   changes.
+
+   You should review the Authentication, Authorization and Access Control
+   Howto, especially the section Beyond just authorization which explains
+   the new mechanisms for controlling the order in which the authorization
+   directives are applied.
+
+   Directives that control how authorization modules respond when they
+   don't match the authenticated user have been removed: This includes
+   AuthzLDAPAuthoritative, AuthzDBDAuthoritative, AuthzDBMAuthoritative,
+   AuthzGroupFileAuthoritative, AuthzUserAuthoritative, and
+   AuthzOwnerAuthoritative. These directives have been replaced by the
+   more expressive RequireAny, RequireNone, and RequireAll.
+
+   If you use mod_authz_dbm, you must port your configuration to use
+   Require dbm-group ... in place of Require group ....
+
+Access control
+
+   In 2.2, access control based on client hostname, IP address, and other
+   characteristics of client requests was done using the directives Order,
+   Allow, Deny, and Satisfy.
+
+   In 2.4, such access control is done in the same way as other
+   authorization checks, using the new module mod_authz_host. The old
+   access control idioms should be replaced by the new authentication
+   mechanisms, although for compatibility with old configurations, the new
+   module mod_access_compat is provided.
+
+Mixing old and new directives
+
+   Mixing old directives like Order, Allow or Deny with new ones like
+   Require is technically possible but discouraged. mod_access_compat was
+   created to support configurations containing only old directives to
+   facilitate the 2.4 upgrade. Please check the examples below to get a
+   better idea about issues that might arise.
+
+   Here are some examples of old and new ways to do the same access
+   control.
+
+   In this example, there is no authentication and all requests are
+   denied.
+
+2.2 configuration:
+
+Order deny,allow
+Deny from all
+
+2.4 configuration:
+
+Require all denied
+
+   In this example, there is no authentication and all requests are
+   allowed.
+
+2.2 configuration:
+
+Order allow,deny
+Allow from all
+
+2.4 configuration:
+
+Require all granted
+
+   In the following example, there is no authentication and all hosts in
+   the example.org domain are allowed access; all other hosts are denied
+   access.
+
+2.2 configuration:
+
+Order Deny,Allow
+Deny from all
+Allow from example.org
+
+2.4 configuration:
+
+Require host example.org
+
+   In the following example, mixing old and new directives leads to
+   unexpected results.
+
+Mixing old and new directives: NOT WORKING AS EXPECTED
+
+DocumentRoot "/var/www/html"
+
+<Directory "/">
+    AllowOverride None
+    Order deny,allow
+    Deny from all
+</Directory>
+
+<Location "/server-status">
+    SetHandler server-status
+    Require local
+</Location>
+
+access.log - GET /server-status 403 127.0.0.1
+error.log - AH01797: client denied by server configuration: /var/www/html/server
+-status
+
+   Why httpd denies access to servers-status even if the configuration
+   seems to allow it? Because mod_access_compat directives take precedence
+   over the mod_authz_host one in this configuration merge scenario.
+
+   This example conversely works as expected:
+
+Mixing old and new directives: WORKING AS EXPECTED
+
+DocumentRoot "/var/www/html"
+
+<Directory "/">
+    AllowOverride None
+    Require all denied
+</Directory>
+
+<Location "/server-status">
+    SetHandler server-status
+    Order deny,allow
+    Deny from all
+    Allow From 127.0.0.1
+</Location>
+
+access.log - GET /server-status 200 127.0.0.1
+
+   So even if mixing configuration is still possible, please try to avoid
+   it when upgrading: either keep old directives and then migrate to the
+   new ones on a later stage or just migrate everything in bulk.
+
+   In many configurations with authentication, where the value of the
+   Satisfy was the default of ALL, snippets that simply disabled
+   host-based access control are omitted:
+
+2.2 configuration:
+
+# 2.2 config that disables host-based access control and uses only authenticatio
+n
+Order Deny,Allow
+Allow from all
+AuthType Basic
+AuthBasicProvider file
+AuthUserFile /example.com/conf/users.passwd
+AuthName secure
+Require valid-user
+
+2.4 configuration:
+
+# No replacement of disabling host-based access control needed
+AuthType Basic
+AuthBasicProvider file
+AuthUserFile /example.com/conf/users.passwd
+AuthName secure
+Require valid-user
+
+   In configurations where both authentication and access control were
+   meaningfully combined, the access control directives should be
+   migrated. This example allows requests meeting both criteria:
+
+2.2 configuration:
+
+Order allow,deny
+Deny from all
+# Satisfy ALL is the default
+Satisfy ALL
+Allow from 127.0.0.1
+AuthType Basic
+AuthBasicProvider file
+AuthUserFile /example.com/conf/users.passwd
+AuthName secure
+Require valid-user
+
+2.4 configuration:
+
+AuthType Basic
+AuthBasicProvider file
+AuthUserFile /example.com/conf/users.passwd
+AuthName secure
+<RequireAll>
+  Require valid-user
+  Require ip 127.0.0.1
+</RequireAll>
+
+   In configurations where both authentication and access control were
+   meaningfully combined, the access control directives should be
+   migrated. This example allows requests meeting either criteria:
+
+2.2 configuration:
+
+Order allow,deny
+Deny from all
+Satisfy any
+Allow from 127.0.0.1
+AuthType Basic
+AuthBasicProvider file
+AuthUserFile /example.com/conf/users.passwd
+AuthName secure
+Require valid-user
+
+2.4 configuration:
+
+AuthType Basic
+AuthBasicProvider file
+AuthUserFile /example.com/conf/users.passwd
+AuthName secure
+# Implicitly <RequireAny>
+Require valid-user
+Require ip 127.0.0.1
+
+Other configuration changes
+
+   Some other small adjustments may be necessary for particular
+   configurations as discussed below.
+     * MaxRequestsPerChild has been renamed to MaxConnectionsPerChild,
+       describes more accurately what it does. The old name is still
+       supported.
+     * MaxClients has been renamed to MaxRequestWorkers, which describes
+       more accurately what it does. For async MPMs, like event, the
+       maximum number of clients is not equivalent than the number of
+       worker threads. The old name is still supported.
+     * The DefaultType directive no longer has any effect, other than to
+       emit a warning if it's used with any value other than none. You
+       need to use other configuration settings to replace it in 2.4.
+     * AllowOverride now defaults to None.
+     * EnableSendfile now defaults to Off.
+     * FileETag now defaults to "MTime Size" (without INode).
+     * mod_dav_fs: The format of the DavLockDB file has changed for
+       systems with inodes. The old DavLockDB file must be deleted on
+       upgrade.
+     * KeepAlive only accepts values of On or Off. Previously, any value
+       other than "Off" or "0" was treated as "On".
+     * Directives AcceptMutex, LockFile, RewriteLock, SSLMutex,
+       SSLStaplingMutex, and WatchdogMutexPath have been replaced with a
+       single Mutex directive. You will need to evaluate any use of these
+       removed directives in your 2.2 configuration to determine if they
+       can just be deleted or will need to be replaced using Mutex.
+     * mod_cache: CacheIgnoreURLSessionIdentifiers now does an exact match
+       against the query string instead of a partial match. If your
+       configuration was using partial strings, e.g. using sessionid to
+       match /someapplication/image.gif;jsessionid=123456789, then you
+       will need to change to the full string jsessionid.
+     * mod_cache: The second parameter to CacheEnable only matches forward
+       proxy content if it begins with the correct protocol. In 2.2 and
+       earlier, a parameter of '/' matched all content.
+     * mod_ldap: LDAPTrustedClientCert is now consistently a per-directory
+       setting only. If you use this directive, review your configuration
+       to make sure it is present in all the necessary directory contexts.
+     * mod_filter: FilterProvider syntax has changed and now uses a
+       boolean expression to determine if a filter is applied.
+     * mod_include:
+          + The #if expr element now uses the new expression parser. The
+            old syntax can be restored with the new directive
+            SSILegacyExprParser.
+          + An SSI* config directive in directory scope no longer causes
+            all other per-directory SSI* directives to be reset to their
+            default values.
+     * mod_charset_lite: The DebugLevel option has been removed in favour
+       of per-module LogLevel configuration.
+     * mod_ext_filter: The DebugLevel option has been removed in favour of
+       per-module LogLevel configuration.
+     * mod_proxy_scgi: The default setting for PATH_INFO has changed from
+       httpd 2.2, and some web applications will no longer operate
+       properly with the new PATH_INFO setting. The previous setting can
+       be restored by configuring the proxy-scgi-pathinfo variable.
+     * mod_ssl: CRL based revocation checking now needs to be explicitly
+       configured through SSLCARevocationCheck.
+     * mod_substitute: The maximum line length is now limited to 1MB.
+     * mod_reqtimeout: If the module is loaded, it will now set some
+       default timeouts.
+     * mod_dumpio: DumpIOLogLevel is no longer supported. Data is always
+       logged at LogLevel trace7.
+     * On Unix platforms, piped logging commands configured using either
+       ErrorLog or CustomLog were invoked using /bin/sh -c in 2.2 and
+       earlier. In 2.4 and later, piped logging commands are executed
+       directly. To restore the old behaviour, see the piped logging
+       documentation.
+
+   top
+
+Misc Changes
+
+     * mod_autoindex: will now extract titles and display descriptions for
+       .xhtml files, which were previously ignored.
+     * mod_ssl: The default format of the *_DN variables has changed. The
+       old format can still be used with the new LegacyDNStringFormat
+       argument to SSLOptions. The SSLv2 protocol is no longer supported.
+       SSLProxyCheckPeerCN and SSLProxyCheckPeerExpire now default to On,
+       causing proxy requests to HTTPS hosts with bad or outdated
+       certificates to fail with a 502 status code (Bad gateway)
+     * htpasswd now uses MD5 hash by default on all platforms.
+     * The NameVirtualHost directive no longer has any effect, other than
+       to emit a warning. Any address/port combination appearing in
+       multiple virtual hosts is implicitly treated as a name-based
+       virtual host.
+     * mod_deflate will now skip compression if it knows that the size
+       overhead added by the compression is larger than the data to be
+       compressed.
+     * Multi-language error documents from 2.2.x may not work unless they
+       are adjusted to the new syntax of mod_include's #if expr= element
+       or the directive SSILegacyExprParser is enabled for the directory
+       containing the error documents.
+     * The functionality provided by mod_authn_alias in previous versions
+       (i.e., the AuthnProviderAlias directive) has been moved into
+       mod_authn_core.
+     * The RewriteLog and RewriteLogLevel directives have been removed.
+       This functionality is now provided by configuring the appropriate
+       level of logging for the mod_rewrite module using the LogLevel
+       directive. See also the mod_rewrite logging section.
+
+   top
+
+Third Party Modules
+
+   All modules must be recompiled for 2.4 before being loaded.
+
+   Many third-party modules designed for version 2.2 will otherwise work
+   unchanged with the Apache HTTP Server version 2.4. Some will require
+   changes; see the API update overview.
+   top
+
+Common problems when upgrading
+
+     * Startup errors:
+          + Invalid command 'User', perhaps misspelled or defined by a
+            module not included in the server configuration - load module
+            mod_unixd
+          + Invalid command 'Require', perhaps misspelled or defined by a
+            module not included in the server configuration, or Invalid
+            command 'Order', perhaps misspelled or defined by a module not
+            included in the server configuration - load module
+            mod_access_compat, or update configuration to 2.4
+            authorization directives.
+          + Ignoring deprecated use of DefaultType in line NN of
+            /path/to/httpd.conf - remove DefaultType and replace with
+            other configuration settings.
+          + Invalid command 'AddOutputFilterByType', perhaps misspelled or
+            defined by a module not included in the server configuration -
+            AddOutputFilterByType has moved from the core to mod_filter,
+            which must be loaded.
+     * Errors serving requests:
+          + configuration error: couldn't check user: /path - load module
+            mod_authn_core.
+          + .htaccess files aren't being processed - Check for an
+            appropriate AllowOverride directive; the default changed to
+            None in 2.4.
+
+   Available Languages:  en  |  fr
+
+   top
+
+Comments
+
+   Notice:
+   This is not a Q&A section. Comments placed here should be pointed
+   towards suggestions on improving the documentation or server, and may
+   be removed again by our moderators if they are either implemented or
+   considered invalid/off-topic. Questions on how to manage the Apache
+   HTTP Server should be directed at either our IRC channel, #httpd, on
+   Freenode, or sent to our mailing lists.
+
+   Copyright 2019 The Apache Software Foundation.
+   Licensed under the Apache License, Version 2.0.
+
+   Modules | Directives | FAQ | Glossary | Sitemap
+   Modules | Directives | FAQ | Glossary | Sitemap
+
+   Apache HTTP Server Version 2.4
+
+   <-
+
+   Apache > HTTP Server > Documentation > Version 2.4
+
+The Apache License, Version 2.0
+
+   Available Languages:  en
+
+   Apache License
+   Version 2.0, January 2004
+   http://www.apache.org/licenses/
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+    1. Definitions
+       "License" shall mean the terms and conditions for use,
+       reproduction, and distribution as defined by Sections 1 through 9
+       of this document.
+       "Licensor" shall mean the copyright owner or entity authorized by
+       the copyright owner that is granting the License.
+       "Legal Entity" shall mean the union of the acting entity and all
+       other entities that control, are controlled by, or are under common
+       control with that entity. For the purposes of this definition,
+       "control" means (i) the power, direct or indirect, to cause the
+       direction or management of such entity, whether by contract or
+       otherwise, or (ii) ownership of fifty percent (50%) or more of the
+       outstanding shares, or (iii) beneficial ownership of such entity.
+       "You" (or "Your") shall mean an individual or Legal Entity
+       exercising permissions granted by this License.
+       "Source" form shall mean the preferred form for making
+       modifications, including but not limited to software source code,
+       documentation source, and configuration files.
+       "Object" form shall mean any form resulting from mechanical
+       transformation or translation of a Source form, including but not
+       limited to compiled object code, generated documentation, and
+       conversions to other media types.
+       "Work" shall mean the work of authorship, whether in Source or
+       Object form, made available under the License, as indicated by a
+       copyright notice that is included in or attached to the work (an
+       example is provided in the Appendix below).
+       "Derivative Works" shall mean any work, whether in Source or Object
+       form, that is based on (or derived from) the Work and for which the
+       editorial revisions, annotations, elaborations, or other
+       modifications represent, as a whole, an original work of
+       authorship. For the purposes of this License, Derivative Works
+       shall not include works that remain separable from, or merely link
+       (or bind by name) to the interfaces of, the Work and Derivative
+       Works thereof.
+       "Contribution" shall mean any work of authorship, including the
+       original version of the Work and any modifications or additions to
+       that Work or Derivative Works thereof, that is intentionally
+       submitted to Licensor for inclusion in the Work by the copyright
+       owner or by an individual or Legal Entity authorized to submit on
+       behalf of the copyright owner. For the purposes of this definition,
+       "submitted" means any form of electronic, verbal, or written
+       communication sent to the Licensor or its representatives,
+       including but not limited to communication on electronic mailing
+       lists, source code control systems, and issue tracking systems that
+       are managed by, or on behalf of, the Licensor for the purpose of
+       discussing and improving the Work, but excluding communication that
+       is conspicuously marked or otherwise designated in writing by the
+       copyright owner as "Not a Contribution."
+       "Contributor" shall mean Licensor and any individual or Legal
+       Entity on behalf of whom a Contribution has been received by
+       Licensor and subsequently incorporated within the Work.
+    2. Grant of Copyright License. Subject to the terms and conditions of
+       this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+       copyright license to reproduce, prepare Derivative Works of,
+       publicly display, publicly perform, sublicense, and distribute the
+       Work and such Derivative Works in Source or Object form.
+    3. Grant of Patent License. Subject to the terms and conditions of
+       this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+       (except as stated in this section) patent license to make, have
+       made, use, offer to sell, sell, import, and otherwise transfer the
+       Work, where such license applies only to those patent claims
+       licensable by such Contributor that are necessarily infringed by
+       their Contribution(s) alone or by combination of their
+       Contribution(s) with the Work to which such Contribution(s) was
+       submitted. If You institute patent litigation against any entity
+       (including a cross-claim or counterclaim in a lawsuit) alleging
+       that the Work or a Contribution incorporated within the Work
+       constitutes direct or contributory patent infringement, then any
+       patent licenses granted to You under this License for that Work
+       shall terminate as of the date such litigation is filed.
+    4. Redistribution. You may reproduce and distribute copies of the Work
+       or Derivative Works thereof in any medium, with or without
+       modifications, and in Source or Object form, provided that You meet
+       the following conditions:
+         1. You must give any other recipients of the Work or Derivative
+            Works a copy of this License; and
+         2. You must cause any modified files to carry prominent notices
+            stating that You changed the files; and
+         3. You must retain, in the Source form of any Derivative Works
+            that You distribute, all copyright, patent, trademark, and
+            attribution notices from the Source form of the Work,
+            excluding those notices that do not pertain to any part of the
+            Derivative Works; and
+         4. If the Work includes a "NOTICE" text file as part of its
+            distribution, then any Derivative Works that You distribute
+            must include a readable copy of the attribution notices
+            contained within such NOTICE file, excluding those notices
+            that do not pertain to any part of the Derivative Works, in at
+            least one of the following places: within a NOTICE text file
+            distributed as part of the Derivative Works; within the Source
+            form or documentation, if provided along with the Derivative
+            Works; or, within a display generated by the Derivative Works,
+            if and wherever such third-party notices normally appear. The
+            contents of the NOTICE file are for informational purposes
+            only and do not modify the License. You may add Your own
+            attribution notices within Derivative Works that You
+            distribute, alongside or as an addendum to the NOTICE text
+            from the Work, provided that such additional attribution
+            notices cannot be construed as modifying the License.
+       You may add Your own copyright statement to Your modifications and
+       may provide additional or different license terms and conditions
+       for use, reproduction, or distribution of Your modifications, or
+       for any such Derivative Works as a whole, provided Your use,
+       reproduction, and distribution of the Work otherwise complies with
+       the conditions stated in this License.
+    5. Submission of Contributions. Unless You explicitly state otherwise,
+       any Contribution intentionally submitted for inclusion in the Work
+       by You to the Licensor shall be under the terms and conditions of
+       this License, without any additional terms or conditions.
+       Notwithstanding the above, nothing herein shall supersede or modify
+       the terms of any separate license agreement you may have executed
+       with Licensor regarding such Contributions.
+    6. Trademarks. This License does not grant permission to use the trade
+       names, trademarks, service marks, or product names of the Licensor,
+       except as required for reasonable and customary use in describing
+       the origin of the Work and reproducing the content of the NOTICE
+       file.
+    7. Disclaimer of Warranty. Unless required by applicable law or agreed
+       to in writing, Licensor provides the Work (and each Contributor
+       provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES
+       OR CONDITIONS OF ANY KIND, either express or implied, including,
+       without limitation, any warranties or conditions of TITLE,
+       NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR
+       PURPOSE. You are solely responsible for determining the
+       appropriateness of using or redistributing the Work and assume any
+       risks associated with Your exercise of permissions under this
+       License.
+    8. Limitation of Liability. In no event and under no legal theory,
+       whether in tort (including negligence), contract, or otherwise,
+       unless required by applicable law (such as deliberate and grossly
+       negligent acts) or agreed to in writing, shall any Contributor be
+       liable to You for damages, including any direct, indirect, special,
+       incidental, or consequential damages of any character arising as a
+       result of this License or out of the use or inability to use the
+       Work (including but not limited to damages for loss of goodwill,
+       work stoppage, computer failure or malfunction, or any and all
+       other commercial damages or losses), even if such Contributor has
+       been advised of the possibility of such damages.
+    9. Accepting Warranty or Additional Liability. While redistributing
+       the Work or Derivative Works thereof, You may choose to offer, and
+       charge a fee for, acceptance of support, warranty, indemnity, or
+       other liability obligations and/or rights consistent with this
+       License. However, in accepting such obligations, You may act only
+       on Your own behalf and on Your sole responsibility, not on behalf
+       of any other Contributor, and only if You agree to indemnify,
+       defend, and hold each Contributor harmless for any liability
+       incurred by, or claims asserted against, such Contributor by reason
+       of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+   To apply the Apache License to your work, attach the following
+   boilerplate notice, with the fields enclosed by brackets "[]" replaced
+   with your own identifying information. (Don't include the brackets!)
+   The text should be enclosed in the appropriate comment syntax for the
+   file format. We also recommend that a file or class name and
+   description of purpose be included on the same "printed page" as the
+   copyright notice for easier identification within third-party archives.
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+   Available Languages:  en
+
+   top
+
+Comments
+
+   Notice:
+   This is not a Q&A section. Comments placed here should be pointed
+   towards suggestions on improving the documentation or server, and may
+   be removed again by our moderators if they are either implemented or
+   considered invalid/off-topic. Questions on how to manage the Apache
+   HTTP Server should be directed at either our IRC channel, #httpd, on
+   Freenode, or sent to our mailing lists.
+
+   Copyright 2019 The Apache Software Foundation.
+   Licensed under the Apache License, Version 2.0.
+
+   Modules | Directives | FAQ | Glossary | Sitemap
+   Modules | Directives | FAQ | Glossary | Sitemap
+
+   Apache HTTP Server Version 2.4
+
+   <-
+
+   Apache > HTTP Server > Documentation > Version 2.4
+
+Compiling and Installing
+
+   Available Languages:  de  |  en  |  es  |  fr  |  ja  |  ko  |  tr
+
+   This document covers compilation and installation of the Apache HTTP
+   Server on Unix and Unix-like systems only. For compiling and
+   installation on Windows, see Using Apache HTTP Server with Microsoft
+   Windows and Compiling Apache for Microsoft Windows. For other
+   platforms, see the platform documentation.
+
+   Apache httpd uses libtool and autoconf to create a build environment
+   that looks like many other Open Source projects.
+
+   If you are upgrading from one minor version to the next (for example,
+   2.4.9 to 2.4.10), please skip down to the upgrading section.
+   Support Apache!
+     * Overview for the impatient
+     * Requirements
+     * Download
+     * Extract
+     * Configuring the source tree
+     * Build
+     * Install
+     * Customize
+     * Test
+     * Upgrading
+     * Third-party packages
+
+See also
+
+     * Configure the source tree
+     * Starting Apache httpd
+     * Stopping and Restarting
+     * Comments
+
+   top
+
+Overview for the impatient
+
+   Installing on Fedora/CentOS/Red Hat Enterprise Linux
+
+sudo yum install httpd
+sudo systemctl enable httpd
+sudo systemctl start httpd
+
+          Newer releases of these distros use dnf rather than yum. See the
+          Fedora project's documentation for platform-specific notes.
+
+   Installing on Ubuntu/Debian
+
+sudo apt install apache2
+sudo service apache2 start
+
+          See Ubuntu's documentation for platform-specific notes.
+
+   Installing from source
+
+   Download Download the latest release from
+   http://httpd.apache.org/download.cgi
+   Extract $ gzip -d httpd-NN.tar.gz
+   $ tar xvf httpd-NN.tar
+   $ cd httpd-NN
+   Configure $ ./configure --prefix=PREFIX
+   Compile $ make
+   Install $ make install
+   Customize $ vi PREFIX/conf/httpd.conf
+   Test $ PREFIX/bin/apachectl -k start
+
+          NN must be replaced with the current version number, and PREFIX
+          must be replaced with the filesystem path under which the server
+          should be installed. If PREFIX is not specified, it defaults to
+          /usr/local/apache2.
+
+          Each section of the compilation and installation process is
+          described in more detail below, beginning with the requirements
+          for compiling and installing Apache httpd.
+
+   Don't see your favorite platform mentioned here? Come help us improve
+   this doc.
+   top
+
+Requirements
+
+   The following requirements exist for building Apache httpd:
+
+   APR and APR-Util
+          Make sure you have APR and APR-Util already installed on your
+          system. If you don't, or prefer to not use the system-provided
+          versions, download the latest versions of both APR and APR-Util
+          from Apache APR, unpack them into
+          /httpd_source_tree_root/srclib/apr and
+          /httpd_source_tree_root/srclib/apr-util (be sure the directory
+          names do not have version numbers; for example, the APR
+          distribution must be under /httpd_source_tree_root/srclib/apr/)
+          and use ./configure's --with-included-apr option. On some
+          platforms, you may have to install the corresponding -dev
+          packages to allow httpd to build against your installed copy of
+          APR and APR-Util.
+
+   Perl-Compatible Regular Expressions Library (PCRE)
+          This library is required but not longer bundled with httpd.
+          Download the source code from http://www.pcre.org, or install a
+          Port or Package. If your build system can't find the pcre-config
+          script installed by the PCRE build, point to it using the
+          --with-pcre parameter. On some platforms, you may have to
+          install the corresponding -dev package to allow httpd to build
+          against your installed copy of PCRE.
+
+   Disk Space
+          Make sure you have at least 50 MB of temporary free disk space
+          available. After installation the server occupies approximately
+          10 MB of disk space. The actual disk space requirements will
+          vary considerably based on your chosen configuration options,
+          any third-party modules, and, of course, the size of the web
+          site or sites that you have on the server.
+
+   ANSI-C Compiler and Build System
+          Make sure you have an ANSI-C compiler installed. The GNU C
+          compiler (GCC) from the Free Software Foundation (FSF) is
+          recommended. If you don't have GCC then at least make sure your
+          vendor's compiler is ANSI compliant. In addition, your PATH must
+          contain basic build tools such as make.
+
+   Accurate time keeping
+          Elements of the HTTP protocol are expressed as the time of day.
+          So, it's time to investigate setting some time synchronization
+          facility on your system. Usually the ntpdate or xntpd programs
+          are used for this purpose which are based on the Network Time
+          Protocol (NTP). See the NTP homepage for more details about NTP
+          software and public time servers.
+
+   Perl 5 [OPTIONAL]
+          For some of the support scripts like apxs or dbmmanage (which
+          are written in Perl) the Perl 5 interpreter is required
+          (versions 5.003 or newer are sufficient). If no Perl 5
+          interpreter is found by the configure script, you will not be
+          able to use the affected support scripts. Of course, you will
+          still be able to build and use Apache httpd.
+
+   top
+
+Download
+
+   The Apache HTTP Server can be downloaded from the Apache HTTP Server
+   download site, which lists several mirrors. Most users of Apache on
+   unix-like systems will be better off downloading and compiling a source
+   version. The build process (described below) is easy, and it allows you
+   to customize your server to suit your needs. In addition, binary
+   releases are often not up to date with the latest source releases. If
+   you do download a binary, follow the instructions in the
+   INSTALL.bindist file inside the distribution.
+
+   After downloading, it is important to verify that you have a complete
+   and unmodified version of the Apache HTTP Server. This can be
+   accomplished by testing the downloaded tarball against the PGP
+   signature. Details on how to do this are available on the download page
+   and an extended example is available describing the use of PGP.
+   top
+
+Extract
+
+   Extracting the source from the Apache HTTP Server tarball is a simple
+   matter of uncompressing, and then untarring:
+
+   $ gzip -d httpd-NN.tar.gz
+   $ tar xvf httpd-NN.tar
+
+   This will create a new directory under the current directory containing
+   the source code for the distribution. You should cd into that directory
+   before proceeding with compiling the server.
+   top
+
+Configuring the source tree
+
+   The next step is to configure the Apache source tree for your
+   particular platform and personal requirements. This is done using the
+   script configure included in the root directory of the distribution.
+   (Developers downloading an unreleased version of the Apache source tree
+   will need to have autoconf and libtool installed and will need to run
+   buildconf before proceeding with the next steps. This is not necessary
+   for official releases.)
+
+   To configure the source tree using all the default options, simply type
+   ./configure. To change the default options, configure accepts a variety
+   of variables and command line options.
+
+   The most important option is the location --prefix where Apache is to
+   be installed later, because Apache has to be configured for this
+   location to work correctly. More fine-tuned control of the location of
+   files is possible with additional configure options.
+
+   Also at this point, you can specify which features you want included in
+   Apache by enabling and disabling modules. Apache comes with a wide
+   range of modules included by default. They will be compiled as shared
+   objects (DSOs) which can be loaded or unloaded at runtime. You can also
+   choose to compile modules statically by using the option
+   --enable-module=static.
+
+   Additional modules are enabled using the --enable-module option, where
+   module is the name of the module with the mod_ string removed and with
+   any underscore converted to a dash. Similarly, you can disable modules
+   with the --disable-module option. Be careful when using these options,
+   since configure cannot warn you if the module you specify does not
+   exist; it will simply ignore the option.
+
+   In addition, it is sometimes necessary to provide the configure script
+   with extra information about the location of your compiler, libraries,
+   or header files. This is done by passing either environment variables
+   or command line options to configure. For more information, see the
+   configure manual page. Or invoke configure using the --help option.
+
+   For a short impression of what possibilities you have, here is a
+   typical example which compiles Apache for the installation tree
+   /sw/pkg/apache with a particular compiler and flags plus the two
+   additional modules mod_ldap and mod_lua:
+
+   $ CC="pgcc" CFLAGS="-O2" \
+   ./configure --prefix=/sw/pkg/apache \
+   --enable-ldap=shared \
+   --enable-lua=shared
+
+   When configure is run it will take several minutes to test for the
+   availability of features on your system and build Makefiles which will
+   later be used to compile the server.
+
+   Details on all the different configure options are available on the
+   configure manual page.
+   top
+
+Build
+
+   Now you can build the various parts which form the Apache package by
+   simply running the command:
+
+   $ make
+
+   Please be patient here, since a base configuration takes several
+   minutes to compile and the time will vary widely depending on your
+   hardware and the number of modules that you have enabled.
+   top
+
+Install
+
+   Now it's time to install the package under the configured installation
+   PREFIX (see --prefix option above) by running:
+
+   $ make install
+
+   This step will typically require root privileges, since PREFIX is
+   usually a directory with restricted write permissions.
+
+   If you are upgrading, the installation will not overwrite your
+   configuration files or documents.
+   top
+
+Customize
+
+   Next, you can customize your Apache HTTP server by editing the
+   configuration files under PREFIX/conf/.
+
+   $ vi PREFIX/conf/httpd.conf
+
+   Have a look at the Apache manual under PREFIX/docs/manual/ or consult
+   http://httpd.apache.org/docs/2.4/ for the most recent version of this
+   manual and a complete reference of available configuration directives.
+   top
+
+Test
+
+   Now you can start your Apache HTTP server by immediately running:
+
+   $ PREFIX/bin/apachectl -k start
+
+   You should then be able to request your first document via the URL
+   http://localhost/. The web page you see is located under the
+   DocumentRoot, which will usually be PREFIX/htdocs/. Then stop the
+   server again by running:
+
+   $ PREFIX/bin/apachectl -k stop
+   top
+
+Upgrading
+
+   The first step in upgrading is to read the release announcement and the
+   file CHANGES in the source distribution to find any changes that may
+   affect your site. When changing between major releases (for example,
+   from 2.0 to 2.2 or from 2.2 to 2.4), there will likely be major
+   differences in the compile-time and run-time configuration that will
+   require manual adjustments. All modules will also need to be upgraded
+   to accommodate changes in the module API.
+
+   Upgrading from one minor version to the next (for example, from 2.2.55
+   to 2.2.57) is easier. The make install process will not overwrite any
+   of your existing documents, log files, or configuration files. In
+   addition, the developers make every effort to avoid incompatible
+   changes in the configure options, run-time configuration, or the module
+   API between minor versions. In most cases you should be able to use an
+   identical configure command line, an identical configuration file, and
+   all of your modules should continue to work.
+
+   To upgrade across minor versions, start by finding the file config.nice
+   in the build directory of your installed server or at the root of the
+   source tree for your old install. This will contain the exact configure
+   command line that you used to configure the source tree. Then to
+   upgrade from one version to the next, you need only copy the
+   config.nice file to the source tree of the new version, edit it to make
+   any desired changes, and then run:
+
+   $ ./config.nice
+   $ make
+   $ make install
+   $ PREFIX/bin/apachectl -k graceful-stop
+   $ PREFIX/bin/apachectl -k start
+   You should always test any new version in your environment before
+   putting it into production. For example, you can install and run the
+   new version along side the old one by using a different --prefix and a
+   different port (by adjusting the Listen directive) to test for any
+   incompatibilities before doing the final upgrade.
+
+   You can pass additional arguments to config.nice, which will be
+   appended to your original configure options:
+
+   $ ./config.nice --prefix=/home/test/apache --with-port=90
+   top
+
+Third-party packages
+
+   A large number of third parties provide their own packaged
+   distributions of the Apache HTTP Server for installation on particular
+   platforms. This includes the various Linux distributions, various
+   third-party Windows packages, Mac OS X, Solaris, and many more.
+
+   Our software license not only permits, but encourages, this kind of
+   redistribution. However, it does result in a situation where the
+   configuration layout and defaults on your installation of the server
+   may differ from what is stated in the documentation. While unfortunate,
+   this situation is not likely to change any time soon.
+
+   A description of these third-party distrubutions is maintained in the
+   HTTP Server wiki, and should reflect the current state of these
+   third-party distributions. However, you will need to familiarize
+   yourself with your particular platform's package management and
+   installation procedures.
+
+   Available Languages:  de  |  en  |  es  |  fr  |  ja  |  ko  |  tr
+
+   top
+
+Comments
+
+   Notice:
+   This is not a Q&A section. Comments placed here should be pointed
+   towards suggestions on improving the documentation or server, and may
+   be removed again by our moderators if they are either implemented or
+   considered invalid/off-topic. Questions on how to manage the Apache
+   HTTP Server should be directed at either our IRC channel, #httpd, on
+   Freenode, or sent to our mailing lists.
+
+   Copyright 2019 The Apache Software Foundation.
+   Licensed under the Apache License, Version 2.0.
+
+   Modules | Directives | FAQ | Glossary | Sitemap
+   Modules | Directives | FAQ | Glossary | Sitemap
+
+   Apache HTTP Server Version 2.4
+
+   <-
+
+   Apache > HTTP Server > Documentation > Version 2.4
+
+Starting Apache
+
+   Available Languages:  de  |  en  |  es  |  fr  |  ja  |  ko  |  tr
+
+   On Windows, Apache is normally run as a service. For details, see
+   Running Apache as a Service.
+
+   On Unix, the httpd program is run as a daemon that executes
+   continuously in the background to handle requests. This document
+   describes how to invoke httpd.
+   Support Apache!
+     * How Apache Starts
+     * Errors During Start-up
+     * Starting at Boot-Time
+     * Additional Information
+
+See also
+
+     * Stopping and Restarting
+     * httpd
+     * apachectl
+     * Comments
+
+   top
+
+How Apache Starts
+
+   If the Listen specified in the configuration file is default of 80 (or
+   any other port below 1024), then it is necessary to have root
+   privileges in order to start apache, so that it can bind to this
+   privileged port. Once the server has started and performed a few
+   preliminary activities such as opening its log files, it will launch
+   several child processes which do the work of listening for and
+   answering requests from clients. The main httpd process continues to
+   run as the root user, but the child processes run as a less privileged
+   user. This is controlled by the selected Multi-Processing Module.
+
+   The recommended method of invoking the httpd executable is to use the
+   apachectl control script. This script sets certain environment
+   variables that are necessary for httpd to function correctly under some
+   operating systems, and then invokes the httpd binary. apachectl will
+   pass through any command line arguments, so any httpd options may also
+   be used with apachectl. You may also directly edit the apachectl script
+   by changing the HTTPD variable near the top to specify the correct
+   location of the httpd binary and any command-line arguments that you
+   wish to be always present.
+
+   The first thing that httpd does when it is invoked is to locate and
+   read the configuration file httpd.conf. The location of this file is
+   set at compile-time, but it is possible to specify its location at run
+   time using the -f command-line option as in
+
+   /usr/local/apache2/bin/apachectl -f /usr/local/apache2/conf/httpd.conf
+
+   If all goes well during startup, the server will detach from the
+   terminal and the command prompt will return almost immediately. This
+   indicates that the server is up and running. You can then use your
+   browser to connect to the server and view the test page in the
+   DocumentRoot directory.
+   top
+
+Errors During Start-up
+
+   If Apache suffers a fatal problem during startup, it will write a
+   message describing the problem either to the console or to the ErrorLog
+   before exiting. One of the most common error messages is "Unable to
+   bind to Port ...". This message is usually caused by either:
+     * Trying to start the server on a privileged port when not logged in
+       as the root user; or
+     * Trying to start the server when there is another instance of Apache
+       or some other web server already bound to the same Port.
+
+   For further trouble-shooting instructions, consult the Apache FAQ.
+   top
+
+Starting at Boot-Time
+
+   If you want your server to continue running after a system reboot, you
+   should add a call to apachectl to your system startup files (typically
+   rc.local or a file in an rc.N directory). This will start Apache as
+   root. Before doing this ensure that your server is properly configured
+   for security and access restrictions.
+
+   The apachectl script is designed to act like a standard SysV init
+   script; it can take the arguments start, restart, and stop and
+   translate them into the appropriate signals to httpd. So you can often
+   simply link apachectl into the appropriate init directory. But be sure
+   to check the exact requirements of your system.
+   top
+
+Additional Information
+
+   Additional information about the command-line options of httpd and
+   apachectl as well as other support programs included with the server is
+   available on the Server and Supporting Programs page. There is also
+   documentation on all the modules included with the Apache distribution
+   and the directives that they provide.
+
+   Available Languages:  de  |  en  |  es  |  fr  |  ja  |  ko  |  tr
+
+   top
+
+Comments
+
+   Notice:
+   This is not a Q&A section. Comments placed here should be pointed
+   towards suggestions on improving the documentation or server, and may
+   be removed again by our moderators if they are either implemented or
+   considered invalid/off-topic. Questions on how to manage the Apache
+   HTTP Server should be directed at either our IRC channel, #httpd, on
+   Freenode, or sent to our mailing lists.
+
+   Copyright 2019 The Apache Software Foundation.
+   Licensed under the Apache License, Version 2.0.
+
+   Modules | Directives | FAQ | Glossary | Sitemap

@@ -1,0 +1,2234 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+Pilotes et logiciels
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Mettre automatiquement à jour vos pilotes
+
+   Identifiez vos produits et obtenez des pilotes et mises à jour
+   logicielles pour votre matériel Intel.
+   Démarrer
+
+Choisissez votre produit
+
+   Pilotes graphiques Réseaux sans fil Produits Ethernet Produits pour
+   serveurs Mini PC Cartes mères pour PC de bureau Processeurs Mémoire et
+   stockage
+
+Téléchargements fréquents
+
+   Intel® System Support Utility pour Windows *
+   ® Intel® Wireless Bluetooth pour Windows® 10
+   Interface utilisateur et pilote Intel® Rapid Storage Technology (Intel®
+   RST)
+   Utilitaire d’identification du processeur Intel®-version Windows *
+   Pilote de plateforme Windows universelle (UWP) Intel® RealSense™ série
+   D400 pour Windows® 10
+   Outil de détection INTEL-SA-00086
+   Demander à la communauté d'assistance
+
+Demander à la communauté d'assistance
+
+   Experts du domaine, prêts à vous aider
+   Caractéristiques des produits
+
+Caractéristiques des produits
+
+   Toutes les informations dont vous avez besoin au bout des doigts
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Intel® System Support Utility pour Windows *
+
+   Version : 2.5.0.15 (Les derniers) Date : 13/09/2018
+
+Téléchargements disponibles
+
+SSU.exe
+
+   Indépendant du système d'exploitation
+   Windows 10*
+   Windows 10 32 bits*
+   Windows 10 64 bits*
+   Windows* 8.1
+   Windows* 8.1, 32 bits
+   Windows* 8.1, 64 bits
+   Windows 8*
+   Windows* 8, 32 bits
+   Windows* 8, 64 bits
+   Windows 7*
+   Windows* 7, 32 bits
+   Windows* 7, 64 bits
+   Windows Server 2016*
+   Windows* Server 2012 R2
+   Windows Server 2012*
+
+   Langue : Anglais
+
+   Taille : 0,37 Mo
+
+   MD5 : f92c542dc79a9df069e06b9f4d8c5b60
+
+   Télécharger
+
+Description détaillée
+
+   [translate_ico.gif]
+
+   Existe-t-il une version Linux * d' Intel® System Support Utility
+   (Intel® SSU)?
+
+   Oui, vous pouvez télécharger Intel SSU pour le système d’exploitation
+   Linux.
+
+   objet
+
+   Intel SSU analyse les informations du système et de l’appareil pour
+   faciliter le dépannage du Assistance client. Les informations peuvent
+   être consultées, enregistrées dans un fichier ou envoyées au Assistance
+   client via le Web.
+
+   Aucune information personnelle n’est collectée. Intel s’engage à
+   protéger votre vie privée. Voir l’avis de confidentialité d’Intel.
+
+   Consultez le fichier Readme pour plus d’informations, telles que les
+   nouveautés de cette version et les systèmes d’exploitation pris en
+   charge.
+
+   Sujets connexes
+     * Guide d’aide Intel® SSU
+     * Intel® SSU Foire aux questions
+
+   Consultez les notes de publication pour les instructions
+   d’installation, le matériel pris en charge, les nouveautés, les
+   corrections de bugs et les problèmes connus.
+   [translate_ico.gif] Ces informations sont composées de traductions
+   automatiques et humaines du contenu d'origine, mises à votre
+   disposition pour votre commodité. Ce contenu est fourni à titre
+   d'information uniquement et ne doit pas être considéré comme complet ni
+   fidèle à l'original.
+
+Notes de version
+
+     * Notes de version (txt)
+
+Ce téléchargement est également valide pour le ou les produits répertoriés
+ci-dessous.
+
+     * Intel® System Support Utility
+
+Contrat de licence logicielle Intel
+
+   X
+
+   Les termes de l'accord de licence du logiciel inclus avec tous les
+   logiciels que vous téléchargez contrôlent l'utilisation du logiciel.
+
+   This Agreement is in the English language only, which language shall be
+   controlling in all respects, and all versions of this Agreement in any
+   other language shall be for accommodation only and shall not be binding
+   on you or Intel. All communications and notices made or given pursuant
+   to this Agreement, and all documentation and support to be provided,
+   unless otherwise noted, shall be in the English language.
+
+   Le présent Accord est valide en anglais uniquement et seul l'anglais
+   contrôle tous les aspects de l'Accord. Toutes les autres langues sont
+   fournies pour vous faciliter la tâche et ne constituent en aucun cas un
+   contrat avec Intel. Sauf indication contraire, toutes les
+   communications et tous les avis en relation avec le présent Accord,
+   ainsi que la documentation et l'assistance fournies, seront en anglais.
+   CONTRAT DE LICENCE DU LOGICIEL INTEL
+
+   IMPORTANT – À LIRE AVANT LA COPIE, L’INSTALLATION OU L’UTILISATION.
+   Veuillez ne pas utiliser ou charger ce logiciel et tout programme
+   associé (regroupés sous la désignation "Logiciel") tant que vous n'avez
+   pas lu attentivement les termes et conditions suivantes. L'utilisation
+   ou le chargement du logiciel constitue une acceptation des termes du
+   présent Contrat. Si vous êtes en désaccord avec les termes de ce
+   contrat, veuillez ne pas installer ou utiliser le Logiciel.
+
+   LICENCES : Veuillez noter : - Si vous êtes un administrateur réseau, la
+   "Licence de site" ci-dessous s'appliquera. - Si vous êtes un
+   utilisateur final, la "Licence utilisateur unique" s'appliquera. - Si
+   vous êtes un fabricant OEM, la "Licence OEM" s'appliquera.
+
+   LICENCE DE SITE. Vous êtes autorisé à copier le Logiciel sur les
+   ordinateurs de votre organisation pour utilisation par cette dernière,
+   ainsi qu’à effectuer un nombre raisonnable de copies de sauvegarde du
+   Logiciel, sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE UTILISATEUR UNIQUE. Vous êtes autorisé à copier le Logiciel sur
+   un seul ordinateur pour votre usage personnel et non commercial, ainsi
+   qu’à effectuer une copie de sauvegarde du Logiciel, sous réserve des
+   conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE OEM : Vous n'êtes autorisé à reproduire ou distribuer le
+   Logiciel que par intégration ou incorporation dans votre produit ou au
+   titre de la mise à jour d'une maintenance de Logiciel autonome pour des
+   utilisateurs finaux existants de vos produits, à l'exclusion de tous
+   autres produits autonomes et sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous ne
+   pouvez distribuer le Logiciel auprès de vos clients qu'en vertu d'un
+   contrat de licence établi par écrit. Ce contrat de licence peut prendre
+   la forme d'un contrat de licence basé sur un "accord implicite par
+   ouverture de l'emballage scellé". Cette licence devra, pour le moins,
+   protéger les droits de propriété d'Intel sur le Logiciel. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   AUCUN AUTRE DROIT. Sauf disposition expressément stipulée dans le
+   présent contrat, Intel ne vous accorde, expressément ou implicitement,
+   aucun droit ni licence relativement à des informations propriétaires ou
+   brevets, droits d'auteur, topographies de circuit intégré, marques,
+   secrets commerciaux ou autres droits de propriété intellectuelle
+   détenus ou contrôlés par Intel.
+
+   PROPRIÉTÉ DU LOGICIEL ET COPYRIGHT (DROITS D'AUTEUR). Intel ou ses
+   fournisseurs demeurent les propriétaires de toutes les copies du
+   Logiciel. Le logiciel est soumis à droits d'auteur et protégé par les
+   lois des États-Unis d'Amérique et d'autres pays ainsi que par les
+   dispositions de traités internationaux. Vous n'êtes pas autorisé à ôter
+   les mentions de réserve du logiciel. Intel peut modifier, à tout moment
+   et sans préavis, le Logiciel ou les éléments qui y sont mentionnés,
+   mais n'est pas tenu de fournir des prestations d'assistance ou de mise
+   à jour sur le Logiciel ou ces éléments. Sauf disposition contraire
+   expressément stipulée, Intel n'accorde aucun droit, explicite ou
+   implicite, sous les brevets, copyrights, marques déposées ou autres
+   droits de propriété intellectuelle d'Intel. Vous ne pouvez transférer
+   le logiciel que si le destinataire convient d'être entièrement lié par
+   les dispositions du présent Contrat et que si vous ne conservez aucune
+   copie du logiciel.
+
+   GARANTIE LIMITÉE DU SUPPORT. Si le Logiciel a été fourni par Intel sur
+   un support physique, Intel garantit que ledit support sera exempt de
+   tout défaut de matériel notable pendant une période de quatre-vingt-dix
+   (90) jours à compter de la livraison par Intel. En cas de défaut de
+   support, vous êtes invité à renvoyer ce dernier à Intel pour un
+   remplacement ou une autre livraison du logiciel, à la discrétion
+   d'Intel.
+
+   EXCLUSION D’AUTRES GARANTIES. SAUF DANS LA MESURE PRÉVUE CI-DESSUS, LE
+   LOGICIEL EST FOURNI "EN L’ÉTAT", SANS GARANTIE EXPLICITE NI IMPLICITE
+   D’AUCUNE SORTE, Y COMPRIS TOUTE GARANTIE DE QUALITÉ MARCHANDE, DE
+   RESPECT DES DROITS DE PROPRIÉTÉ INTELLECTUELLE OU D’ADAPTATION À UN
+   USAGE PARTICULIER. Intel ne garantit pas l'exactitude ni l'exhaustivité
+   des informations, textes, graphiques, liens ou autres éléments contenus
+   dans le Logiciel, et n'assume aucune responsabilité à cet égard.
+
+   LIMITATION DE RESPONSABILITÉ. INTEL OU SES FOURNISSEURS NE SONT EN
+   AUCUN CAS RESPONSABLES DE QUELQUE DOMMAGE QUE CE SOIT (Y COMPRIS, MAIS
+   SANS QUE CETTE ÉNUMÉRATION SOIT LIMITATIVE, LES PERTES DE BÉNÉFICE,
+   L'INTERRUPTION D’ACTIVITÉ OU LES PERTES D'INFORMATIONS) DÉRIVANT DE
+   L'UTILISATION DE CE PRODUIT OU DE L'INCAPACITÉ DE L'UTILISER, MÊME SI
+   INTEL A ÉTÉ NOTIFIÉ DE LA POSSIBILITÉ D'UN TEL DOMMAGE. CERTAINES
+   JURIDICTIONS INTERDISENT L'EXCLUSION OU LA LIMITATION DE LA
+   RESPONSABILITÉ POUR LES GARANTIES TACITES OU LES DOMMAGES INDIRECTS OU
+   SECONDAIRES. IL SE PEUT PAR CONSÉQUENT QUE LES LIMITATIONS
+   SUSMENTIONNÉES NE SOIENT PAS D'APPLICATION DANS VOTRE CAS. LES AUTRES
+   DROITS DONT VOUS JOUISSEZ PEUVENT VARIER D'UN RESSORT À L'AUTRE.
+
+   RÉSILIATION DE CE CONTRAT. Intel peut mettre fin au présent Contrat à
+   tout moment si vous n'en respectez pas les modalités. Le cas échéant,
+   vous êtes tenu de procéder à la destruction immédiate du logiciel ou
+   d'en renvoyer toutes les copies à Intel.
+
+   LOIS APPLICABLES. Les litiges nés du présent Contrat sont régis par les
+   lois de l'État de Californie, sans tenir compte des principes de
+   conflit de lois et de la Convention des Nations Unies sur les contrats
+   de vente de marchandises. Vous n'êtes pas autorisé à exporter le
+   Logiciel en violation des lois et des réglementations d'exportation
+   applicables. Intel n'est contraint par aucun autre contrat à moins que
+   celui-ci ne soit établi par écrit et signé par un représentant autorisé
+   d'Intel.
+
+   DROITS LIMITÉS DU GOUVERNEMENT. Le Logiciel est fourni avec des "DROITS
+   LIMITÉS". L'utilisation, la duplication ou la divulgation par le
+   gouvernement est soumise aux restrictions énoncées dans les clauses
+   FAR52.227-14, DFAR252.227-7013 et suivantes ou dans les législations
+   remplaçantes. L'utilisation du Logiciel par le gouvernement constitue
+   une reconnaissance des droits de propriété d'Intel sur le Logiciel. Le
+   sous-traitant ou le fabricant est Intel 2200 Mission College Blvd.,
+   Santa Clara, CA 95052.
+
+   J'accepte les termes du contrat de licence.
+
+   Je refuse les termes du contrat de licence.
+
+   Le téléchargement de fichier a été initié. Si le téléchargement ne
+   démarre pas, veuillez cliquer ici pour réessayer.
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Guide de l’utilisateur des cartes réseau Intel® Ethernet
+
+   Version : 24.2 (Les derniers) Date : 16/08/2019
+
+Téléchargements disponibles
+
+Adapter_User_Guide.zip
+
+   Indépendant du système d'exploitation
+
+   Langue : Anglais
+
+   Taille : 3,25 Mo
+
+   MD5 : e6eb4a2f848d12833c62a1782fd903fc
+
+   Télécharger
+
+Autres versions
+
+     * 24.1
+     * 24.0
+     * 23.5.2
+     * 23.5.1
+     * 23.5
+
+Description détaillée
+
+   [translate_ico.gif]
+
+   Généralités
+
+   Ce téléchargement contient la version 24,2 du Guide de l’utilisateur de
+   la carte réseau Intel® Ethernet.
+
+
+   Quoi de neuf
+
+   Veuillez consulter le fichier Lisezmoi. txt.
+
+
+   [translate_ico.gif] Ces informations sont composées de traductions
+   automatiques et humaines du contenu d'origine, mises à votre
+   disposition pour votre commodité. Ce contenu est fourni à titre
+   d'information uniquement et ne doit pas être considéré comme complet ni
+   fidèle à l'original.
+
+Notes de version
+
+     * Lisez-moi (txt)
+
+Ce téléchargement est également valide pour le ou les produits répertoriés
+ci-dessous.
+
+     * Carte de dérivation Ethernet Intel® pour serveurs X540-T2
+     * Carte relais Ethernet Intel® X520-SR2 pour serveurs
+     * Carte relais Intel® X520-LR2 pour serveurs
+     * Carte réseau 2 ports Intel® Gigabit EF Server
+     * Carte réseau 2 ports Intel® Gigabit ET Server
+     * Carte réseau 2 ports Intel® PRO/1000 MF pour serveurs
+     * Carte réseau 2 ports Intel® PRO/1000 MT pour serveurs
+     * Carte réseau 2 ports Intel® PRO/1000 PF pour serveurs
+     * Carte réseau 2 ports Intel® PRO/1000 PT pour serveurs
+     * Carte réseau 4 ports « Low profile » Intel® PRO/1000 PT pour
+       serveurs
+     * Carte réseau 4 ports Intel® Gigabit ET2 pour serveurs
+     * Carte réseau 4 ports Intel® PRO/1000 MT pour serveurs
+     * Carte réseau 4 ports Intel® PRO/1000 PT Server
+     * Carte réseau 4 ports Intel® VT Server
+     * Carte réseau convergé Ethernet Intel® X520-LR1
+     * Carte réseau convergé Ethernet Intel® X520-QDA1
+     * Carte réseau convergé Ethernet Intel® X520-SR1
+     * Carte réseau convergé Ethernet Intel® X520-SR2
+     * Carte réseau convergent Ethernet Intel® X520-DA1
+     * Carte réseau convergent Ethernet Intel® X520-DA2
+     * Carte réseau convergent Ethernet Intel® X520-T2
+     * Carte réseau convergent Ethernet Intel® X540-T1
+     * Carte réseau convergent Ethernet Intel® X540-T2
+     * Carte réseau convergent Ethernet Intel® X550-T1
+     * Carte réseau convergent Ethernet Intel® X550-T2
+     * Carte réseau convergent Ethernet Intel® X710-DA2
+     * Carte réseau convergent Ethernet Intel® X710-DA4
+     * Carte réseau convergent Ethernet Intel® X710-T4
+     * Carte réseau convergent Ethernet Intel® XL710-QDA1
+     * Carte réseau convergent Ethernet Intel® XL710-QDA2
+     * Carte réseau Ethernet Intel® I340-T4 pour serveurs
+     * Carte réseau Ethernet Intel® X520-DA2 pour serveurs
+     * Carte réseau Ethernet Intel® X710-DA2 pour serveurs pour OCP
+     * Carte réseau Ethernet Intel® X722-DA2
+     * Carte réseau Ethernet Intel® X722-DA4
+     * Carte réseau Ethernet Intel® XXV710-DA1
+     * Carte réseau Ethernet Intel® XXV710-DA1 pour OCP
+     * Carte réseau Ethernet Intel® XXV710-DA2
+     * Carte réseau Ethernet Intel® XXV710-DA2 pour OCP
+     * Carte réseau Intel® Gigabit CT Desktop
+     * Carte réseau Intel® I340-F4 pour serveurs
+     * Carte réseau Intel® PRO/1000 CT
+     * Carte réseau Intel® PRO/1000 F pour serveurs
+     * Carte réseau Intel® PRO/1000 MF pour serveurs
+     * Carte réseau Intel® PRO/1000 MF pour serveurs (LX)
+     * Carte réseau Intel® PRO/1000 MT Desktop
+     * Carte réseau Intel® PRO/1000 pour serveurs
+     * Carte réseau Intel® PRO/1000 PT Desktop
+     * Carte réseau Intel® PRO/1000 T Desktop
+     * Carte réseau Intel® PRO/1000 T pour serveurs
+     * Carte réseau Intel® PRO/1000 XF pour serveurs
+     * Carte réseau Intel® PRO/1000 XT pour serveurs
+     * Carte réseau ultraplate Intel® PRO/1000 XT pour serveurs
+     * Carte serveur Ethernet Intel® I210-T1
+     * Carte serveur Ethernet Intel® I350-F2
+     * Carte serveur Ethernet Intel® I350-F4
+     * Carte serveur Ethernet Intel® I350-T2
+     * Carte serveur Ethernet Intel® I350-T2V2
+     * Carte serveur Ethernet Intel® I350-T4V2
+     * Carte serveur Ethernet Intel® X520-DA1 pour Open Compute Project
+     * Carte serveur Ethernet Intel® X520-DA2 pour Open Compute Project
+     * Cartes réseau Intel® PRO/1000 GT Desktop
+     * Cartes SAN IP Intel® PRO/1000 T
+     * Connexion Ethernet Intel® C827-AM1
+     * Connexion Ethernet Intel® C827-IM1
+     * Connexion Ethernet Intel® I217-LM
+     * Connexion Ethernet Intel® I217-V
+     * Connexion Ethernet Intel® I218-LM
+     * Connexion Ethernet Intel® I218-V
+     * Connexion Ethernet Intel® I219-LM
+     * Connexion Ethernet Intel® I219-V
+     * Connexion Ethernet Intel® X557-AT
+     * Connexion Ethernet Intel® X557-AT2
+     * Connexion Ethernet Intel® X557-AT4
+     * Connexion réseau Ethernet Intel® 347-AT4
+     * Connexion réseau Intel® PRO/1000 PM
+     * Contrôleur 10 Gigabit Ethernet Intel® 82597EX
+     * Contrôleur 10 Gigabit Ethernet Intel® 82598EB
+     * Contrôleur 10 Gigabit Ethernet Intel® 82599EB
+     * Contrôleur 10 Gigabit Ethernet Intel® 82599EN
+     * Contrôleur 10 Gigabit Ethernet Intel® 82599ES
+     * Contrôleur Ethernet Intel® I210-AS
+     * Contrôleur Ethernet Intel® I210-AT
+     * Contrôleur Ethernet Intel® I210-CS
+     * Contrôleur Ethernet Intel® I210-IS
+     * Contrôleur Ethernet Intel® I210-IT
+     * Contrôleur Ethernet Intel® I211-AT
+     * Contrôleur Ethernet Intel® I350-AM2
+     * Contrôleur Ethernet Intel® I350-AM4
+     * Contrôleur Ethernet Intel® I350-BT2
+     * Contrôleur Ethernet Intel® X540-AT2
+     * Contrôleur Ethernet Intel® X540-BT2
+     * Contrôleur Ethernet Intel® X550-AT
+     * Contrôleur Ethernet Intel® X550-AT2
+     * Contrôleur Ethernet Intel® X550-BT2
+     * Contrôleur Ethernet Intel® X710-AM2
+     * Contrôleur Ethernet Intel® X710-BM2
+     * Contrôleur Ethernet Intel® XL710-AM1
+     * Contrôleur Ethernet Intel® XL710-AM2
+     * Contrôleur Ethernet Intel® XL710-BM1
+     * Contrôleur Ethernet Intel® XL710-BM2
+     * Contrôleur Ethernet multihôtes Intel® FM10420
+     * Contrôleur Ethernet multihôtes Intel® FM10840
+     * Contrôleur Gigabit Ethernet Intel® 82540EM
+     * Contrôleur Gigabit Ethernet Intel® 82540EP
+     * Contrôleur Gigabit Ethernet Intel® 82541EPI
+     * Contrôleur Gigabit Ethernet Intel® 82541ER
+     * Contrôleur Gigabit Ethernet Intel® 82541GI
+     * Contrôleur Gigabit Ethernet Intel® 82543GC
+     * Contrôleur Gigabit Ethernet Intel® 82544EI
+     * Contrôleur Gigabit Ethernet Intel® 82544GC
+     * Contrôleur Gigabit Ethernet Intel® 82545EM
+     * Contrôleur Gigabit Ethernet Intel® 82545GM
+     * Contrôleur Gigabit Ethernet Intel® 82546EB
+     * Contrôleur Gigabit Ethernet Intel® 82546GB
+     * Contrôleur Gigabit Ethernet Intel® 82547GI
+     * Contrôleur Gigabit Ethernet Intel® 82567
+     * Contrôleur Gigabit Ethernet Intel® 82571EB
+     * Contrôleur Gigabit Ethernet Intel® 82572EI
+     * Contrôleur Gigabit Ethernet Intel® 82573E
+     * Contrôleur Gigabit Ethernet Intel® 82573L
+     * Contrôleur Gigabit Ethernet Intel® 82573V
+     * Contrôleur Gigabit Ethernet Intel® 82574IT
+     * Contrôleur Gigabit Ethernet Intel® 82574L
+     * Contrôleur Gigabit Ethernet Intel® 82575EB
+     * Contrôleur Gigabit Ethernet Intel® 82576EB
+     * Contrôleur Gigabit Ethernet Intel® 82576NS
+     * Contrôleur Gigabit Ethernet Intel® 82580DB
+     * Contrôleur Gigabit Ethernet Intel® 82580EB
+     * Contrôleur Gigabit Ethernet Intel® 82583V
+     * Contrôleur Gigabit Ethernet PHY Intel® 82579LM
+     * Contrôleur Gigabit Ethernet PHY Intel® 82579V
+     * Intel® 82567LM Gigabit Ethernet Phy
+     * Intel® 82567V Gigabit Ethernet Phy
+     * Intel® Ethernet Connection XL827-AM1
+     * Intel® Ethernet Controller I210-CL
+     * Intel® Ethernet Controller XXV710-AM1
+     * Intel® Ethernet Controller XXV710-AM2
+     * Intel® Ethernet Server Adapter XL710-QDA1 for Open Compute Project
+     * Intel® Ethernet Server Adapter XL710-QDA2 for Open Compute Project
+     * PHY Gigabit Ethernet Intel® 82563EB
+     * PHY Gigabit Ethernet Intel® 82564EB
+     * PHY Gigabit Ethernet Intel® 82566DC
+     * PHY Gigabit Ethernet Intel® 82566DM
+     * PHY Gigabit Ethernet Intel® 82566MC
+     * PHY Gigabit Ethernet Intel® 82566MM
+     * PHY Gigabit Ethernet Intel® 82577LM
+     * PHY Gigabit Ethernet Intel® 82578DC
+     * PHY Gigabit Ethernet Intel® 82578DM
+     * PHY Gigabit Ethernet PHY Intel® 82577LC
+     * Sun Dual 10GbE PCIe 2.0 FEM*
+
+Contrat de licence logicielle Intel
+
+   X
+
+   Les termes de l'accord de licence du logiciel inclus avec tous les
+   logiciels que vous téléchargez contrôlent l'utilisation du logiciel.
+
+   This Agreement is in the English language only, which language shall be
+   controlling in all respects, and all versions of this Agreement in any
+   other language shall be for accommodation only and shall not be binding
+   on you or Intel. All communications and notices made or given pursuant
+   to this Agreement, and all documentation and support to be provided,
+   unless otherwise noted, shall be in the English language.
+
+   Le présent Accord est valide en anglais uniquement et seul l'anglais
+   contrôle tous les aspects de l'Accord. Toutes les autres langues sont
+   fournies pour vous faciliter la tâche et ne constituent en aucun cas un
+   contrat avec Intel. Sauf indication contraire, toutes les
+   communications et tous les avis en relation avec le présent Accord,
+   ainsi que la documentation et l'assistance fournies, seront en anglais.
+   CONTRAT DE LICENCE DU LOGICIEL INTEL
+
+   IMPORTANT – À LIRE AVANT LA COPIE, L’INSTALLATION OU L’UTILISATION.
+   Veuillez ne pas utiliser ou charger ce logiciel et tout programme
+   associé (regroupés sous la désignation "Logiciel") tant que vous n'avez
+   pas lu attentivement les termes et conditions suivantes. L'utilisation
+   ou le chargement du logiciel constitue une acceptation des termes du
+   présent Contrat. Si vous êtes en désaccord avec les termes de ce
+   contrat, veuillez ne pas installer ou utiliser le Logiciel.
+
+   LICENCES : Veuillez noter : - Si vous êtes un administrateur réseau, la
+   "Licence de site" ci-dessous s'appliquera. - Si vous êtes un
+   utilisateur final, la "Licence utilisateur unique" s'appliquera. - Si
+   vous êtes un fabricant OEM, la "Licence OEM" s'appliquera.
+
+   LICENCE DE SITE. Vous êtes autorisé à copier le Logiciel sur les
+   ordinateurs de votre organisation pour utilisation par cette dernière,
+   ainsi qu’à effectuer un nombre raisonnable de copies de sauvegarde du
+   Logiciel, sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE UTILISATEUR UNIQUE. Vous êtes autorisé à copier le Logiciel sur
+   un seul ordinateur pour votre usage personnel et non commercial, ainsi
+   qu’à effectuer une copie de sauvegarde du Logiciel, sous réserve des
+   conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE OEM : Vous n'êtes autorisé à reproduire ou distribuer le
+   Logiciel que par intégration ou incorporation dans votre produit ou au
+   titre de la mise à jour d'une maintenance de Logiciel autonome pour des
+   utilisateurs finaux existants de vos produits, à l'exclusion de tous
+   autres produits autonomes et sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous ne
+   pouvez distribuer le Logiciel auprès de vos clients qu'en vertu d'un
+   contrat de licence établi par écrit. Ce contrat de licence peut prendre
+   la forme d'un contrat de licence basé sur un "accord implicite par
+   ouverture de l'emballage scellé". Cette licence devra, pour le moins,
+   protéger les droits de propriété d'Intel sur le Logiciel. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   AUCUN AUTRE DROIT. Sauf disposition expressément stipulée dans le
+   présent contrat, Intel ne vous accorde, expressément ou implicitement,
+   aucun droit ni licence relativement à des informations propriétaires ou
+   brevets, droits d'auteur, topographies de circuit intégré, marques,
+   secrets commerciaux ou autres droits de propriété intellectuelle
+   détenus ou contrôlés par Intel.
+
+   PROPRIÉTÉ DU LOGICIEL ET COPYRIGHT (DROITS D'AUTEUR). Intel ou ses
+   fournisseurs demeurent les propriétaires de toutes les copies du
+   Logiciel. Le logiciel est soumis à droits d'auteur et protégé par les
+   lois des États-Unis d'Amérique et d'autres pays ainsi que par les
+   dispositions de traités internationaux. Vous n'êtes pas autorisé à ôter
+   les mentions de réserve du logiciel. Intel peut modifier, à tout moment
+   et sans préavis, le Logiciel ou les éléments qui y sont mentionnés,
+   mais n'est pas tenu de fournir des prestations d'assistance ou de mise
+   à jour sur le Logiciel ou ces éléments. Sauf disposition contraire
+   expressément stipulée, Intel n'accorde aucun droit, explicite ou
+   implicite, sous les brevets, copyrights, marques déposées ou autres
+   droits de propriété intellectuelle d'Intel. Vous ne pouvez transférer
+   le logiciel que si le destinataire convient d'être entièrement lié par
+   les dispositions du présent Contrat et que si vous ne conservez aucune
+   copie du logiciel.
+
+   GARANTIE LIMITÉE DU SUPPORT. Si le Logiciel a été fourni par Intel sur
+   un support physique, Intel garantit que ledit support sera exempt de
+   tout défaut de matériel notable pendant une période de quatre-vingt-dix
+   (90) jours à compter de la livraison par Intel. En cas de défaut de
+   support, vous êtes invité à renvoyer ce dernier à Intel pour un
+   remplacement ou une autre livraison du logiciel, à la discrétion
+   d'Intel.
+
+   EXCLUSION D’AUTRES GARANTIES. SAUF DANS LA MESURE PRÉVUE CI-DESSUS, LE
+   LOGICIEL EST FOURNI "EN L’ÉTAT", SANS GARANTIE EXPLICITE NI IMPLICITE
+   D’AUCUNE SORTE, Y COMPRIS TOUTE GARANTIE DE QUALITÉ MARCHANDE, DE
+   RESPECT DES DROITS DE PROPRIÉTÉ INTELLECTUELLE OU D’ADAPTATION À UN
+   USAGE PARTICULIER. Intel ne garantit pas l'exactitude ni l'exhaustivité
+   des informations, textes, graphiques, liens ou autres éléments contenus
+   dans le Logiciel, et n'assume aucune responsabilité à cet égard.
+
+   LIMITATION DE RESPONSABILITÉ. INTEL OU SES FOURNISSEURS NE SONT EN
+   AUCUN CAS RESPONSABLES DE QUELQUE DOMMAGE QUE CE SOIT (Y COMPRIS, MAIS
+   SANS QUE CETTE ÉNUMÉRATION SOIT LIMITATIVE, LES PERTES DE BÉNÉFICE,
+   L'INTERRUPTION D’ACTIVITÉ OU LES PERTES D'INFORMATIONS) DÉRIVANT DE
+   L'UTILISATION DE CE PRODUIT OU DE L'INCAPACITÉ DE L'UTILISER, MÊME SI
+   INTEL A ÉTÉ NOTIFIÉ DE LA POSSIBILITÉ D'UN TEL DOMMAGE. CERTAINES
+   JURIDICTIONS INTERDISENT L'EXCLUSION OU LA LIMITATION DE LA
+   RESPONSABILITÉ POUR LES GARANTIES TACITES OU LES DOMMAGES INDIRECTS OU
+   SECONDAIRES. IL SE PEUT PAR CONSÉQUENT QUE LES LIMITATIONS
+   SUSMENTIONNÉES NE SOIENT PAS D'APPLICATION DANS VOTRE CAS. LES AUTRES
+   DROITS DONT VOUS JOUISSEZ PEUVENT VARIER D'UN RESSORT À L'AUTRE.
+
+   RÉSILIATION DE CE CONTRAT. Intel peut mettre fin au présent Contrat à
+   tout moment si vous n'en respectez pas les modalités. Le cas échéant,
+   vous êtes tenu de procéder à la destruction immédiate du logiciel ou
+   d'en renvoyer toutes les copies à Intel.
+
+   LOIS APPLICABLES. Les litiges nés du présent Contrat sont régis par les
+   lois de l'État de Californie, sans tenir compte des principes de
+   conflit de lois et de la Convention des Nations Unies sur les contrats
+   de vente de marchandises. Vous n'êtes pas autorisé à exporter le
+   Logiciel en violation des lois et des réglementations d'exportation
+   applicables. Intel n'est contraint par aucun autre contrat à moins que
+   celui-ci ne soit établi par écrit et signé par un représentant autorisé
+   d'Intel.
+
+   DROITS LIMITÉS DU GOUVERNEMENT. Le Logiciel est fourni avec des "DROITS
+   LIMITÉS". L'utilisation, la duplication ou la divulgation par le
+   gouvernement est soumise aux restrictions énoncées dans les clauses
+   FAR52.227-14, DFAR252.227-7013 et suivantes ou dans les législations
+   remplaçantes. L'utilisation du Logiciel par le gouvernement constitue
+   une reconnaissance des droits de propriété d'Intel sur le Logiciel. Le
+   sous-traitant ou le fabricant est Intel 2200 Mission College Blvd.,
+   Santa Clara, CA 95052.
+
+   J'accepte les termes du contrat de licence.
+
+   Je refuse les termes du contrat de licence.
+
+   Le téléchargement de fichier a été initié. Si le téléchargement ne
+   démarre pas, veuillez cliquer ici pour réessayer.
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Téléchargements pour Publications de la suite Intel® True Scale Fabric
+
+   Filtrer par
+   (BUTTON) Système d'exploitation
+     * Tout système d'exploitation
+     * Indépendant du système d'exploitation
+
+   Description Type système d'exploitation Version Date
+   Publications sur le tissu à l’échelle® Intel
+
+   Publications de la suite Intel® True Scale Fabric v 7.4.0.0.21
+   Documentation Indépendant du système d'exploitation 7.4.0.0.21
+   Les derniers 24/07/2015
+
+   Afficher plus Chargement en cours… Aucun autre résultat
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Recherche dans les téléchargements
+
+   Filtrer par
+   (BUTTON) Système d'exploitation
+     * Tout système d'exploitation
+     * Indépendant du système d'exploitation
+     * Windows Server 2012*
+     * Windows Server 2008*
+     * Windows Server 2003*
+     * Windows 2000*
+     * Environnement de préinstallation Windows*
+     * Red Hat Linux*
+     * Red Hat Linux 8.0*
+     * SUSE Linux*
+     * DOS
+
+   Description Type système d'exploitation Version Date
+   Le BIOS de la famille de processeurs Intel® Server S9200WK pour
+   serveurs et la mise à jour du micrologiciel de l’utilitaire Intel® One
+   Boot Flash Update (Intel® OFU) et WinPE *
+
+   Paquet de mise à jour du BIOS et du micrologiciel pour la famille de
+   produits Intel® Server System S9200WK pour serveurs (0,22).
+   BIOS Indépendant du système d'exploitation 0.22
+   Les derniers 12/09/2019
+   Paquet de mise à jour système UEFI de la famille de systèmes serveur
+   Intel® S9200WK pour serveurs (SUP)
+
+   Fournit le package de mise à jour du BIOS et du micrologiciel de la
+   famille de systèmes serveurs Intel® S9200WK pour serveurs pour UEFI
+   (2X010062).
+   BIOS Indépendant du système d'exploitation 2X010062
+   Les derniers 12/09/2019
+   Famille des cartes mères Intel® S2600BP pour serveurs BioS et Firmware
+   Update Package pour UEFI
+
+   Cet enregistrement de téléchargement contient le bioS et le paquet de
+   mise à jour du firmware pour la Famille des cartes mères Intel® S2600BP
+   pour serveurs (à l'exclusion de HNS2600BPBLC, HNS2600BPBLC24 pour UEFI)
+   (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 15/05/2019
+   Intel® Server Board S2600WFTF famille BIOS et package de mise à jour du
+   firmware pour UEFI
+
+   Fournit Intel® Server Board S2600WFTF famille BIOS et le package de
+   mise à jour du firmware pour UEFI.
+   Pilotes Indépendant du système d'exploitation R0104
+   Les derniers 01/05/2019
+   Famille des cartes mères Intel® S2600WF pour serveurs BIOS et Firmware
+   Update pour Intel® One Boot Flash Update (Intel® OFU) Utility et WinPE
+
+   Cet enregistrement de téléchargement contient le bioS et le paquet de
+   mise à jour du firmware pour la Famille des cartes mères Intel® S2600WF
+   pour serveurs pour Intel® One Boot Flash Update (Intel® OFU) Utility et
+   WinPEMD (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 24/04/2019
+   Famille des cartes mères Intel® S2600ST pour serveurs BIOS et Firmware
+   Update pour Intel® One Boot Flash Update (Intel® OFU) Utility et WinPE
+
+   Famille des cartes mères Intel® S2600ST pour serveurs BIOS et mise à
+   jour du firmware pour Intel® One Boot Flash Update (Intel® OFU) Utility
+   et WinPEMD (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 24/04/2019
+   Famille des cartes mères Intel® S2600TP pour serveurs Package de mise à
+   jour du micrologiciel pour EFI
+
+   Fournit les mises à jour du BIOS, du firmware ME, du microprogramme BMC
+   et de FRUSDR. (R 01.01.0028)
+   Microprogramme Indépendant du système d'exploitation R01.01.0028
+   Les derniers 23/04/2019
+   Intel® Server Board S2600WT BIOS et mise à jour du firmware pour Intel®
+   One Boot Flash Update (Intel® OFU), WinPE *
+
+   Cet enregistrement de téléchargement contient les mises à jour Intel®
+   Server Board S2600WT BIOS, ME Firmware, BMC firmware et FRUSDR.
+   (01.01.0028)
+   Microprogramme Indépendant du système d'exploitation 01.01.0028
+   Les derniers 23/04/2019
+   Intel® Server Board famille S2600CW BIOS et mise à jour du firmware
+   pour Intel® One Boot Flash Update (Intel® OFU) et WinPE *
+
+   Cet enregistrement de téléchargement contient les mises à jour de la
+   famille Intel® Server Board S2600CW BIOS, ME Firmware, BMC firmware et
+   FRUSDR. (1.01.0028)
+   BIOS Indépendant du système d'exploitation 1.01.0028
+   Les derniers 23/04/2019
+   Intel® Server Board S2600BP Family BIOS and Firmware Update for Intel®
+   One Boot Flash Update (Intel® OFU) and WinPE*
+
+   Ce téléchargement contient le package de mise à jour du BIOS et du
+   micrologiciel de la famille de cartes mères Intel® pour serveurs
+   S2600BP pour serveurs pour Intel® One Boot Flash Update (Intel® OFU) et
+   WinPE *. (00.01.0016)
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 18/04/2019
+   Kit de mise à jour du BIOS de la famille de cartes mères Intel® pour
+   serveurs S2600WF pour serveurs et du micrologiciel pour UEFI
+
+   Cet enregistrement de téléchargement contient le package de mise à jour
+   du BIOS et du micrologiciel de la famille de cartes mères Intel® pour
+   serveurs S2600WF pour serveurs pour UEFI (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 02/04/2019
+   Famille des cartes mères Intel® S2600ST pour serveurs BioS et Firmware
+   Update Package pour UEFI
+
+   Cet enregistrement de téléchargement contient le bioS et le paquet de
+   mise à jour du firmware pour la Famille des cartes mères Intel® S2600ST
+   pour serveurs pour UEFI (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 02/04/2019
+   Intel® Server Board S2600WT BIOS et Firmware Update pour EFI
+
+   Fournit des mises à jour BIOS, ME Firmware, BMC Firmware et FRUSDR.
+   (R01.01.0028)
+   Microprogramme Indépendant du système d'exploitation R01.01.0028
+   Les derniers 01/04/2019
+   Famille des cartes mères Intel® S2600KP pour serveurs Package de mise à
+   jour du micrologiciel pour EFI
+
+   Fournit les mises à jour du BIOS, du firmware ME, du microprogramme BMC
+   et de FRUSDR. (R 01.01.0028
+   Microprogramme Indépendant du système d'exploitation R01.01.0028
+   Les derniers 01/04/2019
+   Package de mise à jour du microprogramme Intel® Server Board S2600CW
+   pour EFI
+
+   Fournit les mises à jour du BIOS, du firmware ME, du microprogramme BMC
+   et de FRUSDR. (1.01.0028)
+   BIOS Indépendant du système d'exploitation 1.01.0028
+   Les derniers 01/04/2019
+   Intel® Server Board S1200SP BIOS et mise à jour du firmware pour Intel®
+   One Boot Flash Update (Intel® OFU) Utility et WinPE *
+
+   Cet enregistrement de téléchargement contient le package de mise à jour
+   du BIOS et du firmware pour la Cartes mères Intel® S1200SP pour
+   serveurs pour l'utilitaire Intel® One Boot Flash Update et WinPE *.
+   (03.01.0042)
+   BIOS Indépendant du système d'exploitation 03.01.0042
+   Les derniers 21/02/2019
+   Package de mise à jour du BIOS et du microprogramme Intel® Server Board
+   S1200SP pour EFI
+
+   Cet enregistrement de téléchargement contient le BIOS et le package de
+   mise à jour du firmware pour la Cartes mères Intel® S1200SP pour
+   serveurs pour EFI (03.01.0042) avec la Assistancedes extensions Intel®
+   Logiciels Guard (Intel® SGX).
+   BIOS Indépendant du système d'exploitation 03.01.0042
+   Les derniers 06/02/2019
+   Carte mère Intel® S7200AP pour serveurs Package de mise à jour du
+   micrologiciel de famille de produits
+
+   Carte mère Intel® S7200AP pour serveurs et S7200APR package de mise à
+   jour du firmware de la famille de produits pour Intel® une mise à jour
+   Flash de démarrage (Intel® OFU) (r 01.03.0021).
+   Microprogramme Indépendant du système d'exploitation R01.03.0021
+   Les derniers 03/12/2018
+   Carte mère Intel® S7200AP pour serveurs Package de mise à jour du
+   firmware de la famille de produits pour UEFI *
+
+   Ce téléchargement installe Carte mère Intel® S7200AP pour serveurs et
+   S7200APR BIOS de la famille et mise à jour du firmware pour UEFI * (r
+   01.03.0021).
+   BIOS Indépendant du système d'exploitation R01.03.0021
+   Les derniers 03/12/2018
+   Mise à jour du package de mise à niveau du micrologiciel pour les
+   Cartes mères pour serveurs EFI Intel® et les Systèmes serveur Intel®
+   basés sur le chipset Intel® 60X
+
+   Ce téléchargement contient uniquement le package de mise à jour du BIOS
+   pour les Cartes mères pour serveurs Intel® et Intel® Systèmes serveur
+   basé sur le chipset Intel® 60X. (R 02.06.0007)
+   Microprogramme Indépendant du système d'exploitation BIOS R02.06.0007
+   Les derniers 07/11/2018
+   Afficher plus Chargement en cours… Aucun autre résultat
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+Pilotes et logiciels
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Mettre automatiquement à jour vos pilotes
+
+   Identifiez vos produits et obtenez des pilotes et mises à jour
+   logicielles pour votre matériel Intel.
+   Démarrer
+
+Choisissez votre produit
+
+   Pilotes graphiques Réseaux sans fil Produits Ethernet Produits pour
+   serveurs Mini PC Cartes mères pour PC de bureau Processeurs Mémoire et
+   stockage
+
+Téléchargements fréquents
+
+   Intel® System Support Utility pour Windows *
+   ® Intel® Wireless Bluetooth pour Windows® 10
+   Interface utilisateur et pilote Intel® Rapid Storage Technology (Intel®
+   RST)
+   Utilitaire d’identification du processeur Intel®-version Windows *
+   Pilote de plateforme Windows universelle (UWP) Intel® RealSense™ série
+   D400 pour Windows® 10
+   Outil de détection INTEL-SA-00086
+   Demander à la communauté d'assistance
+
+Demander à la communauté d'assistance
+
+   Experts du domaine, prêts à vous aider
+   Caractéristiques des produits
+
+Caractéristiques des produits
+
+   Toutes les informations dont vous avez besoin au bout des doigts
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Intel® System Support Utility pour Windows *
+
+   Version : 2.5.0.15 (Les derniers) Date : 13/09/2018
+
+Téléchargements disponibles
+
+SSU.exe
+
+   Indépendant du système d'exploitation
+   Windows 10*
+   Windows 10 32 bits*
+   Windows 10 64 bits*
+   Windows* 8.1
+   Windows* 8.1, 32 bits
+   Windows* 8.1, 64 bits
+   Windows 8*
+   Windows* 8, 32 bits
+   Windows* 8, 64 bits
+   Windows 7*
+   Windows* 7, 32 bits
+   Windows* 7, 64 bits
+   Windows Server 2016*
+   Windows* Server 2012 R2
+   Windows Server 2012*
+
+   Langue : Anglais
+
+   Taille : 0,37 Mo
+
+   MD5 : f92c542dc79a9df069e06b9f4d8c5b60
+
+   Télécharger
+
+Description détaillée
+
+   [translate_ico.gif]
+
+   Existe-t-il une version Linux * d' Intel® System Support Utility
+   (Intel® SSU)?
+
+   Oui, vous pouvez télécharger Intel SSU pour le système d’exploitation
+   Linux.
+
+   objet
+
+   Intel SSU analyse les informations du système et de l’appareil pour
+   faciliter le dépannage du Assistance client. Les informations peuvent
+   être consultées, enregistrées dans un fichier ou envoyées au Assistance
+   client via le Web.
+
+   Aucune information personnelle n’est collectée. Intel s’engage à
+   protéger votre vie privée. Voir l’avis de confidentialité d’Intel.
+
+   Consultez le fichier Readme pour plus d’informations, telles que les
+   nouveautés de cette version et les systèmes d’exploitation pris en
+   charge.
+
+   Sujets connexes
+     * Guide d’aide Intel® SSU
+     * Intel® SSU Foire aux questions
+
+   Consultez les notes de publication pour les instructions
+   d’installation, le matériel pris en charge, les nouveautés, les
+   corrections de bugs et les problèmes connus.
+   [translate_ico.gif] Ces informations sont composées de traductions
+   automatiques et humaines du contenu d'origine, mises à votre
+   disposition pour votre commodité. Ce contenu est fourni à titre
+   d'information uniquement et ne doit pas être considéré comme complet ni
+   fidèle à l'original.
+
+Notes de version
+
+     * Notes de version (txt)
+
+Ce téléchargement est également valide pour le ou les produits répertoriés
+ci-dessous.
+
+     * Intel® System Support Utility
+
+Contrat de licence logicielle Intel
+
+   X
+
+   Les termes de l'accord de licence du logiciel inclus avec tous les
+   logiciels que vous téléchargez contrôlent l'utilisation du logiciel.
+
+   This Agreement is in the English language only, which language shall be
+   controlling in all respects, and all versions of this Agreement in any
+   other language shall be for accommodation only and shall not be binding
+   on you or Intel. All communications and notices made or given pursuant
+   to this Agreement, and all documentation and support to be provided,
+   unless otherwise noted, shall be in the English language.
+
+   Le présent Accord est valide en anglais uniquement et seul l'anglais
+   contrôle tous les aspects de l'Accord. Toutes les autres langues sont
+   fournies pour vous faciliter la tâche et ne constituent en aucun cas un
+   contrat avec Intel. Sauf indication contraire, toutes les
+   communications et tous les avis en relation avec le présent Accord,
+   ainsi que la documentation et l'assistance fournies, seront en anglais.
+   CONTRAT DE LICENCE DU LOGICIEL INTEL
+
+   IMPORTANT – À LIRE AVANT LA COPIE, L’INSTALLATION OU L’UTILISATION.
+   Veuillez ne pas utiliser ou charger ce logiciel et tout programme
+   associé (regroupés sous la désignation "Logiciel") tant que vous n'avez
+   pas lu attentivement les termes et conditions suivantes. L'utilisation
+   ou le chargement du logiciel constitue une acceptation des termes du
+   présent Contrat. Si vous êtes en désaccord avec les termes de ce
+   contrat, veuillez ne pas installer ou utiliser le Logiciel.
+
+   LICENCES : Veuillez noter : - Si vous êtes un administrateur réseau, la
+   "Licence de site" ci-dessous s'appliquera. - Si vous êtes un
+   utilisateur final, la "Licence utilisateur unique" s'appliquera. - Si
+   vous êtes un fabricant OEM, la "Licence OEM" s'appliquera.
+
+   LICENCE DE SITE. Vous êtes autorisé à copier le Logiciel sur les
+   ordinateurs de votre organisation pour utilisation par cette dernière,
+   ainsi qu’à effectuer un nombre raisonnable de copies de sauvegarde du
+   Logiciel, sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE UTILISATEUR UNIQUE. Vous êtes autorisé à copier le Logiciel sur
+   un seul ordinateur pour votre usage personnel et non commercial, ainsi
+   qu’à effectuer une copie de sauvegarde du Logiciel, sous réserve des
+   conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE OEM : Vous n'êtes autorisé à reproduire ou distribuer le
+   Logiciel que par intégration ou incorporation dans votre produit ou au
+   titre de la mise à jour d'une maintenance de Logiciel autonome pour des
+   utilisateurs finaux existants de vos produits, à l'exclusion de tous
+   autres produits autonomes et sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous ne
+   pouvez distribuer le Logiciel auprès de vos clients qu'en vertu d'un
+   contrat de licence établi par écrit. Ce contrat de licence peut prendre
+   la forme d'un contrat de licence basé sur un "accord implicite par
+   ouverture de l'emballage scellé". Cette licence devra, pour le moins,
+   protéger les droits de propriété d'Intel sur le Logiciel. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   AUCUN AUTRE DROIT. Sauf disposition expressément stipulée dans le
+   présent contrat, Intel ne vous accorde, expressément ou implicitement,
+   aucun droit ni licence relativement à des informations propriétaires ou
+   brevets, droits d'auteur, topographies de circuit intégré, marques,
+   secrets commerciaux ou autres droits de propriété intellectuelle
+   détenus ou contrôlés par Intel.
+
+   PROPRIÉTÉ DU LOGICIEL ET COPYRIGHT (DROITS D'AUTEUR). Intel ou ses
+   fournisseurs demeurent les propriétaires de toutes les copies du
+   Logiciel. Le logiciel est soumis à droits d'auteur et protégé par les
+   lois des États-Unis d'Amérique et d'autres pays ainsi que par les
+   dispositions de traités internationaux. Vous n'êtes pas autorisé à ôter
+   les mentions de réserve du logiciel. Intel peut modifier, à tout moment
+   et sans préavis, le Logiciel ou les éléments qui y sont mentionnés,
+   mais n'est pas tenu de fournir des prestations d'assistance ou de mise
+   à jour sur le Logiciel ou ces éléments. Sauf disposition contraire
+   expressément stipulée, Intel n'accorde aucun droit, explicite ou
+   implicite, sous les brevets, copyrights, marques déposées ou autres
+   droits de propriété intellectuelle d'Intel. Vous ne pouvez transférer
+   le logiciel que si le destinataire convient d'être entièrement lié par
+   les dispositions du présent Contrat et que si vous ne conservez aucune
+   copie du logiciel.
+
+   GARANTIE LIMITÉE DU SUPPORT. Si le Logiciel a été fourni par Intel sur
+   un support physique, Intel garantit que ledit support sera exempt de
+   tout défaut de matériel notable pendant une période de quatre-vingt-dix
+   (90) jours à compter de la livraison par Intel. En cas de défaut de
+   support, vous êtes invité à renvoyer ce dernier à Intel pour un
+   remplacement ou une autre livraison du logiciel, à la discrétion
+   d'Intel.
+
+   EXCLUSION D’AUTRES GARANTIES. SAUF DANS LA MESURE PRÉVUE CI-DESSUS, LE
+   LOGICIEL EST FOURNI "EN L’ÉTAT", SANS GARANTIE EXPLICITE NI IMPLICITE
+   D’AUCUNE SORTE, Y COMPRIS TOUTE GARANTIE DE QUALITÉ MARCHANDE, DE
+   RESPECT DES DROITS DE PROPRIÉTÉ INTELLECTUELLE OU D’ADAPTATION À UN
+   USAGE PARTICULIER. Intel ne garantit pas l'exactitude ni l'exhaustivité
+   des informations, textes, graphiques, liens ou autres éléments contenus
+   dans le Logiciel, et n'assume aucune responsabilité à cet égard.
+
+   LIMITATION DE RESPONSABILITÉ. INTEL OU SES FOURNISSEURS NE SONT EN
+   AUCUN CAS RESPONSABLES DE QUELQUE DOMMAGE QUE CE SOIT (Y COMPRIS, MAIS
+   SANS QUE CETTE ÉNUMÉRATION SOIT LIMITATIVE, LES PERTES DE BÉNÉFICE,
+   L'INTERRUPTION D’ACTIVITÉ OU LES PERTES D'INFORMATIONS) DÉRIVANT DE
+   L'UTILISATION DE CE PRODUIT OU DE L'INCAPACITÉ DE L'UTILISER, MÊME SI
+   INTEL A ÉTÉ NOTIFIÉ DE LA POSSIBILITÉ D'UN TEL DOMMAGE. CERTAINES
+   JURIDICTIONS INTERDISENT L'EXCLUSION OU LA LIMITATION DE LA
+   RESPONSABILITÉ POUR LES GARANTIES TACITES OU LES DOMMAGES INDIRECTS OU
+   SECONDAIRES. IL SE PEUT PAR CONSÉQUENT QUE LES LIMITATIONS
+   SUSMENTIONNÉES NE SOIENT PAS D'APPLICATION DANS VOTRE CAS. LES AUTRES
+   DROITS DONT VOUS JOUISSEZ PEUVENT VARIER D'UN RESSORT À L'AUTRE.
+
+   RÉSILIATION DE CE CONTRAT. Intel peut mettre fin au présent Contrat à
+   tout moment si vous n'en respectez pas les modalités. Le cas échéant,
+   vous êtes tenu de procéder à la destruction immédiate du logiciel ou
+   d'en renvoyer toutes les copies à Intel.
+
+   LOIS APPLICABLES. Les litiges nés du présent Contrat sont régis par les
+   lois de l'État de Californie, sans tenir compte des principes de
+   conflit de lois et de la Convention des Nations Unies sur les contrats
+   de vente de marchandises. Vous n'êtes pas autorisé à exporter le
+   Logiciel en violation des lois et des réglementations d'exportation
+   applicables. Intel n'est contraint par aucun autre contrat à moins que
+   celui-ci ne soit établi par écrit et signé par un représentant autorisé
+   d'Intel.
+
+   DROITS LIMITÉS DU GOUVERNEMENT. Le Logiciel est fourni avec des "DROITS
+   LIMITÉS". L'utilisation, la duplication ou la divulgation par le
+   gouvernement est soumise aux restrictions énoncées dans les clauses
+   FAR52.227-14, DFAR252.227-7013 et suivantes ou dans les législations
+   remplaçantes. L'utilisation du Logiciel par le gouvernement constitue
+   une reconnaissance des droits de propriété d'Intel sur le Logiciel. Le
+   sous-traitant ou le fabricant est Intel 2200 Mission College Blvd.,
+   Santa Clara, CA 95052.
+
+   J'accepte les termes du contrat de licence.
+
+   Je refuse les termes du contrat de licence.
+
+   Le téléchargement de fichier a été initié. Si le téléchargement ne
+   démarre pas, veuillez cliquer ici pour réessayer.
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Guide de l’utilisateur des cartes réseau Intel® Ethernet
+
+   Version : 24.2 (Les derniers) Date : 16/08/2019
+
+Téléchargements disponibles
+
+Adapter_User_Guide.zip
+
+   Indépendant du système d'exploitation
+
+   Langue : Anglais
+
+   Taille : 3,25 Mo
+
+   MD5 : e6eb4a2f848d12833c62a1782fd903fc
+
+   Télécharger
+
+Autres versions
+
+     * 24.1
+     * 24.0
+     * 23.5.2
+     * 23.5.1
+     * 23.5
+
+Description détaillée
+
+   [translate_ico.gif]
+
+   Généralités
+
+   Ce téléchargement contient la version 24,2 du Guide de l’utilisateur de
+   la carte réseau Intel® Ethernet.
+
+
+   Quoi de neuf
+
+   Veuillez consulter le fichier Lisezmoi. txt.
+
+
+   [translate_ico.gif] Ces informations sont composées de traductions
+   automatiques et humaines du contenu d'origine, mises à votre
+   disposition pour votre commodité. Ce contenu est fourni à titre
+   d'information uniquement et ne doit pas être considéré comme complet ni
+   fidèle à l'original.
+
+Notes de version
+
+     * Lisez-moi (txt)
+
+Ce téléchargement est également valide pour le ou les produits répertoriés
+ci-dessous.
+
+     * Carte de dérivation Ethernet Intel® pour serveurs X540-T2
+     * Carte relais Ethernet Intel® X520-SR2 pour serveurs
+     * Carte relais Intel® X520-LR2 pour serveurs
+     * Carte réseau 2 ports Intel® Gigabit EF Server
+     * Carte réseau 2 ports Intel® Gigabit ET Server
+     * Carte réseau 2 ports Intel® PRO/1000 MF pour serveurs
+     * Carte réseau 2 ports Intel® PRO/1000 MT pour serveurs
+     * Carte réseau 2 ports Intel® PRO/1000 PF pour serveurs
+     * Carte réseau 2 ports Intel® PRO/1000 PT pour serveurs
+     * Carte réseau 4 ports « Low profile » Intel® PRO/1000 PT pour
+       serveurs
+     * Carte réseau 4 ports Intel® Gigabit ET2 pour serveurs
+     * Carte réseau 4 ports Intel® PRO/1000 MT pour serveurs
+     * Carte réseau 4 ports Intel® PRO/1000 PT Server
+     * Carte réseau 4 ports Intel® VT Server
+     * Carte réseau convergé Ethernet Intel® X520-LR1
+     * Carte réseau convergé Ethernet Intel® X520-QDA1
+     * Carte réseau convergé Ethernet Intel® X520-SR1
+     * Carte réseau convergé Ethernet Intel® X520-SR2
+     * Carte réseau convergent Ethernet Intel® X520-DA1
+     * Carte réseau convergent Ethernet Intel® X520-DA2
+     * Carte réseau convergent Ethernet Intel® X520-T2
+     * Carte réseau convergent Ethernet Intel® X540-T1
+     * Carte réseau convergent Ethernet Intel® X540-T2
+     * Carte réseau convergent Ethernet Intel® X550-T1
+     * Carte réseau convergent Ethernet Intel® X550-T2
+     * Carte réseau convergent Ethernet Intel® X710-DA2
+     * Carte réseau convergent Ethernet Intel® X710-DA4
+     * Carte réseau convergent Ethernet Intel® X710-T4
+     * Carte réseau convergent Ethernet Intel® XL710-QDA1
+     * Carte réseau convergent Ethernet Intel® XL710-QDA2
+     * Carte réseau Ethernet Intel® I340-T4 pour serveurs
+     * Carte réseau Ethernet Intel® X520-DA2 pour serveurs
+     * Carte réseau Ethernet Intel® X710-DA2 pour serveurs pour OCP
+     * Carte réseau Ethernet Intel® X722-DA2
+     * Carte réseau Ethernet Intel® X722-DA4
+     * Carte réseau Ethernet Intel® XXV710-DA1
+     * Carte réseau Ethernet Intel® XXV710-DA1 pour OCP
+     * Carte réseau Ethernet Intel® XXV710-DA2
+     * Carte réseau Ethernet Intel® XXV710-DA2 pour OCP
+     * Carte réseau Intel® Gigabit CT Desktop
+     * Carte réseau Intel® I340-F4 pour serveurs
+     * Carte réseau Intel® PRO/1000 CT
+     * Carte réseau Intel® PRO/1000 F pour serveurs
+     * Carte réseau Intel® PRO/1000 MF pour serveurs
+     * Carte réseau Intel® PRO/1000 MF pour serveurs (LX)
+     * Carte réseau Intel® PRO/1000 MT Desktop
+     * Carte réseau Intel® PRO/1000 pour serveurs
+     * Carte réseau Intel® PRO/1000 PT Desktop
+     * Carte réseau Intel® PRO/1000 T Desktop
+     * Carte réseau Intel® PRO/1000 T pour serveurs
+     * Carte réseau Intel® PRO/1000 XF pour serveurs
+     * Carte réseau Intel® PRO/1000 XT pour serveurs
+     * Carte réseau ultraplate Intel® PRO/1000 XT pour serveurs
+     * Carte serveur Ethernet Intel® I210-T1
+     * Carte serveur Ethernet Intel® I350-F2
+     * Carte serveur Ethernet Intel® I350-F4
+     * Carte serveur Ethernet Intel® I350-T2
+     * Carte serveur Ethernet Intel® I350-T2V2
+     * Carte serveur Ethernet Intel® I350-T4V2
+     * Carte serveur Ethernet Intel® X520-DA1 pour Open Compute Project
+     * Carte serveur Ethernet Intel® X520-DA2 pour Open Compute Project
+     * Cartes réseau Intel® PRO/1000 GT Desktop
+     * Cartes SAN IP Intel® PRO/1000 T
+     * Connexion Ethernet Intel® C827-AM1
+     * Connexion Ethernet Intel® C827-IM1
+     * Connexion Ethernet Intel® I217-LM
+     * Connexion Ethernet Intel® I217-V
+     * Connexion Ethernet Intel® I218-LM
+     * Connexion Ethernet Intel® I218-V
+     * Connexion Ethernet Intel® I219-LM
+     * Connexion Ethernet Intel® I219-V
+     * Connexion Ethernet Intel® X557-AT
+     * Connexion Ethernet Intel® X557-AT2
+     * Connexion Ethernet Intel® X557-AT4
+     * Connexion réseau Ethernet Intel® 347-AT4
+     * Connexion réseau Intel® PRO/1000 PM
+     * Contrôleur 10 Gigabit Ethernet Intel® 82597EX
+     * Contrôleur 10 Gigabit Ethernet Intel® 82598EB
+     * Contrôleur 10 Gigabit Ethernet Intel® 82599EB
+     * Contrôleur 10 Gigabit Ethernet Intel® 82599EN
+     * Contrôleur 10 Gigabit Ethernet Intel® 82599ES
+     * Contrôleur Ethernet Intel® I210-AS
+     * Contrôleur Ethernet Intel® I210-AT
+     * Contrôleur Ethernet Intel® I210-CS
+     * Contrôleur Ethernet Intel® I210-IS
+     * Contrôleur Ethernet Intel® I210-IT
+     * Contrôleur Ethernet Intel® I211-AT
+     * Contrôleur Ethernet Intel® I350-AM2
+     * Contrôleur Ethernet Intel® I350-AM4
+     * Contrôleur Ethernet Intel® I350-BT2
+     * Contrôleur Ethernet Intel® X540-AT2
+     * Contrôleur Ethernet Intel® X540-BT2
+     * Contrôleur Ethernet Intel® X550-AT
+     * Contrôleur Ethernet Intel® X550-AT2
+     * Contrôleur Ethernet Intel® X550-BT2
+     * Contrôleur Ethernet Intel® X710-AM2
+     * Contrôleur Ethernet Intel® X710-BM2
+     * Contrôleur Ethernet Intel® XL710-AM1
+     * Contrôleur Ethernet Intel® XL710-AM2
+     * Contrôleur Ethernet Intel® XL710-BM1
+     * Contrôleur Ethernet Intel® XL710-BM2
+     * Contrôleur Ethernet multihôtes Intel® FM10420
+     * Contrôleur Ethernet multihôtes Intel® FM10840
+     * Contrôleur Gigabit Ethernet Intel® 82540EM
+     * Contrôleur Gigabit Ethernet Intel® 82540EP
+     * Contrôleur Gigabit Ethernet Intel® 82541EPI
+     * Contrôleur Gigabit Ethernet Intel® 82541ER
+     * Contrôleur Gigabit Ethernet Intel® 82541GI
+     * Contrôleur Gigabit Ethernet Intel® 82543GC
+     * Contrôleur Gigabit Ethernet Intel® 82544EI
+     * Contrôleur Gigabit Ethernet Intel® 82544GC
+     * Contrôleur Gigabit Ethernet Intel® 82545EM
+     * Contrôleur Gigabit Ethernet Intel® 82545GM
+     * Contrôleur Gigabit Ethernet Intel® 82546EB
+     * Contrôleur Gigabit Ethernet Intel® 82546GB
+     * Contrôleur Gigabit Ethernet Intel® 82547GI
+     * Contrôleur Gigabit Ethernet Intel® 82567
+     * Contrôleur Gigabit Ethernet Intel® 82571EB
+     * Contrôleur Gigabit Ethernet Intel® 82572EI
+     * Contrôleur Gigabit Ethernet Intel® 82573E
+     * Contrôleur Gigabit Ethernet Intel® 82573L
+     * Contrôleur Gigabit Ethernet Intel® 82573V
+     * Contrôleur Gigabit Ethernet Intel® 82574IT
+     * Contrôleur Gigabit Ethernet Intel® 82574L
+     * Contrôleur Gigabit Ethernet Intel® 82575EB
+     * Contrôleur Gigabit Ethernet Intel® 82576EB
+     * Contrôleur Gigabit Ethernet Intel® 82576NS
+     * Contrôleur Gigabit Ethernet Intel® 82580DB
+     * Contrôleur Gigabit Ethernet Intel® 82580EB
+     * Contrôleur Gigabit Ethernet Intel® 82583V
+     * Contrôleur Gigabit Ethernet PHY Intel® 82579LM
+     * Contrôleur Gigabit Ethernet PHY Intel® 82579V
+     * Intel® 82567LM Gigabit Ethernet Phy
+     * Intel® 82567V Gigabit Ethernet Phy
+     * Intel® Ethernet Connection XL827-AM1
+     * Intel® Ethernet Controller I210-CL
+     * Intel® Ethernet Controller XXV710-AM1
+     * Intel® Ethernet Controller XXV710-AM2
+     * Intel® Ethernet Server Adapter XL710-QDA1 for Open Compute Project
+     * Intel® Ethernet Server Adapter XL710-QDA2 for Open Compute Project
+     * PHY Gigabit Ethernet Intel® 82563EB
+     * PHY Gigabit Ethernet Intel® 82564EB
+     * PHY Gigabit Ethernet Intel® 82566DC
+     * PHY Gigabit Ethernet Intel® 82566DM
+     * PHY Gigabit Ethernet Intel® 82566MC
+     * PHY Gigabit Ethernet Intel® 82566MM
+     * PHY Gigabit Ethernet Intel® 82577LM
+     * PHY Gigabit Ethernet Intel® 82578DC
+     * PHY Gigabit Ethernet Intel® 82578DM
+     * PHY Gigabit Ethernet PHY Intel® 82577LC
+     * Sun Dual 10GbE PCIe 2.0 FEM*
+
+Contrat de licence logicielle Intel
+
+   X
+
+   Les termes de l'accord de licence du logiciel inclus avec tous les
+   logiciels que vous téléchargez contrôlent l'utilisation du logiciel.
+
+   This Agreement is in the English language only, which language shall be
+   controlling in all respects, and all versions of this Agreement in any
+   other language shall be for accommodation only and shall not be binding
+   on you or Intel. All communications and notices made or given pursuant
+   to this Agreement, and all documentation and support to be provided,
+   unless otherwise noted, shall be in the English language.
+
+   Le présent Accord est valide en anglais uniquement et seul l'anglais
+   contrôle tous les aspects de l'Accord. Toutes les autres langues sont
+   fournies pour vous faciliter la tâche et ne constituent en aucun cas un
+   contrat avec Intel. Sauf indication contraire, toutes les
+   communications et tous les avis en relation avec le présent Accord,
+   ainsi que la documentation et l'assistance fournies, seront en anglais.
+   CONTRAT DE LICENCE DU LOGICIEL INTEL
+
+   IMPORTANT – À LIRE AVANT LA COPIE, L’INSTALLATION OU L’UTILISATION.
+   Veuillez ne pas utiliser ou charger ce logiciel et tout programme
+   associé (regroupés sous la désignation "Logiciel") tant que vous n'avez
+   pas lu attentivement les termes et conditions suivantes. L'utilisation
+   ou le chargement du logiciel constitue une acceptation des termes du
+   présent Contrat. Si vous êtes en désaccord avec les termes de ce
+   contrat, veuillez ne pas installer ou utiliser le Logiciel.
+
+   LICENCES : Veuillez noter : - Si vous êtes un administrateur réseau, la
+   "Licence de site" ci-dessous s'appliquera. - Si vous êtes un
+   utilisateur final, la "Licence utilisateur unique" s'appliquera. - Si
+   vous êtes un fabricant OEM, la "Licence OEM" s'appliquera.
+
+   LICENCE DE SITE. Vous êtes autorisé à copier le Logiciel sur les
+   ordinateurs de votre organisation pour utilisation par cette dernière,
+   ainsi qu’à effectuer un nombre raisonnable de copies de sauvegarde du
+   Logiciel, sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE UTILISATEUR UNIQUE. Vous êtes autorisé à copier le Logiciel sur
+   un seul ordinateur pour votre usage personnel et non commercial, ainsi
+   qu’à effectuer une copie de sauvegarde du Logiciel, sous réserve des
+   conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous
+   n’êtes pas autorisé à accorder de sous-licences, ni autoriser
+   l'utilisation simultanée du Logiciel par plusieurs utilisateurs. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   LICENCE OEM : Vous n'êtes autorisé à reproduire ou distribuer le
+   Logiciel que par intégration ou incorporation dans votre produit ou au
+   titre de la mise à jour d'une maintenance de Logiciel autonome pour des
+   utilisateurs finaux existants de vos produits, à l'exclusion de tous
+   autres produits autonomes et sous réserve des conditions suivantes :
+
+   1. La licence de ce Logiciel permet uniquement une utilisation
+   conjointement avec du matériel Intel. L'utilisation de ce Logiciel avec
+   du matériel d’autres fabricants n'est pas couverte par cette licence.
+   2. Vous n’êtes pas autorisé à copier, modifier, louer, vendre,
+   distribuer ni transférer une partie quelconque du Logiciel, sauf dans
+   la mesure prévue par le présent Contrat, et vous vous engagez à
+   empêcher toute copie non autorisée du Logiciel. 3. Vous n’êtes pas
+   autorisé à désosser, décompiler ni désassembler le Logiciel. 4. Vous ne
+   pouvez distribuer le Logiciel auprès de vos clients qu'en vertu d'un
+   contrat de licence établi par écrit. Ce contrat de licence peut prendre
+   la forme d'un contrat de licence basé sur un "accord implicite par
+   ouverture de l'emballage scellé". Cette licence devra, pour le moins,
+   protéger les droits de propriété d'Intel sur le Logiciel. 5. Le
+   Logiciel peut inclure des parties soumises à des stipulations
+   s’ajoutant à celles indiquées ici, telles que définies dans une licence
+   accompagnant lesdites parties.
+
+   AUCUN AUTRE DROIT. Sauf disposition expressément stipulée dans le
+   présent contrat, Intel ne vous accorde, expressément ou implicitement,
+   aucun droit ni licence relativement à des informations propriétaires ou
+   brevets, droits d'auteur, topographies de circuit intégré, marques,
+   secrets commerciaux ou autres droits de propriété intellectuelle
+   détenus ou contrôlés par Intel.
+
+   PROPRIÉTÉ DU LOGICIEL ET COPYRIGHT (DROITS D'AUTEUR). Intel ou ses
+   fournisseurs demeurent les propriétaires de toutes les copies du
+   Logiciel. Le logiciel est soumis à droits d'auteur et protégé par les
+   lois des États-Unis d'Amérique et d'autres pays ainsi que par les
+   dispositions de traités internationaux. Vous n'êtes pas autorisé à ôter
+   les mentions de réserve du logiciel. Intel peut modifier, à tout moment
+   et sans préavis, le Logiciel ou les éléments qui y sont mentionnés,
+   mais n'est pas tenu de fournir des prestations d'assistance ou de mise
+   à jour sur le Logiciel ou ces éléments. Sauf disposition contraire
+   expressément stipulée, Intel n'accorde aucun droit, explicite ou
+   implicite, sous les brevets, copyrights, marques déposées ou autres
+   droits de propriété intellectuelle d'Intel. Vous ne pouvez transférer
+   le logiciel que si le destinataire convient d'être entièrement lié par
+   les dispositions du présent Contrat et que si vous ne conservez aucune
+   copie du logiciel.
+
+   GARANTIE LIMITÉE DU SUPPORT. Si le Logiciel a été fourni par Intel sur
+   un support physique, Intel garantit que ledit support sera exempt de
+   tout défaut de matériel notable pendant une période de quatre-vingt-dix
+   (90) jours à compter de la livraison par Intel. En cas de défaut de
+   support, vous êtes invité à renvoyer ce dernier à Intel pour un
+   remplacement ou une autre livraison du logiciel, à la discrétion
+   d'Intel.
+
+   EXCLUSION D’AUTRES GARANTIES. SAUF DANS LA MESURE PRÉVUE CI-DESSUS, LE
+   LOGICIEL EST FOURNI "EN L’ÉTAT", SANS GARANTIE EXPLICITE NI IMPLICITE
+   D’AUCUNE SORTE, Y COMPRIS TOUTE GARANTIE DE QUALITÉ MARCHANDE, DE
+   RESPECT DES DROITS DE PROPRIÉTÉ INTELLECTUELLE OU D’ADAPTATION À UN
+   USAGE PARTICULIER. Intel ne garantit pas l'exactitude ni l'exhaustivité
+   des informations, textes, graphiques, liens ou autres éléments contenus
+   dans le Logiciel, et n'assume aucune responsabilité à cet égard.
+
+   LIMITATION DE RESPONSABILITÉ. INTEL OU SES FOURNISSEURS NE SONT EN
+   AUCUN CAS RESPONSABLES DE QUELQUE DOMMAGE QUE CE SOIT (Y COMPRIS, MAIS
+   SANS QUE CETTE ÉNUMÉRATION SOIT LIMITATIVE, LES PERTES DE BÉNÉFICE,
+   L'INTERRUPTION D’ACTIVITÉ OU LES PERTES D'INFORMATIONS) DÉRIVANT DE
+   L'UTILISATION DE CE PRODUIT OU DE L'INCAPACITÉ DE L'UTILISER, MÊME SI
+   INTEL A ÉTÉ NOTIFIÉ DE LA POSSIBILITÉ D'UN TEL DOMMAGE. CERTAINES
+   JURIDICTIONS INTERDISENT L'EXCLUSION OU LA LIMITATION DE LA
+   RESPONSABILITÉ POUR LES GARANTIES TACITES OU LES DOMMAGES INDIRECTS OU
+   SECONDAIRES. IL SE PEUT PAR CONSÉQUENT QUE LES LIMITATIONS
+   SUSMENTIONNÉES NE SOIENT PAS D'APPLICATION DANS VOTRE CAS. LES AUTRES
+   DROITS DONT VOUS JOUISSEZ PEUVENT VARIER D'UN RESSORT À L'AUTRE.
+
+   RÉSILIATION DE CE CONTRAT. Intel peut mettre fin au présent Contrat à
+   tout moment si vous n'en respectez pas les modalités. Le cas échéant,
+   vous êtes tenu de procéder à la destruction immédiate du logiciel ou
+   d'en renvoyer toutes les copies à Intel.
+
+   LOIS APPLICABLES. Les litiges nés du présent Contrat sont régis par les
+   lois de l'État de Californie, sans tenir compte des principes de
+   conflit de lois et de la Convention des Nations Unies sur les contrats
+   de vente de marchandises. Vous n'êtes pas autorisé à exporter le
+   Logiciel en violation des lois et des réglementations d'exportation
+   applicables. Intel n'est contraint par aucun autre contrat à moins que
+   celui-ci ne soit établi par écrit et signé par un représentant autorisé
+   d'Intel.
+
+   DROITS LIMITÉS DU GOUVERNEMENT. Le Logiciel est fourni avec des "DROITS
+   LIMITÉS". L'utilisation, la duplication ou la divulgation par le
+   gouvernement est soumise aux restrictions énoncées dans les clauses
+   FAR52.227-14, DFAR252.227-7013 et suivantes ou dans les législations
+   remplaçantes. L'utilisation du Logiciel par le gouvernement constitue
+   une reconnaissance des droits de propriété d'Intel sur le Logiciel. Le
+   sous-traitant ou le fabricant est Intel 2200 Mission College Blvd.,
+   Santa Clara, CA 95052.
+
+   J'accepte les termes du contrat de licence.
+
+   Je refuse les termes du contrat de licence.
+
+   Le téléchargement de fichier a été initié. Si le téléchargement ne
+   démarre pas, veuillez cliquer ici pour réessayer.
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate
+
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Téléchargements pour Publications de la suite Intel® True Scale Fabric
+
+   Filtrer par
+   (BUTTON) Système d'exploitation
+     * Tout système d'exploitation
+     * Indépendant du système d'exploitation
+
+   Description Type système d'exploitation Version Date
+   Publications sur le tissu à l’échelle® Intel
+
+   Publications de la suite Intel® True Scale Fabric v 7.4.0.0.21
+   Documentation Indépendant du système d'exploitation 7.4.0.0.21
+   Les derniers 24/07/2015
+
+   Afficher plus Chargement en cours… Aucun autre résultat
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site
+   Recherche ____________________ Recherche
+
+   Assistance - Accueil Pilotes et logiciels
+   ____________________ (BUTTON) (BUTTON)
+
+Recherche dans les téléchargements
+
+   Filtrer par
+   (BUTTON) Système d'exploitation
+     * Tout système d'exploitation
+     * Indépendant du système d'exploitation
+     * Windows Server 2012*
+     * Windows Server 2008*
+     * Windows Server 2003*
+     * Windows 2000*
+     * Environnement de préinstallation Windows*
+     * Red Hat Linux*
+     * Red Hat Linux 8.0*
+     * SUSE Linux*
+     * DOS
+
+   Description Type système d'exploitation Version Date
+   Le BIOS de la famille de processeurs Intel® Server S9200WK pour
+   serveurs et la mise à jour du micrologiciel de l’utilitaire Intel® One
+   Boot Flash Update (Intel® OFU) et WinPE *
+
+   Paquet de mise à jour du BIOS et du micrologiciel pour la famille de
+   produits Intel® Server System S9200WK pour serveurs (0,22).
+   BIOS Indépendant du système d'exploitation 0.22
+   Les derniers 12/09/2019
+   Paquet de mise à jour système UEFI de la famille de systèmes serveur
+   Intel® S9200WK pour serveurs (SUP)
+
+   Fournit le package de mise à jour du BIOS et du micrologiciel de la
+   famille de systèmes serveurs Intel® S9200WK pour serveurs pour UEFI
+   (2X010062).
+   BIOS Indépendant du système d'exploitation 2X010062
+   Les derniers 12/09/2019
+   Famille des cartes mères Intel® S2600BP pour serveurs BioS et Firmware
+   Update Package pour UEFI
+
+   Cet enregistrement de téléchargement contient le bioS et le paquet de
+   mise à jour du firmware pour la Famille des cartes mères Intel® S2600BP
+   pour serveurs (à l'exclusion de HNS2600BPBLC, HNS2600BPBLC24 pour UEFI)
+   (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 15/05/2019
+   Intel® Server Board S2600WFTF famille BIOS et package de mise à jour du
+   firmware pour UEFI
+
+   Fournit Intel® Server Board S2600WFTF famille BIOS et le package de
+   mise à jour du firmware pour UEFI.
+   Pilotes Indépendant du système d'exploitation R0104
+   Les derniers 01/05/2019
+   Famille des cartes mères Intel® S2600WF pour serveurs BIOS et Firmware
+   Update pour Intel® One Boot Flash Update (Intel® OFU) Utility et WinPE
+
+   Cet enregistrement de téléchargement contient le bioS et le paquet de
+   mise à jour du firmware pour la Famille des cartes mères Intel® S2600WF
+   pour serveurs pour Intel® One Boot Flash Update (Intel® OFU) Utility et
+   WinPEMD (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 24/04/2019
+   Famille des cartes mères Intel® S2600ST pour serveurs BIOS et Firmware
+   Update pour Intel® One Boot Flash Update (Intel® OFU) Utility et WinPE
+
+   Famille des cartes mères Intel® S2600ST pour serveurs BIOS et mise à
+   jour du firmware pour Intel® One Boot Flash Update (Intel® OFU) Utility
+   et WinPEMD (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 24/04/2019
+   Famille des cartes mères Intel® S2600TP pour serveurs Package de mise à
+   jour du micrologiciel pour EFI
+
+   Fournit les mises à jour du BIOS, du firmware ME, du microprogramme BMC
+   et de FRUSDR. (R 01.01.0028)
+   Microprogramme Indépendant du système d'exploitation R01.01.0028
+   Les derniers 23/04/2019
+   Intel® Server Board S2600WT BIOS et mise à jour du firmware pour Intel®
+   One Boot Flash Update (Intel® OFU), WinPE *
+
+   Cet enregistrement de téléchargement contient les mises à jour Intel®
+   Server Board S2600WT BIOS, ME Firmware, BMC firmware et FRUSDR.
+   (01.01.0028)
+   Microprogramme Indépendant du système d'exploitation 01.01.0028
+   Les derniers 23/04/2019
+   Intel® Server Board famille S2600CW BIOS et mise à jour du firmware
+   pour Intel® One Boot Flash Update (Intel® OFU) et WinPE *
+
+   Cet enregistrement de téléchargement contient les mises à jour de la
+   famille Intel® Server Board S2600CW BIOS, ME Firmware, BMC firmware et
+   FRUSDR. (1.01.0028)
+   BIOS Indépendant du système d'exploitation 1.01.0028
+   Les derniers 23/04/2019
+   Intel® Server Board S2600BP Family BIOS and Firmware Update for Intel®
+   One Boot Flash Update (Intel® OFU) and WinPE*
+
+   Ce téléchargement contient le package de mise à jour du BIOS et du
+   micrologiciel de la famille de cartes mères Intel® pour serveurs
+   S2600BP pour serveurs pour Intel® One Boot Flash Update (Intel® OFU) et
+   WinPE *. (00.01.0016)
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 18/04/2019
+   Kit de mise à jour du BIOS de la famille de cartes mères Intel® pour
+   serveurs S2600WF pour serveurs et du micrologiciel pour UEFI
+
+   Cet enregistrement de téléchargement contient le package de mise à jour
+   du BIOS et du micrologiciel de la famille de cartes mères Intel® pour
+   serveurs S2600WF pour serveurs pour UEFI (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 02/04/2019
+   Famille des cartes mères Intel® S2600ST pour serveurs BioS et Firmware
+   Update Package pour UEFI
+
+   Cet enregistrement de téléchargement contient le bioS et le paquet de
+   mise à jour du firmware pour la Famille des cartes mères Intel® S2600ST
+   pour serveurs pour UEFI (02.01.0008).
+   BIOS Indépendant du système d'exploitation 02.01.0008
+   Les derniers 02/04/2019
+   Intel® Server Board S2600WT BIOS et Firmware Update pour EFI
+
+   Fournit des mises à jour BIOS, ME Firmware, BMC Firmware et FRUSDR.
+   (R01.01.0028)
+   Microprogramme Indépendant du système d'exploitation R01.01.0028
+   Les derniers 01/04/2019
+   Famille des cartes mères Intel® S2600KP pour serveurs Package de mise à
+   jour du micrologiciel pour EFI
+
+   Fournit les mises à jour du BIOS, du firmware ME, du microprogramme BMC
+   et de FRUSDR. (R 01.01.0028
+   Microprogramme Indépendant du système d'exploitation R01.01.0028
+   Les derniers 01/04/2019
+   Package de mise à jour du microprogramme Intel® Server Board S2600CW
+   pour EFI
+
+   Fournit les mises à jour du BIOS, du firmware ME, du microprogramme BMC
+   et de FRUSDR. (1.01.0028)
+   BIOS Indépendant du système d'exploitation 1.01.0028
+   Les derniers 01/04/2019
+   Intel® Server Board S1200SP BIOS et mise à jour du firmware pour Intel®
+   One Boot Flash Update (Intel® OFU) Utility et WinPE *
+
+   Cet enregistrement de téléchargement contient le package de mise à jour
+   du BIOS et du firmware pour la Cartes mères Intel® S1200SP pour
+   serveurs pour l'utilitaire Intel® One Boot Flash Update et WinPE *.
+   (03.01.0042)
+   BIOS Indépendant du système d'exploitation 03.01.0042
+   Les derniers 21/02/2019
+   Package de mise à jour du BIOS et du microprogramme Intel® Server Board
+   S1200SP pour EFI
+
+   Cet enregistrement de téléchargement contient le BIOS et le package de
+   mise à jour du firmware pour la Cartes mères Intel® S1200SP pour
+   serveurs pour EFI (03.01.0042) avec la Assistancedes extensions Intel®
+   Logiciels Guard (Intel® SGX).
+   BIOS Indépendant du système d'exploitation 03.01.0042
+   Les derniers 06/02/2019
+   Carte mère Intel® S7200AP pour serveurs Package de mise à jour du
+   micrologiciel de famille de produits
+
+   Carte mère Intel® S7200AP pour serveurs et S7200APR package de mise à
+   jour du firmware de la famille de produits pour Intel® une mise à jour
+   Flash de démarrage (Intel® OFU) (r 01.03.0021).
+   Microprogramme Indépendant du système d'exploitation R01.03.0021
+   Les derniers 03/12/2018
+   Carte mère Intel® S7200AP pour serveurs Package de mise à jour du
+   firmware de la famille de produits pour UEFI *
+
+   Ce téléchargement installe Carte mère Intel® S7200AP pour serveurs et
+   S7200APR BIOS de la famille et mise à jour du firmware pour UEFI * (r
+   01.03.0021).
+   BIOS Indépendant du système d'exploitation R01.03.0021
+   Les derniers 03/12/2018
+   Mise à jour du package de mise à niveau du micrologiciel pour les
+   Cartes mères pour serveurs EFI Intel® et les Systèmes serveur Intel®
+   basés sur le chipset Intel® 60X
+
+   Ce téléchargement contient uniquement le package de mise à jour du BIOS
+   pour les Cartes mères pour serveurs Intel® et Intel® Systèmes serveur
+   basé sur le chipset Intel® 60X. (R 02.06.0007)
+   Microprogramme Indépendant du système d'exploitation BIOS R02.06.0007
+   Les derniers 07/11/2018
+   Afficher plus Chargement en cours… Aucun autre résultat
+
+Vous avez besoin d'aide ?
+
+   Interlocuteurs
+
+Donnez votre avis
+
+Donnez votre avis
+
+   Notre objectif est de faire de l'Espace de téléchargement une ressource
+   qui vous soit précieuse. Veuillez soumettre vos commentaires, questions
+   ou suggestions ici.
+
+   Besoin d’aide avec un produit Intel® ? Contacter l'assistance
+
+   Avez-vous trouvé que les informations présentées sur ce site étaient
+   utiles ?
+   (*) Oui
+   ( ) Non
+   ____________________ ____________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________
+   (BUTTON) Envoyer › (BUTTON) Annuler
+
+   Vos commentaires ont été envoyés. Merci pour vos remarques.
+
+   Vos informations personnelles seront utilisées exclusivement pour
+   répondre à cette requête. Votre nom et adresse e-mail ne seront ajoutés
+   à aucune liste de distribution et vous ne recevrez aucun e-mail d'Intel
+   Corporation à moins que vous le demandiez. Cliquez sur « Envoyer » pour
+   confirmer votre acceptation des conditions d'utilisation d'Intel et
+   votre compréhension de la politique de confidentialité d'Intel.
+
+     * ©Intel Corporation
+     * Conditions d'utilisation
+     * * Marques
+     * Confidentialité
+     * Cookies
+     * Transparence de la chaîne logistique
+     * Plan du site

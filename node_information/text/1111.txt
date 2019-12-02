@@ -1,0 +1,1772 @@
+   #Assistance de Mozilla
+
+     * Aller au contenu principal
+     * Changer de langue
+     * Aller à la recherche
+
+   X
+   Appuyez ici pour vous rendre sur la version mobile du site.
+
+     * Participer
+
+     * fr
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+    2. Firefox
+    3. Cookies – informations que les sites...
+
+   ____________________ (BUTTON) Rechercher
+
+Firefox
+
+     * Outils de modification
+          + Article
+          + Discussion
+          + Modifier l’article
+          + Afficher les traductions
+          + Liens vers cette page
+          + Afficher l’historique
+          +
+        Personnaliser cet article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorer d’autres sujets
+
+     * Navigation basique
+     * Installation et mise à jour
+     * Synchronisation et enregistrement
+     * Discussion et partage
+     * En faire plus avec des applications
+     * Protection de la vie privée
+     * Gestion des préférences et modules complémentaires
+     * Correction de ralentissements, plantages, messages d’erreurs et
+       autres problèmes
+
+   ____________________ (BUTTON) Rechercher
+
+   Télécharger Firefox
+     * Systèmes et langues
+     * Nouveautés
+     * Vie privée
+
+Cookies – informations que les sites Internet enregistrent sur votre
+ordinateur
+
+   Ce document explique ce que sont les cookies, à quoi ils servent et
+   comment les gérer dans Firefox.
+
+Table des matières
+
+     * 1 Qu’est qu’un cookie ?
+     * 2 Paramètres des cookies
+     * 3 Résoudre les problèmes avec les cookies
+
+Qu’est qu’un cookie ?
+
+   Un cookie est une information conservée sur votre ordinateur par un
+   site web que vous visitez.
+
+   Dans certains navigateurs, chaque cookie est un petit fichier mais,
+   dans Firefox, tous les cookies sont conservés dans un seul fichier,
+   cookies.sqlite, situé dans le dossier de profil de Firefox.
+
+   Les cookies conservent souvent vos paramètres pour un site web, tels
+   que votre langue préférée ou votre localisation. Quand vous revenez sur
+   le site, Firefox renvoie les cookies qui appartiennent au site. Cela
+   permet au site de vous présenter des informations personnalisées
+   correspondant à vos besoins.
+
+   Les cookies peuvent conserver une grande variété d’informations,
+   incluant des informations d’identification personnelle (telles que
+   votre nom, votre adresse postale, votre adresse électronique ou votre
+   numéro de téléphone). Toutefois, ces informations ne peuvent être
+   conservées que si vous les fournissez – les sites web ne peuvent
+   obtenir l’accès aux informations que vous ne leur avez pas fournies et
+   ne peuvent accéder à d’autres fichiers sur votre ordinateur.
+
+   Par défaut, les activités de conservation et d’envoi des cookies sont
+   transparentes pour vous. Toutefois, vous pouvez changer les paramètres
+   de Firefox pour vous permettre d’approuver ou de refuser les requêtes
+   de conservation des cookies, effacer automatiquement à la fermeture de
+   Firefox les cookies conservés, et bien plus.
+
+Paramètres des cookies
+
+   Les paramètres des cookies sont gérés dans les optionspréférences dans
+   Firefox. Pour accéder à ces paramètres :
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité.
+
+   Les paramètres des cookies sont sous Blocage de contenu et Cookies et
+   données de sites.
+
+   Pour des instructions sur la gestion de ces paramètres pour certaines
+   tâches, consultez :
+     * Autoriser et bloquer les cookies que les sites web utilisent pour
+       traquer vos préférences : comment activer ou désactiver la
+       conservation des cookies dans Firefox.
+     * Effacer les cookies pour supprimer les informations que les sites
+       internet ont enregistrées sur votre ordinateur : comment effacer
+       les cookies qui ont déjà été conservés par les sites web.
+     * Empêcher les sites Internet d'enregistrer leurs préférences ou état
+       de connexion dans Firefox : comment empêcher certains sites web de
+       conserver les cookies.
+     * Désactiver les cookies tiers dans Firefox pour arrêter certains
+       types de suivi par les annonceurs : comment empêcher les sites web
+       autres que celui que vous êtes en train de visiter de conserver les
+       cookies.
+
+Résoudre les problèmes avec les cookies
+
+   Si vous avez un problème avec Firefox qui implique les cookies,
+   consultez :
+     * Les sites internet disent que les cookies sont bloqués – les
+       débloquer
+     * Corriger les problèmes de connexion aux sites Internet qui
+       nécessitent un identifiant et un mot de passe
+
+   Partagez cet article : http://mzl.la/1BAQyo7
+
+   // Ces formidables personnes ont aidé à écrire cet
+   article :scoobidiver, Imen, Cécile, YD. Vous pouvez également aider —
+   découvrez comment.
+
+   Cet article vous a-t-il été utile ? Oui Non Veuillez patienter…
+
+   Devenir bénévole pour l’assistance de Mozilla
+
+   Mozilla
+     * Mozilla
+     * À propos
+     * Blog
+     * Nous contacter
+     * Faire un don
+     * Contribuez à ce site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Télécharger Firefox
+     * Ordinateur :
+     * Mobile
+     * Fonctionnalités
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Des parties de ce contenu sont ©1998–2019 par différents contributeurs
+   de mozilla.org. Contenu disponible sous une licence Creative Commons.
+     * Politique de confidentialité du site
+     * Cookies
+     * Mentions légales
+
+   Language Français
+   #Assistance de Mozilla
+
+     * Aller au contenu principal
+     * Changer de langue
+     * Aller à la recherche
+
+   X
+   Appuyez ici pour vous rendre sur la version mobile du site.
+
+     * Participer
+
+     * fr
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+    2. Firefox
+    3. Mettre à jour Firefox vers la...
+
+   ____________________ (BUTTON) Rechercher
+
+Firefox
+
+     * Outils de modification
+          + Article
+          + Discussion
+          + Modifier l’article
+          + Afficher les traductions
+          + Liens vers cette page
+          + Afficher l’historique
+          +
+        Personnaliser cet article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorer d’autres sujets
+
+     * Navigation basique
+     * Installation et mise à jour
+     * Synchronisation et enregistrement
+     * Discussion et partage
+     * En faire plus avec des applications
+     * Protection de la vie privée
+     * Gestion des préférences et modules complémentaires
+     * Correction de ralentissements, plantages, messages d’erreurs et
+       autres problèmes
+
+   ____________________ (BUTTON) Rechercher
+
+   Télécharger Firefox
+     * Systèmes et langues
+     * Nouveautés
+     * Vie privée
+
+Mettre à jour Firefox vers la dernière version
+
+   Par défaut, Firefox est configuré pour se mettre à jour
+   automatiquement, mais vous avez toujours la possibilité de le faire
+   manuellement. La mise à jour manuelle laisse toujours Firefox
+   télécharger la mise à jour, mais celle-ci ne sera installée que lorsque
+   vous redémarrerez Firefox. Voici comment l’installer :
+   Note : si vous utilisez la version de Firefox fournie par votre
+   distribution Linux, il vous faudra attendre que le paquet soit mis à
+   jour dans le dépôt de paquets de votre distribution. Cet article ne
+   s’applique qu’aux installations manuelles de Firefox (sans
+   l’utilisation du gestionnaire de paquets de votre distribution).
+    1. Cliquez sur le bouton de menu Fx57Menu , cliquez sur Fx57Help Aide
+       et sélectionnez À propos de FirefoxSur la barre de menu, cliquez
+       sur le menu Firefox et sélectionnez À propos de Firefox
+    2. La fenêtre À propos de Mozilla FirefoxÀ propos de Firefox s’ouvre.
+       Firefox vérifie la présence de mises à jour et les télécharge
+       automatiquement.
+
+        Fx59AboutFirefox-downloadingWin about-Fx59-downloading
+
+    3. Quand le téléchargement est terminé, cliquez sur Redémarrer pour
+       mettre à jour Firefox
+
+        Fx59AboutFirefox-RestartWin about-Fx59-restart
+                Fx57RestartToUpdate-Mac
+
+   Important ! Si la mise à jour n’a pas démarré, ne s’est pas achevée
+   correctement ou pour tout autre problème, vous pouvez visiter la page
+   des autres systèmes et langues pour télécharger et installer la
+   dernière version de Firefox en choisissant celle qui correspond à votre
+   langue ou vous pouvez utiliser ce lien de téléchargement direct
+   (consultez l’article Installer Firefox sous WindowsInstaller Firefox
+   sous LinuxInstaller Firefox sur Mac pour plus d’informations).
+
+   Restez en sécurité ! Ne téléchargez Firefox que depuis les liens
+   officiels de Mozilla donnés ci-dessus pour éviter les programmes
+   indésirables tels que les logiciels malveillants.
+
+   Les paramètres de mise à jour peuvent être modifiés dans les
+   OptionsPréférences de Firefox. Cliquez sur le bouton de menu New Fx
+   Menu Fx57Menu et sélectionnez OptionsPréférences . Dans le panneau
+   Général, faites défiler vers le bas jusqu’à la section Mises à jour de
+   Firefox.
+
+   // Ces formidables personnes ont aidé à écrire cet article :Goofy,
+   scoobidiver, Banban, Mozinet, Samuel Caillerie, Imen, Aiden Fleurquin,
+   user1085780, Cécile, user1378574, YD. Vous pouvez également aider —
+   découvrez comment.
+
+   Cet article vous a-t-il été utile ? Oui Non Veuillez patienter…
+
+   Devenir bénévole pour l’assistance de Mozilla
+
+   Mozilla
+     * Mozilla
+     * À propos
+     * Blog
+     * Nous contacter
+     * Faire un don
+     * Contribuez à ce site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Télécharger Firefox
+     * Ordinateur :
+     * Mobile
+     * Fonctionnalités
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Des parties de ce contenu sont ©1998–2019 par différents contributeurs
+   de mozilla.org. Contenu disponible sous une licence Creative Commons.
+     * Politique de confidentialité du site
+     * Cookies
+     * Mentions légales
+
+   Language Français
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox
+    3. Protect your privacy
+    4. Cookies and cache
+    5. Clear cookies and site data in Firefox
+
+   ____________________ (BUTTON) Search
+
+Firefox
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Sync and save
+     * Chat and share
+     * Do more with apps
+     * Protect your privacy
+     * Manage preferences and add-ons
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+   Download Firefox
+     * Systems and Languages
+     * What's New
+     * Privacy
+
+Clear cookies and site data in Firefox
+
+   Cookies are stored on your computer by websites you visit and contain
+   information such as site preferences or login status. This article
+   describes how to delete Firefox cookies, other site data and cached web
+   content.
+     * If you just want to clear the Firefox cache, see How to clear the
+       Firefox cache.
+     * To clear your browsing history, cookies and temporarily cached
+       files at once, see Delete browsing, search and download history on
+       Firefox.
+     * To prevent websites from storing cookies on your computer, see
+       Block websites from storing cookies and site data in Firefox.
+
+Table of Contents
+
+     * 1 Clear cookies for the current website
+     * 2 Clear cookies for any website
+     * 3 Clear all cookies, site data and cache
+     * 4 Clear all cookies and keep other data
+
+Clear cookies for the current website
+
+   This feature is available on a newer version of Firefox. Update Firefox
+   to the latest release to use this new feature.
+   To delete cookies and site data for a website you're currently
+   visiting:
+
+    1. Click the Site Info Site Info button button at the left of the
+       address bar.
+
+        clear data 62 Fx63ClearDataSingleSite Fx65ClearDataSingleSite
+
+    2. Click Clear Cookies and Site data.
+
+Clear cookies for any website
+
+   To delete cookies for any single website:
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+
+        Fx60Settings-CookiesAndSiteData Fx61settings-CookiesAndSiteData
+                Fx63settings-AcceptCookies Fx65CookiesAndSiteData
+
+    3. Click the Manage Data… button. The Manage Cookies and Site Data
+       dialog will appear.
+    4. In the Search websites field, type the name of the site whose
+       cookies you want to remove. Items that match your search will be
+       displayed.
+
+        Fx60ManageCookiesAndSiteData-RemoveSelected
+                Fx65ManageCookiesAndSiteData-RemoveSelected
+
+          + To remove all cookies and storage data for the website, click
+            Remove All Shown.
+          + To remove selected items, select an entry and click Remove
+            Selected.
+    5. Click Save Changes.
+    6. In the Removing Cookies and Site Data confirmation dialog that
+       opens, click RemoveOK.
+    7. Close the about:preferences page.
+
+   To learn more about managing site data in Firefox, see Manage local
+   site storage settings.
+   Note: You can remove individual website cookies in Firefox version 60
+   and below, using the Page Info window Security tab View Cookies button.
+   You can also use the Storage Inspector to remove individual cookies for
+   a specific website, via the right-click context menu. To open the
+   Storage Inspector, go to the menu button Fx57Menu Web Developer submenu
+   or press Shift + F9 on the keyboard.
+
+Clear all cookies, site data and cache
+
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+    3. Click the Clear Data… button. The Clear Data dialog will appear.
+
+        Fx64ClearCookies-SiteData-Cache Fx65CookiesAndSiteData-ClearData
+
+          + Cookies and Site Data (to remove login status and site
+            preferences) and Cached Web Content (to remove stored images,
+            scripts and other cached content) should both be check marked.
+    4. Click Clear.
+
+Clear all cookies and keep other data
+
+   To delete only cookies while keeping other data, do the following:
+    1. Click the menu button Fx57Menu and click Library (or click the
+       Library button 57 library icon in the toolbar).
+    2. Click History and then click Clear Recent History….
+    3. Set Time range to clear: to Everything (if you don't see a list of
+       history items, click the arrow next to Details to expand the list).
+
+        Fx52ClearRecentHistory-Cookies Fx63ClearRecentHistory-Cookies
+
+    4. Select Cookies and make sure that other items you want to keep are
+       not selected.
+    5. Click Clear Now to clear all cookies and close the Clear All
+       History window.
+
+   // These fine people helped write this article:AliceWyman, Chris Ilias,
+   Underpass, novica, Tonnes, smo, Michael Verdi, scoobidiver, Swarnava
+   Sengupta, soucet, ideato, user832823, Lan, pollti, scootergrisen, Joni,
+   Ömer Timur. You can help too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+See also:
+
+     * How to clear the Firefox cache
+     * Enable and disable cookies that websites use to track your
+       preferences
+     * Websites say cookies are blocked - Unblock them
+     * Manage local site storage settings
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * Download Firefox
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox for Android
+    3. Popular articles
+    4. Clear your browsing history and...
+
+   ____________________ (BUTTON) Search
+
+Firefox for Android
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox for Android
+            [Version 68]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Save, share and sync
+     * Cast to your TV
+     * Protect your privacy
+     * Customize settings and preferences
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+Clear your browsing history and other personal data on Firefox for Android
+
+   Firefox for Android offers you control over your personal data, such as
+   browsing history, passwords and more. You can conveniently save this
+   data to your browser and delete it any time you want to:
+
+Clear your entire browsing history
+
+    1. Go to the History panel on your home screen.
+    2. Tap on Clear browsing history at the bottom of the History panel.
+    3. Tap OK to confirm.
+
+Clear specific items from your browser
+
+    1. Tap the menu button (either below the screen on some devices or at
+       the top-right corner of the browser) and select Settings (you may
+       need to tap More first) .
+    2. Tap Clear private data.
+    3. Put a check mark next to the items you want to clear and then tap
+       Clear data.
+
+    1. Tap the menu button (either below the screen on some devices or at
+       the top-right corner of the browser) and select Settings (you may
+       need to tap More first) .
+    2. Tap Privacy and choose Clear now.
+    3. Put a check mark next to the items you want to clear and then tap
+       Clear data.
+
+        Clear private data
+
+Delete data on exit
+
+   This option automatically deletes your selected data (bookmarks,
+   browsing or search history, saved passwords, and more) every time you
+   quit Firefox:
+    1. Tap the menu button (either below the screen on some devices or at
+       the top-right corner of the browser) and select Settings (you may
+       need to tap More first) .
+    2. Tap Privacy and put a check mark next to Clear private data on
+       exit.
+    3. In the pop-up window, select the types of information that you'd
+       like to delete each time you quit Firefox, then tap Set.
+
+   Firefox will delete your information each time you close it through the
+   Quit option on the menu.
+
+   Share this article: http://mzl.la/1Yhinxp
+
+   // These fine people helped write this article:Michele Rodaro, Michael
+   Verdi, Swarnava Sengupta, mluna, user669794, Ed, Joni, vesper,
+   otherechoes. You can help too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox
+    3. Protect your privacy
+    4. Cookies and cache
+    5. Enable and disable cookies that...
+
+   ____________________ (BUTTON) Search
+
+Firefox
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Sync and save
+     * Chat and share
+     * Do more with apps
+     * Protect your privacy
+     * Manage preferences and add-ons
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+   Download Firefox
+     * Systems and Languages
+     * What's New
+     * Privacy
+
+Enable and disable cookies that websites use to track your preferences
+
+   Cookies are stored on your computer by websites you visit and contain
+   information such as site preferences or your login status. This article
+   describes how to enable and disable cookies in Firefox.
+
+Table of Contents
+
+     * 1 How do I view or change my cookie settings?
+     * 2 Clear cookies when you close Firefox
+     * 3 Websites report cookie errors
+
+How do I view or change my cookie settings?
+
+   Note: Cookies are enabled by default in Firefox.
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+    3. Select Accept cookies and site data from websites (recommended) to
+       enable cookies. To disable cookies, select Block cookies and site
+       data (may cause websites to break).
+
+        Fx60Settings-CookiesAndSiteData Fx61settings-CookiesAndSiteData
+
+          + If you are troubleshooting problems with websites, make sure
+            that Accept third-party cookies and site data is NOT set to
+            Never. For more information, see Disable third-party cookies
+            in Firefox to stop some types of tracking by advertisers.
+    4. Choose how long cookies are allowed to be stored:
+          + Keep until:
+            they expireThey expire: Each cookie will be removed when it
+            reaches its expiration date, which is set by the site that
+            sent the cookie.
+            I close FirefoxFirefox is closed: The cookies that are stored
+            on your computer will be removed when Firefox is closed.
+    5. Close the about:preferences page. Any changes you've made will
+       automatically be saved.
+
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+
+        Fx63settings-AcceptCookies
+
+    3. Select Accept cookies and site data to enable cookies. To disable
+       cookies, select Block cookies and site data and use the drop-down
+       menu next to Type blocked to choose the type of cookies to block.
+          + If you are troubleshooting problems with websites, make sure
+            that Accept third-party cookies and site data is NOT set to
+            Never. For more information, see Disable third-party cookies
+            in Firefox to stop some types of tracking by advertisers.
+    4. Choose how long cookies are allowed to be stored:
+          + Keep until:
+            They expire: Each cookie will be removed when it reaches its
+            expiration date, which is set by the site that sent the
+            cookie.
+            Firefox is closed: The cookies that are stored on your
+            computer will be removed when Firefox is closed.
+    5. Close the about:preferences page. Any changes you've made will
+       automatically be saved.
+
+   Click the menu button fx57menu and select Content Blocking. The Privacy
+   & Security panel of Firefox OptionsPreferences will open. This is where
+   you can view your settings for Content Blocking, which includes
+   cookies.
+
+   fx65ContentBlocking
+
+     * If Standard is selected, it means that you are using the default
+       settings for content blocking and cookies are enabled.
+
+   To block cookies: Select Custom and check mark Cookies.
+
+   Fx65Custom-ThirdPartyCookies
+
+   Third-Party Trackers is the default setting for blocking cookies. Use
+   the drop-down menu to change the type of cookies blocked. Note that
+   disabling cookies can cause problems with websites. See this article to
+   learn more about third-party cookies.
+
+   To enable all cookies, do one of the following:
+     * Select Custom and clear the Cookies check mark.
+     * Alternatively, select Standard to restore the default settings.
+
+   To learn more about these settings, see the Content blocking article.
+
+Clear cookies when you close Firefox
+
+   To remove all cookies and site data when Firefox is closed:
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+
+        Fx65CookiesAndSiteData
+
+    3. Check mark Delete cookies and site data when Firefox is closed.
+
+   Each time you close Firefox, the cookies that are stored on your
+   computer will be removed.
+
+Websites report cookie errors
+
+   If a website gives you an error message that cookies must be enabled,
+   make sure that you have not blocked cookies for the website. See Block
+   websites from storing cookies and site data in Firefox and Websites say
+   cookies are blocked - Unblock them for more information.
+
+   Share this article: http://mzl.la/1BAQFQq
+
+   // These fine people helped write this article:AliceWyman, Chris Ilias,
+   philipp, Cheng Wang, novica, Tonnes, Michael Verdi, scoobidiver,
+   Swarnava Sengupta, soucet, Miranda, Lan, scootergrisen, Joni, Artist,
+   Random121. You can help too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+See also:
+
+     * Disable third-party cookies in Firefox to stop some types of
+       tracking by advertisers
+     * Clear cookies and site data in Firefox
+     * Block websites from storing cookies and site data in Firefox
+     * Websites say cookies are blocked - Unblock them
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English
+   #Assistance de Mozilla
+
+     * Aller au contenu principal
+     * Changer de langue
+     * Aller à la recherche
+
+   X
+   Appuyez ici pour vous rendre sur la version mobile du site.
+
+     * Participer
+
+     * fr
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+    2. Firefox
+    3. Cookies – informations que les sites...
+
+   ____________________ (BUTTON) Rechercher
+
+Firefox
+
+     * Outils de modification
+          + Article
+          + Discussion
+          + Modifier l’article
+          + Afficher les traductions
+          + Liens vers cette page
+          + Afficher l’historique
+          +
+        Personnaliser cet article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorer d’autres sujets
+
+     * Navigation basique
+     * Installation et mise à jour
+     * Synchronisation et enregistrement
+     * Discussion et partage
+     * En faire plus avec des applications
+     * Protection de la vie privée
+     * Gestion des préférences et modules complémentaires
+     * Correction de ralentissements, plantages, messages d’erreurs et
+       autres problèmes
+
+   ____________________ (BUTTON) Rechercher
+
+   Télécharger Firefox
+     * Systèmes et langues
+     * Nouveautés
+     * Vie privée
+
+Cookies – informations que les sites Internet enregistrent sur votre
+ordinateur
+
+   Ce document explique ce que sont les cookies, à quoi ils servent et
+   comment les gérer dans Firefox.
+
+Table des matières
+
+     * 1 Qu’est qu’un cookie ?
+     * 2 Paramètres des cookies
+     * 3 Résoudre les problèmes avec les cookies
+
+Qu’est qu’un cookie ?
+
+   Un cookie est une information conservée sur votre ordinateur par un
+   site web que vous visitez.
+
+   Dans certains navigateurs, chaque cookie est un petit fichier mais,
+   dans Firefox, tous les cookies sont conservés dans un seul fichier,
+   cookies.sqlite, situé dans le dossier de profil de Firefox.
+
+   Les cookies conservent souvent vos paramètres pour un site web, tels
+   que votre langue préférée ou votre localisation. Quand vous revenez sur
+   le site, Firefox renvoie les cookies qui appartiennent au site. Cela
+   permet au site de vous présenter des informations personnalisées
+   correspondant à vos besoins.
+
+   Les cookies peuvent conserver une grande variété d’informations,
+   incluant des informations d’identification personnelle (telles que
+   votre nom, votre adresse postale, votre adresse électronique ou votre
+   numéro de téléphone). Toutefois, ces informations ne peuvent être
+   conservées que si vous les fournissez – les sites web ne peuvent
+   obtenir l’accès aux informations que vous ne leur avez pas fournies et
+   ne peuvent accéder à d’autres fichiers sur votre ordinateur.
+
+   Par défaut, les activités de conservation et d’envoi des cookies sont
+   transparentes pour vous. Toutefois, vous pouvez changer les paramètres
+   de Firefox pour vous permettre d’approuver ou de refuser les requêtes
+   de conservation des cookies, effacer automatiquement à la fermeture de
+   Firefox les cookies conservés, et bien plus.
+
+Paramètres des cookies
+
+   Les paramètres des cookies sont gérés dans les optionspréférences dans
+   Firefox. Pour accéder à ces paramètres :
+    1. Cliquez sur le bouton de menu New Fx Menu Fx57Menu et sélectionnez
+       OptionsPréférences
+    2. Sélectionnez le panneau Vie privée et sécurité.
+
+   Les paramètres des cookies sont sous Blocage de contenu et Cookies et
+   données de sites.
+
+   Pour des instructions sur la gestion de ces paramètres pour certaines
+   tâches, consultez :
+     * Autoriser et bloquer les cookies que les sites web utilisent pour
+       traquer vos préférences : comment activer ou désactiver la
+       conservation des cookies dans Firefox.
+     * Effacer les cookies pour supprimer les informations que les sites
+       internet ont enregistrées sur votre ordinateur : comment effacer
+       les cookies qui ont déjà été conservés par les sites web.
+     * Empêcher les sites Internet d'enregistrer leurs préférences ou état
+       de connexion dans Firefox : comment empêcher certains sites web de
+       conserver les cookies.
+     * Désactiver les cookies tiers dans Firefox pour arrêter certains
+       types de suivi par les annonceurs : comment empêcher les sites web
+       autres que celui que vous êtes en train de visiter de conserver les
+       cookies.
+
+Résoudre les problèmes avec les cookies
+
+   Si vous avez un problème avec Firefox qui implique les cookies,
+   consultez :
+     * Les sites internet disent que les cookies sont bloqués – les
+       débloquer
+     * Corriger les problèmes de connexion aux sites Internet qui
+       nécessitent un identifiant et un mot de passe
+
+   Partagez cet article : http://mzl.la/1BAQyo7
+
+   // Ces formidables personnes ont aidé à écrire cet
+   article :scoobidiver, Imen, Cécile, YD. Vous pouvez également aider —
+   découvrez comment.
+
+   Cet article vous a-t-il été utile ? Oui Non Veuillez patienter…
+
+   Devenir bénévole pour l’assistance de Mozilla
+
+   Mozilla
+     * Mozilla
+     * À propos
+     * Blog
+     * Nous contacter
+     * Faire un don
+     * Contribuez à ce site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Télécharger Firefox
+     * Ordinateur :
+     * Mobile
+     * Fonctionnalités
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Des parties de ce contenu sont ©1998–2019 par différents contributeurs
+   de mozilla.org. Contenu disponible sous une licence Creative Commons.
+     * Politique de confidentialité du site
+     * Cookies
+     * Mentions légales
+
+   Language Français
+   #Assistance de Mozilla
+
+     * Aller au contenu principal
+     * Changer de langue
+     * Aller à la recherche
+
+   X
+   Appuyez ici pour vous rendre sur la version mobile du site.
+
+     * Participer
+
+     * fr
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Rechercher
+
+    1. Accueil
+    2. Firefox
+    3. Mettre à jour Firefox vers la...
+
+   ____________________ (BUTTON) Rechercher
+
+Firefox
+
+     * Outils de modification
+          + Article
+          + Discussion
+          + Modifier l’article
+          + Afficher les traductions
+          + Liens vers cette page
+          + Afficher l’historique
+          +
+        Personnaliser cet article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explorer d’autres sujets
+
+     * Navigation basique
+     * Installation et mise à jour
+     * Synchronisation et enregistrement
+     * Discussion et partage
+     * En faire plus avec des applications
+     * Protection de la vie privée
+     * Gestion des préférences et modules complémentaires
+     * Correction de ralentissements, plantages, messages d’erreurs et
+       autres problèmes
+
+   ____________________ (BUTTON) Rechercher
+
+   Télécharger Firefox
+     * Systèmes et langues
+     * Nouveautés
+     * Vie privée
+
+Mettre à jour Firefox vers la dernière version
+
+   Par défaut, Firefox est configuré pour se mettre à jour
+   automatiquement, mais vous avez toujours la possibilité de le faire
+   manuellement. La mise à jour manuelle laisse toujours Firefox
+   télécharger la mise à jour, mais celle-ci ne sera installée que lorsque
+   vous redémarrerez Firefox. Voici comment l’installer :
+   Note : si vous utilisez la version de Firefox fournie par votre
+   distribution Linux, il vous faudra attendre que le paquet soit mis à
+   jour dans le dépôt de paquets de votre distribution. Cet article ne
+   s’applique qu’aux installations manuelles de Firefox (sans
+   l’utilisation du gestionnaire de paquets de votre distribution).
+    1. Cliquez sur le bouton de menu Fx57Menu , cliquez sur Fx57Help Aide
+       et sélectionnez À propos de FirefoxSur la barre de menu, cliquez
+       sur le menu Firefox et sélectionnez À propos de Firefox
+    2. La fenêtre À propos de Mozilla FirefoxÀ propos de Firefox s’ouvre.
+       Firefox vérifie la présence de mises à jour et les télécharge
+       automatiquement.
+
+        Fx59AboutFirefox-downloadingWin about-Fx59-downloading
+
+    3. Quand le téléchargement est terminé, cliquez sur Redémarrer pour
+       mettre à jour Firefox
+
+        Fx59AboutFirefox-RestartWin about-Fx59-restart
+                Fx57RestartToUpdate-Mac
+
+   Important ! Si la mise à jour n’a pas démarré, ne s’est pas achevée
+   correctement ou pour tout autre problème, vous pouvez visiter la page
+   des autres systèmes et langues pour télécharger et installer la
+   dernière version de Firefox en choisissant celle qui correspond à votre
+   langue ou vous pouvez utiliser ce lien de téléchargement direct
+   (consultez l’article Installer Firefox sous WindowsInstaller Firefox
+   sous LinuxInstaller Firefox sur Mac pour plus d’informations).
+
+   Restez en sécurité ! Ne téléchargez Firefox que depuis les liens
+   officiels de Mozilla donnés ci-dessus pour éviter les programmes
+   indésirables tels que les logiciels malveillants.
+
+   Les paramètres de mise à jour peuvent être modifiés dans les
+   OptionsPréférences de Firefox. Cliquez sur le bouton de menu New Fx
+   Menu Fx57Menu et sélectionnez OptionsPréférences . Dans le panneau
+   Général, faites défiler vers le bas jusqu’à la section Mises à jour de
+   Firefox.
+
+   // Ces formidables personnes ont aidé à écrire cet article :Goofy,
+   scoobidiver, Banban, Mozinet, Samuel Caillerie, Imen, Aiden Fleurquin,
+   user1085780, Cécile, user1378574, YD. Vous pouvez également aider —
+   découvrez comment.
+
+   Cet article vous a-t-il été utile ? Oui Non Veuillez patienter…
+
+   Devenir bénévole pour l’assistance de Mozilla
+
+   Mozilla
+     * Mozilla
+     * À propos
+     * Blog
+     * Nous contacter
+     * Faire un don
+     * Contribuez à ce site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Télécharger Firefox
+     * Ordinateur :
+     * Mobile
+     * Fonctionnalités
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Des parties de ce contenu sont ©1998–2019 par différents contributeurs
+   de mozilla.org. Contenu disponible sous une licence Creative Commons.
+     * Politique de confidentialité du site
+     * Cookies
+     * Mentions légales
+
+   Language Français
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox
+    3. Protect your privacy
+    4. Cookies and cache
+    5. Clear cookies and site data in Firefox
+
+   ____________________ (BUTTON) Search
+
+Firefox
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Sync and save
+     * Chat and share
+     * Do more with apps
+     * Protect your privacy
+     * Manage preferences and add-ons
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+   Download Firefox
+     * Systems and Languages
+     * What's New
+     * Privacy
+
+Clear cookies and site data in Firefox
+
+   Cookies are stored on your computer by websites you visit and contain
+   information such as site preferences or login status. This article
+   describes how to delete Firefox cookies, other site data and cached web
+   content.
+     * If you just want to clear the Firefox cache, see How to clear the
+       Firefox cache.
+     * To clear your browsing history, cookies and temporarily cached
+       files at once, see Delete browsing, search and download history on
+       Firefox.
+     * To prevent websites from storing cookies on your computer, see
+       Block websites from storing cookies and site data in Firefox.
+
+Table of Contents
+
+     * 1 Clear cookies for the current website
+     * 2 Clear cookies for any website
+     * 3 Clear all cookies, site data and cache
+     * 4 Clear all cookies and keep other data
+
+Clear cookies for the current website
+
+   This feature is available on a newer version of Firefox. Update Firefox
+   to the latest release to use this new feature.
+   To delete cookies and site data for a website you're currently
+   visiting:
+
+    1. Click the Site Info Site Info button button at the left of the
+       address bar.
+
+        clear data 62 Fx63ClearDataSingleSite Fx65ClearDataSingleSite
+
+    2. Click Clear Cookies and Site data.
+
+Clear cookies for any website
+
+   To delete cookies for any single website:
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+
+        Fx60Settings-CookiesAndSiteData Fx61settings-CookiesAndSiteData
+                Fx63settings-AcceptCookies Fx65CookiesAndSiteData
+
+    3. Click the Manage Data… button. The Manage Cookies and Site Data
+       dialog will appear.
+    4. In the Search websites field, type the name of the site whose
+       cookies you want to remove. Items that match your search will be
+       displayed.
+
+        Fx60ManageCookiesAndSiteData-RemoveSelected
+                Fx65ManageCookiesAndSiteData-RemoveSelected
+
+          + To remove all cookies and storage data for the website, click
+            Remove All Shown.
+          + To remove selected items, select an entry and click Remove
+            Selected.
+    5. Click Save Changes.
+    6. In the Removing Cookies and Site Data confirmation dialog that
+       opens, click RemoveOK.
+    7. Close the about:preferences page.
+
+   To learn more about managing site data in Firefox, see Manage local
+   site storage settings.
+   Note: You can remove individual website cookies in Firefox version 60
+   and below, using the Page Info window Security tab View Cookies button.
+   You can also use the Storage Inspector to remove individual cookies for
+   a specific website, via the right-click context menu. To open the
+   Storage Inspector, go to the menu button Fx57Menu Web Developer submenu
+   or press Shift + F9 on the keyboard.
+
+Clear all cookies, site data and cache
+
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+    3. Click the Clear Data… button. The Clear Data dialog will appear.
+
+        Fx64ClearCookies-SiteData-Cache Fx65CookiesAndSiteData-ClearData
+
+          + Cookies and Site Data (to remove login status and site
+            preferences) and Cached Web Content (to remove stored images,
+            scripts and other cached content) should both be check marked.
+    4. Click Clear.
+
+Clear all cookies and keep other data
+
+   To delete only cookies while keeping other data, do the following:
+    1. Click the menu button Fx57Menu and click Library (or click the
+       Library button 57 library icon in the toolbar).
+    2. Click History and then click Clear Recent History….
+    3. Set Time range to clear: to Everything (if you don't see a list of
+       history items, click the arrow next to Details to expand the list).
+
+        Fx52ClearRecentHistory-Cookies Fx63ClearRecentHistory-Cookies
+
+    4. Select Cookies and make sure that other items you want to keep are
+       not selected.
+    5. Click Clear Now to clear all cookies and close the Clear All
+       History window.
+
+   // These fine people helped write this article:AliceWyman, Chris Ilias,
+   Underpass, novica, Tonnes, smo, Michael Verdi, scoobidiver, Swarnava
+   Sengupta, soucet, ideato, user832823, Lan, pollti, scootergrisen, Joni,
+   Ömer Timur. You can help too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+See also:
+
+     * How to clear the Firefox cache
+     * Enable and disable cookies that websites use to track your
+       preferences
+     * Websites say cookies are blocked - Unblock them
+     * Manage local site storage settings
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * Download Firefox
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox for Android
+    3. Popular articles
+    4. Clear your browsing history and...
+
+   ____________________ (BUTTON) Search
+
+Firefox for Android
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox for Android
+            [Version 68]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Save, share and sync
+     * Cast to your TV
+     * Protect your privacy
+     * Customize settings and preferences
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+Clear your browsing history and other personal data on Firefox for Android
+
+   Firefox for Android offers you control over your personal data, such as
+   browsing history, passwords and more. You can conveniently save this
+   data to your browser and delete it any time you want to:
+
+Clear your entire browsing history
+
+    1. Go to the History panel on your home screen.
+    2. Tap on Clear browsing history at the bottom of the History panel.
+    3. Tap OK to confirm.
+
+Clear specific items from your browser
+
+    1. Tap the menu button (either below the screen on some devices or at
+       the top-right corner of the browser) and select Settings (you may
+       need to tap More first) .
+    2. Tap Clear private data.
+    3. Put a check mark next to the items you want to clear and then tap
+       Clear data.
+
+    1. Tap the menu button (either below the screen on some devices or at
+       the top-right corner of the browser) and select Settings (you may
+       need to tap More first) .
+    2. Tap Privacy and choose Clear now.
+    3. Put a check mark next to the items you want to clear and then tap
+       Clear data.
+
+        Clear private data
+
+Delete data on exit
+
+   This option automatically deletes your selected data (bookmarks,
+   browsing or search history, saved passwords, and more) every time you
+   quit Firefox:
+    1. Tap the menu button (either below the screen on some devices or at
+       the top-right corner of the browser) and select Settings (you may
+       need to tap More first) .
+    2. Tap Privacy and put a check mark next to Clear private data on
+       exit.
+    3. In the pop-up window, select the types of information that you'd
+       like to delete each time you quit Firefox, then tap Set.
+
+   Firefox will delete your information each time you close it through the
+   Quit option on the menu.
+
+   Share this article: http://mzl.la/1Yhinxp
+
+   // These fine people helped write this article:Michele Rodaro, Michael
+   Verdi, Swarnava Sengupta, mluna, user669794, Ed, Joni, vesper,
+   otherechoes. You can help too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English
+   #Mozilla Support
+
+     * Skip to main content
+     * Switch language
+     * Skip to search
+
+   X
+   Tap here to go to the mobile version of the site.
+
+     * Volunteer
+
+     * EN
+     * Log in / Sign up
+
+   ____________________ (BUTTON) Search
+
+    1. Home
+    2. Firefox
+    3. Protect your privacy
+    4. Cookies and cache
+    5. Enable and disable cookies that...
+
+   ____________________ (BUTTON) Search
+
+Firefox
+
+     * Editing Tools
+          + Article
+          + Discussion
+          + Edit Article
+          + Translate Article
+          + Show Translations
+          + What Links Here
+          + Show History
+          +
+        Customize this article
+
+[X] Firefox
+            [Version 69]
+            [Windows 8______]
+
+Explore more topics
+
+     * Basic browsing
+     * Install and update
+     * Sync and save
+     * Chat and share
+     * Do more with apps
+     * Protect your privacy
+     * Manage preferences and add-ons
+     * Fix slowness, crashing, error messages and other problems
+
+   ____________________ (BUTTON) Search
+
+   Download Firefox
+     * Systems and Languages
+     * What's New
+     * Privacy
+
+Enable and disable cookies that websites use to track your preferences
+
+   Cookies are stored on your computer by websites you visit and contain
+   information such as site preferences or your login status. This article
+   describes how to enable and disable cookies in Firefox.
+
+Table of Contents
+
+     * 1 How do I view or change my cookie settings?
+     * 2 Clear cookies when you close Firefox
+     * 3 Websites report cookie errors
+
+How do I view or change my cookie settings?
+
+   Note: Cookies are enabled by default in Firefox.
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+    3. Select Accept cookies and site data from websites (recommended) to
+       enable cookies. To disable cookies, select Block cookies and site
+       data (may cause websites to break).
+
+        Fx60Settings-CookiesAndSiteData Fx61settings-CookiesAndSiteData
+
+          + If you are troubleshooting problems with websites, make sure
+            that Accept third-party cookies and site data is NOT set to
+            Never. For more information, see Disable third-party cookies
+            in Firefox to stop some types of tracking by advertisers.
+    4. Choose how long cookies are allowed to be stored:
+          + Keep until:
+            they expireThey expire: Each cookie will be removed when it
+            reaches its expiration date, which is set by the site that
+            sent the cookie.
+            I close FirefoxFirefox is closed: The cookies that are stored
+            on your computer will be removed when Firefox is closed.
+    5. Close the about:preferences page. Any changes you've made will
+       automatically be saved.
+
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+
+        Fx63settings-AcceptCookies
+
+    3. Select Accept cookies and site data to enable cookies. To disable
+       cookies, select Block cookies and site data and use the drop-down
+       menu next to Type blocked to choose the type of cookies to block.
+          + If you are troubleshooting problems with websites, make sure
+            that Accept third-party cookies and site data is NOT set to
+            Never. For more information, see Disable third-party cookies
+            in Firefox to stop some types of tracking by advertisers.
+    4. Choose how long cookies are allowed to be stored:
+          + Keep until:
+            They expire: Each cookie will be removed when it reaches its
+            expiration date, which is set by the site that sent the
+            cookie.
+            Firefox is closed: The cookies that are stored on your
+            computer will be removed when Firefox is closed.
+    5. Close the about:preferences page. Any changes you've made will
+       automatically be saved.
+
+   Click the menu button fx57menu and select Content Blocking. The Privacy
+   & Security panel of Firefox OptionsPreferences will open. This is where
+   you can view your settings for Content Blocking, which includes
+   cookies.
+
+   fx65ContentBlocking
+
+     * If Standard is selected, it means that you are using the default
+       settings for content blocking and cookies are enabled.
+
+   To block cookies: Select Custom and check mark Cookies.
+
+   Fx65Custom-ThirdPartyCookies
+
+   Third-Party Trackers is the default setting for blocking cookies. Use
+   the drop-down menu to change the type of cookies blocked. Note that
+   disabling cookies can cause problems with websites. See this article to
+   learn more about third-party cookies.
+
+   To enable all cookies, do one of the following:
+     * Select Custom and clear the Cookies check mark.
+     * Alternatively, select Standard to restore the default settings.
+
+   To learn more about these settings, see the Content blocking article.
+
+Clear cookies when you close Firefox
+
+   To remove all cookies and site data when Firefox is closed:
+    1. Click the menu button New Fx Menu Fx57Menu and choose
+       Options.Preferences.
+    2. Select the Privacy & Security panel and go to the Cookies and Site
+       Data section.
+
+        Fx65CookiesAndSiteData
+
+    3. Check mark Delete cookies and site data when Firefox is closed.
+
+   Each time you close Firefox, the cookies that are stored on your
+   computer will be removed.
+
+Websites report cookie errors
+
+   If a website gives you an error message that cookies must be enabled,
+   make sure that you have not blocked cookies for the website. See Block
+   websites from storing cookies and site data in Firefox and Websites say
+   cookies are blocked - Unblock them for more information.
+
+   Share this article: http://mzl.la/1BAQFQq
+
+   // These fine people helped write this article:AliceWyman, Chris Ilias,
+   philipp, Cheng Wang, novica, Tonnes, Michael Verdi, scoobidiver,
+   Swarnava Sengupta, soucet, Miranda, Lan, scootergrisen, Joni, Artist,
+   Random121. You can help too - find out how.
+
+   Was this article helpful? Yes No Please wait...
+
+See also:
+
+     * Disable third-party cookies in Firefox to stop some types of
+       tracking by advertisers
+     * Clear cookies and site data in Firefox
+     * Block websites from storing cookies and site data in Firefox
+     * Websites say cookies are blocked - Unblock them
+
+   Volunteer for Mozilla Support
+
+   Mozilla
+     * Mozilla
+     * About
+     * Blog
+     * Contact Us
+     * Donate
+     * Contribute to this site
+     * Report Trademark Abuse
+     * Source code
+     * Twitter
+     *
+          + Twitter (@mozilla)
+          + Instagram (@mozilla)
+
+     * Firefox
+     * Download Firefox
+     * Desktop
+     * Mobile
+     * Features
+     * Beta, Nightly, Developer Edition
+     *
+          + Twitter (@firefox)
+          + YouTube (firefoxchannel)
+
+   Portions of this content are ©1998–2019 by individual mozilla.org
+   contributors. Content available under a Creative Commons license.
+     * Website Privacy Notice
+     * Cookies
+     * Legal
+
+   Language English

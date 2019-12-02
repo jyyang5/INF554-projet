@@ -1,0 +1,670 @@
+   #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K5G4VBH
+
+   Continue
+   Find out more
+   Cookies on this Toshiba website
+
+   We use cookies and similar technologies to ensure that we give you the
+   best experience on our website. For this purpose in the context of our
+   legitimate interest, we also use cookies which go beyond those which
+   are technically necessary. If you continue to browse without changing
+   your settings you accept this processing and also the transfer of data
+   to third parties. The data will be used for analysis, retargeting and
+   for the delivery of personalized content and advertising on our
+   website, as well as on third-party websites. You can click the
+   “Continue” button to accept our policy in your browser so this message
+   does not appear in the future. Further information, including
+   information on data processing by third parties and opt-out options,
+   can be found in our Privacy Policy accessible under the link “Find out
+   more”.
+
+   Toshiba
+
+   Toshiba Electronic Devices & Storage Corporation Europe (EMEA)
+
+     * Plan du site
+
+   Contact us
+   ____________________
+   [ALL___________________________________________________] [BUTTON Input]
+   (not implemented)__________
+   [Recherche de référence___________..]
+
+Select other search
+
+     * Rechercher par référence croisée
+     * Recherche sur mots-clefs
+     * Recherche paramétrique
+
+     * Accueil
+     * Produits
+          + Produits de stockage (HDD)
+          + Transistors à effet de champ MOS
+          + Transistors bipolaires
+          + IGBTs / IEGT
+          + Diodes
+          + Dispositifs à semi-conducteurs optiques
+          + Circuits intégrés linéaires
+          + Circuits intégrés de logiqueUpdated
+          + Capteurs
+          + Micro-ordinateur
+          + Circuits intégrés pour équipements de communication
+          + Dispositifs pour l'industrie automobile
+          + CSS
+          + Dispositifs RF
+          + Adresse IP logicielle
+          + Enterprise HDD (eHDD)Updated
+          + Client HDD (cHDD)Updated
+          + Application spécialeUpdated
+          + Toshiba Personal Storage
+          + Tendances et technologies
+          +
+               o TOSHIBA REVIEW
+               o Livre blanc
+               o Format avancé
+               o Clips vidéo
+               o Études de cas et exemples de réussite
+          + Support technique
+          +
+               o Archive produits
+               o Signification de la référence du modèle
+          + Assistance sous garantie
+          + À propos de Toshiba Storage Products
+          +
+               o Événements-clefs
+               o Manufacturing Site
+               o Toshiba Storage.com
+          + Press Center
+          +
+               o Ce qu'en dit la presse
+               o Récompenses
+          + 12V - 300V MOSFETsUpdated
+          + 400V - 900V MOSFETsUpdated
+          + Transistors à effet de champ MOS pour l'industrie
+            l'automobileUpdated
+          + Minitransistors à effet de champ MOS à faible résistance à
+            l'état passant
+          +
+               o Lineup of Small Packages
+               o Low On-Resistance
+               o Application
+          + Transistors bipolaires
+          + Transistors intégrés à résistance de circuit de polarisation
+            (BRT)
+          + Dispositifs multipuce séparés
+          + Transistors bipolaires RF
+          + IGBTs
+          + IEGT
+          +
+               o Plastic Case Module IEGTs (PMIs)
+               o Press-Pack IEGTs (PPIs)
+               o Principle of Operation
+               o Hybrid IEGT / SiC-SBD Modules
+          + Diodes SiC à barrière de Schottky
+          +
+               o La structure JBS améliorée réduit le courant de fuite et
+                 augmente la capacité du courant de choc
+               o SiC Schottky barrier diodes (SBDs) with low switching
+                 loss
+               o High withstand voltage (reverse voltage) characteristics
+                 of SiC SBDs
+          + Diodes à barrière de Schottky
+          + Diodes de protection ESD
+          + Diodes de redresseur
+          + Diodes de commutation
+          + Diodes Zener
+          + Diodes RF
+          + Photocoupleurs/photorelais
+          + Photorelay Updated
+          + Coupleur fibre (TOSLINK™)
+          + Entraînements de moteur
+          +
+               o Brushed Motor Drivers
+               o Entraînements de moteur sans collecteur
+               o Entraînements de moteur pas à pas
+          + Régulateurs LDO
+          +
+               o Low dropout voltage
+               o Fast load transient response
+               o High Ripple Rejection
+               o Various built-in functions
+          + Commandes par diodes
+          + IC de chargeur sans fil
+          + Réseaux de transistorsUpdated
+          + Dispositifs assistés intelligents (IPD)
+          +
+               o IPD (60 V)
+               o IPD (250 V / 500 V)
+          + Circuits intégrés d'alimentation
+          +
+               o Circuits intégrés de conversion CC-CC : sortie multiple
+               o Circuits intégrés à commutation de charge
+               o Circuits intégrés de commande PFC
+               o Circuits intégrés de chargeur de batterie
+               o Réseaux de dispositifs de décalage de niveau
+          + Circuits intégrés d'amplificateur opérationnel et de
+            comparateur
+          +
+               o Circuits intégrés d'amplificateur opérationnel
+               o Comparateur de circuits intégrés
+          + Circuits intégrés de logique CMOS
+          + Logique à une porte (L-MOS)
+          + Interrupteurs de bus
+          + Dual-Supply Level Shifters
+          + Capteurs d'image linéaires
+          + Capteurs magnétiques
+          + Recommended Products
+          + Gamme de produits
+          +
+               o Arm Core-Based Microcontrollers
+                    # - Série TXZ3
+                    # - Série TXZ4
+                    # - Série TX00
+                    # - Série TX03
+                    # - Série TX04
+                    # - Série TX09
+               o Toshiba Original Core-Based Microcontrollers
+                    # - Série TLCS-870/C1
+                    # - Série TLCS-900/H1
+                    # - Série TX19A/H1
+               o Microcontrollers Motor Control
+          + Design / Support
+          +
+               o Avis importants
+               o Technologie
+               o Development Environment
+               o Evaluation Kits and Reference Boards
+               o Application Notes / Sample Programs
+               o Partner Information
+          + Bluetooth® wireless communication ICUpdated
+          +
+               o TC35680 LE (5.0) Ultra-Low Current + Flash ROM
+               o TC35681 LE (5.0) Ultra-Low Current
+               o Bluetooth® LE Low Power IC (4.2) + Flash ROM
+               o TC3567C LE (4.2) Enhanced Security & Ultra-Low Current +
+                 Flash ROM
+               o Bluetooth® LE Low Power IC (4.2)
+               o TC3567D LE (4.2) Enhanced Security & Ultra-Low Current
+               o Bluetooth® LE IC (4.1) + Flash ROM
+               o Bluetooth® LE IC (4.1) + Flash ROM + NFC Tag
+               o Bluetooth® LE(4.0) + NFC Tag
+               o Bluetooth® LE IC
+               o Bluetooth® LE & Classic IC
+               o Bluetooth® Applications
+               o Design Support, Documents & Software
+                    # - LE (4.2) USB Starter Kit
+                    # - Dual Mode Starter Kit
+                    # - Dual Mode Module²
+                    # - Dual Mode USB Evaluation Stick
+                    # - LE Starter Kit
+                    # - LE Stand Alone Starter Kit
+                    # - LE (4.0/4.1) + NFC Tag Starter Kit
+          + RF ICs for IoT/Extremely Low-Power Radio Applications
+          + Processeurs de reconnaissance d'image
+          + Processeurs vidéo pour l'industrie automobile
+          + Circuits intégrés d'amplificateur
+          + Text-To-Speech Middleware
+          + Microcontrôleurs pour l'industrie automobile
+          + Analog Devices
+          + Entraînements de moteur
+          + Alimentation système pour automobile
+          + Dispositifs RF pour l'industrie automobile
+          + Circuits intégrés RF pour service de communication de véhicule
+          + Transistors à effet de champ MOS pour l'industrie
+            l'automobileUpdated
+          + IPD pour l'industrie automobile
+          + Storage Solutions for Automotive Information & Entertainment
+            SystemsUpdated
+          + Automotive Interface Bridge ICsUpdated
+          +
+               o Automotive Peripheral Bridge ICs
+               o Automotive Ethernet Bridge ICs
+          + Automotive Devices in Small Packages
+          + Automotive Photocouplers / Photorelays
+          + HMI Solutions
+          + Circuits intégrés d'amplificateur
+          + Circuits intégrés pour autres produits
+          + Ponts d'interface (périphériques mobiles)
+          +
+               o Pont d'interface d'affichageUpdated
+               o Camera Interface Bridge
+               o HDMI® Interface Bridge
+               o Extension d'E/S
+          + Circuits intégrés de commutation RF
+          + MOSFET RF
+          + Transistors bipolaires RF
+          + Diodes RF
+          + Modèle de simulation (circuits intégrés RF)
+     * Applications
+          + Industrie automobile
+          + Industrial
+          + Office and Personal
+          + Grand public
+          + Commande moteur
+          + Communications sans fil
+          + Gestion de l'alimentation
+          + Safety
+          +
+               o Advanced Driver Assistance Systems (ADAS)
+               o Parking Assist Systems
+               o Commande de freinage (ABS/ESC)
+               o Suspension à commande électrique
+               o Système de surveillance de pression des pneus
+               o Airbags
+               o Ceinture de sécurité à retenue avant collision
+               o Technologies de sécurité fonctionnelle
+          + Information
+          +
+               o Center Information Display
+               o Mains libres
+               o Télédéverrouillage (RKE)
+          + Environment
+          +
+               o Système HEV/EV
+               o Automotive Drive System (Inverter)
+               o DC-DC Converter
+               o Système de gestion de batteries
+               o Direct Injection
+               o Transmission Control
+               o Start-Stop Systems
+               o Commande de pompe
+               o Electronic Power Steering System
+               o Ventilateur
+               o Heating, Ventilation and Air-Conditioning (HVAC)
+               o Electric parking brake (EPB), power sliding doors,
+                 precrash seat belt tensioners
+               o Porte coulissante motorisée
+               o Système d'éclairage DHI
+               o Lampe frontale à diodes
+               o Junction Box
+          + Energy systems
+          +
+               o Solar Power
+               o Micro Inverters
+               o String Inverters
+          + Compteurs intelligents
+          + Sécurité
+          +
+               o Surveillance camera
+          + Lecteur de codes-barres
+          + Cloud storage
+          + ServerNEW
+          + Human Machine Interface
+          + PLC
+          + Cordless electric power tool
+          + Postes à souder
+          + Base StationNEW
+          + Périphérique pour PC
+          +
+               o Imprimantes
+               o Photocopieurs
+               o Scanners
+               o Note PC
+               o Desktop PC
+          + Portable
+          +
+               o Smartphone / tablette
+               o Téléphone portable
+               o FRS, GMRS
+               o Dispositifs d'information portables
+          + Dispositifs à porter sur soi
+          +
+               o VR Head Mounted Display
+               o Smartwatches
+          + Healthcare
+          +
+               o Fitness Trackers
+          + White goods
+          +
+               o Climatiseurs
+               o Réfrigérateurs
+               o Lave-linge
+               o Tables de cuisson à induction
+               o Autocuiseurs à induction
+               o Lave-vaisselle
+               o Fours à micro-ondes
+               o Bidet
+               o Chauffe-eau
+          + Éclairage par diodes
+          + Image et audiovisuel
+          +
+               o Téléviseurs numériques
+               o Appareils reflex numériques
+               o Caméscopes numériques
+               o Audio
+               o Récepteurs AM
+               o Récepteurs FM
+          + Équipements de divertissement
+          + Drone (Multi-rotor helicopter)
+          + Bluetooth Mesh Solutions
+          + Power Supply
+          + Battery Management
+          + Application by Power Supplies
+          + Other Power Management
+          + Design Topology by AC-DC Power Supplies
+          + Alimentations linéaires
+          + Design Topology by DC-DC Power Supplies
+     * Design / Support
+          + Rechercher
+          +
+               o Rechercher par référence croisée
+               o Recherche paramétrique
+          + Boîtiers et conditionnement
+          + Reliability Information
+          + Conventions de domination
+          + Reference Design CenterNEW
+          + WhitepapersNEW
+          + Security Advisories
+          + Frequently Asked Questions (FAQs)
+          + Documents
+          +
+               o Catalogue généralUpdated
+               o Notes d'applicationUpdated
+               o FAB Sheets
+               o Catalogues
+          + Simulation
+          +
+               o Entraînements de moteur
+               o Power Supply ICs / LED Drivers
+          + Clips vidéoUpdated
+          +
+               o Industrie automobile
+               o Gestion de l'alimentationUpdated
+               o Motor Solutions
+               o Communications sans fil
+               o Storage Products Updated
+               o ASSPs and the others
+               o e-Learning
+          + Innovation Centre
+          + e-Learning
+          + Special
+          +
+               o Interview of motor solutions
+               o Interview of Power MOSFETs
+     * Essai / achat
+          + Où acheter
+          + Stock Check & Purchase
+          + eSampling
+     * Information d’entreprise
+          + About Toshiba Electronics Europe
+          +
+               o À propos de nous
+               o Management
+               o Environmental Activities
+                    # - Politique environnementale de Toshiba Electronics
+                      Europe GmbH
+                    # - Environment (WEEE and RoHS)
+               o ToshibaOffices
+               o E-Commerce Capabilities of Toshiba Electronics Europe
+               o Quality Policy of Toshiba Electronics Europe GmbH
+               o Politique de confidentialité
+               o Terms & Conditions
+               o Imprint
+          + Press Center
+          +
+               o Press Releases
+               o Press Contacts
+          + Newsletter
+          + Events Calendar
+          + Information d’entreprise
+          +
+               o Basic Corporate Data
+               o Message from the President
+               o The Toshiba Commitment
+               o Procurement
+               o Management Structure , Officers
+               o Business Outline
+               o Fabricants étrangers
+               o Succursales et filiales
+               o Service commercial mondial
+          + Technical ReviewUpdated
+          + Environmental Activities
+          +
+               o Current Status of Environmental Impact and Environmental
+                 Targets and Outcomes
+               o Commendation
+               o Acquisition of ISO14001 Certification
+               o Documents
+          + Terms and Conditions of Use
+
+     *
+     *
+     *
+     *
+     * WORLDS HIGHEST SALES REVENUE FOR EIGHT CONSECUTIVE YEARS* Improves
+       the safety, cuts power consumption and reduces the size of end
+       products Picture with photocoupler on it
+     *
+
+
+
+Actualité Plus
+
+   To left
+
+   29-10-2019
+
+   Toshiba annonce un nouveau CI pré-driver pour la commande de moteur
+   triphasé sans balais
+
+   23-10-2019
+
+   Toshiba lance un CI driver PWM sinusoïdal 600V pour moteurs triphasés
+   sans balais
+
+   21-10-2019
+
+   Toshiba lance des diodes TVS à faible capacitance, destinées à la
+   protection ESD
+
+   08-10-2019
+
+   Toshiba lance un photorelais piloté en tension avec une minuscule
+   empreinte de 2.9 mm2
+
+   26-09-2019
+
+   Toshiba lance un CI driver de solénoïde haute-tension à 2 canaux
+
+   06-08-2019
+
+   Toshiba lance un CI pré-driver pour la commande sans capteur de moteurs
+   CC sans balais
+
+   24-06-2019
+
+   Toshiba annonce des CI contrôleurs de moteur triphasé sans-balais, à
+   commande sinusoïdale
+
+   18-06-2019
+
+   Toshiba launches CCD linear image sensor with enhanced performance
+
+   To right
+
+Produits Plus
+
+     * Produits de stockage (HDD)
+     *
+          + Enterprise HDD (eHDD)Updated
+          + Client HDD (cHDD)Updated
+          + Application spécialeUpdated
+
+     * Circuits intégrés linéaires
+     *
+          + Entraînements de moteur
+          + Régulateurs LDO
+          + IC de chargeur sans fil
+          + Circuits intégrés d'alimentation
+          + Dispositifs assistés intelligents (IPD)
+          + Commandes par diodes
+          + Circuits intégrés d'amplificateur opérationnel et de
+            comparateur
+          + Réseaux de transistorsUpdated
+
+     * Micro-ordinateur
+     *
+          + Série TXZ3
+          + Série TXZ4
+          + Série TX00
+          + Série TX03
+          + Série TX04
+          + Série TX09
+          + Série TX19A/H1
+          + Série TLCS-900/H1
+          + Série TLCS-870/C1
+
+     * CSS
+     *
+          + HMI Solutions
+          + Circuits intégrés d'amplificateur
+          + Ponts d'interface (périphériques mobiles)
+
+     * Capteurs
+     *
+          + Capteurs d'image linéaires
+          + Capteurs magnétiques
+
+     * Transistors à effet de champ MOS
+     *
+          + 12V - 300V MOSFETsUpdated
+          + 400V - 900V MOSFETsUpdated
+          + Transistors à effet de champ MOS pour l'industrie
+            l'automobileUpdated
+          + Minitransistors à effet de champ MOS à faible résistance à
+            l'état passant
+
+     * IGBTs / IEGT
+     *
+          + IGBTs
+          + IEGT
+
+     * Diodes
+     *
+          + Diodes SiC à barrière de Schottky
+          + Diodes à barrière de Schottky
+          + Diodes de protection ESD
+          + Diodes de redresseur
+          + Diodes de commutation
+          + Diodes Zener
+
+     * Dispositifs pour l'industrie automobile
+     *
+          + Processeurs de reconnaissance d'image
+          + Processeurs vidéo pour l'industrie automobile
+          + Circuits intégrés d'amplificateur
+          + Microcontrôleurs pour l'industrie automobile
+          + Entraînements de moteur
+          + Alimentation système pour automobile
+          + Dispositifs RF pour l'industrie automobile
+          + Circuits intégrés RF pour service de communication de véhicule
+          + Transistors à effet de champ MOS pour l'industrie
+            l'automobileUpdated
+          + IPD pour l'industrie automobile
+          + Storage Solutions for Automotive Information & Entertainment
+            SystemsUpdated
+          + Automotive Interface Bridge ICsUpdated
+          + Automotive Devices in Small Packages
+          + Automotive Photocouplers / Photorelays
+
+     * Dispositifs à semi-conducteurs optiques
+     *
+          + Photocoupleurs/photorelais
+          + Photorelay Updated
+          + Coupleur fibre (TOSLINK™)
+
+     * Transistors bipolaires
+     *
+          + Transistors bipolaires
+          + Transistors intégrés à résistance de circuit de polarisation
+            (BRT)
+          + Dispositifs multipuce séparés
+
+     * Circuits intégrés pour équipements de communication
+     *
+          + Bluetooth® wireless communication ICUpdated
+          + RF ICs for IoT/Extremely Low-Power Radio Applications
+
+     * Circuits intégrés de logiqueUpdated
+     *
+          + Circuits intégrés de logique CMOS
+          + Logique à une porte (L-MOS)
+          + Interrupteurs de bus
+          + Dual-Supply Level Shifters
+
+     * Dispositifs RF
+     *
+          + Circuits intégrés de commutation RF
+          + Modèle de simulation (circuits intégrés RF)
+          + MOSFET RF
+          + Transistors bipolaires RF
+          + Diodes RF
+
+Applications Plus
+
+   Automotive
+
+   Industrial
+
+   Office and Personal
+
+   Consumer Electronics (Including Home-Appliances and Audio-Visual)
+
+   Power Management
+
+   Motor Control
+
+   Wireless Communications
+
+Conception / assistance Plus
+
+     * Nous contacter
+     *
+
+     * Innovation Centre
+     *
+
+     * Boîtiers et conditionnement
+     *
+
+     * Reliability Information
+     *
+
+     * Simulation
+     *
+
+     * Documents
+     *
+          + FAB Sheets
+
+     * Clips vidéoUpdated
+     *
+
+   Produits grand public
+
+          + Disques durs
+          + TransferJet™
+
+   Une nouvelle fenêtre s'ouvre Une nouvelle fenêtre s'ouvre
+   To Top
+     * Plan du site
+
+     * YouTube (A new window will open.)
+     * LinkedIn (A new window will open.)
+     * Newsletter (A new window will open.)
+
+   close
+
+   Weibo QR Description
+
+   Popup QR Description
+   close
+
+   WeChat QR Description
+
+   Popup QR Description
+     * Politique de confidentialité
+     * Conditions générales
+     * Adresse bibliographique

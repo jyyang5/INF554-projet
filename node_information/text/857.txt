@@ -1,0 +1,5282 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Cliquez ici pour revenir à la page d'accueil d'Amazon Web Services
+   Contacter l'équipe commerciale Support  Français  Mon compte
+   Créer un compte AWS
+     * Produits
+     * Solutions
+     * Tarification
+     * Documentation
+     * Apprendre
+     * Réseau de partenaires
+     * AWS Marketplace
+     * Déploiements clients
+     * Découvrir davantage
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Paramètres de compte
+     * Gestion de facturation et coût
+     * Informations d'identification de sécurité
+     * AWS Personal Health Dashboard
+
+     * Centre de support
+     * Centre de connaissances
+     * Présentation d'AWS Support
+
+   Cliquer ici pour revenir à la page d'accueil d'Amazon Web Services
+   ____________________
+
+     * Produits
+     * Solutions
+     * Tarification
+     * Introduction à AWS
+     * Mise en route
+     * Documentation
+     * Formation et certification
+     * Centre pour développeurs
+     * Témoignages de réussite
+     * Réseau de partenaires
+     * AWS Marketplace
+     * Support
+     * Se connecter à la console
+     * Télécharger l'application mobile
+
+   Machine Learning
+   Présentation Services d'IA  Services de ML  Frameworks  Infrastructure
+   En savoir plus sur le ML  Blog Partenaires Clients
+
+   Amazon Comprehend Amazon Comprehend Medical Amazon Forecast Amazon Lex
+   Amazon Personalize Amazon Polly Amazon Rekognition Amazon Textract
+   Amazon Transcribe Amazon Translate
+
+   AMI AWS DL Conteneurs AWS DL TensorFlow sur AWS PyTorch sur AWS
+   Apache MXNet sur AWS
+
+   Amazon SageMaker Amazon SageMaker Ground Truth Amazon SageMaker Neo
+
+   AWS DeepRacer AWS DeepLens Formation sur le ML COMMUNAUTÉ
+
+   GPU Elastic Inference AWS Inferentia Processeurs FPGA Edge
+
+Le machine learning sur AWS
+
+   Mettre le machine Learning à la portée de tous les développeurs
+
+
+   AWS dispose de l'ensemble le plus large et le plus complet de services
+   de machine learning et d'IA pour votre entreprise.
+
+   Au nom de nos clients, nous nous concentrons sur la résolution de
+   certains des défis les plus difficiles qui empêchent le machine
+   learning d'être à la portée de chaque développeur.
+
+   Vous pouvez choisir entre des services d'IA préformées pour la vision
+   par ordinateur, le langage, les recommandations et les prévisions ;
+   Amazon SageMaker pour construire, former et déployer rapidement des
+   modèles de machine learning à l'échelle ; ou construire des modèles
+   personnalisés prenant en charge tous les frameworks open-source
+   populaires.
+
+   Nos capacités s'appuient sur la plateforme de cloud la plus complète du
+   marché, optimisée pour le machine learning avec des calculs haute
+   performance et sans compromis en matière de sécurité et d'analyse.
+   Expedia Group
+
+   « AWS est notre plateforme ML de choix, ouvrant de nouvelles voies pour
+   tenir notre promesse d'être la plateforme mondiale du voyage ».
+
+   --Matthew Fryer, Vice-président et chef des données scientifiques de
+   Hotels.com, Expedia Group
+
+10 000 + Clients
+
+Le machine learning est bien plus actif sur AWS que partout ailleurs.
+
+   Clients d’AWS Machine Learning
+
+   En savoir plus »
+     __________________________________________________________________
+
+   Services de ML
+   Services de ML
+
+   Construire, former et déployer rapidement le ML
+   Services d'IA
+   Services d'IA
+
+   Ajoutez facilement de l'intelligence à vos applications
+   Frameworks
+   Frameworks
+
+   Choix et flexibilité avec le support du framework le plus large
+   possible
+   Calcul
+   Calcul
+
+   Options de calcul les plus rapides et les moins coûteuses
+   Analyses et sécurité
+   Analyses et sécurité
+
+   Des capacités complètes, aucun compromis
+   Outils d’apprentissage
+   Outils d’apprentissage
+
+   Approfondissez vos connaissances sur ML avec AWS DeepRacer et DeepLens
+
+SERVICES DE ML
+
+   Amazon SageMaker
+
+   Créer, former et déployer des modèles de machine learning rapidement
+
+   Amazon SageMaker permet aux développeurs et aux spécialistes des
+   données de créer, former et déployer rapidement et facilement des
+   modèles de machine learning à n'importe quelle échelle. Il élimine la
+   complexité qui entrave la mise en œuvre réussie du machine learning
+   dans tous les cas d'utilisation et tous les secteurs d'activité, qu'il
+   s'agisse d'exécuter des modèles pour la détection des fraudes en temps
+   réel, d'analyser virtuellement les impacts biologiques de médicaments
+   potentiels ou de prédire le succès de la base volée au baseball.
+
+   En savoir plus »
+
+   CRÉATION
+     __________________________________________________________________
+
+   Algorithmes 10 fois plus performants : Utilisez des algorithmes
+   préinstallés et optimisés pour des performances 10 fois supérieures
+   avec Amazon SageMaker.
+
+   Carnets Jupyter pré-construits : Les instances entièrement gérées pour
+   les données de formation et le prétraitement.
+
+   Marché des algorithmes : Choisissez parmi les divers algorithmes et
+   modèles disponibles dans AWS Marketplace pour le Machine Learning.
+
+   70 % de réduction des coûts : Créez des ensembles de données de
+   formation très précis et réduisez les coûts d'étiquetage des données
+   jusqu'à 70 % avec Amazon SageMaker Ground Truth.
+
+   FORMATION
+     __________________________________________________________________
+
+   Formation en un seul clic et réglage automatique du modèle avec
+   fonctions AutoML pour des prédictions de modèle les plus précises.
+
+   S'entraîner une fois, courir n'importe où avec 2 fois plus de
+   performance : Amazon SageMaker Neo vous permet de former votre modèle
+   une seule fois et de l'exécuter sur plusieurs configurations
+   matérielles avec jusqu'à deux fois plus de performances.
+
+   Entièrement gérée : Simplification de la formation sur les modèles par
+   la gestion de l'ensemble de l'infrastructure sous-jacente afin que vous
+   puissiez facilement dimensionner les modèles.
+
+
+   DÉPLOYER
+     __________________________________________________________________
+
+   Déploiement en un seul clic : Déployez avec des clusters de mise à
+   l’échelle automatique répartis sur plusieurs zones pour offrir à la
+   fois de hautes performances et une haute disponibilité.
+
+   Réduire les coûts d'inférence jusqu'à 75 % : Amazon Elastic Inference
+   vous permet de provisionner juste ce dont vous avez besoin en termes de
+   performances GPU.
+
+   Test A/B automatique : Gestion des tests des modèles A/B sur jusqu'à
+   cinq modèles différents, ce qui vous donne une grande flexibilité pour
+   effectuer des expériences.
+
+   Hébergement entièrement géré avec mise à l’échelle automatique :
+   Gestion de l'infrastructure de production pour effectuer des contrôles
+   de santé, appliquer des correctifs de sécurité et effectuer l'entretien
+   habituel.
+   GE Healthcare
+   Hotels.com
+   NFL
+   Intuit
+   Thomson Reuters
+   Dow Jones
+
+SERVICES D'IA
+
+   Ajoutez facilement de l'intelligence aux applications
+
+   Aucune compétence en apprentissage automatique n'est requise
+
+   Les services d'IA préformés d'AWS fournissent une intelligence prête à
+   l'emploi pour vos applications et vos flux de travail. Les services
+   d’IA s'intègrent facilement à vos applications pour traiter les cas
+   d'utilisation courants tels que les recommandations personnalisées, la
+   modernisation de votre centre d'appels, l'amélioration de la sécurité
+   et de la sûreté et l'engagement accru des clients. Parce que nous
+   utilisons la même technologie d'apprentissage en profondeur
+   qu'Amazon.com et nos services de ML, vous bénéficiez de la qualité et
+   de la précision des API à apprentissage continu. Enfin, le meilleur de
+   tout, les services d'IA sur AWS n'exigent pas d'expérience en machine
+   learning.
+   Recommendations
+
+Recommendations
+
+   Personnalisez les expériences de vos clients avec la même technologie
+   de recommandation qu'Amazon.com.
+
+   AMAZON PERSONALIZE »
+
+
+   Prévisions
+
+Prévisions
+
+   Construisez des modèles de prévision précis basés sur la même
+   technologie de prévision de machine learning utilisée par Amazon.com.
+
+   AMAZON FORECAST »
+
+
+   Analyse d'images et de vidéos
+
+Analyse d'images et de vidéos
+
+   Ajoutez l'analyse d'images et de vidéos à vos applications pour
+   cataloguer les ressources, automatiser les flux de travail multimédia
+   et extraire du sens.
+
+   AMAZON REKOGNITION »
+
+
+   Analyse de texte avancée
+
+Analyse de texte avancée
+
+   Utilisez le traitement du langage naturel pour extraire des idées et
+   des relations à partir de textes non structurés.
+
+   AMAZON COMPREHEND »
+
+
+   Analyse de document
+
+Analyse de document
+
+   Extrayez automatiquement le texte et les données de millions de
+   documents en quelques heures seulement,en réduisant ainsi les efforts
+   manuels.
+
+   AMAZON TEXTRACT »
+
+
+   Voix
+
+Voix
+
+   Convertissez le texte en enregistrement audio réaliste pour donner une
+   voix à vos applications.
+
+   AMAZON POLLY »
+
+
+   Agents de conversation
+
+Agents de conversation
+
+   Créez facilement des agents de conversation pour améliorer le service à
+   la clientèle et accroître l'efficacité du centre de contact.
+
+   AMAZON LEX »
+
+
+   Traduction
+
+Traduction
+
+   Élargissez votre portée grâce à une traduction efficace et rentable
+   afin d’atteindre des publics dans plusieurs langues.
+
+   AMAZON TRANSLATE »
+
+
+   Transcription
+
+Transcription
+
+   Ajoutez facilement des fonctionnalités de synthèse vocale de haute
+   qualité à vos applications et flux de travail.
+
+   AMAZON TRANSCRIBE »
+
+
+   Solutions Motorola
+   Duolingo
+   Finra
+   VidMob
+   NASA
+   Appareils GE
+
+FRAMEWORKS DE ML
+
+Choix et flexibilité avec les frameworks de ML
+
+   Choisissez parmi TensorFlow, PyTorch, Apache MXNet, et d'autres
+   frameworks répandus pour expérimenter et personnaliser les algorithmes
+   de machine learning. Vous pouvez utiliser le framework de votre choix
+   comme une expérience gérée dans Amazon SageMaker, ou les AMI d’AWS Deep
+   Learning (Amazon Machine Images), qui sont entièrement configurées avec
+   les dernières versions de frameworks et outils de deep learning les
+   plus répandus.
+     * 81 % des projets de deep learning dans le cloud s’exécutent sur AWS
+     * 85 % des projets TensorFlow dans le cloud s’exécutent sur AWS
+     * Réduction du temps de formation de 50 % : Tel que mesuré dans le
+       test d'analyse comparative ResNet-50, le TensorFlow optimisé par
+       AWS a enregistré le temps de formation le plus rapide, de plus de
+       50 %
+     * Efficacité de mise à l’échelle de 90 % : L'utilisation de
+       TensorFlow optimisé par AWS permet une efficacité de mise à
+       l’échelle quasi linéaire, jusqu'à 90 % contre 65 % avec TensorFlow
+       en stock
+
+   En savoir plus »
+
+
+
+   85 %
+
+   des projets TensorFlow dans le cloud s’exécutent sur AWS
+
+   En savoir plus »
+
+
+   Zendesk
+   News Corp Australia
+   Hudl
+   Snapchat
+   Celgene
+   Siemens
+
+CALCUL
+
+Obtenez la bonne capacité de calcul pour tous les cas d'utilisation
+
+   Tirez parti d’un large éventail d'options de calcul puissantes, allant
+   des GPU pour l'apprentissage profond exigeant en matière de calcul aux
+   FPGA pour l'accélération de matériel spécialisé, en passant par les
+   instances à mémoire élevée pour l'exécution d'opérations d'inférence.
+   Amazon EC2 fournit une large sélection de types d'instance optimisés
+   pour s'adapter aux cas d'utilisation de machine learning, que vous
+   soyez en train de former des modèles ou d'exécuter des inférences sur
+   des modèles formés.
+     * Débit réseau 3 fois plus rapide que les autres fournisseurs
+       utilisant des instances P3dn
+     * 25 % d'amélioration du prix et des performances en utilisant des
+       instances C5 alimentées par Intel Xeon 3.0GHz par rapport aux
+       instances de la génération précédente
+     * Accélération personnalisée du matériel en utilisant les instances
+       F1 avec des réseaux de portes programmables in situ (FPGA ou
+       Field-programmable gate array)
+
+   GPU | Amazon EC2 P3
+
+   INFÉRENCE PERSONALISÉE | Amazon Elastic Inference
+
+   GPU | Amazon EC2 C5
+
+   FPGA  | Amazon EC2 F1
+
+   PÉRIPHÉRIE | AWS Greengrass
+
+     __________________________________________________________________
+
+ANALYSE ET SÉCURITÉ
+
+Analyse et sécurité pour le machine learning
+
+   Pour réussir dans le domaine du machine learning, vous avez besoin non
+   seulement de capacités en la matière, mais également de la de la
+   sécurité, du magasin de données et de services d'analyse
+   appropriés. Avec AWS, vous bénéficiez des fonctionnalités les plus
+   complètes pour prendre en charge vos charges de travail de machine
+   learning.
+     * 99,99999999999 % de durabilité et disponibilité inégalée avec
+       Amazon S3 et Amazon S3 Glacier pour le stockage
+     * Jusqu'à 400 % plus rapide des requêtes de données en utilisant
+       Amazon Redshift pour l’analyse
+     * Ensemble de capacités de sécurité et de chiffrement les plus
+       approfondis
+
+
+
+
+   STOCKAGE | Amazon S3
+
+   ANALYSE | AWS Analytics
+
+   SÉCURITÉ | AWS Security
+
+OUTILS D’APPRENTISSAGE
+
+Apprenez davantage avec le machine learning
+
+AWS DeepRacer
+
+   AWS DeepRacer est une voiture de course entièrement autonome à
+   l'échelle 1/18ème conçue pour vous aider à apprendre à renforcer
+   l'apprentissage par la conduite autonome.
+     * Vivez l'émotion de la course dans le monde réel lorsque vous
+       déployez votre modèle RL sur AWS DeepRacer
+
+     * Créez des modèles dans Amazon SageMaker, puis entraînez-vous,
+       testez et itérez sur la piste en utilisant le simulateur de course
+       3D d'AWS DeepRacer
+
+     * À partir de 2019, participez à la première ligue de course autonome
+       mondiale au monde afin de compétir pour gagner des prix et avoir
+       une chance d’avance de gagner le très convoité trophée AWS
+       DeepRacer
+
+   En savoir plus »
+     __________________________________________________________________
+
+   Voiture de course autonome AWS Deepracer
+   Caméra vidéo AWS Deeplens
+
+AWS DeepLens
+
+   AWS DeepLens est la première caméra vidéo avec apprentissage profond au
+   monde destinée aux développeurs. Intégré avec Amazon SageMaker et de
+   nombreux autres services AWS, il vous permet de commencer le deep
+   learning en moins de 10 minutes grâce à des exemples de projets
+   pratiques et concrets.
+     * Choisissez un modèle d'apprentissage profond dans la bibliothèque
+       de modèles préformés AWS DeepLens ou vos propres modèles formés
+       avec Amazon SageMaker.
+     * Déployez votre modèle sur l'appareil en un clic.
+     * Suivez les résultats en temps réel dans AWS Management Console.
+
+   En savoir plus »
+
+
+   PROGRAMMES DE ML | POUR LES ORGANISATIONS
+
+Laboratoire de solutions Amazon ML
+
+   Le Laboratoire de solutions Amazon ML associe des ateliers de formation
+   pratique à des services professionnels de conseils, ce laboratoire vous
+   permet de « travailler à contre-courant » pour résoudre des
+   problématiques métier, et vous guide pas à pas tout au long du
+   processus de développement de solutions basées sur le machine learning.
+   Vous pourrez mettre en pratique ce que vous avez appris partout dans
+   votre organisation et appliquer le machine learning aux différentes
+   opportunités professionnelles qui se présentent.
+
+   En savoir plus »
+
+
+   PROGRAMMES DE ML | POUR CHERCHEURS
+
+Subventions de recherche en ML d’Amazon
+
+   Le programme de subventions de recherche en machine learning d'AWS
+   finance des départements universitaires, des facultés, des doctorants
+   et des post-doctorants qui mènent des recherches innovantes dans le
+   domaine du machine learning. Notre objectif est d'accélérer le
+   développement d'algorithmes, de publications et de codes sources
+   novateurs pour un large éventail d'applications et de domaines
+   d'intérêt en matière du machine learning.
+
+   En savoir plus »
+
+   PROGRAMMES DE ML | DÉVELOPPEURS
+
+Formation sur le Machine Learning
+
+   Commencez votre formation en matière de machine learning sur AWS avec
+   des cours basés sur les documents utilisés pour former les développeurs
+   Amazon en combinant les connaissances de base et la mise en pratique en
+   situation réelle. Les développeurs, les spécialistes de données, les
+   ingénieurs de plate-forme de données et les décideurs d’entreprise
+   peuvent utiliser cette formation pour apprendre à appliquer le ML, l'IA
+   et le deep learning (apprentissage profond) dans leur entreprise, leur
+   permettant ainsi de découvrir de nouvelles perspectives et de nouvelles
+   valeurs.
+
+   En savoir plus »
+
+   Se connecter à la console
+
+Se renseigner sur AWS
+
+     * Qu'est-ce qu'AWS ?
+     * Qu'est-ce que le cloud computing ?
+     * En quoi consiste les DevOps ?
+     * Qu'est-ce qu'un conteneur ?
+     * Qu'est-ce qu'un data lake ?
+     * Sécurité dans le Cloud AWS
+     * Nouveautés
+     * Blogs
+
+Ressources pour AWS
+
+     * Mise en route
+     * Formation et certification
+     * Portefeuille de solutions AWS
+     * Centre d'architecture
+     * Questions fréquentes (FAQ) techniques et sur les produits
+     * Rapports d'analystes
+     * Réseau de partenaires AWS
+
+Développeurs sur AWS
+
+     * Centre pour développeurs
+     * Kits SDK et outils
+     * Python sur AWS
+     * Java sur AWS
+     * PHP sur AWS
+     * Javascript sur AWS
+
+Aide
+
+     * Contactez-nous
+     * Emplois AWS
+     * Soumettre un ticket de support
+     * Centre de connaissances
+     * Présentation d'AWS Support
+     * Informations juridiques
+
+   Créer un compte AWS
+   Amazon est un employeur qui souscrit aux principes d'équité en matière
+   d'emploi : minorités, femmes, handicaps, seniors, identité de genre,
+   orientation sexuelle, âge.
+
+     * Langue
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Confidentialité
+     * |
+     * Conditions d'utilisation du site
+     * |
+     * © 2019, Amazon Web Services, Inc. ou ses sociétés apparentées. Tous
+       droits réservés.
+   #AWS Security Blog » All AWS Services GDPR ready Comments Feed RSS 2.0
+   Feed
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+   Blog Home Category  Edition  Follow
+   ____________________
+   (BUTTON)
+   AWS News AWS Podcast
+     __________________________________________________________________
+
+   Architecture AWS Cost Management AWS Partner Network AWS Marketplace
+   Big Data Business Productivity Compute Contact Center Database Desktop
+   and Application Streaming Developer DevOps Enterprise Strategy Game
+   Tech Infrastructure & Automation Internet of Things Machine Learning
+   Management Tools Media Messaging & Targeting Mobile Networking &
+   Content Delivery Open Source Public Sector SAP Security, Identity, &
+   Compliance Startups Storage
+   China Edition France Edition Germany Edition Japan Edition Korea
+   Edition Portuguese Edition Spanish Edition English Edition
+   Mailing List RSS Feed AWS Podcast
+
+AWS Security Blog
+
+All AWS Services GDPR ready
+
+   by Chad Woolf | on 26 MAR 2018 | in Amazon GuardDuty, Amazon Inspector,
+   Amazon Macie, AWS Config, Compliance, Security, Identity, & Compliance,
+   Webinars | Permalink | Comments |  Share
+     *
+     *
+     *
+     *
+     * https://aws.amazon.c
+
+   Today, I’m very pleased to announce that AWS services comply with the
+   General Data Protection Regulation (GDPR). This means that, in addition
+   to benefiting from all of the measures that AWS already takes to
+   maintain services security, customers can deploy AWS services as a key
+   part of their GDPR compliance plans.
+
+   This announcement confirms we have completed the entirety of our GDPR
+   service readiness audit, validating that all generally available
+   services and features adhere to the high privacy bar and data
+   protection standards required of data processors by the GDPR. We
+   completed this work two months ahead of the May 25, 2018 enforcement
+   deadline in order to give customers and APN partners an environment in
+   which they can confidently build their own GDPR-compliant products,
+   services, and solutions.
+
+   AWS’s GDPR service readiness is only part of the story; we are
+   continuing to work alongside our customers and the AWS Partner Network
+   (APN) to help on their journey toward GDPR compliance. Along with this
+   announcement, I’d like to highlight the following examples of ways AWS
+   can help you accelerate your own GDPR compliance efforts.
+
+   Security of Personal Data
+   During our GDPR service readiness audit, our security and compliance
+   experts confirmed that AWS has in place effective technical and
+   organizational measures for data processors to secure personal data in
+   accordance with the GDPR. Security remains our highest priority, and we
+   continue to innovate and invest in a high bar for security and
+   compliance across all global operations. Our industry-leading
+   functionality provides the foundation for our long list of
+   internationally-recognized certifications and accreditations,
+   demonstrating compliance with rigorous international standards, such as
+   ISO 27001 for technical measures, ISO 27017 for cloud security, ISO
+   27018 for cloud privacy, SOC 1, SOC 2 and SOC 3, PCI DSS Level 1, and
+   EU-specific certifications such as BSI’s Common Cloud Computing
+   Controls Catalogue (C5). AWS continues to pursue the certifications
+   that assist our customers.
+
+   Compliance-enabling Services
+   Many requirements under the GDPR focus on ensuring effective control
+   and protection of personal data. AWS services give you the capability
+   to implement your own security measures in the ways you need in order
+   to enable your compliance with the GDPR, including specific measures
+   such as:
+     * Encryption of personal data
+     * Ability to ensure the ongoing confidentiality, integrity,
+       availability, and resilience of processing systems and services
+     * Ability to restore the availability and access to personal data in
+       a timely manner in the event of a physical or technical incident
+     * Processes for regularly testing, assessing, and evaluating the
+       effectiveness of technical and organizational measures for ensuring
+       the security of processing
+
+   This is an advanced set of security and compliance services that are
+   designed specifically to handle the requirements of the GDPR. There are
+   numerous AWS services that have particular significance for customers
+   focusing on GDPR compliance, including:
+     * Amazon GuardDuty – a security service featuring intelligent threat
+       detection and continuous monitoring
+     * Amazon Macie – a machine learning tool to assist discovery and
+       securing of personal data stored in Amazon S3
+     * Amazon Inspector – an automated security assessment service to help
+       keep applications in conformity with best security practices
+     * AWS Config Rules – a monitoring service that dynamically checks
+       cloud resources for compliance with security rules
+
+   Additionally, we have published a whitepaper, “Navigating GDPR
+   Compliance on AWS,” dedicated to this topic. This paper details how to
+   tie GDPR concepts to specific AWS services, including those relating to
+   monitoring, data access, and key management. Furthermore, our GDPR
+   Center will give you access to the up-to-date resources you need to
+   tackle requirements that directly support your GDPR efforts.
+
+   Compliant DPA
+   We offer a GDPR-compliant Data Processing Addendum (DPA), enabling you
+   to comply with GDPR contractual obligations.
+
+   Conformity with a Code of Conduct
+   GDPR introduces adherence to a “code of conduct” as a mechanism for
+   demonstrating sufficient guarantees of requirements that the GDPR
+   places on data processors. In this context, we previously announced
+   compliance with the CISPE Code of Conduct. The CISPE Code of Conduct
+   provides customers with additional assurances regarding their ability
+   to fully control their data in a safe, secure, and compliant
+   environment when they use services from providers like AWS. More detail
+   about the CISPE Code of Conduct can be found at:
+   https://aws.amazon.com/compliance/cispe/
+
+   Training and Summits
+   We can provide you with training on navigating GDPR compliance using
+   AWS services via our Professional Services team. This team has a GDPR
+   workshop offering, which is a two-day facilitated session customized to
+   your specific needs and challenges. We are also providing GDPR
+   presentations during our AWS Summits in European countries, as well as
+   San Francisco and Tokyo.
+
+   Additional Resources
+   Finally, we have teams of compliance, data protection, and security
+   experts, as well as the APN, helping customers across Europe prepare
+   for running regulated workloads in the cloud as the GDPR becomes
+   enforceable. For additional information on this, please contact your
+   AWS Account Manager.
+
+   As we move towards May 25 and beyond, we’ll be posting a series of
+   blogs to dive deeper into GDPR-related concepts along with how AWS can
+   help. Please visit our GDPR Center for more information. We’re excited
+   about being your partner in fully addressing this important regulation.
+
+   -Chad Woolf
+
+   Vice President, AWS Security Assurance
+
+   Interested in additional AWS Security news? Follow the AWS Security
+   Blog on Twitter.
+
+   Author
+
+Chad Woolf
+
+   Chad joined Amazon in 2010 and built the AWS compliance functions from
+   the ground up, including audit and certifications, privacy, contract
+   compliance, control automation engineering and security process
+   monitoring. Chad’s work also includes enabling public sector and
+   regulated industry adoption of the AWS cloud, compliance with complex
+   privacy regulations such as GDPR and operating a trade and product
+   compliance team in conjunction with global region expansion. Prior to
+   joining AWS, Chad spent 12 years with Ernst & Young as a Senior Manager
+   working directly with Fortune 100 companies consulting on IT process,
+   security, risk, and vendor management advisory work, as well as
+   designing and deploying global security and assurance software
+   solutions. Chad holds a Masters of Information Systems Management and a
+   Bachelors of Accounting from Brigham Young University, Utah. Follow
+   Chad on Twitter.
+
+   TAGS: Amazon GuardDuty, Amazon Inspector, Amazon Macie, Best of 2018,
+   GDPR, General Data Protection Regulation
+   View Comments
+
+Resources
+
+   General Data Protection Regulation (GDPR) AWS Cloud Security Amazon
+   Guard​Duty Amazon Macie AWS Identity and Access Management (IAM) AWS
+   Directory Service AWS Artifact AWS Compliance
+     __________________________________________________________________
+
+Follow
+
+    Twitter  Facebook  LinkedIn  Twitch  Email Updates
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Customer Enablement
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+   Amazon S3
+   Overview Features Storage classes Pricing Getting started Resources
+   FAQs
+
+   Resources Videos
+
+Amazon S3
+
+Object storage built to store and retrieve any amount of data from anywhere
+
+   Get started with Amazon S3
+   Request more information
+
+   Amazon Simple Storage Service (Amazon S3) is an object storage service
+   that offers industry-leading scalability, data availability, security,
+   and performance. This means customers of all sizes and industries can
+   use it to store and protect any amount of data for a range of use
+   cases, such as websites, mobile applications, backup and restore,
+   archive, enterprise applications, IoT devices, and big data analytics.
+   Amazon S3 provides easy-to-use management features so you can organize
+   your data and configure finely-tuned access controls to meet your
+   specific business, organizational, and compliance requirements. Amazon
+   S3 is designed for 99.999999999% (11 9's) of durability, and stores
+   data for millions of applications for companies all around the world.
+   Introduction to Amazon S3
+
+Benefits
+
+Industry-leading performance, scalability, availability, and durability
+
+   Scale your storage resources up and down to meet fluctuating demands,
+   without upfront investments or resource procurement cycles. Amazon S3
+   is designed for 99.999999999% (11 9’s) of data durability because it
+   automatically creates and stores copies of all S3 objects across
+   multiple systems. This means your data is available when needed and
+   protected against failures, errors, and threats.
+   Learn about S3 data durability »
+
+Wide range of cost-effective storage classes
+
+   Save costs without sacrificing performance by storing data across the
+   S3 Storage Classes, which support different data access levels at
+   corresponding rates. You can use S3 Storage Class Analysis to discover
+   data that should move to a lower-cost storage class based on access
+   patterns, and configure an S3 Lifecycle policy to execute the transfer.
+   You can also store data with changing or unknown access patterns in S3
+   Intelligent-Tiering, which tiers objects based on changing access
+   patterns and automatically delivers cost savings.
+   Learn more about the S3 Storage Classes »
+
+Unmatched security, compliance, and audit capabilities
+
+   Store your data in Amazon S3 and secure it from unauthorized access
+   with encryption features and access management tools. S3 is the only
+   object storage service that allows you to block public access to all of
+   your objects at the bucket or the account level with S3 Block Public
+   Access. S3 maintains compliance programs, such as PCI-DSS,
+   HIPAA/HITECH, FedRAMP, EU Data Protection Directive, and FISMA, to help
+   you meet regulatory requirements. AWS also supports numerous auditing
+   capabilities to monitor access requests to your S3 resources.
+   Learn more about S3 security and compliance »
+
+Management tools for granular data control
+
+   Classify, manage, and report on your data using features, such as: S3
+   Storage Class Analysis to analyze access patterns; S3 Lifecycle
+   policies to transfer objects to lower-cost storage classes; S3
+   Cross-Region Replication to replicate data into other regions; S3
+   Object Lock to apply retention dates to objects and protect them from
+   deletion; and S3 Inventory to get visbility into your stored objects,
+   their metadata, and encryption status. You can also use S3 Batch
+   Operations to change object properties and perform storage management
+   tasks for billions of objects. Since Amazon S3 works with AWS Lambda,
+   you can log activities, define alerts, and automate workflows without
+   managing additional infrastructure.
+   Learn more about S3 storage management features »
+
+Query-in-place services for analytics
+
+   Run big data analytics across your S3 objects (and other data sets in
+   AWS) with our query-in-place services. Use Amazon Athena to query S3
+   data with standard SQL expressions and Amazon Redshift Spectrum to
+   analyze data that is stored across your AWS data warehouses and S3
+   resources. You can also use S3 Select to retrieve subsets of object
+   data, instead of the entire object, and improve query performance by up
+   to 400%.
+   Learn more about query in place »
+
+Most supported cloud storage service
+
+   Store and protect your data in Amazon S3 by working with a partner from
+   the AWS Partner Network (APN) — the largest community of technology and
+   consulting cloud services providers. The APN recognizes migration
+   partners that transfer data to Amazon S3 and storage partners that
+   offer S3-integrated solutions for primary storage, backup and restore,
+   archive, and disaster recovery. You can also purchase an AWS-integrated
+   solution directly from the AWS Marketplace, which lists over 250
+   storage-specific offerings.
+   Learn about the APN and AWS Marketplace »
+
+How it works — S3 Batch Operations
+
+   S3BatchOperationsHowitworks
+
+   S3 Batch Operations lets you manage billions of objects at scale with
+   just a few clicks in the Amazon S3 Management Console or a single API
+   request. With S3 Batch Operations, you can make changes to object
+   metadata and properties, or perform other storage management tasks,
+   such as copying objects between buckets, replacing object tag sets,
+   modifying access controls, and restoring archived objects from S3
+   Glacier — instead of taking months to develop custom applications to
+   perform these tasks. Learn more by watching the video tutorials.
+
+Use cases
+
+Backup and restore
+
+   Build scalable, durable, and secure backup and restore solutions with
+   Amazon S3 and other AWS services, such as S3 Glacier, Amazon EFS, and
+   Amazon EBS, to augment or replace existing on-premises capabilities.
+   AWS and APN partners can help you meet Recovery Time Objectives (RTO),
+   Recovery Point Objectives (RPO), and compliance requirements. With AWS,
+   you can back up data already in the AWS Cloud or use AWS Storage
+   Gateway, a hybrid storage service, to send backups of on-premises data
+   to AWS.
+   Learn more about backup and restore »
+
+Disaster recovery (DR)
+
+   Protect critical data, applications, and IT systems that are running in
+   the AWS Cloud or in your on-premises environment without incurring the
+   expense of a second physical site. With Amazon S3 storage, S3
+   Cross-Region Replication, and other AWS compute, networking, and
+   database services, you can create DR architectures in order to quickly
+   and easily recover from outages caused by natural disasters, system
+   failures, and human errors.
+   Learn more about DR »
+
+Archive
+
+   Retire physical infrastructure, and archive data with S3 Glacier and S3
+   Glacier Deep Archive. These S3 Storage Classes retain objects long-term
+   at the lowest rates. Simply create an S3 Lifecycle policy to archive
+   objects throughout their lifecycles, or upload objects directly to the
+   archival storage classes. With S3 Object Lock, you can apply retention
+   dates to objects to protect them from deletions, and meet compliance
+   requirements. Unlike tape libraries, S3 Glacier lets you restore
+   archived objects in as little as one minute for expedited retrievals
+   and 3-5 hours for standard retrievals. Bulk data restores from S3
+   Glacier and all restores from S3 Glacier Deep Archive are completed
+   within 12 hours.
+   Learn more about archiving »
+
+Data lakes and big data analytics
+
+   Accelerate innovation by creating a data lake in Amazon S3, and extract
+   valuable insights using query-in-place, analytics, and machine learning
+   tools. You can also use AWS Lake Formation to quickly create a data
+   lake, and centrally define and enforce security, governance, and
+   auditing policies. The service collects data across your databases and
+   S3 resources, moves it into a new data lake in Amazon S3, and cleans
+   and classifies it using machine learning algorithms. All AWS resources
+   can be scaled up to accommodate your expanding data stores — without
+   upfront investments.
+   Learn more about data lakes and AWS Lake Formation »
+
+Hybrid cloud storage
+
+   Create a seamless connection between on-premises applications and
+   Amazon S3 with AWS Storage Gateway in order to reduce your data center
+   footprint, and leverage the scale, reliability, and durability of AWS,
+   as well as AWS’ innovative machine learning and analytics capabilities.
+   You can also automate data transfers between on-premises storage and
+   Amazon S3 by using AWS DataSync, which can transfer data at speeds up
+   to 10 times faster than open-source tools. Another way to enable a
+   hybrid cloud storage environment is to work with a gateway provider
+   from the APN. You can also transfer files directly into and out of
+   Amazon S3 with AWS Transfer for SFTP — a fully managed service that
+   enables secure file exchanges with third parties.
+   Learn more about hybrid storage, AWS DataSync, and AWS Transfer for
+   SFTP »
+
+Cloud-native application data
+
+   Build fast, cost-effective mobile and Internet-based applications by
+   using AWS services and Amazon S3 to store production data. With Amazon
+   S3, you can upload any amount of data and access it anywhere in order
+   to deploy applications faster and reach more end users. Storing data in
+   Amazon S3 also means you have access to the latest AWS developer tools
+   and services for machine learning and analytics to innovate and
+   optimize your cloud-native applications.
+   Learn more about cloud-native applications »
+
+Case studies
+
+   Netflix
+   Netflix delivers billions of hours of content from Amazon S3 to
+   customers around the world. Amazon S3 also serves as the data lake for
+   their big data analytics solution.
+   FINRA
+   FINRA uses Amazon S3 to ingest and store data for over 75 billion
+   market events daily and AWS Lambda functions to format and validate the
+   data against more than 200 rules.
+   AirBnB
+   Airbnb houses backup data and static files on Amazon S3, including over
+   10 petabytes of user pictures. As a born-in-the-cloud solution, they
+   continually innovate new ways to analyze data stored on Amazon S3.
+   GE Healthcare
+   GE uses Amazon S3 to store and protect a petabyte of critical medical
+   imaging data for its GE Health Cloud service, which connects hundreds
+   of thousands of imaging machines and other medical devices.
+
+Related content
+
+   AWS NEWS BLOG
+   Amazon S3 Announces the General Availability of S3 Batch Operations for
+   Object Management in Commercial AWS Regions and AWS GovCloud
+   by Jeff Barr | 30 APR 2019
+
+   Learn more »
+   WHAT'S NEW
+   AWS Announces the General Availability of the Amazon S3 Glacier Deep
+   Archive Storage Class in all Commercial AWS Regions and AWS GovCloud
+   (US)
+   27 MAR 2019
+
+   Learn more »
+   AWS NEWS BLOG
+   New — Automatic Cost Optimization for Amazon S3 via Intelligent Tiering
+   by Jeff Barr | 26 NOV 2018
+
+
+   Learn more »
+
+   WHAT'S NEW
+   AWS Announces Amazon S3 Object Lock in all AWS Regions
+   26 NOV 2018
+   Learn more »
+
+   AWS ARCHITECTURE BLOG
+   S3 & S3 Glacier Launch Announcements for Archival Workloads
+   by Matt Sidley | 26 NOV 2018
+   Learn more »
+
+   NEWS BLOG
+   Amazon S3 Block Public Access — Another Layer of Protection for Your
+   Accounts and Buckets
+   16 NOV 2018
+   Learn more »
+
+Ready to get started?
+
+   Product-Page_Standard-Icons_01_Product-Features_SqInk
+   Check out the product features
+
+   Learn more about features for data management, security, access
+   management, analytics, and more.
+   Learn more
+   Product-Page_Standard-Icons_02_Sign-Up_SqInk
+   Sign up for a free account
+
+   Instantly get access to the AWS Free Tier and start experimenting with
+   Amazon S3.
+   Sign up
+   Product-Page_Standard-Icons_03_Start-Building_SqInk
+   Start building in the console
+
+   Get started building with Amazon S3 in the AWS Console.
+   Get started
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+     * Press Releases
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+     * Analyst Reports
+     * AWS Partner Network
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Customer Enablement
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+   AWS Cloud
+
+AWS Cloud Security
+
+   AWS Cloud
+
+Protect your data with cloud-powered security.
+
+Cloud Security
+
+Penetration Testing
+
+Security Bulletins
+
+Resources
+
+Compliance
+
+Partners
+
+   Cloud security at AWS is the highest priority. As an AWS customer, you
+   will benefit from a data center and network architecture built to meet
+   the requirements of the most security-sensitive organizations.
+
+   An advantage of the AWS cloud is that it allows customers to scale and
+   innovate, while maintaining a secure environment. Customers pay only
+   for the services they use, meaning that you can have the security you
+   need, but without the upfront expenses, and at a lower cost than in an
+   on-premises environment.
+
+
+AWS re:Inforce 2019 Highlights
+
+   reinforce2020_STD_Steve
+
+Benefits of AWS Security
+
+   More controls and increased privacy – all at a lower cost
+   Secure Cloud Computing
+   Secure Cloud Computing
+
+   Keep Your Data Safe
+
+   The AWS infrastructure puts strong safeguards in place to help protect
+   customer privacy. All data is stored in highly secure AWS data centers.
+   AWS Compliance
+   AWS Compliance
+
+   Meet Compliance Requirements
+
+   AWS manages dozens of compliance programs in its infrastructure. This
+   means that segments of your compliance have already been completed.
+   Cost Savings
+   Cost Savings
+
+   Save Money
+
+   Cut costs by using AWS data centers. Maintain the highest standard of
+   security without having to manage your own facility.
+   Quick Scaling
+   Quick Scaling
+
+   Scale Quickly
+
+   Security scales with your AWS cloud usage. No matter the size of your
+   business the AWS infrastructure is designed to keep data safe.
+
+Security Platform
+
+     * Infrastructure Security
+     * DDoS Mitigation
+     * Data Encryption
+     * Inventory and Configuration
+     * Monitoring and Logging
+     * Identity and Access Control
+     * Penetration Testing
+
+     * Infrastructure Security
+       AWS provides several security capabilities and services to increase
+       privacy and control network access. These include:
+          + Network firewalls built into Amazon VPC, and web application
+            firewall capabilities in AWS WAF let you create private
+            networks, and control access to your instances and
+            applications
+          + Customer-controlled encryption in transit with TLS across all
+            services
+          + Connectivity options that enable private, or dedicated,
+            connections from your office or on-premises environment
+          + Automatic encryption of all traffic on the AWS global and
+            regional networks between AWS secured facilities
+       Cloud Infrastructure Security
+       Cloud Infrastructure Security
+     * DDoS Mitigation
+       Availability is of paramount importance in the cloud. AWS customers
+       benefit from AWS services and technologies built from the ground up
+       to provide resilience in the face of DDoS attacks.
+       A combination of AWS services may be used to implement a defense in
+       depth strategy and thwart DDoS attacks. Services designed with an
+       automatic response to DDoS help minimize time to mitigate and
+       reduce impact.
+       Learn about how to use AWS technologies like autoscaling, Amazon
+       CloudFront and Amazon Route 53 help to mitigate Distributed Denial
+       of Service attacks.
+       Learn more about DDoS »
+
+
+       Data Encryption
+       Data Encryption
+     * Data Encryption
+       AWS offers you the ability to add an additional layer of security
+       to your data at rest in the cloud, providing scalable and efficient
+       encryption features. This includes:
+          + Data encryption capabilities available in AWS storage and
+            database services, such as EBS, S3, Glacier, Oracle RDS, SQL
+            Server RDS, and Redshift
+          + Flexible key management options, including AWS Key Management
+            Service, allowing you to choose whether to have AWS manage the
+            encryption keys or enable you to keep complete control over
+            your keys
+          + Encrypted message queues for the transmission of sensitive
+            data using server-side encryption (SSE) for Amazon SQS
+          + Dedicated, hardware-based cryptographic key storage using AWS
+            CloudHSM, allowing you to satisfy compliance requirements
+       In addition, AWS provides APIs for you to integrate encryption and
+       data protection with any of the services you develop or deploy in
+       an AWS environment.
+       Data Encryption
+       Data Encryption
+     * Inventory and Configuration
+       AWS offers a range of tools to allow you to move fast while still
+       ensuring that your cloud resources comply with organizational
+       standards and best practices. This includes:
+          + A security assessment service, Amazon Inspector, that
+            automatically assesses applications for vulnerabilities or
+            deviations from best practices, including impacted networks,
+            OS, and attached storage
+          + Deployment tools to manage the creation and decommissioning of
+            AWS resources according to organization standards
+          + Inventory and configuration management tools, including AWS
+            Config, that identify AWS resources and then track and manage
+            changes to those resources over time
+          + Template definition and management tools, including AWS
+            CloudFormation to create standard, preconfigured environments
+       Inventory In The Cloud
+       Inventory In The Cloud
+     * Monitoring and Logging
+       AWS provides tools and features that enable you to see exactly
+       what’s happening in your AWS environment. This includes:
+          + Deep visibility into API calls through AWS CloudTrail,
+            including who, what, who, and from where calls were made
+          + Log aggregation options, streamlining investigations and
+            compliance reporting
+          + Alert notifications through Amazon CloudWatch when specific
+            events occur or thresholds are exceeded
+       These tools and features give you the visibility you need to spot
+       issues before they impact the business and allow you to improve
+       security posture, and reduce the risk profile, of your environment.
+       Monitoring and Logging
+       Monitoring and Logging
+     * Identity and Access Control
+       AWS offers you capabilities to define, enforce, and manage user
+       access policies across AWS services. This includes:
+          + AWS Identity and Access Management (IAM) lets you define
+            individual user accounts with permissions across AWS resources
+          + AWS Multi-Factor Authentication for privileged accounts,
+            including options for hardware-based authenticators
+          + AWS Directory Service allows you to integrate and federate
+            with corporate directories to reduce administrative overhead
+            and improve end-user experience
+       AWS provides native identity and access management integration
+       across many of its services plus API integration with any of your
+       own applications or services.
+       Inventory In The Cloud
+       Inventory In The Cloud
+     * Penetration Testing
+       AWS continually tests its infrastructure; the results are
+       summarized in our compliance reports. AWS customers can carry out
+       security assessments or penetration tests against their own AWS
+       infrastructure without prior approval for a number of core
+       services, see our penetration testing section for more details.
+       Inventory In The Cloud
+       Inventory In The Cloud
+
+Expert Guidance
+
+   Have the backing of our extensive support network every step of the way
+   Click to Enlarge
+   Click to Enlarge
+
+Security Support
+
+   Real-time insight through AWS Trusted Advisor
+
+   Proactive support and advocacy with a Technical Account Manager (TAM)
+
+   Learn more »
+   Click to Enlarge
+   Click to Enlarge
+
+Professional Services
+
+   Strategic advice to create In-Depth Security Solutions
+
+   Detect and respond to security issues with the Security Operations
+   Playbook
+
+   Learn more »
+
+Global Infrastructure
+
+   The AWS Cloud spans 69 Availability Zones within 22 geographic Regions
+   around the world, with announced plans for 9 more Availability Zones
+   and three more Regions in Cape Town, Jakarta, and Milan.
+
+   Regions & Number of Availability Zones
+
+   US East
+   N. Virginia (6), Ohio (3)
+
+   US West
+   N. California (3), Oregon (4)
+
+   Asia Pacific
+   Hong Kong SAR (3), Mumbai (3), Osaka-Local (1), Seoul (3), Singapore
+   (3), Sydney (3), Tokyo (4)
+
+   Canada
+   Central (2*)
+   *Located in the Montreal metropolitan area
+
+   Mainland China
+   Beijing (2), Ningxia (3)
+
+   Europe
+   Frankfurt (3), Ireland (3), London (3), Paris (3),
+   Stockholm (3)
+
+   South America
+   Sao Paulo (3)
+
+   GovCloud (US)
+   US-East (3), US-West (3)
+
+   Middle East
+   Bahrain (3)
+
+   New Regions (coming soon)
+
+   Cape Town
+
+   Jakarta
+
+   Milan
+     __________________________________________________________________
+
+   Improving Continuity With Replication Between Regions
+
+   In addition to replicating applications and data across multiple data
+   centers in the same region using Availability Zones, you can also
+   choose to increase redundancy and fault tolerance further by
+   replicating data between geographic regions.
+
+   Meeting Compliance and Data Residency Requirements
+
+   You retain complete control and ownership over the region in which your
+   data is physically located, making it easy to meet regional compliance
+   and data residency requirements.
+
+   Protecting Data with Encryption on the Global Network
+
+   All data flowing across the AWS global network that interconnects our
+   datacenters and regions is automatically encrypted at the physical
+   layer before it leaves our secured facilities. Additional encryption
+   layers exist as well; for example, all VPC cross-region peering
+   traffic, and customer or service-to-service TLS connections.
+
+Compliance Made User-Friendly
+
+   Spend less time on compliance and more time running your business
+   AWS Compliance
+   AWS Compliance
+
+   Learn more »
+
+Vulnerability Reporting
+
+   Click to Enlarge
+   Click to Enlarge
+
+Report Suspicious Emails »
+
+   Click to Enlarge
+   Click to Enlarge
+
+Report Vulnerabilities »
+
+Use the AWS Partner Network
+
+   APN Partners offer hundreds of industry-leading products that are
+   equivalent, identical to, or integrate with existing controls in your
+   on-premises environments. These products complement the existing AWS
+   services to enable you to deploy a comprehensive security architecture
+   and a more seamless experience across your cloud and on-premises
+   environments.
+   600x400_CloudPassage_logo
+   600x400_CloudPassage_logo
+   CloudPassage® Halo® is an automated server and cloud workload security
+   platform that provides instant visibility and continuous protection. »
+    »
+   600x400_symantec
+   600x400_symantec
+   Security meets agility: Automated, cloud-native security for your
+   public and hybrid cloud workloads and storage. »
+   600x400_Fortinet_Logo
+   600x400_Fortinet_Logo
+   Fortinet on AWS provides enterprise-grade security for your workloads
+   running in the AWS Cloud. »
+   600x400_cloudcheckr_logo
+   600x400_cloudcheckr_logo
+   Cloud Checkr offers automated discoveries, checks, and alerts to ensure
+   visibility and control of users' environments. »
+   600x400_Sophos_logo
+   600x400_Sophos_logo
+   Sophos offers UTM layered security for AWS at scale and low-cost »
+   600x400_Tenable_Logo
+   600x400_Tenable_Logo
+   Tenable is pre-authorized for vulnerability, compliance and threat
+   scans of AWS environments »
+   600x400_TrendMicro_Logo
+   600x400_TrendMicro_Logo
+   Trend Micro offers comprehensive security, seamlessly integrated with
+   AWS, to protect workloads without slowing you down »
+   600x400_Splunk
+   600x400_Splunk
+   Splunk® delivers analytics-driven security solutions that enable
+   organizations to detect and respond to external attacks »
+   600x400_AlertLogic_Logo
+   600x400_AlertLogic_Logo
+   Alert Logic is a fully managed cloud-based suite of security and
+   compliance solutions for hybrid IT infrastructures »
+   600x400_SumoLogic_Logo
+   600x400_SumoLogic_Logo
+   Sumo Logic's purpose built SaaS service enables organizations to
+   configure KPIs and scale on demand to capture, audit and analyze logs
+   and data »
+
+   Learn More »
+
+Information Requests
+
+   A high standard of data privacy
+
+   Amazon knows customers care deeply about privacy and data security, and
+   we optimize our work to get these issues right for customers.
+   assurace-program-data-privacy
+   assurace-program-data-privacy
+
+   Learn more »
+
+Want More Information About AWS Cloud Security?
+
+   Contact Us »
+   GET STARTED WITH AWS
+   Learn how to start using AWS in minutes
+   ha_2up-gettingstarted
+   ha_2up-gettingstarted
+   AWS FREE TIER
+   Gain free, hands-on experience with AWS for 12 months
+   2up_FreeTier
+   2up_FreeTier
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+     * Press Releases
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+     * Analyst Reports
+     * AWS Partner Network
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Customer Enablement
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+Open Distro for Elasticsearch
+
+   Search and analyze your logs with the only 100% open source
+   distribution of Elasticsearch
+   Learn more
+   Site-Merch_Elastisearch_OpenDistro_Hero-Art
+
+One-Click Training and Deployment
+
+   Build, train, and deploy machine learning models quickly with Amazon
+   Sagemaker
+   Learn more
+   Site-Merch_PAC_SageMaker-2019_Hero-Art
+
+Explore the AWS platform, cloud products, and capabilities
+
+   Get started
+   Site-Merch_What-is-AWS_Hero-Art
+
+Use Amazon EC2, S3, and more — free for a full year
+
+   Learn more about the AWS Free Tier
+   Site-Merch_Free-Tier_Hero-Art
+
+Getting Started Resource Center
+
+   Technical documentation and other free resources to help you build with
+   AWS
+   Get started
+   Site-Merch_Getting-Started_Hero-Art
+   Site-Merch_Lightsail_Editorial
+   Amazon Lightsail
+   Everything you need to get started on AWS—for a low, predictable price
+   Site-Merch_PAC_DynamoDB_Editorial
+   Amazon DynamoDB
+   Fully managed nonrelational database for any scale
+   Site-Merch_Lambda_Editorial
+   Serverless Application Development
+   Find tools for testing, deploying, and monitoring serverless
+   applications
+   160,000+ Databases Migrated to AWS
+   Save time & cost—migrate to fully managed databases
+
+Explore Our Products
+
+   Analytics
+   Amazon AthenaQuery data in S3 using SQL
+   Amazon CloudSearchManaged search service
+   Amazon Elasticsearch ServiceRun and scale Elasticsearch clusters
+   Amazon EMRHosted Hadoop framework
+   Amazon KinesisAnalyze real-time video and data streams
+   Amazon Managed Streaming for Apache KafkaFully managed Apache Kafka
+   service
+   Amazon RedshiftFast, simple, cost-effective data warehousing
+   Amazon QuickSightFast business analytics service
+   AWS Data PipelineOrchestration service for periodic, data-driven
+   workflows
+   AWS GluePrepare and load data
+   AWS Lake FormationBuild a secure data lake in days
+   Application Integration
+   AWS Step FunctionsCoordination for distributed applications
+   Amazon EventBridgeServerless event bus for SaaS apps & AWS services
+   Amazon MQManaged message broker for ActiveMQ
+   Amazon Simple Notification Service (SNS)Managed message topics for
+   pub/sub
+   Amazon Simple Queue Service (SQS) Managed message queues
+   AWS AppSyncPower your apps with the right data from many sources, at
+   scale
+   AR & VR
+   Amazon SumerianBuild and run VR and AR applications
+   AWS Cost Management
+   AWS Cost ExplorerAnalyze your AWS cost and usage
+   AWS BudgetsSet custom cost and usage budgets
+   AWS Cost and Usage ReportAccess comprehensive cost and usage
+   information
+   Reserved Instance ReportingDive deeper into your reserved instances
+   (RIs)
+   Blockchain
+   Amazon Managed BlockchainCreate and manage scalable blockchain networks
+   Amazon Quantum Ledger Database (QLDB)Fully managed ledger database
+   Business Applications
+   Alexa for BusinessEmpower your organization with Alexa
+   Amazon ChimeFrustration-free meetings, video calls, and chat
+   Amazon WorkDocsSecure enterprise document storage and sharing
+   Amazon WorkMailSecure email and calendaring
+   Compute
+   Amazon EC2Virtual servers in the cloud
+   Amazon EC2 Auto ScalingScale compute capacity to meet demand
+   Amazon Elastic Container RegistryStore and retrieve docker images
+   Amazon Elastic Container ServiceRun and manage docker containers
+   Amazon Elastic Kubernetes ServiceRun managed Kubernetes on AWS
+   Amazon LightsailLaunch and manage virtual private servers
+   AWS BatchRun batch jobs at any scale
+   AWS Elastic BeanstalkRun and manage web apps
+   AWS FargateRun containers without managing servers or clusters
+   AWS LambdaRun code without thinking about servers
+   AWS OutpostsRun AWS infrastructure on-premises
+   AWS Serverless Application RepositoryDiscover, deploy, and publish
+   serverless applications
+   VMware Cloud on AWSBuild a hybrid cloud without custom hardware
+   Customer Engagement
+   Amazon ConnectCloud-based contact center service
+   Amazon PinpointPersonalized user engagement across channels
+   Amazon Simple Email Service (SES)Email sending and receiving
+   Database
+   Amazon AuroraHigh performance managed relational database
+   Amazon DynamoDBManaged NoSQL database
+   Amazon DocumentDB (with MongoDB compatibility)Fully managed document
+   database
+   Amazon ElastiCacheIn-memory caching system
+   Amazon Neptune Fully managed graph database service
+   Amazon Quantum Ledger Database (QLDB)Fully managed ledger database
+   Amazon RDSManaged relational database service for MySQL, PostgreSQL,
+   Oracle, SQL Server, and MariaDB
+   Amazon RDS on VMwareAutomate on-premises database management
+   Amazon RedshiftFast, simple, cost-effective data warehousing
+   Amazon TimestreamFully managed time series database
+   AWS Database Migration ServiceMigrate databases with minimal downtime
+   Developer Tools
+   Amazon CorrettoProduction-ready distribution of OpenJDK
+   AWS Cloud Development KitModel cloud infrastructure using code
+   AWS Cloud9Write, run, and debug code on a cloud IDE
+   AWS CodeBuildBuild and test code
+   AWS CodeCommitStore code in private Git repositories
+   AWS CodeDeployAutomate code deployment
+   AWS CodePipelineRelease software using continuous delivery
+   AWS CodeStarDevelop and deploy AWS applications
+   AWS Command Line InterfaceUnified tool to manage AWS services
+   AWS Device FarmTest Android, iOS, and web apps on real devices in the
+   AWS cloud
+   AWS Tools and SDKsTools and SDKs for AWS
+   AWS X-RayAnalyze and debug your applications
+   End User Computing
+   Amazon WorkSpacesVirtual desktops in the cloud
+   Amazon AppStream 2.0Stream desktop applications securely to a browser
+   Amazon WorkLinkEnable mobile access to internal websites
+   Game Tech
+   Amazon GameLiftSimple, fast, cost-effective dedicated game server
+   hosting
+   Amazon LumberyardA free cross-platform 3D game engine, with Full
+   Source, integrated with AWS and Twitch
+   Internet of Things
+   AWS IoT CoreConnect devices to the cloud
+   Amazon FreeRTOSIoT operating system for microcontrollers
+   AWS GreengrassLocal compute, messaging, and sync for devices
+   AWS IoT 1-ClickOne click creation of an AWS Lambda trigger
+   AWS IoT AnalyticsAnalytics for IoT devices
+   AWS IoT ButtonCloud programmable dash button
+   AWS IoT Device DefenderSecurity management for IoT devices
+   AWS IoT Device ManagementOnboard, organize, and remotely manage IoT
+   devices
+   AWS IoT EventsIoT event detection and response
+   AWS IoT SiteWiseIoT data collector and interpreter
+   AWS IoT Things GraphEasily connect devices and web services
+   AWS Partner Device CatalogCurated catalog of AWS-compatible IoT
+   hardware
+   Machine Learning
+   Amazon SageMakerBuild, train, and deploy machine learning models at
+   scale
+   Amazon ComprehendDiscover insights and relationships in text
+   Amazon Elastic InferenceDeep learning inference acceleration
+   Amazon ForecastIncrease forecast accuracy using machine learning
+   Amazon LexBuild voice and text chatbots
+   Amazon PersonalizeBuild real-time recommendations into your
+   applications
+   Amazon PollyTurn text into life-like speech
+   Amazon RekognitionAnalyze image and video
+   Amazon SageMaker Ground TruthBuild accurate ML training datasets
+   Amazon TextractExtract text and data from documents
+   Amazon TranslateNatural and fluent language translation
+   Amazon TranscribeAutomatic speech recognition
+   AWS Deep Learning AMIsDeep learning on Amazon EC2
+   AWS Deep Learning ContainersDocker images for deep learning
+   AWS DeepLensDeep learning enabled video camera
+   AWS DeepRacerAutonomous 1/18th scale race car, driven by ML
+   AWS InferentiaMachine learning inference chip
+   Apache MXNet on AWSScalable, open-source deep learning framework
+   TensorFlow on AWSOpen-source machine intelligence library
+   Management & Governance
+   Amazon CloudWatchMonitor resources and applications
+   AWS Auto ScalingScale multiple resources to meet demand
+   AWS ChatbotChatOps for AWS
+   AWS CloudFormationCreate and manage resources with templates
+   AWS CloudTrailTrack user activity and API usage
+   AWS Command Line InterfaceUnified tool to manage AWS services
+   AWS ConfigTrack resources inventory and changes
+   AWS Control TowerSet-up and govern a secure, compliant multi-account
+   environment
+   AWS Console Mobile ApplicationAccess resources on the go
+   AWS License ManagerTrack, manage, and control licenses
+   AWS Management ConsoleWeb-based user interface
+   AWS Managed ServicesInfrastructure operations management for AWS
+   AWS OpsWorksAutomate operations with Chef and Puppet
+   AWS OrganizationsCentral governance and management across AWS accounts
+   AWS Personal Health DashboardPersonalized view of AWS service health
+   AWS Service CatalogCreate and use standardized products
+   AWS Systems ManagerGain operational insights and take action
+   AWS Trusted AdvisorOptimize performance and security
+   AWS Well-Architected ToolReview and improve your workloads
+   Media Services
+   Amazon Elastic TranscoderEasy-to-use scalable media transcoding
+   Amazon Kinesis Video StreamsProcess and analyze video streams
+   AWS Elemental MediaConnectReliable and secure live video transport
+   AWS Elemental MediaConvertConvert file-based video content
+   AWS Elemental MediaLiveConvert live video content
+   AWS Elemental MediaPackageVideo origination and packaging
+   AWS Elemental MediaStoreMedia storage and simple http origin
+   AWS Elemental MediaTailorVideo personalization and monetization
+   AWS Elemental Appliances & SoftwareOn-premises media solutions
+   Migration & Transfer
+   AWS Migration HubTrack migrations from a single place
+   AWS Application Discovery ServiceDiscover on-premises applications to
+   streamline migration
+   AWS Database Migration ServiceMigrate databases with minimal downtime
+   AWS DataSyncSimple, fast, online data transfer
+   AWS Server Migration Service Migrate on-premises servers to AWS
+   AWS Snow FamilyPhysical devices to migrate data into and out of AWS
+   AWS Transfer for SFTPFully managed SFTP service
+   CloudEndure MigrationAutomate your mass migration to the AWS cloud
+   Mobile
+   AWS AmplifyBuild and deploy mobile and web applications
+   Amazon API GatewayBuild, deploy, and manage API's
+   Amazon PinpointPersonalized user engagement across channels
+   AWS AppSyncPower your apps with the right data from many sources, at
+   scale
+   AWS Device FarmTest Android, iOS, and web apps on real devices in the
+   AWS cloud
+   Networking & Content Delivery
+   Amazon VPCIsolated cloud resources
+   Amazon API GatewayBuild, deploy, and manage APIs
+   Amazon CloudFrontGlobal content delivery network
+   Amazon Route 53Scalable domain name system (DNS)
+   AWS PrivateLinkSecurely access services hosted on AWS
+   AWS App MeshMonitor and control microservices
+   AWS Cloud MapService discovery for cloud resources
+   AWS Direct ConnectDedicated network connection to AWS
+   AWS Global AcceleratorImprove application availability and performance
+   AWS Transit GatewayEasily scale VPC and account connections
+   Elastic Load Balancing (ELB)Distribute incoming traffic across multiple
+   targets
+   Robotics
+   AWS RoboMakerDevelop, test, and deploy robotics applications
+   Satellite
+   AWS Ground StationFully managed ground station as a service
+   Security, Identity & Compliance
+   AWS Identity and Access Management (IAM)Manage user access and
+   encryption keys
+   Amazon CognitoIdentity management for your apps
+   Amazon GuardDutyManaged threat detection service
+   Amazon InspectorAnalyze application security
+   Amazon MacieDiscover, classify, and protect your data
+   AWS ArtifactOn-demand access to AWS' compliance reports
+   AWS Certificate ManagerProvision, manage, and deploy SSL/TLS
+   certificates
+   AWS CloudHSMHardware-based key storage for regulatory compliance
+   AWS Directory ServiceHost and manage active directory
+   AWS Firewall ManagerCentral management of firewall rules
+   AWS Key Management ServiceManaged creation and control of encryption
+   keys
+   AWS Resource Access ManagerSimple, secure service to share AWS
+   resources
+   AWS Secrets ManagerRotate, manage, and retrieve secrets
+   AWS Security HubUnified security and compliance center
+   AWS ShieldDDoS protection
+   AWS Single Sign-OnCloud single sign-on (SSO) service
+   AWS WAFFilter malicious web traffic
+   Storage
+   Amazon Simple Storage Service (S3)Scalable storage in the cloud
+   Amazon Elastic Block Store (EBS)EC2 block storage volumes
+   Amazon Elastic File System (EFS)Fully managed file system for EC2
+   Amazon FSx for LustreHigh-performance file system integrated with S3
+   Amazon FSx for Windows File ServerFully managed Windows native file
+   system
+   Amazon S3 GlacierLow-cost archive storage in the cloud
+   AWS BackupCentralized backup across AWS services
+   AWS Snow FamilyPhysical devices to migrate data into and out of AWS
+   AWS Storage GatewayHybrid storage integration
+   See All Products
+
+AWS Hybrid Cloud Solutions
+
+   Consistent experience across AWS and on-premises environments
+   VMWareCloud_Icon
+
+VMWare Cloud on AWS
+
+   Migrate and extend VMware environments to the AWS Cloud
+   Learn More
+   AWSOutposts_Icon
+
+AWS Outposts
+
+   Run AWS infrastructure on premises for a truly consistent hybrid
+   experience
+   Learn More
+   VMWareCloud_Icon
+
+VMWare Cloud on AWS
+
+   Migrate and extend VMware environments to the AWS Cloud
+   Learn More
+   AWSOutposts_Icon
+
+AWS Outposts
+
+   Run AWS infrastructure on premises for a truly consistent hybrid
+   experience
+   Learn More
+
+Powering Customer Innovation
+
+     * Predictive Analytics
+     * Machine Learning
+     * Gaming
+     * SERVERLESS
+     * ENTERPRISE APPLICATIONS
+
+     * Predictive Analytics
+     * F1-Insights-logo-power-by-AWS
+
+Formula One Group Uses Amazon SageMaker to Optimize Racing
+       Learn how Formula 1 uses Amazon SageMaker and other AWS services to
+       optimize racing decisions and improve fan experience.
+       Learn More
+       PI-F1-1-mobile-beginning-a-transformation-ending
+
+Beginning a Transformation
+       Formula One Group is moving most of its infrastructure from
+       on-premises data centers to AWS and standardizing on AWS
+       machine-learning services—including Amazon SageMaker.
+       PI-F1-2-mobile-optimizing-racing-machine-learning-ending
+
+Optimizing Racing with Machine Learning
+       Using historical race data collected from cars over the past 65
+       years, Formula 1 data scientists are training deep-learning models
+       that make race predictions and help teams optimize mid-race
+       decisions. The models can predict when teams should pit their cars,
+       determine the best timing for changing tires, and evaluate how
+       drivers are performing.
+       PI-F1-3-mobile-bringing-fans-into-the-track-ending
+
+Bringing Fans onto the Track
+       Formula 1 then uses AWS data streaming, analytics, and media
+       services to deliver insights about driver decisions and car
+       performance to its more than 500 million fans.
+       PI-F1-4-mobile-building-for-the-future-ending
+
+Building for the Future
+       Because Formula 1 runs its high-performance computing workloads in
+       a scalable environment on AWS, the organization can innovate on the
+       Formula 1 racing experience, car design, and more without worrying
+       about capacity.
+     * Machine Learning
+     * Logo_Statcast-AI
+
+MLB Chooses AWS as Official Machine Learning Provider
+       Learn How America’s Professional Baseball League Brings Meaning to
+       Statistics Using AWS Machine Learning
+       Learn More
+       PI-MLB-1-mobile-Foundation-Deep-Learning-ending stage
+
+A Foundation for Deep Learning
+       MLB has been collecting statistical data on its players and clubs
+       for decades, and in 2015 it started using AWS to collect and
+       distribute game-day stats to enhance the fan experience.
+       PI-MLB-2-mobile-Enpowering-Developers-ending stage
+
+Empowering Developers
+       By using Amazon Sagemaker, MLB is empowering its developers and
+       data scientists to quickly and easily build, train, and deploy
+       machine-learning models at scale.
+       PI-MLB-3-Lightening the Load-ending stage
+
+Lightening the Load
+       These models help MLB eliminate manual, time-intensive processes
+       associated with recordkeeping and statistics, like scorekeeping,
+       capturing game notes, and classifying pitches.
+       PI-MLB-4-mobile-Personalizing-the-Game-ending stage
+
+Personalizing the Game
+       MLB plans to work with the Amazon ML Solutions Lab to continue
+       improving Statcast—its tracking technology that analyzes player
+       performance—including testing accuracy of pitch predictions and
+       creating personalized viewer experiences.
+       PI-MLB-5-mobile-home-run-artificial-intelligence-ending stage
+
+A Home Run with Artificial Intelligence
+       MLB will continue to innovate using artificial intelligence. The
+       organization plans to use Amazon Comprehend to build a language
+       model that could create scripts for live games that simulate iconic
+       announcers.
+     * Gaming
+     * PI-Epic_Logo_Final
+       Epic Games Uses AWS to Power Worldwide Game Fortnite
+       Learn how Epic Games uses AWS to deliver Fortnite to more than 200
+       million players around the world.
+       Learn More
+       PI-Epic-Mobile_Step-1
+
+Building a Foundation on the Cloud
+       Epic Games has been using AWS since 2012 and is now all in on the
+       AWS Cloud, running its worldwide game-server fleet, backend
+       platform systems, databases, websites, analytics pipeline, and
+       processing systems on AWS.
+       PI-Epic-Mobile_Step-2
+
+An Overnight Sensation
+       In 2017, Epic Games launched Fortnite, a cross-platform,
+       multiplayer game that became an overnight sensation. In its first
+       year, Fortnite’s user base grew by more than 100 times to 200
+       million players worldwide.
+       PI-Epic-Mobile_Step-3
+
+Pushing the Boundaries of Scale
+       AWS is integral to the success of Fortnite. Using AWS, Epic Games
+       hosts in-game events with hundreds of millions of invited users
+       without worrying about capacity, ingests 125 million events per
+       minute into its analytics pipeline, and handles data-warehouse
+       growth of more than 5 PB per month.
+       PI-Epic-Mobile_Step-4
+
+Providing the Best Gaming Experience
+       Using AWS, Epic Games is always improving the experience of its
+       players and offering new, exciting games and game elements. The
+       company plans to expand its use of AWS services in the future,
+       including machine learning and containerized services.
+     * SERVERLESS
+     * Matson-logo
+
+Matson Operates Its Global Shipping and Logistics Businesses on AWS
+       Learn how Matson is using AWS to drive innovation and world-class
+       customer service, while achieving operational reliability,
+       security, and infrastructure cost savings.
+       Learn More
+       PI-Matson-Mobile_Step-1
+
+Real-Time Container Tracking
+       Matson built a flagship mobile application for global container
+       tracking that allows customers to perform real-time tracking of
+       their freight shipments. Other valuable features in the application
+       include interactive vessel schedule searching, location-based port
+       map lookups, and live gate-camera feeds.
+       PI-Matson-Mobile_Step-2
+
+Mobile Device Access
+       All mobile devices access AWS via Amazon API Gateway. This provides
+       highly available edge located endpoints for access into resources
+       within Matson's existing virtual private clouds.
+       PI-Matson-Mobile_Step-3
+
+Serverless Computing
+       The AWS Lambda functions are designed using the microservices
+       pattern and are modeled around specific ocean-based business
+       contexts, such as shipment tracking and vessel schedules.
+       PI-Matson-Mobile_Step-4
+
+Database Configuration and Storage
+       Amazon DynamoDB manages configuration as well as
+       user-feedback configuration and user-feedback notifications sent
+       from mobile devices. DynamoDB Streams provides real-time
+       notifications to Matson's customer service team.
+       PI-Matson-Mobile_Step-5
+
+Data Monitoring and Alerts
+       Matson's customers rely on accurate, up-to-the-minute container
+       tracking and vessel status information. Monitoring and alerting of
+       system events is achieved by using Amazon CloudWatch, Amazon SNS,
+       Amazon SES, AWS Lambda, and CloudWatch Logs.
+       PI-Matson-Mobile_Step-6
+
+End-to-End Serverless Application
+       Matson can now offer customers an end-to-end serverless application
+       to help track their shipments, and has no infrastructure to
+       maintain.
+     * ENTERPRISE APPLICATIONS
+     * BPP_ylw_logo
+
+BP Improves Effectiveness and Gains Cost Agility and Speed for Its Critical
+Business Apps
+       See how BP simplified and modernized its suite of SAP applications,
+       improving user experience while gaining cost agility and enhanced
+       performance.
+       Learn More
+       PI-BP-Mobile_Step-1
+
+Managing Critical Business Apps
+       BP's IT organization manages SAP applications used by thousands of
+       employees worldwide for supply chain, procurement, finance, and
+       more.
+       PI-BP-Mobile_Step-2
+
+Improving Speed & Cost Agility
+       To improve speed and gain cost agility, BP used Amazon EC2 to
+       migrate these core business apps to the cloud. In addition, the
+       team built EC2 X1 instances to increase scale and to power their
+       real-time analytics.
+       PI-BP-Mobile_Step-3
+
+Increasing Performance
+       The team can now stand up systems on demand in hours instead of
+       weeks or months. BP is seeing performance increases across the
+       board, including a 40 percent speed improvement for the Lubricants
+       ERP system.
+       PI-BP-Mobile_Step-4
+
+Securing Data
+       As part of its cloud migration, BP reset its security standards
+       using AWS Config, AWS Identity and Access Management (IAM), Amazon
+       CloudWatch, and AWS Trusted Advisor. These new standards helped BP
+       to develop a secure framework for operating its IT organization.
+
+   AWSMP_logo_new-RGB
+   AWSMP_logo_new-RGB
+
+Find. Buy. Deploy.
+
+   AWS Marketplace is a digital catalog with thousands of software
+   listings from independent software vendors that make it easy to find,
+   test, buy, and deploy software that runs on AWS.
+   Learn More
+
+Explore Our Solutions
+
+   60-machine-learning
+   60-machine-learning
+
+Machine Learning
+
+   Build with powerful services and platforms, and the broadest machine
+   learning framework support anywhere.
+   Learn More
+   60-analytics
+   60-analytics
+
+Analytics & Data Lakes
+
+   Securely store, categorize, and analyze all your data in one,
+   centralized repository.
+   Learn More
+   60-IoT
+   60-IoT
+
+Internet of Things
+
+   A system of ubiquitous devices connecting the physical world to the
+   cloud.
+   Learn More
+   60-serverless
+   60-serverless
+
+Serverless Computing
+
+   Build and run applications and services without thinking about servers.
+   Learn More
+   60-containers
+   60-containers
+
+Containers
+
+   Package and deploy applications that are lightweight and provide a
+   consistent, portable software environment for applications to easily
+   run and scale anywhere.
+   Learn More
+   60-enterprise
+   60-enterprise
+
+Enterprise Applications
+
+   Build with a mature set of services specifically designed for the
+   unique security, compliance, privacy, and governance requirements of
+   large organizations.
+   Learn More
+   60-storage
+   60-storage
+
+Storage
+
+   Durable, cost-effective options for backup, disaster recovery, and data
+   archiving at petabyte scale.
+   Learn More
+   60-windows-workloads
+   60-windows-workloads
+
+Windows Workloads
+
+   Flexible, scalable compute capacity for Microsoft applications. Easily
+   manage and secure Windows workloads.
+   Learn More
+   View All Solutions
+
+Engineered for the Most Demanding Requirements
+
+Secure
+
+   Comprehensive security capabilities to satisfy the most demanding
+   requirements.
+
+Compliant
+
+   Rich controls, auditing and broad security accreditations.
+
+Hybrid
+
+   Build hybrid architectures that extend your on-premises infrastructure
+   to the Cloud.
+
+Scalable
+
+   Access as much or as little as you need, and scale up and down as
+   required with only a few minutes notice.
+
+Learn How Our Customers Build on AWS
+
+   [logo_bp.8fa26480c12139b66816d811d1ba1b9798b0cd4b.svg]
+   [Cerner-Corporation-logo.36bc94e5448a9425e9666078721d02d5a1905a64.svg]
+   [logo_enel.80a90f6bf954e757af67c673220c4de22d31da6a.svg]
+   [logo_expedia.17f513a1efb0658efb13be3dd83bebaf74654a3e.svg]
+   [logo_finra.e88983829e59920b4b37bff8c813fa781b625dad.svg]
+   [logo_ge.9a440081235a09b9439c1c7a8857c3c2269d1754.svg]
+   [logo_hess.99c356812fb884050e33df73d8f5f3cab8751494.svg]
+   [logo_intuit.d7a4bfff63b1a4e28660150d4852d7aca6b704b1.svg]
+   [logo_kelloggs.2e1b4e50906f1948d4f333ffb841d84b10d3873b.svg]
+   [logo_philips.005b06f4f815d3e2a8995b04f54626bc566271c2.svg]
+   [logo_time.3b175686b135c700d5bcdb00ab8d1a68d93f6340.svg]
+   [logo_workday.88f6d586debca7956d3ddd93d4b34484d6b303b3.svg]
+   View All Customer Stories
+
+Global Network of AWS Regions
+
+   The AWS Cloud spans 69 Availability Zones within 22 geographic regions
+   around the world, with announced plans for 9 more Availability Zones
+   and three more Regions in Cape Town, Jakarta, and Milan.
+
+   Regions
+   Coming Soon
+   Learn More
+   Global Map July 2019
+   Global Map July 2019
+   50x50_orange
+   50x50_orange
+
+Regions & Number of Availability Zones
+
+   US East
+   N. Virginia (6), Ohio (3)
+
+   US West
+   N. California (3), Oregon (4)
+
+   Asia Pacific
+   Mumbai (3), Seoul (3), Singapore (3), Sydney (3), Tokyo (4),
+   Osaka-Local (1), Hong Kong SAR (3)
+
+   Canada
+   Central (2)
+
+   Mainland China
+   Beijing (2), Ningxia (3)
+
+   Europe
+   Frankfurt (3), Ireland (3), London (3), Paris (3), Stockholm (3)
+
+   South America
+   São Paulo (3)
+
+   GovCloud (US)
+   US-East (3), US-West (3)
+
+   Middle East
+   Bahrain (3)
+
+
+   50x50_teal
+   50x50_teal
+
+New Regions (Coming Soon)
+
+   Cape Town
+
+   Jakarta
+
+   Milan
+   Learn More
+
+   Site-Merch_Analyst-Reports_Editorial
+   Analyst Reports
+   Read what top analysts such as Gartner and IDC are saying about AWS
+   AWS Training
+   Free digital courses to help you develop your skills
+   Site-Merch_APN_Editorial
+   AWS Partner Network
+   Join AWS Partner Network to build and grow your cloud business
+   Site-Merch_Marketplace_Editorial
+   AWS Marketplace
+   Launch a variety of popular software on AWS in minutes
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+     * Press Releases
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+     * Analyst Reports
+     * AWS Partner Network
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Cliquez ici pour revenir à la page d'accueil d'Amazon Web Services
+   Contacter l'équipe commerciale Support  Français  Mon compte
+   Créer un compte AWS
+     * Produits
+     * Solutions
+     * Tarification
+     * Documentation
+     * Apprendre
+     * Réseau de partenaires
+     * AWS Marketplace
+     * Déploiements clients
+     * Découvrir davantage
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Paramètres de compte
+     * Gestion de facturation et coût
+     * Informations d'identification de sécurité
+     * AWS Personal Health Dashboard
+
+     * Centre de support
+     * Centre de connaissances
+     * Présentation d'AWS Support
+
+   Cliquer ici pour revenir à la page d'accueil d'Amazon Web Services
+   ____________________
+
+     * Produits
+     * Solutions
+     * Tarification
+     * Introduction à AWS
+     * Mise en route
+     * Documentation
+     * Formation et certification
+     * Centre pour développeurs
+     * Témoignages de réussite
+     * Réseau de partenaires
+     * AWS Marketplace
+     * Support
+     * Se connecter à la console
+     * Télécharger l'application mobile
+
+   Machine Learning
+   Présentation Services d'IA  Services de ML  Frameworks  Infrastructure
+   En savoir plus sur le ML  Blog Partenaires Clients
+
+   Amazon Comprehend Amazon Comprehend Medical Amazon Forecast Amazon Lex
+   Amazon Personalize Amazon Polly Amazon Rekognition Amazon Textract
+   Amazon Transcribe Amazon Translate
+
+   AMI AWS DL Conteneurs AWS DL TensorFlow sur AWS PyTorch sur AWS
+   Apache MXNet sur AWS
+
+   Amazon SageMaker Amazon SageMaker Ground Truth Amazon SageMaker Neo
+
+   AWS DeepRacer AWS DeepLens Formation sur le ML COMMUNAUTÉ
+
+   GPU Elastic Inference AWS Inferentia Processeurs FPGA Edge
+
+Le machine learning sur AWS
+
+   Mettre le machine Learning à la portée de tous les développeurs
+
+
+   AWS dispose de l'ensemble le plus large et le plus complet de services
+   de machine learning et d'IA pour votre entreprise.
+
+   Au nom de nos clients, nous nous concentrons sur la résolution de
+   certains des défis les plus difficiles qui empêchent le machine
+   learning d'être à la portée de chaque développeur.
+
+   Vous pouvez choisir entre des services d'IA préformées pour la vision
+   par ordinateur, le langage, les recommandations et les prévisions ;
+   Amazon SageMaker pour construire, former et déployer rapidement des
+   modèles de machine learning à l'échelle ; ou construire des modèles
+   personnalisés prenant en charge tous les frameworks open-source
+   populaires.
+
+   Nos capacités s'appuient sur la plateforme de cloud la plus complète du
+   marché, optimisée pour le machine learning avec des calculs haute
+   performance et sans compromis en matière de sécurité et d'analyse.
+   Expedia Group
+
+   « AWS est notre plateforme ML de choix, ouvrant de nouvelles voies pour
+   tenir notre promesse d'être la plateforme mondiale du voyage ».
+
+   --Matthew Fryer, Vice-président et chef des données scientifiques de
+   Hotels.com, Expedia Group
+
+10 000 + Clients
+
+Le machine learning est bien plus actif sur AWS que partout ailleurs.
+
+   Clients d’AWS Machine Learning
+
+   En savoir plus »
+     __________________________________________________________________
+
+   Services de ML
+   Services de ML
+
+   Construire, former et déployer rapidement le ML
+   Services d'IA
+   Services d'IA
+
+   Ajoutez facilement de l'intelligence à vos applications
+   Frameworks
+   Frameworks
+
+   Choix et flexibilité avec le support du framework le plus large
+   possible
+   Calcul
+   Calcul
+
+   Options de calcul les plus rapides et les moins coûteuses
+   Analyses et sécurité
+   Analyses et sécurité
+
+   Des capacités complètes, aucun compromis
+   Outils d’apprentissage
+   Outils d’apprentissage
+
+   Approfondissez vos connaissances sur ML avec AWS DeepRacer et DeepLens
+
+SERVICES DE ML
+
+   Amazon SageMaker
+
+   Créer, former et déployer des modèles de machine learning rapidement
+
+   Amazon SageMaker permet aux développeurs et aux spécialistes des
+   données de créer, former et déployer rapidement et facilement des
+   modèles de machine learning à n'importe quelle échelle. Il élimine la
+   complexité qui entrave la mise en œuvre réussie du machine learning
+   dans tous les cas d'utilisation et tous les secteurs d'activité, qu'il
+   s'agisse d'exécuter des modèles pour la détection des fraudes en temps
+   réel, d'analyser virtuellement les impacts biologiques de médicaments
+   potentiels ou de prédire le succès de la base volée au baseball.
+
+   En savoir plus »
+
+   CRÉATION
+     __________________________________________________________________
+
+   Algorithmes 10 fois plus performants : Utilisez des algorithmes
+   préinstallés et optimisés pour des performances 10 fois supérieures
+   avec Amazon SageMaker.
+
+   Carnets Jupyter pré-construits : Les instances entièrement gérées pour
+   les données de formation et le prétraitement.
+
+   Marché des algorithmes : Choisissez parmi les divers algorithmes et
+   modèles disponibles dans AWS Marketplace pour le Machine Learning.
+
+   70 % de réduction des coûts : Créez des ensembles de données de
+   formation très précis et réduisez les coûts d'étiquetage des données
+   jusqu'à 70 % avec Amazon SageMaker Ground Truth.
+
+   FORMATION
+     __________________________________________________________________
+
+   Formation en un seul clic et réglage automatique du modèle avec
+   fonctions AutoML pour des prédictions de modèle les plus précises.
+
+   S'entraîner une fois, courir n'importe où avec 2 fois plus de
+   performance : Amazon SageMaker Neo vous permet de former votre modèle
+   une seule fois et de l'exécuter sur plusieurs configurations
+   matérielles avec jusqu'à deux fois plus de performances.
+
+   Entièrement gérée : Simplification de la formation sur les modèles par
+   la gestion de l'ensemble de l'infrastructure sous-jacente afin que vous
+   puissiez facilement dimensionner les modèles.
+
+
+   DÉPLOYER
+     __________________________________________________________________
+
+   Déploiement en un seul clic : Déployez avec des clusters de mise à
+   l’échelle automatique répartis sur plusieurs zones pour offrir à la
+   fois de hautes performances et une haute disponibilité.
+
+   Réduire les coûts d'inférence jusqu'à 75 % : Amazon Elastic Inference
+   vous permet de provisionner juste ce dont vous avez besoin en termes de
+   performances GPU.
+
+   Test A/B automatique : Gestion des tests des modèles A/B sur jusqu'à
+   cinq modèles différents, ce qui vous donne une grande flexibilité pour
+   effectuer des expériences.
+
+   Hébergement entièrement géré avec mise à l’échelle automatique :
+   Gestion de l'infrastructure de production pour effectuer des contrôles
+   de santé, appliquer des correctifs de sécurité et effectuer l'entretien
+   habituel.
+   GE Healthcare
+   Hotels.com
+   NFL
+   Intuit
+   Thomson Reuters
+   Dow Jones
+
+SERVICES D'IA
+
+   Ajoutez facilement de l'intelligence aux applications
+
+   Aucune compétence en apprentissage automatique n'est requise
+
+   Les services d'IA préformés d'AWS fournissent une intelligence prête à
+   l'emploi pour vos applications et vos flux de travail. Les services
+   d’IA s'intègrent facilement à vos applications pour traiter les cas
+   d'utilisation courants tels que les recommandations personnalisées, la
+   modernisation de votre centre d'appels, l'amélioration de la sécurité
+   et de la sûreté et l'engagement accru des clients. Parce que nous
+   utilisons la même technologie d'apprentissage en profondeur
+   qu'Amazon.com et nos services de ML, vous bénéficiez de la qualité et
+   de la précision des API à apprentissage continu. Enfin, le meilleur de
+   tout, les services d'IA sur AWS n'exigent pas d'expérience en machine
+   learning.
+   Recommendations
+
+Recommendations
+
+   Personnalisez les expériences de vos clients avec la même technologie
+   de recommandation qu'Amazon.com.
+
+   AMAZON PERSONALIZE »
+
+
+   Prévisions
+
+Prévisions
+
+   Construisez des modèles de prévision précis basés sur la même
+   technologie de prévision de machine learning utilisée par Amazon.com.
+
+   AMAZON FORECAST »
+
+
+   Analyse d'images et de vidéos
+
+Analyse d'images et de vidéos
+
+   Ajoutez l'analyse d'images et de vidéos à vos applications pour
+   cataloguer les ressources, automatiser les flux de travail multimédia
+   et extraire du sens.
+
+   AMAZON REKOGNITION »
+
+
+   Analyse de texte avancée
+
+Analyse de texte avancée
+
+   Utilisez le traitement du langage naturel pour extraire des idées et
+   des relations à partir de textes non structurés.
+
+   AMAZON COMPREHEND »
+
+
+   Analyse de document
+
+Analyse de document
+
+   Extrayez automatiquement le texte et les données de millions de
+   documents en quelques heures seulement,en réduisant ainsi les efforts
+   manuels.
+
+   AMAZON TEXTRACT »
+
+
+   Voix
+
+Voix
+
+   Convertissez le texte en enregistrement audio réaliste pour donner une
+   voix à vos applications.
+
+   AMAZON POLLY »
+
+
+   Agents de conversation
+
+Agents de conversation
+
+   Créez facilement des agents de conversation pour améliorer le service à
+   la clientèle et accroître l'efficacité du centre de contact.
+
+   AMAZON LEX »
+
+
+   Traduction
+
+Traduction
+
+   Élargissez votre portée grâce à une traduction efficace et rentable
+   afin d’atteindre des publics dans plusieurs langues.
+
+   AMAZON TRANSLATE »
+
+
+   Transcription
+
+Transcription
+
+   Ajoutez facilement des fonctionnalités de synthèse vocale de haute
+   qualité à vos applications et flux de travail.
+
+   AMAZON TRANSCRIBE »
+
+
+   Solutions Motorola
+   Duolingo
+   Finra
+   VidMob
+   NASA
+   Appareils GE
+
+FRAMEWORKS DE ML
+
+Choix et flexibilité avec les frameworks de ML
+
+   Choisissez parmi TensorFlow, PyTorch, Apache MXNet, et d'autres
+   frameworks répandus pour expérimenter et personnaliser les algorithmes
+   de machine learning. Vous pouvez utiliser le framework de votre choix
+   comme une expérience gérée dans Amazon SageMaker, ou les AMI d’AWS Deep
+   Learning (Amazon Machine Images), qui sont entièrement configurées avec
+   les dernières versions de frameworks et outils de deep learning les
+   plus répandus.
+     * 81 % des projets de deep learning dans le cloud s’exécutent sur AWS
+     * 85 % des projets TensorFlow dans le cloud s’exécutent sur AWS
+     * Réduction du temps de formation de 50 % : Tel que mesuré dans le
+       test d'analyse comparative ResNet-50, le TensorFlow optimisé par
+       AWS a enregistré le temps de formation le plus rapide, de plus de
+       50 %
+     * Efficacité de mise à l’échelle de 90 % : L'utilisation de
+       TensorFlow optimisé par AWS permet une efficacité de mise à
+       l’échelle quasi linéaire, jusqu'à 90 % contre 65 % avec TensorFlow
+       en stock
+
+   En savoir plus »
+
+
+
+   85 %
+
+   des projets TensorFlow dans le cloud s’exécutent sur AWS
+
+   En savoir plus »
+
+
+   Zendesk
+   News Corp Australia
+   Hudl
+   Snapchat
+   Celgene
+   Siemens
+
+CALCUL
+
+Obtenez la bonne capacité de calcul pour tous les cas d'utilisation
+
+   Tirez parti d’un large éventail d'options de calcul puissantes, allant
+   des GPU pour l'apprentissage profond exigeant en matière de calcul aux
+   FPGA pour l'accélération de matériel spécialisé, en passant par les
+   instances à mémoire élevée pour l'exécution d'opérations d'inférence.
+   Amazon EC2 fournit une large sélection de types d'instance optimisés
+   pour s'adapter aux cas d'utilisation de machine learning, que vous
+   soyez en train de former des modèles ou d'exécuter des inférences sur
+   des modèles formés.
+     * Débit réseau 3 fois plus rapide que les autres fournisseurs
+       utilisant des instances P3dn
+     * 25 % d'amélioration du prix et des performances en utilisant des
+       instances C5 alimentées par Intel Xeon 3.0GHz par rapport aux
+       instances de la génération précédente
+     * Accélération personnalisée du matériel en utilisant les instances
+       F1 avec des réseaux de portes programmables in situ (FPGA ou
+       Field-programmable gate array)
+
+   GPU | Amazon EC2 P3
+
+   INFÉRENCE PERSONALISÉE | Amazon Elastic Inference
+
+   GPU | Amazon EC2 C5
+
+   FPGA  | Amazon EC2 F1
+
+   PÉRIPHÉRIE | AWS Greengrass
+
+     __________________________________________________________________
+
+ANALYSE ET SÉCURITÉ
+
+Analyse et sécurité pour le machine learning
+
+   Pour réussir dans le domaine du machine learning, vous avez besoin non
+   seulement de capacités en la matière, mais également de la de la
+   sécurité, du magasin de données et de services d'analyse
+   appropriés. Avec AWS, vous bénéficiez des fonctionnalités les plus
+   complètes pour prendre en charge vos charges de travail de machine
+   learning.
+     * 99,99999999999 % de durabilité et disponibilité inégalée avec
+       Amazon S3 et Amazon S3 Glacier pour le stockage
+     * Jusqu'à 400 % plus rapide des requêtes de données en utilisant
+       Amazon Redshift pour l’analyse
+     * Ensemble de capacités de sécurité et de chiffrement les plus
+       approfondis
+
+
+
+
+   STOCKAGE | Amazon S3
+
+   ANALYSE | AWS Analytics
+
+   SÉCURITÉ | AWS Security
+
+OUTILS D’APPRENTISSAGE
+
+Apprenez davantage avec le machine learning
+
+AWS DeepRacer
+
+   AWS DeepRacer est une voiture de course entièrement autonome à
+   l'échelle 1/18ème conçue pour vous aider à apprendre à renforcer
+   l'apprentissage par la conduite autonome.
+     * Vivez l'émotion de la course dans le monde réel lorsque vous
+       déployez votre modèle RL sur AWS DeepRacer
+
+     * Créez des modèles dans Amazon SageMaker, puis entraînez-vous,
+       testez et itérez sur la piste en utilisant le simulateur de course
+       3D d'AWS DeepRacer
+
+     * À partir de 2019, participez à la première ligue de course autonome
+       mondiale au monde afin de compétir pour gagner des prix et avoir
+       une chance d’avance de gagner le très convoité trophée AWS
+       DeepRacer
+
+   En savoir plus »
+     __________________________________________________________________
+
+   Voiture de course autonome AWS Deepracer
+   Caméra vidéo AWS Deeplens
+
+AWS DeepLens
+
+   AWS DeepLens est la première caméra vidéo avec apprentissage profond au
+   monde destinée aux développeurs. Intégré avec Amazon SageMaker et de
+   nombreux autres services AWS, il vous permet de commencer le deep
+   learning en moins de 10 minutes grâce à des exemples de projets
+   pratiques et concrets.
+     * Choisissez un modèle d'apprentissage profond dans la bibliothèque
+       de modèles préformés AWS DeepLens ou vos propres modèles formés
+       avec Amazon SageMaker.
+     * Déployez votre modèle sur l'appareil en un clic.
+     * Suivez les résultats en temps réel dans AWS Management Console.
+
+   En savoir plus »
+
+
+   PROGRAMMES DE ML | POUR LES ORGANISATIONS
+
+Laboratoire de solutions Amazon ML
+
+   Le Laboratoire de solutions Amazon ML associe des ateliers de formation
+   pratique à des services professionnels de conseils, ce laboratoire vous
+   permet de « travailler à contre-courant » pour résoudre des
+   problématiques métier, et vous guide pas à pas tout au long du
+   processus de développement de solutions basées sur le machine learning.
+   Vous pourrez mettre en pratique ce que vous avez appris partout dans
+   votre organisation et appliquer le machine learning aux différentes
+   opportunités professionnelles qui se présentent.
+
+   En savoir plus »
+
+
+   PROGRAMMES DE ML | POUR CHERCHEURS
+
+Subventions de recherche en ML d’Amazon
+
+   Le programme de subventions de recherche en machine learning d'AWS
+   finance des départements universitaires, des facultés, des doctorants
+   et des post-doctorants qui mènent des recherches innovantes dans le
+   domaine du machine learning. Notre objectif est d'accélérer le
+   développement d'algorithmes, de publications et de codes sources
+   novateurs pour un large éventail d'applications et de domaines
+   d'intérêt en matière du machine learning.
+
+   En savoir plus »
+
+   PROGRAMMES DE ML | DÉVELOPPEURS
+
+Formation sur le Machine Learning
+
+   Commencez votre formation en matière de machine learning sur AWS avec
+   des cours basés sur les documents utilisés pour former les développeurs
+   Amazon en combinant les connaissances de base et la mise en pratique en
+   situation réelle. Les développeurs, les spécialistes de données, les
+   ingénieurs de plate-forme de données et les décideurs d’entreprise
+   peuvent utiliser cette formation pour apprendre à appliquer le ML, l'IA
+   et le deep learning (apprentissage profond) dans leur entreprise, leur
+   permettant ainsi de découvrir de nouvelles perspectives et de nouvelles
+   valeurs.
+
+   En savoir plus »
+
+   Se connecter à la console
+
+Se renseigner sur AWS
+
+     * Qu'est-ce qu'AWS ?
+     * Qu'est-ce que le cloud computing ?
+     * En quoi consiste les DevOps ?
+     * Qu'est-ce qu'un conteneur ?
+     * Qu'est-ce qu'un data lake ?
+     * Sécurité dans le Cloud AWS
+     * Nouveautés
+     * Blogs
+
+Ressources pour AWS
+
+     * Mise en route
+     * Formation et certification
+     * Portefeuille de solutions AWS
+     * Centre d'architecture
+     * Questions fréquentes (FAQ) techniques et sur les produits
+     * Rapports d'analystes
+     * Réseau de partenaires AWS
+
+Développeurs sur AWS
+
+     * Centre pour développeurs
+     * Kits SDK et outils
+     * Python sur AWS
+     * Java sur AWS
+     * PHP sur AWS
+     * Javascript sur AWS
+
+Aide
+
+     * Contactez-nous
+     * Emplois AWS
+     * Soumettre un ticket de support
+     * Centre de connaissances
+     * Présentation d'AWS Support
+     * Informations juridiques
+
+   Créer un compte AWS
+   Amazon est un employeur qui souscrit aux principes d'équité en matière
+   d'emploi : minorités, femmes, handicaps, seniors, identité de genre,
+   orientation sexuelle, âge.
+
+     * Langue
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Confidentialité
+     * |
+     * Conditions d'utilisation du site
+     * |
+     * © 2019, Amazon Web Services, Inc. ou ses sociétés apparentées. Tous
+       droits réservés.
+   #AWS Security Blog » All AWS Services GDPR ready Comments Feed RSS 2.0
+   Feed
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+   Blog Home Category  Edition  Follow
+   ____________________
+   (BUTTON)
+   AWS News AWS Podcast
+     __________________________________________________________________
+
+   Architecture AWS Cost Management AWS Partner Network AWS Marketplace
+   Big Data Business Productivity Compute Contact Center Database Desktop
+   and Application Streaming Developer DevOps Enterprise Strategy Game
+   Tech Infrastructure & Automation Internet of Things Machine Learning
+   Management Tools Media Messaging & Targeting Mobile Networking &
+   Content Delivery Open Source Public Sector SAP Security, Identity, &
+   Compliance Startups Storage
+   China Edition France Edition Germany Edition Japan Edition Korea
+   Edition Portuguese Edition Spanish Edition English Edition
+   Mailing List RSS Feed AWS Podcast
+
+AWS Security Blog
+
+All AWS Services GDPR ready
+
+   by Chad Woolf | on 26 MAR 2018 | in Amazon GuardDuty, Amazon Inspector,
+   Amazon Macie, AWS Config, Compliance, Security, Identity, & Compliance,
+   Webinars | Permalink | Comments |  Share
+     *
+     *
+     *
+     *
+     * https://aws.amazon.c
+
+   Today, I’m very pleased to announce that AWS services comply with the
+   General Data Protection Regulation (GDPR). This means that, in addition
+   to benefiting from all of the measures that AWS already takes to
+   maintain services security, customers can deploy AWS services as a key
+   part of their GDPR compliance plans.
+
+   This announcement confirms we have completed the entirety of our GDPR
+   service readiness audit, validating that all generally available
+   services and features adhere to the high privacy bar and data
+   protection standards required of data processors by the GDPR. We
+   completed this work two months ahead of the May 25, 2018 enforcement
+   deadline in order to give customers and APN partners an environment in
+   which they can confidently build their own GDPR-compliant products,
+   services, and solutions.
+
+   AWS’s GDPR service readiness is only part of the story; we are
+   continuing to work alongside our customers and the AWS Partner Network
+   (APN) to help on their journey toward GDPR compliance. Along with this
+   announcement, I’d like to highlight the following examples of ways AWS
+   can help you accelerate your own GDPR compliance efforts.
+
+   Security of Personal Data
+   During our GDPR service readiness audit, our security and compliance
+   experts confirmed that AWS has in place effective technical and
+   organizational measures for data processors to secure personal data in
+   accordance with the GDPR. Security remains our highest priority, and we
+   continue to innovate and invest in a high bar for security and
+   compliance across all global operations. Our industry-leading
+   functionality provides the foundation for our long list of
+   internationally-recognized certifications and accreditations,
+   demonstrating compliance with rigorous international standards, such as
+   ISO 27001 for technical measures, ISO 27017 for cloud security, ISO
+   27018 for cloud privacy, SOC 1, SOC 2 and SOC 3, PCI DSS Level 1, and
+   EU-specific certifications such as BSI’s Common Cloud Computing
+   Controls Catalogue (C5). AWS continues to pursue the certifications
+   that assist our customers.
+
+   Compliance-enabling Services
+   Many requirements under the GDPR focus on ensuring effective control
+   and protection of personal data. AWS services give you the capability
+   to implement your own security measures in the ways you need in order
+   to enable your compliance with the GDPR, including specific measures
+   such as:
+     * Encryption of personal data
+     * Ability to ensure the ongoing confidentiality, integrity,
+       availability, and resilience of processing systems and services
+     * Ability to restore the availability and access to personal data in
+       a timely manner in the event of a physical or technical incident
+     * Processes for regularly testing, assessing, and evaluating the
+       effectiveness of technical and organizational measures for ensuring
+       the security of processing
+
+   This is an advanced set of security and compliance services that are
+   designed specifically to handle the requirements of the GDPR. There are
+   numerous AWS services that have particular significance for customers
+   focusing on GDPR compliance, including:
+     * Amazon GuardDuty – a security service featuring intelligent threat
+       detection and continuous monitoring
+     * Amazon Macie – a machine learning tool to assist discovery and
+       securing of personal data stored in Amazon S3
+     * Amazon Inspector – an automated security assessment service to help
+       keep applications in conformity with best security practices
+     * AWS Config Rules – a monitoring service that dynamically checks
+       cloud resources for compliance with security rules
+
+   Additionally, we have published a whitepaper, “Navigating GDPR
+   Compliance on AWS,” dedicated to this topic. This paper details how to
+   tie GDPR concepts to specific AWS services, including those relating to
+   monitoring, data access, and key management. Furthermore, our GDPR
+   Center will give you access to the up-to-date resources you need to
+   tackle requirements that directly support your GDPR efforts.
+
+   Compliant DPA
+   We offer a GDPR-compliant Data Processing Addendum (DPA), enabling you
+   to comply with GDPR contractual obligations.
+
+   Conformity with a Code of Conduct
+   GDPR introduces adherence to a “code of conduct” as a mechanism for
+   demonstrating sufficient guarantees of requirements that the GDPR
+   places on data processors. In this context, we previously announced
+   compliance with the CISPE Code of Conduct. The CISPE Code of Conduct
+   provides customers with additional assurances regarding their ability
+   to fully control their data in a safe, secure, and compliant
+   environment when they use services from providers like AWS. More detail
+   about the CISPE Code of Conduct can be found at:
+   https://aws.amazon.com/compliance/cispe/
+
+   Training and Summits
+   We can provide you with training on navigating GDPR compliance using
+   AWS services via our Professional Services team. This team has a GDPR
+   workshop offering, which is a two-day facilitated session customized to
+   your specific needs and challenges. We are also providing GDPR
+   presentations during our AWS Summits in European countries, as well as
+   San Francisco and Tokyo.
+
+   Additional Resources
+   Finally, we have teams of compliance, data protection, and security
+   experts, as well as the APN, helping customers across Europe prepare
+   for running regulated workloads in the cloud as the GDPR becomes
+   enforceable. For additional information on this, please contact your
+   AWS Account Manager.
+
+   As we move towards May 25 and beyond, we’ll be posting a series of
+   blogs to dive deeper into GDPR-related concepts along with how AWS can
+   help. Please visit our GDPR Center for more information. We’re excited
+   about being your partner in fully addressing this important regulation.
+
+   -Chad Woolf
+
+   Vice President, AWS Security Assurance
+
+   Interested in additional AWS Security news? Follow the AWS Security
+   Blog on Twitter.
+
+   Author
+
+Chad Woolf
+
+   Chad joined Amazon in 2010 and built the AWS compliance functions from
+   the ground up, including audit and certifications, privacy, contract
+   compliance, control automation engineering and security process
+   monitoring. Chad’s work also includes enabling public sector and
+   regulated industry adoption of the AWS cloud, compliance with complex
+   privacy regulations such as GDPR and operating a trade and product
+   compliance team in conjunction with global region expansion. Prior to
+   joining AWS, Chad spent 12 years with Ernst & Young as a Senior Manager
+   working directly with Fortune 100 companies consulting on IT process,
+   security, risk, and vendor management advisory work, as well as
+   designing and deploying global security and assurance software
+   solutions. Chad holds a Masters of Information Systems Management and a
+   Bachelors of Accounting from Brigham Young University, Utah. Follow
+   Chad on Twitter.
+
+   TAGS: Amazon GuardDuty, Amazon Inspector, Amazon Macie, Best of 2018,
+   GDPR, General Data Protection Regulation
+   View Comments
+
+Resources
+
+   General Data Protection Regulation (GDPR) AWS Cloud Security Amazon
+   Guard​Duty Amazon Macie AWS Identity and Access Management (IAM) AWS
+   Directory Service AWS Artifact AWS Compliance
+     __________________________________________________________________
+
+Follow
+
+    Twitter  Facebook  LinkedIn  Twitch  Email Updates
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Customer Enablement
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+   Amazon S3
+   Overview Features Storage classes Pricing Getting started Resources
+   FAQs
+
+   Resources Videos
+
+Amazon S3
+
+Object storage built to store and retrieve any amount of data from anywhere
+
+   Get started with Amazon S3
+   Request more information
+
+   Amazon Simple Storage Service (Amazon S3) is an object storage service
+   that offers industry-leading scalability, data availability, security,
+   and performance. This means customers of all sizes and industries can
+   use it to store and protect any amount of data for a range of use
+   cases, such as websites, mobile applications, backup and restore,
+   archive, enterprise applications, IoT devices, and big data analytics.
+   Amazon S3 provides easy-to-use management features so you can organize
+   your data and configure finely-tuned access controls to meet your
+   specific business, organizational, and compliance requirements. Amazon
+   S3 is designed for 99.999999999% (11 9's) of durability, and stores
+   data for millions of applications for companies all around the world.
+   Introduction to Amazon S3
+
+Benefits
+
+Industry-leading performance, scalability, availability, and durability
+
+   Scale your storage resources up and down to meet fluctuating demands,
+   without upfront investments or resource procurement cycles. Amazon S3
+   is designed for 99.999999999% (11 9’s) of data durability because it
+   automatically creates and stores copies of all S3 objects across
+   multiple systems. This means your data is available when needed and
+   protected against failures, errors, and threats.
+   Learn about S3 data durability »
+
+Wide range of cost-effective storage classes
+
+   Save costs without sacrificing performance by storing data across the
+   S3 Storage Classes, which support different data access levels at
+   corresponding rates. You can use S3 Storage Class Analysis to discover
+   data that should move to a lower-cost storage class based on access
+   patterns, and configure an S3 Lifecycle policy to execute the transfer.
+   You can also store data with changing or unknown access patterns in S3
+   Intelligent-Tiering, which tiers objects based on changing access
+   patterns and automatically delivers cost savings.
+   Learn more about the S3 Storage Classes »
+
+Unmatched security, compliance, and audit capabilities
+
+   Store your data in Amazon S3 and secure it from unauthorized access
+   with encryption features and access management tools. S3 is the only
+   object storage service that allows you to block public access to all of
+   your objects at the bucket or the account level with S3 Block Public
+   Access. S3 maintains compliance programs, such as PCI-DSS,
+   HIPAA/HITECH, FedRAMP, EU Data Protection Directive, and FISMA, to help
+   you meet regulatory requirements. AWS also supports numerous auditing
+   capabilities to monitor access requests to your S3 resources.
+   Learn more about S3 security and compliance »
+
+Management tools for granular data control
+
+   Classify, manage, and report on your data using features, such as: S3
+   Storage Class Analysis to analyze access patterns; S3 Lifecycle
+   policies to transfer objects to lower-cost storage classes; S3
+   Cross-Region Replication to replicate data into other regions; S3
+   Object Lock to apply retention dates to objects and protect them from
+   deletion; and S3 Inventory to get visbility into your stored objects,
+   their metadata, and encryption status. You can also use S3 Batch
+   Operations to change object properties and perform storage management
+   tasks for billions of objects. Since Amazon S3 works with AWS Lambda,
+   you can log activities, define alerts, and automate workflows without
+   managing additional infrastructure.
+   Learn more about S3 storage management features »
+
+Query-in-place services for analytics
+
+   Run big data analytics across your S3 objects (and other data sets in
+   AWS) with our query-in-place services. Use Amazon Athena to query S3
+   data with standard SQL expressions and Amazon Redshift Spectrum to
+   analyze data that is stored across your AWS data warehouses and S3
+   resources. You can also use S3 Select to retrieve subsets of object
+   data, instead of the entire object, and improve query performance by up
+   to 400%.
+   Learn more about query in place »
+
+Most supported cloud storage service
+
+   Store and protect your data in Amazon S3 by working with a partner from
+   the AWS Partner Network (APN) — the largest community of technology and
+   consulting cloud services providers. The APN recognizes migration
+   partners that transfer data to Amazon S3 and storage partners that
+   offer S3-integrated solutions for primary storage, backup and restore,
+   archive, and disaster recovery. You can also purchase an AWS-integrated
+   solution directly from the AWS Marketplace, which lists over 250
+   storage-specific offerings.
+   Learn about the APN and AWS Marketplace »
+
+How it works — S3 Batch Operations
+
+   S3BatchOperationsHowitworks
+
+   S3 Batch Operations lets you manage billions of objects at scale with
+   just a few clicks in the Amazon S3 Management Console or a single API
+   request. With S3 Batch Operations, you can make changes to object
+   metadata and properties, or perform other storage management tasks,
+   such as copying objects between buckets, replacing object tag sets,
+   modifying access controls, and restoring archived objects from S3
+   Glacier — instead of taking months to develop custom applications to
+   perform these tasks. Learn more by watching the video tutorials.
+
+Use cases
+
+Backup and restore
+
+   Build scalable, durable, and secure backup and restore solutions with
+   Amazon S3 and other AWS services, such as S3 Glacier, Amazon EFS, and
+   Amazon EBS, to augment or replace existing on-premises capabilities.
+   AWS and APN partners can help you meet Recovery Time Objectives (RTO),
+   Recovery Point Objectives (RPO), and compliance requirements. With AWS,
+   you can back up data already in the AWS Cloud or use AWS Storage
+   Gateway, a hybrid storage service, to send backups of on-premises data
+   to AWS.
+   Learn more about backup and restore »
+
+Disaster recovery (DR)
+
+   Protect critical data, applications, and IT systems that are running in
+   the AWS Cloud or in your on-premises environment without incurring the
+   expense of a second physical site. With Amazon S3 storage, S3
+   Cross-Region Replication, and other AWS compute, networking, and
+   database services, you can create DR architectures in order to quickly
+   and easily recover from outages caused by natural disasters, system
+   failures, and human errors.
+   Learn more about DR »
+
+Archive
+
+   Retire physical infrastructure, and archive data with S3 Glacier and S3
+   Glacier Deep Archive. These S3 Storage Classes retain objects long-term
+   at the lowest rates. Simply create an S3 Lifecycle policy to archive
+   objects throughout their lifecycles, or upload objects directly to the
+   archival storage classes. With S3 Object Lock, you can apply retention
+   dates to objects to protect them from deletions, and meet compliance
+   requirements. Unlike tape libraries, S3 Glacier lets you restore
+   archived objects in as little as one minute for expedited retrievals
+   and 3-5 hours for standard retrievals. Bulk data restores from S3
+   Glacier and all restores from S3 Glacier Deep Archive are completed
+   within 12 hours.
+   Learn more about archiving »
+
+Data lakes and big data analytics
+
+   Accelerate innovation by creating a data lake in Amazon S3, and extract
+   valuable insights using query-in-place, analytics, and machine learning
+   tools. You can also use AWS Lake Formation to quickly create a data
+   lake, and centrally define and enforce security, governance, and
+   auditing policies. The service collects data across your databases and
+   S3 resources, moves it into a new data lake in Amazon S3, and cleans
+   and classifies it using machine learning algorithms. All AWS resources
+   can be scaled up to accommodate your expanding data stores — without
+   upfront investments.
+   Learn more about data lakes and AWS Lake Formation »
+
+Hybrid cloud storage
+
+   Create a seamless connection between on-premises applications and
+   Amazon S3 with AWS Storage Gateway in order to reduce your data center
+   footprint, and leverage the scale, reliability, and durability of AWS,
+   as well as AWS’ innovative machine learning and analytics capabilities.
+   You can also automate data transfers between on-premises storage and
+   Amazon S3 by using AWS DataSync, which can transfer data at speeds up
+   to 10 times faster than open-source tools. Another way to enable a
+   hybrid cloud storage environment is to work with a gateway provider
+   from the APN. You can also transfer files directly into and out of
+   Amazon S3 with AWS Transfer for SFTP — a fully managed service that
+   enables secure file exchanges with third parties.
+   Learn more about hybrid storage, AWS DataSync, and AWS Transfer for
+   SFTP »
+
+Cloud-native application data
+
+   Build fast, cost-effective mobile and Internet-based applications by
+   using AWS services and Amazon S3 to store production data. With Amazon
+   S3, you can upload any amount of data and access it anywhere in order
+   to deploy applications faster and reach more end users. Storing data in
+   Amazon S3 also means you have access to the latest AWS developer tools
+   and services for machine learning and analytics to innovate and
+   optimize your cloud-native applications.
+   Learn more about cloud-native applications »
+
+Case studies
+
+   Netflix
+   Netflix delivers billions of hours of content from Amazon S3 to
+   customers around the world. Amazon S3 also serves as the data lake for
+   their big data analytics solution.
+   FINRA
+   FINRA uses Amazon S3 to ingest and store data for over 75 billion
+   market events daily and AWS Lambda functions to format and validate the
+   data against more than 200 rules.
+   AirBnB
+   Airbnb houses backup data and static files on Amazon S3, including over
+   10 petabytes of user pictures. As a born-in-the-cloud solution, they
+   continually innovate new ways to analyze data stored on Amazon S3.
+   GE Healthcare
+   GE uses Amazon S3 to store and protect a petabyte of critical medical
+   imaging data for its GE Health Cloud service, which connects hundreds
+   of thousands of imaging machines and other medical devices.
+
+Related content
+
+   AWS NEWS BLOG
+   Amazon S3 Announces the General Availability of S3 Batch Operations for
+   Object Management in Commercial AWS Regions and AWS GovCloud
+   by Jeff Barr | 30 APR 2019
+
+   Learn more »
+   WHAT'S NEW
+   AWS Announces the General Availability of the Amazon S3 Glacier Deep
+   Archive Storage Class in all Commercial AWS Regions and AWS GovCloud
+   (US)
+   27 MAR 2019
+
+   Learn more »
+   AWS NEWS BLOG
+   New — Automatic Cost Optimization for Amazon S3 via Intelligent Tiering
+   by Jeff Barr | 26 NOV 2018
+
+
+   Learn more »
+
+   WHAT'S NEW
+   AWS Announces Amazon S3 Object Lock in all AWS Regions
+   26 NOV 2018
+   Learn more »
+
+   AWS ARCHITECTURE BLOG
+   S3 & S3 Glacier Launch Announcements for Archival Workloads
+   by Matt Sidley | 26 NOV 2018
+   Learn more »
+
+   NEWS BLOG
+   Amazon S3 Block Public Access — Another Layer of Protection for Your
+   Accounts and Buckets
+   16 NOV 2018
+   Learn more »
+
+Ready to get started?
+
+   Product-Page_Standard-Icons_01_Product-Features_SqInk
+   Check out the product features
+
+   Learn more about features for data management, security, access
+   management, analytics, and more.
+   Learn more
+   Product-Page_Standard-Icons_02_Sign-Up_SqInk
+   Sign up for a free account
+
+   Instantly get access to the AWS Free Tier and start experimenting with
+   Amazon S3.
+   Sign up
+   Product-Page_Standard-Icons_03_Start-Building_SqInk
+   Start building in the console
+
+   Get started building with Amazon S3 in the AWS Console.
+   Get started
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+     * Press Releases
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+     * Analyst Reports
+     * AWS Partner Network
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Customer Enablement
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+   AWS Cloud
+
+AWS Cloud Security
+
+   AWS Cloud
+
+Protect your data with cloud-powered security.
+
+Cloud Security
+
+Penetration Testing
+
+Security Bulletins
+
+Resources
+
+Compliance
+
+Partners
+
+   Cloud security at AWS is the highest priority. As an AWS customer, you
+   will benefit from a data center and network architecture built to meet
+   the requirements of the most security-sensitive organizations.
+
+   An advantage of the AWS cloud is that it allows customers to scale and
+   innovate, while maintaining a secure environment. Customers pay only
+   for the services they use, meaning that you can have the security you
+   need, but without the upfront expenses, and at a lower cost than in an
+   on-premises environment.
+
+
+AWS re:Inforce 2019 Highlights
+
+   reinforce2020_STD_Steve
+
+Benefits of AWS Security
+
+   More controls and increased privacy – all at a lower cost
+   Secure Cloud Computing
+   Secure Cloud Computing
+
+   Keep Your Data Safe
+
+   The AWS infrastructure puts strong safeguards in place to help protect
+   customer privacy. All data is stored in highly secure AWS data centers.
+   AWS Compliance
+   AWS Compliance
+
+   Meet Compliance Requirements
+
+   AWS manages dozens of compliance programs in its infrastructure. This
+   means that segments of your compliance have already been completed.
+   Cost Savings
+   Cost Savings
+
+   Save Money
+
+   Cut costs by using AWS data centers. Maintain the highest standard of
+   security without having to manage your own facility.
+   Quick Scaling
+   Quick Scaling
+
+   Scale Quickly
+
+   Security scales with your AWS cloud usage. No matter the size of your
+   business the AWS infrastructure is designed to keep data safe.
+
+Security Platform
+
+     * Infrastructure Security
+     * DDoS Mitigation
+     * Data Encryption
+     * Inventory and Configuration
+     * Monitoring and Logging
+     * Identity and Access Control
+     * Penetration Testing
+
+     * Infrastructure Security
+       AWS provides several security capabilities and services to increase
+       privacy and control network access. These include:
+          + Network firewalls built into Amazon VPC, and web application
+            firewall capabilities in AWS WAF let you create private
+            networks, and control access to your instances and
+            applications
+          + Customer-controlled encryption in transit with TLS across all
+            services
+          + Connectivity options that enable private, or dedicated,
+            connections from your office or on-premises environment
+          + Automatic encryption of all traffic on the AWS global and
+            regional networks between AWS secured facilities
+       Cloud Infrastructure Security
+       Cloud Infrastructure Security
+     * DDoS Mitigation
+       Availability is of paramount importance in the cloud. AWS customers
+       benefit from AWS services and technologies built from the ground up
+       to provide resilience in the face of DDoS attacks.
+       A combination of AWS services may be used to implement a defense in
+       depth strategy and thwart DDoS attacks. Services designed with an
+       automatic response to DDoS help minimize time to mitigate and
+       reduce impact.
+       Learn about how to use AWS technologies like autoscaling, Amazon
+       CloudFront and Amazon Route 53 help to mitigate Distributed Denial
+       of Service attacks.
+       Learn more about DDoS »
+
+
+       Data Encryption
+       Data Encryption
+     * Data Encryption
+       AWS offers you the ability to add an additional layer of security
+       to your data at rest in the cloud, providing scalable and efficient
+       encryption features. This includes:
+          + Data encryption capabilities available in AWS storage and
+            database services, such as EBS, S3, Glacier, Oracle RDS, SQL
+            Server RDS, and Redshift
+          + Flexible key management options, including AWS Key Management
+            Service, allowing you to choose whether to have AWS manage the
+            encryption keys or enable you to keep complete control over
+            your keys
+          + Encrypted message queues for the transmission of sensitive
+            data using server-side encryption (SSE) for Amazon SQS
+          + Dedicated, hardware-based cryptographic key storage using AWS
+            CloudHSM, allowing you to satisfy compliance requirements
+       In addition, AWS provides APIs for you to integrate encryption and
+       data protection with any of the services you develop or deploy in
+       an AWS environment.
+       Data Encryption
+       Data Encryption
+     * Inventory and Configuration
+       AWS offers a range of tools to allow you to move fast while still
+       ensuring that your cloud resources comply with organizational
+       standards and best practices. This includes:
+          + A security assessment service, Amazon Inspector, that
+            automatically assesses applications for vulnerabilities or
+            deviations from best practices, including impacted networks,
+            OS, and attached storage
+          + Deployment tools to manage the creation and decommissioning of
+            AWS resources according to organization standards
+          + Inventory and configuration management tools, including AWS
+            Config, that identify AWS resources and then track and manage
+            changes to those resources over time
+          + Template definition and management tools, including AWS
+            CloudFormation to create standard, preconfigured environments
+       Inventory In The Cloud
+       Inventory In The Cloud
+     * Monitoring and Logging
+       AWS provides tools and features that enable you to see exactly
+       what’s happening in your AWS environment. This includes:
+          + Deep visibility into API calls through AWS CloudTrail,
+            including who, what, who, and from where calls were made
+          + Log aggregation options, streamlining investigations and
+            compliance reporting
+          + Alert notifications through Amazon CloudWatch when specific
+            events occur or thresholds are exceeded
+       These tools and features give you the visibility you need to spot
+       issues before they impact the business and allow you to improve
+       security posture, and reduce the risk profile, of your environment.
+       Monitoring and Logging
+       Monitoring and Logging
+     * Identity and Access Control
+       AWS offers you capabilities to define, enforce, and manage user
+       access policies across AWS services. This includes:
+          + AWS Identity and Access Management (IAM) lets you define
+            individual user accounts with permissions across AWS resources
+          + AWS Multi-Factor Authentication for privileged accounts,
+            including options for hardware-based authenticators
+          + AWS Directory Service allows you to integrate and federate
+            with corporate directories to reduce administrative overhead
+            and improve end-user experience
+       AWS provides native identity and access management integration
+       across many of its services plus API integration with any of your
+       own applications or services.
+       Inventory In The Cloud
+       Inventory In The Cloud
+     * Penetration Testing
+       AWS continually tests its infrastructure; the results are
+       summarized in our compliance reports. AWS customers can carry out
+       security assessments or penetration tests against their own AWS
+       infrastructure without prior approval for a number of core
+       services, see our penetration testing section for more details.
+       Inventory In The Cloud
+       Inventory In The Cloud
+
+Expert Guidance
+
+   Have the backing of our extensive support network every step of the way
+   Click to Enlarge
+   Click to Enlarge
+
+Security Support
+
+   Real-time insight through AWS Trusted Advisor
+
+   Proactive support and advocacy with a Technical Account Manager (TAM)
+
+   Learn more »
+   Click to Enlarge
+   Click to Enlarge
+
+Professional Services
+
+   Strategic advice to create In-Depth Security Solutions
+
+   Detect and respond to security issues with the Security Operations
+   Playbook
+
+   Learn more »
+
+Global Infrastructure
+
+   The AWS Cloud spans 69 Availability Zones within 22 geographic Regions
+   around the world, with announced plans for 9 more Availability Zones
+   and three more Regions in Cape Town, Jakarta, and Milan.
+
+   Regions & Number of Availability Zones
+
+   US East
+   N. Virginia (6), Ohio (3)
+
+   US West
+   N. California (3), Oregon (4)
+
+   Asia Pacific
+   Hong Kong SAR (3), Mumbai (3), Osaka-Local (1), Seoul (3), Singapore
+   (3), Sydney (3), Tokyo (4)
+
+   Canada
+   Central (2*)
+   *Located in the Montreal metropolitan area
+
+   Mainland China
+   Beijing (2), Ningxia (3)
+
+   Europe
+   Frankfurt (3), Ireland (3), London (3), Paris (3),
+   Stockholm (3)
+
+   South America
+   Sao Paulo (3)
+
+   GovCloud (US)
+   US-East (3), US-West (3)
+
+   Middle East
+   Bahrain (3)
+
+   New Regions (coming soon)
+
+   Cape Town
+
+   Jakarta
+
+   Milan
+     __________________________________________________________________
+
+   Improving Continuity With Replication Between Regions
+
+   In addition to replicating applications and data across multiple data
+   centers in the same region using Availability Zones, you can also
+   choose to increase redundancy and fault tolerance further by
+   replicating data between geographic regions.
+
+   Meeting Compliance and Data Residency Requirements
+
+   You retain complete control and ownership over the region in which your
+   data is physically located, making it easy to meet regional compliance
+   and data residency requirements.
+
+   Protecting Data with Encryption on the Global Network
+
+   All data flowing across the AWS global network that interconnects our
+   datacenters and regions is automatically encrypted at the physical
+   layer before it leaves our secured facilities. Additional encryption
+   layers exist as well; for example, all VPC cross-region peering
+   traffic, and customer or service-to-service TLS connections.
+
+Compliance Made User-Friendly
+
+   Spend less time on compliance and more time running your business
+   AWS Compliance
+   AWS Compliance
+
+   Learn more »
+
+Vulnerability Reporting
+
+   Click to Enlarge
+   Click to Enlarge
+
+Report Suspicious Emails »
+
+   Click to Enlarge
+   Click to Enlarge
+
+Report Vulnerabilities »
+
+Use the AWS Partner Network
+
+   APN Partners offer hundreds of industry-leading products that are
+   equivalent, identical to, or integrate with existing controls in your
+   on-premises environments. These products complement the existing AWS
+   services to enable you to deploy a comprehensive security architecture
+   and a more seamless experience across your cloud and on-premises
+   environments.
+   600x400_CloudPassage_logo
+   600x400_CloudPassage_logo
+   CloudPassage® Halo® is an automated server and cloud workload security
+   platform that provides instant visibility and continuous protection. »
+    »
+   600x400_symantec
+   600x400_symantec
+   Security meets agility: Automated, cloud-native security for your
+   public and hybrid cloud workloads and storage. »
+   600x400_Fortinet_Logo
+   600x400_Fortinet_Logo
+   Fortinet on AWS provides enterprise-grade security for your workloads
+   running in the AWS Cloud. »
+   600x400_cloudcheckr_logo
+   600x400_cloudcheckr_logo
+   Cloud Checkr offers automated discoveries, checks, and alerts to ensure
+   visibility and control of users' environments. »
+   600x400_Sophos_logo
+   600x400_Sophos_logo
+   Sophos offers UTM layered security for AWS at scale and low-cost »
+   600x400_Tenable_Logo
+   600x400_Tenable_Logo
+   Tenable is pre-authorized for vulnerability, compliance and threat
+   scans of AWS environments »
+   600x400_TrendMicro_Logo
+   600x400_TrendMicro_Logo
+   Trend Micro offers comprehensive security, seamlessly integrated with
+   AWS, to protect workloads without slowing you down »
+   600x400_Splunk
+   600x400_Splunk
+   Splunk® delivers analytics-driven security solutions that enable
+   organizations to detect and respond to external attacks »
+   600x400_AlertLogic_Logo
+   600x400_AlertLogic_Logo
+   Alert Logic is a fully managed cloud-based suite of security and
+   compliance solutions for hybrid IT infrastructures »
+   600x400_SumoLogic_Logo
+   600x400_SumoLogic_Logo
+   Sumo Logic's purpose built SaaS service enables organizations to
+   configure KPIs and scale on demand to capture, audit and analyze logs
+   and data »
+
+   Learn More »
+
+Information Requests
+
+   A high standard of data privacy
+
+   Amazon knows customers care deeply about privacy and data security, and
+   we optimize our work to get these issues right for customers.
+   assurace-program-data-privacy
+   assurace-program-data-privacy
+
+   Learn more »
+
+Want More Information About AWS Cloud Security?
+
+   Contact Us »
+   GET STARTED WITH AWS
+   Learn how to start using AWS in minutes
+   ha_2up-gettingstarted
+   ha_2up-gettingstarted
+   AWS FREE TIER
+   Gain free, hands-on experience with AWS for 12 months
+   2up_FreeTier
+   2up_FreeTier
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+     * Press Releases
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+     * Analyst Reports
+     * AWS Partner Network
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate
+
+   Click here to return to Amazon Web Services homepage
+   Contact Sales Support  English  My Account
+   Create an AWS Account
+     * Products
+     * Solutions
+     * Pricing
+     * Documentation
+     * Learn
+     * Partner Network
+     * AWS Marketplace
+     * Customer Enablement
+     * Explore More
+
+   ____________________
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * AWS Management Console
+     * Account Settings
+     * Billing & Cost Management
+     * Security Credentials
+     * AWS Personal Health Dashboard
+
+     * Support Center
+     * Knowledge Center
+     * AWS Support Overview
+
+   Click here to return to Amazon Web Services homepage
+   ____________________
+
+     * Products
+     * Solutions
+     * Pricing
+     * Introduction to AWS
+     * Getting Started
+     * Documentation
+     * Training and Certification
+     * Developer Center
+     * Customer Success
+     * Partner Network
+     * AWS Marketplace
+     * Support
+     * Log into Console
+     * Download the Mobile App
+
+Open Distro for Elasticsearch
+
+   Search and analyze your logs with the only 100% open source
+   distribution of Elasticsearch
+   Learn more
+   Site-Merch_Elastisearch_OpenDistro_Hero-Art
+
+One-Click Training and Deployment
+
+   Build, train, and deploy machine learning models quickly with Amazon
+   Sagemaker
+   Learn more
+   Site-Merch_PAC_SageMaker-2019_Hero-Art
+
+Explore the AWS platform, cloud products, and capabilities
+
+   Get started
+   Site-Merch_What-is-AWS_Hero-Art
+
+Use Amazon EC2, S3, and more — free for a full year
+
+   Learn more about the AWS Free Tier
+   Site-Merch_Free-Tier_Hero-Art
+
+Getting Started Resource Center
+
+   Technical documentation and other free resources to help you build with
+   AWS
+   Get started
+   Site-Merch_Getting-Started_Hero-Art
+   Site-Merch_Lightsail_Editorial
+   Amazon Lightsail
+   Everything you need to get started on AWS—for a low, predictable price
+   Site-Merch_PAC_DynamoDB_Editorial
+   Amazon DynamoDB
+   Fully managed nonrelational database for any scale
+   Site-Merch_Lambda_Editorial
+   Serverless Application Development
+   Find tools for testing, deploying, and monitoring serverless
+   applications
+   160,000+ Databases Migrated to AWS
+   Save time & cost—migrate to fully managed databases
+
+Explore Our Products
+
+   Analytics
+   Amazon AthenaQuery data in S3 using SQL
+   Amazon CloudSearchManaged search service
+   Amazon Elasticsearch ServiceRun and scale Elasticsearch clusters
+   Amazon EMRHosted Hadoop framework
+   Amazon KinesisAnalyze real-time video and data streams
+   Amazon Managed Streaming for Apache KafkaFully managed Apache Kafka
+   service
+   Amazon RedshiftFast, simple, cost-effective data warehousing
+   Amazon QuickSightFast business analytics service
+   AWS Data PipelineOrchestration service for periodic, data-driven
+   workflows
+   AWS GluePrepare and load data
+   AWS Lake FormationBuild a secure data lake in days
+   Application Integration
+   AWS Step FunctionsCoordination for distributed applications
+   Amazon EventBridgeServerless event bus for SaaS apps & AWS services
+   Amazon MQManaged message broker for ActiveMQ
+   Amazon Simple Notification Service (SNS)Managed message topics for
+   pub/sub
+   Amazon Simple Queue Service (SQS) Managed message queues
+   AWS AppSyncPower your apps with the right data from many sources, at
+   scale
+   AR & VR
+   Amazon SumerianBuild and run VR and AR applications
+   AWS Cost Management
+   AWS Cost ExplorerAnalyze your AWS cost and usage
+   AWS BudgetsSet custom cost and usage budgets
+   AWS Cost and Usage ReportAccess comprehensive cost and usage
+   information
+   Reserved Instance ReportingDive deeper into your reserved instances
+   (RIs)
+   Blockchain
+   Amazon Managed BlockchainCreate and manage scalable blockchain networks
+   Amazon Quantum Ledger Database (QLDB)Fully managed ledger database
+   Business Applications
+   Alexa for BusinessEmpower your organization with Alexa
+   Amazon ChimeFrustration-free meetings, video calls, and chat
+   Amazon WorkDocsSecure enterprise document storage and sharing
+   Amazon WorkMailSecure email and calendaring
+   Compute
+   Amazon EC2Virtual servers in the cloud
+   Amazon EC2 Auto ScalingScale compute capacity to meet demand
+   Amazon Elastic Container RegistryStore and retrieve docker images
+   Amazon Elastic Container ServiceRun and manage docker containers
+   Amazon Elastic Kubernetes ServiceRun managed Kubernetes on AWS
+   Amazon LightsailLaunch and manage virtual private servers
+   AWS BatchRun batch jobs at any scale
+   AWS Elastic BeanstalkRun and manage web apps
+   AWS FargateRun containers without managing servers or clusters
+   AWS LambdaRun code without thinking about servers
+   AWS OutpostsRun AWS infrastructure on-premises
+   AWS Serverless Application RepositoryDiscover, deploy, and publish
+   serverless applications
+   VMware Cloud on AWSBuild a hybrid cloud without custom hardware
+   Customer Engagement
+   Amazon ConnectCloud-based contact center service
+   Amazon PinpointPersonalized user engagement across channels
+   Amazon Simple Email Service (SES)Email sending and receiving
+   Database
+   Amazon AuroraHigh performance managed relational database
+   Amazon DynamoDBManaged NoSQL database
+   Amazon DocumentDB (with MongoDB compatibility)Fully managed document
+   database
+   Amazon ElastiCacheIn-memory caching system
+   Amazon Neptune Fully managed graph database service
+   Amazon Quantum Ledger Database (QLDB)Fully managed ledger database
+   Amazon RDSManaged relational database service for MySQL, PostgreSQL,
+   Oracle, SQL Server, and MariaDB
+   Amazon RDS on VMwareAutomate on-premises database management
+   Amazon RedshiftFast, simple, cost-effective data warehousing
+   Amazon TimestreamFully managed time series database
+   AWS Database Migration ServiceMigrate databases with minimal downtime
+   Developer Tools
+   Amazon CorrettoProduction-ready distribution of OpenJDK
+   AWS Cloud Development KitModel cloud infrastructure using code
+   AWS Cloud9Write, run, and debug code on a cloud IDE
+   AWS CodeBuildBuild and test code
+   AWS CodeCommitStore code in private Git repositories
+   AWS CodeDeployAutomate code deployment
+   AWS CodePipelineRelease software using continuous delivery
+   AWS CodeStarDevelop and deploy AWS applications
+   AWS Command Line InterfaceUnified tool to manage AWS services
+   AWS Device FarmTest Android, iOS, and web apps on real devices in the
+   AWS cloud
+   AWS Tools and SDKsTools and SDKs for AWS
+   AWS X-RayAnalyze and debug your applications
+   End User Computing
+   Amazon WorkSpacesVirtual desktops in the cloud
+   Amazon AppStream 2.0Stream desktop applications securely to a browser
+   Amazon WorkLinkEnable mobile access to internal websites
+   Game Tech
+   Amazon GameLiftSimple, fast, cost-effective dedicated game server
+   hosting
+   Amazon LumberyardA free cross-platform 3D game engine, with Full
+   Source, integrated with AWS and Twitch
+   Internet of Things
+   AWS IoT CoreConnect devices to the cloud
+   Amazon FreeRTOSIoT operating system for microcontrollers
+   AWS GreengrassLocal compute, messaging, and sync for devices
+   AWS IoT 1-ClickOne click creation of an AWS Lambda trigger
+   AWS IoT AnalyticsAnalytics for IoT devices
+   AWS IoT ButtonCloud programmable dash button
+   AWS IoT Device DefenderSecurity management for IoT devices
+   AWS IoT Device ManagementOnboard, organize, and remotely manage IoT
+   devices
+   AWS IoT EventsIoT event detection and response
+   AWS IoT SiteWiseIoT data collector and interpreter
+   AWS IoT Things GraphEasily connect devices and web services
+   AWS Partner Device CatalogCurated catalog of AWS-compatible IoT
+   hardware
+   Machine Learning
+   Amazon SageMakerBuild, train, and deploy machine learning models at
+   scale
+   Amazon ComprehendDiscover insights and relationships in text
+   Amazon Elastic InferenceDeep learning inference acceleration
+   Amazon ForecastIncrease forecast accuracy using machine learning
+   Amazon LexBuild voice and text chatbots
+   Amazon PersonalizeBuild real-time recommendations into your
+   applications
+   Amazon PollyTurn text into life-like speech
+   Amazon RekognitionAnalyze image and video
+   Amazon SageMaker Ground TruthBuild accurate ML training datasets
+   Amazon TextractExtract text and data from documents
+   Amazon TranslateNatural and fluent language translation
+   Amazon TranscribeAutomatic speech recognition
+   AWS Deep Learning AMIsDeep learning on Amazon EC2
+   AWS Deep Learning ContainersDocker images for deep learning
+   AWS DeepLensDeep learning enabled video camera
+   AWS DeepRacerAutonomous 1/18th scale race car, driven by ML
+   AWS InferentiaMachine learning inference chip
+   Apache MXNet on AWSScalable, open-source deep learning framework
+   TensorFlow on AWSOpen-source machine intelligence library
+   Management & Governance
+   Amazon CloudWatchMonitor resources and applications
+   AWS Auto ScalingScale multiple resources to meet demand
+   AWS ChatbotChatOps for AWS
+   AWS CloudFormationCreate and manage resources with templates
+   AWS CloudTrailTrack user activity and API usage
+   AWS Command Line InterfaceUnified tool to manage AWS services
+   AWS ConfigTrack resources inventory and changes
+   AWS Control TowerSet-up and govern a secure, compliant multi-account
+   environment
+   AWS Console Mobile ApplicationAccess resources on the go
+   AWS License ManagerTrack, manage, and control licenses
+   AWS Management ConsoleWeb-based user interface
+   AWS Managed ServicesInfrastructure operations management for AWS
+   AWS OpsWorksAutomate operations with Chef and Puppet
+   AWS OrganizationsCentral governance and management across AWS accounts
+   AWS Personal Health DashboardPersonalized view of AWS service health
+   AWS Service CatalogCreate and use standardized products
+   AWS Systems ManagerGain operational insights and take action
+   AWS Trusted AdvisorOptimize performance and security
+   AWS Well-Architected ToolReview and improve your workloads
+   Media Services
+   Amazon Elastic TranscoderEasy-to-use scalable media transcoding
+   Amazon Kinesis Video StreamsProcess and analyze video streams
+   AWS Elemental MediaConnectReliable and secure live video transport
+   AWS Elemental MediaConvertConvert file-based video content
+   AWS Elemental MediaLiveConvert live video content
+   AWS Elemental MediaPackageVideo origination and packaging
+   AWS Elemental MediaStoreMedia storage and simple http origin
+   AWS Elemental MediaTailorVideo personalization and monetization
+   AWS Elemental Appliances & SoftwareOn-premises media solutions
+   Migration & Transfer
+   AWS Migration HubTrack migrations from a single place
+   AWS Application Discovery ServiceDiscover on-premises applications to
+   streamline migration
+   AWS Database Migration ServiceMigrate databases with minimal downtime
+   AWS DataSyncSimple, fast, online data transfer
+   AWS Server Migration Service Migrate on-premises servers to AWS
+   AWS Snow FamilyPhysical devices to migrate data into and out of AWS
+   AWS Transfer for SFTPFully managed SFTP service
+   CloudEndure MigrationAutomate your mass migration to the AWS cloud
+   Mobile
+   AWS AmplifyBuild and deploy mobile and web applications
+   Amazon API GatewayBuild, deploy, and manage API's
+   Amazon PinpointPersonalized user engagement across channels
+   AWS AppSyncPower your apps with the right data from many sources, at
+   scale
+   AWS Device FarmTest Android, iOS, and web apps on real devices in the
+   AWS cloud
+   Networking & Content Delivery
+   Amazon VPCIsolated cloud resources
+   Amazon API GatewayBuild, deploy, and manage APIs
+   Amazon CloudFrontGlobal content delivery network
+   Amazon Route 53Scalable domain name system (DNS)
+   AWS PrivateLinkSecurely access services hosted on AWS
+   AWS App MeshMonitor and control microservices
+   AWS Cloud MapService discovery for cloud resources
+   AWS Direct ConnectDedicated network connection to AWS
+   AWS Global AcceleratorImprove application availability and performance
+   AWS Transit GatewayEasily scale VPC and account connections
+   Elastic Load Balancing (ELB)Distribute incoming traffic across multiple
+   targets
+   Robotics
+   AWS RoboMakerDevelop, test, and deploy robotics applications
+   Satellite
+   AWS Ground StationFully managed ground station as a service
+   Security, Identity & Compliance
+   AWS Identity and Access Management (IAM)Manage user access and
+   encryption keys
+   Amazon CognitoIdentity management for your apps
+   Amazon GuardDutyManaged threat detection service
+   Amazon InspectorAnalyze application security
+   Amazon MacieDiscover, classify, and protect your data
+   AWS ArtifactOn-demand access to AWS' compliance reports
+   AWS Certificate ManagerProvision, manage, and deploy SSL/TLS
+   certificates
+   AWS CloudHSMHardware-based key storage for regulatory compliance
+   AWS Directory ServiceHost and manage active directory
+   AWS Firewall ManagerCentral management of firewall rules
+   AWS Key Management ServiceManaged creation and control of encryption
+   keys
+   AWS Resource Access ManagerSimple, secure service to share AWS
+   resources
+   AWS Secrets ManagerRotate, manage, and retrieve secrets
+   AWS Security HubUnified security and compliance center
+   AWS ShieldDDoS protection
+   AWS Single Sign-OnCloud single sign-on (SSO) service
+   AWS WAFFilter malicious web traffic
+   Storage
+   Amazon Simple Storage Service (S3)Scalable storage in the cloud
+   Amazon Elastic Block Store (EBS)EC2 block storage volumes
+   Amazon Elastic File System (EFS)Fully managed file system for EC2
+   Amazon FSx for LustreHigh-performance file system integrated with S3
+   Amazon FSx for Windows File ServerFully managed Windows native file
+   system
+   Amazon S3 GlacierLow-cost archive storage in the cloud
+   AWS BackupCentralized backup across AWS services
+   AWS Snow FamilyPhysical devices to migrate data into and out of AWS
+   AWS Storage GatewayHybrid storage integration
+   See All Products
+
+AWS Hybrid Cloud Solutions
+
+   Consistent experience across AWS and on-premises environments
+   VMWareCloud_Icon
+
+VMWare Cloud on AWS
+
+   Migrate and extend VMware environments to the AWS Cloud
+   Learn More
+   AWSOutposts_Icon
+
+AWS Outposts
+
+   Run AWS infrastructure on premises for a truly consistent hybrid
+   experience
+   Learn More
+   VMWareCloud_Icon
+
+VMWare Cloud on AWS
+
+   Migrate and extend VMware environments to the AWS Cloud
+   Learn More
+   AWSOutposts_Icon
+
+AWS Outposts
+
+   Run AWS infrastructure on premises for a truly consistent hybrid
+   experience
+   Learn More
+
+Powering Customer Innovation
+
+     * Predictive Analytics
+     * Machine Learning
+     * Gaming
+     * SERVERLESS
+     * ENTERPRISE APPLICATIONS
+
+     * Predictive Analytics
+     * F1-Insights-logo-power-by-AWS
+
+Formula One Group Uses Amazon SageMaker to Optimize Racing
+       Learn how Formula 1 uses Amazon SageMaker and other AWS services to
+       optimize racing decisions and improve fan experience.
+       Learn More
+       PI-F1-1-mobile-beginning-a-transformation-ending
+
+Beginning a Transformation
+       Formula One Group is moving most of its infrastructure from
+       on-premises data centers to AWS and standardizing on AWS
+       machine-learning services—including Amazon SageMaker.
+       PI-F1-2-mobile-optimizing-racing-machine-learning-ending
+
+Optimizing Racing with Machine Learning
+       Using historical race data collected from cars over the past 65
+       years, Formula 1 data scientists are training deep-learning models
+       that make race predictions and help teams optimize mid-race
+       decisions. The models can predict when teams should pit their cars,
+       determine the best timing for changing tires, and evaluate how
+       drivers are performing.
+       PI-F1-3-mobile-bringing-fans-into-the-track-ending
+
+Bringing Fans onto the Track
+       Formula 1 then uses AWS data streaming, analytics, and media
+       services to deliver insights about driver decisions and car
+       performance to its more than 500 million fans.
+       PI-F1-4-mobile-building-for-the-future-ending
+
+Building for the Future
+       Because Formula 1 runs its high-performance computing workloads in
+       a scalable environment on AWS, the organization can innovate on the
+       Formula 1 racing experience, car design, and more without worrying
+       about capacity.
+     * Machine Learning
+     * Logo_Statcast-AI
+
+MLB Chooses AWS as Official Machine Learning Provider
+       Learn How America’s Professional Baseball League Brings Meaning to
+       Statistics Using AWS Machine Learning
+       Learn More
+       PI-MLB-1-mobile-Foundation-Deep-Learning-ending stage
+
+A Foundation for Deep Learning
+       MLB has been collecting statistical data on its players and clubs
+       for decades, and in 2015 it started using AWS to collect and
+       distribute game-day stats to enhance the fan experience.
+       PI-MLB-2-mobile-Enpowering-Developers-ending stage
+
+Empowering Developers
+       By using Amazon Sagemaker, MLB is empowering its developers and
+       data scientists to quickly and easily build, train, and deploy
+       machine-learning models at scale.
+       PI-MLB-3-Lightening the Load-ending stage
+
+Lightening the Load
+       These models help MLB eliminate manual, time-intensive processes
+       associated with recordkeeping and statistics, like scorekeeping,
+       capturing game notes, and classifying pitches.
+       PI-MLB-4-mobile-Personalizing-the-Game-ending stage
+
+Personalizing the Game
+       MLB plans to work with the Amazon ML Solutions Lab to continue
+       improving Statcast—its tracking technology that analyzes player
+       performance—including testing accuracy of pitch predictions and
+       creating personalized viewer experiences.
+       PI-MLB-5-mobile-home-run-artificial-intelligence-ending stage
+
+A Home Run with Artificial Intelligence
+       MLB will continue to innovate using artificial intelligence. The
+       organization plans to use Amazon Comprehend to build a language
+       model that could create scripts for live games that simulate iconic
+       announcers.
+     * Gaming
+     * PI-Epic_Logo_Final
+       Epic Games Uses AWS to Power Worldwide Game Fortnite
+       Learn how Epic Games uses AWS to deliver Fortnite to more than 200
+       million players around the world.
+       Learn More
+       PI-Epic-Mobile_Step-1
+
+Building a Foundation on the Cloud
+       Epic Games has been using AWS since 2012 and is now all in on the
+       AWS Cloud, running its worldwide game-server fleet, backend
+       platform systems, databases, websites, analytics pipeline, and
+       processing systems on AWS.
+       PI-Epic-Mobile_Step-2
+
+An Overnight Sensation
+       In 2017, Epic Games launched Fortnite, a cross-platform,
+       multiplayer game that became an overnight sensation. In its first
+       year, Fortnite’s user base grew by more than 100 times to 200
+       million players worldwide.
+       PI-Epic-Mobile_Step-3
+
+Pushing the Boundaries of Scale
+       AWS is integral to the success of Fortnite. Using AWS, Epic Games
+       hosts in-game events with hundreds of millions of invited users
+       without worrying about capacity, ingests 125 million events per
+       minute into its analytics pipeline, and handles data-warehouse
+       growth of more than 5 PB per month.
+       PI-Epic-Mobile_Step-4
+
+Providing the Best Gaming Experience
+       Using AWS, Epic Games is always improving the experience of its
+       players and offering new, exciting games and game elements. The
+       company plans to expand its use of AWS services in the future,
+       including machine learning and containerized services.
+     * SERVERLESS
+     * Matson-logo
+
+Matson Operates Its Global Shipping and Logistics Businesses on AWS
+       Learn how Matson is using AWS to drive innovation and world-class
+       customer service, while achieving operational reliability,
+       security, and infrastructure cost savings.
+       Learn More
+       PI-Matson-Mobile_Step-1
+
+Real-Time Container Tracking
+       Matson built a flagship mobile application for global container
+       tracking that allows customers to perform real-time tracking of
+       their freight shipments. Other valuable features in the application
+       include interactive vessel schedule searching, location-based port
+       map lookups, and live gate-camera feeds.
+       PI-Matson-Mobile_Step-2
+
+Mobile Device Access
+       All mobile devices access AWS via Amazon API Gateway. This provides
+       highly available edge located endpoints for access into resources
+       within Matson's existing virtual private clouds.
+       PI-Matson-Mobile_Step-3
+
+Serverless Computing
+       The AWS Lambda functions are designed using the microservices
+       pattern and are modeled around specific ocean-based business
+       contexts, such as shipment tracking and vessel schedules.
+       PI-Matson-Mobile_Step-4
+
+Database Configuration and Storage
+       Amazon DynamoDB manages configuration as well as
+       user-feedback configuration and user-feedback notifications sent
+       from mobile devices. DynamoDB Streams provides real-time
+       notifications to Matson's customer service team.
+       PI-Matson-Mobile_Step-5
+
+Data Monitoring and Alerts
+       Matson's customers rely on accurate, up-to-the-minute container
+       tracking and vessel status information. Monitoring and alerting of
+       system events is achieved by using Amazon CloudWatch, Amazon SNS,
+       Amazon SES, AWS Lambda, and CloudWatch Logs.
+       PI-Matson-Mobile_Step-6
+
+End-to-End Serverless Application
+       Matson can now offer customers an end-to-end serverless application
+       to help track their shipments, and has no infrastructure to
+       maintain.
+     * ENTERPRISE APPLICATIONS
+     * BPP_ylw_logo
+
+BP Improves Effectiveness and Gains Cost Agility and Speed for Its Critical
+Business Apps
+       See how BP simplified and modernized its suite of SAP applications,
+       improving user experience while gaining cost agility and enhanced
+       performance.
+       Learn More
+       PI-BP-Mobile_Step-1
+
+Managing Critical Business Apps
+       BP's IT organization manages SAP applications used by thousands of
+       employees worldwide for supply chain, procurement, finance, and
+       more.
+       PI-BP-Mobile_Step-2
+
+Improving Speed & Cost Agility
+       To improve speed and gain cost agility, BP used Amazon EC2 to
+       migrate these core business apps to the cloud. In addition, the
+       team built EC2 X1 instances to increase scale and to power their
+       real-time analytics.
+       PI-BP-Mobile_Step-3
+
+Increasing Performance
+       The team can now stand up systems on demand in hours instead of
+       weeks or months. BP is seeing performance increases across the
+       board, including a 40 percent speed improvement for the Lubricants
+       ERP system.
+       PI-BP-Mobile_Step-4
+
+Securing Data
+       As part of its cloud migration, BP reset its security standards
+       using AWS Config, AWS Identity and Access Management (IAM), Amazon
+       CloudWatch, and AWS Trusted Advisor. These new standards helped BP
+       to develop a secure framework for operating its IT organization.
+
+   AWSMP_logo_new-RGB
+   AWSMP_logo_new-RGB
+
+Find. Buy. Deploy.
+
+   AWS Marketplace is a digital catalog with thousands of software
+   listings from independent software vendors that make it easy to find,
+   test, buy, and deploy software that runs on AWS.
+   Learn More
+
+Explore Our Solutions
+
+   60-machine-learning
+   60-machine-learning
+
+Machine Learning
+
+   Build with powerful services and platforms, and the broadest machine
+   learning framework support anywhere.
+   Learn More
+   60-analytics
+   60-analytics
+
+Analytics & Data Lakes
+
+   Securely store, categorize, and analyze all your data in one,
+   centralized repository.
+   Learn More
+   60-IoT
+   60-IoT
+
+Internet of Things
+
+   A system of ubiquitous devices connecting the physical world to the
+   cloud.
+   Learn More
+   60-serverless
+   60-serverless
+
+Serverless Computing
+
+   Build and run applications and services without thinking about servers.
+   Learn More
+   60-containers
+   60-containers
+
+Containers
+
+   Package and deploy applications that are lightweight and provide a
+   consistent, portable software environment for applications to easily
+   run and scale anywhere.
+   Learn More
+   60-enterprise
+   60-enterprise
+
+Enterprise Applications
+
+   Build with a mature set of services specifically designed for the
+   unique security, compliance, privacy, and governance requirements of
+   large organizations.
+   Learn More
+   60-storage
+   60-storage
+
+Storage
+
+   Durable, cost-effective options for backup, disaster recovery, and data
+   archiving at petabyte scale.
+   Learn More
+   60-windows-workloads
+   60-windows-workloads
+
+Windows Workloads
+
+   Flexible, scalable compute capacity for Microsoft applications. Easily
+   manage and secure Windows workloads.
+   Learn More
+   View All Solutions
+
+Engineered for the Most Demanding Requirements
+
+Secure
+
+   Comprehensive security capabilities to satisfy the most demanding
+   requirements.
+
+Compliant
+
+   Rich controls, auditing and broad security accreditations.
+
+Hybrid
+
+   Build hybrid architectures that extend your on-premises infrastructure
+   to the Cloud.
+
+Scalable
+
+   Access as much or as little as you need, and scale up and down as
+   required with only a few minutes notice.
+
+Learn How Our Customers Build on AWS
+
+   [logo_bp.8fa26480c12139b66816d811d1ba1b9798b0cd4b.svg]
+   [Cerner-Corporation-logo.36bc94e5448a9425e9666078721d02d5a1905a64.svg]
+   [logo_enel.80a90f6bf954e757af67c673220c4de22d31da6a.svg]
+   [logo_expedia.17f513a1efb0658efb13be3dd83bebaf74654a3e.svg]
+   [logo_finra.e88983829e59920b4b37bff8c813fa781b625dad.svg]
+   [logo_ge.9a440081235a09b9439c1c7a8857c3c2269d1754.svg]
+   [logo_hess.99c356812fb884050e33df73d8f5f3cab8751494.svg]
+   [logo_intuit.d7a4bfff63b1a4e28660150d4852d7aca6b704b1.svg]
+   [logo_kelloggs.2e1b4e50906f1948d4f333ffb841d84b10d3873b.svg]
+   [logo_philips.005b06f4f815d3e2a8995b04f54626bc566271c2.svg]
+   [logo_time.3b175686b135c700d5bcdb00ab8d1a68d93f6340.svg]
+   [logo_workday.88f6d586debca7956d3ddd93d4b34484d6b303b3.svg]
+   View All Customer Stories
+
+Global Network of AWS Regions
+
+   The AWS Cloud spans 69 Availability Zones within 22 geographic regions
+   around the world, with announced plans for 9 more Availability Zones
+   and three more Regions in Cape Town, Jakarta, and Milan.
+
+   Regions
+   Coming Soon
+   Learn More
+   Global Map July 2019
+   Global Map July 2019
+   50x50_orange
+   50x50_orange
+
+Regions & Number of Availability Zones
+
+   US East
+   N. Virginia (6), Ohio (3)
+
+   US West
+   N. California (3), Oregon (4)
+
+   Asia Pacific
+   Mumbai (3), Seoul (3), Singapore (3), Sydney (3), Tokyo (4),
+   Osaka-Local (1), Hong Kong SAR (3)
+
+   Canada
+   Central (2)
+
+   Mainland China
+   Beijing (2), Ningxia (3)
+
+   Europe
+   Frankfurt (3), Ireland (3), London (3), Paris (3), Stockholm (3)
+
+   South America
+   São Paulo (3)
+
+   GovCloud (US)
+   US-East (3), US-West (3)
+
+   Middle East
+   Bahrain (3)
+
+
+   50x50_teal
+   50x50_teal
+
+New Regions (Coming Soon)
+
+   Cape Town
+
+   Jakarta
+
+   Milan
+   Learn More
+
+   Site-Merch_Analyst-Reports_Editorial
+   Analyst Reports
+   Read what top analysts such as Gartner and IDC are saying about AWS
+   AWS Training
+   Free digital courses to help you develop your skills
+   Site-Merch_APN_Editorial
+   AWS Partner Network
+   Join AWS Partner Network to build and grow your cloud business
+   Site-Merch_Marketplace_Editorial
+   AWS Marketplace
+   Launch a variety of popular software on AWS in minutes
+
+   Sign In to the Console
+
+Learn About AWS
+
+     * What Is AWS?
+     * What Is Cloud Computing?
+     * What Is DevOps?
+     * What Is a Container?
+     * What Is a Data Lake?
+     * AWS Cloud Security
+     * What's New
+     * Blogs
+     * Press Releases
+
+Resources for AWS
+
+     * Getting Started
+     * Training and Certification
+     * AWS Solutions Portfolio
+     * Architecture Center
+     * Product and Technical FAQs
+     * Analyst Reports
+     * AWS Partner Network
+
+Developers on AWS
+
+     * Developer Center
+     * SDKs & Tools
+     * Python on AWS
+     * Java on AWS
+     * PHP on AWS
+     * Javascript on AWS
+
+Help
+
+     * Contact Us
+     * AWS Careers
+     * File a Support Ticket
+     * Knowledge Center
+     * AWS Support Overview
+     * Legal
+
+   Create an AWS Account
+   Amazon is an Equal Opportunity Employer: Minority / Women / Disability
+   / Veteran / Gender Identity / Sexual Orientation / Age.
+
+     * Language
+     * عربي
+     * Bahasa Indonesia
+     * Deutsch
+     * English
+     * Español
+     * Français
+     * Italiano
+     * Português
+     * Tiếng Việt
+     * Türkçe
+     * Ρусский
+     * ไทย
+     * 日本語
+     * 한국어
+     * 中文 (简体)
+     * 中文 (繁體)
+
+     * Privacy
+     * |
+     * Site Terms
+     * |
+     * © 2019, Amazon Web Services, Inc. or its affiliates. All rights
+       reserved.

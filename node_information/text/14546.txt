@@ -1,0 +1,2072 @@
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Modélisation PIC MCC 3D de l'extraction d'ionsnégatifs d'une source haute
+densité d'un plasma electronegatif
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité physique des plasmas
+   Unité de recherche Laboratoire de Physique des Gaz et des Plasmas
+   Directeur de la thèse Tiberiu MINEA [email_small.png]
+   Financement
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 17 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Modélisation PIC MCC 3D de l'extraction d'ionsnégatifs d'une source haute
+densité d'un plasma electronegatif
+
+3D PIC MCC simulation of the negative ion extraction from a high density
+electronegative plasma source
+
+   Mots clés
+   plasma, modélisation , ions négatifs, particle-in-cell, ITER/DEMO
+   Profil et compétences recherchées
+   Physique des plasmas ; Grand Instruments ; modélisation numérique ;
+   programmation parallèle
+   Niveau d'anglais requis: Intermédiaire supérieur: Vous pouvez utiliser
+   la langue de manière efficace et vous exprimer précisément.
+   Présentation détaillée du projet doctoral
+   Les sources plasma haute densité basse pression sont largement
+   utilisées pour produire des fort courants de particules chargées pour
+   les accélérateurs, pour le chauffage additionnel des plasmas de fusion
+   ou encore pour les procédés plasma. Le groupe ITER Technology &
+   Diagnostics du IPP développe depuis lan 2000 des sources plasmas haute
+   densité (1018 m-3) de grande taille (~m3) pour le chauffage et le
+   courant de stabilisation pour les futures installations de fusion
+   telles ITER ou DEMO. La source ELISE représente léchelle ½ de la taille
+   ITER et elle est exploitée de manière intense dans le cadre du
+   programme ITER HNB R&D avec des diagnostics poussées du plasma et du
+   faisceau [1,2].
+   Depuis dix ans, léquipe Théorie et Modélisation des Plasmas Décharges
+   et Surface (TMP-DS) du LPGP a développé plusieurs modèles pour les
+   plasmas magnétisés basse pression -haute densité [3]. Ces dernières
+   années, les deux groupes ont associé leurs efforts pour améliorer la
+   qualité et lefficacité du modèle 3D ONIX (Orsay Negative Ion
+   eXtraction) dévéloppé pour simuler lextraction dions négatifs (NI) de
+   la source plasma du IPP [4]. En effet, cette source opérée en hydrogène
+   ou deutérium, peut sous certaines conditions produire des plasmas
+   ion-ion (composés majoritairement dions positifs et négatifs) de haute
+   densité. Toutefois, lors de lextraction de NI, les électrons suivent le
+   champ électrique et ils peuvent devenir dominants dans le courant
+   extrait. Pour éviter ce phénomène, une structure de champs magnétiques
+   croisés est réalisée dans la zone dextraction, proche de la grille
+   plasma (PG) et de la grille dextraction (EG), fait qui rend le problème
+   anisotrope, et donc intrinsèquement 3D.
+   Le code ONIS utilise lapproche Particle-in-Cell (PIC) couplée avec la
+   technique Monte Carlo pour le traitement des collisions pour décrire
+   les interactions en volume du plasma ou avec les surfaces [3]. Le code
+   est massivement parallèle (utilisant le protocole MPI) et peut utiliser
+   1000 CPU avec une très haute performance [4]. ONIX a des conditions de
+   frontière périodiques, et permet la simulation des phénomènes au
+   voisinage dune aperture dextraction, de chaque coté de la PG, mais
+   correspondant à une grille infinie.
+   Thématiques Domaine Contexte
+   Modeling of plasma and beam formation
+   Physiques des décharges et modélisation des plasmas
+   Objectif et contexte
+   The objective of the present thesis is to extend and adapt ONIX
+   simulation code to the deuterium operation and to find the optimized
+   operation parameters of the source allowing to extract the NI beam with
+   the best performances.
+   Modeling of electronegative plasmas with unprecedented high density,
+   using a novel 3D particle in cell (PIC) massively parallel has been
+   developped during the last five years jointly by the LPGP and IPP. The
+   PhD candidate in collaboration with members of our laboratory and from
+   IPP should adapt this model for the very high density plasma operating
+   in Garching (Germany) and aiming to provinde intense negative ion beams
+   for the future DEMO.
+   Global environmental, economical, as well as societal challenges are
+   strong driving forces behind the development of materials with unique
+   properties and functionality. A reduced consumption of our resources on
+   Earth is one of our greatest challenges. The use of nanomaterials has
+   led to a revolution in material consumption, since it has allowed us to
+   shrink the volume mass needed in a large range of products. Further
+   development of advanced thin film materials has also resulted in new
+   and improved energy materials, which help to reduce our consumption of
+   fossil fuels. By improving the advanced thin film deposition techniques
+   currently used, it will be possible to further reduce material and
+   energy consumption.
+   Méthode
+   The thesis work is purely numerical and theoretical, and aims to
+   improve the ONIX model.
+   In a first stage of the thesis, the consideration of two adjacent
+   apertures (instead of one today) will make the calculation more
+   realistic and could, eventually, allow the simulation of border effects
+   of the grid, or give a more precise information on the crossover of two
+   beamlets. Numerical results will be compared with experimental data
+   obtained at the IPP test facilities.
+   In the second stage, a particular attention will be payed to the
+   difference between the operation with hydrogen and deuterium. The
+   specific plasma kinetics and the surface phenomena must be implemented
+   and comparisons between hydrogen and deuterium operation will be
+   performed from the modeling results, but also with experimental data.
+   Finally, the effect of biasing the plasma grid with respect to the
+   plasma potential will be tackled from numerical point of view, still an
+   open problem in this system. The obtained results are again compared to
+   experiment aiming to reduce and to control the amount of co-extracted
+   electrons.a better understanding of the plasma-surface interaction in
+   dense electronegative plasma.
+   Résultats attendus
+   The results expected must be as close as possible to experimental
+   measurements performed at IPP. We expect, on the one hand, to make the
+   model even more realistic as it is at present, and on the other the
+   validation of ONIX model.
+   Précision sur l'encadrement
+   Cette thèse se déroulera au LPGP, dans l'équipe TMP-D&S en
+   collaboration avec IPP (Intitut für PlasmaPhysik), Garsching,
+   Allemagne. The thesis will be carried out at LPGP within the team
+   TMP-D&S jointly with the IPP (Institut für PlasmaPhysik), Germany.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   The work will be carried out at the LPGP, Université Paris-Sud. All
+   equipment needed for the plasma characterization is available in-house.
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   The PhD student will publish a minimum of 3 scientific articles in
+   leading international scientific journals. The PhD student will present
+   at least 3 oral and poster contributions at national and international
+   conferences.
+   Collaborations envisag&eacutees
+   Yes, collaboration LPGP (France) - IPP (Germany)
+   CERN (Switzerland)
+   Ouverture Internationale
+   Yes, collaboration LPGP (France) - IPP (Germany)
+   Références bibliographiques
+   [1] U. Fantz, P. Franzen, W. Kraus, H. D. Falter, M. Berger, S.
+   Christ-Koch, M. Fröschle, R. Gutser, B. Heinemann, C. Martens, P.
+   McNeely, R. Riedl, E. Speth, and D. Wünderlich,
+   Low pressure and high power rf sources for negative hydrogen ions for
+   fusion applications (ITER neutral beam injection)
+   Review of Scientific Instruments 79, 02A511 (2008).
+   [2] Heinemann, U. Fantz et al.
+   Towards large and powerful radio frequency driven negative ion sources
+   for fusion
+   New J. Phys. 19 (2017) 015001
+   [3] S. Mochalskyy, A. F. Lifschitz, T. Minea
+   Extracted Current Saturation in Negative Ion Sources
+   2012 J. Appl. Physics 111(11) 113303
+   [4] A. Revel, S. Mochalskyy, I.M. Montellano,, D. Wuenderlich, U.
+   Fantz, T. Minea
+   Massive parallel 3D PIC simulation of negative ion extraction using
+   ONIX code
+   2017 J Appl. Phys 122, 103302 (2017); doi: 10.1063/1.5001397
+   Keywords
+   plasma, modeling, negative ions, particle-in-cell, ITER/DEMO
+   Profile and skills required
+   Plasma physics ; Large instruments ; Numerical modeling ; parallel
+   programming
+   Niveau d'anglais requis: Intermédiaire supérieur: Vous pouvez utiliser
+   la langue de manière efficace et vous exprimer précisément.
+   Project description
+   High-density low pressure plasma sources are widely used for supplying
+   high currents of charged particles for accelerators, additional heating
+   of fusion plasma or plasma processing. The ITER Technology &
+   Diagnostics group from IPP is developing, since early 2000, huge (~m^3)
+   and dense plasma (10^18 m^-3) sources for ion heating and current drive
+   in future fusion devices like ITER and DEMO. The ELISE source is half
+   of the ITER size and it is intensely used for supporting the ITER HNB
+   R&D program having also a manifold of plasma and beam diagnostics
+   [1,2].
+   Over the last ten years, the Theory and Modeling Plasma Discharge and
+   Surface (TMP-DS) group from LPGP has developed several models for low
+   pressure-high density magnetized plasmas [3]. In the last years, both
+   groups associate their efforts to improve the quality and the
+   efficiency of the 3D model ONIX (Orsay Negative Ion eXtraction)
+   developed to simulate the negative ion (NI) extraction from the IPP
+   plasma source [4]. Indeed, this source is operating with hydrogen or
+   its isotope (deuterium), and can, under specific conditions, produce a
+   high density ion-ion plasma (composed mainly of negative and positive
+   ions). However, when NI are extracted from the plasma, generally, the
+   electrons follow the electric field and they can dominate the extracted
+   current. To avoid, or at least limit this phenomenon, crossed magnetic
+   fields are placed in the extraction region, close to the plasma grid
+   (PG) and the extraction grid (EG), braking the symmetry of the problem
+   and making it intrinsically 3D.
+   The ONIX code is based on Particle-in-Cell dealing with Monte Carlo
+   Collision technique for particle interaction into the plasma volume and
+   with the surfaces [3]. It is massively parallel (using MPI protocol)
+   and can run on more than 1000 CPUs with very high performances [4].
+   ONIX has periodic boundary conditions, allowing to simulate the
+   phenomena in the neighborhood of one aperture, on each side of the PG,
+   but corresponding to an infinite plasma facing an infinite grid.
+   References
+   [1] U. Fantz, P. Franzen, W. Kraus, H. D. Falter, M. Berger, S.
+   Christ-Koch, M. Fröschle, R. Gutser, B. Heinemann, C. Martens, P.
+   McNeely, R. Riedl, E. Speth, and D. Wünderlich,
+   Low pressure and high power rf sources for negative hydrogen ions for
+   fusion applications (ITER neutral beam injection)
+   Review of Scientific Instruments 79, 02A511 (2008).
+   [2] Heinemann, U. Fantz et al.
+   Towards large and powerful radio frequency driven negative ion sources
+   for fusion
+   New J. Phys. 19 (2017) 015001
+   [3] S. Mochalskyy, A. F. Lifschitz, T. Minea
+   Extracted Current Saturation in Negative Ion Sources
+   2012 J. Appl. Physics 111(11) 113303
+   [4] A. Revel, S. Mochalskyy, I.M. Montellano,, D. Wuenderlich, U.
+   Fantz, T. Minea
+   Massive parallel 3D PIC simulation of negative ion extraction using
+   ONIX code
+   2017 J Appl. Phys 122, 103302 (2017); doi: 10.1063/1.5001397
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 26 avril 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Calcul analogue neuro-inspiré avec des micropiliers laser
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Sylvain BARBAY [email_small.png]   Co-Encadrant
+   Sylvain BARBAY [email_small.png]
+   Financement
+   du 01-10-2019 au 30-09-2022
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur, Hors concours - ANR
+   Financement sur projet ANR sous reserve d'accpetation du projet (dépôt
+   en cours).
+   Funding with ANR project if project accepted (application currently
+   on-going).
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 30 juin 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Calcul analogue neuro-inspiré avec des micropiliers laser
+
+Analog computing with brain-inspired micropillar lasers
+
+   Mots clés
+   dynamique des lasers, systèmes neuromorphiques, photonique
+   Profil et compétences recherchées
+   Nous recherchons un/une étudiante motivé/e en physique et photonique,
+   plus particulièrement en physique expérimentale avec un goût pour la
+   modélisation et un intérêt pour les nanotechnologies. De bonnes bases
+   sont requises en physique des lasers et en photonique. Des
+   connaissances en physique non-linéaire et/ou apprentissage automatique
+   sont un plus.
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Présentation détaillée du projet doctoral
+   Les réseaux de neurones artificiels, au coeur des progrès récents dans
+   le calcul analogue et dans l'apprentissage automatique, prennent une
+   place grandissante dans les sociétés digitales du futur. Nous proposons
+   d'étudier des noeuds impulsionnels photoniques afin de réaliser des
+   réseaux de neurones simples. Chaque noeud est composé d'un micropilier
+   laser avec absorbant saturable intégré, dont les propriétés
+   neuromimétiques ont déjà été explorées dans l'équipe. Dans les
+   neurones, les informations sont codées avec des impulsions
+   (électriques) qui sont excitées de manière tout-ou-rien, à condition
+   que les stimulis dentrée dépassent un seuil donné. Cette propriété
+   générique est appelée excitabilité et a été démontrée dans les lasers à
+   micropillar avec des impulsions optiques. Cependant, les impulsions
+   optiques émises par ces derniers sont plus d'un million de fois plus
+   courtes que les potentiels d'action biologiques. Par conséquent, les
+   neurones photoniques pourraient être intéressants pour construire des
+   réseaux neuronaux artificiels ultra-rapides à faible consommation
+   d'énergie. La capacité de calcul des neurones optiques est renforcée
+   par la propriété de sommation temporelle que nous avons déjà démontrée
+   dans les lasers à micropillier et qui fournit une capacité de calcul
+   universelle.
+   L'objectif principal de la thèse sera donc de tirer parti de ces
+   propriétés neuromimétiques pour mettre en uvre des architectures de
+   calcul neuromorphiques et démontrer des tâches de calcul analogue
+   ultra-rapide.
+   La thèse aura lieu au C2N (Palaiseau), qui héberge une installation de
+   nanofabrication de premier plan. Les échantillons seront fabriqués dans
+   la salle blanche du C2N. Cette étude se déroulera également dans le
+   cadre de plusieurs collaborations nationales et internationales sur ce
+   sujet interdisciplinaire.
+   Thématiques Domaine Contexte
+   photonique, dynamique non-linéaire, systèmes couplés, systèmes
+   neuromimétiques, réseaux de neurones artificiels
+   photonique
+   Objectif et contexte
+   Tirer parti des propriétés neuromimétiques des micropiliers laser à
+   absorbant saturable pour des architectures de calcul neuromorphiques et
+   démontrer des tâches de calculs analogues ultra-rapides.
+   Les réseaux de neurones artificiels, au coeur des progrès récents dans
+   le calcul analogue et dans l'apprentissage automatique, prennent une
+   place grandissante dans les sociétés digitales du futur. En parallèle
+   des efforts dans ce domaine en informatique et en nanoélectronique, la
+   photonique pourrait apporter des avantages intéressants en terme de
+   rapidité de calcul et de consommation énergétique.
+   Méthode
+   Nous allons étudions des réseaux de neurones artificiels photoniques
+   basés sur des micropiliers laser à absorbant saturable intégré
+   développés et fabriqués au laboratoire.
+   Résultats attendus
+   Premières démonstrations de calculs neuromorphiques à base de neurones
+   optiques et utilisant 1) des neurones optiques à détection de
+   coïncidence; 2) des réseaux de neurones artificiels virtuels ou réels
+   impulsionnels pour le calcul à réservoir.
+   Précision sur l'encadrement
+   L'encadrement sera effectué par Sylvain Barbay (DR2 CNRS, HDR). Le
+   doctorant sera affilié à l'école doctorale EDOM.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   La thèse se déroulera au C2N (Palaiseau) qui héberge une centrale de
+   nanotechnologies. La laboratoire est équipé de tout l'équipement
+   nécessaire pour conduire le projet. La thèse sera soutenue par les
+   financements en cours sur le sujet (projet Européen, et demande en
+   cours de projet ANR), en plus des autres sources de financement
+   envisagées (Labex par exemple).
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   L'équipe publie ses résultats dans les meilleurs journaux
+   internationaux et participe aux grandes conférences du domaine. Une
+   attention particulière est portée à la valorisation en terme de
+   communication et de valorisation.
+   Collaborations envisag&eacutees
+   L'équipe collabore avec plusieurs groupes théoriques internationaux de
+   premier plan au Chili et en Nvlle Zélande. Des collaborations
+   Nationales sont aussi en cours sur le calcul à réservoir.
+   Références bibliographiques
+   - Pulse train interaction and control in a microcavity laser with
+   delayed optical feedback S. Terrien, B.
+   Krauskopf, N. G. Broderick, R. Braive, G. Beaudoin, I. Sagnes, S.
+   Barbay, Opt. Lett. 43, 3013 (2018)
+   - Spike latency and response properties of an excitable micropillar
+   laser F. Selmi, R. Braive, G.
+   Beaudoin, I. Sagnes, R. Kuszelewicz, T. Erneux, S. Barbay, Phys. Rev. E
+   94, 042219 (2016)
+   - Temporal summation in a neuromimetic micropillar laser F. Selmi, R.
+   Braive, G. Beaudoin, I. Sagnes,
+   R. Kuszelewicz, S. Barbay, Opt. Lett. 40, 5690 (2015)
+   - Relative Refractory Period in an Excitable Semiconductor Laser F.
+   Selmi, R. Braive, G. Beaudoin, I.
+   Sagnes, R. Kuszelewicz, S. Barbay, Phys. Rev. Lett. 112, 183902 (2014)
+   - F. Selmi, Thèse de doctorat, Réponse excitable et propriétés
+   neuromimétiques de micropiliers lasers à
+   absorbant saturable, 2015.
+   web :
+   https://toniq.c2n.universite-paris-saclay.fr/fr/activites/smila/neuromi
+   metic-photonics/
+   Complément sur le sujet
+   https://toniq.c2n.universite-paris-saclay.fr/fr/activites/smila/neuromi
+   metic-photonics/
+   Keywords
+   laser dynamics, neuromorphic systems, photonics
+   Profile and skills required
+   The profile is of a motivated student in physics and photonics in
+   mainly experimental physics with modelling ability as well as interest
+   in nanotechnologies. Strong knowledge in laser physics and photonics is
+   required. Knowledge of nonlinear dynamics and/or machine learning is a
+   plus.
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Project description
+   Artificial neural networks, which are at the heart of recent progress
+   in analog computation and machine
+   learning, are becoming increasingly important for our future digital
+   societies. We propose to study coupled spiking photonic nodes in order
+   to implement simple photonic artificial neural networks. Each node is
+   materialized by a micropillar laser with integrated saturable absorber,
+   whose neuromimetic properties have already been explored in the team.
+   In neurons, information is coded with spikes (electrical pulses) which
+   are excited in an all-or-none fashion provided input stimuli to the
+   neuron soma exceed a given threshold. This generic property is called
+   excitability and has been demonstrated in micropillar lasers with
+   optical spikes. Though, the optical spikes emitted by these latter are
+   more than one millions times shorter in duration than biological action
+   potentials. Hence, photonic neurons could in principle be interesting
+   to build ultrafast artificial neural networks with low power
+   consumption. The computing capability of optical neurons are enforced
+   by the property of temporal summation also already demonstrated by us
+   in micropillar lasers, and which provides universal computation
+   capability.
+   The main objective of the thesis will thus be to take advantage of
+   these neuromimetic properties to implement neuromorphic computing
+   architectures and demonstrate ultrafast analog computation.
+   The thesis will take place at the C2N (Palaiseau) which hosts a
+   first-class nanofabrication facility. The samples will fabricated in
+   teh C2N clean-room. This study will also take place in the framework of
+   several national and international collaboration on this
+   interdisciplinary subject.
+   References
+   - Pulse train interaction and control in a microcavity laser with
+   delayed optical feedback S. Terrien, B.
+   Krauskopf, N. G. Broderick, R. Braive, G. Beaudoin, I. Sagnes, S.
+   Barbay, Opt. Lett. 43, 3013 (2018)
+   - Spike latency and response properties of an excitable micropillar
+   laser F. Selmi, R. Braive, G.
+   Beaudoin, I. Sagnes, R. Kuszelewicz, T. Erneux, S. Barbay, Phys. Rev. E
+   94, 042219 (2016)
+   - Temporal summation in a neuromimetic micropillar laser F. Selmi, R.
+   Braive, G. Beaudoin, I. Sagnes,
+   R. Kuszelewicz, S. Barbay, Opt. Lett. 40, 5690 (2015)
+   - Relative Refractory Period in an Excitable Semiconductor Laser F.
+   Selmi, R. Braive, G. Beaudoin, I.
+   Sagnes, R. Kuszelewicz, S. Barbay, Phys. Rev. Lett. 112, 183902 (2014)
+   - F. Selmi, Thèse de doctorat, Réponse excitable et propriétés
+   neuromimétiques de micropiliers lasers à
+   absorbant saturable, 2015.
+   web :
+   https://toniq.c2n.universite-paris-saclay.fr/fr/activites/smila/neuromi
+   metic-photonics/
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 29 août 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Compréhension, caractérisation de la conduction électrique à linterface
+hybride III-V sur Silicium , Dispositifs photoniques hybrides fonctionnant
+sous injection électrique à travers linterface
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anne TALNEAU [email_small.png]
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 3 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Compréhension, caractérisation de la conduction électrique à linterface
+hybride III-V sur Silicium , Dispositifs photoniques hybrides fonctionnant
+sous injection électrique à travers linterface
+
+Highly conductive III-V/Si hybrid heterointerfaces for ultimate photonic
+integration schemes
+
+   Mots clés
+   Nanoélectronique, Nanophotonique, Semiducteurs III-V, Silicium,
+   Intégration hybride, Structures de basse dimensionnalité
+   Profil et compétences recherchées
+   Létudiant (e) devra posséder de bonnes connaissances en physique des
+   semi-conducteurs, en mesures électriques des semi-conducteurs et/ou en
+   mesures de dispositifs optoélectroniques. Des connaissances en sciences
+   des matériaux seront appréciées, ainsi que des compétences en procédés
+   de nanotechnologie. Elle/Il devra faire preuve dune bonne capacité pour
+   la synthèse et lanalyse de résultats expérimentaux.
+   Présentation détaillée du projet doctoral
+   Alors que lintégration hybride des matériaux semi-conducteurs III-V sur
+   Si est maintenant correctement maîtrisée tant du point de vue
+   structurale que photonique, la possibilité de lintégration électrique
+   et électronique reste très peu explorée [K.Tanabe, Scient.Rep. 2,
+   349(2012)]. Cette nouvelle fonctionnalité peut fortement améliorer les
+   performances des dispositifs photoniques en terme de consommation,
+   budget thermique, et haut débit lorsquon intègre lélectronique de
+   commande. La maîtrise de cette fonctionnalité de linterface hybride
+   ouvre la voie à lexploitation dans sa totalité des potentialités de
+   lintégration 3D.
+   Le C2N a développé le collage sans oxyde des matériaux III-V sur Si [1]
+   et a montré récemment que un tel interface a de bonnes propriétés de
+   conduction électrique [2]. Le C2N a lexpertise de la simulation du
+   comportement électrique de linterface, et .dispose des outils de
+   technologie et de caractérisation pour la réalisation des interfaces
+   hybrides et des dispositifs photoniques comportant cet interface[3].
+   Dans le cadre de cette thèse de doctorat, nous proposons délaborer des
+   interfaces hybrides III-V sur Si par collage, puis comprendre et
+   quantifier le transport électrique à ces interfaces, pour plusieurs
+   matériaux III-Vet selon le dopage. Cette étude du transport se fera
+   dabord par simulation puis par caractérisation expérimentale des
+   interfaces réalisés. Enfin, un laser hybride sera fabriqué, il
+   fonctionnera par injection électrique à travers linterface hybride en
+   plaçant un des contacts sur la couche guidante Si, de façon à améliorer
+   le comportement thermique.
+   Les principaux objectifs du projet de thèse sont résumés ici :
+   - Elaborer par collage et caractériser les interfaces hybrides III-V
+   sur Si permettant la conduction électrique
+   - Simuler puis caractériser le comportement électrique de linterface
+   - Concevoir et fabriquer un laser hybride injecté électriquement à
+   travers linterface. Caractériser le comportement électrique et
+   thermique de ce laser.
+   -
+   A lissue de la thèse, le candidat aura acquis une expertise en
+   optoélectronique couvrant les deux domaines de lélectrique et de la
+   photonique, dans le domaine des dispositifs émetteurs de lumière leur
+   conception et leur caractérisation, et aussi une expertise en
+   nanotechnologie, couvrant la connaissance des matériaux
+   semi-conducteurs et leur structuration.
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013) [2]
+   K.Pantzas et al., IPRM 2014
+   [3] M. Pala and D. Esseni, Phys. Rev. B 97, 125310 (2018).
+   Thématiques Contexte
+   Hybrid integration on silicon, Opto Electronic Hybrid devices
+   Objectif et contexte
+   The main objectives of this PhD work are the following:
+   - Simulate the electronic and thermal transports through the hybrid
+   interface
+   - Elaborate by bonding technology and characterize III-V on Si
+   conductive hybrid interfaces
+   - Design and fabricate an hybrid laser operating under electrical
+   injection through the interface, Characterize its electrical and
+   thermal behaviour.
+   While the mechanical and optical integration of III-V semiconductors on
+   Si have been repeatedly addressed in twenty years of silicon photonics,
+   the possibility of electric and electronic integration of these hybrid
+   engineered materials at the atomic scale has been left unexplored,
+   despite the potentially immense gains in terms of thermal-budget
+   improvement, chip power consumption, footprint and the integration of
+   control electronics to boost data transfer rates. Adding this
+   functionality to the actual devices design will allow exploiting the
+   full potential of 3D integration.
+   C2N has developed oxide-free bonding of III-V materials on Si [1], and
+   has recently demonstrated electrical transport across such an interface
+   [2]. C2N has the expertise for the simulation of electrical transport
+   across the interface, and has the technology facility and
+   characterization equipment for the elaboration of hybrid interfaces,
+   and for the fabrication of photonic hybrid devices including such an
+   interface.
+   [1] A. Talneau et al.,Appl. Phys. Lett. 102, 212101 (2013) [2]
+   K.Pantzas et al., IPRM 2014
+   Méthode
+   This PhD work proposes to elaborate III-V/Si hetero interfaces by the
+   bonding technology, and to investigate, understand, and quantify
+   electrical transport across hybrid interfaces, for several III-V
+   materials and several doping concentration. This transport behaviour
+   will first be simulated, and then experimentally characterized on
+   fabricated interfaces. Then a hybrid photonic laser will be fabricated
+   including an electrically injected interface by placing one electrode
+   on the Si guiding layer. Such an electrical scheme is expected to
+   greatly improve the thermal behaviour, still poor in the actual hybrid
+   lasers.
+   Résultats attendus
+   At the end of this PhD work, the candidate will have acquired knowledge
+   and expertise in optoelectronics hybrid devices design fabrication and
+   characterization, and in nanotechnology for III-V and Si semiconductor
+   materials and their nanostructuration.
+   Précision sur l'encadrement
+   Marco PALA ( Marco.pala@c2n.upsaclay.fr)
+   Références bibliographiques
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013)
+   [2] K.Pantzas et al., IPRM 2014
+   [3] M. Pala and D. Esseni, Phys. Rev. B 97, 125310 (2018).
+   also
+   K.Tanabe, S.Iwamoto and Y.Arakawa, IEICE Elec.Ex., 8, 596, 2011
+   K.Tanabe, K.Watanabe and Y.Arakawa, Scient.Rep. 2, 349(2012)
+   Complément sur le sujet
+   http://www.lpn.cnrs.fr/fr/Commun/stages.php#theses
+   Keywords
+   Nanoelectronics, Nanophotonics, III-V semiconductors, Silicon, Hybrid
+   integration, Low dimentionnality structures.
+   Profile and skills required
+   The candidate will have a profound knowledge in semi-conductor
+   materials, in electrical measurement of semi-conductors, and/or in
+   measurement of optoelectronic devices. Additional knowledge in material
+   science will be appreciated, as well as skills in technology
+   processing. She/He should have good analytical abilities and good
+   judgment, critical analysis and capacity for synthesis of experimental
+   investigation.
+   Project description
+   While the mechanical and optical integration of III-V semiconductors on
+   Si have been repeatedly addressed in twenty years of silicon photonics,
+   the possibility of electric and electronic integration of these hybrid
+   engineered materials at the atomic scale has been left unexplored,
+   despite the potentially immense gains in terms of thermal-budget
+   improvement, chip power consumption, footprint and the integration of
+   control electronics to boost data transfer rates. Adding this
+   functionality to the actual devices design will allow exploiting the
+   full potential of 3D integration.
+   LPN has developed oxide-free bonding of III-V materials on Si [1], and
+   has recently demonstrated electrical transport across such an interface
+   [2]. LPN has the technology facility and characterization equipments
+   for the elaboration of hybrid interfaces, and for the fabrication of
+   photonic hybrid devices including such an interface[3]. The group of
+   Pr. Dollfus in IEF has the expertise for the simulation of electrical
+   transport across the interface. IEF and LPN will merge in January 2016
+   to create the Centre de Nanosciences et de Nanotechnologies, C2N, on
+   the Plateau de Saclay.
+   This PhD work proposes to elaborate III-V/Si heterointerfaces by the
+   bonding technology, and to investigate, understand, and quantify
+   electrical transport across these hybrid interfaces, for several III-V
+   materials and several doping concentration. This transport behaviour
+   will first be simulated, and then experimentally characterized on the
+   fabricated interfaces. Then an hybrid photonic laser will be fabricated
+   including an electrically injected interface by placing one electrode
+   on the Si guiding layer. Such an electrical scheme is expected to
+   greatly improve the thermal behaviour, still poor in the actual hybrid
+   lasers.
+   The main objectives of this PhD work are the following:
+   - Simulate the electronic and thermal transports through the hybrid
+   interface
+   - Elaborate by bonding technology and characterize III-V on Si
+   conductive hybrid interfaces
+   - Design and fabricate an hybrid laser operating under electrical
+   injection through the interface, Characterize its electrical and
+   thermal behaviour
+   At the end of this PhD work, the candidate will have acquired knowledge
+   and expertise in optoelectronics both in electronics and photonics,
+   photonic hybrid devices design fabrication an characterization, and
+   nanotechnology covering both the III-V semiconductor materials and
+   their nanostructuration.
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013) [2]
+   K.Pantzas et al., IPRM 2014[3] M. Pala and D. Esseni, Phys. Rev. B 97,
+   125310 (2018).
+   References
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013)
+   [2] K.Pantzas et al., IPRM 2014
+   [3] M. Pala and D. Esseni, Phys. Rev. B 97, 125310 (2018).
+   also
+   K.Tanabe, S.Iwamoto and Y.Arakawa, IEICE Elec.Ex., 8, 596, 2011
+   K.Tanabe, K.Watanabe and Y.Arakawa, Scient.Rep. 2, 349(2012)
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 22 mars 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Retour
+   [ed155.jpg]
+
+Concepts avancés de métamatériaux pour la photonique
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique, optoélectronique, microondes
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anatole LUPU [email_small.png]
+   Financement
+   Autre concours - Appel à projets - Chinese Scholarship Council,
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 3 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Concepts avancés de métamatériaux pour la photonique
+
+Advanced concepts of metamaterials for photonic applications
+
+   Mots clés
+   métamatériaux, nanophotonique, plasmonique, optique intégrée
+   Profil et compétences recherchées
+   The PhD student will acquire during the thesis skills metamaterials
+   modeling, in technology and nanotechnology fabrication (electron beam
+   lithography, plasma etch, vapor deposition...), in materials analysis
+   techniques (electron microscopy), in characterization of integrated
+   optics components.
+   The candidate should have good knowledge on electromagnetism and
+   physics of opto-electronic devices. He/she should have a particular
+   taste for the experimental work and theoretical analysis.
+   Knowledge in programming and numerical techniques (Comsol, Matlab) is a
+   plus.
+   Présentation détaillée du projet doctoral
+   The sustained interest generated by the advent of metamaterials (MMs)
+   during the past decade is strongly driven by their ability for an
+   efficient tailoring of electromagnetic waves propagation in such
+   artificial composite media, leading to a range of intriguing and
+   unusual properties which are not encountered in natural media.
+   Our group at C2N is strongly involved into research activity in this
+   domain. In particular during the last years we addressed the potential
+   of hybrid plasmonic/dielectric waveguides for guided optics
+   applications. To this end we considered a composite guiding structure
+   made of a 2D plasmonic metasurface located on the top of high index
+   Silicon waveguide. The objective is to achieve an efficient control
+   over the flow of the light in the waveguide using effective index
+   variation induced by the metasurface resonance [1]. In contrast to
+   photonic crystals, the resonant nature of plasmonic nanoresonators
+   inclusions allows a much higher degree of freedom for the control of
+   effective index. The ability for light manipulations at the nanoscale
+   paves the way to a new generation of miniaturized optical devices.
+   By following this approach our team performed the demonstration of the
+   first plasmonic metasurface based graded index lens integrated on a
+   Silicon waveguide for operation in the near infrared domain [2].
+   The objective of the PhD thesis is to further pursue this approach by
+   considering advanced concepts of metamaterials in order to get
+   additional functionalities (tunability), or achieve a significant
+   improve of performances (higher resonance quality factor, lower losses,
+   etc).
+   To this end the theoretical and modeling work of a candidate would
+   consist to extend the current approach based on plasmonic
+   nanoresonators to all-dielectric, dark mode [3], or gain/loss modulated
+   nanoresonators [4].
+   The experimental work would consist to perform the fabrication of
+   prototypes using C2N clean-room technological facilities and their
+   experimental characterization.
+   Thématiques Domaine Contexte
+   Nanophotonics, metamaterials, integrated optics
+   Nanophotonics, metamaterials, integrated optics
+   Objectif et contexte
+   The objective of the PhD thesis is to explore advanced concepts of
+   metamaterials in guided wave configuration in order to get additional
+   functionalities (tunability), or achieve a significant improve of
+   performances (higher resonance quality factor, lower losses, etc).
+   The experimental work would consist to perform the fabrication of
+   prototypes using C2N clean-room technological facilities and their
+   experimental characterization.
+   Méthode
+   The PhD student will acquire during the thesis skills metamaterials
+   modeling, in technology and nanotechnology fabrication (electron beam
+   lithography, plasma etch, vapor deposition...), in materials analysis
+   techniques (electron microscopy), in characterization of integrated
+   optics components.
+   Précision sur l'encadrement
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu. and will benefit from candidate interaction with other team
+   members. The technological worl will be done in close collaboration
+   with clean rooms technical staff
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   CSC scholarship
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Publications
+   Références bibliographiques
+   1) A. Lupu, et al, Metal−dielectric metamaterials for guided wave
+   silicon photonics, Opt. Express 19, 24746−24761 (2011).
+   2.) Y. Fan, et al, Integrated 2D graded index plasmonic lens on a
+   Silicon waveguide for operation in the near infrared domain, ACS Nano
+   11, 45994605 (2017).
+   3) S. N. Burokur, et al, Direct dark mode excitation by symmetry
+   matching of a single-particle based metasurface, Phys. Rev. B 91,
+   035104 (2015).
+   4) A. Lupu, H. Benisty, A. Lavrinenko, Tailoring spectral properties of
+   binary PT-symmetric gratings by using duty cycle methods, JSTQE 22,
+   35-41 (2016)
+   Keywords
+   metamaterials, nanophotonics, plasmonics, integrated optics
+   Profile and skills required
+   The PhD student will acquire during the thesis skills metamaterials
+   modeling, in technology and nanotechnology fabrication (electron beam
+   lithography, plasma etch, vapor deposition...), in materials analysis
+   techniques (electron microscopy), in characterization of integrated
+   optics components.
+   The candidate should have good knowledge on electromagnetism and
+   physics of opto-electronic devices. He/she should have a particular
+   taste for the experimental work and theoretical analysis.
+   Knowledge in programming and numerical techniques (Comsol, Matlab) is a
+   plus.
+   Project description
+   The sustained interest generated by the advent of metamaterials (MMs)
+   during the past decade is strongly driven by their ability for an
+   efficient tailoring of electromagnetic waves propagation in such
+   artificial composite media, leading to a range of intriguing and
+   unusual properties which are not encountered in natural media.
+   Our group at C2N is strongly involved into research activity in this
+   domain. In particular during the last years we addressed the potential
+   of hybrid plasmonic/dielectric waveguides for guided optics
+   applications. To this end we considered a composite guiding structure
+   made of a 2D plasmonic metasurface located on the top of high index
+   Silicon waveguide. The objective is to achieve an efficient control
+   over the flow of the light in the waveguide using effective index
+   variation induced by the metasurface resonance [1]. In contrast to
+   photonic crystals, the resonant nature of plasmonic nanoresonators
+   inclusions allows a much higher degree of freedom for the control of
+   effective index. The ability for light manipulations at the nanoscale
+   paves the way to a new generation of miniaturized optical devices.
+   By following this approach our team performed the demonstration of the
+   first plasmonic metasurface based graded index lens integrated on a
+   Silicon waveguide for operation in the near infrared domain [2].
+   The objective of the PhD thesis is to further pursue this approach by
+   considering advanced concepts of metamaterials in order to get
+   additional functionalities (tunability), or achieve a significant
+   improve of performances (higher resonance quality factor, lower losses,
+   etc).
+   To this end the theoretical and modeling work of a candidate would
+   consist to extend the current approach based on plasmonic
+   nanoresonators to all-dielectric, dark mode [3], or gain/loss modulated
+   nanoresonators [4].
+   The experimental work would consist to perform the fabrication of
+   prototypes using C2N clean-room technological facilities and their
+   experimental characterization.
+   References
+   1) A. Lupu, et al, Metal−dielectric metamaterials for guided wave
+   silicon photonics, Opt. Express 19, 24746−24761 (2011).
+   2.) Y. Fan, et al, Integrated 2D graded index plasmonic lens on a
+   Silicon waveguide for operation in the near infrared domain, ACS Nano
+   11, 45994605 (2017).
+   3) S. N. Burokur, et al, Direct dark mode excitation by symmetry
+   matching of a single-particle based metasurface, Phys. Rev. B 91,
+   035104 (2015).
+   4) A. Lupu, H. Benisty, A. Lavrinenko, Tailoring spectral properties of
+   binary PT-symmetric gratings by using duty cycle methods, JSTQE 22,
+   35-41 (2016)
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 18 mars 2019
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Dispositifs fonctionnels actifs à symétrie Parité-Temps
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anatole LUPU [email_small.png]   Co-Encadrant
+   Abderrahim RAMDANE [email_small.png]
+   Financement
+   du 01-10-2019 au 30-09-2022 Origine des fonds:PhD grant funded by the
+   French Agence Nationale pour la Recherche (project PARTISYMO')
+   Employeur:Université Paris Sud
+   Hors concours - ANR
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 30 juin 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Dispositifs fonctionnels actifs à symétrie Parité-Temps
+
+Active functional devices using Parity-TIme symmmetry optics
+
+   Mots clés
+   Photonique, symétrie Parité-Temps, lasers DFB, optique intégrée
+   Profil et compétences recherchées
+   Le candidat doit avoir de bonnes connaissances en physique des
+   dispositifs optoélectroniques et plus particulièrement dans le domaine
+   de lasers et de l'optique guidée.
+   Il / elle doit avoir un goût particulier pour le travail expérimental
+   et l'analyse théorique.
+   La connaissance en programmation et en techniques numériques (Comsol,
+   Matlab) est un plus.
+   Présentation détaillée du projet doctoral
+   Lavènement des nanotechnologies, permettant une structuration de
+   matériaux à léchelle sub-micronique, a conduit à l'émergence de
+   matériaux artificiels tels que les cristaux photoniques, les
+   métamatériaux et plus récemment des structures combinant gain et
+   pertes, dites à symétrie Parité-Temps (SSPT), un concept issu de la
+   mécanique quantique.
+   La particularité du SSPT est que le profil dindice de réfraction des
+   structures est complexe en raison du la présence du gain et de pertes,
+   qui sont spatialement séparés dans le système. Lindice de réfraction,
+   le gain et les pertes sont ainsi considérés comme des 'ingrédients' à
+   part entière dun système optique.
+   Lambition du travail de thèse est de démontrer que le principe de
+   modulation du gain et des pertes présente un intérêt pour la
+   réalisation de dispositifs optiques innovants en rupture avec les
+   approches existantes via la démonstration de deux principales briques
+   de bases technologiques: le commutateur électro-optique à symétrie
+   Parité-Temps et le laser unidirectionnel à rétroaction distribuée (DFB
+   laser).
+   Le design du dispositif de commutation est globalement similaire à
+   celui dun amplificateur optique à base de semiconducteurs avec deux
+   guides ayant des électrodes séparées. Le niveau de gain et de pertes
+   dans chaque guide peut être contrôlé dune manière indépendante par le
+   courant dinjection. Ce schéma à deux électrodes est donc optimal pour
+   obtenir une opération de commutation parfaite qui nécessite que le gain
+   soit égal aux pertes [1,2]. Dune manière plus générale la démonstration
+   de la fonction de commutation basée sur le principe de modulation de
+   gain et de pertes dans un système des guides couplés permettra de
+   pallier le manque deffet électro-optique réfractif notoire dans une
+   grande part des matériaux utilisés en optique guidée. La possibilité
+   dutiliser une modulation de gain et de pertes pour remplacer leffet
+   électro-réfractif et rendre accordable des plates-formes optiques à
+   priori 'inertes' comme la plasmonique apparaît comme linnovation
+   ouvrant la voie vers une nouvelle génération de dipositifs accordables.
+   Lautre objectif majeur de la thèse est la démonstration expérimentale
+   dun laser DFB unidirectionnel utilisant un réseau de Bragg à symétrie
+   Parité-Temps (RBSPT). La particularité principale par rapport à un
+   laser DFB conventionnel est que pour réaliser un indice de réfraction
+   complexe on utilise deux réseaux un dindice réel et lautre dindice
+   imaginaire, décalés dun quart de période lun par rapport à lautre. Le
+   RBSPT est obtenu grâce à la réalisation technologique associant un
+   réseau de Bragg métallique assurant la modulation de la partie
+   imaginaire du profil d'indice complexe à celui d'un réseau de Bragg
+   diélectrique décalé d'une période d'un trimestre modulant la partie
+   réelle du profil d'indice. En raison de la réflexion
+   «unidirectionnelle» à bande étroite du RBSPT introduisant un mécanisme
+   supplémentaire de discrimination de gain, on peut sattendre à ce que la
+   cohérence dun tel laser DFB soit très tolérante vis-à-vis des
+   réflexions parasites le long du chemin optique. Limmunité à ces
+   perturbations est actuellement ssurée par des isolateurs optiques à
+   base de grenat, insérés dans les modules démission entre diode et
+   fibre, avec un fort surcoût pour les réseaux émergents métropolitains
+   et locaux. Des recherches sur ce sujet pouvant aboutir à un
+   fonctionnement sans isolateur optique sont menées depuis des nombreuses
+   années, sans solution actuellement satisfaisante.
+   La démonstration très récente de preuve du concept effectuée dans notre
+   groupe avec la réalisation des lasers DFB monofréquence à profil
+   complexe dindice de réfraction a confirmé la validité de lapproche
+   suivie. Les stratégies d'optimisation du profil d'indice complexe de
+   réseau de Bragg visant à obtenir des performances supérieures à l'état
+   actuel de la technique des lasers DFB constituent un autre défi majeur
+   à relever de cette thèse.
+   Thématiques Domaine Contexte
+   Lasers DFB, symétrie Parité-Temps, optique intégrée
+   Nanophotonique
+   Objectif et contexte
+   Theoretical investigation and experimental realization of Parity-Time
+   symmetric switch and optical feedback tolerant DFB laser
+   DFB lasers, Parity-Time symmetry, integrated optics
+   Méthode
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu and Dr. Abderrahim Ramdane and will benefit from candidate
+   interaction with other team members. The technological work will be
+   done in close collaboration with clean rooms technical staff
+   Résultats attendus
+   Experimental realization of Parity-Time symmetric switch and optical
+   feedback tolerant DFB laser
+   Précision sur l'encadrement
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu and Dr. Abderrahim Ramdane and will benefit from candidate
+   interaction with other team members. The technological work will be
+   done in close collaboration with clean rooms technical staff
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   PhD grant funded by the French Agence Nationale pour la Recherche
+   (project PARTISYMO')
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Publications and patent applications
+   Collaborations envisag&eacutees
+   collaboration with IOGS and III-V Lab partners in the framework of
+   'PARTISYMO' project
+   Références bibliographiques
+   1. A. Lupu, V. V. Konotop, H. Benisty, Optimal PT-symmetric switch
+   features
+   exceptional point, Scientific Reports 7, 13299 (2017).
+   2. V. Brac de la Perrière, Q. Gaimard, H. Benisty, A. Ramdane, and A.
+   Lupu,
+   Restoring robust binary switching operation and exceptional point using
+   long-period
+   grating-assisted Parity-Time symmetric couplers, Journal of Physics D:
+   Applied
+   Physics 52, 255103 (2019).
+   Complément sur le sujet
+   [pdf.png] PDF
+   Keywords
+   Photonics, Parity-Time symmetry, DFB lasers, integrated optics.
+   Profile and skills required
+   The PhD student will acquire during the thesis skills in
+   opto-electronic devices modeling, in nanotechnology fabrication
+   (electron beam lithography, plasma etch, vapor deposition...), in
+   materials analysis techniques (electron microscopy), in
+   characterization of integrated optics components.
+   The candidate should have good knowledge in physics of opto-electronic
+   devices and more particularly in the field of integrated optics and
+   quantum electronics.
+   He/she should have a particular taste for the experimental work and
+   theoretical
+   analysis.Knowledge in programming and numerical techniques (Comsol,
+   Matlab) is a plus.
+   Level of required English: High Intermediate: You can use the language
+   in a effective way and express you exactly
+   Project description
+   The progress of nanotechnologies has triggered the emergence of many
+   photonic artificial structures: photonic crystals, metamaterials,
+   plasmonic resonators. Recently the intriguing class of PT-symmetric
+   devices referring to Parity-Time symmetry, has attracted much
+   attention. The distinctive feature of PTSS is that the refractive index
+   profile of the structures is complex-valued due to the gain and/or
+   loss, which are spatially separated in the system. This can bring a new
+   twist for the realization of active optical devices such as
+   electro-optical switches and single frequency lasers.In such PTSS the
+   interplay between gain and loss can be advantageously exploited for
+   implementing switches and modulators. This avenue would mitigate the
+   lack of electro-optical tunability in integrated and fiber optics,
+   metamaterials and plasmonics. A simple platform for these concepts is a
+   pair of coupled waveguides, one with gain and one with losses. We
+   theoretically demonstrated that optimal switching operation with the
+   lowest required amount of gain amplification is achieved by considering
+   non-uniform PT-symmetric couplers operated at the critical point [1]
+   and considered affordable technological design [2] in view of
+   experimental realization of this device in the framework of proposed
+   PhD thesis.Conservative PTSS (operating below their symmetry-breaking
+   point) can exhibit spatial non reciprocity or unidirectionality
+   distinctly different from that based on the Faraday magneto-optical
+   effect. An example of unidirectional behavior is obtained in the case
+   of a PT-symmetric Bragg grating (PTSBG). The PTSBG is achieved through
+   the technological realization combining a metallic Bragg grating
+   insuring modulation of the imaginary part of the complex index profile
+   with that of a quarter period shifted dielectric Bragg grating
+   modulating the real part of the index profile. Due to the narrow-band
+   unidirectional reflection of PTSBG introducing an additional gain
+   discrimination mechanism, it is expected that the coherence of such a
+   laser would be highly tolerant with respect to the parasitic
+   reflections along the optical path. This is one of the worst network
+   impairment issues, currently addressed by the costly means of
+   garnet-based optical isolators.
+   The very recent proof of concept demonstration performed in our group
+   of such single frequency DFB lasers with complex refractive index
+   profile confirmed the validity of pursued approach. Strategies for the
+   optimization of the Bragg grating complex index profile aiming to
+   achieve performances beyond the current state of the art for DFB lasers
+   is another challenge to be addressed in the PhD thesis.
+   References
+   1. A. Lupu, V. V. Konotop, H. Benisty, Optimal PT-symmetric switch
+   features
+   exceptional point, Scientific Reports 7, 13299 (2017).
+   2. V. Brac de la Perrière, Q. Gaimard, H. Benisty, A. Ramdane, and A.
+   Lupu,
+   Restoring robust binary switching operation and exceptional point using
+   long-period
+   grating-assisted Parity-Time symmetric couplers, Journal of Physics D:
+   Applied
+   Physics 52, 255103 (2019).
+   Complement on the subject
+   [pdf.png] PDF
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 7 mai 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Modélisation PIC MCC 3D de l'extraction d'ionsnégatifs d'une source haute
+densité d'un plasma electronegatif
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité physique des plasmas
+   Unité de recherche Laboratoire de Physique des Gaz et des Plasmas
+   Directeur de la thèse Tiberiu MINEA [email_small.png]
+   Financement
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 17 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Modélisation PIC MCC 3D de l'extraction d'ionsnégatifs d'une source haute
+densité d'un plasma electronegatif
+
+3D PIC MCC simulation of the negative ion extraction from a high density
+electronegative plasma source
+
+   Mots clés
+   plasma, modélisation , ions négatifs, particle-in-cell, ITER/DEMO
+   Profil et compétences recherchées
+   Physique des plasmas ; Grand Instruments ; modélisation numérique ;
+   programmation parallèle
+   Niveau d'anglais requis: Intermédiaire supérieur: Vous pouvez utiliser
+   la langue de manière efficace et vous exprimer précisément.
+   Présentation détaillée du projet doctoral
+   Les sources plasma haute densité basse pression sont largement
+   utilisées pour produire des fort courants de particules chargées pour
+   les accélérateurs, pour le chauffage additionnel des plasmas de fusion
+   ou encore pour les procédés plasma. Le groupe ITER Technology &
+   Diagnostics du IPP développe depuis lan 2000 des sources plasmas haute
+   densité (1018 m-3) de grande taille (~m3) pour le chauffage et le
+   courant de stabilisation pour les futures installations de fusion
+   telles ITER ou DEMO. La source ELISE représente léchelle ½ de la taille
+   ITER et elle est exploitée de manière intense dans le cadre du
+   programme ITER HNB R&D avec des diagnostics poussées du plasma et du
+   faisceau [1,2].
+   Depuis dix ans, léquipe Théorie et Modélisation des Plasmas Décharges
+   et Surface (TMP-DS) du LPGP a développé plusieurs modèles pour les
+   plasmas magnétisés basse pression -haute densité [3]. Ces dernières
+   années, les deux groupes ont associé leurs efforts pour améliorer la
+   qualité et lefficacité du modèle 3D ONIX (Orsay Negative Ion
+   eXtraction) dévéloppé pour simuler lextraction dions négatifs (NI) de
+   la source plasma du IPP [4]. En effet, cette source opérée en hydrogène
+   ou deutérium, peut sous certaines conditions produire des plasmas
+   ion-ion (composés majoritairement dions positifs et négatifs) de haute
+   densité. Toutefois, lors de lextraction de NI, les électrons suivent le
+   champ électrique et ils peuvent devenir dominants dans le courant
+   extrait. Pour éviter ce phénomène, une structure de champs magnétiques
+   croisés est réalisée dans la zone dextraction, proche de la grille
+   plasma (PG) et de la grille dextraction (EG), fait qui rend le problème
+   anisotrope, et donc intrinsèquement 3D.
+   Le code ONIS utilise lapproche Particle-in-Cell (PIC) couplée avec la
+   technique Monte Carlo pour le traitement des collisions pour décrire
+   les interactions en volume du plasma ou avec les surfaces [3]. Le code
+   est massivement parallèle (utilisant le protocole MPI) et peut utiliser
+   1000 CPU avec une très haute performance [4]. ONIX a des conditions de
+   frontière périodiques, et permet la simulation des phénomènes au
+   voisinage dune aperture dextraction, de chaque coté de la PG, mais
+   correspondant à une grille infinie.
+   Thématiques Domaine Contexte
+   Modeling of plasma and beam formation
+   Physiques des décharges et modélisation des plasmas
+   Objectif et contexte
+   The objective of the present thesis is to extend and adapt ONIX
+   simulation code to the deuterium operation and to find the optimized
+   operation parameters of the source allowing to extract the NI beam with
+   the best performances.
+   Modeling of electronegative plasmas with unprecedented high density,
+   using a novel 3D particle in cell (PIC) massively parallel has been
+   developped during the last five years jointly by the LPGP and IPP. The
+   PhD candidate in collaboration with members of our laboratory and from
+   IPP should adapt this model for the very high density plasma operating
+   in Garching (Germany) and aiming to provinde intense negative ion beams
+   for the future DEMO.
+   Global environmental, economical, as well as societal challenges are
+   strong driving forces behind the development of materials with unique
+   properties and functionality. A reduced consumption of our resources on
+   Earth is one of our greatest challenges. The use of nanomaterials has
+   led to a revolution in material consumption, since it has allowed us to
+   shrink the volume mass needed in a large range of products. Further
+   development of advanced thin film materials has also resulted in new
+   and improved energy materials, which help to reduce our consumption of
+   fossil fuels. By improving the advanced thin film deposition techniques
+   currently used, it will be possible to further reduce material and
+   energy consumption.
+   Méthode
+   The thesis work is purely numerical and theoretical, and aims to
+   improve the ONIX model.
+   In a first stage of the thesis, the consideration of two adjacent
+   apertures (instead of one today) will make the calculation more
+   realistic and could, eventually, allow the simulation of border effects
+   of the grid, or give a more precise information on the crossover of two
+   beamlets. Numerical results will be compared with experimental data
+   obtained at the IPP test facilities.
+   In the second stage, a particular attention will be payed to the
+   difference between the operation with hydrogen and deuterium. The
+   specific plasma kinetics and the surface phenomena must be implemented
+   and comparisons between hydrogen and deuterium operation will be
+   performed from the modeling results, but also with experimental data.
+   Finally, the effect of biasing the plasma grid with respect to the
+   plasma potential will be tackled from numerical point of view, still an
+   open problem in this system. The obtained results are again compared to
+   experiment aiming to reduce and to control the amount of co-extracted
+   electrons.a better understanding of the plasma-surface interaction in
+   dense electronegative plasma.
+   Résultats attendus
+   The results expected must be as close as possible to experimental
+   measurements performed at IPP. We expect, on the one hand, to make the
+   model even more realistic as it is at present, and on the other the
+   validation of ONIX model.
+   Précision sur l'encadrement
+   Cette thèse se déroulera au LPGP, dans l'équipe TMP-D&S en
+   collaboration avec IPP (Intitut für PlasmaPhysik), Garsching,
+   Allemagne. The thesis will be carried out at LPGP within the team
+   TMP-D&S jointly with the IPP (Institut für PlasmaPhysik), Germany.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   The work will be carried out at the LPGP, Université Paris-Sud. All
+   equipment needed for the plasma characterization is available in-house.
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   The PhD student will publish a minimum of 3 scientific articles in
+   leading international scientific journals. The PhD student will present
+   at least 3 oral and poster contributions at national and international
+   conferences.
+   Collaborations envisag&eacutees
+   Yes, collaboration LPGP (France) - IPP (Germany)
+   CERN (Switzerland)
+   Ouverture Internationale
+   Yes, collaboration LPGP (France) - IPP (Germany)
+   Références bibliographiques
+   [1] U. Fantz, P. Franzen, W. Kraus, H. D. Falter, M. Berger, S.
+   Christ-Koch, M. Fröschle, R. Gutser, B. Heinemann, C. Martens, P.
+   McNeely, R. Riedl, E. Speth, and D. Wünderlich,
+   Low pressure and high power rf sources for negative hydrogen ions for
+   fusion applications (ITER neutral beam injection)
+   Review of Scientific Instruments 79, 02A511 (2008).
+   [2] Heinemann, U. Fantz et al.
+   Towards large and powerful radio frequency driven negative ion sources
+   for fusion
+   New J. Phys. 19 (2017) 015001
+   [3] S. Mochalskyy, A. F. Lifschitz, T. Minea
+   Extracted Current Saturation in Negative Ion Sources
+   2012 J. Appl. Physics 111(11) 113303
+   [4] A. Revel, S. Mochalskyy, I.M. Montellano,, D. Wuenderlich, U.
+   Fantz, T. Minea
+   Massive parallel 3D PIC simulation of negative ion extraction using
+   ONIX code
+   2017 J Appl. Phys 122, 103302 (2017); doi: 10.1063/1.5001397
+   Keywords
+   plasma, modeling, negative ions, particle-in-cell, ITER/DEMO
+   Profile and skills required
+   Plasma physics ; Large instruments ; Numerical modeling ; parallel
+   programming
+   Niveau d'anglais requis: Intermédiaire supérieur: Vous pouvez utiliser
+   la langue de manière efficace et vous exprimer précisément.
+   Project description
+   High-density low pressure plasma sources are widely used for supplying
+   high currents of charged particles for accelerators, additional heating
+   of fusion plasma or plasma processing. The ITER Technology &
+   Diagnostics group from IPP is developing, since early 2000, huge (~m^3)
+   and dense plasma (10^18 m^-3) sources for ion heating and current drive
+   in future fusion devices like ITER and DEMO. The ELISE source is half
+   of the ITER size and it is intensely used for supporting the ITER HNB
+   R&D program having also a manifold of plasma and beam diagnostics
+   [1,2].
+   Over the last ten years, the Theory and Modeling Plasma Discharge and
+   Surface (TMP-DS) group from LPGP has developed several models for low
+   pressure-high density magnetized plasmas [3]. In the last years, both
+   groups associate their efforts to improve the quality and the
+   efficiency of the 3D model ONIX (Orsay Negative Ion eXtraction)
+   developed to simulate the negative ion (NI) extraction from the IPP
+   plasma source [4]. Indeed, this source is operating with hydrogen or
+   its isotope (deuterium), and can, under specific conditions, produce a
+   high density ion-ion plasma (composed mainly of negative and positive
+   ions). However, when NI are extracted from the plasma, generally, the
+   electrons follow the electric field and they can dominate the extracted
+   current. To avoid, or at least limit this phenomenon, crossed magnetic
+   fields are placed in the extraction region, close to the plasma grid
+   (PG) and the extraction grid (EG), braking the symmetry of the problem
+   and making it intrinsically 3D.
+   The ONIX code is based on Particle-in-Cell dealing with Monte Carlo
+   Collision technique for particle interaction into the plasma volume and
+   with the surfaces [3]. It is massively parallel (using MPI protocol)
+   and can run on more than 1000 CPUs with very high performances [4].
+   ONIX has periodic boundary conditions, allowing to simulate the
+   phenomena in the neighborhood of one aperture, on each side of the PG,
+   but corresponding to an infinite plasma facing an infinite grid.
+   References
+   [1] U. Fantz, P. Franzen, W. Kraus, H. D. Falter, M. Berger, S.
+   Christ-Koch, M. Fröschle, R. Gutser, B. Heinemann, C. Martens, P.
+   McNeely, R. Riedl, E. Speth, and D. Wünderlich,
+   Low pressure and high power rf sources for negative hydrogen ions for
+   fusion applications (ITER neutral beam injection)
+   Review of Scientific Instruments 79, 02A511 (2008).
+   [2] Heinemann, U. Fantz et al.
+   Towards large and powerful radio frequency driven negative ion sources
+   for fusion
+   New J. Phys. 19 (2017) 015001
+   [3] S. Mochalskyy, A. F. Lifschitz, T. Minea
+   Extracted Current Saturation in Negative Ion Sources
+   2012 J. Appl. Physics 111(11) 113303
+   [4] A. Revel, S. Mochalskyy, I.M. Montellano,, D. Wuenderlich, U.
+   Fantz, T. Minea
+   Massive parallel 3D PIC simulation of negative ion extraction using
+   ONIX code
+   2017 J Appl. Phys 122, 103302 (2017); doi: 10.1063/1.5001397
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 26 avril 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Calcul analogue neuro-inspiré avec des micropiliers laser
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Sylvain BARBAY [email_small.png]   Co-Encadrant
+   Sylvain BARBAY [email_small.png]
+   Financement
+   du 01-10-2019 au 30-09-2022
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur, Hors concours - ANR
+   Financement sur projet ANR sous reserve d'accpetation du projet (dépôt
+   en cours).
+   Funding with ANR project if project accepted (application currently
+   on-going).
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 30 juin 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Calcul analogue neuro-inspiré avec des micropiliers laser
+
+Analog computing with brain-inspired micropillar lasers
+
+   Mots clés
+   dynamique des lasers, systèmes neuromorphiques, photonique
+   Profil et compétences recherchées
+   Nous recherchons un/une étudiante motivé/e en physique et photonique,
+   plus particulièrement en physique expérimentale avec un goût pour la
+   modélisation et un intérêt pour les nanotechnologies. De bonnes bases
+   sont requises en physique des lasers et en photonique. Des
+   connaissances en physique non-linéaire et/ou apprentissage automatique
+   sont un plus.
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Présentation détaillée du projet doctoral
+   Les réseaux de neurones artificiels, au coeur des progrès récents dans
+   le calcul analogue et dans l'apprentissage automatique, prennent une
+   place grandissante dans les sociétés digitales du futur. Nous proposons
+   d'étudier des noeuds impulsionnels photoniques afin de réaliser des
+   réseaux de neurones simples. Chaque noeud est composé d'un micropilier
+   laser avec absorbant saturable intégré, dont les propriétés
+   neuromimétiques ont déjà été explorées dans l'équipe. Dans les
+   neurones, les informations sont codées avec des impulsions
+   (électriques) qui sont excitées de manière tout-ou-rien, à condition
+   que les stimulis dentrée dépassent un seuil donné. Cette propriété
+   générique est appelée excitabilité et a été démontrée dans les lasers à
+   micropillar avec des impulsions optiques. Cependant, les impulsions
+   optiques émises par ces derniers sont plus d'un million de fois plus
+   courtes que les potentiels d'action biologiques. Par conséquent, les
+   neurones photoniques pourraient être intéressants pour construire des
+   réseaux neuronaux artificiels ultra-rapides à faible consommation
+   d'énergie. La capacité de calcul des neurones optiques est renforcée
+   par la propriété de sommation temporelle que nous avons déjà démontrée
+   dans les lasers à micropillier et qui fournit une capacité de calcul
+   universelle.
+   L'objectif principal de la thèse sera donc de tirer parti de ces
+   propriétés neuromimétiques pour mettre en uvre des architectures de
+   calcul neuromorphiques et démontrer des tâches de calcul analogue
+   ultra-rapide.
+   La thèse aura lieu au C2N (Palaiseau), qui héberge une installation de
+   nanofabrication de premier plan. Les échantillons seront fabriqués dans
+   la salle blanche du C2N. Cette étude se déroulera également dans le
+   cadre de plusieurs collaborations nationales et internationales sur ce
+   sujet interdisciplinaire.
+   Thématiques Domaine Contexte
+   photonique, dynamique non-linéaire, systèmes couplés, systèmes
+   neuromimétiques, réseaux de neurones artificiels
+   photonique
+   Objectif et contexte
+   Tirer parti des propriétés neuromimétiques des micropiliers laser à
+   absorbant saturable pour des architectures de calcul neuromorphiques et
+   démontrer des tâches de calculs analogues ultra-rapides.
+   Les réseaux de neurones artificiels, au coeur des progrès récents dans
+   le calcul analogue et dans l'apprentissage automatique, prennent une
+   place grandissante dans les sociétés digitales du futur. En parallèle
+   des efforts dans ce domaine en informatique et en nanoélectronique, la
+   photonique pourrait apporter des avantages intéressants en terme de
+   rapidité de calcul et de consommation énergétique.
+   Méthode
+   Nous allons étudions des réseaux de neurones artificiels photoniques
+   basés sur des micropiliers laser à absorbant saturable intégré
+   développés et fabriqués au laboratoire.
+   Résultats attendus
+   Premières démonstrations de calculs neuromorphiques à base de neurones
+   optiques et utilisant 1) des neurones optiques à détection de
+   coïncidence; 2) des réseaux de neurones artificiels virtuels ou réels
+   impulsionnels pour le calcul à réservoir.
+   Précision sur l'encadrement
+   L'encadrement sera effectué par Sylvain Barbay (DR2 CNRS, HDR). Le
+   doctorant sera affilié à l'école doctorale EDOM.
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   La thèse se déroulera au C2N (Palaiseau) qui héberge une centrale de
+   nanotechnologies. La laboratoire est équipé de tout l'équipement
+   nécessaire pour conduire le projet. La thèse sera soutenue par les
+   financements en cours sur le sujet (projet Européen, et demande en
+   cours de projet ANR), en plus des autres sources de financement
+   envisagées (Labex par exemple).
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   L'équipe publie ses résultats dans les meilleurs journaux
+   internationaux et participe aux grandes conférences du domaine. Une
+   attention particulière est portée à la valorisation en terme de
+   communication et de valorisation.
+   Collaborations envisag&eacutees
+   L'équipe collabore avec plusieurs groupes théoriques internationaux de
+   premier plan au Chili et en Nvlle Zélande. Des collaborations
+   Nationales sont aussi en cours sur le calcul à réservoir.
+   Références bibliographiques
+   - Pulse train interaction and control in a microcavity laser with
+   delayed optical feedback S. Terrien, B.
+   Krauskopf, N. G. Broderick, R. Braive, G. Beaudoin, I. Sagnes, S.
+   Barbay, Opt. Lett. 43, 3013 (2018)
+   - Spike latency and response properties of an excitable micropillar
+   laser F. Selmi, R. Braive, G.
+   Beaudoin, I. Sagnes, R. Kuszelewicz, T. Erneux, S. Barbay, Phys. Rev. E
+   94, 042219 (2016)
+   - Temporal summation in a neuromimetic micropillar laser F. Selmi, R.
+   Braive, G. Beaudoin, I. Sagnes,
+   R. Kuszelewicz, S. Barbay, Opt. Lett. 40, 5690 (2015)
+   - Relative Refractory Period in an Excitable Semiconductor Laser F.
+   Selmi, R. Braive, G. Beaudoin, I.
+   Sagnes, R. Kuszelewicz, S. Barbay, Phys. Rev. Lett. 112, 183902 (2014)
+   - F. Selmi, Thèse de doctorat, Réponse excitable et propriétés
+   neuromimétiques de micropiliers lasers à
+   absorbant saturable, 2015.
+   web :
+   https://toniq.c2n.universite-paris-saclay.fr/fr/activites/smila/neuromi
+   metic-photonics/
+   Complément sur le sujet
+   https://toniq.c2n.universite-paris-saclay.fr/fr/activites/smila/neuromi
+   metic-photonics/
+   Keywords
+   laser dynamics, neuromorphic systems, photonics
+   Profile and skills required
+   The profile is of a motivated student in physics and photonics in
+   mainly experimental physics with modelling ability as well as interest
+   in nanotechnologies. Strong knowledge in laser physics and photonics is
+   required. Knowledge of nonlinear dynamics and/or machine learning is a
+   plus.
+   Niveau d'anglais requis: Intermédiaire: Vous pouvez parler la langue de
+   manière compréhensible, cohérente et avec assurance sur des sujets de
+   la vie courante qui vous sont familiers.
+   Project description
+   Artificial neural networks, which are at the heart of recent progress
+   in analog computation and machine
+   learning, are becoming increasingly important for our future digital
+   societies. We propose to study coupled spiking photonic nodes in order
+   to implement simple photonic artificial neural networks. Each node is
+   materialized by a micropillar laser with integrated saturable absorber,
+   whose neuromimetic properties have already been explored in the team.
+   In neurons, information is coded with spikes (electrical pulses) which
+   are excited in an all-or-none fashion provided input stimuli to the
+   neuron soma exceed a given threshold. This generic property is called
+   excitability and has been demonstrated in micropillar lasers with
+   optical spikes. Though, the optical spikes emitted by these latter are
+   more than one millions times shorter in duration than biological action
+   potentials. Hence, photonic neurons could in principle be interesting
+   to build ultrafast artificial neural networks with low power
+   consumption. The computing capability of optical neurons are enforced
+   by the property of temporal summation also already demonstrated by us
+   in micropillar lasers, and which provides universal computation
+   capability.
+   The main objective of the thesis will thus be to take advantage of
+   these neuromimetic properties to implement neuromorphic computing
+   architectures and demonstrate ultrafast analog computation.
+   The thesis will take place at the C2N (Palaiseau) which hosts a
+   first-class nanofabrication facility. The samples will fabricated in
+   teh C2N clean-room. This study will also take place in the framework of
+   several national and international collaboration on this
+   interdisciplinary subject.
+   References
+   - Pulse train interaction and control in a microcavity laser with
+   delayed optical feedback S. Terrien, B.
+   Krauskopf, N. G. Broderick, R. Braive, G. Beaudoin, I. Sagnes, S.
+   Barbay, Opt. Lett. 43, 3013 (2018)
+   - Spike latency and response properties of an excitable micropillar
+   laser F. Selmi, R. Braive, G.
+   Beaudoin, I. Sagnes, R. Kuszelewicz, T. Erneux, S. Barbay, Phys. Rev. E
+   94, 042219 (2016)
+   - Temporal summation in a neuromimetic micropillar laser F. Selmi, R.
+   Braive, G. Beaudoin, I. Sagnes,
+   R. Kuszelewicz, S. Barbay, Opt. Lett. 40, 5690 (2015)
+   - Relative Refractory Period in an Excitable Semiconductor Laser F.
+   Selmi, R. Braive, G. Beaudoin, I.
+   Sagnes, R. Kuszelewicz, S. Barbay, Phys. Rev. Lett. 112, 183902 (2014)
+   - F. Selmi, Thèse de doctorat, Réponse excitable et propriétés
+   neuromimétiques de micropiliers lasers à
+   absorbant saturable, 2015.
+   web :
+   https://toniq.c2n.universite-paris-saclay.fr/fr/activites/smila/neuromi
+   metic-photonics/
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 29 août 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Compréhension, caractérisation de la conduction électrique à linterface
+hybride III-V sur Silicium , Dispositifs photoniques hybrides fonctionnant
+sous injection électrique à travers linterface
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anne TALNEAU [email_small.png]
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 3 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Compréhension, caractérisation de la conduction électrique à linterface
+hybride III-V sur Silicium , Dispositifs photoniques hybrides fonctionnant
+sous injection électrique à travers linterface
+
+Highly conductive III-V/Si hybrid heterointerfaces for ultimate photonic
+integration schemes
+
+   Mots clés
+   Nanoélectronique, Nanophotonique, Semiducteurs III-V, Silicium,
+   Intégration hybride, Structures de basse dimensionnalité
+   Profil et compétences recherchées
+   Létudiant (e) devra posséder de bonnes connaissances en physique des
+   semi-conducteurs, en mesures électriques des semi-conducteurs et/ou en
+   mesures de dispositifs optoélectroniques. Des connaissances en sciences
+   des matériaux seront appréciées, ainsi que des compétences en procédés
+   de nanotechnologie. Elle/Il devra faire preuve dune bonne capacité pour
+   la synthèse et lanalyse de résultats expérimentaux.
+   Présentation détaillée du projet doctoral
+   Alors que lintégration hybride des matériaux semi-conducteurs III-V sur
+   Si est maintenant correctement maîtrisée tant du point de vue
+   structurale que photonique, la possibilité de lintégration électrique
+   et électronique reste très peu explorée [K.Tanabe, Scient.Rep. 2,
+   349(2012)]. Cette nouvelle fonctionnalité peut fortement améliorer les
+   performances des dispositifs photoniques en terme de consommation,
+   budget thermique, et haut débit lorsquon intègre lélectronique de
+   commande. La maîtrise de cette fonctionnalité de linterface hybride
+   ouvre la voie à lexploitation dans sa totalité des potentialités de
+   lintégration 3D.
+   Le C2N a développé le collage sans oxyde des matériaux III-V sur Si [1]
+   et a montré récemment que un tel interface a de bonnes propriétés de
+   conduction électrique [2]. Le C2N a lexpertise de la simulation du
+   comportement électrique de linterface, et .dispose des outils de
+   technologie et de caractérisation pour la réalisation des interfaces
+   hybrides et des dispositifs photoniques comportant cet interface[3].
+   Dans le cadre de cette thèse de doctorat, nous proposons délaborer des
+   interfaces hybrides III-V sur Si par collage, puis comprendre et
+   quantifier le transport électrique à ces interfaces, pour plusieurs
+   matériaux III-Vet selon le dopage. Cette étude du transport se fera
+   dabord par simulation puis par caractérisation expérimentale des
+   interfaces réalisés. Enfin, un laser hybride sera fabriqué, il
+   fonctionnera par injection électrique à travers linterface hybride en
+   plaçant un des contacts sur la couche guidante Si, de façon à améliorer
+   le comportement thermique.
+   Les principaux objectifs du projet de thèse sont résumés ici :
+   - Elaborer par collage et caractériser les interfaces hybrides III-V
+   sur Si permettant la conduction électrique
+   - Simuler puis caractériser le comportement électrique de linterface
+   - Concevoir et fabriquer un laser hybride injecté électriquement à
+   travers linterface. Caractériser le comportement électrique et
+   thermique de ce laser.
+   -
+   A lissue de la thèse, le candidat aura acquis une expertise en
+   optoélectronique couvrant les deux domaines de lélectrique et de la
+   photonique, dans le domaine des dispositifs émetteurs de lumière leur
+   conception et leur caractérisation, et aussi une expertise en
+   nanotechnologie, couvrant la connaissance des matériaux
+   semi-conducteurs et leur structuration.
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013) [2]
+   K.Pantzas et al., IPRM 2014
+   [3] M. Pala and D. Esseni, Phys. Rev. B 97, 125310 (2018).
+   Thématiques Contexte
+   Hybrid integration on silicon, Opto Electronic Hybrid devices
+   Objectif et contexte
+   The main objectives of this PhD work are the following:
+   - Simulate the electronic and thermal transports through the hybrid
+   interface
+   - Elaborate by bonding technology and characterize III-V on Si
+   conductive hybrid interfaces
+   - Design and fabricate an hybrid laser operating under electrical
+   injection through the interface, Characterize its electrical and
+   thermal behaviour.
+   While the mechanical and optical integration of III-V semiconductors on
+   Si have been repeatedly addressed in twenty years of silicon photonics,
+   the possibility of electric and electronic integration of these hybrid
+   engineered materials at the atomic scale has been left unexplored,
+   despite the potentially immense gains in terms of thermal-budget
+   improvement, chip power consumption, footprint and the integration of
+   control electronics to boost data transfer rates. Adding this
+   functionality to the actual devices design will allow exploiting the
+   full potential of 3D integration.
+   C2N has developed oxide-free bonding of III-V materials on Si [1], and
+   has recently demonstrated electrical transport across such an interface
+   [2]. C2N has the expertise for the simulation of electrical transport
+   across the interface, and has the technology facility and
+   characterization equipment for the elaboration of hybrid interfaces,
+   and for the fabrication of photonic hybrid devices including such an
+   interface.
+   [1] A. Talneau et al.,Appl. Phys. Lett. 102, 212101 (2013) [2]
+   K.Pantzas et al., IPRM 2014
+   Méthode
+   This PhD work proposes to elaborate III-V/Si hetero interfaces by the
+   bonding technology, and to investigate, understand, and quantify
+   electrical transport across hybrid interfaces, for several III-V
+   materials and several doping concentration. This transport behaviour
+   will first be simulated, and then experimentally characterized on
+   fabricated interfaces. Then a hybrid photonic laser will be fabricated
+   including an electrically injected interface by placing one electrode
+   on the Si guiding layer. Such an electrical scheme is expected to
+   greatly improve the thermal behaviour, still poor in the actual hybrid
+   lasers.
+   Résultats attendus
+   At the end of this PhD work, the candidate will have acquired knowledge
+   and expertise in optoelectronics hybrid devices design fabrication and
+   characterization, and in nanotechnology for III-V and Si semiconductor
+   materials and their nanostructuration.
+   Précision sur l'encadrement
+   Marco PALA ( Marco.pala@c2n.upsaclay.fr)
+   Références bibliographiques
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013)
+   [2] K.Pantzas et al., IPRM 2014
+   [3] M. Pala and D. Esseni, Phys. Rev. B 97, 125310 (2018).
+   also
+   K.Tanabe, S.Iwamoto and Y.Arakawa, IEICE Elec.Ex., 8, 596, 2011
+   K.Tanabe, K.Watanabe and Y.Arakawa, Scient.Rep. 2, 349(2012)
+   Complément sur le sujet
+   http://www.lpn.cnrs.fr/fr/Commun/stages.php#theses
+   Keywords
+   Nanoelectronics, Nanophotonics, III-V semiconductors, Silicon, Hybrid
+   integration, Low dimentionnality structures.
+   Profile and skills required
+   The candidate will have a profound knowledge in semi-conductor
+   materials, in electrical measurement of semi-conductors, and/or in
+   measurement of optoelectronic devices. Additional knowledge in material
+   science will be appreciated, as well as skills in technology
+   processing. She/He should have good analytical abilities and good
+   judgment, critical analysis and capacity for synthesis of experimental
+   investigation.
+   Project description
+   While the mechanical and optical integration of III-V semiconductors on
+   Si have been repeatedly addressed in twenty years of silicon photonics,
+   the possibility of electric and electronic integration of these hybrid
+   engineered materials at the atomic scale has been left unexplored,
+   despite the potentially immense gains in terms of thermal-budget
+   improvement, chip power consumption, footprint and the integration of
+   control electronics to boost data transfer rates. Adding this
+   functionality to the actual devices design will allow exploiting the
+   full potential of 3D integration.
+   LPN has developed oxide-free bonding of III-V materials on Si [1], and
+   has recently demonstrated electrical transport across such an interface
+   [2]. LPN has the technology facility and characterization equipments
+   for the elaboration of hybrid interfaces, and for the fabrication of
+   photonic hybrid devices including such an interface[3]. The group of
+   Pr. Dollfus in IEF has the expertise for the simulation of electrical
+   transport across the interface. IEF and LPN will merge in January 2016
+   to create the Centre de Nanosciences et de Nanotechnologies, C2N, on
+   the Plateau de Saclay.
+   This PhD work proposes to elaborate III-V/Si heterointerfaces by the
+   bonding technology, and to investigate, understand, and quantify
+   electrical transport across these hybrid interfaces, for several III-V
+   materials and several doping concentration. This transport behaviour
+   will first be simulated, and then experimentally characterized on the
+   fabricated interfaces. Then an hybrid photonic laser will be fabricated
+   including an electrically injected interface by placing one electrode
+   on the Si guiding layer. Such an electrical scheme is expected to
+   greatly improve the thermal behaviour, still poor in the actual hybrid
+   lasers.
+   The main objectives of this PhD work are the following:
+   - Simulate the electronic and thermal transports through the hybrid
+   interface
+   - Elaborate by bonding technology and characterize III-V on Si
+   conductive hybrid interfaces
+   - Design and fabricate an hybrid laser operating under electrical
+   injection through the interface, Characterize its electrical and
+   thermal behaviour
+   At the end of this PhD work, the candidate will have acquired knowledge
+   and expertise in optoelectronics both in electronics and photonics,
+   photonic hybrid devices design fabrication an characterization, and
+   nanotechnology covering both the III-V semiconductor materials and
+   their nanostructuration.
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013) [2]
+   K.Pantzas et al., IPRM 2014[3] M. Pala and D. Esseni, Phys. Rev. B 97,
+   125310 (2018).
+   References
+   [1] A. Talneau et al., Appl. Phys. Lett. 102, 212101 (2013)
+   [2] K.Pantzas et al., IPRM 2014
+   [3] M. Pala and D. Esseni, Phys. Rev. B 97, 125310 (2018).
+   also
+   K.Tanabe, S.Iwamoto and Y.Arakawa, IEICE Elec.Ex., 8, 596, 2011
+   K.Tanabe, K.Watanabe and Y.Arakawa, Scient.Rep. 2, 349(2012)
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 22 mars 2019
+   Candidater
+   Retour
+   Université Paris Saclay
+
+   Retour
+   [ed155.jpg]
+
+Concepts avancés de métamatériaux pour la photonique
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique, optoélectronique, microondes
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anatole LUPU [email_small.png]
+   Financement
+   Autre concours - Appel à projets - Chinese Scholarship Council,
+   Concours d'accès aux contrats doctoraux des établissements
+   d'enseignement supérieur
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 3 mai 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Concepts avancés de métamatériaux pour la photonique
+
+Advanced concepts of metamaterials for photonic applications
+
+   Mots clés
+   métamatériaux, nanophotonique, plasmonique, optique intégrée
+   Profil et compétences recherchées
+   The PhD student will acquire during the thesis skills metamaterials
+   modeling, in technology and nanotechnology fabrication (electron beam
+   lithography, plasma etch, vapor deposition...), in materials analysis
+   techniques (electron microscopy), in characterization of integrated
+   optics components.
+   The candidate should have good knowledge on electromagnetism and
+   physics of opto-electronic devices. He/she should have a particular
+   taste for the experimental work and theoretical analysis.
+   Knowledge in programming and numerical techniques (Comsol, Matlab) is a
+   plus.
+   Présentation détaillée du projet doctoral
+   The sustained interest generated by the advent of metamaterials (MMs)
+   during the past decade is strongly driven by their ability for an
+   efficient tailoring of electromagnetic waves propagation in such
+   artificial composite media, leading to a range of intriguing and
+   unusual properties which are not encountered in natural media.
+   Our group at C2N is strongly involved into research activity in this
+   domain. In particular during the last years we addressed the potential
+   of hybrid plasmonic/dielectric waveguides for guided optics
+   applications. To this end we considered a composite guiding structure
+   made of a 2D plasmonic metasurface located on the top of high index
+   Silicon waveguide. The objective is to achieve an efficient control
+   over the flow of the light in the waveguide using effective index
+   variation induced by the metasurface resonance [1]. In contrast to
+   photonic crystals, the resonant nature of plasmonic nanoresonators
+   inclusions allows a much higher degree of freedom for the control of
+   effective index. The ability for light manipulations at the nanoscale
+   paves the way to a new generation of miniaturized optical devices.
+   By following this approach our team performed the demonstration of the
+   first plasmonic metasurface based graded index lens integrated on a
+   Silicon waveguide for operation in the near infrared domain [2].
+   The objective of the PhD thesis is to further pursue this approach by
+   considering advanced concepts of metamaterials in order to get
+   additional functionalities (tunability), or achieve a significant
+   improve of performances (higher resonance quality factor, lower losses,
+   etc).
+   To this end the theoretical and modeling work of a candidate would
+   consist to extend the current approach based on plasmonic
+   nanoresonators to all-dielectric, dark mode [3], or gain/loss modulated
+   nanoresonators [4].
+   The experimental work would consist to perform the fabrication of
+   prototypes using C2N clean-room technological facilities and their
+   experimental characterization.
+   Thématiques Domaine Contexte
+   Nanophotonics, metamaterials, integrated optics
+   Nanophotonics, metamaterials, integrated optics
+   Objectif et contexte
+   The objective of the PhD thesis is to explore advanced concepts of
+   metamaterials in guided wave configuration in order to get additional
+   functionalities (tunability), or achieve a significant improve of
+   performances (higher resonance quality factor, lower losses, etc).
+   The experimental work would consist to perform the fabrication of
+   prototypes using C2N clean-room technological facilities and their
+   experimental characterization.
+   Méthode
+   The PhD student will acquire during the thesis skills metamaterials
+   modeling, in technology and nanotechnology fabrication (electron beam
+   lithography, plasma etch, vapor deposition...), in materials analysis
+   techniques (electron microscopy), in characterization of integrated
+   optics components.
+   Précision sur l'encadrement
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu. and will benefit from candidate interaction with other team
+   members. The technological worl will be done in close collaboration
+   with clean rooms technical staff
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   CSC scholarship
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Publications
+   Références bibliographiques
+   1) A. Lupu, et al, Metal−dielectric metamaterials for guided wave
+   silicon photonics, Opt. Express 19, 24746−24761 (2011).
+   2.) Y. Fan, et al, Integrated 2D graded index plasmonic lens on a
+   Silicon waveguide for operation in the near infrared domain, ACS Nano
+   11, 45994605 (2017).
+   3) S. N. Burokur, et al, Direct dark mode excitation by symmetry
+   matching of a single-particle based metasurface, Phys. Rev. B 91,
+   035104 (2015).
+   4) A. Lupu, H. Benisty, A. Lavrinenko, Tailoring spectral properties of
+   binary PT-symmetric gratings by using duty cycle methods, JSTQE 22,
+   35-41 (2016)
+   Keywords
+   metamaterials, nanophotonics, plasmonics, integrated optics
+   Profile and skills required
+   The PhD student will acquire during the thesis skills metamaterials
+   modeling, in technology and nanotechnology fabrication (electron beam
+   lithography, plasma etch, vapor deposition...), in materials analysis
+   techniques (electron microscopy), in characterization of integrated
+   optics components.
+   The candidate should have good knowledge on electromagnetism and
+   physics of opto-electronic devices. He/she should have a particular
+   taste for the experimental work and theoretical analysis.
+   Knowledge in programming and numerical techniques (Comsol, Matlab) is a
+   plus.
+   Project description
+   The sustained interest generated by the advent of metamaterials (MMs)
+   during the past decade is strongly driven by their ability for an
+   efficient tailoring of electromagnetic waves propagation in such
+   artificial composite media, leading to a range of intriguing and
+   unusual properties which are not encountered in natural media.
+   Our group at C2N is strongly involved into research activity in this
+   domain. In particular during the last years we addressed the potential
+   of hybrid plasmonic/dielectric waveguides for guided optics
+   applications. To this end we considered a composite guiding structure
+   made of a 2D plasmonic metasurface located on the top of high index
+   Silicon waveguide. The objective is to achieve an efficient control
+   over the flow of the light in the waveguide using effective index
+   variation induced by the metasurface resonance [1]. In contrast to
+   photonic crystals, the resonant nature of plasmonic nanoresonators
+   inclusions allows a much higher degree of freedom for the control of
+   effective index. The ability for light manipulations at the nanoscale
+   paves the way to a new generation of miniaturized optical devices.
+   By following this approach our team performed the demonstration of the
+   first plasmonic metasurface based graded index lens integrated on a
+   Silicon waveguide for operation in the near infrared domain [2].
+   The objective of the PhD thesis is to further pursue this approach by
+   considering advanced concepts of metamaterials in order to get
+   additional functionalities (tunability), or achieve a significant
+   improve of performances (higher resonance quality factor, lower losses,
+   etc).
+   To this end the theoretical and modeling work of a candidate would
+   consist to extend the current approach based on plasmonic
+   nanoresonators to all-dielectric, dark mode [3], or gain/loss modulated
+   nanoresonators [4].
+   The experimental work would consist to perform the fabrication of
+   prototypes using C2N clean-room technological facilities and their
+   experimental characterization.
+   References
+   1) A. Lupu, et al, Metal−dielectric metamaterials for guided wave
+   silicon photonics, Opt. Express 19, 24746−24761 (2011).
+   2.) Y. Fan, et al, Integrated 2D graded index plasmonic lens on a
+   Silicon waveguide for operation in the near infrared domain, ACS Nano
+   11, 45994605 (2017).
+   3) S. N. Burokur, et al, Direct dark mode excitation by symmetry
+   matching of a single-particle based metasurface, Phys. Rev. B 91,
+   035104 (2015).
+   4) A. Lupu, H. Benisty, A. Lavrinenko, Tailoring spectral properties of
+   binary PT-symmetric gratings by using duty cycle methods, JSTQE 22,
+   35-41 (2016)
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 18 mars 2019
+   Retour
+   Université Paris Saclay
+
+   Candidater
+   Retour
+   [ed155.jpg]
+
+Dispositifs fonctionnels actifs à symétrie Parité-Temps
+
+   Informations clés Print
+   Établissement Université Paris-Sud
+   École doctorale Ondes et Matière
+   Spécialité optique et photonique
+   Equipe Photonique
+   Unité de recherche Centre de Nanosciences et de Nanotechnologies
+   Directeur de la thèse Anatole LUPU [email_small.png]   Co-Encadrant
+   Abderrahim RAMDANE [email_small.png]
+   Financement
+   du 01-10-2019 au 30-09-2022 Origine des fonds:PhD grant funded by the
+   French Agence Nationale pour la Recherche (project PARTISYMO')
+   Employeur:Université Paris Sud
+   Hors concours - ANR
+   Début de la thèse le 1 octobre 2019
+   Date limite de candidature 30 juin 2019
+     * [flag-french.png] Version Française
+     * [flag-english.png] English Version
+
+Dispositifs fonctionnels actifs à symétrie Parité-Temps
+
+Active functional devices using Parity-TIme symmmetry optics
+
+   Mots clés
+   Photonique, symétrie Parité-Temps, lasers DFB, optique intégrée
+   Profil et compétences recherchées
+   Le candidat doit avoir de bonnes connaissances en physique des
+   dispositifs optoélectroniques et plus particulièrement dans le domaine
+   de lasers et de l'optique guidée.
+   Il / elle doit avoir un goût particulier pour le travail expérimental
+   et l'analyse théorique.
+   La connaissance en programmation et en techniques numériques (Comsol,
+   Matlab) est un plus.
+   Présentation détaillée du projet doctoral
+   Lavènement des nanotechnologies, permettant une structuration de
+   matériaux à léchelle sub-micronique, a conduit à l'émergence de
+   matériaux artificiels tels que les cristaux photoniques, les
+   métamatériaux et plus récemment des structures combinant gain et
+   pertes, dites à symétrie Parité-Temps (SSPT), un concept issu de la
+   mécanique quantique.
+   La particularité du SSPT est que le profil dindice de réfraction des
+   structures est complexe en raison du la présence du gain et de pertes,
+   qui sont spatialement séparés dans le système. Lindice de réfraction,
+   le gain et les pertes sont ainsi considérés comme des 'ingrédients' à
+   part entière dun système optique.
+   Lambition du travail de thèse est de démontrer que le principe de
+   modulation du gain et des pertes présente un intérêt pour la
+   réalisation de dispositifs optiques innovants en rupture avec les
+   approches existantes via la démonstration de deux principales briques
+   de bases technologiques: le commutateur électro-optique à symétrie
+   Parité-Temps et le laser unidirectionnel à rétroaction distribuée (DFB
+   laser).
+   Le design du dispositif de commutation est globalement similaire à
+   celui dun amplificateur optique à base de semiconducteurs avec deux
+   guides ayant des électrodes séparées. Le niveau de gain et de pertes
+   dans chaque guide peut être contrôlé dune manière indépendante par le
+   courant dinjection. Ce schéma à deux électrodes est donc optimal pour
+   obtenir une opération de commutation parfaite qui nécessite que le gain
+   soit égal aux pertes [1,2]. Dune manière plus générale la démonstration
+   de la fonction de commutation basée sur le principe de modulation de
+   gain et de pertes dans un système des guides couplés permettra de
+   pallier le manque deffet électro-optique réfractif notoire dans une
+   grande part des matériaux utilisés en optique guidée. La possibilité
+   dutiliser une modulation de gain et de pertes pour remplacer leffet
+   électro-réfractif et rendre accordable des plates-formes optiques à
+   priori 'inertes' comme la plasmonique apparaît comme linnovation
+   ouvrant la voie vers une nouvelle génération de dipositifs accordables.
+   Lautre objectif majeur de la thèse est la démonstration expérimentale
+   dun laser DFB unidirectionnel utilisant un réseau de Bragg à symétrie
+   Parité-Temps (RBSPT). La particularité principale par rapport à un
+   laser DFB conventionnel est que pour réaliser un indice de réfraction
+   complexe on utilise deux réseaux un dindice réel et lautre dindice
+   imaginaire, décalés dun quart de période lun par rapport à lautre. Le
+   RBSPT est obtenu grâce à la réalisation technologique associant un
+   réseau de Bragg métallique assurant la modulation de la partie
+   imaginaire du profil d'indice complexe à celui d'un réseau de Bragg
+   diélectrique décalé d'une période d'un trimestre modulant la partie
+   réelle du profil d'indice. En raison de la réflexion
+   «unidirectionnelle» à bande étroite du RBSPT introduisant un mécanisme
+   supplémentaire de discrimination de gain, on peut sattendre à ce que la
+   cohérence dun tel laser DFB soit très tolérante vis-à-vis des
+   réflexions parasites le long du chemin optique. Limmunité à ces
+   perturbations est actuellement ssurée par des isolateurs optiques à
+   base de grenat, insérés dans les modules démission entre diode et
+   fibre, avec un fort surcoût pour les réseaux émergents métropolitains
+   et locaux. Des recherches sur ce sujet pouvant aboutir à un
+   fonctionnement sans isolateur optique sont menées depuis des nombreuses
+   années, sans solution actuellement satisfaisante.
+   La démonstration très récente de preuve du concept effectuée dans notre
+   groupe avec la réalisation des lasers DFB monofréquence à profil
+   complexe dindice de réfraction a confirmé la validité de lapproche
+   suivie. Les stratégies d'optimisation du profil d'indice complexe de
+   réseau de Bragg visant à obtenir des performances supérieures à l'état
+   actuel de la technique des lasers DFB constituent un autre défi majeur
+   à relever de cette thèse.
+   Thématiques Domaine Contexte
+   Lasers DFB, symétrie Parité-Temps, optique intégrée
+   Nanophotonique
+   Objectif et contexte
+   Theoretical investigation and experimental realization of Parity-Time
+   symmetric switch and optical feedback tolerant DFB laser
+   DFB lasers, Parity-Time symmetry, integrated optics
+   Méthode
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu and Dr. Abderrahim Ramdane and will benefit from candidate
+   interaction with other team members. The technological work will be
+   done in close collaboration with clean rooms technical staff
+   Résultats attendus
+   Experimental realization of Parity-Time symmetric switch and optical
+   feedback tolerant DFB laser
+   Précision sur l'encadrement
+   The PhD work will be performed under the supervision of Dr. Anatole
+   Lupu and Dr. Abderrahim Ramdane and will benefit from candidate
+   interaction with other team members. The technological work will be
+   done in close collaboration with clean rooms technical staff
+   Conditions scientifiques matérielles (conditions de sécurité
+   spécifiques)
+   et financières du projet de recherches
+   PhD grant funded by the French Agence Nationale pour la Recherche
+   (project PARTISYMO')
+   Objectifs de valorisation des travaux de recherche du doctorant :
+   diffusion,
+   publication et confidentialité, droit à la propriété intellectuelle,...
+   Publications and patent applications
+   Collaborations envisag&eacutees
+   collaboration with IOGS and III-V Lab partners in the framework of
+   'PARTISYMO' project
+   Références bibliographiques
+   1. A. Lupu, V. V. Konotop, H. Benisty, Optimal PT-symmetric switch
+   features
+   exceptional point, Scientific Reports 7, 13299 (2017).
+   2. V. Brac de la Perrière, Q. Gaimard, H. Benisty, A. Ramdane, and A.
+   Lupu,
+   Restoring robust binary switching operation and exceptional point using
+   long-period
+   grating-assisted Parity-Time symmetric couplers, Journal of Physics D:
+   Applied
+   Physics 52, 255103 (2019).
+   Complément sur le sujet
+   [pdf.png] PDF
+   Keywords
+   Photonics, Parity-Time symmetry, DFB lasers, integrated optics.
+   Profile and skills required
+   The PhD student will acquire during the thesis skills in
+   opto-electronic devices modeling, in nanotechnology fabrication
+   (electron beam lithography, plasma etch, vapor deposition...), in
+   materials analysis techniques (electron microscopy), in
+   characterization of integrated optics components.
+   The candidate should have good knowledge in physics of opto-electronic
+   devices and more particularly in the field of integrated optics and
+   quantum electronics.
+   He/she should have a particular taste for the experimental work and
+   theoretical
+   analysis.Knowledge in programming and numerical techniques (Comsol,
+   Matlab) is a plus.
+   Level of required English: High Intermediate: You can use the language
+   in a effective way and express you exactly
+   Project description
+   The progress of nanotechnologies has triggered the emergence of many
+   photonic artificial structures: photonic crystals, metamaterials,
+   plasmonic resonators. Recently the intriguing class of PT-symmetric
+   devices referring to Parity-Time symmetry, has attracted much
+   attention. The distinctive feature of PTSS is that the refractive index
+   profile of the structures is complex-valued due to the gain and/or
+   loss, which are spatially separated in the system. This can bring a new
+   twist for the realization of active optical devices such as
+   electro-optical switches and single frequency lasers.In such PTSS the
+   interplay between gain and loss can be advantageously exploited for
+   implementing switches and modulators. This avenue would mitigate the
+   lack of electro-optical tunability in integrated and fiber optics,
+   metamaterials and plasmonics. A simple platform for these concepts is a
+   pair of coupled waveguides, one with gain and one with losses. We
+   theoretically demonstrated that optimal switching operation with the
+   lowest required amount of gain amplification is achieved by considering
+   non-uniform PT-symmetric couplers operated at the critical point [1]
+   and considered affordable technological design [2] in view of
+   experimental realization of this device in the framework of proposed
+   PhD thesis.Conservative PTSS (operating below their symmetry-breaking
+   point) can exhibit spatial non reciprocity or unidirectionality
+   distinctly different from that based on the Faraday magneto-optical
+   effect. An example of unidirectional behavior is obtained in the case
+   of a PT-symmetric Bragg grating (PTSBG). The PTSBG is achieved through
+   the technological realization combining a metallic Bragg grating
+   insuring modulation of the imaginary part of the complex index profile
+   with that of a quarter period shifted dielectric Bragg grating
+   modulating the real part of the index profile. Due to the narrow-band
+   unidirectional reflection of PTSBG introducing an additional gain
+   discrimination mechanism, it is expected that the coherence of such a
+   laser would be highly tolerant with respect to the parasitic
+   reflections along the optical path. This is one of the worst network
+   impairment issues, currently addressed by the costly means of
+   garnet-based optical isolators.
+   The very recent proof of concept demonstration performed in our group
+   of such single frequency DFB lasers with complex refractive index
+   profile confirmed the validity of pursued approach. Strategies for the
+   optimization of the Bragg grating complex index profile aiming to
+   achieve performances beyond the current state of the art for DFB lasers
+   is another challenge to be addressed in the PhD thesis.
+   References
+   1. A. Lupu, V. V. Konotop, H. Benisty, Optimal PT-symmetric switch
+   features
+   exceptional point, Scientific Reports 7, 13299 (2017).
+   2. V. Brac de la Perrière, Q. Gaimard, H. Benisty, A. Ramdane, and A.
+   Lupu,
+   Restoring robust binary switching operation and exceptional point using
+   long-period
+   grating-assisted Parity-Time symmetric couplers, Journal of Physics D:
+   Applied
+   Physics 52, 255103 (2019).
+   Complement on the subject
+   [pdf.png] PDF
+   Début de la thèse le 1 octobre 2019
+   Dernière mise à jour le 7 mai 2019
+   Candidater
+   Retour

@@ -1,0 +1,500 @@
+   #Eurêkoi » Flux Eurêkoi » Flux des commentaires alternate alternate
+
+   Eurêkoi
+
+     * Accueil
+     * Questions
+          + Posez-nous votre question
+          + Les questions / réponses
+     * Conseils de livres, films et séries
+     * Aide
+          + Comment ça marche ?
+          + Accessibilité
+     * Eurêkoi ?
+          + Qui sommes-nous?
+          + Charte d’Eurêkoi
+          + Professionnels
+     * Contact
+     *
+     *
+     *
+
+   Sélectionner une page
+   ____________________
+
+     * 500
+       Bibliothécaires
+       72h
+       Réponse garantie
+       GRATUIT
+       Service public
+       Complice de votre curiosité
+       Questions
+       Nous répondons à toutesvos questions*
+       Conseils
+       Nous vous conseillons deslivres, films ou séries
+       POSEZ-NOUS VOTRE QUESTION DEMANDEZ-NOUS CONSEIL
+       (*) sauf consultations juridiques ou médicales
+       COMMENT ÇA MARCHE ?
+
+Questions / Réponses du moment
+
+   VOIR TOUTES LES QUESTIONS / RÉPONSES
+
+   Les jeux vidéos rendent-ils violent ?
+
+Les jeux vidéos rendent-ils violent ?
+
+   Sep 26, 2019 | Médiathèque Georges Wolinski - Noisy-le-Grand
+   Huge machine housing Photo by Ciaran O’Brien on Unsplash
+
+   Existe-il des lanceurs d’alerte faisant référence à la surveillance de
+   masse autre qu’Edward Snowden ?
+
+Existe-il des lanceurs d’alerte faisant référence à la surveillance de masse
+autre qu’Edward Snowden ?
+
+   Sep 26, 2019 | Médiathèque Georges Wolinski - Noisy-le-Grand
+   Who is watching ? Photo by Claudio Schwarz | @purzlbaum on Unsplash
+
+   Qui a inventé les échecs ?
+
+Qui a inventé les échecs ?
+
+   Sep 13, 2019 | Bibliothèque publique d'information - Paris
+   Échecs. Positive_Images de Pixabay.
+
+   Pourquoi peut-on mourir de chaud ?
+
+Pourquoi peut-on mourir de chaud ?
+
+   Sep 13, 2019 | Bibliothèque publique d'information - Paris
+   Thermomètre-chaleur-Jarosław Kwoczała. Unsplash
+
+Suggestions du moment
+
+   IFRAME:
+   https://www.senscritique.com/embed/list/2494106?theme=black&eurekoi=tru
+   e
+
+Comment ça marche ?
+
+Posez-nous n’importe quelle question* ou demandez-nous un conseil pour un
+livre, un film ou une série
+
+     * 500 bibliothécaires vous répondent
+     * Quels que soient vos centres d’intérêt
+     * Réponse personnalisée par un(e) bibliothécaire.
+     * Réponses garanties en moins de 72h
+     * Service public gratuit
+       Exemples de questions
+       (*) Hors consultations juridiques ou médicales. Vos questions
+       devront respecter la charte d’Eurêkoi
+
+   POSEZ-NOUS VOTRE QUESTION
+   DEMANDEZ-NOUS CONSEIL
+
+En chiffres
+
+   %
+
+Taux de satisfaction des réponses apportées
+
+   %
+
+Réponses oui à la question « Nous recommanderiez-vous à vos proches? »
+
+On parle de nous
+
+Social Lab - Chronique de Valère Corréard
+
+   LIRE L'ARTICLE
+
+Des bibliothécaires connectés répondent à toutes vos questions
+
+   LIRE L'ARTICLE
+
+Eurêkoi : l'application gratuite qui répond à toutes vos questions, avec des
+humains derrière
+
+   LIRE L'ARTICLE
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   Aline Desirat
+   Cité de la Santé au sein de la Cité des Sciences (Paris, 19)
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   M. Tuddert
+   Lectrice
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   Coco
+   Assistante commerciale dans une banque
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   Bertrand Halff
+   Ancien directeur d’une entreprise textile familiale, je suis maintenant
+   à la retraite
+
+Téléchargez l'application mobile
+
+   Site sous licence CC-BY-NC 4.0
+
+Aide
+
+     * Accueil
+     * Comment ça marche ?
+     * Accessibilité
+
+Eurêkoi
+
+     * Contact
+     * Qui sommes-nous?
+     * Charte d’Eurêkoi
+     * Professionnels
+     * Mentions légales
+
+     * Facebook
+     * Twitter
+     * RSS
+
+   2018 Bibliothèque publique d'information | Conception Bel Usage
+
+   Vous êtes sur un le site d'un service public non commercial. En
+   poursuivant votre navigation sur ce site, vous acceptez l’utilisation
+   de cookies pour réaliser des statistiques de visites. Accepter
+
+   infos sur les cookies
+
+
+                     Index of /wp-includes/js/mediaelement
+
+ Icon   Name                    Last modified      Size  Description
+  ___________________________________________________________________________
+ [PARENTDIR]  Parent Directory                             -
+ [   ]  mediaelement-and-pla..> 2018-12-17 17:13  257K
+ [   ]  mediaelement-and-pla..> 2018-12-17 17:13  153K
+ [   ]  mediaelement-migrate.js 2018-12-17 17:13  2.8K
+ [   ]  mediaelement-migrate..> 2018-12-17 17:13  1.2K
+ [   ]  mediaelement.js         2018-12-17 17:13  118K
+ [   ]  mediaelement.min.js     2018-12-17 17:13   66K
+ [TXT]  mediaelementplayer-l..> 2018-12-17 17:13   15K
+ [TXT]  mediaelementplayer-l..> 2018-12-17 17:13   11K
+ [TXT]  mediaelementplayer.css  2018-12-17 17:13   15K
+ [TXT]  mediaelementplayer.m..> 2018-12-17 17:13   11K
+ [IMG]  mejs-controls.png       2018-12-17 17:13  2.8K
+ [IMG]  mejs-controls.svg       2018-12-17 17:13  4.5K
+ [DIR]  renderers/              2018-12-17 17:13    -
+ [TXT]  wp-mediaelement.css     2018-12-17 17:13  4.8K
+ [   ]  wp-mediaelement.js      2019-04-05 16:54  2.3K
+ [TXT]  wp-mediaelement.min.css 2018-12-17 17:13  4.1K
+ [   ]  wp-mediaelement.min.js  2018-12-17 17:13  914
+ [   ]  wp-playlist.js          2019-04-05 16:54  5.2K
+ [   ]  wp-playlist.min.js      2018-12-17 17:13  3.4K
+  ___________________________________________________________________________
+                 Index of /wp-content/themes/Divi 3-21-4/images
+
+ Icon   Name                    Last modified      Size  Description
+  ___________________________________________________________________________
+ [PARENTDIR]  Parent Directory                             -
+ [IMG]  footer-layouts.png      2019-04-09 11:45  694
+ [IMG]  logo.png                2019-04-09 11:45  1.7K
+  ___________________________________________________________________________
+        Index of /wp-content/themes/Divi 3-21-4/includes/builder/images
+
+ Icon   Name                    Last modified      Size  Description
+  ___________________________________________________________________________
+ [PARENTDIR]  Parent Directory                             -
+ [IMG]  animated-overlay.gif    2019-04-09 11:46  1.7K
+ [IMG]  clone.gif               2019-04-09 11:46   82K
+ [IMG]  clone.png               2019-04-09 11:46  1.6K
+ [   ]  cursor-select-goal.cur  2019-04-09 11:46  6.0K
+ [IMG]  cursor-select-goal.png  2019-04-09 11:46  1.0K
+ [   ]  cursor-select-subjec..> 2019-04-09 11:46  5.4K
+ [IMG]  cursor-select-subjec..> 2019-04-09 11:46  951
+ [   ]  cursor-select-winner..> 2019-04-09 11:46  6.0K
+ [IMG]  cursor-select-winner..> 2019-04-09 11:46  1.0K
+ [IMG]  existing.gif            2019-04-09 11:46   56K
+ [IMG]  existing.png            2019-04-09 11:46  1.9K
+ [IMG]  jquery.minicolors.png   2019-04-09 11:46   76K
+ [IMG]  library-global.svg      2019-04-09 11:46  903
+ [IMG]  library-layout.svg      2019-04-09 11:46  591
+ [IMG]  marker.png              2019-04-09 11:46  1.9K
+ [IMG]  menu.svg                2019-04-09 11:46  898
+ [IMG]  no-color.png            2019-04-09 11:46  3.3K
+ [IMG]  premade.gif             2019-04-09 11:46   75K
+ [IMG]  premade.png             2019-04-09 11:46  1.6K
+ [IMG]  right-click-options-..> 2019-04-09 11:46  1.4K
+ [IMG]  scratch.gif             2019-04-09 11:46   44K
+ [IMG]  scratch.png             2019-04-09 11:46  2.1K
+ [IMG]  stats-no-data.svg       2019-04-09 11:46  1.8K
+ [IMG]  stats.svg               2019-04-09 11:46  1.8K
+ [IMG]  ui-bg_flat_0_aaaaaa_..> 2019-04-09 11:46  212
+ [IMG]  ui-bg_flat_55_fbec88..> 2019-04-09 11:46  206
+ [IMG]  ui-bg_glass_75_d0e5f..> 2019-04-09 11:46  336
+ [IMG]  ui-bg_glass_85_dfeff..> 2019-04-09 11:46  341
+ [IMG]  ui-bg_glass_95_fef1e..> 2019-04-09 11:46  332
+ [IMG]  ui-bg_gloss-wave_55_..> 2019-04-09 11:46  5.7K
+ [IMG]  ui-bg_inset-hard_100..> 2019-04-09 11:46  333
+ [IMG]  ui-bg_inset-hard_100..> 2019-04-09 11:46  292
+ [IMG]  ui-icons_2e83ff_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_2e86b9_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_6da8d5_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_cd0a0a_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_d8e7f3_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_f9bd01_256x..> 2019-04-09 11:46  4.4K
+  ___________________________________________________________________________
+   #Eurêkoi » Flux Eurêkoi » Flux des commentaires alternate alternate
+
+   Eurêkoi
+
+     * Accueil
+     * Questions
+          + Posez-nous votre question
+          + Les questions / réponses
+     * Conseils de livres, films et séries
+     * Aide
+          + Comment ça marche ?
+          + Accessibilité
+     * Eurêkoi ?
+          + Qui sommes-nous?
+          + Charte d’Eurêkoi
+          + Professionnels
+     * Contact
+     *
+     *
+     *
+
+   Sélectionner une page
+   ____________________
+
+     * 500
+       Bibliothécaires
+       72h
+       Réponse garantie
+       GRATUIT
+       Service public
+       Complice de votre curiosité
+       Questions
+       Nous répondons à toutesvos questions*
+       Conseils
+       Nous vous conseillons deslivres, films ou séries
+       POSEZ-NOUS VOTRE QUESTION DEMANDEZ-NOUS CONSEIL
+       (*) sauf consultations juridiques ou médicales
+       COMMENT ÇA MARCHE ?
+
+Questions / Réponses du moment
+
+   VOIR TOUTES LES QUESTIONS / RÉPONSES
+
+   Les jeux vidéos rendent-ils violent ?
+
+Les jeux vidéos rendent-ils violent ?
+
+   Sep 26, 2019 | Médiathèque Georges Wolinski - Noisy-le-Grand
+   Huge machine housing Photo by Ciaran O’Brien on Unsplash
+
+   Existe-il des lanceurs d’alerte faisant référence à la surveillance de
+   masse autre qu’Edward Snowden ?
+
+Existe-il des lanceurs d’alerte faisant référence à la surveillance de masse
+autre qu’Edward Snowden ?
+
+   Sep 26, 2019 | Médiathèque Georges Wolinski - Noisy-le-Grand
+   Who is watching ? Photo by Claudio Schwarz | @purzlbaum on Unsplash
+
+   Qui a inventé les échecs ?
+
+Qui a inventé les échecs ?
+
+   Sep 13, 2019 | Bibliothèque publique d'information - Paris
+   Échecs. Positive_Images de Pixabay.
+
+   Pourquoi peut-on mourir de chaud ?
+
+Pourquoi peut-on mourir de chaud ?
+
+   Sep 13, 2019 | Bibliothèque publique d'information - Paris
+   Thermomètre-chaleur-Jarosław Kwoczała. Unsplash
+
+Suggestions du moment
+
+   IFRAME:
+   https://www.senscritique.com/embed/list/2494106?theme=black&eurekoi=tru
+   e
+
+Comment ça marche ?
+
+Posez-nous n’importe quelle question* ou demandez-nous un conseil pour un
+livre, un film ou une série
+
+     * 500 bibliothécaires vous répondent
+     * Quels que soient vos centres d’intérêt
+     * Réponse personnalisée par un(e) bibliothécaire.
+     * Réponses garanties en moins de 72h
+     * Service public gratuit
+       Exemples de questions
+       (*) Hors consultations juridiques ou médicales. Vos questions
+       devront respecter la charte d’Eurêkoi
+
+   POSEZ-NOUS VOTRE QUESTION
+   DEMANDEZ-NOUS CONSEIL
+
+En chiffres
+
+   %
+
+Taux de satisfaction des réponses apportées
+
+   %
+
+Réponses oui à la question « Nous recommanderiez-vous à vos proches? »
+
+On parle de nous
+
+Social Lab - Chronique de Valère Corréard
+
+   LIRE L'ARTICLE
+
+Des bibliothécaires connectés répondent à toutes vos questions
+
+   LIRE L'ARTICLE
+
+Eurêkoi : l'application gratuite qui répond à toutes vos questions, avec des
+humains derrière
+
+   LIRE L'ARTICLE
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   Aline Desirat
+   Cité de la Santé au sein de la Cité des Sciences (Paris, 19)
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   M. Tuddert
+   Lectrice
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   Coco
+   Assistante commerciale dans une banque
+
+   « Bravo aux bibliothécaires : ce service est efficace et pertinent! »
+
+   Bertrand Halff
+   Ancien directeur d’une entreprise textile familiale, je suis maintenant
+   à la retraite
+
+Téléchargez l'application mobile
+
+   Site sous licence CC-BY-NC 4.0
+
+Aide
+
+     * Accueil
+     * Comment ça marche ?
+     * Accessibilité
+
+Eurêkoi
+
+     * Contact
+     * Qui sommes-nous?
+     * Charte d’Eurêkoi
+     * Professionnels
+     * Mentions légales
+
+     * Facebook
+     * Twitter
+     * RSS
+
+   2018 Bibliothèque publique d'information | Conception Bel Usage
+
+   Vous êtes sur un le site d'un service public non commercial. En
+   poursuivant votre navigation sur ce site, vous acceptez l’utilisation
+   de cookies pour réaliser des statistiques de visites. Accepter
+
+   infos sur les cookies
+
+
+                     Index of /wp-includes/js/mediaelement
+
+ Icon   Name                    Last modified      Size  Description
+  ___________________________________________________________________________
+ [PARENTDIR]  Parent Directory                             -
+ [   ]  mediaelement-and-pla..> 2018-12-17 17:13  257K
+ [   ]  mediaelement-and-pla..> 2018-12-17 17:13  153K
+ [   ]  mediaelement-migrate.js 2018-12-17 17:13  2.8K
+ [   ]  mediaelement-migrate..> 2018-12-17 17:13  1.2K
+ [   ]  mediaelement.js         2018-12-17 17:13  118K
+ [   ]  mediaelement.min.js     2018-12-17 17:13   66K
+ [TXT]  mediaelementplayer-l..> 2018-12-17 17:13   15K
+ [TXT]  mediaelementplayer-l..> 2018-12-17 17:13   11K
+ [TXT]  mediaelementplayer.css  2018-12-17 17:13   15K
+ [TXT]  mediaelementplayer.m..> 2018-12-17 17:13   11K
+ [IMG]  mejs-controls.png       2018-12-17 17:13  2.8K
+ [IMG]  mejs-controls.svg       2018-12-17 17:13  4.5K
+ [DIR]  renderers/              2018-12-17 17:13    -
+ [TXT]  wp-mediaelement.css     2018-12-17 17:13  4.8K
+ [   ]  wp-mediaelement.js      2019-04-05 16:54  2.3K
+ [TXT]  wp-mediaelement.min.css 2018-12-17 17:13  4.1K
+ [   ]  wp-mediaelement.min.js  2018-12-17 17:13  914
+ [   ]  wp-playlist.js          2019-04-05 16:54  5.2K
+ [   ]  wp-playlist.min.js      2018-12-17 17:13  3.4K
+  ___________________________________________________________________________
+                 Index of /wp-content/themes/Divi 3-21-4/images
+
+ Icon   Name                    Last modified      Size  Description
+  ___________________________________________________________________________
+ [PARENTDIR]  Parent Directory                             -
+ [IMG]  footer-layouts.png      2019-04-09 11:45  694
+ [IMG]  logo.png                2019-04-09 11:45  1.7K
+  ___________________________________________________________________________
+        Index of /wp-content/themes/Divi 3-21-4/includes/builder/images
+
+ Icon   Name                    Last modified      Size  Description
+  ___________________________________________________________________________
+ [PARENTDIR]  Parent Directory                             -
+ [IMG]  animated-overlay.gif    2019-04-09 11:46  1.7K
+ [IMG]  clone.gif               2019-04-09 11:46   82K
+ [IMG]  clone.png               2019-04-09 11:46  1.6K
+ [   ]  cursor-select-goal.cur  2019-04-09 11:46  6.0K
+ [IMG]  cursor-select-goal.png  2019-04-09 11:46  1.0K
+ [   ]  cursor-select-subjec..> 2019-04-09 11:46  5.4K
+ [IMG]  cursor-select-subjec..> 2019-04-09 11:46  951
+ [   ]  cursor-select-winner..> 2019-04-09 11:46  6.0K
+ [IMG]  cursor-select-winner..> 2019-04-09 11:46  1.0K
+ [IMG]  existing.gif            2019-04-09 11:46   56K
+ [IMG]  existing.png            2019-04-09 11:46  1.9K
+ [IMG]  jquery.minicolors.png   2019-04-09 11:46   76K
+ [IMG]  library-global.svg      2019-04-09 11:46  903
+ [IMG]  library-layout.svg      2019-04-09 11:46  591
+ [IMG]  marker.png              2019-04-09 11:46  1.9K
+ [IMG]  menu.svg                2019-04-09 11:46  898
+ [IMG]  no-color.png            2019-04-09 11:46  3.3K
+ [IMG]  premade.gif             2019-04-09 11:46   75K
+ [IMG]  premade.png             2019-04-09 11:46  1.6K
+ [IMG]  right-click-options-..> 2019-04-09 11:46  1.4K
+ [IMG]  scratch.gif             2019-04-09 11:46   44K
+ [IMG]  scratch.png             2019-04-09 11:46  2.1K
+ [IMG]  stats-no-data.svg       2019-04-09 11:46  1.8K
+ [IMG]  stats.svg               2019-04-09 11:46  1.8K
+ [IMG]  ui-bg_flat_0_aaaaaa_..> 2019-04-09 11:46  212
+ [IMG]  ui-bg_flat_55_fbec88..> 2019-04-09 11:46  206
+ [IMG]  ui-bg_glass_75_d0e5f..> 2019-04-09 11:46  336
+ [IMG]  ui-bg_glass_85_dfeff..> 2019-04-09 11:46  341
+ [IMG]  ui-bg_glass_95_fef1e..> 2019-04-09 11:46  332
+ [IMG]  ui-bg_gloss-wave_55_..> 2019-04-09 11:46  5.7K
+ [IMG]  ui-bg_inset-hard_100..> 2019-04-09 11:46  333
+ [IMG]  ui-bg_inset-hard_100..> 2019-04-09 11:46  292
+ [IMG]  ui-icons_2e83ff_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_2e86b9_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_6da8d5_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_cd0a0a_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_d8e7f3_256x..> 2019-04-09 11:46  4.4K
+ [IMG]  ui-icons_f9bd01_256x..> 2019-04-09 11:46  4.4K
+  ___________________________________________________________________________

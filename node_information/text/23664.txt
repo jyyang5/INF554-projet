@@ -1,0 +1,1284 @@
+   #alternate alternate next
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Expert mais pas que ...
+
+Internet, PrestaShop, e-Commerce, Web et j'en passe
+
+     * (BUTTON) Tous
+     * (BUTTON) Astuces
+     * (BUTTON) Coworking
+     * (BUTTON) Design
+     * (BUTTON) Modules
+     * (BUTTON) Monétique
+     * (BUTTON) PrestaShop
+     * (BUTTON) Références
+     * (BUTTON) Sécurité
+     * (BUTTON) SQL
+     * (BUTTON) Tout public
+     * (BUTTON) Tutoriel
+
+   Photo by CMDR Shane on Unsplash
+
+Ne plus envoyer le mot de passe par email
+
+   4 septembre 2019
+   Photo by Denny Müller on Unsplash
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   7 août 2019
+   Photo by Samuel Zeller on Unsplash
+
+Afficher images après migration
+
+   28 juin 2019
+   Photo by Michal Bar Haim on Unsplash
+
+Mon nouveau site se dévoile enfin
+
+   18 juin 2019
+   Photo by Paul Bence on Unsplash
+
+Dpi or not Dpi pour mes images web
+
+   17 juin 2019
+   Photo by Jan Antonin Kolar on Unsplash
+
+Remplacer directement en SQL
+
+   16 juin 2019
+
+Et BAM, je deviens modérateur
+
+   11 juin 2019
+
+Demain c'est PSD
+
+   3 juin 2019
+
+[Firefox] a désactivé toutes mes extensions
+
+   4 mai 2019
+
+Attaque générale de création de comptes clients en cours
+
+   23 avril 2019
+
+Enregistrement produit impossible
+
+   15 avril 2019
+
+Perte de données, tout est de votre faute !
+
+   8 avril 2019
+
+Dois-je utiliser un CDN ?
+
+   29 mars 2019
+
+J'ai quitté Free Mobile
+
+   7 mai 2018
+
+[ASTUCE] Design de bouton façon Bootstrap
+
+   7 décembre 2017
+
+Rappel de paniers abandonnés
+
+   18 avril 2017
+
+Espace personnel - WorkingShare
+
+   21 janvier 2017
+
+PrestaShop 1.7 - Abordons le moteur de template TWIG
+
+   4 novembre 2016
+
+[MODULE] et s'il n'en fallait qu'un seul sur PrestaShop ...
+
+   13 juillet 2016
+
+Optimisez le poids de vos images
+
+   12 octobre 2015
+
+Import des images d'un produit sur PrestaShop
+
+   17 août 2015
+
+   Précédent
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #alternate alternate next
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Expert mais pas que ...
+
+Internet, PrestaShop, e-Commerce, Web et j'en passe
+
+     * (BUTTON) Tous
+     * (BUTTON) Astuces
+     * (BUTTON) Coworking
+     * (BUTTON) Design
+     * (BUTTON) Modules
+     * (BUTTON) Monétique
+     * (BUTTON) PrestaShop
+     * (BUTTON) Références
+     * (BUTTON) Sécurité
+     * (BUTTON) SQL
+     * (BUTTON) Tout public
+     * (BUTTON) Tutoriel
+
+   Photo by CMDR Shane on Unsplash
+
+Ne plus envoyer le mot de passe par email
+
+   4 septembre 2019
+   Photo by Denny Müller on Unsplash
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   7 août 2019
+   Photo by Samuel Zeller on Unsplash
+
+Afficher images après migration
+
+   28 juin 2019
+   Photo by Michal Bar Haim on Unsplash
+
+Mon nouveau site se dévoile enfin
+
+   18 juin 2019
+   Photo by Paul Bence on Unsplash
+
+Dpi or not Dpi pour mes images web
+
+   17 juin 2019
+   Photo by Jan Antonin Kolar on Unsplash
+
+Remplacer directement en SQL
+
+   16 juin 2019
+
+Et BAM, je deviens modérateur
+
+   11 juin 2019
+
+Demain c'est PSD
+
+   3 juin 2019
+
+[Firefox] a désactivé toutes mes extensions
+
+   4 mai 2019
+
+Attaque générale de création de comptes clients en cours
+
+   23 avril 2019
+
+Enregistrement produit impossible
+
+   15 avril 2019
+
+Perte de données, tout est de votre faute !
+
+   8 avril 2019
+
+Dois-je utiliser un CDN ?
+
+   29 mars 2019
+
+J'ai quitté Free Mobile
+
+   7 mai 2018
+
+[ASTUCE] Design de bouton façon Bootstrap
+
+   7 décembre 2017
+
+Rappel de paniers abandonnés
+
+   18 avril 2017
+
+Espace personnel - WorkingShare
+
+   21 janvier 2017
+
+PrestaShop 1.7 - Abordons le moteur de template TWIG
+
+   4 novembre 2016
+
+[MODULE] et s'il n'en fallait qu'un seul sur PrestaShop ...
+
+   13 juillet 2016
+
+Optimisez le poids de vos images
+
+   12 octobre 2015
+
+Import des images d'un produit sur PrestaShop
+
+   17 août 2015
+
+   Précédent
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #next
+
+   Menu Mediacom87.fr
+
+Ne plus envoyer le mot de passe par email
+
+   Si vous utilisez une "vieille" version de PrestaShop; avant la branche
+   1.7;…
+
+   Par Tanguy JACQUET 4 septembre 2019
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   Suite au Topic posté par flyman30 sur le forum officiel francophone de
+   PrestaShop,…
+
+   Par Mediacom87 7 août 2019
+
+Afficher images après migration
+
+   Que vous fassiez une migration de serveur ou que vous mettez en…
+
+   Par Tanguy JACQUET 28 juin 2019
+
+Mon nouveau site se dévoile enfin
+
+   Depuis des années, mon site n'avait pas vraiment évolué, comme nous le…
+
+   Par Tanguy JACQUET 18 juin 2019
+
+Dpi or not Dpi pour mes images web
+
+   Cela fait des années, maintenant, qu'Internet existe, des années que le
+   monde…
+
+   Par Tanguy JACQUET 17 juin 2019
+
+Remplacer directement en SQL
+
+   Il existe des milliers de cas où le remplacement d'une chaîne de…
+
+   Par Tanguy JACQUET 16 juin 2019
+
+Et BAM, je deviens modérateur
+
+   Suite à mon passage au PSD Paris mardi dernier, j'ai accepté de…
+
+   Par Tanguy JACQUET 11 juin 2019
+
+Demain c'est PSD
+
+   Ce mardi 4 juin 2019 a lieu l'événement français annuel de PrestaShop,…
+
+   Par Tanguy JACQUET 3 juin 2019
+
+[Firefox] a désactivé toutes mes extensions
+
+   Un truc dingue vient de m'arriver sur mon navigateur préféré, FireFox.
+   Plus…
+
+   Par Tanguy JACQUET 4 mai 2019
+
+Attaque générale de création de comptes clients en cours
+
+   Si vous ne l'avez pas encore expérimenté, sachez que depuis la fin…
+
+   Par Tanguy JACQUET 23 avril 2019
+
+Enregistrement produit impossible
+
+   Vous expérimentez peut être dernièrement l'impossibilité d'enregistrer
+   du premier coup vos fiches…
+
+   Par Tanguy JACQUET 15 avril 2019
+
+Perte de données, tout est de votre faute !
+
+   Encore une fois, nous découvrons un appel à l'aide pour une étudiante…
+
+   Par Tanguy JACQUET 8 avril 2019
+
+Dois-je utiliser un CDN ?
+
+   Comme vous le savez certainement, un CDN (Content Delivery Network) est
+   un…
+
+   Par Tanguy JACQUET 29 mars 2019
+
+J'ai quitté Free Mobile
+
+   Salut à tous, Un billet différent pour vous partager une expérience
+   personnelle…
+
+   Par Tanguy JACQUET 7 mai 2018
+
+[ASTUCE] Design de bouton façon Bootstrap
+
+   Le design imposé par Bootstrap depuis des années est, on peut
+   l'admettre,…
+
+   Par Tanguy JACQUET 7 décembre 2017
+
+Rappel de paniers abandonnés
+
+   Avez-vous remarqué le nombre de paniers qui restent en l'état dans
+   votre…
+
+   Par Tanguy JACQUET 18 avril 2017
+
+Espace personnel - WorkingShare
+
+   Dans le cadre de l'amélioration de services auprès des coworkers, j'ai
+   pris la…
+
+   Par Tanguy JACQUET 21 janvier 2017
+
+PrestaShop 1.7 - Abordons le moteur de template TWIG
+
+   Bonjour, comme vous le savez certainement, PrestaShop intégrera le
+   moteur de template…
+
+   Par Tanguy JACQUET 4 novembre 2016
+
+[MODULE] et s'il n'en fallait qu'un seul sur PrestaShop ...
+
+   C'est la remarque qui m'est venue à l'esprit en développant mon
+   dernier…
+
+   Par Tanguy JACQUET 13 juillet 2016
+
+Optimisez le poids de vos images
+
+   Personnellement, étant présent sur le web depuis le début, j'ai
+   toujours pris…
+
+   Par Tanguy JACQUET 12 octobre 2015
+
+Import des images d'un produit sur PrestaShop
+
+   Souvent, sur PrestaShop, nous souhaitons mettre à jour de grande
+   quantité de…
+
+   Par Tanguy JACQUET 17 août 2015
+
+   Previous
+
+   (BUTTON) ↑
+
+   © Mediacom87
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+   #alternate alternate prev
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Expert mais pas que ...
+
+Internet, PrestaShop, e-Commerce, Web et j'en passe
+
+     * (BUTTON) Tous
+     * (BUTTON) Astuces
+     * (BUTTON) Coworking
+     * (BUTTON) Design
+     * (BUTTON) Modules
+     * (BUTTON) Monétique
+     * (BUTTON) PrestaShop
+     * (BUTTON) Références
+     * (BUTTON) Sécurité
+     * (BUTTON) SQL
+     * (BUTTON) Tout public
+     * (BUTTON) Tutoriel
+
+Réunion communautaire chez Prestashop
+
+   27 février 2015
+   Photo by Sara Kurfeß on Unsplash
+
+Nouvelle règle TVA au 1er janvier 2015 dans l'Union Européenne
+
+   23 décembre 2014
+
+Utiliser un SMTP externe dans Prestashop
+
+   12 décembre 2014
+   La rochelle Coworking - WorkingShare
+
+Site institutionnel - Workingshare
+
+   18 avril 2014
+
+[TIPS] Installer Prestashop sans installer les produits de démonstration
+
+   18 février 2014
+
+Mediacom87 se lance dans le Coworking
+
+   10 septembre 2013
+
+Regénérer les miniatures produits sous Prestashop
+
+   22 juillet 2013
+
+Interdire la copie des textes et images de votre e-commerce
+
+   13 juin 2013
+
+Lancement du nouveau site de l'ANTAB / AFTLM
+
+   25 septembre 2012
+
+Installation et migration Systempay
+
+   14 août 2012
+
+Nouvelle solution de paiement multi banque : PayZen
+
+   13 août 2012
+
+Protégez vos données en sauvegardant automatiquement votre site
+
+   22 mai 2012
+
+Aide communautaire - Wiki pour Prestashop
+
+   17 février 2012
+   Nouveau design pour PrestaShop
+
+Prestashop lance son nouveau site
+
+   16 février 2012
+
+Intégration de l'espace de CoWorking à La Rochelle
+
+   18 janvier 2012
+
+   Suivant
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #prev
+
+   Menu Mediacom87.fr
+
+Réunion communautaire chez Prestashop
+
+   Ce jeudi 26 février 2015, certains membres de la communauté furent
+   invités…
+
+   Par Tanguy JACQUET 27 février 2015
+
+Nouvelle règle TVA au 1er janvier 2015 dans l'Union Européenne
+
+   À compté du 1er janvier 2015, les règles d'application de la TVA…
+
+   Par Tanguy JACQUET 23 décembre 2014
+
+Utiliser un SMTP externe dans Prestashop
+
+   Pour l'ecommerçant, il est primordial que tous les emails envoyés à
+   partir…
+
+   Par Tanguy JACQUET 12 décembre 2014
+
+Site institutionnel - Workingshare
+
+   Qui dit nouvel espace de coworking sur La Rochelle, dit son site…
+
+   Par Tanguy JACQUET 18 avril 2014
+
+[TIPS] Installer Prestashop sans installer les produits de démonstration
+
+   Souvent, lorsque l'on installe une nouvelle boutique Prestashop, pour
+   soit même ou…
+
+   Par Tanguy JACQUET 18 février 2014
+
+Mediacom87 se lance dans le Coworking
+
+   Certains le savent déjà, mediacom87 était implanté dans un espace de
+   travail…
+
+   Par Tanguy JACQUET 10 septembre 2013
+
+Regénérer les miniatures produits sous Prestashop
+
+   Depuis des années maintenant, nous découvrons régulièrement des
+   messages sur le forum…
+
+   Par Tanguy JACQUET 22 juillet 2013
+
+Interdire la copie des textes et images de votre e-commerce
+
+   La sécurisation des données d'un site de e-commerce doit être traité
+   avec…
+
+   Par Tanguy JACQUET 13 juin 2013
+
+Lancement du nouveau site de l'ANTAB / AFTLM
+
+   Je suis heureux de vous annoncer la mise en ligne de la nouvelle…
+
+   Par Tanguy JACQUET 25 septembre 2012
+
+Installation et migration Systempay
+
+   Mediacom87 prend en charge l'installation ou la migration des clients
+   de la…
+
+   Par Tanguy JACQUET 14 août 2012
+
+Nouvelle solution de paiement multi banque : PayZen
+
+   Site : payzen.eu Payzen propose des module de paiement gratuit pour
+   l’ensemble…
+
+   Par Tanguy JACQUET 13 août 2012
+
+Protégez vos données en sauvegardant automatiquement votre site
+
+   Un site web est piraté toutes les 5 secondes, alors ne remettez…
+
+   Par Tanguy JACQUET 22 mai 2012
+
+Aide communautaire - Wiki pour Prestashop
+
+   La force première d'un outil comme Prestashop, en plus d'être français,
+   c'est…
+
+   Par Tanguy JACQUET 17 février 2012
+
+Prestashop lance son nouveau site
+
+   Beaucoup d'excitation autour de la nouvelle mouture du site
+   institutionnel de Prestashop…
+
+   Par Tanguy JACQUET 16 février 2012
+
+Intégration de l'espace de CoWorking à La Rochelle
+
+   J'ai intégré le nouvel espace de Coworking sur La Rochelle en octobre…
+
+   Par Tanguy JACQUET 18 janvier 2012
+
+   Next
+
+   (BUTTON) ↑
+
+   © Mediacom87
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+   #alternate alternate next
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Expert mais pas que ...
+
+Internet, PrestaShop, e-Commerce, Web et j'en passe
+
+     * (BUTTON) Tous
+     * (BUTTON) Astuces
+     * (BUTTON) Coworking
+     * (BUTTON) Design
+     * (BUTTON) Modules
+     * (BUTTON) Monétique
+     * (BUTTON) PrestaShop
+     * (BUTTON) Références
+     * (BUTTON) Sécurité
+     * (BUTTON) SQL
+     * (BUTTON) Tout public
+     * (BUTTON) Tutoriel
+
+   Photo by CMDR Shane on Unsplash
+
+Ne plus envoyer le mot de passe par email
+
+   4 septembre 2019
+   Photo by Denny Müller on Unsplash
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   7 août 2019
+   Photo by Samuel Zeller on Unsplash
+
+Afficher images après migration
+
+   28 juin 2019
+   Photo by Michal Bar Haim on Unsplash
+
+Mon nouveau site se dévoile enfin
+
+   18 juin 2019
+   Photo by Paul Bence on Unsplash
+
+Dpi or not Dpi pour mes images web
+
+   17 juin 2019
+   Photo by Jan Antonin Kolar on Unsplash
+
+Remplacer directement en SQL
+
+   16 juin 2019
+
+Et BAM, je deviens modérateur
+
+   11 juin 2019
+
+Demain c'est PSD
+
+   3 juin 2019
+
+[Firefox] a désactivé toutes mes extensions
+
+   4 mai 2019
+
+Attaque générale de création de comptes clients en cours
+
+   23 avril 2019
+
+Enregistrement produit impossible
+
+   15 avril 2019
+
+Perte de données, tout est de votre faute !
+
+   8 avril 2019
+
+Dois-je utiliser un CDN ?
+
+   29 mars 2019
+
+J'ai quitté Free Mobile
+
+   7 mai 2018
+
+[ASTUCE] Design de bouton façon Bootstrap
+
+   7 décembre 2017
+
+Rappel de paniers abandonnés
+
+   18 avril 2017
+
+Espace personnel - WorkingShare
+
+   21 janvier 2017
+
+PrestaShop 1.7 - Abordons le moteur de template TWIG
+
+   4 novembre 2016
+
+[MODULE] et s'il n'en fallait qu'un seul sur PrestaShop ...
+
+   13 juillet 2016
+
+Optimisez le poids de vos images
+
+   12 octobre 2015
+
+Import des images d'un produit sur PrestaShop
+
+   17 août 2015
+
+   Précédent
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #alternate alternate next
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Expert mais pas que ...
+
+Internet, PrestaShop, e-Commerce, Web et j'en passe
+
+     * (BUTTON) Tous
+     * (BUTTON) Astuces
+     * (BUTTON) Coworking
+     * (BUTTON) Design
+     * (BUTTON) Modules
+     * (BUTTON) Monétique
+     * (BUTTON) PrestaShop
+     * (BUTTON) Références
+     * (BUTTON) Sécurité
+     * (BUTTON) SQL
+     * (BUTTON) Tout public
+     * (BUTTON) Tutoriel
+
+   Photo by CMDR Shane on Unsplash
+
+Ne plus envoyer le mot de passe par email
+
+   4 septembre 2019
+   Photo by Denny Müller on Unsplash
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   7 août 2019
+   Photo by Samuel Zeller on Unsplash
+
+Afficher images après migration
+
+   28 juin 2019
+   Photo by Michal Bar Haim on Unsplash
+
+Mon nouveau site se dévoile enfin
+
+   18 juin 2019
+   Photo by Paul Bence on Unsplash
+
+Dpi or not Dpi pour mes images web
+
+   17 juin 2019
+   Photo by Jan Antonin Kolar on Unsplash
+
+Remplacer directement en SQL
+
+   16 juin 2019
+
+Et BAM, je deviens modérateur
+
+   11 juin 2019
+
+Demain c'est PSD
+
+   3 juin 2019
+
+[Firefox] a désactivé toutes mes extensions
+
+   4 mai 2019
+
+Attaque générale de création de comptes clients en cours
+
+   23 avril 2019
+
+Enregistrement produit impossible
+
+   15 avril 2019
+
+Perte de données, tout est de votre faute !
+
+   8 avril 2019
+
+Dois-je utiliser un CDN ?
+
+   29 mars 2019
+
+J'ai quitté Free Mobile
+
+   7 mai 2018
+
+[ASTUCE] Design de bouton façon Bootstrap
+
+   7 décembre 2017
+
+Rappel de paniers abandonnés
+
+   18 avril 2017
+
+Espace personnel - WorkingShare
+
+   21 janvier 2017
+
+PrestaShop 1.7 - Abordons le moteur de template TWIG
+
+   4 novembre 2016
+
+[MODULE] et s'il n'en fallait qu'un seul sur PrestaShop ...
+
+   13 juillet 2016
+
+Optimisez le poids de vos images
+
+   12 octobre 2015
+
+Import des images d'un produit sur PrestaShop
+
+   17 août 2015
+
+   Précédent
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #next
+
+   Menu Mediacom87.fr
+
+Ne plus envoyer le mot de passe par email
+
+   Si vous utilisez une "vieille" version de PrestaShop; avant la branche
+   1.7;…
+
+   Par Tanguy JACQUET 4 septembre 2019
+
+[Prestashop 1.7.6.0] Impossible d'effacer les Logs
+
+   Suite au Topic posté par flyman30 sur le forum officiel francophone de
+   PrestaShop,…
+
+   Par Mediacom87 7 août 2019
+
+Afficher images après migration
+
+   Que vous fassiez une migration de serveur ou que vous mettez en…
+
+   Par Tanguy JACQUET 28 juin 2019
+
+Mon nouveau site se dévoile enfin
+
+   Depuis des années, mon site n'avait pas vraiment évolué, comme nous le…
+
+   Par Tanguy JACQUET 18 juin 2019
+
+Dpi or not Dpi pour mes images web
+
+   Cela fait des années, maintenant, qu'Internet existe, des années que le
+   monde…
+
+   Par Tanguy JACQUET 17 juin 2019
+
+Remplacer directement en SQL
+
+   Il existe des milliers de cas où le remplacement d'une chaîne de…
+
+   Par Tanguy JACQUET 16 juin 2019
+
+Et BAM, je deviens modérateur
+
+   Suite à mon passage au PSD Paris mardi dernier, j'ai accepté de…
+
+   Par Tanguy JACQUET 11 juin 2019
+
+Demain c'est PSD
+
+   Ce mardi 4 juin 2019 a lieu l'événement français annuel de PrestaShop,…
+
+   Par Tanguy JACQUET 3 juin 2019
+
+[Firefox] a désactivé toutes mes extensions
+
+   Un truc dingue vient de m'arriver sur mon navigateur préféré, FireFox.
+   Plus…
+
+   Par Tanguy JACQUET 4 mai 2019
+
+Attaque générale de création de comptes clients en cours
+
+   Si vous ne l'avez pas encore expérimenté, sachez que depuis la fin…
+
+   Par Tanguy JACQUET 23 avril 2019
+
+Enregistrement produit impossible
+
+   Vous expérimentez peut être dernièrement l'impossibilité d'enregistrer
+   du premier coup vos fiches…
+
+   Par Tanguy JACQUET 15 avril 2019
+
+Perte de données, tout est de votre faute !
+
+   Encore une fois, nous découvrons un appel à l'aide pour une étudiante…
+
+   Par Tanguy JACQUET 8 avril 2019
+
+Dois-je utiliser un CDN ?
+
+   Comme vous le savez certainement, un CDN (Content Delivery Network) est
+   un…
+
+   Par Tanguy JACQUET 29 mars 2019
+
+J'ai quitté Free Mobile
+
+   Salut à tous, Un billet différent pour vous partager une expérience
+   personnelle…
+
+   Par Tanguy JACQUET 7 mai 2018
+
+[ASTUCE] Design de bouton façon Bootstrap
+
+   Le design imposé par Bootstrap depuis des années est, on peut
+   l'admettre,…
+
+   Par Tanguy JACQUET 7 décembre 2017
+
+Rappel de paniers abandonnés
+
+   Avez-vous remarqué le nombre de paniers qui restent en l'état dans
+   votre…
+
+   Par Tanguy JACQUET 18 avril 2017
+
+Espace personnel - WorkingShare
+
+   Dans le cadre de l'amélioration de services auprès des coworkers, j'ai
+   pris la…
+
+   Par Tanguy JACQUET 21 janvier 2017
+
+PrestaShop 1.7 - Abordons le moteur de template TWIG
+
+   Bonjour, comme vous le savez certainement, PrestaShop intégrera le
+   moteur de template…
+
+   Par Tanguy JACQUET 4 novembre 2016
+
+[MODULE] et s'il n'en fallait qu'un seul sur PrestaShop ...
+
+   C'est la remarque qui m'est venue à l'esprit en développant mon
+   dernier…
+
+   Par Tanguy JACQUET 13 juillet 2016
+
+Optimisez le poids de vos images
+
+   Personnellement, étant présent sur le web depuis le début, j'ai
+   toujours pris…
+
+   Par Tanguy JACQUET 12 octobre 2015
+
+Import des images d'un produit sur PrestaShop
+
+   Souvent, sur PrestaShop, nous souhaitons mettre à jour de grande
+   quantité de…
+
+   Par Tanguy JACQUET 17 août 2015
+
+   Previous
+
+   (BUTTON) ↑
+
+   © Mediacom87
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+   #alternate alternate prev
+
+   Mediacom87.fr
+
+   (BUTTON) Menu
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact
+
+   ____________________
+
+   Expert mais pas que ...
+
+Internet, PrestaShop, e-Commerce, Web et j'en passe
+
+     * (BUTTON) Tous
+     * (BUTTON) Astuces
+     * (BUTTON) Coworking
+     * (BUTTON) Design
+     * (BUTTON) Modules
+     * (BUTTON) Monétique
+     * (BUTTON) PrestaShop
+     * (BUTTON) Références
+     * (BUTTON) Sécurité
+     * (BUTTON) SQL
+     * (BUTTON) Tout public
+     * (BUTTON) Tutoriel
+
+Réunion communautaire chez Prestashop
+
+   27 février 2015
+   Photo by Sara Kurfeß on Unsplash
+
+Nouvelle règle TVA au 1er janvier 2015 dans l'Union Européenne
+
+   23 décembre 2014
+
+Utiliser un SMTP externe dans Prestashop
+
+   12 décembre 2014
+   La rochelle Coworking - WorkingShare
+
+Site institutionnel - Workingshare
+
+   18 avril 2014
+
+[TIPS] Installer Prestashop sans installer les produits de démonstration
+
+   18 février 2014
+
+Mediacom87 se lance dans le Coworking
+
+   10 septembre 2013
+
+Regénérer les miniatures produits sous Prestashop
+
+   22 juillet 2013
+
+Interdire la copie des textes et images de votre e-commerce
+
+   13 juin 2013
+
+Lancement du nouveau site de l'ANTAB / AFTLM
+
+   25 septembre 2012
+
+Installation et migration Systempay
+
+   14 août 2012
+
+Nouvelle solution de paiement multi banque : PayZen
+
+   13 août 2012
+
+Protégez vos données en sauvegardant automatiquement votre site
+
+   22 mai 2012
+
+Aide communautaire - Wiki pour Prestashop
+
+   17 février 2012
+   Nouveau design pour PrestaShop
+
+Prestashop lance son nouveau site
+
+   16 février 2012
+
+Intégration de l'espace de CoWorking à La Rochelle
+
+   18 janvier 2012
+
+   Suivant
+
+   © Mediacom87 - Mentions légales - Prestatoolbox - La Rochelle Coworking
+   #prev
+
+   Menu Mediacom87.fr
+
+Réunion communautaire chez Prestashop
+
+   Ce jeudi 26 février 2015, certains membres de la communauté furent
+   invités…
+
+   Par Tanguy JACQUET 27 février 2015
+
+Nouvelle règle TVA au 1er janvier 2015 dans l'Union Européenne
+
+   À compté du 1er janvier 2015, les règles d'application de la TVA…
+
+   Par Tanguy JACQUET 23 décembre 2014
+
+Utiliser un SMTP externe dans Prestashop
+
+   Pour l'ecommerçant, il est primordial que tous les emails envoyés à
+   partir…
+
+   Par Tanguy JACQUET 12 décembre 2014
+
+Site institutionnel - Workingshare
+
+   Qui dit nouvel espace de coworking sur La Rochelle, dit son site…
+
+   Par Tanguy JACQUET 18 avril 2014
+
+[TIPS] Installer Prestashop sans installer les produits de démonstration
+
+   Souvent, lorsque l'on installe une nouvelle boutique Prestashop, pour
+   soit même ou…
+
+   Par Tanguy JACQUET 18 février 2014
+
+Mediacom87 se lance dans le Coworking
+
+   Certains le savent déjà, mediacom87 était implanté dans un espace de
+   travail…
+
+   Par Tanguy JACQUET 10 septembre 2013
+
+Regénérer les miniatures produits sous Prestashop
+
+   Depuis des années maintenant, nous découvrons régulièrement des
+   messages sur le forum…
+
+   Par Tanguy JACQUET 22 juillet 2013
+
+Interdire la copie des textes et images de votre e-commerce
+
+   La sécurisation des données d'un site de e-commerce doit être traité
+   avec…
+
+   Par Tanguy JACQUET 13 juin 2013
+
+Lancement du nouveau site de l'ANTAB / AFTLM
+
+   Je suis heureux de vous annoncer la mise en ligne de la nouvelle…
+
+   Par Tanguy JACQUET 25 septembre 2012
+
+Installation et migration Systempay
+
+   Mediacom87 prend en charge l'installation ou la migration des clients
+   de la…
+
+   Par Tanguy JACQUET 14 août 2012
+
+Nouvelle solution de paiement multi banque : PayZen
+
+   Site : payzen.eu Payzen propose des module de paiement gratuit pour
+   l’ensemble…
+
+   Par Tanguy JACQUET 13 août 2012
+
+Protégez vos données en sauvegardant automatiquement votre site
+
+   Un site web est piraté toutes les 5 secondes, alors ne remettez…
+
+   Par Tanguy JACQUET 22 mai 2012
+
+Aide communautaire - Wiki pour Prestashop
+
+   La force première d'un outil comme Prestashop, en plus d'être français,
+   c'est…
+
+   Par Tanguy JACQUET 17 février 2012
+
+Prestashop lance son nouveau site
+
+   Beaucoup d'excitation autour de la nouvelle mouture du site
+   institutionnel de Prestashop…
+
+   Par Tanguy JACQUET 16 février 2012
+
+Intégration de l'espace de CoWorking à La Rochelle
+
+   J'ai intégré le nouvel espace de Coworking sur La Rochelle en octobre…
+
+   Par Tanguy JACQUET 18 janvier 2012
+
+   Next
+
+   (BUTTON) ↑
+
+   © Mediacom87
+     * Accueil
+     * Références
+     * Blog
+          + PrestaShop
+          + Modules
+          + Tutoriels
+          + Coworking
+     * Votre site
+     * Votre e-commerce
+     * SEO
+     * Contact

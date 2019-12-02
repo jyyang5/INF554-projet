@@ -1,0 +1,778 @@
+   #alternate OCTO Talks ! » Feed OCTO Talks ! » Comments Feed OCTO Talks
+   ! » A chat with Doug Cutting about Hadoop Comments Feed Geo localizing
+   Medline citations Serverless real-time architecture on AWS: there is a
+   way ! alternate alternate
+
+     * fr
+     * pt-br
+
+   OCTO Talks !
+
+   Go to content
+     * Archi & Techno
+     * Methodology
+     * Big Data
+     * News
+
+A chat with Doug Cutting about Hadoop
+
+   Publication date 14/01/2016 by Nelly Grellier
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   We had the chance to interview Doug Cutting during the Cloudera
+   Sessions in Paris, October 2014. Doug is the creator behind Hadoop and
+   Cloudera’s Chief Architect. Here is our exchange below:
+
+   DougBWSquare
+
+A question is: how does it feel to see that Hadoop is actually becoming the
+must have, the default way of storing and computing over data in large
+enterprise companies?
+
+   Rationally it feels very good. It’s a technology that’s supposed to do
+   that. Emotionally it’s very satisfying, but also I must say I must be
+   very lucky. I was in the right place at the right time and happened to
+   be the person. Someone else would have done this had I not, by now.
+
+
+   Download our white paper “Hadoop Roadmap”
+
+It’s funny because yesterday you were mentioning how Google released that
+paper about GFS and then about MapReduce, and you seemed surprised that no
+one else has gone and implemented the paper. How would you describe this,
+because it was a very big, big task that some people were daunted by taking
+on or…?
+
+   I think, again, I have the right experience from having put some work
+   in open source. I worked on search engines and I could see the value in
+   the technology, I understood the problem, and that combination. And I
+   think I’ve also been in the software business long enough so that’s why
+   I knew what it’d take to build a project that would be useful, that
+   would be used. And I think no one else was positioned ready enough in
+   the competition with that combination of properties. I’ve been able to
+   take advantage of these papers and implement them as open source, and
+   get them out to people. My guess, I don’t know. It wasn’t my plan.
+
+Were you expecting that it would get take such a big, big impact?
+
+   No, not at all.
+
+OK, now I guess it’ll be more of a technical question: you mentioned
+yesterday (I was there yesterday and today) that you know there are all these
+tools that are coming out, like, building on top of Hadoop and bringing a new
+technology and a new usage of data – how do you see Hadoop changing,
+architecturally speaking, to be able to provide even more capabilities in the
+future?
+
+   It’s a very general architecture. It’s in many ways, much like I said,
+   an operating system. An operating system, I’ve been showing, has
+   storage, has a scheduler, has security mechanisms. Already the
+   challenge is to support all kinds of different applications. So I think
+   that the design it has right now is more or less sufficient to permit a
+   very wide range.
+
+Just like operating systems haven’t changed since Windows.
+
+   Yeah, not fundamentally. Since the 60’s. Those basic capabilities give
+   you a platform you can develop lots of different applications on that
+   can share the hardware, in a sense. It’s really… Well, a Java OS is
+   sort of “get out of the way” and let applications share the hardware.
+
+Provide abstractions as Jim Baum said.
+
+   Exactly.
+
+To deal with complexity.
+
+   And so I think that’s a role that Hadoop is filling more and more.
+
+   I know it needs a radical re-architecture to do that. Whether people
+   will implement alternate file systems…That might happen, we’ll see.
+
+OK. Thank you so much. And do you see, all these tools, like, you see Kafka
+for log aggregation across DC, and we see Storm for stream processing, and
+all these things. Do you see new usages that haven’t come out yet for data?
+You can search on it, you can index it, you can stream it and process it in
+real time…
+
+   We think there are lots of opportunities for more vertical applications
+   in different industries that are very specific. Things that can process
+   images, tools that can process data… There are lots of different areas
+   where there aren’t tools today. Not to mention verticals like insurance
+   and banking and so on. Some people see commercial offerings and some
+   people see open source offerings. I think right now what people are
+   seeing are more the lower-level tools that can be plugged. I think more
+   and more, higher and higher upper stack will see open-source
+   implementations commoditizing the value of the stack. That’s an ongoing
+   process.
+
+   WP_Hadoop_carto_3D
+
+
+   Want to know more about Hadoop and the Hadoop ecosystem? Have a look at
+   our Hadoop map (English version)!
+
+   Our Hadoop White Paper and Roadmap are also available for free download
+   (French only).
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   This entry was posted in Big Data, News.
+
+Recent Posts
+
+     * Seven shades of Git
+     * Accelerating NiFi flows delivery: Part 1
+     * Cache me if you can – 2
+     * Android Material Components: Exploring MaterialShapeDrawable
+     * Comic – Infrastructure as Code (IaC)
+
+Un commentaire sur “A chat with Doug Cutting about Hadoop”
+
+     Nick
+   08/01/2018 à 09:59
+   Link to Hadoop map is broken :(
+
+Leave a Reply Cancel reply
+
+   Your email address will not be published. Required fields are marked *
+
+   Comment
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   [ ] Me notifier par mail en cas de nouveaux commentaires
+
+   Name * ______________________________
+
+   Email * ______________________________
+
+   Website ______________________________
+   (BUTTON) Leave a comment
+   This form is protected by Google Recaptcha
+
+   ____________________ (BUTTON)
+
+   Search
+
+   Incubated startups at OCTO
+   Appaloosa, your company App Store
+
+   Appaloosa, your company App Store
+   www.laduckconf.com www.laduckconf.com
+
+   Our white papers :
+   Culture DevOps 2 Culture DevOps 2 Guide de survie dans la jungle
+   technologique Culture Code Culture Code Software Craftsmanship : Better
+   places with better code Roadmap Produit Roadmap Produit Et si elle
+   devenait une direction plutôt qu’un plan établi ?
+
+     * Who we are
+          + Who we are
+          + Locations
+          + Our products
+          + Partners
+          + Investors
+     * What we do
+          + What we do
+          + How we do it
+          + Publications
+          + Events
+          + OCTO Academy
+     * Join us
+          + OCTO is hiring!
+          + Inside OCTO
+          + Our tribes
+     * International
+          + Paris
+          + Rabat
+          + Lausanne
+          + Sydney
+
+   OCTO Technology
+   Part of Accenture Digital
+     * Paris
+     * Rabat
+     * Lausanne
+     * Sydney
+
+
+     * Headquarters:
+     * 34 avenue de l'Opéra,
+     * 75002 Paris,
+     * France
+     * +33 (0)1 58 56 10 00
+
+     * Contact
+     * Legal mentions
+
+   En navigant sur ce site, vous acceptez l’utilisation de cookies ou
+   autres traceurs vous permettant une utilisation optimale du site
+   (partages sur les réseaux sociaux, statistiques de visite,
+   etc.)J'accepte
+   #alternate OCTO Talks ! » Flux OCTO Talks ! » Flux des commentaires
+   OCTO Talks ! » Browser 2.0 : un nouveau browser pour des interactions
+   plus riches Flux des commentaires Maven Community news – Août 2007 WWDC
+   2007 alternate alternate
+
+     * en
+     * pt-br
+
+   OCTO Talks !
+
+   Aller au contenu de la page
+     * Stratégie SI
+     * archi & techno
+     * Méthode
+     * Digitalisation
+     * Big Data
+     * Évènement
+
+Browser 2.0 : un nouveau browser pour des interactions plus riches
+
+   Posté le 04/09/2007 par Andre Nedelcoux
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   Lorsque l’on cherche à classifier les applications et que l’on
+   s’intéresse aux technologies d’interface homme-machine, nous avons
+   désormais pris l’habitude de distinguer deux filières principales : la
+   filière RIA,  » Rich Internet Applications  » et la filière RDA,  »
+   Rich Desktop Applications « . Est-il possible de tirer partie des
+   avantages respectifs de ces deux technologies? Un petit délire sur une
+   solution mixte…
+
+   Dans le premier cas (RIA), le navigateur web est utilisé comme
+   environnement d’exécution des applications, c’est-à-dire comme
+   conteneur pour le code développé en HTML, Javascript et autre CSS.
+   Grâce à des efforts importants de communautés open source et d’éditeur,
+   le niveau d’interaction (de  » richesse « ) proposé par ce type
+   d’applications est en augmentation constante, avec des efforts
+   importants pour se rapprocher du niveau d’ergonomie des applications
+   natives. On peut citer à titre d’exemple le framework ajax  » page bus
+    » de Tibco qui a vocation à proposer une approche événementielle pour
+   les développements Javascript.
+   Dans le second cas (RDA), le navigateur web est utilisé comme moyen
+   d’accès à l’application : un lien sur une page permet de lancer un
+   plugin côté client qui, via le browser, récupère les composants de
+   l’application. Une fois téléchargée, l’application s’exécute de manière
+   autonome, le browser n’étant plus utilisé. Comme exemple concret, il
+   est possible de citer la technologie Java Web Start de Sun qui joue le
+   rôle de lanceur et d’updateur depuis le serveur (si une nouvelle
+   version de l’application est disponible). Dans le monde Eclipse, le
+   browser est même totalement contourné : c’est la plate-forme Eclipse
+   qui se charge de récupérer les nouvelles versions de l’application et
+   qui agit comme un  » browser d’applications RDA « . Il y a ici peu de
+   limites dans le niveau d’ergonomie atteignable, sans les limites
+   imposées par le browser (sécurité, accès au file system, accès à des
+   périphériques…).
+   Il peut être intéressant de réfléchir aux moyens de marier le meilleur
+   de ces deux mondes. Ainsi, on peut imaginer un browser web capable
+   d’offrir une vraie  » infrastructure  » desktop, contenant des
+   applications web qui pourraient désormais interagir fortement avec ce
+   browser, en le modifiant (par exemple par ajout de fenêtre, d’entrées
+   de menus du browser…) ou en communiquant avec lui (par exemple par
+   déclenchement d’un événement qui serait propagé à l’OS ou à une autre
+   application également hébergée dans le browser). Le browser deviendrait
+   un pont entre l’application web et les fonctions offertes par l’OS,
+   puis dans un second temps avec toutes les applications du poste ; il
+   serait capable de gérer le multi-fenêtrage associé à plusieurs
+   applications ouvertes en parallèle, avec toutes les fonctionnalités
+   associées (sauvegarde de l’état du browser et des préférences
+   utilisateur, habilitations…).
+   Que gagnerait-on avec ce browser hybride ? Il serait possible de lever
+   des limites des deux filières classiques puisque l’on aurait une
+   infrastructure totalement ouverte vers le poste local, qui permettrait
+   aussi une ouverture sur le web. Il serait possible de proposer le même
+   niveau d’interactivité que les applications locales sans avoir besoin
+   de réinventer toute une ergonomie dans le cadre contraint du browser
+   habituel. D’un point de vue performances et fluidité des applications,
+   un gain substantiel pourrait être envisagé puisque le browser
+   permettrait d’utiliser des composants performants de l’OS, dont
+   l’imitation en RIA donne parfois lieu à des implémentations poussives.
+   Fermez les yeux deux secondes et imaginez un peu :
+     * L’utilisateur lance son browser  » new generation  » et saisit
+       l’URL d’une application
+     * Lors de son lancement, l’application  » déclare  » au browser
+       qu’elle a besoin des 3 onglets supplémentaires (positionnés en haut
+       à gauche pour 2 d’entre eux et en bas pour le dernier afin de
+       constituer une barre de messages pour l’utilisateur) ainsi que d’un
+       composant  » browser  » chargé de piloter MS Word
+     * Durant l’exécution, l’application va pousser des informations dans
+       chacun des 3 onglets, lancer MS Word pour lui injecter un document
+       type rempli de données issues de l’application, que l’utilisateur
+       modifie (dans MS Word !) et re-soumet à l’application
+     * Parce qu’il a besoin de faire une recherche sur le web,
+       l’utilisateur lance Google : il lui suffit de lancer la page web
+       dans un onglet. Pour une application web classique, la plate-forme
+       est un simple browser 1.0 et il héberge l’application de manière
+       transparente.
+
+   Dans une utilisation  » totale « , le browser deviendrait une
+   plate-forme RDA capable d’héberger des applications web. Dans une
+   utilisation  » basique « , on aurait un simple browser web. L’avantage
+   est… qu’il est possible de faire les deux au sein d’une même
+   plate-forme, selon le type d’application ! Par ailleurs, l’accès aux
+   ressources et aux composants IHM natifs de l’OS serait possible via ce
+   browser.
+   Alors, vous êtes partants ? Comment pourrait-on implémenter avec les
+   technologies d’aujourd’hui cette nouvelle filière de browser ?
+   Première solution : en s’appuyant sur un browser qui offre déjà un
+   modèle de framework de programmation d’IHM, à savoir FireFox avec son
+   framework XUL. Notre application web pourrait être développée de
+   manière  » classique  » (Javascript + HTML + CSS + tiers serveur en
+   langage de votre choix) et envoyer des instructions XUL au browser
+   (avec un mécanisme à trouver J) pour que celui-ci se déforme et ajoute
+   des morceaux d’IHM  » réellement riches  » (= en technologie de l’OS).
+   Deuxième solution : en s’appuyant sur une solution RDA capable de
+   piloter un browser, à savoir Eclipse RCP par exemple. Dans ce modèle,
+   l’application web classique remonte des instructions à la plate-forme
+   qui se déforme également ; ce mécanisme est ici possible du fait de la
+   capacité d’Eclipse RCP à intégrer (via un composant ActiveX) un browser
+   web et à communiquer avec lui via ce  » pont  » ActiveX. Autre avantage
+   : il est également possible de déployer dans ce browser de vraies
+   applications RDA, développées dans la technologie Eclipse.
+   De nombreux enjeux restent à adresser pour parvenir à développer ce
+   type d’applications :
+     * Comment développer une application  » cross browser  » ? Pour
+       l’être vraiment, elles n’exploiteraient pas les nouvelles
+       fonctionnalités offertes par ce browser de nouvelle génération et
+       seraient alors de  » simples applications internet riches « …
+     * Faut-il introduire une nouvelle technologie, c’est-à-dire encore un
+       autre browser en plus du nombre déjà important ? Comment
+       capitaliser sur le très large parc installé d’IE?
+     * Quel langage de programmation pour l’API du browser ? Quel
+       protocole derrière cette API, c’est-à-dire quelle structure de
+       message et d’échange de message entre les applications et le
+       browser hybride ?
+     * Comment gérer les problématiques de sécurité de ce nouveau browser
+       qui permet à une application web d’interagir fortement avec l’OS ?
+     * Enfin, la complexité introduite en vaut-elle la chandelle ? On peut
+       imaginer que développer une telle application pour un développeur
+       peu expérimenté risque d’être assez complexe, vu le mélange de
+       technologies.
+
+   … mais on peut toujours rêver :o). Il y a quelques années, on avait des
+   écrans noirs et verts en 32/70.
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   Cet article a été posté dans Brèves de consultants et taggué RIA.
+
+Articles récents
+
+     * Comment conserver les mots de passe de ses utilisateurs en 2019 ?
+     * Amélioration continue : Comment rester dynamique à mesure que
+       l’équipe s’agrandit ?
+     * Culture Innov’ : Quel ROI attendu ?
+     * Ouvrir la boîte noire et comprendre les décisions des algorithmes
+     * Meriem Berkane, CTO : “Le Tech Lead est l’incarnation de nos
+       valeurs et le garant de la vision technique d’OCTO.”
+
+3 commentaires sur “Browser 2.0 : un nouveau browser pour des interactions
+plus riches”
+
+     ben
+   04/09/2007 à 21:24
+
+   Que pense tu de XAML?
+   www.xaml.fr/
+
+     tvi
+   08/09/2007 à 21:42
+
+   La 2ème solution présente l'inconvénient d'utiliser un truc très très
+   propriétaire (ActiveX) entre 2 morceaux très ouverts (java avec Eclipse
+   RCP et HTML/CSS), et rend le conteneur dépendant du browser puisqu'il
+   n'y a pas d'interface COM unique (qu'implémenteraient IE, Mozilla,
+   etc.).
+   Ca va bien pour des applis intranet en entreprise (j'ai un exemple en
+   tête ;-) mais au-delà... couic.
+
+     Dominique De Vito
+   22/09/2007 à 18:06
+
+   D'après ce que j'ai compris de la voie suivie par Adobe, le navigateur
+   Air (ex-Apollo) est le navigateur hybride envisagé ici, ou en tout cas,
+   en est très proche de part sa capacité à se comporter comme un
+   navigateur normal et sa facilité à pouvoir, par ex, accéder aux
+   ressources de la machine locale. Ce navigateur d'Adobe serait plutôt du
+   premier type détaillé plus haut.
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   [ ] Me notifier par mail en cas de nouveaux commentaires
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+   (BUTTON) Laisser un commentaire
+   Ce formulaire est protégé par Google Recaptcha
+
+   ____________________ (BUTTON)
+
+   Chercher
+
+   Les start-ups incubées chez OCTO :
+   Appaloosa, App Store d’entreprise
+
+   Les prochaines formations :
+    1. [R]évolution Blockchain
+    2. Théorie U
+    3. AWS : Notions techniques Amazon Web Services de base
+    4. Administrer la plateforme Hadoop 2.X Hortonworks : fondamentaux
+    5. Qualité des développements avec Test Driven Development
+
+   Appaloosa, App Store d’entreprise
+
+   Suivez l’aventure sur leur blog
+   www.laduckconf.com www.laduckconf.com
+
+   Nos livres blancs :
+   Culture DevOps 2 Culture DevOps 2 Guide de survie dans la jungle
+   technologique Culture Code Culture Code Software Craftsmanship : Better
+   places with better code Roadmap Produit Roadmap Produit Et si elle
+   devenait une direction plutôt qu’un plan établi ?
+
+     * Nous connaître
+          + Pourquoi OCTO ?
+          + Où trouver OCTO ?
+          + Nos produits
+          + Nos partenaires
+          + Investisseurs
+     * Notre mission
+          + Ce que nous faisons
+          + Comment nous le faisons
+          + Publications
+          + Évènements
+          + OCTO Academy
+     * Nous rejoindre
+          + OCTO Recrute !
+          + Découvrez OCTO de l'intérieur
+          + Nos tribus
+     * International
+          + Paris
+          + Rabat
+          + Lausanne
+          + Sydney
+
+   OCTO Technology
+   Part of Accenture Digital
+     * Paris
+     * Rabat
+     * Lausanne
+     * Sydney
+
+
+     * Siège:
+     * 34 avenue de l'Opéra,
+     * 75002 Paris,
+     * France
+     * +33 (0)1 58 56 10 00
+
+     * Contact
+     * Mentions legales
+
+   En navigant sur ce site, vous acceptez l’utilisation de cookies ou
+   autres traceurs vous permettant une utilisation optimale du site
+   (partages sur les réseaux sociaux, statistiques de visite,
+   etc.)J'accepte
+   #alternate OCTO Talks ! » Flux OCTO Talks ! » Flux des commentaires
+   OCTO Talks ! » Règles de qualité de code Flux des commentaires
+   alternate alternate
+
+     * en
+     * pt-br
+
+   OCTO Talks !
+
+   Aller au contenu de la page
+     * Stratégie SI
+     * archi & techno
+     * Méthode
+     * Digitalisation
+     * Big Data
+     * Évènement
+
+Règles de qualité de code
+
+   Posté le 21/06/2011 par Maxime ARNSTAMM
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   Règles de qualité de code Sonar .NET
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   Cet article a été posté dans .
+
+Articles récents
+
+     * Comment conserver les mots de passe de ses utilisateurs en 2019 ?
+     * Amélioration continue : Comment rester dynamique à mesure que
+       l’équipe s’agrandit ?
+     * Culture Innov’ : Quel ROI attendu ?
+     * Ouvrir la boîte noire et comprendre les décisions des algorithmes
+     * Meriem Berkane, CTO : “Le Tech Lead est l’incarnation de nos
+       valeurs et le garant de la vision technique d’OCTO.”
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   [ ] Me notifier par mail en cas de nouveaux commentaires
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+   (BUTTON) Laisser un commentaire
+   Ce formulaire est protégé par Google Recaptcha
+   ____________________ (BUTTON)
+
+   Chercher
+
+   Les start-ups incubées chez OCTO :
+   Appaloosa, App Store d’entreprise
+
+   Les prochaines formations :
+    1. [R]évolution Blockchain
+    2. Théorie U
+    3. AWS : Notions techniques Amazon Web Services de base
+    4. Administrer la plateforme Hadoop 2.X Hortonworks : fondamentaux
+    5. Qualité des développements avec Test Driven Development
+
+   Appaloosa, App Store d’entreprise
+
+   Suivez l’aventure sur leur blog
+   www.laduckconf.com www.laduckconf.com
+
+   Nos livres blancs :
+   Culture DevOps 2 Culture DevOps 2 Guide de survie dans la jungle
+   technologique Culture Code Culture Code Software Craftsmanship : Better
+   places with better code Roadmap Produit Roadmap Produit Et si elle
+   devenait une direction plutôt qu’un plan établi ?
+
+     * Nous connaître
+          + Pourquoi OCTO ?
+          + Où trouver OCTO ?
+          + Nos produits
+          + Nos partenaires
+          + Investisseurs
+     * Notre mission
+          + Ce que nous faisons
+          + Comment nous le faisons
+          + Publications
+          + Évènements
+          + OCTO Academy
+     * Nous rejoindre
+          + OCTO Recrute !
+          + Découvrez OCTO de l'intérieur
+          + Nos tribus
+     * International
+          + Paris
+          + Rabat
+          + Lausanne
+          + Sydney
+
+   OCTO Technology
+   Part of Accenture Digital
+     * Paris
+     * Rabat
+     * Lausanne
+     * Sydney
+
+
+     * Siège:
+     * 34 avenue de l'Opéra,
+     * 75002 Paris,
+     * France
+     * +33 (0)1 58 56 10 00
+
+     * Contact
+     * Mentions legales
+
+   En navigant sur ce site, vous acceptez l’utilisation de cookies ou
+   autres traceurs vous permettant une utilisation optimale du site
+   (partages sur les réseaux sociaux, statistiques de visite,
+   etc.)J'accepte
+   #alternate alternate alternate OCTO Talks ! » Flux OCTO Talks ! » Flux
+   des commentaires OCTO Talks ! » query Flux des commentaires alternate
+   alternate
+
+     * en
+     * pt-br
+
+   OCTO Talks !
+
+   Aller au contenu de la page
+     * Stratégie SI
+     * archi & techno
+     * Méthode
+     * Digitalisation
+     * Big Data
+     * Évènement
+
+query
+
+   Posté le 20/02/2019 par Joy Boswell
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+     * Tweet
+     * Share 0
+     * +1
+     * LinkedIn 0
+
+   Cet article a été posté dans .
+
+Articles récents
+
+     * Comment conserver les mots de passe de ses utilisateurs en 2019 ?
+     * Amélioration continue : Comment rester dynamique à mesure que
+       l’équipe s’agrandit ?
+     * Culture Innov’ : Quel ROI attendu ?
+     * Ouvrir la boîte noire et comprendre les décisions des algorithmes
+     * Meriem Berkane, CTO : “Le Tech Lead est l’incarnation de nos
+       valeurs et le garant de la vision technique d’OCTO.”
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse de messagerie ne sera pas publiée. Les champs
+   obligatoires sont indiqués avec *
+
+   Commentaire
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   [ ] Me notifier par mail en cas de nouveaux commentaires
+
+   Nom * ______________________________
+
+   Adresse de messagerie * ______________________________
+
+   Site web ______________________________
+   (BUTTON) Laisser un commentaire
+   Ce formulaire est protégé par Google Recaptcha
+   ____________________ (BUTTON)
+
+   Chercher
+
+   Les start-ups incubées chez OCTO :
+   Appaloosa, App Store d’entreprise
+
+   Les prochaines formations :
+    1. [R]évolution Blockchain
+    2. Théorie U
+    3. AWS : Notions techniques Amazon Web Services de base
+    4. Administrer la plateforme Hadoop 2.X Hortonworks : fondamentaux
+    5. Qualité des développements avec Test Driven Development
+
+   Appaloosa, App Store d’entreprise
+
+   Suivez l’aventure sur leur blog
+   www.laduckconf.com www.laduckconf.com
+
+   Nos livres blancs :
+   Culture DevOps 2 Culture DevOps 2 Guide de survie dans la jungle
+   technologique Culture Code Culture Code Software Craftsmanship : Better
+   places with better code Roadmap Produit Roadmap Produit Et si elle
+   devenait une direction plutôt qu’un plan établi ?
+
+     * Nous connaître
+          + Pourquoi OCTO ?
+          + Où trouver OCTO ?
+          + Nos produits
+          + Nos partenaires
+          + Investisseurs
+     * Notre mission
+          + Ce que nous faisons
+          + Comment nous le faisons
+          + Publications
+          + Évènements
+          + OCTO Academy
+     * Nous rejoindre
+          + OCTO Recrute !
+          + Découvrez OCTO de l'intérieur
+          + Nos tribus
+     * International
+          + Paris
+          + Rabat
+          + Lausanne
+          + Sydney
+
+   OCTO Technology
+   Part of Accenture Digital
+     * Paris
+     * Rabat
+     * Lausanne
+     * Sydney
+
+
+     * Siège:
+     * 34 avenue de l'Opéra,
+     * 75002 Paris,
+     * France
+     * +33 (0)1 58 56 10 00
+
+     * Contact
+     * Mentions legales
+
+   En navigant sur ce site, vous acceptez l’utilisation de cookies ou
+   autres traceurs vous permettant une utilisation optimale du site
+   (partages sur les réseaux sociaux, statistiques de visite,
+   etc.)J'accepte

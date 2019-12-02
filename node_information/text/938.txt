@@ -1,0 +1,1172 @@
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > hep-ex > arXiv:1909.06048
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   hep-ex
+   < prev  |  next >
+   new | recent | 1909
+
+Change to browse by:
+
+   astro-ph
+   astro-ph.CO
+   nucl-ex
+   physics
+   physics.ins-det
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+High Energy Physics - Experiment
+
+Title:An improved upper limit on the neutrino mass from a direct kinematic
+method by KATRIN
+
+   Authors:M. Aker, K. Altenmüller, M. Arenz, M. Babutzka, J. Barrett, S.
+   Bauer, M. Beck, A. Beglarian, J. Behrens, T. Bergmann, U. Besserer, K.
+   Blaum, F. Block, S. Bobien, K. Bokeloh (nee Hugenberg), J. Bonn, B.
+   Bornschein, L. Bornschein, H. Bouquet, T. Brunst, T. S. Caldwell, L. La
+   Cascio, S. Chilingaryan, W. Choi, T. J. Corona, K. Debowski, M.
+   Deffert, M. Descher, P. J. Doe, O. Dragoun, G. Drexlin, J. A. Dunmore,
+   S. Dyba, F. Edzards, L. Eisenblätter, K. Eitel, E. Ellinger, R. Engel,
+   S. Enomoto, M. Erhard, D. Eversheim, M. Fedkevych, A. Felden, S.
+   Fischer, B. Flatt, J. A. Formaggio, F. M. Fränkle, G. B. Franklin, H.
+   Frankrone, F. Friedel, D. Fuchs, A. Fulst, D. Furse, K. Gauda, H.
+   Gemmeke, W. Gil, F. Glück, S. Görhardt, S. Groh, S. Grohmann, R.
+   Grössle, R. Gumbsheimer, M. Ha Minh, M. Hackenjos, V. Hannen, F. Harms,
+   J. Hartmann, N. Haußmann, F. Heizmann, K. Helbing, S. Hickford, D.
+   Hilk, B. Hillen, D. Hillesheimer, D. Hinz, T. Höhn, B. Holzapfel, S.
+   Holzmann, T. Houdy, M. A. Howe, A. Huber, A. Jansen, A. Kaboth, C.
+   Karl, O. Kazachenko, J. Kellerer, N. Kernert, L. Kippenbrock, M.
+   Kleesiek (nee Haag), M. Klein, C. Köhler, L. Köllenberger, A. Kopmann,
+   M. Korzeczek, A. Kosmider, A. Kovalí, B. Krasch, M. Kraus, H. Krause,
+   L. Kuckert
+   (nee Neumann), B. Kuffner, N. Kunka, T. Lasserre, T. L. Le, O. Lebeda,
+   M. Leber, B. Lehnert, J. Letnev, F. Leven, S. Lichter, V. M. Lobashev,
+   A. Lokhov, M. Machatschek, E. Malcherek, K. Müller, M. Mark, A.
+   Marsteller, E. L. Martin, C. Melzer, A. Menshikov, S. Mertens, L. I.
+   Minter (nee Bodine), S. Mirz, B. Monreal, P. I. Morales Guzman, K.
+   Müller, U. Naumann, W. Ndeke, H. Neumann, S. Niemes, M. Noe, N. S.
+   Oblath, H.-W. Ortjohann, A. Osipowicz, B. Ostrick, E. Otten, D. S.
+   Parno, D. G. Phillips II, P. Plischke, A. Pollithy, A. W. P. Poon, J.
+   Pouryamout, M. Prall, F. Priester, M. Röllig, C. Röttele, P. C.-O.
+   Ranitzsch, O. Rest, R. Rinderspacher, R. G. H. Robertson, C. Rodenbeck,
+   P. Rohr, Ch. Roll, S. Rupp, M. Rysavy, R. Sack, A. Saenz, P. Schäfer,
+   L. Schimpf, K. Schlösser, M. Schlösser, L. Schlüter, H. Schön, K.
+   Schönung, M. Schrank, B. Schulz, J. Schwarz, H. Seitz-Moskaliuk, W.
+   Seller, V. Sibille, D. Siegmann, A. Skasyrskaya, M. Slezak, A. Spalek,
+   F. Spanier, M. Steidl, N. Steinbrink, M. Sturm, M. Suesser, M. Sun, D.
+   Tcherniakhovski, H. H. Telle, T. Thümmler, L. A. Thorne, N. Titov, I.
+   Tkachev, N. Trost, K. Urban, D. Venos, K. Valerius, B. A. VanDevender,
+   R. Vianden, A. P. Vizcaya Hernandez, B. L. Wall, S. Wüstling, M. Weber,
+   C. Weinheimer, C. Weiss, S. Welte, J. Wendel, K. J. Wierman, J. F.
+   Wilkerson, J. Wolf, W. Xu, Y.-R. Yen, M. Zacher, S. Zadorozhny, M.
+   Zboril, G. Zeller (KATRIN Collaboration)
+   et al. (109 additional authors not shown)  You must enable JavaScript
+   to view entire author list.
+   (Submitted on 13 Sep 2019)
+
+     Abstract: We report on the neutrino mass measurement result from the
+     first four-week science run of the Karlsruhe Tritium Neutrino
+     experiment KATRIN in spring 2019. Beta-decay electrons from a
+     high-purity gaseous molecular tritium source are energy analyzed by
+     a high-resolution MAC-E filter. A fit of the integrated electron
+     spectrum over a narrow interval around the kinematic endpoint at
+     18.57 keV gives an effective neutrino mass square value of
+     $(-1.0^{+0.9}_{-1.1})$ eV$^2$. From this we derive an upper limit of
+     1.1 eV (90$\%$ confidence level) on the absolute mass scale of
+     neutrinos. This value coincides with the KATRIN sensitivity. It
+     improves upon previous mass limits from kinematic measurements by
+     almost a factor of two and provides model-independent input to
+     cosmological studies of structure formation.
+
+   Subjects: High Energy Physics - Experiment (hep-ex); Cosmology and
+   Nongalactic Astrophysics (astro-ph.CO); Nuclear Experiment (nucl-ex);
+   Instrumentation and Detectors (physics.ins-det)
+   Cite as: arXiv:1909.06048 [hep-ex]
+     (or arXiv:1909.06048v1 [hep-ex] for this version)
+
+Submission history
+
+   From: Christian Weinheimer [view email]
+   [v1] Fri, 13 Sep 2019 06:00:56 UTC (422 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > astro-ph > arXiv:1811.02578
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   astro-ph.CO
+   < prev  |  next >
+   new | recent | 1811
+
+Change to browse by:
+
+   astro-ph
+   hep-ex
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+1 blog link
+
+   (what is this?)
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+Astrophysics > Cosmology and Nongalactic Astrophysics
+
+Title:Upper Bound of Neutrino Masses from Combined Cosmological Observations
+and Particle Physics Experiments
+
+   Authors:Arthur Loureiro, Andrei Cuceu, Filipe B. Abdalla, Bruno Moraes,
+   Lorne Whiteway, Michael McLeod, Sreekumar T. Balan, Ofer Lahav,
+   Aurélien Benoit-Lévy, Marc Manera, Richard P. Rollins, Henrique S.
+   Xavier
+   (Submitted on 6 Nov 2018 (v1), last revised 27 Aug 2019 (this version,
+   v2))
+
+     Abstract: We investigate the impact of prior models on the upper
+     bound of the sum of neutrino masses, $\sum m_{\nu}$. We use data
+     from Large Scale Structure of galaxies, Cosmic Microwave Background,
+     Type Ia SuperNovae, and Big Bang Nucleosynthesis. We probe
+     physically motivated neutrino mass models (respecting oscillation
+     experiment constraints) and compare them to constraints using
+     standard cosmological approximations. The former give a consistent
+     upper bound of $\sum m_{\nu} \lesssim 0.26$ eV ($95\%$ CI) and
+     yields a strong competitive upper bound for the lightest neutrino
+     mass species, $m_0^{\nu} < 0.086$ eV ($95\%$ CI). By contrast one of
+     the approximations, which is somewhat inconsistent with oscillation
+     experiments, yields an upper bound of $\sum m_{\nu} \lesssim 0.15$
+     eV ($95\%$ CI), which differs substantially from the former upper
+     bound. We, therefore, argue that cosmological neutrino mass and
+     hierarchy determination should be pursued using physically motivated
+     models since approximations might lead to incorrect and nonphysical
+     upper bounds.
+
+   Comments: 5 pages, 2 figures
+   Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO); High
+   Energy Physics - Experiment (hep-ex)
+   Journal reference: Phys. Rev. Lett. 123, 081301 (2019)
+   DOI: 10.1103/PhysRevLett.123.081301
+   Cite as: arXiv:1811.02578 [astro-ph.CO]
+     (or arXiv:1811.02578v2 [astro-ph.CO] for this version)
+
+Submission history
+
+   From: Arthur Loureiro [view email]
+   [v1] Tue, 6 Nov 2018 19:00:05 UTC (2,098 KB)
+   [v2] Tue, 27 Aug 2019 13:26:18 UTC (1,981 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > math > arXiv:1907.04593
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * PostScript
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   math.NT
+   < prev  |  next >
+   new | recent | 1907
+
+Change to browse by:
+
+   math
+   math.CO
+
+References & Citations
+
+     * NASA ADS
+
+2 blog links
+
+   (what is this?)
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+Mathematics > Number Theory
+
+Title:On the Duffin-Schaeffer conjecture
+
+   Authors:Dimitris Koukoulopoulos, James Maynard
+   (Submitted on 10 Jul 2019)
+
+     Abstract: Let $\psi:\mathbb{N}\to\mathbb{R}_{\ge0}$ be an arbitrary
+     function from the positive integers to the non-negative reals.
+     Consider the set $\mathcal{A}$ of real numbers $\alpha$ for which
+     there are infinitely many reduced fractions $a/q$ such that
+     $|\alpha-a/q|\le \psi(q)/q$. If $\sum_{q=1}^\infty
+     \psi(q)\phi(q)/q=\infty$, we show that $\mathcal{A}$ has full
+     Lebesgue measure. This answers a question of Duffin and Schaeffer.
+     As a corollary, we also establish a conjecture due to Catlin
+     regarding non-reduced solutions to the inequality $|\alpha - a/q|\le
+     \psi(q)/q$, giving a refinement of Khinchin's Theorem.
+
+   Comments:    45 pages
+   Subjects:    Number Theory (math.NT); Combinatorics (math.CO)
+   MSC classes: 11J83 (Primary), 05C40 (Secondary)
+   Cite as:     arXiv:1907.04593 [math.NT]
+                (or arXiv:1907.04593v1 [math.NT] for this version)
+
+Submission history
+
+   From: Dimitris Koukoulopoulos [view email]
+   [v1] Wed, 10 Jul 2019 09:44:50 UTC (36 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > gr-qc > arXiv:1806.00648
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   gr-qc
+   < prev  |  next >
+   new | recent | 1806
+
+Change to browse by:
+
+   hep-th
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+General Relativity and Quantum Cosmology
+
+Title:Quantum Transfiguration of Kruskal Black Holes
+
+   Authors:Abhay Ashtekar, Javier Olmedo, Parampreet Singh
+   (Submitted on 2 Jun 2018 (v1), last revised 9 Nov 2018 (this version,
+   v2))
+
+     Abstract: We present a new effective description of macroscopic
+     Kruskal black holes that incorporates corrections due to quantum
+     geometry effects of loop quantum gravity. It encompasses both the
+     `interior' region that contains classical singularities and the
+     `exterior' asymptotic region. Singularities are naturally resolved
+     by the quantum geometry effects of loop quantum gravity, and the
+     resulting quantum extension of the full Kruskal space-time is free
+     of all the known limitations of previous investigations [1-11] of
+     the Schwarzschild interior. We compare and contrast our results with
+     these investigations and also with the expectations based on the
+     AdS/CFT duality [12].
+
+   Comments: 5 pages, 1 figure, minor changes, version to appear in PRL
+   Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy
+   Physics - Theory (hep-th)
+   Journal reference: Phys. Rev. Lett. 121, 241301 (2018)
+   DOI: 10.1103/PhysRevLett.121.241301
+   Cite as: arXiv:1806.00648 [gr-qc]
+     (or arXiv:1806.00648v2 [gr-qc] for this version)
+
+Submission history
+
+   From: Javier Olmedo [view email]
+   [v1] Sat, 2 Jun 2018 15:01:34 UTC (51 KB)
+   [v2] Fri, 9 Nov 2018 20:17:33 UTC (53 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > gr-qc > arXiv:1805.03872
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   gr-qc
+   < prev  |  next >
+   new | recent | 1805
+
+Change to browse by:
+
+   physics
+   physics.hist-ph
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+General Relativity and Quantum Cosmology
+
+Title:Small black/white hole stability and dark matter
+
+   Authors:Carlo Rovelli, Francesca Vidotto
+   (Submitted on 10 May 2018 (v1), last revised 9 Nov 2018 (this version,
+   v2))
+
+     Abstract: We show that the expected lifetime of white holes formed
+     as remnants of evaporated black holes is consistent with their
+     production at reheating. We give a simple quantum description of
+     these objects and argue that a quantum superposition of black and
+     white holes with large interiors is stable, because it is protected
+     by the existence of a minimal eigenvalue of the area, predicted by
+     Loop Quantum Gravity. These two results support the hypothesis that
+     a component of dark matter could be formed by small black hole
+     remnants.
+
+   Comments: 7 pages
+   Subjects: General Relativity and Quantum Cosmology (gr-qc); History and
+   Philosophy of Physics (physics.hist-ph)
+   DOI: 10.3390/universe4110127
+   Cite as: arXiv:1805.03872 [gr-qc]
+     (or arXiv:1805.03872v2 [gr-qc] for this version)
+
+Submission history
+
+   From: Francesca Vidotto [view email]
+   [v1] Thu, 10 May 2018 08:19:32 UTC (500 KB)
+   [v2] Fri, 9 Nov 2018 22:00:10 UTC (501 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > hep-ex > arXiv:1909.06048
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   hep-ex
+   < prev  |  next >
+   new | recent | 1909
+
+Change to browse by:
+
+   astro-ph
+   astro-ph.CO
+   nucl-ex
+   physics
+   physics.ins-det
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+High Energy Physics - Experiment
+
+Title:An improved upper limit on the neutrino mass from a direct kinematic
+method by KATRIN
+
+   Authors:M. Aker, K. Altenmüller, M. Arenz, M. Babutzka, J. Barrett, S.
+   Bauer, M. Beck, A. Beglarian, J. Behrens, T. Bergmann, U. Besserer, K.
+   Blaum, F. Block, S. Bobien, K. Bokeloh (nee Hugenberg), J. Bonn, B.
+   Bornschein, L. Bornschein, H. Bouquet, T. Brunst, T. S. Caldwell, L. La
+   Cascio, S. Chilingaryan, W. Choi, T. J. Corona, K. Debowski, M.
+   Deffert, M. Descher, P. J. Doe, O. Dragoun, G. Drexlin, J. A. Dunmore,
+   S. Dyba, F. Edzards, L. Eisenblätter, K. Eitel, E. Ellinger, R. Engel,
+   S. Enomoto, M. Erhard, D. Eversheim, M. Fedkevych, A. Felden, S.
+   Fischer, B. Flatt, J. A. Formaggio, F. M. Fränkle, G. B. Franklin, H.
+   Frankrone, F. Friedel, D. Fuchs, A. Fulst, D. Furse, K. Gauda, H.
+   Gemmeke, W. Gil, F. Glück, S. Görhardt, S. Groh, S. Grohmann, R.
+   Grössle, R. Gumbsheimer, M. Ha Minh, M. Hackenjos, V. Hannen, F. Harms,
+   J. Hartmann, N. Haußmann, F. Heizmann, K. Helbing, S. Hickford, D.
+   Hilk, B. Hillen, D. Hillesheimer, D. Hinz, T. Höhn, B. Holzapfel, S.
+   Holzmann, T. Houdy, M. A. Howe, A. Huber, A. Jansen, A. Kaboth, C.
+   Karl, O. Kazachenko, J. Kellerer, N. Kernert, L. Kippenbrock, M.
+   Kleesiek (nee Haag), M. Klein, C. Köhler, L. Köllenberger, A. Kopmann,
+   M. Korzeczek, A. Kosmider, A. Kovalí, B. Krasch, M. Kraus, H. Krause,
+   L. Kuckert
+   (nee Neumann), B. Kuffner, N. Kunka, T. Lasserre, T. L. Le, O. Lebeda,
+   M. Leber, B. Lehnert, J. Letnev, F. Leven, S. Lichter, V. M. Lobashev,
+   A. Lokhov, M. Machatschek, E. Malcherek, K. Müller, M. Mark, A.
+   Marsteller, E. L. Martin, C. Melzer, A. Menshikov, S. Mertens, L. I.
+   Minter (nee Bodine), S. Mirz, B. Monreal, P. I. Morales Guzman, K.
+   Müller, U. Naumann, W. Ndeke, H. Neumann, S. Niemes, M. Noe, N. S.
+   Oblath, H.-W. Ortjohann, A. Osipowicz, B. Ostrick, E. Otten, D. S.
+   Parno, D. G. Phillips II, P. Plischke, A. Pollithy, A. W. P. Poon, J.
+   Pouryamout, M. Prall, F. Priester, M. Röllig, C. Röttele, P. C.-O.
+   Ranitzsch, O. Rest, R. Rinderspacher, R. G. H. Robertson, C. Rodenbeck,
+   P. Rohr, Ch. Roll, S. Rupp, M. Rysavy, R. Sack, A. Saenz, P. Schäfer,
+   L. Schimpf, K. Schlösser, M. Schlösser, L. Schlüter, H. Schön, K.
+   Schönung, M. Schrank, B. Schulz, J. Schwarz, H. Seitz-Moskaliuk, W.
+   Seller, V. Sibille, D. Siegmann, A. Skasyrskaya, M. Slezak, A. Spalek,
+   F. Spanier, M. Steidl, N. Steinbrink, M. Sturm, M. Suesser, M. Sun, D.
+   Tcherniakhovski, H. H. Telle, T. Thümmler, L. A. Thorne, N. Titov, I.
+   Tkachev, N. Trost, K. Urban, D. Venos, K. Valerius, B. A. VanDevender,
+   R. Vianden, A. P. Vizcaya Hernandez, B. L. Wall, S. Wüstling, M. Weber,
+   C. Weinheimer, C. Weiss, S. Welte, J. Wendel, K. J. Wierman, J. F.
+   Wilkerson, J. Wolf, W. Xu, Y.-R. Yen, M. Zacher, S. Zadorozhny, M.
+   Zboril, G. Zeller (KATRIN Collaboration)
+   et al. (109 additional authors not shown)  You must enable JavaScript
+   to view entire author list.
+   (Submitted on 13 Sep 2019)
+
+     Abstract: We report on the neutrino mass measurement result from the
+     first four-week science run of the Karlsruhe Tritium Neutrino
+     experiment KATRIN in spring 2019. Beta-decay electrons from a
+     high-purity gaseous molecular tritium source are energy analyzed by
+     a high-resolution MAC-E filter. A fit of the integrated electron
+     spectrum over a narrow interval around the kinematic endpoint at
+     18.57 keV gives an effective neutrino mass square value of
+     $(-1.0^{+0.9}_{-1.1})$ eV$^2$. From this we derive an upper limit of
+     1.1 eV (90$\%$ confidence level) on the absolute mass scale of
+     neutrinos. This value coincides with the KATRIN sensitivity. It
+     improves upon previous mass limits from kinematic measurements by
+     almost a factor of two and provides model-independent input to
+     cosmological studies of structure formation.
+
+   Subjects: High Energy Physics - Experiment (hep-ex); Cosmology and
+   Nongalactic Astrophysics (astro-ph.CO); Nuclear Experiment (nucl-ex);
+   Instrumentation and Detectors (physics.ins-det)
+   Cite as: arXiv:1909.06048 [hep-ex]
+     (or arXiv:1909.06048v1 [hep-ex] for this version)
+
+Submission history
+
+   From: Christian Weinheimer [view email]
+   [v1] Fri, 13 Sep 2019 06:00:56 UTC (422 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > astro-ph > arXiv:1811.02578
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   astro-ph.CO
+   < prev  |  next >
+   new | recent | 1811
+
+Change to browse by:
+
+   astro-ph
+   hep-ex
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+1 blog link
+
+   (what is this?)
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+Astrophysics > Cosmology and Nongalactic Astrophysics
+
+Title:Upper Bound of Neutrino Masses from Combined Cosmological Observations
+and Particle Physics Experiments
+
+   Authors:Arthur Loureiro, Andrei Cuceu, Filipe B. Abdalla, Bruno Moraes,
+   Lorne Whiteway, Michael McLeod, Sreekumar T. Balan, Ofer Lahav,
+   Aurélien Benoit-Lévy, Marc Manera, Richard P. Rollins, Henrique S.
+   Xavier
+   (Submitted on 6 Nov 2018 (v1), last revised 27 Aug 2019 (this version,
+   v2))
+
+     Abstract: We investigate the impact of prior models on the upper
+     bound of the sum of neutrino masses, $\sum m_{\nu}$. We use data
+     from Large Scale Structure of galaxies, Cosmic Microwave Background,
+     Type Ia SuperNovae, and Big Bang Nucleosynthesis. We probe
+     physically motivated neutrino mass models (respecting oscillation
+     experiment constraints) and compare them to constraints using
+     standard cosmological approximations. The former give a consistent
+     upper bound of $\sum m_{\nu} \lesssim 0.26$ eV ($95\%$ CI) and
+     yields a strong competitive upper bound for the lightest neutrino
+     mass species, $m_0^{\nu} < 0.086$ eV ($95\%$ CI). By contrast one of
+     the approximations, which is somewhat inconsistent with oscillation
+     experiments, yields an upper bound of $\sum m_{\nu} \lesssim 0.15$
+     eV ($95\%$ CI), which differs substantially from the former upper
+     bound. We, therefore, argue that cosmological neutrino mass and
+     hierarchy determination should be pursued using physically motivated
+     models since approximations might lead to incorrect and nonphysical
+     upper bounds.
+
+   Comments: 5 pages, 2 figures
+   Subjects: Cosmology and Nongalactic Astrophysics (astro-ph.CO); High
+   Energy Physics - Experiment (hep-ex)
+   Journal reference: Phys. Rev. Lett. 123, 081301 (2019)
+   DOI: 10.1103/PhysRevLett.123.081301
+   Cite as: arXiv:1811.02578 [astro-ph.CO]
+     (or arXiv:1811.02578v2 [astro-ph.CO] for this version)
+
+Submission history
+
+   From: Arthur Loureiro [view email]
+   [v1] Tue, 6 Nov 2018 19:00:05 UTC (2,098 KB)
+   [v2] Tue, 27 Aug 2019 13:26:18 UTC (1,981 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > math > arXiv:1907.04593
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * PostScript
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   math.NT
+   < prev  |  next >
+   new | recent | 1907
+
+Change to browse by:
+
+   math
+   math.CO
+
+References & Citations
+
+     * NASA ADS
+
+2 blog links
+
+   (what is this?)
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+Mathematics > Number Theory
+
+Title:On the Duffin-Schaeffer conjecture
+
+   Authors:Dimitris Koukoulopoulos, James Maynard
+   (Submitted on 10 Jul 2019)
+
+     Abstract: Let $\psi:\mathbb{N}\to\mathbb{R}_{\ge0}$ be an arbitrary
+     function from the positive integers to the non-negative reals.
+     Consider the set $\mathcal{A}$ of real numbers $\alpha$ for which
+     there are infinitely many reduced fractions $a/q$ such that
+     $|\alpha-a/q|\le \psi(q)/q$. If $\sum_{q=1}^\infty
+     \psi(q)\phi(q)/q=\infty$, we show that $\mathcal{A}$ has full
+     Lebesgue measure. This answers a question of Duffin and Schaeffer.
+     As a corollary, we also establish a conjecture due to Catlin
+     regarding non-reduced solutions to the inequality $|\alpha - a/q|\le
+     \psi(q)/q$, giving a refinement of Khinchin's Theorem.
+
+   Comments:    45 pages
+   Subjects:    Number Theory (math.NT); Combinatorics (math.CO)
+   MSC classes: 11J83 (Primary), 05C40 (Secondary)
+   Cite as:     arXiv:1907.04593 [math.NT]
+                (or arXiv:1907.04593v1 [math.NT] for this version)
+
+Submission history
+
+   From: Dimitris Koukoulopoulos [view email]
+   [v1] Wed, 10 Jul 2019 09:44:50 UTC (36 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > gr-qc > arXiv:1806.00648
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   gr-qc
+   < prev  |  next >
+   new | recent | 1806
+
+Change to browse by:
+
+   hep-th
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+General Relativity and Quantum Cosmology
+
+Title:Quantum Transfiguration of Kruskal Black Holes
+
+   Authors:Abhay Ashtekar, Javier Olmedo, Parampreet Singh
+   (Submitted on 2 Jun 2018 (v1), last revised 9 Nov 2018 (this version,
+   v2))
+
+     Abstract: We present a new effective description of macroscopic
+     Kruskal black holes that incorporates corrections due to quantum
+     geometry effects of loop quantum gravity. It encompasses both the
+     `interior' region that contains classical singularities and the
+     `exterior' asymptotic region. Singularities are naturally resolved
+     by the quantum geometry effects of loop quantum gravity, and the
+     resulting quantum extension of the full Kruskal space-time is free
+     of all the known limitations of previous investigations [1-11] of
+     the Schwarzschild interior. We compare and contrast our results with
+     these investigations and also with the expectations based on the
+     AdS/CFT duality [12].
+
+   Comments: 5 pages, 1 figure, minor changes, version to appear in PRL
+   Subjects: General Relativity and Quantum Cosmology (gr-qc); High Energy
+   Physics - Theory (hep-th)
+   Journal reference: Phys. Rev. Lett. 121, 241301 (2018)
+   DOI: 10.1103/PhysRevLett.121.241301
+   Cite as: arXiv:1806.00648 [gr-qc]
+     (or arXiv:1806.00648v2 [gr-qc] for this version)
+
+Submission history
+
+   From: Javier Olmedo [view email]
+   [v1] Sat, 2 Jun 2018 15:01:34 UTC (51 KB)
+   [v2] Fri, 9 Nov 2018 20:17:33 UTC (53 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.
+   [close-slider.png]
+
+Donate to arXiv
+
+   Please join the Simons Foundation and our generous member organizations
+   in supporting arXiv during our giving campaign September 23-27. 100% of
+   your contribution will fund improvements and new initiatives to benefit
+   arXiv's global scientific community.
+   DONATE
+
+   [secure site, no need to create account]
+
+   Cornell University
+   We gratefully acknowledge support from
+   the Simons Foundation and member institutions.
+
+arXiv.org > gr-qc > arXiv:1805.03872
+
+   ____________________
+
+   Help | Advanced Search
+   [All fields________]
+   (BUTTON) Search
+
+   Full-text links:
+
+Download:
+
+     * PDF
+     * Other formats
+
+   (license)
+
+Current browse context:
+
+   gr-qc
+   < prev  |  next >
+   new | recent | 1805
+
+Change to browse by:
+
+   physics
+   physics.hist-ph
+
+References & Citations
+
+     * INSPIRE HEP
+       (refers to | cited by )
+     * NASA ADS
+
+Bookmark
+
+   BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+
+General Relativity and Quantum Cosmology
+
+Title:Small black/white hole stability and dark matter
+
+   Authors:Carlo Rovelli, Francesca Vidotto
+   (Submitted on 10 May 2018 (v1), last revised 9 Nov 2018 (this version,
+   v2))
+
+     Abstract: We show that the expected lifetime of white holes formed
+     as remnants of evaporated black holes is consistent with their
+     production at reheating. We give a simple quantum description of
+     these objects and argue that a quantum superposition of black and
+     white holes with large interiors is stable, because it is protected
+     by the existence of a minimal eigenvalue of the area, predicted by
+     Loop Quantum Gravity. These two results support the hypothesis that
+     a component of dark matter could be formed by small black hole
+     remnants.
+
+   Comments: 7 pages
+   Subjects: General Relativity and Quantum Cosmology (gr-qc); History and
+   Philosophy of Physics (physics.hist-ph)
+   DOI: 10.3390/universe4110127
+   Cite as: arXiv:1805.03872 [gr-qc]
+     (or arXiv:1805.03872v2 [gr-qc] for this version)
+
+Submission history
+
+   From: Francesca Vidotto [view email]
+   [v1] Thu, 10 May 2018 08:19:32 UTC (500 KB)
+   [v2] Fri, 9 Nov 2018 22:00:10 UTC (501 KB)
+   Which authors of this paper are endorsers? | Disable MathJax (What is
+   MathJax?) Browse v0.2.1 released 2019-04-18    (BUTTON) Feedback?
+
+     * About arXiv
+     * Leadership Team
+
+     * Contact Us
+     * Follow us on Twitter
+
+     * Help
+     * Privacy Policy
+
+     * Blog
+     * Subscribe
+
+   arXiv® is a registered trademark of Cornell University.
+
+   If you have a disability and are having trouble accessing information
+   on this website or need materials in an alternate format, contact
+   web-accessibility@cornell.edu for assistance.

@@ -1,0 +1,400 @@
+   MBASTUDIES
+   MBASTUDIES
+     * MBA
+     * Master
+     * PhD
+     * Law
+     * Bachelor
+     * Healthcare
+     * Courses
+     * Online
+
+   Sign In
+   (BUTTON) Create Account
+     * MBA
+     * EMBA
+     * Part Time
+     * 1-year MBA
+     * 1-year EMBA
+     * Global MBA
+     * Online Degrees
+     * Dual Degrees
+     * Executive Courses
+     * Universities
+
+     * MBA
+     * Master
+     * PhD
+     * Law
+     * Bachelor
+     * Healthcare
+     * Courses
+     * Online
+
+   Sign In
+   (BUTTON) Create Account
+     * MBA
+     * EMBA
+     * Part Time
+     * 1-year MBA
+     * 1-year EMBA
+     * Global MBA
+     * Online Degrees
+     * Dual Degrees
+     * Executive Courses
+     * Universities
+
+   (BUTTON) Create Account
+   Sign In
+   ____________________
+   All
+   Fields of Study
+   Locations
+
+Recent Searches
+
+   {{ item.label }} {{ item.name }}
+   {{ getSector(item[key]) }} {{ item[key][0].location }}, {{
+   country.label }},
+
+Most Popular
+
+   Business Studies
+   Management Studies
+   Economic Studies
+   Administration Studies
+   Marketing Studies
+   Tourism and Hospitality
+   {{ country.label }}
+   close
+
+   Browse thousands of graduate degrees from around the world.
+   or
+   (BUTTON) Browse Fields of Study
+
+Fields of Study
+
+   (BUTTON) Edit selected fields
+   (BUTTON) Add Filters
+
+Filters
+
+   Edit Filters
+
+{{ tt('website__program_pages__new_num_programs_found').replace('{num}',
+num_programs) }}
+
+   Sort by:
+     * Popular Latest Title
+     * Popular
+     * Latest
+     * Title
+
+   (BUTTON) Previous (BUTTON) Next
+   No programs meet your search criteria. Please refine your filters.
+
+Study Locations
+
+   We have more than a thousand universities from around the world in our
+   database.
+   Browse Study Locations
+   Browse Study Locations
+
+Business Studies Programs
+
+   MBA and EMBA degrees are graduate academic programs offered by business
+   schools or by business faculties in universities. Business programs are
+   offered at schools around the world and feature a wide range of
+   concentrations. Holding an MBA or an EMBA give students a solid
+   understanding of business, as well as the critical, analytical and
+   strategic thinking skills necessary to hold management and leadership
+   positions.
+
+   Many universities around the world offer MBAs and EMBAs, online, part
+   time as well as on campus. It is common for students to specialize in a
+   field within the business discipline such as International Business,
+   Marketing, Entrepreneurship, Project Management, etc.
+
+   The variety of different Business programs can be overwhelming - don't
+   let it stop you! Start your search by looking at the most popular
+   business degrees and listed below.
+
+GMAT/GMAT Test Prep
+
+   The GMAT is the entrance exam most frequently required for applicants
+   who want to enroll in a graduate business degree program. Preparation
+   is key to achieving a good score on the GMAT. Online GMAT Prep will
+   evaluate your current GMAT level and suggest areas for improvement
+   while providing customized training materials. GMAT Prep will help pave
+   the way to enrolling in an MBA or other advanced business degree
+   program.
+
+1-Year MBA
+
+   One year MBA programs focus on developing skills the students need to
+   succeed in a career with a high level of responsibility,
+   decision-making and problem-solving requirements. Set up to be
+   completed in a twelve month period, this special MBA degree is meant
+   for individuals willing to plan courses around a busy schedule. Find
+   your program among the top universities offering 1 year MBAs.
+
+Dual Degrees
+
+   A Dual Degree allows students to acquire new skills in the business
+   field while learning to master another discipline. Students can tailor
+   their education to of their specific interests and career aspirations.
+   Dual Degree programs may be within the same university, or through a
+   partnership with another university for an international focus.
+
+Most Popular Fields
+
+   (BUTTON) View All
+
+Business Studies
+
+   (BUTTON) Business Administration
+   (BUTTON) International Business
+   (BUTTON) Business Management
+   See All in Business Studies
+
+Management Studies
+
+   (BUTTON) Management
+   (BUTTON) Leadership
+   (BUTTON) International Management
+   See All in Management Studies
+
+Economic Studies
+
+   (BUTTON) Finance
+   (BUTTON) Accounting
+   (BUTTON) Banking
+   See All in Economic Studies
+
+Administration Studies
+
+   (BUTTON) Human Resources
+   (BUTTON) Logistics
+   (BUTTON) Administration
+   See All in Administration Studies
+
+Marketing Studies
+
+   (BUTTON) Marketing
+   (BUTTON) Public Relations
+   (BUTTON) Advertising
+   See All in Marketing Studies
+
+Tourism and Hospitality
+
+   (BUTTON) Hospitality
+   (BUTTON) Tourism
+   (BUTTON) Hotel Management
+   See All in Tourism and Hospitality
+
+Health Care
+
+   (BUTTON) Healthcare Management
+   (BUTTON) Healthcare Administration
+   (BUTTON) International Healthcare
+   See All in Health Care
+
+Technology Studies
+
+   (BUTTON) Information Technology
+   (BUTTON) Information Systems
+   (BUTTON) Technology Management
+   See All in Technology Studies
+
+Sustainability Studies
+
+   (BUTTON) Sustainability
+   (BUTTON) Sustainable Economic Studies
+   (BUTTON) Environmental Studies
+   See All in Sustainability Studies
+
+Energy Studies
+
+   (BUTTON) Energy Management
+   (BUTTON) Energy
+   (BUTTON) Green Studies
+   See All in Energy Studies
+
+Newly Added Programs
+
+   Master of Business Administration in International Busin ...
+   LAB University of Applied Sciences
+   LAB University of Applied Sciences
+   2019-11-05
+   Finland, Lahti + 2 More
+   MBA in Accounting
+   Dallas Baptist University
+   Dallas Baptist University
+   2019-11-04
+   USA, Dallas
+   Executive MBA
+   MID ATLANTIC Business School
+   MID ATLANTIC Business School
+   2019-11-02
+   Spain, Tafira Baja
+   Master of Business Administration
+   Medaille College
+   Medaille College
+   2019-10-30
+   USA, Buffalo, + 1 More
+   Master in Business Administration (MBA - Non-Thesis)
+   Antalya Bilim University
+   Antalya Bilim University
+   2019-10-30
+   Turkey, Antalya
+   Master of Business Administration
+   RMIT Vietnam
+   RMIT Vietnam
+   2019-10-25
+   Vietnam, Ho Chi Minh City, + 1 More
+   MBA - Master in Business Administration
+   MBS College of Crete
+   MBS College of Crete
+   2019-10-23
+   Greece, Heraklion
+   Master of Business Administration (MBA), Economics & Fin ...
+   Bay Atlantic University - Washington, D.C.
+   Bay Atlantic University - Washington, D.C.
+   2019-10-22
+   USA, Washington
+   MBA in Professional Accounting
+   Rutgers Business School - Newark and New Brunswick
+   Rutgers Business School - Newark and New Brunswick
+   2019-10-20
+   USA, Newark + 3 More
+   MBA Program (60 credits)
+   Blekinge Institute of Technology
+   Blekinge Institute of Technology
+   2019-10-18
+   Sweden, Karlskrona + 1 More
+   Master of Business Administration (MBA)
+   University of Arkansas Little Rock
+   University of Arkansas Little Rock
+   2019-10-17
+   USA, Little Rock
+   UofL MBA
+   The College of Business at the University of Louisville
+   The College of Business at the University of Louisville
+   2019-10-14
+   USA, Louisville
+   (BUTTON) (BUTTON)
+
+News and Articles
+
+   View All
+
+   Read about important educational news, career information, and student
+   experiences.
+
+Why Graduate School is the Best Time to Start a Business  arrow_forward
+
+Why Graduate School is the Best Time to Start a Business
+
+   November 15, 2019
+
+   Many students go to business school with entrepreneurial aspirations.
+   But why wait until you graduate to start turning your goals into
+   reality? Graduate school is a great time to start a business! Here’s a
+   closer look at five reasons to launch your startup while working toward
+   your MBA.
+
+   Read more  arrow_forward
+
+Why Students Can Benefit From a Flexible MBA
+
+   October 22, 2019
+
+   MBA students aren’t one-size-fits-all. When it comes to meeting the
+   diverse needs and goals of today’s students, a flexible MBA program can
+   ...
+   Read more arrow_forward
+
+What are the Most Exciting Countries to Study Business in?
+
+   October 1, 2019
+
+   Have you been wondering where in the world you could study business? Do
+   you strive for excellence in all things and want a rigorous program ...
+   Read more arrow_forward
+
+6 Fields of Study for MBA Students
+
+   September 22, 2019
+
+   When we think of MBA studies, we often think of simply business or more
+   obvious areas of specialization, such as accounting, finance, genera...
+   Read more arrow_forward
+
+   MBASTUDIES
+   MBASTUDIES
+
+Browse thousands of graduate degrees from around the world.
+
+   The business world needs leaders with specialized qualifications.
+   MBASTUDIES is the easiest way for the right business students to
+   connect with the right business schools. And as part of the trusted
+   Keystone Academic Solutions family of student-centered websites,
+   MBASTUDIES is your multi-lingual hub for business education, MBAs,
+   EMBAs, and executive training programs around the world. Future
+   business leaders use MBASTUDIES to find the best business degrees.
+   StudentTests
+   Keystone Academic Solutions
+   About Us
+   Contact Us
+   Terms and Conditions
+   Privacy
+   Select Language
+     * English (US)
+          + English (US)
+          + Bahasa Indonesia
+          + Dansk
+          + Deutsch
+          + Eesti
+          + English (Australia)
+          + English (Canada)
+          + English (New Zealand)
+          + English (Nigeria)
+          + English (South Africa)
+          + English (UK)
+          + Español
+          + Español (Argentina)
+          + Español (Columbia)
+          + Español (Mexico)
+          + Français
+          + Italiano
+          + Lietuvos
+          + Magyar
+          + Melayu
+          + Nederlands
+          + Norsk
+          + Polski
+          + Portuguese (Portugal)
+          + Português
+          + Português (Brazil)
+          + Română
+          + Spanish (Spain)
+          + Srpski
+          + Suomi
+          + Svenska
+          + Tiếng Việt
+          + Türk
+          + čeština
+          + ελληνικά
+          + Русский язык
+          + български
+          + український
+          + עִברִית
+          + فارسی
+          + لعربية
+          + हिंदी
+          + ไทย
+          + 中文
+          + 日本語
+          + 한국어
+
+   HT

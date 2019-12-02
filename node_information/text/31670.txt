@@ -1,0 +1,148 @@
+    []
+
+   Wikiwand Logo
+     * Chrome
+     * Firefox
+
+     * Home
+     * Start Page
+     * Random Article
+
+     * About Us
+     * Press
+
+     * Like us on Facebook
+     * Follow us on Twitter
+     * Follow us on Google+
+     * Follow us on LinkedIn
+
+     * Follow Us
+     * Support
+
+Wikipedia Modernized
+
+The world's leading Wikipedia reader
+
+   Download for {{$root.promotionalActivationDesktop.name}}
+   Wikiwand
+   Wikiwand
+
+Wikiwand on mobile
+
+   The fastest way to find answers on the go. Quickly access information
+   on the go using Wikiwand's powerful search and quick facts display,
+   presented in a beautiful award-winning interface.
+
+Wikiwand on desktop
+
+Wikiwand Browser Extension
+
+   An award-winning beautiful interface for Wikipedia. Used by over
+   100,000 people worldwide, Wikiwand overhauls Wikipedia's interface,
+   making it more convenient, powerful and beautiful.
+   Learn More
+   Send yourself a reminder
+   Wikiwand
+   Wikiwand
+     * Beautiful article display
+       with cover photos
+     * Convenient table of
+       contents that follows you
+     * Quick preview when
+       hovering over links
+     * Powerful multi-
+       language search
+     * Color theme, font and
+       layout personalization
+     * Immersive
+       media gallery
+     * Interactive map for
+       browsing articles
+
+     *
+     * Beautiful article display
+       with cover photos
+     * Convenient table of
+       contents that follows you
+     * Quick preview when
+       hovering over links
+     * Powerful multi-
+       language search
+     * Color theme, font and
+       layout personalization
+     * Immersive
+       media gallery
+     * Interactive map for
+       browsing articles
+
+     *
+     * Convenient facts panel
+       for quick reference
+     * The most powerful
+       multi-language search
+     * Quick preview for links
+       without leaving the article
+     * Interactive map for browsing
+       articles around you
+     * In-article text search
+       capability
+     * Immersive photo gallery with
+       filmstrip navigation
+     * Smart table of contents
+       one tap away
+
+   Wikiwand PR Wikiwand PR
+     * Wikiwand PR
+     * Wikiwand PR
+
+     *
+     *
+     *
+     *
+     *
+
+     * {{galleryItem.txt}} Read this article on Wikiwand
+
+Upgrade your Wikipedia experience
+
+     * Chrome
+     * Firefox
+
+     * Home
+     * Start Page
+     * Random Article
+
+     * About Us
+     * Press
+
+     * Follow Us
+     * Support
+
+     * Terms of Service
+     * Privacy Policy
+
+     *
+     *
+     *
+     *
+
+   ____________________
+     * {{result.lang}} {{result.T}}
+
+   No matching articles found
+   Search for articles containing: {{search.query}}
+   [search_ctrl.svg]
+
+Follow Us
+
+Don't forget to rate us
+
+   [search_ctrl.svg] [search_ctrl.svg]
+
+Oh no, there's been an error
+
+   Please help us solve this error by emailing us at support@wikiwand.com
+   Let us know what you've done that caused this error, what browser
+   you're using, and whether you have any special extensions/add-ons
+   installed.
+   Thank you!

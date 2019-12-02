@@ -1,0 +1,5498 @@
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+NOUVEAU PEUGEOT RIFTER - TECHNOLOGIE
+
+   ACCUEIL
+   GAMME
+   DÉCOUVREZ NOS VÉHICULES
+
+   Nouveau Peugeot RIFTER
+
+   TECHNOLOGIE
+
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+
+NOUVEAU PEUGEOT RIFTER
+
+   CONFIGURER
+
+   Des clients ont acheté ce véhicule
+
+   Voir les 80 avis
+
+     * Nouveau Peugeot RIFTER
+     * PRIX & FINITIONS
+     * INFORMATIONS TECHNIQUES
+     * DESIGN
+     * EXPÉRIENCE DE CONDUITE
+     * TECHNOLOGIE
+     * CONFIGURER
+     * OFFRES DU MOMENT
+
+   Nouveau PEUGEOT Rifter, des motorisations innovantes et de nombreuses
+   aides à la conduite pour plus de liberté d’action.
+
+   /image/48/3/peugeot-diesel-2017-008-fr.433483.jpg
+   /image/48/3/peugeot-diesel-2017-008-fr.433483.jpg
+
+MOTEURS NOUVELLE GÉNÉRATION
+
+   Les motorisations innovantes du nouveau PEUGEOT RIFTER conjuguent
+   performances et consommation raisonnée. Les moteurs de nouvelle
+   génération Diesel BlueHDi et essence PureTech vous offrent plus
+   d’agrément pour une expérience inédite.
+
+   Le nouveau ludospace RIFTER peut être équipé du moteur BlueHDi 100
+   BVM5i et du moteur PureTech 110 S&S BVM6i pour une efficience au
+   meilleur niveau.
+
+   Les valeurs de consommation de carburant et d'émissions de CO2
+   indiquées sont conformes à l'homologation NEDC (R (CE) No. 715/2007 and
+   R (CE) No. 692/2008 dans les versions respectivement applicables), qui
+   permet la comparabilité avec les autres véhicules.
+
+   /image/48/2/peugeot-rifter-1802styp056.433482.jpg
+   /image/48/2/peugeot-rifter-1802styp056.433482.jpg
+
+NOUVELLE BOÎTE AUTOMATIQUE EAT8
+
+   Une simple molette pour une conduite plus souple. Avec la nouvelle
+   boîte automatique 8 rapports EAT8i, le passage des vitesses se fait en
+   douceur et en toute autonomie, pour toujours être dans le bon rapport.
+   Enfin grâce aux palettes au volant, vous pouvez changer vos rapports
+   manuellement sans perdre la fonction automatique.
+
+CONSOMMATION DE CARBURANT ET ÉMISSIONS DE CO2
+
+     * Valeurs WLTP(1) : Consommation de carburant de 5,1 à 7,8 en cycle
+       mixte, de 6,0 à 9,9 en vitesse basse, de 4,9 à 7,5 en vitesse
+       moyenne, de 4,4 à 6,7 en vitesse haute et de 5,6 à 8,2 en vitesse
+       très haute WLTP (l/100 km) - Emissions CO2 (mixte) WLTP : de 135 à
+       177 (g/km)
+
+   (1) Les valeurs de consommation de carburant et d'émissions de CO₂
+   indiquées sont conformes à l’homologation WLTP (Règlement UE 2017/948).
+   À partir du 1er septembre 2018, les véhicules neufs sont réceptionnés
+   sur la base de la procédure d'essai harmonisée au niveau mondial pour
+   les véhicules légers (WLTP), qui est une nouvelle procédure d'essai
+   plus réaliste permettant de mesurer la consommation de carburant et les
+   émissions de CO₂. Cette procédure WLTP remplace complètement le nouveau
+   cycle européen de conduite (NEDC), qui était la procédure d'essai
+   utilisée précédemment. Les conditions d'essai étant plus réalistes, la
+   consommation de carburant et les émissions de CO₂ mesurées selon la
+   procédure WLTP sont, dans de nombreux cas, plus élevées que celles
+   mesurées selon la procédure NEDC. Les valeurs de consommation de
+   carburant et d'émissions de CO₂ peuvent varier en fonction des
+   équipements spécifiques, des options et des types de pneumatiques.
+   Veillez à vous rapprocher de votre point de vente pour plus de
+   renseignements. Plus d’informations
+   sur : https://www.peugeot.fr/marque-et-technologie/wltp.html
+
+
+     * Valeurs NEDC(2) : Consommation de carburant de 4,0 à 5,8 en cycle
+       mixte, de 3,7 à 4,9 en extra-urbain et de 4,4 à 7,2 en urbain NEDC
+       (l/100 km) - Emissions de CO2(mixte) NEDC : de 105 à 131 (g/km)
+
+   (2) Les valeurs de consommation de carburant et d'émissions de CO2 sont
+   déterminées sur la base d'une nouvelle règlementation WLTP (Règlement
+   UE 2017/948) et les valeurs obtenues ont été converties en NEDC pour
+   permettre la comparabilité avec les autres véhicules. Veillez à vous
+   rapprocher de votre point de vente pour de plus amples informations.
+   Les valeurs ne tiennent pas compte notamment des conditions d'usage, du
+   style de conduite, des équipements ou des options et peuvent varier en
+   fonction du type de pneumatiques. Pour de plus amples renseignements
+   sur les consommations de carburant et  les émissions de CO2, veuillez
+   consulter le guide pratique intitulé « Consommations conventionnelles
+   de carburant et émissions de CO₂ des véhicules particuliers neufs »
+   disponible gratuitement dans tous les points de vente ou auprès de
+   l’ADEME - Agence de l’Environnement et de la Maîtrise de l’Énergie
+   (Éditions, 2 square Lafayette, BP 406, F-49004 Angers Cedex 01) ou
+   sur http://www.carlabelling.ademe.fr/
+
+UNE CONDUITE FACILE ET SEREINE
+
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+
+   Et se garer devient un jeu d’enfant. Avec les différents systèmes
+   d’aide à la manœuvre du nouveau PEUGEOT RIFTER vous profitez de plus de
+   liberté et de plaisir. Caméra de recul VisioPark 1i, Park Assisti
+   dernière génération et surveillance d’angles mortsi: vous êtes bien
+   équipé en toute circonstance.
+
+   Avec les Systèmes d’aide à la conduite PEUGEOT, le nouveau RIFTER vous
+   facilite la route et vous offre plus de sérénité et de sécurité.
+   Reconnaissance étendue des panneaux et préconisation de limite de
+   vitessei, régulateur de vitesse adaptatif avec fonction Stopi, alerte
+   active de franchissement involontaire de ligne, accès et démarrage
+   mains libres, frein secondaire électrique… Abordez vos trajets avec une
+   aisance rare.
+
+   CONFIGURER
+   CONFIGURER
+   DEMANDEZ UNE OFFRE
+   DEMANDEZ UN ESSAI
+   DÉCOUVREZ NOS VÉHICULES EN STOCK
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+NOUVEAU PEUGEOT RIFTER – EXPÉRIENCE DE CONDUITE
+
+   ACCUEIL
+   GAMME
+   DÉCOUVREZ NOS VÉHICULES
+
+   Nouveau Peugeot RIFTER
+
+   EXPÉRIENCE DE CONDUITE
+
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+
+NOUVEAU PEUGEOT RIFTER
+
+   CONFIGURER
+
+   Des clients ont acheté ce véhicule
+
+   Voir les 80 avis
+
+     * Nouveau Peugeot RIFTER
+     * PRIX & FINITIONS
+     * INFORMATIONS TECHNIQUES
+     * DESIGN
+     * EXPÉRIENCE DE CONDUITE
+     * TECHNOLOGIE
+     * CONFIGURER
+     * OFFRES DU MOMENT
+
+EN ROUTE VERS DE NOUVELLES SENSATIONS
+
+   /image/47/7/peugeot-rifter-2018-200-fr.433477.jpg
+   /image/47/7/peugeot-rifter-2018-200-fr.433477.jpg
+
+   Avec le PEUGEOT i-Cockpit®, découvrez une conduite plus agile et
+   instinctive grâce au volant compact à commandes intégrées et vocales,
+   au combiné tête haute et à l’écran tactile capacitif 8’’i. Le nouveau
+   PEUGEOT RIFTER vous invite à vivre une expérience unique.
+   EN SAVOIR PLUS SUR LE i-COCKCPIT®
+
+NAVIGATION 3D CONNECTÉE
+
+   /image/47/5/peugeot-rifter-1802styp030.433475.jpg
+   /image/47/5/peugeot-rifter-1802styp030.433475.jpg
+
+   L’innovation au cœur de l’habitacle. Avec la navigation 3D connectéei
+   avec commande vocale et les services PEUGEOT Connect SOS et
+   assistancei, vous avez accès à un ensemble de services pour vous
+   faciliter la route. Trafic en temps réeli, disponibilité parking, prix
+   carburant, météo… vous avez une vision complète de votre environnement
+   directement sur l’écran tactile.
+   EN SAVOIR PLUS SUR LA CONNECTIVITÉ
+
+UN MONDE A PORTÉE DE MAIN
+
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+
+   Donnez une place de choix à votre smartphone. Grâce à la fonction
+   Mirror Screeni du nouveau PEUGEOT RIFTER, vous profitez des
+   applications compatibles de votre smartphone sur l’écran tactile du
+   véhicule. Plus besoin de câble, la recharge par inductioni fournit de
+   l’énergie à votre smartphone en toute simplicité.
+   EN SAVOIR PLUS SUR LA TECHNOLOGIE MIRROR SCREEN
+
+COMPORTEMENT ROUTIER
+
+   /image/47/9/peugeot-rifter-2018-104-fr.433479.jpg
+   /image/47/9/peugeot-rifter-2018-104-fr.433479.jpg
+
+   S’imposer partout. Dominez la route, de la plus douce à la plus
+   escarpée. Le nouveau PEUGEOT RIFTER dispose du fameux toucher de route
+   de la marque PEUGEOT ainsi que de liaisons au sol adaptées, un agrément
+   de direction et une rehausse de la garde au sol qui lui confèrent des
+   aptitudes de véhicule tous cheminsi. Enfin, sa position de conduite
+   haute permet de dompter un peu plus la route.
+
+PRÊT POUR L’AVENTURE
+
+   /image/48/0/peugeot-rifter-2018-125-fr.433480.jpg
+   /image/48/0/peugeot-rifter-2018-125-fr.433480.jpg
+
+   Une motricité améliorée pour davantage d’évasion.
+
+   Avec l’Advanced Grip Controli et son antipatinage optimisé, la conduite
+   du nouveau PEUGEOT RIFTER s’adapte à tous vos besoins. Naviguez entre
+   les 5 modes d’adhérence (Standard, Neige, Tout-chemins, Sable, ESP OFF)
+   grâce à la molette située sur la console centrale pour davantage
+   d’évasion. Et pour les plus exigeants, choisissez la version 4 roues
+   motricesi.
+   /image/48/1/peugeot-rifter-2018-113-fr.433481.jpg
+   /image/48/1/peugeot-rifter-2018-113-fr.433481.jpg
+
+   Gardez le contrôle même dans les situations extrêmes. Avec la fonction
+   HADCi de l’Advanced Grip Controli, le nouveau ludospace PEUGEOT RIFTER
+   maintient une vitesse faible dans les fortes pentes. Vous restez
+   concentré sur la direction et vous profitez de plus de sécurité, de
+   confort et de maîtrise.
+
+   CONFIGURER
+   CONFIGURER
+   DEMANDEZ UNE OFFRE
+   DEMANDEZ UN ESSAI
+   DÉCOUVREZ NOS VÉHICULES EN STOCK
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+NOUVEAU PEUGEOT RIFTER - DESIGN
+
+   ACCUEIL
+   GAMME
+   DÉCOUVREZ NOS VÉHICULES
+
+   Nouveau Peugeot RIFTER
+
+   DESIGN
+
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+
+NOUVEAU PEUGEOT RIFTER
+
+   CONFIGURER
+
+   Des clients ont acheté ce véhicule
+
+   Voir les 80 avis
+
+     * Nouveau Peugeot RIFTER
+     * PRIX & FINITIONS
+     * INFORMATIONS TECHNIQUES
+     * DESIGN
+     * EXPÉRIENCE DE CONDUITE
+     * TECHNOLOGIE
+     * CONFIGURER
+     * OFFRES DU MOMENT
+
+UN CHARISME À TOUTE ÉPREUVE
+
+
+   i echec de chargement du média
+
+   /image/46/7/peugeot-rifter-1802styp033.433467.jpg
+   /image/46/7/peugeot-rifter-1802styp033.433467.jpg
+
+UN DESIGN SANS COMPROMIS
+
+   Élégant, robuste, agile et puissant, le nouveau PEUGEOT RIFTER est un
+   symbole de polyvalence. Avec son capot court et haut et sa garde au sol
+   rehaussée, il emprunte avec brio certains codes du SUV. Ses optiques
+   avec signature lumineuse DRL à LEDi et sa calandre verticale soulignent
+   sa silhouette équilibrée, compacte et dynamique.
+
+   /image/45/4/peugeot-rifter-2018-127-fr.433454.jpg
+   /image/45/4/peugeot-rifter-2018-127-fr.433454.jpg
+
+UNE PERSONNALITÉ AFFIRMÉE
+
+   Avec sa silhouette racée et ses lignes soignées, le nouveau  PEUGEOT
+   RIFTER ne passe pas inaperçu. Un sabot gris aluminiumi, des jantes
+   alliage 17' diamantéesi, des barres de toit, des élargisseurs d’aile et
+   protections latérales noirs viennent renforcer le style remarquable du
+   nouveau PEUGEOT RIFTER.
+
+   /image/45/5/peugeot-rifter-1802styp006.433455.jpg
+   /image/45/5/peugeot-rifter-1802styp006.433455.jpg
+
+ARBOREZ LA GRIFFE DU LION
+
+   Bien plus qu’une simple griffe. Avec ses feux arrière ornés de la
+   signature lumineuse à 3 griffes, le nouveau PEUGEOT RIFTER s’affirme
+   comme une nouvelle icône de la marque. Son attelage en option offre
+   encore plus de liberté, tandis que ses 2 portes latérales coulissantes
+   avec accès élargi et vitres descendantesi surteintéesi vous ouvrent les
+   portes d’un intérieur qui n’a décidément rien à cacher.
+
+UN INTÉRIEUR AU DESIGN MODERNE
+
+   /image/45/6/peugeot-rifter-2018-093-fr.433456.jpg
+   /image/45/6/peugeot-rifter-2018-093-fr.433456.jpg
+
+   Un confort incomparable. Installez-vous au volant du nouveau PEUGEOT
+   RIFTER et profitez d’une position de coduite adaptée et de sièges
+   ergonomiques de qualité, qui raviront même les plus grands. Ajoutez à
+   cela un incroyable confort acoustique, et c’est tout l’habitacle qui se
+   transforme en un véritable havre de paix.
+
+MODULARITÉ SIEGES & COFFRE
+
+
+   i echec de chargement du média
+
+   Nouveau PEUGEOT RIFTER s’adapte à toutes vos envíes. Disponible en 5 ou
+   7 places et en deux longueurs (Standard et Long), Nouveau PEUGEOT
+   RIFTER possède une adaptabilité exemplaire. Siège passager avant et
+   banquette arrière en 2/3-1/3i ou 3 sièges individuelsi avec système «
+   Magic Flat »i escamotables dans le plancher, 3^ème rangée avec 2 sièges
+   individuels extractibles… c’est vous qui choisissez sa configuration.
+   Son coffre offre un volume impressionnant de 775 L à 3500 L pour la
+   version Standard et jusqu’à 4000 L pour la version Long 5 places.
+   Enfin, la lunette ouvrantei, le seuil de coffre bas et le plancher
+   plati facilitent le chargement et le déchargement.
+
+     * /image/47/2/peugeot-rifter-2018-133-fr.433472.jpg
+       /image/47/2/peugeot-rifter-2018-133-fr.433472.jpg
+     * /image/47/3/peugeot-rifter-2018-135-fr.433473.jpg
+       /image/47/3/peugeot-rifter-2018-135-fr.433473.jpg
+     * /image/47/4/peugeot-rifter-2018-138-fr.433474.jpg
+       /image/47/4/peugeot-rifter-2018-138-fr.433474.jpg
+     * /image/45/8/peugeot-rifter-2018-167-fr.433458.jpg
+       /image/45/8/peugeot-rifter-2018-167-fr.433458.jpg
+     * /image/45/9/peugeot-rifter-2018-161-fr.433459.jpg
+       /image/45/9/peugeot-rifter-2018-161-fr.433459.jpg
+     * /image/45/7/peugeot-rifter-2018-160-fr.433457.jpg
+       /image/45/7/peugeot-rifter-2018-160-fr.433457.jpg
+
+TOIT ZÉNITH®
+
+   /image/46/8/peugeot-rifter-2018-191-fr.433468.jpg
+   /image/46/8/peugeot-rifter-2018-191-fr.433468.jpg
+   /image/46/9/peugeot-rifter-2018-192-fr.433469.jpg
+   /image/46/9/peugeot-rifter-2018-192-fr.433469.jpg
+   /image/47/0/peugeot-rifter-2018-193-fr.433470.jpg
+   /image/47/0/peugeot-rifter-2018-193-fr.433470.jpg
+   /image/46/0/peugeot-rifter-2018-171-fr.433460.jpg
+   /image/46/0/peugeot-rifter-2018-171-fr.433460.jpg
+   /image/46/1/peugeot-rifter-2018-173-fr.433461.jpg
+   /image/46/1/peugeot-rifter-2018-173-fr.433461.jpg
+   /image/46/2/peugeot-rifter-2018-172-fr.433462.jpg
+   /image/46/2/peugeot-rifter-2018-172-fr.433462.jpg
+
+   Plus qu’un apport de lumière, le Toit Zénith®i avec son velum
+   électrique et son éclairage d’ambiance à LEDi offre de véritables
+   espaces de rangement supplémentaires dans l’arche centrale, le coffre
+   de pavillon ainsi que dans la capucine à l’avant du véhicule.
+
+RANGEMENTS
+
+   /image/46/3/peugeot-rifter-2018-175-fr.433463.jpg
+   /image/46/3/peugeot-rifter-2018-175-fr.433463.jpg
+   /image/47/1/peugeot-rifter-2018-177-fr.433471.jpg
+   /image/47/1/peugeot-rifter-2018-177-fr.433471.jpg
+   /image/46/4/peugeot-rifter-2018-153-fr.433464.jpg
+   /image/46/4/peugeot-rifter-2018-153-fr.433464.jpg
+   /image/46/5/peugeot-rifter-2018-152-fr.433465.jpg
+   /image/46/5/peugeot-rifter-2018-152-fr.433465.jpg
+   /image/46/6/peugeot-rifter-2018-187-fr.433466.jpg
+   /image/46/6/peugeot-rifter-2018-187-fr.433466.jpg
+
+   Ouvrez le champ des possibles en matière de rangement. Panneaux de
+   portes avant et arrière, console centrale, rangements dans plancher en
+   rang 2… Le Nouveau PEUGEOT RIFTER possède un volumei record d’espaces
+   de rangement dans sa catégorie. Toujours plus nombreux, généreux, et
+   accessibles, leur ergonomie est pensée pour recevoir les objets du
+   quotidien.
+
+   CONFIGURER
+   CONFIGURER
+   DEMANDEZ UNE OFFRE
+   DEMANDEZ UN ESSAI
+   DÉCOUVREZ NOS VÉHICULES EN STOCK
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE
+
+   Configurez VOTRE PEUGEOT Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+ESSAI DE LA NOUVELLE 508 GT
+
+   ACCUEIL
+   NEWS
+   ESSAIS
+   NOUVELLE PEUGEOT 508 GT
+
+   508 508
+
+   Nous avons essayé la nouvelle berline du Lion pour confronter son
+   charme aux situations du quotidien. Agrément de conduite, espace à bord
+   : pour en savoir davantage, embarquez avec nous pour un circuit longue
+   distance à travers l’Alsace et l’Eure-et-Loir.
+
+   508 508
+
+   D’emblée, 508 mise sur une toute nouvelle philosophie qui se traduit
+   d’abord par un nouveau design de la face avant, où la calandre
+   verticale incurvée apporte stature et force à l’ensemble. Alors que
+   l’ancien modèle revendiquait une allure consensuelle, nous sommes face
+   à une voiture affirmée, sûre d’elle.
+
+LA BERLINE REFAIT SON ÉPOQUE
+
+   508 508
+
+   Cette nouvelle calandre sculptée est entourée de projecteurs Full LED
+   donnant un tout nouveau regard félin encore jamais vu sur un modèle de
+   série. En effet, la signature visuelle est désormais réalisée à l’aide
+   de crocs longilignes prenant naissance dans le coin du regard, pour
+   terminer au niveau des entrées d’air du bouclier inférieur. En lien
+   entre cette face statutaire et le reste du véhicule, le capot plat de
+   carrossier, typique des véhicules premium, s’orne du logotype 508
+   redessiné dans l’esprit des véhicules des années 70. La nouvelle Lionne
+   écrit une nouvelle page de l’automobile à la Française tout en rendant
+   hommage aux icônes qui l’ont précédé. Elle a tout pour en reprendre le
+   flambeau !
+
+LA NOUVELLE 508 SE LA JOUE COUPÉ DÉCALÉ
+
+   INTÉRIEUR 508 INTÉRIEUR 508
+
+   Dans un mouvement harmonieux digne d’un concept-car, la ligne de toit
+   s’élance depuis le pare-brise, jusqu’au grand hayon mains-libres.
+   Souvent associées à des productions plus exclusives, les portières sans
+   cadre, baignent l’utilisateur dans un environnement haut de gamme très
+   qualitatif. À l’intérieur, l’habitacle s’ancre dans un univers de
+   berline sportive grâce à une ambiance faite de plastiques moussés
+   noirs, et de bois naturellement vieilli habillant la planche de bord.
+   Pour la première fois depuis son lancement, le poste de conduite
+   i-Cockpit équipe une berline de grand gabarit afin de lui donner une
+   conduite plus instinctive et ludique au quotidien. L’autre atout de
+   cette ergonomie repensée est dans le combiné tête haute de 12,3 pouces,
+   associé à un écran tactile HD de 10 pouces placé en partie médiane de
+   la planche de bord. À l’aide des toggle switches, ces touches de piano
+   stylisées, les utilisateurs accèdent facilement aux diverses fonctions
+   de confort, dont les fonctionnalités Mirror Screen ou encore le
+   contrôle sonore Hi-Fi haut de gamme Focal.
+
+A L’AISE GRÂCE AUX AIDES
+
+   508 508
+
+   Notre modèle d’essai est doté du moteur 2.0 litres BlueHDi de 180
+   chevaux, couplé à une boîte automatique à 8 rapports, que l’on commande
+   grâce au joystick futuriste situé sur la console centrale. La boîte
+   automatique EAT8 bénéficie aussi d’un sélecteur de modes de conduite
+   comprenant un mode Sport jouant sur la réactivité des commandes de
+   direction, de frein et d’accélération ; un mode Confort influant sur le
+   contrôle de l’amortissement ; et un mode ECO privilégiant une conduite
+   plus coulée et douce.
+
+   508 508
+
+   Sur les routes sinueuses qui nous mené de notre hôtel avec vue sur les
+   forêts Vosgiennes jusqu’au berceau Alsacien de la 508 construite à
+   Mulhouse, le système gère correctement les montées en régime et les
+   reprises d’accélération en sortie de virage. Le châssis est sécurisant,
+   grâce à la justesse et à la précision de sestrains roulants calibré. Le
+   train avant est précis tandis que l’arrière est verrouillé sur ses
+   appuis. Sur le reste du trajet composé majoritairement de grands axes,
+   nous avons profité du confort de roulement, amplifié par des sièges
+   massant où le mode pattes de chat a été notre paramètre favori. C’est
+   sans oublier le toit ouvrant vitré procurant un sentiment de liberté.
+   Pour le reste, nous avons fait confiance aux multiples aides à la
+   conduite, dont le nouveau système de maintien dans la file, qui, grâce
+   à une caméra située à l’avant, dirige le vaisseau sur la route, tout en
+   veillant à garder un écart constant entre le véhicule qui le précède, à
+   l’aide du régulateur de vitesse adaptatif.
+   EN SAVOIR PLUS SUR LA TECHNOLOGIE
+
+SUR ROUTE, LA PEUGEOT 508 EST REINE
+
+   508 508
+   508 508
+
+   Point d’orgue de notre virée au long cours, la nouvelle Peugeot 508 se
+   complaît parfaitement au cadre royal du Château d’Anet, où nous
+   dressons un compte-rendu de notre périple. La qualité perçue et les
+   sensations de conduite sont sans compromis, ces deux éléments étant en
+   accord avec le typage haut de gamme de la berline-coupé. Garante d’un
+   plaisir de conduite sans limites, 508 GT profite d’un typage dynamique
+   distillé par une excellente base technique obtenue grâce à un châssis
+   optimisé, guidé par une direction à assistance électrique communiquant
+   fidèlement le ressenti de la voiture sur l’asphalte. Volant compact en
+   main, ce toucher de route, faisant la réputation de la Marque, perdure
+   sur le modèle, et s’améliore même grâce à un train arrière multibras
+   associé à une suspension à amortissement variable et piloté. Équilibrée
+   dans ses prestations, elle ravira les nostalgiques de l’époque des
+   Coupé Peugeot tout en répondant aux attentes des grands routiers
+   voulant se sentir sur la route comme dans leur salon.
+
+   © Article et photos Tobias André
+
+CONSOMMATIONS RELEVÉES
+
+   Rejetant 124 grammes de CO2 par kilomètre, et avec un réservoir d’une
+   capacité de 55 litres lui offrant une autonomie de plus de 800
+   kilomètres en moyenne, nous avons relevé ces consommations durant notre
+   essai longue distance : Cycle urbain : 6,9 l/100 km Cycle extra-urbain
+   : 5,8 l/100 km Mixte : 6,1 l/100 km.
+
+   Nous tenons à remercier les équipes du Château d’Anet pour leur aimable
+   accueil au sein de leur cadre somptueux.
+
+EN SAVOIR PLUS SUR LA NOUVELLE 508
+
+508 Berline
+
+   508 Berline
+   DECOUVRIR
+
+   INSCRIVEZ-VOUS À LA NEWSLETTER
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE
+
+   Configurez VOTRE PEUGEOT Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+ESSAI DE LA 308 SW GT
+
+   ACCUEIL
+   NEWS
+   ESSAIS
+   ESSAI DE LA 308 SW GT
+
+La 308 GT SW EAT8 essayée sur les routes automnales
+
+   308 SW 308 SW
+   308 SW 308 SW
+
+   Depuis son lancement en 2013, le best-seller 308 s’est renouvelé :
+   après un lifting inspiré des SUV de la Marque, la Peugeot 308 GT SW
+   s’offre une configuration inédite qui combine une puissante
+   motorisation essence avec une nouvelle boîte automatique 8 rapports.
+
+TRAITEMENT EXTÉRIEUR EXCLUSIF
+
+   308 SW 308 SW
+
+   L’allure de la 308 GT SW renforce les idées de dynamisme et de plaisir
+   de conduite. Ainsi, la face avant est modelée autour de la philosophie
+   GT du modèle. Car le break muscle son jeu grâce à un traitement visuel
+   spécifique que l’on remarque par des damiers animant la calandre. Le
+   côté sécuritaire est suggéré par l’apparition d’un radar dans la partie
+   basse du bouclier : il est lié au fonctionnement des aides à la
+   conduite disponibles sur le modèle. Le reste de la 308 GT SW arbore un
+   style athlétique : les surfaces vitrées sont soulignés d’un bandeau
+   chromé qui rappelle les barres de toit bien intégrées dans la
+   silhouette. Un décor de canules d’échappement suggère l’esprit GT, tout
+   comme les jantes Diamant 18 pouces et le bas de caisse spécifique
+   apportant une touche de dynamisme haut de gamme. La couleur Rouge
+   Ultimate de notre modèle d’essai est semblable à celle de 308 GTi, et
+   contribue à donner du caractère au véhicule. Qu’en est-il sur la route
+   ?
+
+EN PARTANCE SUR LES CHEMINS
+
+   308 SW 308 SW
+   308 SW 308 SW
+
+   C’est dans un splendide cadre de saison que nous avons fait
+   connaissance avec une 308 GT SW aux capacités de chargement
+   appréciables : le coffre est accessible par le biais d’un large seuil
+   sans rebords de 1m06. 610 litres sont disponibles jusqu’à la banquette
+   arrière, que l’on peut facilement passer à 1.660 litres sur un sol
+   parfaitement plat grâce aux boutons Magic Flat.
+   Le confort intérieur est mis en valeur par le traitement novateur de
+   l’agencement, où le Peugeot i-cockpit associe un volant sport cousu au
+   fil rouge, en rappel de la surpiqûre rouge de la planche de bord et de
+   la sellerie Mi-TEP Alcantara. Que l’on soit passager arrière profitant
+   du toit panoramique et d’un espace aux jambes appréciable, conducteur
+   ou co-pilote s’occupant de la musique (synchronisable avec Apple Car
+   Play ou Android Auto), la 308 GT SW offre une prestation de voyage qui
+   nous a charmé tout au long de notre roadtrip empreint de poésie
+   d’automne.
+   EN SAVOIR PLUS SUR L'EXPÉRIENCE DE CONDUITE
+
+L’ESPRIT GT EN PERMANENCE
+
+   308 SW 308 SW
+
+   Badgée de cet insigne portant l’héritage de la tradition sportive de la
+   Marque, la 308 GT se dote de nouveaux paramètres de châssis. Notre
+   essai a combiné les petites routes et des tracés rectilignes qui ont
+   permis de mettre en lumière les qualités du break dans sa version
+   ultime GT. Pour animer la Lionne, le nouveau moteur essence PureTech 4
+   cylindres de 225 chevaux, développant 300 Nm de couple, est combiné à
+   la nouvelle transmission EAT8. Cette association offre un comportement
+   généreux quel que soit la situation grâce à une boîte automatique douce
+   et réactive. Le moteur présente deux tempéraments : un côté résolument
+   sage, et un caractère plus nerveux lorsque les montées en régime sont
+   plus franches. Ce comportement est mis en valeur lorsque l’on
+   sélectionne le mode Sport où la direction et le freinage sont plus
+   incisifs. Un nouveau mode Eco calme le jeu et s’autorise un roulage «
+   en roule libre » lorsque la route est plate et que le moteur n’est pas
+   sollicité.
+
+INSPIRANTE
+
+   308 SW 308 SW
+
+   La force de l’esprit GT est dans un tempérament dynamique rendu
+   possible par un châssis parfaitement calibré qui nous fait oublier le
+   gabarit du break. Lorsque nous cherchons davantage le calme et le
+   confort de roulement, l’insonorisation et la discrétion du moteur
+   s’associent aux aides à la conduite permettant de rouler confiant sur
+   de grandes distances. En effet, l’alerte de franchissement de ligne
+   corrige nos écarts de conduite, tandis que le régulateur de vitesse
+   actif avec fonction Stop & Go dose la vitesse du véhicule en fonction
+   de la circulation, et peut même arrêter la voiture dans les bouchons !
+   Mais la 308 GT SW n’est pas autonome pour autant : sa philosophie GT
+   offre au conducteur l’occasion de se faire plaisir dans un cadre
+   rassurant.
+   DÉCOUVREZ LA TECHNOLOGIE DE LA PEUGEOT 308 SW
+
+BREAK AUTOMNAL
+
+   308 SW 308 SW
+
+   Ce break automnal nous a permis de redécouvrir 308 dans une nouvelle
+   version essence. 308 GT SW est plus efficiente et plus efficace grâce
+   au moteur PureTech de 225 chevaux couplé à la boîte automatique 8
+   rapports. La Sochalienne surprend par ses performances dynamiques au
+   sein d’une structure break. Elle est calibrée avec soin comme une GTi,
+   mais possède une polyvalence plus marquée que la sportive. Elle
+   distille tout de même une expérience de conduite instinctive qui ravira
+   les amateurs du genre.
+
+   © Article et photos Tobias André
+
+CONSOMMATIONS RELEVÉES
+
+   Cycle Urbain : 7,5 l/100 km
+   Cycle Extra-Urbain : 5,5 l/100 km
+   Cycle Mixte : 5,9 l/100 km
+   Émissions de CO² : 133 g/km
+
+   INSCRIVEZ-VOUS À LA NEWSLETTER
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+NOUVEAU PEUGEOT RIFTER - TECHNOLOGIE
+
+   ACCUEIL
+   GAMME
+   DÉCOUVREZ NOS VÉHICULES
+
+   Nouveau Peugeot RIFTER
+
+   TECHNOLOGIE
+
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+
+NOUVEAU PEUGEOT RIFTER
+
+   CONFIGURER
+
+   Des clients ont acheté ce véhicule
+
+   Voir les 80 avis
+
+     * Nouveau Peugeot RIFTER
+     * PRIX & FINITIONS
+     * INFORMATIONS TECHNIQUES
+     * DESIGN
+     * EXPÉRIENCE DE CONDUITE
+     * TECHNOLOGIE
+     * CONFIGURER
+     * OFFRES DU MOMENT
+
+   Nouveau PEUGEOT Rifter, des motorisations innovantes et de nombreuses
+   aides à la conduite pour plus de liberté d’action.
+
+   /image/48/3/peugeot-diesel-2017-008-fr.433483.jpg
+   /image/48/3/peugeot-diesel-2017-008-fr.433483.jpg
+
+MOTEURS NOUVELLE GÉNÉRATION
+
+   Les motorisations innovantes du nouveau PEUGEOT RIFTER conjuguent
+   performances et consommation raisonnée. Les moteurs de nouvelle
+   génération Diesel BlueHDi et essence PureTech vous offrent plus
+   d’agrément pour une expérience inédite.
+
+   Le nouveau ludospace RIFTER peut être équipé du moteur BlueHDi 100
+   BVM5i et du moteur PureTech 110 S&S BVM6i pour une efficience au
+   meilleur niveau.
+
+   Les valeurs de consommation de carburant et d'émissions de CO2
+   indiquées sont conformes à l'homologation NEDC (R (CE) No. 715/2007 and
+   R (CE) No. 692/2008 dans les versions respectivement applicables), qui
+   permet la comparabilité avec les autres véhicules.
+
+   /image/48/2/peugeot-rifter-1802styp056.433482.jpg
+   /image/48/2/peugeot-rifter-1802styp056.433482.jpg
+
+NOUVELLE BOÎTE AUTOMATIQUE EAT8
+
+   Une simple molette pour une conduite plus souple. Avec la nouvelle
+   boîte automatique 8 rapports EAT8i, le passage des vitesses se fait en
+   douceur et en toute autonomie, pour toujours être dans le bon rapport.
+   Enfin grâce aux palettes au volant, vous pouvez changer vos rapports
+   manuellement sans perdre la fonction automatique.
+
+CONSOMMATION DE CARBURANT ET ÉMISSIONS DE CO2
+
+     * Valeurs WLTP(1) : Consommation de carburant de 5,1 à 7,8 en cycle
+       mixte, de 6,0 à 9,9 en vitesse basse, de 4,9 à 7,5 en vitesse
+       moyenne, de 4,4 à 6,7 en vitesse haute et de 5,6 à 8,2 en vitesse
+       très haute WLTP (l/100 km) - Emissions CO2 (mixte) WLTP : de 135 à
+       177 (g/km)
+
+   (1) Les valeurs de consommation de carburant et d'émissions de CO₂
+   indiquées sont conformes à l’homologation WLTP (Règlement UE 2017/948).
+   À partir du 1er septembre 2018, les véhicules neufs sont réceptionnés
+   sur la base de la procédure d'essai harmonisée au niveau mondial pour
+   les véhicules légers (WLTP), qui est une nouvelle procédure d'essai
+   plus réaliste permettant de mesurer la consommation de carburant et les
+   émissions de CO₂. Cette procédure WLTP remplace complètement le nouveau
+   cycle européen de conduite (NEDC), qui était la procédure d'essai
+   utilisée précédemment. Les conditions d'essai étant plus réalistes, la
+   consommation de carburant et les émissions de CO₂ mesurées selon la
+   procédure WLTP sont, dans de nombreux cas, plus élevées que celles
+   mesurées selon la procédure NEDC. Les valeurs de consommation de
+   carburant et d'émissions de CO₂ peuvent varier en fonction des
+   équipements spécifiques, des options et des types de pneumatiques.
+   Veillez à vous rapprocher de votre point de vente pour plus de
+   renseignements. Plus d’informations
+   sur : https://www.peugeot.fr/marque-et-technologie/wltp.html
+
+
+     * Valeurs NEDC(2) : Consommation de carburant de 4,0 à 5,8 en cycle
+       mixte, de 3,7 à 4,9 en extra-urbain et de 4,4 à 7,2 en urbain NEDC
+       (l/100 km) - Emissions de CO2(mixte) NEDC : de 105 à 131 (g/km)
+
+   (2) Les valeurs de consommation de carburant et d'émissions de CO2 sont
+   déterminées sur la base d'une nouvelle règlementation WLTP (Règlement
+   UE 2017/948) et les valeurs obtenues ont été converties en NEDC pour
+   permettre la comparabilité avec les autres véhicules. Veillez à vous
+   rapprocher de votre point de vente pour de plus amples informations.
+   Les valeurs ne tiennent pas compte notamment des conditions d'usage, du
+   style de conduite, des équipements ou des options et peuvent varier en
+   fonction du type de pneumatiques. Pour de plus amples renseignements
+   sur les consommations de carburant et  les émissions de CO2, veuillez
+   consulter le guide pratique intitulé « Consommations conventionnelles
+   de carburant et émissions de CO₂ des véhicules particuliers neufs »
+   disponible gratuitement dans tous les points de vente ou auprès de
+   l’ADEME - Agence de l’Environnement et de la Maîtrise de l’Énergie
+   (Éditions, 2 square Lafayette, BP 406, F-49004 Angers Cedex 01) ou
+   sur http://www.carlabelling.ademe.fr/
+
+UNE CONDUITE FACILE ET SEREINE
+
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/4/peugeot-rifter-2018-188-fr.433484.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+   /image/48/5/peugeot-rifter-2018-111-fr-adas.433485.jpg
+
+   Et se garer devient un jeu d’enfant. Avec les différents systèmes
+   d’aide à la manœuvre du nouveau PEUGEOT RIFTER vous profitez de plus de
+   liberté et de plaisir. Caméra de recul VisioPark 1i, Park Assisti
+   dernière génération et surveillance d’angles mortsi: vous êtes bien
+   équipé en toute circonstance.
+
+   Avec les Systèmes d’aide à la conduite PEUGEOT, le nouveau RIFTER vous
+   facilite la route et vous offre plus de sérénité et de sécurité.
+   Reconnaissance étendue des panneaux et préconisation de limite de
+   vitessei, régulateur de vitesse adaptatif avec fonction Stopi, alerte
+   active de franchissement involontaire de ligne, accès et démarrage
+   mains libres, frein secondaire électrique… Abordez vos trajets avec une
+   aisance rare.
+
+   CONFIGURER
+   CONFIGURER
+   DEMANDEZ UNE OFFRE
+   DEMANDEZ UN ESSAI
+   DÉCOUVREZ NOS VÉHICULES EN STOCK
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+NOUVEAU PEUGEOT RIFTER – EXPÉRIENCE DE CONDUITE
+
+   ACCUEIL
+   GAMME
+   DÉCOUVREZ NOS VÉHICULES
+
+   Nouveau Peugeot RIFTER
+
+   EXPÉRIENCE DE CONDUITE
+
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+
+NOUVEAU PEUGEOT RIFTER
+
+   CONFIGURER
+
+   Des clients ont acheté ce véhicule
+
+   Voir les 80 avis
+
+     * Nouveau Peugeot RIFTER
+     * PRIX & FINITIONS
+     * INFORMATIONS TECHNIQUES
+     * DESIGN
+     * EXPÉRIENCE DE CONDUITE
+     * TECHNOLOGIE
+     * CONFIGURER
+     * OFFRES DU MOMENT
+
+EN ROUTE VERS DE NOUVELLES SENSATIONS
+
+   /image/47/7/peugeot-rifter-2018-200-fr.433477.jpg
+   /image/47/7/peugeot-rifter-2018-200-fr.433477.jpg
+
+   Avec le PEUGEOT i-Cockpit®, découvrez une conduite plus agile et
+   instinctive grâce au volant compact à commandes intégrées et vocales,
+   au combiné tête haute et à l’écran tactile capacitif 8’’i. Le nouveau
+   PEUGEOT RIFTER vous invite à vivre une expérience unique.
+   EN SAVOIR PLUS SUR LE i-COCKCPIT®
+
+NAVIGATION 3D CONNECTÉE
+
+   /image/47/5/peugeot-rifter-1802styp030.433475.jpg
+   /image/47/5/peugeot-rifter-1802styp030.433475.jpg
+
+   L’innovation au cœur de l’habitacle. Avec la navigation 3D connectéei
+   avec commande vocale et les services PEUGEOT Connect SOS et
+   assistancei, vous avez accès à un ensemble de services pour vous
+   faciliter la route. Trafic en temps réeli, disponibilité parking, prix
+   carburant, météo… vous avez une vision complète de votre environnement
+   directement sur l’écran tactile.
+   EN SAVOIR PLUS SUR LA CONNECTIVITÉ
+
+UN MONDE A PORTÉE DE MAIN
+
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/8/peugeot-rifter-2018-189-fr.433478.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+   /image/47/6/peugeot-rifter-2018-176-fr.433476.jpg
+
+   Donnez une place de choix à votre smartphone. Grâce à la fonction
+   Mirror Screeni du nouveau PEUGEOT RIFTER, vous profitez des
+   applications compatibles de votre smartphone sur l’écran tactile du
+   véhicule. Plus besoin de câble, la recharge par inductioni fournit de
+   l’énergie à votre smartphone en toute simplicité.
+   EN SAVOIR PLUS SUR LA TECHNOLOGIE MIRROR SCREEN
+
+COMPORTEMENT ROUTIER
+
+   /image/47/9/peugeot-rifter-2018-104-fr.433479.jpg
+   /image/47/9/peugeot-rifter-2018-104-fr.433479.jpg
+
+   S’imposer partout. Dominez la route, de la plus douce à la plus
+   escarpée. Le nouveau PEUGEOT RIFTER dispose du fameux toucher de route
+   de la marque PEUGEOT ainsi que de liaisons au sol adaptées, un agrément
+   de direction et une rehausse de la garde au sol qui lui confèrent des
+   aptitudes de véhicule tous cheminsi. Enfin, sa position de conduite
+   haute permet de dompter un peu plus la route.
+
+PRÊT POUR L’AVENTURE
+
+   /image/48/0/peugeot-rifter-2018-125-fr.433480.jpg
+   /image/48/0/peugeot-rifter-2018-125-fr.433480.jpg
+
+   Une motricité améliorée pour davantage d’évasion.
+
+   Avec l’Advanced Grip Controli et son antipatinage optimisé, la conduite
+   du nouveau PEUGEOT RIFTER s’adapte à tous vos besoins. Naviguez entre
+   les 5 modes d’adhérence (Standard, Neige, Tout-chemins, Sable, ESP OFF)
+   grâce à la molette située sur la console centrale pour davantage
+   d’évasion. Et pour les plus exigeants, choisissez la version 4 roues
+   motricesi.
+   /image/48/1/peugeot-rifter-2018-113-fr.433481.jpg
+   /image/48/1/peugeot-rifter-2018-113-fr.433481.jpg
+
+   Gardez le contrôle même dans les situations extrêmes. Avec la fonction
+   HADCi de l’Advanced Grip Controli, le nouveau ludospace PEUGEOT RIFTER
+   maintient une vitesse faible dans les fortes pentes. Vous restez
+   concentré sur la direction et vous profitez de plus de sécurité, de
+   confort et de maîtrise.
+
+   CONFIGURER
+   CONFIGURER
+   DEMANDEZ UNE OFFRE
+   DEMANDEZ UN ESSAI
+   DÉCOUVREZ NOS VÉHICULES EN STOCK
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+NOUVEAU PEUGEOT RIFTER - DESIGN
+
+   ACCUEIL
+   GAMME
+   DÉCOUVREZ NOS VÉHICULES
+
+   Nouveau Peugeot RIFTER
+
+   DESIGN
+
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+   /image/44/3/peugeot-rifter-2018-198-fr.433443.jpg
+
+NOUVEAU PEUGEOT RIFTER
+
+   CONFIGURER
+
+   Des clients ont acheté ce véhicule
+
+   Voir les 80 avis
+
+     * Nouveau Peugeot RIFTER
+     * PRIX & FINITIONS
+     * INFORMATIONS TECHNIQUES
+     * DESIGN
+     * EXPÉRIENCE DE CONDUITE
+     * TECHNOLOGIE
+     * CONFIGURER
+     * OFFRES DU MOMENT
+
+UN CHARISME À TOUTE ÉPREUVE
+
+
+   i echec de chargement du média
+
+   /image/46/7/peugeot-rifter-1802styp033.433467.jpg
+   /image/46/7/peugeot-rifter-1802styp033.433467.jpg
+
+UN DESIGN SANS COMPROMIS
+
+   Élégant, robuste, agile et puissant, le nouveau PEUGEOT RIFTER est un
+   symbole de polyvalence. Avec son capot court et haut et sa garde au sol
+   rehaussée, il emprunte avec brio certains codes du SUV. Ses optiques
+   avec signature lumineuse DRL à LEDi et sa calandre verticale soulignent
+   sa silhouette équilibrée, compacte et dynamique.
+
+   /image/45/4/peugeot-rifter-2018-127-fr.433454.jpg
+   /image/45/4/peugeot-rifter-2018-127-fr.433454.jpg
+
+UNE PERSONNALITÉ AFFIRMÉE
+
+   Avec sa silhouette racée et ses lignes soignées, le nouveau  PEUGEOT
+   RIFTER ne passe pas inaperçu. Un sabot gris aluminiumi, des jantes
+   alliage 17' diamantéesi, des barres de toit, des élargisseurs d’aile et
+   protections latérales noirs viennent renforcer le style remarquable du
+   nouveau PEUGEOT RIFTER.
+
+   /image/45/5/peugeot-rifter-1802styp006.433455.jpg
+   /image/45/5/peugeot-rifter-1802styp006.433455.jpg
+
+ARBOREZ LA GRIFFE DU LION
+
+   Bien plus qu’une simple griffe. Avec ses feux arrière ornés de la
+   signature lumineuse à 3 griffes, le nouveau PEUGEOT RIFTER s’affirme
+   comme une nouvelle icône de la marque. Son attelage en option offre
+   encore plus de liberté, tandis que ses 2 portes latérales coulissantes
+   avec accès élargi et vitres descendantesi surteintéesi vous ouvrent les
+   portes d’un intérieur qui n’a décidément rien à cacher.
+
+UN INTÉRIEUR AU DESIGN MODERNE
+
+   /image/45/6/peugeot-rifter-2018-093-fr.433456.jpg
+   /image/45/6/peugeot-rifter-2018-093-fr.433456.jpg
+
+   Un confort incomparable. Installez-vous au volant du nouveau PEUGEOT
+   RIFTER et profitez d’une position de coduite adaptée et de sièges
+   ergonomiques de qualité, qui raviront même les plus grands. Ajoutez à
+   cela un incroyable confort acoustique, et c’est tout l’habitacle qui se
+   transforme en un véritable havre de paix.
+
+MODULARITÉ SIEGES & COFFRE
+
+
+   i echec de chargement du média
+
+   Nouveau PEUGEOT RIFTER s’adapte à toutes vos envíes. Disponible en 5 ou
+   7 places et en deux longueurs (Standard et Long), Nouveau PEUGEOT
+   RIFTER possède une adaptabilité exemplaire. Siège passager avant et
+   banquette arrière en 2/3-1/3i ou 3 sièges individuelsi avec système «
+   Magic Flat »i escamotables dans le plancher, 3^ème rangée avec 2 sièges
+   individuels extractibles… c’est vous qui choisissez sa configuration.
+   Son coffre offre un volume impressionnant de 775 L à 3500 L pour la
+   version Standard et jusqu’à 4000 L pour la version Long 5 places.
+   Enfin, la lunette ouvrantei, le seuil de coffre bas et le plancher
+   plati facilitent le chargement et le déchargement.
+
+     * /image/47/2/peugeot-rifter-2018-133-fr.433472.jpg
+       /image/47/2/peugeot-rifter-2018-133-fr.433472.jpg
+     * /image/47/3/peugeot-rifter-2018-135-fr.433473.jpg
+       /image/47/3/peugeot-rifter-2018-135-fr.433473.jpg
+     * /image/47/4/peugeot-rifter-2018-138-fr.433474.jpg
+       /image/47/4/peugeot-rifter-2018-138-fr.433474.jpg
+     * /image/45/8/peugeot-rifter-2018-167-fr.433458.jpg
+       /image/45/8/peugeot-rifter-2018-167-fr.433458.jpg
+     * /image/45/9/peugeot-rifter-2018-161-fr.433459.jpg
+       /image/45/9/peugeot-rifter-2018-161-fr.433459.jpg
+     * /image/45/7/peugeot-rifter-2018-160-fr.433457.jpg
+       /image/45/7/peugeot-rifter-2018-160-fr.433457.jpg
+
+TOIT ZÉNITH®
+
+   /image/46/8/peugeot-rifter-2018-191-fr.433468.jpg
+   /image/46/8/peugeot-rifter-2018-191-fr.433468.jpg
+   /image/46/9/peugeot-rifter-2018-192-fr.433469.jpg
+   /image/46/9/peugeot-rifter-2018-192-fr.433469.jpg
+   /image/47/0/peugeot-rifter-2018-193-fr.433470.jpg
+   /image/47/0/peugeot-rifter-2018-193-fr.433470.jpg
+   /image/46/0/peugeot-rifter-2018-171-fr.433460.jpg
+   /image/46/0/peugeot-rifter-2018-171-fr.433460.jpg
+   /image/46/1/peugeot-rifter-2018-173-fr.433461.jpg
+   /image/46/1/peugeot-rifter-2018-173-fr.433461.jpg
+   /image/46/2/peugeot-rifter-2018-172-fr.433462.jpg
+   /image/46/2/peugeot-rifter-2018-172-fr.433462.jpg
+
+   Plus qu’un apport de lumière, le Toit Zénith®i avec son velum
+   électrique et son éclairage d’ambiance à LEDi offre de véritables
+   espaces de rangement supplémentaires dans l’arche centrale, le coffre
+   de pavillon ainsi que dans la capucine à l’avant du véhicule.
+
+RANGEMENTS
+
+   /image/46/3/peugeot-rifter-2018-175-fr.433463.jpg
+   /image/46/3/peugeot-rifter-2018-175-fr.433463.jpg
+   /image/47/1/peugeot-rifter-2018-177-fr.433471.jpg
+   /image/47/1/peugeot-rifter-2018-177-fr.433471.jpg
+   /image/46/4/peugeot-rifter-2018-153-fr.433464.jpg
+   /image/46/4/peugeot-rifter-2018-153-fr.433464.jpg
+   /image/46/5/peugeot-rifter-2018-152-fr.433465.jpg
+   /image/46/5/peugeot-rifter-2018-152-fr.433465.jpg
+   /image/46/6/peugeot-rifter-2018-187-fr.433466.jpg
+   /image/46/6/peugeot-rifter-2018-187-fr.433466.jpg
+
+   Ouvrez le champ des possibles en matière de rangement. Panneaux de
+   portes avant et arrière, console centrale, rangements dans plancher en
+   rang 2… Le Nouveau PEUGEOT RIFTER possède un volumei record d’espaces
+   de rangement dans sa catégorie. Toujours plus nombreux, généreux, et
+   accessibles, leur ergonomie est pensée pour recevoir les objets du
+   quotidien.
+
+   CONFIGURER
+   CONFIGURER
+   DEMANDEZ UNE OFFRE
+   DEMANDEZ UN ESSAI
+   DÉCOUVREZ NOS VÉHICULES EN STOCK
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE
+
+   Configurez VOTRE PEUGEOT Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+ESSAI DE LA NOUVELLE 508 GT
+
+   ACCUEIL
+   NEWS
+   ESSAIS
+   NOUVELLE PEUGEOT 508 GT
+
+   508 508
+
+   Nous avons essayé la nouvelle berline du Lion pour confronter son
+   charme aux situations du quotidien. Agrément de conduite, espace à bord
+   : pour en savoir davantage, embarquez avec nous pour un circuit longue
+   distance à travers l’Alsace et l’Eure-et-Loir.
+
+   508 508
+
+   D’emblée, 508 mise sur une toute nouvelle philosophie qui se traduit
+   d’abord par un nouveau design de la face avant, où la calandre
+   verticale incurvée apporte stature et force à l’ensemble. Alors que
+   l’ancien modèle revendiquait une allure consensuelle, nous sommes face
+   à une voiture affirmée, sûre d’elle.
+
+LA BERLINE REFAIT SON ÉPOQUE
+
+   508 508
+
+   Cette nouvelle calandre sculptée est entourée de projecteurs Full LED
+   donnant un tout nouveau regard félin encore jamais vu sur un modèle de
+   série. En effet, la signature visuelle est désormais réalisée à l’aide
+   de crocs longilignes prenant naissance dans le coin du regard, pour
+   terminer au niveau des entrées d’air du bouclier inférieur. En lien
+   entre cette face statutaire et le reste du véhicule, le capot plat de
+   carrossier, typique des véhicules premium, s’orne du logotype 508
+   redessiné dans l’esprit des véhicules des années 70. La nouvelle Lionne
+   écrit une nouvelle page de l’automobile à la Française tout en rendant
+   hommage aux icônes qui l’ont précédé. Elle a tout pour en reprendre le
+   flambeau !
+
+LA NOUVELLE 508 SE LA JOUE COUPÉ DÉCALÉ
+
+   INTÉRIEUR 508 INTÉRIEUR 508
+
+   Dans un mouvement harmonieux digne d’un concept-car, la ligne de toit
+   s’élance depuis le pare-brise, jusqu’au grand hayon mains-libres.
+   Souvent associées à des productions plus exclusives, les portières sans
+   cadre, baignent l’utilisateur dans un environnement haut de gamme très
+   qualitatif. À l’intérieur, l’habitacle s’ancre dans un univers de
+   berline sportive grâce à une ambiance faite de plastiques moussés
+   noirs, et de bois naturellement vieilli habillant la planche de bord.
+   Pour la première fois depuis son lancement, le poste de conduite
+   i-Cockpit équipe une berline de grand gabarit afin de lui donner une
+   conduite plus instinctive et ludique au quotidien. L’autre atout de
+   cette ergonomie repensée est dans le combiné tête haute de 12,3 pouces,
+   associé à un écran tactile HD de 10 pouces placé en partie médiane de
+   la planche de bord. À l’aide des toggle switches, ces touches de piano
+   stylisées, les utilisateurs accèdent facilement aux diverses fonctions
+   de confort, dont les fonctionnalités Mirror Screen ou encore le
+   contrôle sonore Hi-Fi haut de gamme Focal.
+
+A L’AISE GRÂCE AUX AIDES
+
+   508 508
+
+   Notre modèle d’essai est doté du moteur 2.0 litres BlueHDi de 180
+   chevaux, couplé à une boîte automatique à 8 rapports, que l’on commande
+   grâce au joystick futuriste situé sur la console centrale. La boîte
+   automatique EAT8 bénéficie aussi d’un sélecteur de modes de conduite
+   comprenant un mode Sport jouant sur la réactivité des commandes de
+   direction, de frein et d’accélération ; un mode Confort influant sur le
+   contrôle de l’amortissement ; et un mode ECO privilégiant une conduite
+   plus coulée et douce.
+
+   508 508
+
+   Sur les routes sinueuses qui nous mené de notre hôtel avec vue sur les
+   forêts Vosgiennes jusqu’au berceau Alsacien de la 508 construite à
+   Mulhouse, le système gère correctement les montées en régime et les
+   reprises d’accélération en sortie de virage. Le châssis est sécurisant,
+   grâce à la justesse et à la précision de sestrains roulants calibré. Le
+   train avant est précis tandis que l’arrière est verrouillé sur ses
+   appuis. Sur le reste du trajet composé majoritairement de grands axes,
+   nous avons profité du confort de roulement, amplifié par des sièges
+   massant où le mode pattes de chat a été notre paramètre favori. C’est
+   sans oublier le toit ouvrant vitré procurant un sentiment de liberté.
+   Pour le reste, nous avons fait confiance aux multiples aides à la
+   conduite, dont le nouveau système de maintien dans la file, qui, grâce
+   à une caméra située à l’avant, dirige le vaisseau sur la route, tout en
+   veillant à garder un écart constant entre le véhicule qui le précède, à
+   l’aide du régulateur de vitesse adaptatif.
+   EN SAVOIR PLUS SUR LA TECHNOLOGIE
+
+SUR ROUTE, LA PEUGEOT 508 EST REINE
+
+   508 508
+   508 508
+
+   Point d’orgue de notre virée au long cours, la nouvelle Peugeot 508 se
+   complaît parfaitement au cadre royal du Château d’Anet, où nous
+   dressons un compte-rendu de notre périple. La qualité perçue et les
+   sensations de conduite sont sans compromis, ces deux éléments étant en
+   accord avec le typage haut de gamme de la berline-coupé. Garante d’un
+   plaisir de conduite sans limites, 508 GT profite d’un typage dynamique
+   distillé par une excellente base technique obtenue grâce à un châssis
+   optimisé, guidé par une direction à assistance électrique communiquant
+   fidèlement le ressenti de la voiture sur l’asphalte. Volant compact en
+   main, ce toucher de route, faisant la réputation de la Marque, perdure
+   sur le modèle, et s’améliore même grâce à un train arrière multibras
+   associé à une suspension à amortissement variable et piloté. Équilibrée
+   dans ses prestations, elle ravira les nostalgiques de l’époque des
+   Coupé Peugeot tout en répondant aux attentes des grands routiers
+   voulant se sentir sur la route comme dans leur salon.
+
+   © Article et photos Tobias André
+
+CONSOMMATIONS RELEVÉES
+
+   Rejetant 124 grammes de CO2 par kilomètre, et avec un réservoir d’une
+   capacité de 55 litres lui offrant une autonomie de plus de 800
+   kilomètres en moyenne, nous avons relevé ces consommations durant notre
+   essai longue distance : Cycle urbain : 6,9 l/100 km Cycle extra-urbain
+   : 5,8 l/100 km Mixte : 6,1 l/100 km.
+
+   Nous tenons à remercier les équipes du Château d’Anet pour leur aimable
+   accueil au sein de leur cadre somptueux.
+
+EN SAVOIR PLUS SUR LA NOUVELLE 508
+
+508 Berline
+
+   508 Berline
+   DECOUVRIR
+
+   INSCRIVEZ-VOUS À LA NEWSLETTER
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›
+   #alternate
+
+   [javascript] Gérer les cookies*
+
+   PEUGEOT PEUGEOT
+   MENU
+     * GAMME
+        (BUTTON) Fermer
+          +
+               o TOUS NOS VÉHICULES
+               o LES SUV
+               o LES CITADINES
+               o LES FAMILIALES
+               o LES BERLINES
+               o LES SW
+               o LES ÉLECTRIQUES
+               o LES HYBRIDES RECHARGEABLES
+            108
+            108
+            208 208
+            Nouvelle 208
+            Nouvelle 208
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            SUV 3008
+            SUV 3008
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            Traveller
+            Traveller
+            Expert Combi
+            Expert Combi
+            Boxer Combi
+            Boxer Combi
+            iOn
+            iOn
+            Voir tous les véhicules
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            SUV 3008
+            SUV 3008
+            SUV 5008
+            SUV 5008
+            Voir les SUV
+            108
+            108
+            208 208
+            Voir les citadines
+            2008 SUV
+            2008 SUV
+            Nouveau SUV 2008
+            Nouveau SUV 2008
+            308
+            308
+            308 SW
+            308 SW
+            Boxer Combi
+            Boxer Combi
+            Expert Combi
+            Expert Combi
+            SUV 5008
+            SUV 5008
+            Nouveau Rifter
+            Nouveau Rifter
+            508 Berline
+            508 Berline
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            SUV 3008
+            SUV 3008
+            Traveller
+            Traveller
+            Voir les familiales
+            308
+            308
+            508 Berline
+            508 Berline
+            Voir les berlines
+            308 SW
+            308 SW
+            Nouvelle 508 SW
+            Nouvelle 508 SW
+            Voir les SW
+            Nouvelle e-208
+            Nouvelle e-208
+            Nouveau SUV e-2008
+            Nouveau SUV e-2008
+            iOn
+            iOn
+            Voir les électriques
+            SUV 3008 Hybrid
+            SUV 3008 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 Hybrid
+            Nouvelle 508 SW Hybrid
+            Nouvelle 508 SW Hybrid
+            Voir les hybrides
+          + TOUS NOS VÉHICULES
+               o 108 108
+               o 208 208
+               o Nouvelle 208 Nouvelle 208
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o SUV 3008 SUV 3008
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o Traveller Traveller
+               o Expert Combi Expert Combi
+               o Boxer Combi Boxer Combi
+               o iOn iOn
+               o Voir tous les véhicules
+          + LES SUV
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o SUV 3008 SUV 3008
+               o SUV 5008 SUV 5008
+               o Voir les SUV
+          + LES CITADINES
+               o 108 108
+               o 208 208
+               o Voir les citadines
+          + LES FAMILIALES
+               o 2008 SUV 2008 SUV
+               o Nouveau SUV 2008 Nouveau SUV 2008
+               o 308 308
+               o 308 SW 308 SW
+               o Boxer Combi Boxer Combi
+               o Expert Combi Expert Combi
+               o SUV 5008 SUV 5008
+               o Nouveau Rifter Nouveau Rifter
+               o 508 Berline 508 Berline
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o SUV 3008 SUV 3008
+               o Traveller Traveller
+               o Voir les familiales
+          + LES BERLINES
+               o 308 308
+               o 508 Berline 508 Berline
+               o Voir les berlines
+          + LES SW
+               o 308 SW 308 SW
+               o Nouvelle 508 SW Nouvelle 508 SW
+               o Voir les SW
+          + LES ÉLECTRIQUES
+               o Nouvelle e-208 Nouvelle e-208
+               o Nouveau SUV e-2008 Nouveau SUV e-2008
+               o iOn iOn
+               o Voir les électriques
+          + LES HYBRIDES RECHARGEABLES
+               o SUV 3008 Hybrid SUV 3008 Hybrid
+               o Nouvelle 508 Hybrid Nouvelle 508 Hybrid
+               o Nouvelle 508 SW Hybrid Nouvelle 508 SW Hybrid
+               o Voir les hybrides
+     * OFFRES DU MOMENT
+        (BUTTON) Fermer
+          +
+             OFFRES DU MOMENT
+               o PROFITEZ DE NOS OFFRES DU MOMENT
+                    # Véhicules neufs
+                    # Véhicules d'occasion
+                    # Véhicules professionnels
+                    # Offres Après-Vente
+               o DÉCOUVREZ L'UNIVERS PEUGEOT
+                    # Boutique Accessoires
+                    # Boutique Lifestyle
+                    # Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+        (BUTTON) Fermer
+          +
+             FINANCEMENT ET OFFRES DE SERVICES
+               o FINANCEMENTS
+                    # Nos packs tout compris
+                    # LOA
+                    # La location longue durée
+                    # Crédit Classique
+                    # Solutions pour les professionnels
+               o OFFRES DE SERVICES
+                    # Garantie
+                    # Contrats de services
+                    # Assistance
+                    # Assurance
+               o SERVICES CONNECTÉS
+                    # Découvrez la connectivité Peugeot
+                    # Mettez à jour votre cartographie
+                    # Téléservices
+               o JE SOUHAITE
+                    # Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+        (BUTTON) Fermer
+          +
+             PRESTATIONS APRES-VENTE
+               o ENTRETIEN
+                    # Révision annuelle
+                    # Forfaits entretien
+                    # Ma voiture a plus de 3 ans
+                    # Contrats de services
+                    # Téléservices
+               o ACCESSOIRES
+                    # Vidéos et brochures
+                    # Acheter des accessoires en ligne
+               o PIÈCES DE RECHANGE
+                    # Pièces d'origine
+                    # Pièces pour les voitures de + 3 ans
+                    # Echange standard
+                    # Pneumatiques
+               o SERVICES APRES-VENTE
+                    # Garantie
+                    # Assistance
+                    # Assurance
+                    # Peugeot Rapide
+                    # Conseils d'entretien
+               o PROMOTIONS APRÈS-VENTE
+                    # Voir les promotions après-vente
+               o APPLICATIONS ET CARTOGRAPHIE
+                    # Applications smartphone
+                    # Mises à jour de la cartographie
+               o JE SOUHAITE
+                    # Prendre un rendez-vous atelier
+                    # Demander un devis entretien
+                    # Demander un certificat de conformité
+     * REPRISE VÉHICULE
+
+     * Accueil
+     * GAMME
+     * OFFRES DU MOMENT
+          + PROFITEZ DE NOS OFFRES DU MOMENT
+               o Véhicules neufs
+               o Véhicules d'occasion
+               o Véhicules professionnels
+               o Offres Après-Vente
+          + DÉCOUVREZ L'UNIVERS PEUGEOT
+               o Boutique Accessoires
+               o Boutique Lifestyle
+               o Peugeot cycles
+     * PROFESSIONNELS
+     * FINANCEMENT ET OFFRES DE SERVICES
+          + FINANCEMENTS
+               o Nos packs tout compris
+               o LOA
+               o La location longue durée
+               o Crédit Classique
+               o Solutions pour les professionnels
+          + OFFRES DE SERVICES
+               o Garantie
+               o Contrats de services
+               o Assistance
+               o Assurance
+          + SERVICES CONNECTÉS
+               o Découvrez la connectivité Peugeot
+               o Mettez à jour votre cartographie
+               o Téléservices
+          + JE SOUHAITE
+               o Contacter un point de vente
+     * PRESTATIONS APRES-VENTE
+          + ENTRETIEN
+               o Révision annuelle
+               o Forfaits entretien
+               o Ma voiture a plus de 3 ans
+               o Contrats de services
+               o Téléservices
+          + ACCESSOIRES
+               o Vidéos et brochures
+               o Acheter des accessoires en ligne
+          + PIÈCES DE RECHANGE
+               o Pièces d'origine
+               o Pièces pour les voitures de + 3 ans
+               o Echange standard
+               o Pneumatiques
+          + SERVICES APRES-VENTE
+               o Garantie
+               o Assistance
+               o Assurance
+               o Peugeot Rapide
+               o Conseils d'entretien
+          + PROMOTIONS APRÈS-VENTE
+               o Voir les promotions après-vente
+          + APPLICATIONS ET CARTOGRAPHIE
+               o Applications smartphone
+               o Mises à jour de la cartographie
+          + JE SOUHAITE
+               o Prendre un rendez-vous atelier
+               o Demander un devis entretien
+               o Demander un certificat de conformité
+     * REPRISE VÉHICULE
+       Trouver un point de vente
+
+   Boutique LIFESTYLE
+
+   Configurez VOTRE PEUGEOT Demandez un essai Trouvez un point de vente MY
+   PEUGEOT
+
+   Tous nos services
+
+   Bienvenue chez Peugeot France
+   Tous nos services Tous nos services
+   CHOISISSEZ VOTRE VEHICULE
+   vidange huile vidange huile
+   ENTRETENEZ VOTRE PEUGEOT
+   contact peugeot contact peugeot
+   ET AUSSI :
+     * DÉCOUVREZ LA GAMME PEUGEOT
+     * CONFIGUREZ VOTRE VÉHICULE
+     * DEMANDEZ UNE OFFRE
+     * TROUVEZ VOTRE VÉHICULE
+       EN STOCK
+
+     * PRENEZ RENDEZ-VOUS EN LIGNE
+     * RÉALISEZ VOTRE DEVIS EN LIGNE
+     * CONFORMITÉ / ORIGINE / ATTESTATIONS
+     * TROUVEZ VOTRE CONCESSIONNAIRE
+
+     * CONTACTEZ-NOUS
+     * LOUEZ UNE PEUGEOT
+     * CYCLES PEUGEOT
+     * TROUVEZ UN VÉHICULE D'OCCASION
+
+ESSAI DE LA 308 SW GT
+
+   ACCUEIL
+   NEWS
+   ESSAIS
+   ESSAI DE LA 308 SW GT
+
+La 308 GT SW EAT8 essayée sur les routes automnales
+
+   308 SW 308 SW
+   308 SW 308 SW
+
+   Depuis son lancement en 2013, le best-seller 308 s’est renouvelé :
+   après un lifting inspiré des SUV de la Marque, la Peugeot 308 GT SW
+   s’offre une configuration inédite qui combine une puissante
+   motorisation essence avec une nouvelle boîte automatique 8 rapports.
+
+TRAITEMENT EXTÉRIEUR EXCLUSIF
+
+   308 SW 308 SW
+
+   L’allure de la 308 GT SW renforce les idées de dynamisme et de plaisir
+   de conduite. Ainsi, la face avant est modelée autour de la philosophie
+   GT du modèle. Car le break muscle son jeu grâce à un traitement visuel
+   spécifique que l’on remarque par des damiers animant la calandre. Le
+   côté sécuritaire est suggéré par l’apparition d’un radar dans la partie
+   basse du bouclier : il est lié au fonctionnement des aides à la
+   conduite disponibles sur le modèle. Le reste de la 308 GT SW arbore un
+   style athlétique : les surfaces vitrées sont soulignés d’un bandeau
+   chromé qui rappelle les barres de toit bien intégrées dans la
+   silhouette. Un décor de canules d’échappement suggère l’esprit GT, tout
+   comme les jantes Diamant 18 pouces et le bas de caisse spécifique
+   apportant une touche de dynamisme haut de gamme. La couleur Rouge
+   Ultimate de notre modèle d’essai est semblable à celle de 308 GTi, et
+   contribue à donner du caractère au véhicule. Qu’en est-il sur la route
+   ?
+
+EN PARTANCE SUR LES CHEMINS
+
+   308 SW 308 SW
+   308 SW 308 SW
+
+   C’est dans un splendide cadre de saison que nous avons fait
+   connaissance avec une 308 GT SW aux capacités de chargement
+   appréciables : le coffre est accessible par le biais d’un large seuil
+   sans rebords de 1m06. 610 litres sont disponibles jusqu’à la banquette
+   arrière, que l’on peut facilement passer à 1.660 litres sur un sol
+   parfaitement plat grâce aux boutons Magic Flat.
+   Le confort intérieur est mis en valeur par le traitement novateur de
+   l’agencement, où le Peugeot i-cockpit associe un volant sport cousu au
+   fil rouge, en rappel de la surpiqûre rouge de la planche de bord et de
+   la sellerie Mi-TEP Alcantara. Que l’on soit passager arrière profitant
+   du toit panoramique et d’un espace aux jambes appréciable, conducteur
+   ou co-pilote s’occupant de la musique (synchronisable avec Apple Car
+   Play ou Android Auto), la 308 GT SW offre une prestation de voyage qui
+   nous a charmé tout au long de notre roadtrip empreint de poésie
+   d’automne.
+   EN SAVOIR PLUS SUR L'EXPÉRIENCE DE CONDUITE
+
+L’ESPRIT GT EN PERMANENCE
+
+   308 SW 308 SW
+
+   Badgée de cet insigne portant l’héritage de la tradition sportive de la
+   Marque, la 308 GT se dote de nouveaux paramètres de châssis. Notre
+   essai a combiné les petites routes et des tracés rectilignes qui ont
+   permis de mettre en lumière les qualités du break dans sa version
+   ultime GT. Pour animer la Lionne, le nouveau moteur essence PureTech 4
+   cylindres de 225 chevaux, développant 300 Nm de couple, est combiné à
+   la nouvelle transmission EAT8. Cette association offre un comportement
+   généreux quel que soit la situation grâce à une boîte automatique douce
+   et réactive. Le moteur présente deux tempéraments : un côté résolument
+   sage, et un caractère plus nerveux lorsque les montées en régime sont
+   plus franches. Ce comportement est mis en valeur lorsque l’on
+   sélectionne le mode Sport où la direction et le freinage sont plus
+   incisifs. Un nouveau mode Eco calme le jeu et s’autorise un roulage «
+   en roule libre » lorsque la route est plate et que le moteur n’est pas
+   sollicité.
+
+INSPIRANTE
+
+   308 SW 308 SW
+
+   La force de l’esprit GT est dans un tempérament dynamique rendu
+   possible par un châssis parfaitement calibré qui nous fait oublier le
+   gabarit du break. Lorsque nous cherchons davantage le calme et le
+   confort de roulement, l’insonorisation et la discrétion du moteur
+   s’associent aux aides à la conduite permettant de rouler confiant sur
+   de grandes distances. En effet, l’alerte de franchissement de ligne
+   corrige nos écarts de conduite, tandis que le régulateur de vitesse
+   actif avec fonction Stop & Go dose la vitesse du véhicule en fonction
+   de la circulation, et peut même arrêter la voiture dans les bouchons !
+   Mais la 308 GT SW n’est pas autonome pour autant : sa philosophie GT
+   offre au conducteur l’occasion de se faire plaisir dans un cadre
+   rassurant.
+   DÉCOUVREZ LA TECHNOLOGIE DE LA PEUGEOT 308 SW
+
+BREAK AUTOMNAL
+
+   308 SW 308 SW
+
+   Ce break automnal nous a permis de redécouvrir 308 dans une nouvelle
+   version essence. 308 GT SW est plus efficiente et plus efficace grâce
+   au moteur PureTech de 225 chevaux couplé à la boîte automatique 8
+   rapports. La Sochalienne surprend par ses performances dynamiques au
+   sein d’une structure break. Elle est calibrée avec soin comme une GTi,
+   mais possède une polyvalence plus marquée que la sportive. Elle
+   distille tout de même une expérience de conduite instinctive qui ravira
+   les amateurs du genre.
+
+   © Article et photos Tobias André
+
+CONSOMMATIONS RELEVÉES
+
+   Cycle Urbain : 7,5 l/100 km
+   Cycle Extra-Urbain : 5,5 l/100 km
+   Cycle Mixte : 5,9 l/100 km
+   Émissions de CO² : 133 g/km
+
+   INSCRIVEZ-VOUS À LA NEWSLETTER
+
+   Retour en haut de la page Retour en haut de la page
+
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   BESOIN D'AIDE ?
+     * CONTACT
+     * ASSISTANCE
+     * POINTS DE VENTE
+     * RECRUTEMENT
+
+   GAMME PEUGEOT
+     * LES CITADINES
+     * LES SUV
+     * LES FAMILIALES
+     * LES BERLINES ET BREAKS
+     * LES ÉLECTRIQUES
+     * LES HYBRIDES ÉLECTRIQUES
+
+   CONTACTEZ NOTRE SERVICE CLIENT
+
+   0 970 809 120
+     * Facebook
+     * Twitter
+     * Youtube
+     * LinkedIn FR
+
+   MARQUE ET TECHNOLOGIE
+   PEUGEOT NEWS
+   PLAN DU SITE
+
+   GAMME
+     * DÉCOUVREZ NOTRE GAMME
+     * DÉCOUVREZ NOS VÉHICULES
+     * CONFIGUREZ VOTRE PEUGEOT
+     * ACHETEZ VOTRE VOITURE
+
+   OFFRES DU MOMENT
+     * PROFITEZ DE NOS OFFRES DU MOMENT
+     * DÉCOUVREZ L'UNIVERS PEUGEOT
+
+   PROFESSIONNELS
+
+   FINANCEMENT ET OFFRES DE SERVICES
+     * FINANCEMENTS
+     * OFFRES DE SERVICES
+     * SERVICES CONNECTÉS
+     * JE SOUHAITE
+
+   PRESTATIONS APRES-VENTE
+     * ENTRETIEN
+     * ACCESSOIRES
+     * PIÈCES DE RECHANGE
+     * SERVICES APRES-VENTE
+     * PROMOTIONS APRÈS-VENTE
+     * APPLICATIONS ET CARTOGRAPHIE
+     * JE SOUHAITE
+
+   REPRISE VÉHICULE
+
+   PLAN DU SITE
+   Le site www.peugeot.fr est publié par AUTOMOBILES PEUGEOT, société
+   anonyme au capital de 172 711 770 Euros, dont le siège est au : 07 rue
+   Henri Sainte-Claire Deville, 92500 Rueil-Malmaison (France),
+   immatriculée au Registre du Commerce et des Sociétés de Nanterre sous
+   le numéro B 552 144 503. N° d’identification : FR 23552144503 – APE
+   7010Z N° SIRET : 552 144 503 01248 Téléphone : 01 55 94 81 00
+     * Informations légales
+     * Vie privée
+     * Occasions du lion
+     * Webstore
+
+   ‹ › ×
+   ‹
+
+   ›

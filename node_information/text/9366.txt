@@ -1,0 +1,5010 @@
+   #next alternate Flux rss des articles sur le thème : Création
+   d'entreprise Flux rss des articles sur le thème : Start-up Flux rss des
+   articles sur le thème : Actualités Flux rss des articles sur le thème :
+   Lifestyle Flux rss des articles sur le thème : Gestion - Finance Flux
+   rss des articles sur le thème : Juridique Flux rss des articles sur le
+   thème : RH - Management Flux rss des articles sur le thème : Marketing
+   - Vente Flux rss des articles sur le thème : We Are Start-Up Flux rss
+   des articles sur le thème : Export - International Flux rss des
+   articles sur le thème : Flotte auto Flux rss des articles sur le thème
+   : Digital - Innovation Flux rss des articles sur le thème : Market
+   Place Flux rss du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilDigital - Innovation
+
+Blockchain : tout savoir sur les tokens
+
+   Publié par La rédaction le 5 avr. 2019 - mis à jour à 00:00
+   Blockchain : tout savoir sur les tokens
+   © kugelwolf - stock.adobe.com
+
+Dans leur livre "Au coeur de la blockchain", Mickael Lewrick et Christian Di
+Giorgio nous décryptent l'univers de la blockchain. Troisième extrait, dédié
+à tout ce qui concerne les tokens.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   Après avoir expliqué comment fonctionnait une blockchain, et surtout ce
+   qu'elle permettait de résoudre, attelons-nous à préciser le
+   fonctionnement des tokens. Le monde des crypto-monnaies admet plusieurs
+   types de tokens. Dans ce chapitre nous allons les définir, décrire ce
+   qui les différencie les uns des autres et exposer brièvement les étapes
+   de leur développement.
+
+   Les tokens sont à la base des transactions qui se déroulent dans le
+   cadre des nouveaux écosystèmes. À titre d'illustration, nous prendrons
+   l'exemple d'une ICO, l'une des procédures les plus répandues pour
+   financer un projet blockchain.
+
+Qu'est-ce qu'un token ?
+
+   La blockchain permet d'affecter une identité digitale unique à tout
+   type d'actif ou d'objet. Le token est le moyen par lequel un actif est
+   représenté dans l'univers crypto. Du point de vue technique, l'émission
+   d'un token s'effectue de deux manières :
+
+   1. Sur une blockchain nouvellement développée.
+
+   2. Au moyen d'un smart contract sur une blockchain existante.
+
+   À partir du moment où un actif existe sous forme de token sur une
+   blockchain, nous savons :
+     * qu'il existe
+     * d'où il provient
+     * qui en est propriétaire
+
+Quelles sont les différentes catégories de tokens ?
+
+   Nous avons vu qu'un token est la représentation numérique d'un actif,
+   quel qu'il soit. Cette valeur peut exister tant sous forme physique
+   (par exemple, une voiture) que digitale, sous forme de monnaie
+   numérique.
+
+La tokenisation
+
+   Outre l'étude des caractéristiques techniques et des différentes
+   possibilités d'émission d'un token numérisé cryptographiquement, nous
+   estimons indispensable d'aborder d'emblée les aspects juridiques et
+   légaux. Dès lors se posent deux questions :
+
+   1. Quel objet ou quel actif est représenté par le token ?
+
+   2. Est-ce que le token constitue une forme de droit opposable ?
+
+   La réponse à ces questions, compte tenu des impératifs réglementaires,
+   influence la fonctionnalité du token, ainsi que les droits et les
+   obligations des parties concernées. On peut sur cette base distinguer
+   trois catégories de tokens : les tokens de paiement, les tokens
+   d'utilisation et les tokens d'actifs.
+
+Les différents tokens possibles
+
+   Dans certains cas les tokens ont une contrepartie contractuelle, dans
+   d'autres cas c'est le protocole (c'est-à-dire un réseau décentralisé)
+   qui fait office de contrepartie. Cela a un impact déterminant sur votre
+   capacité à faire valoir vos droits devant un tribunal.
+
+Les tokens sans contrepartie contractuelle :
+
+   Les tokens de paiement (crypto-monnaie native) Ces crypto-tokens, tels
+   que le bitcoin, font office de moyen de paiement mais aussi de stockage
+   de valeur.
+
+   Les tokens d'utilisation.
+
+   Ces tokens sont utilisés comme moyen de paiement pour des plateformes
+   et des applications spécifiques. Ils sont généralement développés par
+   des communautés open source telles qu'Ethereum.
+
+   Ces deux types de tokens sont actuellement les plus répandus. Leur
+   valeur dépend de l'offre et de la demande ; leur possession et leur
+   transfert ne sont pas limités par la loi. La situation est différente
+   s'agissant des tokens qui ont une contrepartie légale clairement
+   définie. Ils représentent par exemple un droit d'accès à un service, un
+   paiement de dividende ou la (co)propriété d'un actif. La valeur du
+   token est par conséquent déterminée par l'usage du service ou par la
+   valeur de l'actif. Les droits et les obligations associés doivent être
+   documentés conformément à la loi, ce qui donne au détenteur du token
+   l'opportunité de faire valoir ses droits dans le cadre des dispositions
+   légales.
+
+Les tokens avec contrepartie contractuelle :
+
+   Les tokens d'utilisation (sur une plateforme commerciale)
+
+   Ces tokens ont une contrepartie précise et les droits et obligations
+   afférents sont enregistrés, par exemple dans les conditions générales,
+   comme on peut le voir dans les applications blockchain de programmes de
+   fidélité. Contrairement aux tokens d'utilisation décrits précédemment
+   (sans contrepartie contractuelle), il est possible de faire valoir un
+   droit.
+
+   Les tokens d'actifs
+
+   Ces tokens remplaceront à l'avenir les certificats de propriété et les
+   titres. Les droits et obligations qui y sont attachés dépendent en
+   grande partie du type d'actif et de la législation applicable. Leur
+   possession et leur transfert sont généralement régulés et dans la
+   plupart des cas, outre le token en soi, il demeure indispensable de
+   recourir à des mécanismes traditionnels, par exemple un contrat par
+   écrit juridiquement contraignant.
+   Un token est un artefact technique qui numérise divers aspects de la
+   relation entre son détenteur et le publicateur.
+
+   La classification et la définition des tokens constituent une étape
+   décisive lors d'un projet blockchain ; il existe plusieurs modèles de
+   classification. À cet égard, le cadre développé par le cabinet
+   juridique MME (MME, 2018) a valeur de référence. L'expérience nous
+   enseigne qu'il n'apparaît pas toujours clairement au début à quel usage
+   le token est destiné, ni de quelle manière son utilisation va évoluer.
+   L'Ether en est un exemple. Il a été conçu comme un droit d'utilisation
+   de la plateforme Ethereum, mais aujourd'hui il sert également de moyen
+   de paiement.
+   Je m'abonne
+
+     1
+     * 2
+
+Pub
+
+La rédaction
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+Tout savoir sur le financement participatif pour les entreprises -
+Alternative ou complément au crédit bancaire
+
+   Tout savoir sur le financement participatif pour les entreprises -
+   Alternative ou complément au crédit bancaire
+
+Par Lendopolis le 20 juil. 2017
+
+Pour un dirigeant souhaitant developper son entreprise trouver un financement
+est souvent synonyme de difficultes portes fermees paperasse [...]
+
+   Blockchain: qu'est-ce qu'une ICO ?
+
+Blockchain: qu'est-ce qu'une ICO ?
+
+   Blockchain: qu'est-ce qu'une ICO ?
+
+Par La rédaction3 avr. 2019
+
+   Comment réussir son ICO
+
+Comment réussir son ICO
+
+   Comment réussir son ICO
+
+Par Céline Tridon22 oct. 2018
+
+   Les 5 leçons du Blockchain Day
+
+Les 5 leçons du Blockchain Day
+
+   Les 5 leçons du Blockchain Day
+
+Par Stéphanie Marius15 oct. 2018
+
+   Cryptomonnaies et ICO : le nouveau financement des entreprises ?
+
+Cryptomonnaies et ICO : le nouveau financement des entreprises ?
+
+   Cryptomonnaies et ICO : le nouveau financement des entreprises ?
+
+Par Céline Tridon16 mars 2018
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Digital - Innovation
+
+AlertGasoil traque les dépenses de carburant et les émissions de CO2
+
+   AlertGasoil traque les dépenses de carburant et les émissions de CO2
+
+Par Céline Tridon le 11 oct. 2019
+
+AlertGasoil est une sorte d'outil connecté aux réservoirs d'essence,
+développé par la PME Avenir Développement Durable. Cette dernière a misé
+[...]
+
+   Digital - Innovation
+
+7 bonnes raisons d'intégrer un chatbot en entreprise
+
+   7 bonnes raisons d'intégrer un chatbot en entreprise
+
+Par Julia Turqueti, Chef de projet Clustaar le 23 sept. 2019
+
+Si beaucoup d'entreprises s'intéressent à l'automatisation et aux chatbots,
+elles restent incertaines quant à l'opportunité et à la façon de [...]
+
+   Digital - Innovation
+
+Référencement Google : pensez à la recherche vocale !
+
+   Référencement Google : pensez à la recherche vocale !
+
+Par Xavier Stevens, Clustaar le 12 sept. 2019
+
+Les modes de consommation du "search" évoluent continuellement. La recherche
+vocale s'émancipe avec l'arrivée des Google Home et Amazon Alexa. [...]
+
+   Digital - Innovation
+
+[Portrait numérique] Taïg Khris, fondateur de OnOff Telecom
+
+   [Portrait numérique] Taïg Khris, fondateur de OnOff Telecom
+
+Par Mathieu Viviani le 10 sept. 2019
+
+Après une carrière sportive couronnée de trophées et de records dans le
+roller, ce challenger dans l'âme lance, en 2013, OnOff, une solution [...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilRH - Management
+
+Pourquoi le recruteur du futur est un... marketeur !
+
+   Publié par Charles Chantala, Senior Sales Director, Indeed France le 26
+   mars 2019 - mis à jour à 14:34
+   Pourquoi le recruteur du futur est un... marketeur !
+   © ty - stock.adobe.com
+
+Dans la course au recrutement, la marque employeur fait bien souvent la
+différence. Mais cela n'est pas toujours suffisant. Les recruteurs doivent
+désormais adopter des approches et des techniques marketing.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   La course aux talents n'a jamais été aussi intense, les recruteurs
+   doivent rivaliser de créativité pour attirer ces perles rares. Dans
+   cette compétition, la marque employeur s'impose comme un outil décisif,
+   comme l'atteste l'intérêt des responsables communication pour ajouter
+   cette corde à leur arc.
+
+   Le problème, c'est que même si une bonne visibilité de la marque
+   employeur s'avère nécessaire, ce n'est souvent pas suffisant. Une belle
+   promesse employeur n'entraîne pas forcément des candidatures
+   qualifiées. De fait, les recruteurs doivent "s'augmenter" et adopter
+   des approches et des techniques marketing pour enrichir leurs processus
+   de recrutement.
+
+Penser comme des marketeurs
+
+   Pour recruter comme des marketeurs, les responsables des ressources
+   humaines doivent d'abord adopter les principes de base du marketing.
+   L'un de ces principes consiste à organiser ses actions au sein d'un
+   "funnel de conversion" (en français entonnoir de conversion). Le funnel
+   du marketing est celui qui vise les consommateurs via une première
+   phase de visibilité, pendant laquelle on développe avant tout la
+   notoriété de la marque, puis une phase d'engagement, où l'on cherche à
+   susciter une relation privilégiée entre la marque et le consommateur,
+   et enfin une phase de conversion, moment de concrétisation par un
+   achat.
+
+   Ces trois étapes, il s'agit de les transposer au processus de
+   recrutement pour ne plus viser un consommateur mais un candidat.
+
+   La notoriété de la marque employeur est assurée par des campagnes de
+   display ou d'affichage. L'engagement se crée à travers les sites
+   carrières, les Pages Entreprises sur les sites les plus consultés et
+   des opérations de communication plus ciblées. Et, enfin, la conversion
+   s'effectue à chaque candidature qualifiée reçue en réponse à une offre
+   d'emploi. Tout au long de ce processus, recruteurs et communicants
+   collaborent étroitement.
+
+Entrer dans la course au ROI
+
+   Une autre préoccupation majeure des marketeurs, qui doit également être
+   celle des recruteurs, est le Retour sur Investissement (ROI). Dans les
+   ressources humaines comme dans tous les domaines, le numérique permet
+   la production massive de données permettant de mesurer le retour sur
+   investissement de chaque action et ainsi de rationaliser sa stratégie.
+   Évaluer l'efficacité d'une action est désormais possible avec des
+   unités de mesure aussi précises que le coût par CV reçu, mais aussi le
+   coût par recrutement et par source.
+
+   C'est grâce à cette capacité de tout mesurer et de tirer les leçons de
+   ses réussites comme de ses échecs qu'il devient possible de réellement
+   progresser pour attirer les bons talents.
+   Lire aussi : Une PME sur deux éprouve des difficultés à recruter de
+   hauts profils
+
+Des "insights" pour les recruteurs
+
+   Le marketing a été transformé par l'irruption du numérique, son flot
+   continu de données et l'observation des tendances qu'il permet. Les
+   communicants parlent d"insights" : un beau mot anglais difficilement
+   traduisible qui désigne une perception profonde et précise d'une chose.
+   C'est désormais aux recruteurs de s'emparer de ces outils, d'observer
+   les tendances du marché de l'emploi et d'en tirer des insights. Quels
+   sont les intitulés de poste les plus populaires ? Que recherchent les
+   candidats ? Autant de questions dont les réponses aideront à créer des
+   offres d'emploi plus efficaces.
+
+   Expérience candidat, stratégies 360, marque employeur... Depuis
+   plusieurs années déjà, les recruteurs reprennent le vocabulaire des
+   communicants. Il est maintenant temps d'aller plus loin, d'exploiter
+   pleinement les potentialités du numérique et les techniques du
+   marketing pour un recrutement pleinement orienté ROI.
+
+   Pour en savoir plus :
+
+   Charles Chantala
+   est "Director of Enterprise and Agency Sales Indeed France", en charge
+   du développement des relations avec les agences de communication/RH et
+   les entreprises "grands comptes" en France. Passionné par le
+   développement des entreprises et la gestion de projets dans des
+   environnements complexes, il a notamment créé deux start-up avant l'âge
+   de 26 ans : veodrive.com et une autre pour le compte de
+   rocket-internet.com
+
+   Je m'abonne
+
+     * Ressources humaines
+     * Marketing
+
+Pub
+
+Charles Chantala, Senior Sales Director, Indeed France
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+   LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+Par Econocom finance le 22 mai 2018
+
+Aujourdhui vous devez vous adapter la mobilite Cest une necessite Cest avec
+des outils plus adaptes que vous assurerez votre reussite Decouvrez [...]
+
+   Recrutement : construire sa marque employeur pour attirer les talents
+
+Recrutement : construire sa marque employeur pour attirer les talents
+
+   Recrutement : construire sa marque employeur pour attirer les talents
+
+Par Charles Chantala, Senior Sales Director, Indeed France6 sept. 2019
+
+   Et si l'intelligence artificielle était la clé d'un recrutement plus
+   humain ?
+
+Et si l'intelligence artificielle était la clé d'un recrutement plus humain ?
+
+   Et si l'intelligence artificielle était la clé d'un recrutement plus
+   humain ?
+
+Par Charles Chantala, Senior Sales Director, Indeed France23 mai 2019
+
+   [Tribune] Les scale-up face au défi du recrutement
+
+[Tribune] Les scale-up face au défi du recrutement
+
+   [Tribune] Les scale-up face au défi du recrutement
+
+Par Celia DÖRR - Chief People Officer chez ContentSquare10 juil. 2019
+
+   Recrutement : choisissez les bons canaux pour cibler vos candidats
+
+Recrutement : choisissez les bons canaux pour cibler vos candidats
+
+   Recrutement : choisissez les bons canaux pour cibler vos candidats
+
+Par Lauranne Provenzano13 nov. 2017
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   RH - Management
+
+Les clés de la gestion du stress en période de rush
+
+   Les clés de la gestion du stress en période de rush
+
+Par Pierre-Olivier Grosset, OasYs consultants le 14 oct. 2019
+
+Dans un contexte de mondialisation et de révolution digitale, le rythme des
+entreprises s'accélère. Gérer ses priorités devient de plus en plus [...]
+
+   RH - Management
+
+NetMedia Group se lance dans la formation et le recrutement avec adLearnMEDIA
+
+   NetMedia Group se lance dans la formation et le recrutement avec
+   adLearnMEDIA
+
+Par Martine Fuxa le 8 oct. 2019
+
+NetMedia Group et adLearnMEDIA annoncent leur association dans le
+développement d'offres de formation digitale et de recrutement-formation sur
+[...]
+
+   RH - Management
+
+Réussir ses premiers jours pour embarquer une nouvelle équipe
+
+   Réussir ses premiers jours pour embarquer une nouvelle équipe
+
+Par David Marmo, directeur d'Oasys Consultants à Lyon le 30 sept. 2019
+
+Nous n'avons qu'une occasion de faire une bonne impression. Le manager qui
+intègre une nouvelle équipe se prépare bien souvent à ce qu'il va [...]
+
+   RH - Management
+
+Soft skills: les plus valorisées dans les entreprises, selon les cadres
+
+   Soft skills: les plus valorisées dans les entreprises, selon les cadres
+
+Par la rédaction le 23 sept. 2019
+
+Leur impact sur la performance de l'entreprise est mis en avant par plus de 9
+cadres sur 10 - 91% des carres interrogés par Lavazza indiquent [...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilJuridique
+
+Accident du travail (AT) : quels sont les enjeux pour l'employeur ?
+
+   Publié par Marion Costanzo d'Ayming le 22 févr. 2019 | Mis à jour le 28
+   févr. 2019 à 08:56
+   Accident du travail (AT) : quels sont les enjeux pour l'employeur ?
+   © Copyright: RTimages.com
+
+1,2 million d'accidents du travail (AT) ont été déclarés en 2017, donnant
+lieu à la rédaction de déclarations. Ce Cerfa est plein de subtilités à
+prendre en compte dans une optique de sécurisation et de performance RH.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   Alors que la réforme de la Santé au travail est au coeur de l'actualité
+   et enfin sur les rails, la déclaration d'accident du travail (AT) fait
+   partie des fondamentaux en matière de risques professionnels.
+   Cependant, ce document est trop souvent considéré comme une charge
+   administrative et non comme un élément stratégique permettant d'une
+   part de s'acquitter de ses obligations mais également de piloter sa
+   politique de prévention des risques professionnels.
+
+Quels sont les obligations de l'employeur au moment de la survenance d'un
+accident du travail ?
+
+   Dès qu'il en a connaissance, l'employeur a 48 heures pour déclarer un
+   accident du travail. Cette déclaration peut se faire par voie postale
+   ou bien encore par voie électronique grâce au portail de Net
+   Entreprises. Dans les deux cas, le plus important est de conserver la
+   preuve de dépôt de la déclaration en vue d'être en mesure de prouver le
+   respect dudit délai de 48 heures.
+
+   La caisse primaire d'assurance maladie peut sanctionner une entreprise
+   qui n'a pas respecté ce délai de déclaration de 48 heures. En pratique,
+   cela arrive quand le retard revêt un caractère répété ou quand ce
+   dernier est manifestement disproportionné.
+
+   S'il est sanctionné, l'employeur pourra être condamné à une
+   contravention d'un montant de 750 € et au remboursement de l'ensemble
+   des prestations de sécurité sociale relatives à l'accident.
+
+   Par exception, quand l'accident concerne un salarié intérimaire,
+   l'entreprise utilisatrice a 24 heures pour compléter la déclaration
+   préalable qu'elle doit ensuite adresser à l'entreprise de travail
+   temporaire, au service prévention de la CARSAT et à l'inspection du
+   travail. L'entreprise de travail temporaire aura ensuite 48 heures pour
+   rédiger une déclaration d'accident du travail.
+
+Pourquoi le recueil des faits est-il déterminant ?
+
+   Quand l'information relative à la survenance d'un accident du travail
+   est transmise, il est impératif de tout mettre en oeuvre afin de
+   procéder à un recueil des faits efficace.
+
+   La première vertu d'un recueil des faits efficace est de pouvoir
+   comprendre pourquoi l'accident est survenu et éventuellement identifier
+   un dysfonctionnement dans les mesures mises en place en vue de la
+   prévention des risques professionnels. Si une anomalie est constatée
+   dès le recueil des faits, un plan d'actions peut rapidement être mis en
+   place et ainsi assurer la sécurité des collaborateurs.
+
+   En parallèle, un recueil des faits efficace va permettre de détecter de
+   potentielles incohérences entre les faits déclarés par le salarié et
+   l'environnement de travail. Ces incohérences pourront ensuite permettre
+   de motiver un courrier de réserves motivées. Cette correspondance sera
+   l'occasion pour l'employeur de formuler ses doutes quant à la réalité
+   de l'accident et ainsi contraindre la caisse primaire d'assurance
+   maladie à diligenter une instruction.
+
+Pourquoi est-il stratégique d'être vigilant au moment de la rédaction de la
+déclaration d'accident du travail ?
+
+   Il est décisif de porter une attention toute particulière à la
+   rédaction de la déclaration d'accident du travail et à la décision d'y
+   joindre ou pas une lettre de réserves car c'est le document qui va
+   permettre à la caisse primaire d'assurance maladie de se prononcer sur
+   le caractère professionnel ou non de l'accident déclaré.
+
+   Or, à partir du moment où le caractère professionnel de l'accident est
+   reconnu, les conséquences financières pour l'employeur peuvent être
+   très importantes. En effet, le premier impact se traduira par le taux
+   de cotisations accidents du travail, plus l'arrêt sera long plus
+   l'impact financier sera important. Si le salarié conserve des séquelles
+   de l'accident et se voit attribuer un taux d'incapacité permanente
+   partielle le coût sera une augmenté.
+
+   Par ailleurs, si malheureusement le salarié se retrouve dans
+   l'impossibilité de reprendre son emploi suite à son arrêt, un
+   licenciement pour inaptitude professionnelle entraîne un doublement des
+   indemnités versées.
+
+   Enfin, il ne faut pas oublier que l'employeur peut, sur action du
+   salarié, être sanctionné pour faute inexcusable si les magistrats
+   estiment que ce dernier n'a pas tout mis en oeuvre pour éviter la
+   survenance de l'accident. Dans ces conditions, il est impératif que la
+   personne qui signe la déclaration d'accident du travail soit
+   sensibilisée aux enjeux associés à ce document.
+
+En pratique, quels sont les bons réflexes à avoir ?
+
+   Pour être pertinent au moment de la rédaction de la déclaration
+   d'accident du travail, il faut retenir que la simplicité et la
+   circoncision sont les maîtres mots. En effet, il faut que tout le monde
+   soit en mesure de comprendre les circonstances de l'accident. Employer
+   des termes techniques ou propres à votre entreprise pourrait nuire à la
+   bonne compréhension.
+
+   Allez interroger les témoins de l'accident permet de récolter des
+   informations complémentaires et souvent déterminantes. En premier lieu
+   cela permet de s'assurer que la personne désignée comme témoin a bien
+   vu les faits se produire et n'est pas la première personne avisée de
+   l'accident.
+
+   Enfin, seul un médecin est en mesure de poser un diagnostic dès lors
+   sur la déclaration d'accident du travail complétée par l'employeur la
+   nature des lésions doit rester objective sans aucune donnée médicale.
+
+   Pour en savoir plus
+
+   Marion Costanzo est experte en management des risques professionnels au
+   sein d'Ayming. Elle accompagne depuis plus de 12 ans des entreprises
+   sur tous les sujets liés aux accidents du travail et aux maladies
+   professionnelles. Elle s'occupe également des problématiques techniques
+   relatives aux process déclaratifs ou à la prévention des risques
+   professionnels et intervient sur des sujets relatifs à la performance
+   RH.
+
+   Je m'abonne
+
+     * Accident du travail
+
+Pub
+
+Marion Costanzo d'Ayming
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+   LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+Par Econocom finance le 22 mai 2018
+
+Aujourdhui vous devez vous adapter la mobilite Cest une necessite Cest avec
+des outils plus adaptes que vous assurerez votre reussite Decouvrez [...]
+
+   Projet de loi de financement de sécurité sociale : simplification des
+   démarches
+
+Projet de loi de financement de sécurité sociale : simplification des
+démarches
+
+   Projet de loi de financement de sécurité sociale : simplification des
+   démarches
+
+Par Eve Mennesson30 sept. 2019
+
+   Nouveau financement de la formation : casse-tête et simplifications
+
+Nouveau financement de la formation : casse-tête et simplifications
+
+   Nouveau financement de la formation : casse-tête et simplifications
+
+Par Isabelle Billard, associée Walter France9 oct. 2019
+
+   Les entreprises en peine face aux arrêts longue durée
+
+Les entreprises en peine face aux arrêts longue durée
+
+   Les entreprises en peine face aux arrêts longue durée
+
+Par Céline Tridon3 sept. 2019
+
+   Entreprises à forte sinistralité AT-MP : nouvelle obligation d'accord
+   au 1er janvier 2019
+
+Entreprises à forte sinistralité AT-MP : nouvelle obligation d'accord au 1er
+janvier 2019
+
+   Entreprises à forte sinistralité AT-MP : nouvelle obligation d'accord
+   au 1er janvier 2019
+
+Par Carole Podymski - Ayming26 janv. 2019
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Juridique
+
+Election du CSE : 5 pièges à éviter !
+
+   Election du CSE : 5 pièges à éviter !
+
+Par Xavier Berjot, avocat chez Sancy-Avocats le 15 oct. 2019
+
+L'élection du CSE est une opération complexe. Voici 5 pièges à éviter
+absolument pour sécuriser la mise en place de votre CSE...
+
+   Juridique
+
+Le congé de proche aidant : comment ça marche ?
+
+   Le congé de proche aidant : comment ça marche ?
+
+Par Viviane STULZ, membre fondateur du syndicat d'avocats en droit social,
+AvoSial le 9 oct. 2019
+
+Le congé de proche aidant permet à un salarié de suspendre son activité
+professionnelle sans conséquences sur son emploi, afin d'aider un proche
+[...]
+
+   Juridique
+
+Les clauses pièges d'un bail commercial
+
+   Les clauses pièges d'un bail commercial
+
+Par Ondine Prévoteau, avocat associé, Bignon Lebray le 4 oct. 2019
+
+Conclure un bail commercial est une opération incontournable, mais attention
+aux subtilités rédactionnelles qui peuvent avoir des incidences [...]
+
+   Juridique
+
+Mise en place des IRP : les étapes à ne pas manquer
+
+   Mise en place des IRP : les étapes à ne pas manquer
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi le 1 oct. 2019
+
+En tant que dirigeant, DRH ou Daf, vous avez dû faire face aux dernières
+réformes d'ampleur, en matière de droit du travail, issues des ordonnances
+[...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilGestion - Finance
+
+Flat tax : les dividendes et plus-values sont-ils plus fortement imposés ?
+
+   Publié par Laurent Weiss le 12 mars 2018 - mis à jour à 09:20
+   Flat tax : les dividendes et plus-values sont-ils plus fortement
+   imposés ?
+
+La loi de finances pour 2018 prévoit la flat tax : un prélèvement global de
+30% sur les revenus de capitaux mobiliers et sur les plus-values de cession
+de titres réalisées à compter du 1er janvier 2018. Est-elle plus avantageuse
+que les modalités de taxation précédente ? Verdict.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   Tous les entrepreneurs sont concernés par la mesure. La loi de finances
+   pour 2018 a instauré la flat tax, encore appelée prélèvement
+   forfaitaire unique (PFU), qui modifie en profondeur la fiscalité des
+   revenus du capital mobilier (dividendes, intérêts) et les plus-values
+   mobilières (plus-values sur cession de titre notamment).
+
+   Le PFU consiste en une imposition à l'impôt sur le revenu à un taux
+   forfaitaire unique de 12,8% auquel s'ajoutent les prélèvements sociaux
+   de 17,2%. Ainsi, pour un taux global de 30%, l'imposition sera purgée.
+   Il est cependant à noter que la contribution sur les hauts revenus de
+   3% ou 4% reste en vigueur et vient donc le cas échéant se rajouter à la
+   flat tax.
+
+Quelles sont les conséquences de cette mesure pour les chefs d'entreprise ?
+
+   Ce nouveau système amène plus de simplicité dans l'approche de
+   l'évaluation de la taxation des opérations concernées. Les dispositifs
+   en vigueur étant relativement complexes :
+     * Pour la taxation des dividendes : application du barème progressif
+       de l'impôt sur le revenu sur la base de 60% du montant brut des
+       dividendes, et application des prélèvements sociaux au taux de
+       15,5% mais cette fois ci sur une base non abattue.
+
+     * Pour la taxation des plus-values, un système encore plus complexe :
+       taxation également au barème de l'impôt sur le revenu mais après
+       application sur la base taxable d'abattements progressifs pour
+       durée de détention :
+
+   - Abattements de droit commun allant de 50% à 65%,
+
+   - Dans certaines situations (cessions de titres de PME acquises dans
+   les 10 ans de la création...), application d'un abattement renforcé de
+   50%, 65% ou 85%,
+
+   - Déductibilité partielle de la CSG payée,
+
+   - Enfin pour des dirigeants partant à la retraite réalisant des
+   cessions de titres , possibilité de cumuler les abattements progressifs
+   avec un abattement fixe de 500 000 euros.
+
+   Il est cependant à noter que les contribuables pourront opter pour
+   l'imposition des dits revenus selon les modalités actuelles, cela
+   pouvant s'avérer plus favorable dans certaines situations. Attention
+   l'option est annuelle (à formuler lors du dépôt de la déclaration de
+   revenus) et globale, c'est-à-dire qu'elle s'applique sur l'ensemble des
+   revenus concernés (par exemple, il ne sera pas possible d'opter pour
+   l'application du barème progressif sur les dividendes et appliquer le
+   PFU sur les plus-values sur une même année d'imposition).
+
+   Il est également à noter qu'un nouvel abattement fixe de 500 000 euros
+   sur les plus-values réalisées par les dirigeants prenant leur retraite
+   est désormais applicable quelles que soient les modalités d'imposition
+   mais non cumulable avec les abattements progressifs le cas échéant.
+
+Est-ce vraiment intéressant ?
+
+   L'application de ce dispositif ayant pour effet dans la plupart des cas
+   de diminuer la taxation, il y a peut-être un risque de voir de nouveau
+   des sommes jusqu'alors soumises au régime des rémunérations se voir
+   réorientées vers un versement en dividendes, et ainsi priver les
+   organismes sociaux d'un certain nombre de recettes.
+
+   Sous des airs de relative simplicité, la possibilité offerte au
+   contribuable d'opter pour l'application du système jusqu'alors en
+   vigueur nécessite forcément de recourir à des simulations.
+
+   En effet, la possibilité d'appliquer sur les plus-values de cession les
+   abattements pour durée de détention peut être plus favorable que
+   l'application de la flat tax, mais sera-t-il judicieux alors d'opter
+   pour le barème progressif si l'on a par ailleurs reçu des dividendes
+   qui de facto, l'option étant globale, ne pourront bénéficier du PFU ?
+
+   Prenons l'exemple d'un contribuable dont la tranche marginale
+   d'imposition est de 41%. Ce contribuable perçoit en 2018 des dividendes
+   et réalise des plus-values sur des cessions de titres qu'il détenait
+   depuis plus de 8 ans à la date de cession (par conséquent acquis avant
+   le 1/1/2018)
+
+   Pour les dividendes : dans le cadre de l'application du barème
+   progressif, le taux d'imposition serait de 24,60% (41%*60% puisque
+   abattement de 40% applicable). En appliquant la flat tax, le taux
+   serait de 12,80%. Avantage donc à la flat tax.
+
+   Pour les plus-values, si le dirigeant est éligible à l'abattement pour
+   durée de détention de 65% puisque détenus depuis plus de 8 ans,
+   l'avantage revient également à la flat tax avec un taux d'imposition de
+   12,80% contre 14,35% (41%*35%) pour le barème progressif.
+
+   Si le dirigeant est éligible à l'abattement renforcé de 85%, les
+   plus-values seront imposées à hauteur de 6,15% (41%*15%) avec le barème
+   progressif, contre 12,80% avec la flat tax. Avantage donc ici au barème
+   progressif.
+   L'auteur
+   Laurent Weiss est Expert-comptable associé du cabinet SADEC AKLEYS,
+   entité présente dans le grand quart Nord Est sur 18 sites. Arrivé au
+   sein du groupe en 1992, il dirige le bureau Troyen. Il assume également
+   les fonctions de Directeur Général depuis juillet 2014.
+
+   Je m'abonne
+
+     * dividende
+
+Pub
+
+Laurent Weiss
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+Tout savoir sur le financement participatif pour les entreprises -
+Alternative ou complément au crédit bancaire
+
+   Tout savoir sur le financement participatif pour les entreprises -
+   Alternative ou complément au crédit bancaire
+
+Par Lendopolis le 20 juil. 2017
+
+Pour un dirigeant souhaitant developper son entreprise trouver un financement
+est souvent synonyme de difficultes portes fermees paperasse [...]
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Entreprise : avez-vous anticipé sa transmission ?
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi27 août 2019
+
+   Budget 2018 : 10 mesures qui frappent la fiscalité des TPE et des PME
+
+Budget 2018 : 10 mesures qui frappent la fiscalité des TPE et des PME
+
+   Budget 2018 : 10 mesures qui frappent la fiscalité des TPE et des PME
+
+Par Mallory Lalanne11 janv. 2018
+
+   Dirigeants d'entreprise, optimisez fiscalement vos revenus
+
+Dirigeants d'entreprise, optimisez fiscalement vos revenus
+
+   Dirigeants d'entreprise, optimisez fiscalement vos revenus
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi3 juin 2019
+
+   Les 5 leçons du Blockchain Day
+
+Les 5 leçons du Blockchain Day
+
+   Les 5 leçons du Blockchain Day
+
+Par Stéphanie Marius15 oct. 2018
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Gestion - Finance
+
+10 incroyables maisons de chefs d'entreprise
+
+   10 incroyables maisons de chefs d'entreprise
+
+Par La rédaction le 30 août 2019
+
+Ce sont des chefs d'entreprise mais avec la particularité d'être fortunés.
+Ile, hôtel particulier ou même musée réhabilité en maison, rien n'est [...]
+
+   Gestion - Finance
+
+Entreprise : avez-vous anticipé sa transmission ?
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi le 27 août 2019
+
+Vous êtes à la tête de votre société depuis des années et vous envisagez
+enfin de céder votre place. Vous vous interrogez sur la reprise de [...]
+
+   Gestion - Finance
+
+Scale-up : passer de PME à ETI sans accroc... Y a-t-il un pilote dans l'avion
+?
+
+   Scale-up : passer de PME à ETI sans accroc... Y a-t-il un pilote dans
+   l'avion ?
+
+Par Eve Mennesson et Camille George le 26 août 2019
+
+Comment accompagner la transformation de son entreprise dans un contexte de
+scale-up pour la faire passer d'un statut de PME à celui d'ETI sans [...]
+
+   Gestion - Finance
+
+PME, mettez en place une politique de remboursement des frais professionnels
+
+   PME, mettez en place une politique de remboursement des frais
+   professionnels
+
+Par Anne Leleu-Eté du cabinet Ale Avocats le 9 juil. 2019
+
+Dans le cadre d'un contrôle, les agents de l'Urssaf s'intéressent aux
+dépenses exonérées de cotisations sociales. Les frais professionnels figurent
+[...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilActualités
+
+Les cessions et transmissions de PME progressent en 2018
+
+   Publié par Pierre Lelièvre le 27 nov. 2018 - mis à jour à 16:48
+   Les cessions et transmissions de PME progressent en 2018
+   © Olivier Le Moal - Fotolia
+
+La tendance à la reprise des cessions et transmissions amorcée en 2017 se
+confirme, selon le baromètre de la transmission de PME du CNCFA et Epsilon
+Research. Le prix d'achat des PME progresse également à près de 10 fois
+l'Ebitda en 2018.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   L'environnement macroéconomique et la politique pro business. Voilà
+   deux des raisons qui expliquent, en partie, la reprise du marché des
+   cessions-transmissions amorcée en 2017. D'après le baromètre de la
+   transmission des PME en France, dévoilé mardi 27 novembre 2018 par le
+   Syndicat des professionnels du conseil en fusion, cession, acquisition
+   et financement d'entreprise (CNCFA) et Epsilon Research, le cycle
+   baissier est terminé. "Après une décroissance de l'ordre de 3 % par an
+   depuis 2009, on est cette année entre 1 et 2 % de croissance. Cela
+   confirme ce que nous constations en 2017", présente Jean-Marc Raza,
+   président du CNCFA.
+
+   Dans le détail, les auteurs du baromètre estiment que le marché de la
+   transmission-cession des PME en 2018 a concerné près de 4 600 cas, dont
+   3 400 cessions et 1 200 transmissions intrafamiliales. "Le marché caché
+   est assez important néanmoins, relativise le président du CNCFA. On
+   estime les cessions à 3 400 alors qu'il n'en apparaît que 500 dans nos
+   données".
+
+   En effet, ces estimations doivent être prises avec prudence en raison
+   de l'absence de données précises sur la taille réelle du marché. En
+   raison de l'absence de statistiques nationales exhaustives, les
+   résultats du baromètre continuent d'être analysés sur le marché visible
+   dont les opérations sont recensées dans les bases de données
+   professionnelles.
+
+   Concernant les entreprises transmises dans le cercle familial, le
+   baromètre illustre que ce mode de transmission n'est pas le mode
+   privilégié par les dirigeants français. Si elles ont progressé de 0,15
+   point entre 2010 et 2014, elles ne concernent qu'un quart des
+   transmissions en 2018. Au trois-quarts, les entreprises sont cédées à
+   des acquéreurs extérieurs à la famille du dirigeant.
+
+   À l'inverse, le capital-transmission est très dynamique avec une
+   augmentation de + 16 % en valeur et + 18 % en volume. Les cas de LBO
+   sur des transactions inférieures à 50 millions d'euros constituent 54 %
+   du total réalisé dans la zone euro en 2017, loin devant l'Allemagne
+   (12,7 %) et l'Italie (7,9 %).
+
+   Le capital-transmission représente 30 % des acquisitions de PME mais
+   varie en fonction de la taille de l'entreprise. Ainsi, il est beaucoup
+   plus manifeste auprès des entreprises réalisant entre 5 et 15 millions
+   de CA avec une hausse de 9 points entre 2017 et 2018, même s'il reste
+   le plus élevé (44 %) sur le segment des entreprises réalisant entre 15
+   et 50 millions de CA.
+
+Des prix toujours élevés
+
+   Du côté des prix des PME, l'indice Argos Mid-Market reste à des niveaux
+   historiquement élevés. L'indicateur mesure l'évolution des prix des
+   sociétés non cotées du marché (15 à 500 millions d'euros) dans la zone
+   euro. Il a progressé de 55 % depuis 2013.
+
+   Pour les PME, les résultats montrent également une tendance à la
+   hausse, sous l'impulsion des fonds d'investissement et des acquéreurs
+   industriels. Les prix payés sur les trois premiers trimestres de 2018
+   montrent des prix d'achat qui se situent entre 9,3 et 10 fois l'Ebitda.
+   "Sur douze mois, le prix des PME de 15 à 50 millions de chiffre
+   d'affaires a augmenté de 13 %, c'est plus qu'au niveau de la zone
+   euro", précise Grégoire Buisson, président d'Epsilon Research.
+
+   Ces prix hauts s'expliquent notamment par deux raisons. D'une part,
+   l'appétence des industriels qui interviennent davantage sur les PME
+   réalisant entre 15 et 50 millions de CA et d'autre part, les acquéreurs
+   étrangers, friands des PME françaises, quelle que soient leur taille.
+   "Ils sont en particulier très actifs sur les petites PME réalisant
+   entre 1 à 5 millions de CA", ajoute-t-il.
+
+   Ensuite, les conditions financières favorables, la tendance à la hausse
+   du marché et le déséquilibre entre l'offre et la demande tirent les
+   prix vers le haut, rappelle les auteurs du baromètre.
+
+   Il n'empêche, le marché reste polarisé entre des PME très attractives
+   et performantes, qui trustent la concurrence lors des cessions, et les
+   PME moins connues, installées sur des marchés plus anonymes et qui
+   n'arrivent pas à attirer les potentiels acheteurs. Un constat qui fait
+   dire à Grégoire Buisson que "le problème ne vient pas du côté des
+   acheteurs, ils sont très nombreux. Il vient surtout des PME qui ne sont
+   pas transmissibles du fait d'une insuffisance de préparation ou de la
+   fragilité du parc de PME".
+   À lire aussi : 4 mesures pour réduire le coût de votre transmission
+   d'entreprise
+   Je m'abonne
+
+     * Fonds d'investissement
+     * Cession entreprise
+     * Transmission entreprise
+
+Pub
+
+   Pierre Lelièvre
+
+Pierre Lelièvre
+
+Journaliste
+
+     *
+
+   Depuis juin 2016, je suis journaliste pour Chef d’Entreprise, Commerce
+   magazine, Artisans mag’. Intéressé par le monde de l’entreprise,
+   j’écris sur tous [...]...
+   Voir la fiche
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+Tout savoir sur le financement participatif pour les entreprises -
+Alternative ou complément au crédit bancaire
+
+   Tout savoir sur le financement participatif pour les entreprises -
+   Alternative ou complément au crédit bancaire
+
+Par Lendopolis le 20 juil. 2017
+
+Pour un dirigeant souhaitant developper son entreprise trouver un financement
+est souvent synonyme de difficultes portes fermees paperasse [...]
+
+   Marché M&A des PME françaises : un rebond de bon augure
+
+Marché M&A des PME françaises : un rebond de bon augure
+
+   Marché M&A des PME françaises : un rebond de bon augure
+
+Par Carine Guicheteau28 nov. 2017
+
+   La reprise d'entreprise séduit les cadres
+
+La reprise d'entreprise séduit les cadres
+
+   La reprise d'entreprise séduit les cadres
+
+Par Céline Tridon27 juin 2019
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Entreprise : avez-vous anticipé sa transmission ?
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi27 août 2019
+
+   Business du sexe en France, un fantasme économique avant tout
+
+Business du sexe en France, un fantasme économique avant tout
+
+   Business du sexe en France, un fantasme économique avant tout
+
+Par Mathieu Viviani5 sept. 2019
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Actualités
+
+La Journée de la Femme Digitale se déploie jusqu'en Afrique
+
+   La Journée de la Femme Digitale se déploie jusqu'en Afrique
+
+Par Céline Tridon le 15 oct. 2019
+
+La Journée de la Femme Digitale a dévoilé les temps forts de sa 8ème édition,
+qui doit se tenir le 21 avril 2020 à Paris et en juillet 2020 [...]
+
+   Actualités
+
+Comment les Européennes vivent-elles l'entrepreneuriat ?
+
+   Comment les Européennes vivent-elles l'entrepreneuriat ?
+
+Par Mathieu Viviani le 14 oct. 2019
+
+Lundi 2 octobre 2019, la Caisse d'Epargne et le Credoc ont publié une étude
+qui détaille comment les femmes entrepreneures des principaux pays [...]
+
+   Actualités
+
+J'aime ma boite : 17e édition
+
+   J'aime ma boite : 17e édition
+
+Par Céline Tridon le 11 oct. 2019
+
+Un jour dans l'année pour fêter son entreprise, tel est le principe de
+"J'aime ma boite". La 17e édition de cet événement tourné vers la
+convivialité [...]
+
+   Actualités
+
+Le concours 100 Jours pour Entreprendre rejoint le Moovjee
+
+   Le concours 100 Jours pour Entreprendre rejoint le Moovjee
+
+Par Mathieu Viviani le 9 oct. 2019
+
+Mercredi 2 octobre 2019, les équipes du Moovjee et de 100 Jours pour
+Entreprendre ont annoncé leur fusion. Explications de ce rapprochement [...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #next alternate Flux rss des articles sur le thème : Création
+   d'entreprise Flux rss des articles sur le thème : Start-up Flux rss des
+   articles sur le thème : Actualités Flux rss des articles sur le thème :
+   Lifestyle Flux rss des articles sur le thème : Gestion - Finance Flux
+   rss des articles sur le thème : Juridique Flux rss des articles sur le
+   thème : RH - Management Flux rss des articles sur le thème : Marketing
+   - Vente Flux rss des articles sur le thème : We Are Start-Up Flux rss
+   des articles sur le thème : Export - International Flux rss des
+   articles sur le thème : Flotte auto Flux rss des articles sur le thème
+   : Digital - Innovation Flux rss des articles sur le thème : Market
+   Place Flux rss du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilDigital - Innovation
+
+Blockchain : tout savoir sur les tokens
+
+   Publié par La rédaction le 5 avr. 2019 - mis à jour à 00:00
+   Blockchain : tout savoir sur les tokens
+   © kugelwolf - stock.adobe.com
+
+Dans leur livre "Au coeur de la blockchain", Mickael Lewrick et Christian Di
+Giorgio nous décryptent l'univers de la blockchain. Troisième extrait, dédié
+à tout ce qui concerne les tokens.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   Après avoir expliqué comment fonctionnait une blockchain, et surtout ce
+   qu'elle permettait de résoudre, attelons-nous à préciser le
+   fonctionnement des tokens. Le monde des crypto-monnaies admet plusieurs
+   types de tokens. Dans ce chapitre nous allons les définir, décrire ce
+   qui les différencie les uns des autres et exposer brièvement les étapes
+   de leur développement.
+
+   Les tokens sont à la base des transactions qui se déroulent dans le
+   cadre des nouveaux écosystèmes. À titre d'illustration, nous prendrons
+   l'exemple d'une ICO, l'une des procédures les plus répandues pour
+   financer un projet blockchain.
+
+Qu'est-ce qu'un token ?
+
+   La blockchain permet d'affecter une identité digitale unique à tout
+   type d'actif ou d'objet. Le token est le moyen par lequel un actif est
+   représenté dans l'univers crypto. Du point de vue technique, l'émission
+   d'un token s'effectue de deux manières :
+
+   1. Sur une blockchain nouvellement développée.
+
+   2. Au moyen d'un smart contract sur une blockchain existante.
+
+   À partir du moment où un actif existe sous forme de token sur une
+   blockchain, nous savons :
+     * qu'il existe
+     * d'où il provient
+     * qui en est propriétaire
+
+Quelles sont les différentes catégories de tokens ?
+
+   Nous avons vu qu'un token est la représentation numérique d'un actif,
+   quel qu'il soit. Cette valeur peut exister tant sous forme physique
+   (par exemple, une voiture) que digitale, sous forme de monnaie
+   numérique.
+
+La tokenisation
+
+   Outre l'étude des caractéristiques techniques et des différentes
+   possibilités d'émission d'un token numérisé cryptographiquement, nous
+   estimons indispensable d'aborder d'emblée les aspects juridiques et
+   légaux. Dès lors se posent deux questions :
+
+   1. Quel objet ou quel actif est représenté par le token ?
+
+   2. Est-ce que le token constitue une forme de droit opposable ?
+
+   La réponse à ces questions, compte tenu des impératifs réglementaires,
+   influence la fonctionnalité du token, ainsi que les droits et les
+   obligations des parties concernées. On peut sur cette base distinguer
+   trois catégories de tokens : les tokens de paiement, les tokens
+   d'utilisation et les tokens d'actifs.
+
+Les différents tokens possibles
+
+   Dans certains cas les tokens ont une contrepartie contractuelle, dans
+   d'autres cas c'est le protocole (c'est-à-dire un réseau décentralisé)
+   qui fait office de contrepartie. Cela a un impact déterminant sur votre
+   capacité à faire valoir vos droits devant un tribunal.
+
+Les tokens sans contrepartie contractuelle :
+
+   Les tokens de paiement (crypto-monnaie native) Ces crypto-tokens, tels
+   que le bitcoin, font office de moyen de paiement mais aussi de stockage
+   de valeur.
+
+   Les tokens d'utilisation.
+
+   Ces tokens sont utilisés comme moyen de paiement pour des plateformes
+   et des applications spécifiques. Ils sont généralement développés par
+   des communautés open source telles qu'Ethereum.
+
+   Ces deux types de tokens sont actuellement les plus répandus. Leur
+   valeur dépend de l'offre et de la demande ; leur possession et leur
+   transfert ne sont pas limités par la loi. La situation est différente
+   s'agissant des tokens qui ont une contrepartie légale clairement
+   définie. Ils représentent par exemple un droit d'accès à un service, un
+   paiement de dividende ou la (co)propriété d'un actif. La valeur du
+   token est par conséquent déterminée par l'usage du service ou par la
+   valeur de l'actif. Les droits et les obligations associés doivent être
+   documentés conformément à la loi, ce qui donne au détenteur du token
+   l'opportunité de faire valoir ses droits dans le cadre des dispositions
+   légales.
+
+Les tokens avec contrepartie contractuelle :
+
+   Les tokens d'utilisation (sur une plateforme commerciale)
+
+   Ces tokens ont une contrepartie précise et les droits et obligations
+   afférents sont enregistrés, par exemple dans les conditions générales,
+   comme on peut le voir dans les applications blockchain de programmes de
+   fidélité. Contrairement aux tokens d'utilisation décrits précédemment
+   (sans contrepartie contractuelle), il est possible de faire valoir un
+   droit.
+
+   Les tokens d'actifs
+
+   Ces tokens remplaceront à l'avenir les certificats de propriété et les
+   titres. Les droits et obligations qui y sont attachés dépendent en
+   grande partie du type d'actif et de la législation applicable. Leur
+   possession et leur transfert sont généralement régulés et dans la
+   plupart des cas, outre le token en soi, il demeure indispensable de
+   recourir à des mécanismes traditionnels, par exemple un contrat par
+   écrit juridiquement contraignant.
+   Un token est un artefact technique qui numérise divers aspects de la
+   relation entre son détenteur et le publicateur.
+
+   La classification et la définition des tokens constituent une étape
+   décisive lors d'un projet blockchain ; il existe plusieurs modèles de
+   classification. À cet égard, le cadre développé par le cabinet
+   juridique MME (MME, 2018) a valeur de référence. L'expérience nous
+   enseigne qu'il n'apparaît pas toujours clairement au début à quel usage
+   le token est destiné, ni de quelle manière son utilisation va évoluer.
+   L'Ether en est un exemple. Il a été conçu comme un droit d'utilisation
+   de la plateforme Ethereum, mais aujourd'hui il sert également de moyen
+   de paiement.
+   Je m'abonne
+
+     1
+     * 2
+
+Pub
+
+La rédaction
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+Tout savoir sur le financement participatif pour les entreprises -
+Alternative ou complément au crédit bancaire
+
+   Tout savoir sur le financement participatif pour les entreprises -
+   Alternative ou complément au crédit bancaire
+
+Par Lendopolis le 20 juil. 2017
+
+Pour un dirigeant souhaitant developper son entreprise trouver un financement
+est souvent synonyme de difficultes portes fermees paperasse [...]
+
+   Blockchain: qu'est-ce qu'une ICO ?
+
+Blockchain: qu'est-ce qu'une ICO ?
+
+   Blockchain: qu'est-ce qu'une ICO ?
+
+Par La rédaction3 avr. 2019
+
+   Comment réussir son ICO
+
+Comment réussir son ICO
+
+   Comment réussir son ICO
+
+Par Céline Tridon22 oct. 2018
+
+   Les 5 leçons du Blockchain Day
+
+Les 5 leçons du Blockchain Day
+
+   Les 5 leçons du Blockchain Day
+
+Par Stéphanie Marius15 oct. 2018
+
+   Cryptomonnaies et ICO : le nouveau financement des entreprises ?
+
+Cryptomonnaies et ICO : le nouveau financement des entreprises ?
+
+   Cryptomonnaies et ICO : le nouveau financement des entreprises ?
+
+Par Céline Tridon16 mars 2018
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Digital - Innovation
+
+AlertGasoil traque les dépenses de carburant et les émissions de CO2
+
+   AlertGasoil traque les dépenses de carburant et les émissions de CO2
+
+Par Céline Tridon le 11 oct. 2019
+
+AlertGasoil est une sorte d'outil connecté aux réservoirs d'essence,
+développé par la PME Avenir Développement Durable. Cette dernière a misé
+[...]
+
+   Digital - Innovation
+
+7 bonnes raisons d'intégrer un chatbot en entreprise
+
+   7 bonnes raisons d'intégrer un chatbot en entreprise
+
+Par Julia Turqueti, Chef de projet Clustaar le 23 sept. 2019
+
+Si beaucoup d'entreprises s'intéressent à l'automatisation et aux chatbots,
+elles restent incertaines quant à l'opportunité et à la façon de [...]
+
+   Digital - Innovation
+
+Référencement Google : pensez à la recherche vocale !
+
+   Référencement Google : pensez à la recherche vocale !
+
+Par Xavier Stevens, Clustaar le 12 sept. 2019
+
+Les modes de consommation du "search" évoluent continuellement. La recherche
+vocale s'émancipe avec l'arrivée des Google Home et Amazon Alexa. [...]
+
+   Digital - Innovation
+
+[Portrait numérique] Taïg Khris, fondateur de OnOff Telecom
+
+   [Portrait numérique] Taïg Khris, fondateur de OnOff Telecom
+
+Par Mathieu Viviani le 10 sept. 2019
+
+Après une carrière sportive couronnée de trophées et de records dans le
+roller, ce challenger dans l'âme lance, en 2013, OnOff, une solution [...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilRH - Management
+
+Pourquoi le recruteur du futur est un... marketeur !
+
+   Publié par Charles Chantala, Senior Sales Director, Indeed France le 26
+   mars 2019 - mis à jour à 14:34
+   Pourquoi le recruteur du futur est un... marketeur !
+   © ty - stock.adobe.com
+
+Dans la course au recrutement, la marque employeur fait bien souvent la
+différence. Mais cela n'est pas toujours suffisant. Les recruteurs doivent
+désormais adopter des approches et des techniques marketing.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   La course aux talents n'a jamais été aussi intense, les recruteurs
+   doivent rivaliser de créativité pour attirer ces perles rares. Dans
+   cette compétition, la marque employeur s'impose comme un outil décisif,
+   comme l'atteste l'intérêt des responsables communication pour ajouter
+   cette corde à leur arc.
+
+   Le problème, c'est que même si une bonne visibilité de la marque
+   employeur s'avère nécessaire, ce n'est souvent pas suffisant. Une belle
+   promesse employeur n'entraîne pas forcément des candidatures
+   qualifiées. De fait, les recruteurs doivent "s'augmenter" et adopter
+   des approches et des techniques marketing pour enrichir leurs processus
+   de recrutement.
+
+Penser comme des marketeurs
+
+   Pour recruter comme des marketeurs, les responsables des ressources
+   humaines doivent d'abord adopter les principes de base du marketing.
+   L'un de ces principes consiste à organiser ses actions au sein d'un
+   "funnel de conversion" (en français entonnoir de conversion). Le funnel
+   du marketing est celui qui vise les consommateurs via une première
+   phase de visibilité, pendant laquelle on développe avant tout la
+   notoriété de la marque, puis une phase d'engagement, où l'on cherche à
+   susciter une relation privilégiée entre la marque et le consommateur,
+   et enfin une phase de conversion, moment de concrétisation par un
+   achat.
+
+   Ces trois étapes, il s'agit de les transposer au processus de
+   recrutement pour ne plus viser un consommateur mais un candidat.
+
+   La notoriété de la marque employeur est assurée par des campagnes de
+   display ou d'affichage. L'engagement se crée à travers les sites
+   carrières, les Pages Entreprises sur les sites les plus consultés et
+   des opérations de communication plus ciblées. Et, enfin, la conversion
+   s'effectue à chaque candidature qualifiée reçue en réponse à une offre
+   d'emploi. Tout au long de ce processus, recruteurs et communicants
+   collaborent étroitement.
+
+Entrer dans la course au ROI
+
+   Une autre préoccupation majeure des marketeurs, qui doit également être
+   celle des recruteurs, est le Retour sur Investissement (ROI). Dans les
+   ressources humaines comme dans tous les domaines, le numérique permet
+   la production massive de données permettant de mesurer le retour sur
+   investissement de chaque action et ainsi de rationaliser sa stratégie.
+   Évaluer l'efficacité d'une action est désormais possible avec des
+   unités de mesure aussi précises que le coût par CV reçu, mais aussi le
+   coût par recrutement et par source.
+
+   C'est grâce à cette capacité de tout mesurer et de tirer les leçons de
+   ses réussites comme de ses échecs qu'il devient possible de réellement
+   progresser pour attirer les bons talents.
+   Lire aussi : Une PME sur deux éprouve des difficultés à recruter de
+   hauts profils
+
+Des "insights" pour les recruteurs
+
+   Le marketing a été transformé par l'irruption du numérique, son flot
+   continu de données et l'observation des tendances qu'il permet. Les
+   communicants parlent d"insights" : un beau mot anglais difficilement
+   traduisible qui désigne une perception profonde et précise d'une chose.
+   C'est désormais aux recruteurs de s'emparer de ces outils, d'observer
+   les tendances du marché de l'emploi et d'en tirer des insights. Quels
+   sont les intitulés de poste les plus populaires ? Que recherchent les
+   candidats ? Autant de questions dont les réponses aideront à créer des
+   offres d'emploi plus efficaces.
+
+   Expérience candidat, stratégies 360, marque employeur... Depuis
+   plusieurs années déjà, les recruteurs reprennent le vocabulaire des
+   communicants. Il est maintenant temps d'aller plus loin, d'exploiter
+   pleinement les potentialités du numérique et les techniques du
+   marketing pour un recrutement pleinement orienté ROI.
+
+   Pour en savoir plus :
+
+   Charles Chantala
+   est "Director of Enterprise and Agency Sales Indeed France", en charge
+   du développement des relations avec les agences de communication/RH et
+   les entreprises "grands comptes" en France. Passionné par le
+   développement des entreprises et la gestion de projets dans des
+   environnements complexes, il a notamment créé deux start-up avant l'âge
+   de 26 ans : veodrive.com et une autre pour le compte de
+   rocket-internet.com
+
+   Je m'abonne
+
+     * Ressources humaines
+     * Marketing
+
+Pub
+
+Charles Chantala, Senior Sales Director, Indeed France
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+   LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+Par Econocom finance le 22 mai 2018
+
+Aujourdhui vous devez vous adapter la mobilite Cest une necessite Cest avec
+des outils plus adaptes que vous assurerez votre reussite Decouvrez [...]
+
+   Recrutement : construire sa marque employeur pour attirer les talents
+
+Recrutement : construire sa marque employeur pour attirer les talents
+
+   Recrutement : construire sa marque employeur pour attirer les talents
+
+Par Charles Chantala, Senior Sales Director, Indeed France6 sept. 2019
+
+   Et si l'intelligence artificielle était la clé d'un recrutement plus
+   humain ?
+
+Et si l'intelligence artificielle était la clé d'un recrutement plus humain ?
+
+   Et si l'intelligence artificielle était la clé d'un recrutement plus
+   humain ?
+
+Par Charles Chantala, Senior Sales Director, Indeed France23 mai 2019
+
+   [Tribune] Les scale-up face au défi du recrutement
+
+[Tribune] Les scale-up face au défi du recrutement
+
+   [Tribune] Les scale-up face au défi du recrutement
+
+Par Celia DÖRR - Chief People Officer chez ContentSquare10 juil. 2019
+
+   Recrutement : choisissez les bons canaux pour cibler vos candidats
+
+Recrutement : choisissez les bons canaux pour cibler vos candidats
+
+   Recrutement : choisissez les bons canaux pour cibler vos candidats
+
+Par Lauranne Provenzano13 nov. 2017
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   RH - Management
+
+Les clés de la gestion du stress en période de rush
+
+   Les clés de la gestion du stress en période de rush
+
+Par Pierre-Olivier Grosset, OasYs consultants le 14 oct. 2019
+
+Dans un contexte de mondialisation et de révolution digitale, le rythme des
+entreprises s'accélère. Gérer ses priorités devient de plus en plus [...]
+
+   RH - Management
+
+NetMedia Group se lance dans la formation et le recrutement avec adLearnMEDIA
+
+   NetMedia Group se lance dans la formation et le recrutement avec
+   adLearnMEDIA
+
+Par Martine Fuxa le 8 oct. 2019
+
+NetMedia Group et adLearnMEDIA annoncent leur association dans le
+développement d'offres de formation digitale et de recrutement-formation sur
+[...]
+
+   RH - Management
+
+Réussir ses premiers jours pour embarquer une nouvelle équipe
+
+   Réussir ses premiers jours pour embarquer une nouvelle équipe
+
+Par David Marmo, directeur d'Oasys Consultants à Lyon le 30 sept. 2019
+
+Nous n'avons qu'une occasion de faire une bonne impression. Le manager qui
+intègre une nouvelle équipe se prépare bien souvent à ce qu'il va [...]
+
+   RH - Management
+
+Soft skills: les plus valorisées dans les entreprises, selon les cadres
+
+   Soft skills: les plus valorisées dans les entreprises, selon les cadres
+
+Par la rédaction le 23 sept. 2019
+
+Leur impact sur la performance de l'entreprise est mis en avant par plus de 9
+cadres sur 10 - 91% des carres interrogés par Lavazza indiquent [...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilJuridique
+
+Accident du travail (AT) : quels sont les enjeux pour l'employeur ?
+
+   Publié par Marion Costanzo d'Ayming le 22 févr. 2019 | Mis à jour le 28
+   févr. 2019 à 08:56
+   Accident du travail (AT) : quels sont les enjeux pour l'employeur ?
+   © Copyright: RTimages.com
+
+1,2 million d'accidents du travail (AT) ont été déclarés en 2017, donnant
+lieu à la rédaction de déclarations. Ce Cerfa est plein de subtilités à
+prendre en compte dans une optique de sécurisation et de performance RH.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   Alors que la réforme de la Santé au travail est au coeur de l'actualité
+   et enfin sur les rails, la déclaration d'accident du travail (AT) fait
+   partie des fondamentaux en matière de risques professionnels.
+   Cependant, ce document est trop souvent considéré comme une charge
+   administrative et non comme un élément stratégique permettant d'une
+   part de s'acquitter de ses obligations mais également de piloter sa
+   politique de prévention des risques professionnels.
+
+Quels sont les obligations de l'employeur au moment de la survenance d'un
+accident du travail ?
+
+   Dès qu'il en a connaissance, l'employeur a 48 heures pour déclarer un
+   accident du travail. Cette déclaration peut se faire par voie postale
+   ou bien encore par voie électronique grâce au portail de Net
+   Entreprises. Dans les deux cas, le plus important est de conserver la
+   preuve de dépôt de la déclaration en vue d'être en mesure de prouver le
+   respect dudit délai de 48 heures.
+
+   La caisse primaire d'assurance maladie peut sanctionner une entreprise
+   qui n'a pas respecté ce délai de déclaration de 48 heures. En pratique,
+   cela arrive quand le retard revêt un caractère répété ou quand ce
+   dernier est manifestement disproportionné.
+
+   S'il est sanctionné, l'employeur pourra être condamné à une
+   contravention d'un montant de 750 € et au remboursement de l'ensemble
+   des prestations de sécurité sociale relatives à l'accident.
+
+   Par exception, quand l'accident concerne un salarié intérimaire,
+   l'entreprise utilisatrice a 24 heures pour compléter la déclaration
+   préalable qu'elle doit ensuite adresser à l'entreprise de travail
+   temporaire, au service prévention de la CARSAT et à l'inspection du
+   travail. L'entreprise de travail temporaire aura ensuite 48 heures pour
+   rédiger une déclaration d'accident du travail.
+
+Pourquoi le recueil des faits est-il déterminant ?
+
+   Quand l'information relative à la survenance d'un accident du travail
+   est transmise, il est impératif de tout mettre en oeuvre afin de
+   procéder à un recueil des faits efficace.
+
+   La première vertu d'un recueil des faits efficace est de pouvoir
+   comprendre pourquoi l'accident est survenu et éventuellement identifier
+   un dysfonctionnement dans les mesures mises en place en vue de la
+   prévention des risques professionnels. Si une anomalie est constatée
+   dès le recueil des faits, un plan d'actions peut rapidement être mis en
+   place et ainsi assurer la sécurité des collaborateurs.
+
+   En parallèle, un recueil des faits efficace va permettre de détecter de
+   potentielles incohérences entre les faits déclarés par le salarié et
+   l'environnement de travail. Ces incohérences pourront ensuite permettre
+   de motiver un courrier de réserves motivées. Cette correspondance sera
+   l'occasion pour l'employeur de formuler ses doutes quant à la réalité
+   de l'accident et ainsi contraindre la caisse primaire d'assurance
+   maladie à diligenter une instruction.
+
+Pourquoi est-il stratégique d'être vigilant au moment de la rédaction de la
+déclaration d'accident du travail ?
+
+   Il est décisif de porter une attention toute particulière à la
+   rédaction de la déclaration d'accident du travail et à la décision d'y
+   joindre ou pas une lettre de réserves car c'est le document qui va
+   permettre à la caisse primaire d'assurance maladie de se prononcer sur
+   le caractère professionnel ou non de l'accident déclaré.
+
+   Or, à partir du moment où le caractère professionnel de l'accident est
+   reconnu, les conséquences financières pour l'employeur peuvent être
+   très importantes. En effet, le premier impact se traduira par le taux
+   de cotisations accidents du travail, plus l'arrêt sera long plus
+   l'impact financier sera important. Si le salarié conserve des séquelles
+   de l'accident et se voit attribuer un taux d'incapacité permanente
+   partielle le coût sera une augmenté.
+
+   Par ailleurs, si malheureusement le salarié se retrouve dans
+   l'impossibilité de reprendre son emploi suite à son arrêt, un
+   licenciement pour inaptitude professionnelle entraîne un doublement des
+   indemnités versées.
+
+   Enfin, il ne faut pas oublier que l'employeur peut, sur action du
+   salarié, être sanctionné pour faute inexcusable si les magistrats
+   estiment que ce dernier n'a pas tout mis en oeuvre pour éviter la
+   survenance de l'accident. Dans ces conditions, il est impératif que la
+   personne qui signe la déclaration d'accident du travail soit
+   sensibilisée aux enjeux associés à ce document.
+
+En pratique, quels sont les bons réflexes à avoir ?
+
+   Pour être pertinent au moment de la rédaction de la déclaration
+   d'accident du travail, il faut retenir que la simplicité et la
+   circoncision sont les maîtres mots. En effet, il faut que tout le monde
+   soit en mesure de comprendre les circonstances de l'accident. Employer
+   des termes techniques ou propres à votre entreprise pourrait nuire à la
+   bonne compréhension.
+
+   Allez interroger les témoins de l'accident permet de récolter des
+   informations complémentaires et souvent déterminantes. En premier lieu
+   cela permet de s'assurer que la personne désignée comme témoin a bien
+   vu les faits se produire et n'est pas la première personne avisée de
+   l'accident.
+
+   Enfin, seul un médecin est en mesure de poser un diagnostic dès lors
+   sur la déclaration d'accident du travail complétée par l'employeur la
+   nature des lésions doit rester objective sans aucune donnée médicale.
+
+   Pour en savoir plus
+
+   Marion Costanzo est experte en management des risques professionnels au
+   sein d'Ayming. Elle accompagne depuis plus de 12 ans des entreprises
+   sur tous les sujets liés aux accidents du travail et aux maladies
+   professionnelles. Elle s'occupe également des problématiques techniques
+   relatives aux process déclaratifs ou à la prévention des risques
+   professionnels et intervient sur des sujets relatifs à la performance
+   RH.
+
+   Je m'abonne
+
+     * Accident du travail
+
+Pub
+
+Marion Costanzo d'Ayming
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+   LES 4 COMMANDEMENTS POUR UNE MOBILITE REUSSIE
+
+Par Econocom finance le 22 mai 2018
+
+Aujourdhui vous devez vous adapter la mobilite Cest une necessite Cest avec
+des outils plus adaptes que vous assurerez votre reussite Decouvrez [...]
+
+   Projet de loi de financement de sécurité sociale : simplification des
+   démarches
+
+Projet de loi de financement de sécurité sociale : simplification des
+démarches
+
+   Projet de loi de financement de sécurité sociale : simplification des
+   démarches
+
+Par Eve Mennesson30 sept. 2019
+
+   Nouveau financement de la formation : casse-tête et simplifications
+
+Nouveau financement de la formation : casse-tête et simplifications
+
+   Nouveau financement de la formation : casse-tête et simplifications
+
+Par Isabelle Billard, associée Walter France9 oct. 2019
+
+   Les entreprises en peine face aux arrêts longue durée
+
+Les entreprises en peine face aux arrêts longue durée
+
+   Les entreprises en peine face aux arrêts longue durée
+
+Par Céline Tridon3 sept. 2019
+
+   Entreprises à forte sinistralité AT-MP : nouvelle obligation d'accord
+   au 1er janvier 2019
+
+Entreprises à forte sinistralité AT-MP : nouvelle obligation d'accord au 1er
+janvier 2019
+
+   Entreprises à forte sinistralité AT-MP : nouvelle obligation d'accord
+   au 1er janvier 2019
+
+Par Carole Podymski - Ayming26 janv. 2019
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Juridique
+
+Election du CSE : 5 pièges à éviter !
+
+   Election du CSE : 5 pièges à éviter !
+
+Par Xavier Berjot, avocat chez Sancy-Avocats le 15 oct. 2019
+
+L'élection du CSE est une opération complexe. Voici 5 pièges à éviter
+absolument pour sécuriser la mise en place de votre CSE...
+
+   Juridique
+
+Le congé de proche aidant : comment ça marche ?
+
+   Le congé de proche aidant : comment ça marche ?
+
+Par Viviane STULZ, membre fondateur du syndicat d'avocats en droit social,
+AvoSial le 9 oct. 2019
+
+Le congé de proche aidant permet à un salarié de suspendre son activité
+professionnelle sans conséquences sur son emploi, afin d'aider un proche
+[...]
+
+   Juridique
+
+Les clauses pièges d'un bail commercial
+
+   Les clauses pièges d'un bail commercial
+
+Par Ondine Prévoteau, avocat associé, Bignon Lebray le 4 oct. 2019
+
+Conclure un bail commercial est une opération incontournable, mais attention
+aux subtilités rédactionnelles qui peuvent avoir des incidences [...]
+
+   Juridique
+
+Mise en place des IRP : les étapes à ne pas manquer
+
+   Mise en place des IRP : les étapes à ne pas manquer
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi le 1 oct. 2019
+
+En tant que dirigeant, DRH ou Daf, vous avez dû faire face aux dernières
+réformes d'ampleur, en matière de droit du travail, issues des ordonnances
+[...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilGestion - Finance
+
+Flat tax : les dividendes et plus-values sont-ils plus fortement imposés ?
+
+   Publié par Laurent Weiss le 12 mars 2018 - mis à jour à 09:20
+   Flat tax : les dividendes et plus-values sont-ils plus fortement
+   imposés ?
+
+La loi de finances pour 2018 prévoit la flat tax : un prélèvement global de
+30% sur les revenus de capitaux mobiliers et sur les plus-values de cession
+de titres réalisées à compter du 1er janvier 2018. Est-elle plus avantageuse
+que les modalités de taxation précédente ? Verdict.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   Tous les entrepreneurs sont concernés par la mesure. La loi de finances
+   pour 2018 a instauré la flat tax, encore appelée prélèvement
+   forfaitaire unique (PFU), qui modifie en profondeur la fiscalité des
+   revenus du capital mobilier (dividendes, intérêts) et les plus-values
+   mobilières (plus-values sur cession de titre notamment).
+
+   Le PFU consiste en une imposition à l'impôt sur le revenu à un taux
+   forfaitaire unique de 12,8% auquel s'ajoutent les prélèvements sociaux
+   de 17,2%. Ainsi, pour un taux global de 30%, l'imposition sera purgée.
+   Il est cependant à noter que la contribution sur les hauts revenus de
+   3% ou 4% reste en vigueur et vient donc le cas échéant se rajouter à la
+   flat tax.
+
+Quelles sont les conséquences de cette mesure pour les chefs d'entreprise ?
+
+   Ce nouveau système amène plus de simplicité dans l'approche de
+   l'évaluation de la taxation des opérations concernées. Les dispositifs
+   en vigueur étant relativement complexes :
+     * Pour la taxation des dividendes : application du barème progressif
+       de l'impôt sur le revenu sur la base de 60% du montant brut des
+       dividendes, et application des prélèvements sociaux au taux de
+       15,5% mais cette fois ci sur une base non abattue.
+
+     * Pour la taxation des plus-values, un système encore plus complexe :
+       taxation également au barème de l'impôt sur le revenu mais après
+       application sur la base taxable d'abattements progressifs pour
+       durée de détention :
+
+   - Abattements de droit commun allant de 50% à 65%,
+
+   - Dans certaines situations (cessions de titres de PME acquises dans
+   les 10 ans de la création...), application d'un abattement renforcé de
+   50%, 65% ou 85%,
+
+   - Déductibilité partielle de la CSG payée,
+
+   - Enfin pour des dirigeants partant à la retraite réalisant des
+   cessions de titres , possibilité de cumuler les abattements progressifs
+   avec un abattement fixe de 500 000 euros.
+
+   Il est cependant à noter que les contribuables pourront opter pour
+   l'imposition des dits revenus selon les modalités actuelles, cela
+   pouvant s'avérer plus favorable dans certaines situations. Attention
+   l'option est annuelle (à formuler lors du dépôt de la déclaration de
+   revenus) et globale, c'est-à-dire qu'elle s'applique sur l'ensemble des
+   revenus concernés (par exemple, il ne sera pas possible d'opter pour
+   l'application du barème progressif sur les dividendes et appliquer le
+   PFU sur les plus-values sur une même année d'imposition).
+
+   Il est également à noter qu'un nouvel abattement fixe de 500 000 euros
+   sur les plus-values réalisées par les dirigeants prenant leur retraite
+   est désormais applicable quelles que soient les modalités d'imposition
+   mais non cumulable avec les abattements progressifs le cas échéant.
+
+Est-ce vraiment intéressant ?
+
+   L'application de ce dispositif ayant pour effet dans la plupart des cas
+   de diminuer la taxation, il y a peut-être un risque de voir de nouveau
+   des sommes jusqu'alors soumises au régime des rémunérations se voir
+   réorientées vers un versement en dividendes, et ainsi priver les
+   organismes sociaux d'un certain nombre de recettes.
+
+   Sous des airs de relative simplicité, la possibilité offerte au
+   contribuable d'opter pour l'application du système jusqu'alors en
+   vigueur nécessite forcément de recourir à des simulations.
+
+   En effet, la possibilité d'appliquer sur les plus-values de cession les
+   abattements pour durée de détention peut être plus favorable que
+   l'application de la flat tax, mais sera-t-il judicieux alors d'opter
+   pour le barème progressif si l'on a par ailleurs reçu des dividendes
+   qui de facto, l'option étant globale, ne pourront bénéficier du PFU ?
+
+   Prenons l'exemple d'un contribuable dont la tranche marginale
+   d'imposition est de 41%. Ce contribuable perçoit en 2018 des dividendes
+   et réalise des plus-values sur des cessions de titres qu'il détenait
+   depuis plus de 8 ans à la date de cession (par conséquent acquis avant
+   le 1/1/2018)
+
+   Pour les dividendes : dans le cadre de l'application du barème
+   progressif, le taux d'imposition serait de 24,60% (41%*60% puisque
+   abattement de 40% applicable). En appliquant la flat tax, le taux
+   serait de 12,80%. Avantage donc à la flat tax.
+
+   Pour les plus-values, si le dirigeant est éligible à l'abattement pour
+   durée de détention de 65% puisque détenus depuis plus de 8 ans,
+   l'avantage revient également à la flat tax avec un taux d'imposition de
+   12,80% contre 14,35% (41%*35%) pour le barème progressif.
+
+   Si le dirigeant est éligible à l'abattement renforcé de 85%, les
+   plus-values seront imposées à hauteur de 6,15% (41%*15%) avec le barème
+   progressif, contre 12,80% avec la flat tax. Avantage donc ici au barème
+   progressif.
+   L'auteur
+   Laurent Weiss est Expert-comptable associé du cabinet SADEC AKLEYS,
+   entité présente dans le grand quart Nord Est sur 18 sites. Arrivé au
+   sein du groupe en 1992, il dirige le bureau Troyen. Il assume également
+   les fonctions de Directeur Général depuis juillet 2014.
+
+   Je m'abonne
+
+     * dividende
+
+Pub
+
+Laurent Weiss
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+Tout savoir sur le financement participatif pour les entreprises -
+Alternative ou complément au crédit bancaire
+
+   Tout savoir sur le financement participatif pour les entreprises -
+   Alternative ou complément au crédit bancaire
+
+Par Lendopolis le 20 juil. 2017
+
+Pour un dirigeant souhaitant developper son entreprise trouver un financement
+est souvent synonyme de difficultes portes fermees paperasse [...]
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Entreprise : avez-vous anticipé sa transmission ?
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi27 août 2019
+
+   Budget 2018 : 10 mesures qui frappent la fiscalité des TPE et des PME
+
+Budget 2018 : 10 mesures qui frappent la fiscalité des TPE et des PME
+
+   Budget 2018 : 10 mesures qui frappent la fiscalité des TPE et des PME
+
+Par Mallory Lalanne11 janv. 2018
+
+   Dirigeants d'entreprise, optimisez fiscalement vos revenus
+
+Dirigeants d'entreprise, optimisez fiscalement vos revenus
+
+   Dirigeants d'entreprise, optimisez fiscalement vos revenus
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi3 juin 2019
+
+   Les 5 leçons du Blockchain Day
+
+Les 5 leçons du Blockchain Day
+
+   Les 5 leçons du Blockchain Day
+
+Par Stéphanie Marius15 oct. 2018
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Gestion - Finance
+
+10 incroyables maisons de chefs d'entreprise
+
+   10 incroyables maisons de chefs d'entreprise
+
+Par La rédaction le 30 août 2019
+
+Ce sont des chefs d'entreprise mais avec la particularité d'être fortunés.
+Ile, hôtel particulier ou même musée réhabilité en maison, rien n'est [...]
+
+   Gestion - Finance
+
+Entreprise : avez-vous anticipé sa transmission ?
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi le 27 août 2019
+
+Vous êtes à la tête de votre société depuis des années et vous envisagez
+enfin de céder votre place. Vous vous interrogez sur la reprise de [...]
+
+   Gestion - Finance
+
+Scale-up : passer de PME à ETI sans accroc... Y a-t-il un pilote dans l'avion
+?
+
+   Scale-up : passer de PME à ETI sans accroc... Y a-t-il un pilote dans
+   l'avion ?
+
+Par Eve Mennesson et Camille George le 26 août 2019
+
+Comment accompagner la transformation de son entreprise dans un contexte de
+scale-up pour la faire passer d'un statut de PME à celui d'ETI sans [...]
+
+   Gestion - Finance
+
+PME, mettez en place une politique de remboursement des frais professionnels
+
+   PME, mettez en place une politique de remboursement des frais
+   professionnels
+
+Par Anne Leleu-Eté du cabinet Ale Avocats le 9 juil. 2019
+
+Dans le cadre d'un contrôle, les agents de l'Urssaf s'intéressent aux
+dépenses exonérées de cotisations sociales. Les frais professionnels figurent
+[...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
+   #alternate Flux rss des articles sur le thème : Création d'entreprise
+   Flux rss des articles sur le thème : Start-up Flux rss des articles sur
+   le thème : Actualités Flux rss des articles sur le thème : Lifestyle
+   Flux rss des articles sur le thème : Gestion - Finance Flux rss des
+   articles sur le thème : Juridique Flux rss des articles sur le thème :
+   RH - Management Flux rss des articles sur le thème : Marketing - Vente
+   Flux rss des articles sur le thème : We Are Start-Up Flux rss des
+   articles sur le thème : Export - International Flux rss des articles
+   sur le thème : Flotte auto Flux rss des articles sur le thème : Digital
+   - Innovation Flux rss des articles sur le thème : Market Place Flux rss
+   du site publisher
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WH9J3VR
+
+Chefdentreprise.com Le site des dirigeants de TPE et PME
+
+     * Thématiques
+          + Actualités
+          + Gestion/Finance
+          + Digital/Innovation
+          + Marketing/Vente
+          + RH/Management
+          + Juridique
+          + Export/International
+          + Création d'entreprise
+          + Auto
+     * Vos outils
+          +
+               o Cercle des experts
+               o Livres blancs
+               o Vidéos
+               o Glossaire
+               o Fiches méthodes
+               o Fiches pratiques
+               o Annuaire des sociétés
+          + Events
+               o Be a Boss
+               o Grand prix des chefs d'entreprise
+          + Nos formations
+
+   Choisir l’actu selon votre profil
+     * Logo Chef d'Entreprise
+     * Logo Artisans mag
+     * Logo Commerce
+     * Logo Fiches pratiques
+
+Chefdentreprise.com
+
+   Recherche
+   Se connecter
+   __________________________________________________ Rechercher
+
+   S'abonner
+
+     * Engagements sécurité routière
+     * Cercle des experts
+     * Livres blancs
+     * Vidéos
+     * Vos outils
+          + Glossaire
+          + Livres blancs
+          + Fiches pratiques
+     * Vos events
+          + Be a Boss
+          + Grand prix des chefs d'entreprise
+     * Annuaire des sociétés
+     * Nos formations
+
+     * Actualités
+     * Start-up
+     * Création d'entreprise
+     * RH/Management
+     * Marketing/Vente
+     * Digital/Innovation
+     * Export/International
+     * Gestion/Finance
+     * Juridique
+     * Flotte auto
+
+Vous avez déjà un compte
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je valide
+
+Vous n'avez pas encore de compte
+
+   Prenez 1 minute pour vous inscrire et boostez votre activité en
+   rejoignant la communauté Chefdentreprise.com !
+   Je m'inscris
+
+   Fermeture
+
+Je feuillette le magazine
+
+Je suis abonné
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ ________ [ ] Rester connecté ? Mot de passe
+   oublié ?
+
+   Je consulte le mag
+
+Je ne suis pas abonné
+
+Découvrez gratuitement un extrait du magazine E-marketing !
+
+   Facebook
+   Linkedin
+   Twitter
+   Google +
+   ou
+
+   ____________________ Cela ne vous engage pas à l’achat
+
+   Je découvre le mag
+
+   Fermeture
+
+   Emarketing.fr
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+
+Chaque matin, l'essentiel de l'actu
+
+     * L'actualité de votre métier chaque jour
+     * Consultable sur PC et mobiles
+
+   100% sécurisé, votre adresse ne sera pas diffusée
+
+   ____________________ Je m'inscris
+
+
+   Fermeture
+
+J’ai oublié mon mot de passe
+
+   Afin de recevoir un lien de réinitialisation, veuillez renseigner votre
+   adresse e-mail:
+
+   ____________________ Je valide
+
+
+   Fermeture
+
+   Votre demande a bien été prise en compte. Veuillez regarder votre boîte
+   mails.
+
+   Fermeture
+
+Partagez cet article par email
+
+   ____________________ ____________________ ____________________
+
+
+   Envoyer
+
+   Fermeture
+
+Votre message a bien été envoyé!
+
+Pub
+
+   En ce moment En ce moment
+     * GRAND PRIX DES CHEFS D'ENTREPRISES 2019
+
+AccueilActualités
+
+Les cessions et transmissions de PME progressent en 2018
+
+   Publié par Pierre Lelièvre le 27 nov. 2018 - mis à jour à 16:48
+   Les cessions et transmissions de PME progressent en 2018
+   © Olivier Le Moal - Fotolia
+
+La tendance à la reprise des cessions et transmissions amorcée en 2017 se
+confirme, selon le baromètre de la transmission de PME du CNCFA et Epsilon
+Research. Le prix d'achat des PME progresse également à près de 10 fois
+l'Ebitda en 2018.
+
+   Je m'abonne
+     *
+     * Imprimer
+     *
+
+   L'environnement macroéconomique et la politique pro business. Voilà
+   deux des raisons qui expliquent, en partie, la reprise du marché des
+   cessions-transmissions amorcée en 2017. D'après le baromètre de la
+   transmission des PME en France, dévoilé mardi 27 novembre 2018 par le
+   Syndicat des professionnels du conseil en fusion, cession, acquisition
+   et financement d'entreprise (CNCFA) et Epsilon Research, le cycle
+   baissier est terminé. "Après une décroissance de l'ordre de 3 % par an
+   depuis 2009, on est cette année entre 1 et 2 % de croissance. Cela
+   confirme ce que nous constations en 2017", présente Jean-Marc Raza,
+   président du CNCFA.
+
+   Dans le détail, les auteurs du baromètre estiment que le marché de la
+   transmission-cession des PME en 2018 a concerné près de 4 600 cas, dont
+   3 400 cessions et 1 200 transmissions intrafamiliales. "Le marché caché
+   est assez important néanmoins, relativise le président du CNCFA. On
+   estime les cessions à 3 400 alors qu'il n'en apparaît que 500 dans nos
+   données".
+
+   En effet, ces estimations doivent être prises avec prudence en raison
+   de l'absence de données précises sur la taille réelle du marché. En
+   raison de l'absence de statistiques nationales exhaustives, les
+   résultats du baromètre continuent d'être analysés sur le marché visible
+   dont les opérations sont recensées dans les bases de données
+   professionnelles.
+
+   Concernant les entreprises transmises dans le cercle familial, le
+   baromètre illustre que ce mode de transmission n'est pas le mode
+   privilégié par les dirigeants français. Si elles ont progressé de 0,15
+   point entre 2010 et 2014, elles ne concernent qu'un quart des
+   transmissions en 2018. Au trois-quarts, les entreprises sont cédées à
+   des acquéreurs extérieurs à la famille du dirigeant.
+
+   À l'inverse, le capital-transmission est très dynamique avec une
+   augmentation de + 16 % en valeur et + 18 % en volume. Les cas de LBO
+   sur des transactions inférieures à 50 millions d'euros constituent 54 %
+   du total réalisé dans la zone euro en 2017, loin devant l'Allemagne
+   (12,7 %) et l'Italie (7,9 %).
+
+   Le capital-transmission représente 30 % des acquisitions de PME mais
+   varie en fonction de la taille de l'entreprise. Ainsi, il est beaucoup
+   plus manifeste auprès des entreprises réalisant entre 5 et 15 millions
+   de CA avec une hausse de 9 points entre 2017 et 2018, même s'il reste
+   le plus élevé (44 %) sur le segment des entreprises réalisant entre 15
+   et 50 millions de CA.
+
+Des prix toujours élevés
+
+   Du côté des prix des PME, l'indice Argos Mid-Market reste à des niveaux
+   historiquement élevés. L'indicateur mesure l'évolution des prix des
+   sociétés non cotées du marché (15 à 500 millions d'euros) dans la zone
+   euro. Il a progressé de 55 % depuis 2013.
+
+   Pour les PME, les résultats montrent également une tendance à la
+   hausse, sous l'impulsion des fonds d'investissement et des acquéreurs
+   industriels. Les prix payés sur les trois premiers trimestres de 2018
+   montrent des prix d'achat qui se situent entre 9,3 et 10 fois l'Ebitda.
+   "Sur douze mois, le prix des PME de 15 à 50 millions de chiffre
+   d'affaires a augmenté de 13 %, c'est plus qu'au niveau de la zone
+   euro", précise Grégoire Buisson, président d'Epsilon Research.
+
+   Ces prix hauts s'expliquent notamment par deux raisons. D'une part,
+   l'appétence des industriels qui interviennent davantage sur les PME
+   réalisant entre 15 et 50 millions de CA et d'autre part, les acquéreurs
+   étrangers, friands des PME françaises, quelle que soient leur taille.
+   "Ils sont en particulier très actifs sur les petites PME réalisant
+   entre 1 à 5 millions de CA", ajoute-t-il.
+
+   Ensuite, les conditions financières favorables, la tendance à la hausse
+   du marché et le déséquilibre entre l'offre et la demande tirent les
+   prix vers le haut, rappelle les auteurs du baromètre.
+
+   Il n'empêche, le marché reste polarisé entre des PME très attractives
+   et performantes, qui trustent la concurrence lors des cessions, et les
+   PME moins connues, installées sur des marchés plus anonymes et qui
+   n'arrivent pas à attirer les potentiels acheteurs. Un constat qui fait
+   dire à Grégoire Buisson que "le problème ne vient pas du côté des
+   acheteurs, ils sont très nombreux. Il vient surtout des PME qui ne sont
+   pas transmissibles du fait d'une insuffisance de préparation ou de la
+   fragilité du parc de PME".
+   À lire aussi : 4 mesures pour réduire le coût de votre transmission
+   d'entreprise
+   Je m'abonne
+
+     * Fonds d'investissement
+     * Cession entreprise
+     * Transmission entreprise
+
+Pub
+
+   Pierre Lelièvre
+
+Pierre Lelièvre
+
+Journaliste
+
+     *
+
+   Depuis juin 2016, je suis journaliste pour Chef d’Entreprise, Commerce
+   magazine, Artisans mag’. Intéressé par le monde de l’entreprise,
+   j’écris sur tous [...]...
+   Voir la fiche
+
+   Céline Tridon,<br/>rédactrice en chef
+
+   Céline Tridon,
+   rédactrice en chef
+
+La Lettre de la Rédac
+
+Chaque matin, l'essentiel de l'actu
+
+   ____________________ Ok
+
+   [X] Chef d'Entreprise Newsletter
+
+   [ ] Artisans Newsletter
+
+   [ ] Commerce Newsletter
+
+   [ ] Event
+
+   [ ] Event
+
+   [ ] Event
+
+Pub
+
+La rédaction vous recommande
+
+Tout savoir sur le financement participatif pour les entreprises -
+Alternative ou complément au crédit bancaire
+
+   Tout savoir sur le financement participatif pour les entreprises -
+   Alternative ou complément au crédit bancaire
+
+Par Lendopolis le 20 juil. 2017
+
+Pour un dirigeant souhaitant developper son entreprise trouver un financement
+est souvent synonyme de difficultes portes fermees paperasse [...]
+
+   Marché M&A des PME françaises : un rebond de bon augure
+
+Marché M&A des PME françaises : un rebond de bon augure
+
+   Marché M&A des PME françaises : un rebond de bon augure
+
+Par Carine Guicheteau28 nov. 2017
+
+   La reprise d'entreprise séduit les cadres
+
+La reprise d'entreprise séduit les cadres
+
+   La reprise d'entreprise séduit les cadres
+
+Par Céline Tridon27 juin 2019
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Entreprise : avez-vous anticipé sa transmission ?
+
+   Entreprise : avez-vous anticipé sa transmission ?
+
+Par Gérard Picovschi, avocat chez Avocats Picovschi27 août 2019
+
+   Business du sexe en France, un fantasme économique avant tout
+
+Business du sexe en France, un fantasme économique avant tout
+
+   Business du sexe en France, un fantasme économique avant tout
+
+Par Mathieu Viviani5 sept. 2019
+
+Cercle des experts
+
+   Voir plus d'articles
+   Comment "uberiser" son entreprise en arrêtant [...] Comment
+
+Comment "uberiser" son entreprise en arrêtant [...]
+
+   Money20/20 : la plus grande rencontre Fintech [...] Money20/20 : la
+   plus grande rencontre Fintech [...]
+
+Money20/20 : la plus grande rencontre Fintech [...]
+
+   Top 7 des outils qui vont vous faire aimer [...] Top 7 des outils qui
+   vont vous faire aimer [...]
+
+Top 7 des outils qui vont vous faire aimer [...]
+
+   Comment organiser son temps pour une prospection [...] Comment
+   organiser son temps pour une prospection [...]
+
+Comment organiser son temps pour une prospection [...]
+
+   Barème notes de frais kilométriques : le [...] Barème notes de frais
+   kilométriques : le [...]
+
+Barème notes de frais kilométriques : le [...]
+
+   Chef d'Entreprise : votre guide ultime pour [...] Chef d'Entreprise :
+   votre guide ultime pour [...]
+
+Chef d'Entreprise : votre guide ultime pour [...]
+
+Sur le même sujet
+
+   Actualités
+
+La Journée de la Femme Digitale se déploie jusqu'en Afrique
+
+   La Journée de la Femme Digitale se déploie jusqu'en Afrique
+
+Par Céline Tridon le 15 oct. 2019
+
+La Journée de la Femme Digitale a dévoilé les temps forts de sa 8ème édition,
+qui doit se tenir le 21 avril 2020 à Paris et en juillet 2020 [...]
+
+   Actualités
+
+Comment les Européennes vivent-elles l'entrepreneuriat ?
+
+   Comment les Européennes vivent-elles l'entrepreneuriat ?
+
+Par Mathieu Viviani le 14 oct. 2019
+
+Lundi 2 octobre 2019, la Caisse d'Epargne et le Credoc ont publié une étude
+qui détaille comment les femmes entrepreneures des principaux pays [...]
+
+   Actualités
+
+J'aime ma boite : 17e édition
+
+   J'aime ma boite : 17e édition
+
+Par Céline Tridon le 11 oct. 2019
+
+Un jour dans l'année pour fêter son entreprise, tel est le principe de
+"J'aime ma boite". La 17e édition de cet événement tourné vers la
+convivialité [...]
+
+   Actualités
+
+Le concours 100 Jours pour Entreprendre rejoint le Moovjee
+
+   Le concours 100 Jours pour Entreprendre rejoint le Moovjee
+
+Par Mathieu Viviani le 9 oct. 2019
+
+Mercredi 2 octobre 2019, les équipes du Moovjee et de 100 Jours pour
+Entreprendre ont annoncé leur fusion. Explications de ce rapprochement [...]
+
+Cliquez ici pour afficher plus d'articles
+
+   Loading
+
+Recevez l'actualité Chefdentreprise.com
+
+Abonnez-vous à notre newsletter
+
+   __________________________________________________ S'inscrire loading
+
+Chefdentreprise.com
+
+À propos
+
+   Chefdentreprise.com et le magazine Chef d'entreprise sont les médias
+   leader en France de l’information B2B et de l’animation de la
+   communauté professionnelle constituée par les décideurs administratifs,
+   financiers et RH. Deux outils indispensables pour les pros de la
+   gestion et pour les prestataires de la filière administrative,
+   financière et RH.
+
+Sites du groupe
+
+     * Actionco.fr
+     * E-marketing.fr
+     * Ecommercemag.fr
+     * RelationClientMag.fr
+     * Chefdentreprise.com
+     * Décision-Achats.fr
+     * DAF-mag.fr
+     * Carrierecommerciale.fr
+     * Netmedia.group
+     * We-factoryandco.fr
+
+Editialis Régie
+
+     * Communiquer sur le réseau Chefdentreprise.com
+
+Partenaires
+
+     * Manager GO! Directeurs financiers
+
+Magazine
+
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==] Voir
+   les offres
+
+     * Contact
+     * CGU
+     * Politique de confidentialité & Mentions légales
+     * Archives
+     * © 2019 - Chefdentreprise.com
